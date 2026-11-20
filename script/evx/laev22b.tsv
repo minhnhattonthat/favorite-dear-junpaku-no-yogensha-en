@@ -4,5 +4,5 @@ laev22b.00A2	サヴィオ通常		unit name (32-byte field)
 laev22b.00DE	レイラ	Leyla	unit name (32-byte field)
 laev22b.04A8	レイラ	Leyla	speaker
 laev22b.04BD	まさか……あなたもセレニスに利用されているの？		text
-laev22b.04FA	サヴィオ		speaker
+laev22b.04FA	サヴィオ	Savio	speaker
 laev22b.0511	利用されているつもりはない。{n}あいつは俺にこの鎧をくれた……。{n}俺に新たな力をくれたんだ……！		text

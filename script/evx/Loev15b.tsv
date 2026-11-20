@@ -1,9 +1,9 @@
 id	jp	en	notes
 Loev15b.0002	テロ		dev label (guess: not shown)
-Loev15b.00A2	ルディ		unit name (32-byte field)
-Loev15b.00DE	ミリシア		unit name (32-byte field)
-Loev15b.011A	ミリシア		unit name (32-byte field)
-Loev15b.0156	ミリシア		unit name (32-byte field)
+Loev15b.00A2	ルディ	Rudi	unit name (32-byte field)
+Loev15b.00DE	ミリシア	Militia	unit name (32-byte field)
+Loev15b.011A	ミリシア	Militia	unit name (32-byte field)
+Loev15b.0156	ミリシア	Militia	unit name (32-byte field)
 Loev15b.0192	サヴィア	Savia	unit name (32-byte field)
 Loev15b.0524	サヴィア	Savia	speaker
 Loev15b.053B	ルディね……。		text

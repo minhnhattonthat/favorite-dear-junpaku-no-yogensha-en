@@ -2,15 +2,15 @@ id	jp	en	notes
 laev10.00A2	レイラ	Leyla	unit name (32-byte field)
 laev10.00DE	皇帝		unit name (32-byte field)
 laev10.011A	アルベリック	Alberic	unit name (32-byte field)
-laev10.0156	帝国兵		unit name (32-byte field)
-laev10.0192	帝国兵		unit name (32-byte field)
-laev10.01CE	帝国兵		unit name (32-byte field)
-laev10.020A	帝国兵		unit name (32-byte field)
+laev10.0156	帝国兵	Soldier	unit name (32-byte field)
+laev10.0192	帝国兵	Soldier	unit name (32-byte field)
+laev10.01CE	帝国兵	Soldier	unit name (32-byte field)
+laev10.020A	帝国兵	Soldier	unit name (32-byte field)
 laev10.0246	セレニス	Serenis	unit name (32-byte field)
-laev10.0282	帝国兵		unit name (32-byte field)
-laev10.02BE	帝国兵		unit name (32-byte field)
-laev10.02FA	帝国兵		unit name (32-byte field)
-laev10.0336	帝国兵		unit name (32-byte field)
+laev10.0282	帝国兵	Soldier	unit name (32-byte field)
+laev10.02BE	帝国兵	Soldier	unit name (32-byte field)
+laev10.02FA	帝国兵	Soldier	unit name (32-byte field)
+laev10.0336	帝国兵	Soldier	unit name (32-byte field)
 laev10.0590	レイラ	Leyla	speaker
 laev10.05A5	クロイツフェルドがいない？{n}でも、今なら皇帝を……！！		text
 laev10.05EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -20,7 +20,7 @@ laev10.08F9	これはレイラ……その姿も美しいな……。		text
 laev10.093E	しかし……物騒な真似は慎んだ方がいい。		text
 laev10.0983	皇帝の暗殺など、もってのほかだ……。		text
 laev10.09D2	レイラ	Leyla	speaker
-laev10.09E7	くっ……。		text
+laev10.09E7	くっ……。	Ngh...	text
 laev10.0A48	アルベリック	Alberic	speaker
 laev10.0A63	美しい君を反逆の罪で裁くの悲しいが、{n}この場で切り捨てねば{n}また逃げ出されてしまいそうだ……。		text
 laev10.0AE0	どうも君には協力者が多いようだからな。		text

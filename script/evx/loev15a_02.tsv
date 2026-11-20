@@ -1,6 +1,6 @@
 id	jp	en	notes
 loev15a_02.0002	サヴィア	Savia	dev label (guess: not shown)
-loev15a_02.00A2	ルディ		unit name (32-byte field)
+loev15a_02.00A2	ルディ	Rudi	unit name (32-byte field)
 loev15a_02.00DE	サヴィア	Savia	unit name (32-byte field)
 loev15a_02.04FC	サヴィア	Savia	speaker
 loev15a_02.0513	ルディ……{n}サヴィオが次に戦いに向かう場所が{n}決まったわ……。		text

@@ -1,13 +1,13 @@
 id	jp	en	notes
 Feev04b.0002	帝国とアルベリック（アルベリッ		dev label (guess: not shown)
 Feev04b.00A2	フェイン	Fein	unit name (32-byte field)
-Feev04b.00DE	帝国歩兵		unit name (32-byte field)
-Feev04b.011A	帝国歩兵		unit name (32-byte field)
-Feev04b.0156	帝国歩兵		unit name (32-byte field)
-Feev04b.0192	帝国歩兵		unit name (32-byte field)
+Feev04b.00DE	帝国歩兵	Foot Soldier	unit name (32-byte field)
+Feev04b.011A	帝国歩兵	Foot Soldier	unit name (32-byte field)
+Feev04b.0156	帝国歩兵	Foot Soldier	unit name (32-byte field)
+Feev04b.0192	帝国歩兵	Foot Soldier	unit name (32-byte field)
 Feev04b.01CE	アルベリック	Alberic	unit name (32-byte field)
 Feev04b.05C8	帝国の騎士		speaker
-Feev04b.05E1	なんだ貴様は？		text
+Feev04b.05E1	なんだ貴様は？	Who are you?	text
 Feev04b.05FE	フェイン	Fein	speaker
 Feev04b.0615	ロッジを……よくも……		text
 Feev04b.063A	帝国の騎士		speaker
@@ -17,11 +17,11 @@ Feev04b.06B5	貴様！！		text
 Feev04b.081C	帝国の騎士		speaker
 Feev04b.0835	お前らの汚れた血を吸いすぎて{n}私の剣も気分が悪いと言っている……。		text
 Feev04b.0886	この男の始末はお前らにまかせるぞ。		text
-Feev04b.08CB	帝国歩兵		speaker
+Feev04b.08CB	帝国歩兵	Foot Soldier	speaker
 Feev04b.08E2	はっ、アルベリック様。		text
 Feev04b.0947	フェイン	Fein	speaker
 Feev04b.095E	貴様！　逃げるか！		text
-Feev04b.097F	帝国歩兵		speaker
+Feev04b.097F	帝国歩兵	Foot Soldier	speaker
 Feev04b.0996	ふん、お前ごとき{n}アルベリック様のお手をわずらわせる{n}までもない		text
 Feev04b.09E5	フェイン	Fein	speaker
 Feev04b.09FC	お前ら……{n}一人残らず命はないと思え！		text

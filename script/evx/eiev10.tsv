@@ -2,8 +2,8 @@ id	jp	en	notes
 eiev10.0002	聖都陥落		dev label (guess: not shown)
 eiev10.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev10.00DE	セレニス	Serenis	unit name (32-byte field)
-eiev10.011A	帝国騎士		unit name (32-byte field)
-eiev10.0156	帝国騎士		unit name (32-byte field)
+eiev10.011A	帝国騎士	Knight	unit name (32-byte field)
+eiev10.0156	帝国騎士	Knight	unit name (32-byte field)
 eiev10.0540	アイリーン	Irene	speaker
 eiev10.0559	姉さん……。		text
 eiev10.0584	セレニス	Serenis	speaker

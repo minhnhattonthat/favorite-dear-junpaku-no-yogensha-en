@@ -1,7 +1,7 @@
 id	jp	en	notes
 feev02_03.0002	ギルド1-2		dev label (guess: not shown)
 feev02_03.00A2	フェイン	Fein	unit name (32-byte field)
-feev02_03.00DE	ウィザード		unit name (32-byte field)
+feev02_03.00DE	ウィザード	Wizard	unit name (32-byte field)
 feev02_03.011A	モブ１		unit name (32-byte field)
 feev02_03.0156	モブ２		unit name (32-byte field)
 feev02_03.0192	椅子１		unit name (32-byte field)

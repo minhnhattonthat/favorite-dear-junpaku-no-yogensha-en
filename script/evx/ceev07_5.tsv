@@ -1,8 +1,8 @@
 id	jp	en	notes
 ceev07_5.00A2	レイラ	Leyla	unit name (32-byte field)
-ceev07_5.00DE	ファントム		unit name (32-byte field)
-ceev07_5.011A	ファントム		unit name (32-byte field)
-ceev07_5.0156	ファントム		unit name (32-byte field)
+ceev07_5.00DE	ファントム	Phantom	unit name (32-byte field)
+ceev07_5.011A	ファントム	Phantom	unit name (32-byte field)
+ceev07_5.0156	ファントム	Phantom	unit name (32-byte field)
 ceev07_5.0498	レイラ	Leyla	speaker
 ceev07_5.04AD	このあたりになにかあるの？		text
 ceev07_5.054E	レイラ	Leyla	speaker

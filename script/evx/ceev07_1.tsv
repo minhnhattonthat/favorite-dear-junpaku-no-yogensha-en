@@ -1,8 +1,8 @@
 id	jp	en	notes
 ceev07_1.00A2	クライヴ	Clive	unit name (32-byte field)
-ceev07_1.00DE	ファントム		unit name (32-byte field)
-ceev07_1.011A	ファントム		unit name (32-byte field)
-ceev07_1.0156	ファントム		unit name (32-byte field)
+ceev07_1.00DE	ファントム	Phantom	unit name (32-byte field)
+ceev07_1.011A	ファントム	Phantom	unit name (32-byte field)
+ceev07_1.0156	ファントム	Phantom	unit name (32-byte field)
 ceev07_1.0498	クライヴ	Clive	speaker
 ceev07_1.04AF	ここか……？		text
 ceev07_1.0542	クライヴ	Clive	speaker

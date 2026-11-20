@@ -35,7 +35,7 @@ BMsgQ101.06D8	いい夢が見られるといいですね。	I hope you have swee
 BMsgQ101.06FA	そうだな……。	I suppose...	
 BMsgQ101.070A	お疲れさま	Good work	
 BMsgQ101.0716	お疲れさまでした。	Thank you for your hard work.	
-BMsgQ101.072C	ああ……。{n}お前こそ、疲れてはいないのか？		
+BMsgQ101.072C	ああ……。{n}お前こそ、疲れてはいないのか？	Yeah... What about you? Aren't you tired?	
 BMsgQ101.0758	眠るのは好き？	Like sleeping?	
 BMsgQ101.0768	眠ることは好きですか？	Do you like sleeping?	
 BMsgQ101.0782	へんなことを聞くやつだ……。{wait}{clear}そんなこと、考えたこともないがな。	You ask strange things...{wait}{clear}I've never even thought about it.	
@@ -65,7 +65,7 @@ BMsgQ101.0B2A	まだ続けるのですか？	Are you going to keep going?
 BMsgQ101.0B42	ああ、まだはじめたばかりだ。{n}続けなければ意味がない……。	Yeah, I've only just started. It's pointless{n}if I don't keep at it...	
 BMsgQ101.0B7E	いつもありがとう	Thank you	
 BMsgQ101.0B90	いつもありがとうございます。	Thank you for everything.	
-BMsgQ101.0BB0	へんなことを言うのだな……。{n}べつにお前だけのために戦っているわけじゃない。		
+BMsgQ101.0BB0	へんなことを言うのだな……。{n}べつにお前だけのために戦っているわけじゃない。	Strange thing to say... I'm not fighting{n}just for your sake.	
 BMsgQ101.0BFE	修行はつらい？	Hard training?	
 BMsgQ101.0C0E	修行はつらいこともあると思うのですが……。	I imagine training can be hard at times...	
 BMsgQ101.0C3C	そんなことを言っていたら、修行にならないだろう。{n}敵にやられてからでは、遅いんだ……。	Talk like that and it isn't training. By the{n}time an enemy beats you, it's too late...	
@@ -92,7 +92,7 @@ BMsgQ101.0EFE	修行が身について成果が出ると、{n}うれしいもの
 BMsgQ101.0F38	そうだな……。{n}そうでなければ修行の意味もない。	I suppose... Otherwise there's no point in{n}training.	
 BMsgQ101.0F6A	邪魔でしょうか？	Am I a bother?	
 BMsgQ101.0F7C	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
-BMsgQ101.0FAA	お前はいつも、{n}そう思っていながら、来るのだな。		
+BMsgQ101.0FAA	お前はいつも、{n}そう思っていながら、来るのだな。	You always think that, and you come anyway.	
 BMsgQ101.0FDC	好きなことは？	Favorite thing?	
 BMsgQ101.0FEC	なにか好きなことはありますか？	Is there anything you like to do?	
 BMsgQ101.100E	そんなことは考えたこともない……。	I've never even thought about it...	
@@ -149,7 +149,7 @@ BMsgQ101.15C8	どうか、無事に戻ってきてください。	Please come ba
 BMsgQ101.15EE	……ああ……わかっている……。	...Yeah... I know...	
 BMsgQ101.160E	どきどき	Heart pounding	
 BMsgQ101.1618	どきどきしてきました……。	My heart's starting to pound...	
-BMsgQ101.1636	お前が落ち着かなくて、どうする。		
+BMsgQ101.1636	お前が落ち着かなくて、どうする。	What good is it if you can't stay calm?	
 BMsgQ101.1658	すみません！	I'm sorry!	
 BMsgQ101.1666	すみません！{n}私がちゃんと考えてなくて……。	I'm sorry! I didn't think it through...	
 BMsgQ101.1696	……これは……自分の力不足だ……。	...This is... because I wasn't strong{n}enough...	
@@ -158,7 +158,7 @@ BMsgQ101.16CA	大丈夫ですか？{n}しっかりしてください。	Are you 
 BMsgQ101.16F4	そんなにさわぐことじゃない……。	It's nothing to make a fuss about...	
 BMsgQ101.1716	ありがとう	Thank you	
 BMsgQ101.1722	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
-BMsgQ101.1772	べつにお前のためになど……。		
+BMsgQ101.1772	べつにお前のためになど……。	It's not as if I did it for you...	
 BMsgQ101.1790	助けられなくて	Couldn't help	
 BMsgQ101.17A0	助けてあげられなくて、すみませんでした。	I'm sorry I couldn't help you.	
 BMsgQ101.17CC	しかたのないことだ……。	It can't be helped...	
@@ -167,7 +167,7 @@ BMsgQ101.17F8	アイテムなどの他に、{n}私が出来ることをしたい
 BMsgQ101.1846	そんなに心配しないでくれ……。	Don't worry so much...	
 BMsgQ101.1866	無理をさせて……	Pushed too hard	
 BMsgQ101.1878	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。	I pushed you so hard that it came to this,{n}didn't I?{wait}{clear}I'm sorry.	
-BMsgQ101.18CC	……お前にあやまられても……。		
+BMsgQ101.18CC	……お前にあやまられても……。	...Even if you apologize to me...	
 BMsgQ101.18EC	お願いばかり	Asking too much	
 BMsgQ101.18FA	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
 BMsgQ101.195E	いや……そんなことは……。	No... That's not...	

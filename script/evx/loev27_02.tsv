@@ -1,18 +1,18 @@
 id	jp	en	notes
 loev27_02.0002	聖母2		dev label (guess: not shown)
-loev27_02.00A2	ルディ		unit name (32-byte field)
+loev27_02.00A2	ルディ	Rudi	unit name (32-byte field)
 loev27_02.00DE	聖母	Holy Mother	unit name (32-byte field)
 loev27_02.011A	イオン	Ion	unit name (32-byte field)
-loev27_02.04D8	ルディ		speaker
+loev27_02.04D8	ルディ	Rudi	speaker
 loev27_02.04ED	お前！　聖母様になにをっ！		text
 loev27_02.052A	イオン	Ion	speaker
 loev27_02.053F	…………。	.....	text
-loev27_02.05F8	ルディ		speaker
+loev27_02.05F8	ルディ	Rudi	speaker
 loev27_02.060D	聖母様！		text
 loev27_02.0644	聖母	Holy Mother	speaker
 loev27_02.0657	ルディ……{n}……魔石を奪われてしまいました。		text
 loev27_02.0692	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
 loev27_02.0707	そうなってしまっては、世界は破滅してしまいます。		text
 loev27_02.0746	ルディ……どうか世界を守ってください。{n}そして、天使様の助けになってあげてください……。		text
-loev27_02.07AD	ルディ		speaker
+loev27_02.07AD	ルディ	Rudi	speaker
 loev27_02.07C2	はい、わかりました……聖母様……。		text

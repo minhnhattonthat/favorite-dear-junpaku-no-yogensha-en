@@ -1,6 +1,6 @@
 id	jp	en	notes
 Loev07_02.0002	再会		dev label (guess: not shown)
-Loev07_02.00A2	ルディ		unit name (32-byte field)
+Loev07_02.00A2	ルディ	Rudi	unit name (32-byte field)
 Loev07_02.00DE	サヴィア	Savia	unit name (32-byte field)
 Loev07_02.053C	サヴィア	Savia	speaker
 Loev07_02.0553	ルディ！　来てくれたの？		text

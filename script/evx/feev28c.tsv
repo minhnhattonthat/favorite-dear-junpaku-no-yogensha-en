@@ -2,13 +2,13 @@ id	jp	en	notes
 feev28c.0002	アルベリック戦		dev label (guess: not shown)
 feev28c.00A2	フェイン	Fein	unit name (32-byte field)
 feev28c.00DE	アルベリック	Alberic	unit name (32-byte field)
-feev28c.011A	帝国騎士		unit name (32-byte field)
-feev28c.0156	帝国騎士		unit name (32-byte field)
-feev28c.0192	帝国騎士		unit name (32-byte field)
-feev28c.01CE	帝国騎士		unit name (32-byte field)
+feev28c.011A	帝国騎士	Knight	unit name (32-byte field)
+feev28c.0156	帝国騎士	Knight	unit name (32-byte field)
+feev28c.0192	帝国騎士	Knight	unit name (32-byte field)
+feev28c.01CE	帝国騎士	Knight	unit name (32-byte field)
 feev28c.04D8	アルベリック	Alberic	speaker
-feev28c.04F3	天使の勇者か……		text
-feev28c.0522	我が魔剣の餌食となりにきたな……		text
+feev28c.04F3	天使の勇者か……	The angel's hero...	text
+feev28c.0522	我が魔剣の餌食となりにきたな……	You've come to feed my cursed sword...	text
 feev28c.0551	フェイン	Fein	speaker
 feev28c.0568	ギルドを破壊し、{n}仲間の殺したお前を俺は{n}ゆるさんぞ……。		text
 feev28c.05B1	アルベリック	Alberic	speaker

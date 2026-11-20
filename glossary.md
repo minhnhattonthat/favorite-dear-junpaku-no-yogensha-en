@@ -113,6 +113,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | イリュウス | Ilyus | | town in Valese | |
 | ブレメース | Bremes | | ブレメース島 "Bremes Isle", where Fein lived after his childhood travels (BMsgQ000) | |
 | ファンラン | Fanlan | | Rudiere's home in Legrance (BMsgQ002) | |
+| グラニス | Granis | | reached by Legrance's main highway (BTL_EVT2) | |
+| リパ | Ripa | | a seaside spot Rocus likes (BTL_EVT3) | |
 | アザリア | Azaria | | 聖アザリア宮 the Palace of St. Azaria (Raphael's seat) | |
 
 ## Items / skills / terms
@@ -160,4 +162,10 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 - Hero chat files BMsgQnnn (b039-): topic / question / reply triples; topic labels are short menu entries (keep
   them to ~14 letters), the angel's question is polite, the reply in the hero's voice. BMsgQ000 Fein, 001 Clive
   (cold, おまえ "you"), 002 Rudiere (casual, おれ). B_ItemRes: heroes' replies when given an item (no speaker).
+- Battle lines BTL_EVTn (b046-): keep near the JP length (64 KB bank cap). Name tags (12 letters): 帝国兵 "Soldier",
+  帝国騎士 "Knight", 騎士隊長 "Captain", 帝国軍 "Imperials", 帝国歩兵 "Foot Soldier", 融合兵 "Fused Troop", 私兵 "Hired
+  Guard", 反乱兵 "Rebel", 王の女 "King's Lady" (Ravenruft's consort), 吸血鬼ブラス "Vampire Blas", ならず者 "Thug";
+  monsters: タイタン/ティタン both "Titan", ラルヴァ Larva, アロケン Allocen, ウジャト Udjat, ティンダロス Tindalos,
+  ロック Roc, ベルクート Berkut, デスウィドウ Death Widow. あいつの話 (a hero about the angel) -> "what the angel said".
+  Broken-speech monsters (オーク, ホブゴブリン, 融合兵 in katakana) are written in CAPITALS.
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

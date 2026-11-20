@@ -1,12 +1,12 @@
 id	jp	en	notes
 loev16.0002	兄妹		dev label (guess: not shown)
-loev16.00A2	ルディ		unit name (32-byte field)
+loev16.00A2	ルディ	Rudi	unit name (32-byte field)
 loev16.00DE	サヴィオ通常		unit name (32-byte field)
 loev16.011A	サヴィア	Savia	unit name (32-byte field)
 loev16.0156	サヴィオ変身		unit name (32-byte field)
 loev16.0550	ルディエール	Rudiere	speaker
 loev16.056B	やめろ！　サヴィオ！		text
-loev16.05EE	サヴィオ		speaker
+loev16.05EE	サヴィオ	Savio	speaker
 loev16.0605	お前か……{n}邪魔だてするな……		text
 loev16.0642	すべての人間どもに俺の苦しみを{n}分からせてやるのだ……		text
 loev16.0697	生きたまま焼かれた痛みを。{n}いまも続くこの痛みを……。		text
@@ -15,21 +15,21 @@ loev16.071F	俺をだました貴族も……{n}俺を生んだ世界も		text
 loev16.07B6	ルディエール	Rudiere	speaker
 loev16.07D1	おれはお前を止めなくちゃならないんだ。{n}その鎧をすてろ、サヴィオ。		text
 loev16.0832	鎧の呪いなんだ。{n}その痛みは。		text
-loev16.086F	サヴィオ		speaker
+loev16.086F	サヴィオ	Savio	speaker
 loev16.0886	う、うるさい、お前など……死ね。		text
 loev16.0A45	サヴィア	Savia	speaker
 loev16.0A5C	待ってサヴィオ！！		text
 loev16.0AF9	サヴィア	Savia	speaker
 loev16.0B10	お願い、もうやめましょう……。{n}こんな戦いは誰も救いはしない……		text
-loev16.0B6F	サヴィオ		speaker
+loev16.0B6F	サヴィオ	Savio	speaker
 loev16.0B86	どけ……サヴィア。		text
 loev16.0BB7	サヴィア	Savia	speaker
 loev16.0BCE	お願い鎧を……鎧をとって……{n}その鎧があなたを狂わせてるの……		text
-loev16.0CBF	サヴィオ		speaker
+loev16.0CBF	サヴィオ	Savio	speaker
 loev16.0CD6	……ダメだ……この鎧は俺の命だ……		text
 loev16.0D67	サヴィア	Savia	speaker
 loev16.0D7E	お願い……		text
-loev16.0DA7	サヴィオ		speaker
+loev16.0DA7	サヴィオ	Savio	speaker
 loev16.0DBE	……どけ……		text
 loev16.0EDD	サヴィア	Savia	speaker
 loev16.0EF4	きゃあ！！		text
@@ -39,13 +39,13 @@ loev16.0FCF	サヴィア	Savia	speaker
 loev16.0FE6	……ルディ、サヴィオを……止めて……		text
 loev16.103D	ルディエール	Rudiere	speaker
 loev16.1058	サヴィア！！！		text
-loev16.1085	サヴィオ		speaker
+loev16.1085	サヴィオ	Savio	speaker
 loev16.109C	……サヴィア……どうした……		text
 loev16.10EB	ルディエール	Rudiere	speaker
 loev16.1106	わからないのか……{n}お前がやったんだぞ！		text
-loev16.119D	サヴィオ		speaker
+loev16.119D	サヴィオ	Savio	speaker
 loev16.11B4	お、俺は……{n}サヴィア……サヴィア……		text
-loev16.125D	サヴィオ		speaker
+loev16.125D	サヴィオ	Savio	speaker
 loev16.1274	なんだ……{n}鎧が……体がいうことをきかない……		text
 loev16.12C1	助けてくれ……サヴィア		text
 loev16.130A	うおおおおおおお		text

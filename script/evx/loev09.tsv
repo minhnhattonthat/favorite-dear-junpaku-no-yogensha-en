@@ -1,6 +1,6 @@
 id	jp	en	notes
 loev09.0002	密会		dev label (guess: not shown)
-loev09.00A2	ルディ		unit name (32-byte field)
+loev09.00A2	ルディ	Rudi	unit name (32-byte field)
 loev09.00DE	サヴィア	Savia	unit name (32-byte field)
 loev09.0554	ルディエール	Rudiere	speaker
 loev09.056F	サヴィアどうしてここに？		text
@@ -8,7 +8,7 @@ loev09.0596	サヴィア	Savia	speaker
 loev09.05AD	ごめんなさい。急に。		text
 loev09.05D0	ルディエール	Rudiere	speaker
 loev09.05EB	いや、あの時はありがとう、助かった……。		text
-loev09.0672	ルディ		speaker
+loev09.0672	ルディ	Rudi	speaker
 loev09.0687	君を探してたんだぜ。{n}礼をいいたくて……。		text
 loev09.06C0	サヴィア	Savia	speaker
 loev09.06D7	……ルディ、そのことで助けて欲しいの。		text

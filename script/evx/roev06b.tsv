@@ -1,28 +1,28 @@
 id	jp	en	notes
 roev06b.0002	もう一つの魔石		dev label (guess: not shown)
 roev06b.00A2	ロクス	Rocus	unit name (32-byte field)
-roev06b.00DE	帝国歩兵		unit name (32-byte field)
-roev06b.011A	帝国歩兵		unit name (32-byte field)
+roev06b.00DE	帝国歩兵	Foot Soldier	unit name (32-byte field)
+roev06b.011A	帝国歩兵	Foot Soldier	unit name (32-byte field)
 roev06b.0156	アルベリック	Alberic	unit name (32-byte field)
-roev06b.0192	帝国歩兵		unit name (32-byte field)
-roev06b.01CE	帝国歩兵		unit name (32-byte field)
-roev06b.0530	帝国騎士		speaker
+roev06b.0192	帝国歩兵	Foot Soldier	unit name (32-byte field)
+roev06b.01CE	帝国歩兵	Foot Soldier	unit name (32-byte field)
+roev06b.0530	帝国騎士	Knight	speaker
 roev06b.0547	なかなかやるな。{n}名はなんという。		text
 roev06b.0578	ロクス	Rocus	speaker
 roev06b.058D	どけ！{n}俺はお前らなどに用はないんだ！		text
-roev06b.05C2	帝国騎士		speaker
+roev06b.05C2	帝国騎士	Knight	speaker
 roev06b.05D9	フン……ヴァイパーを追っているのか？		text
 roev06b.062C	ロクス	Rocus	speaker
 roev06b.0641	知っているのか？		text
-roev06b.0660	帝国騎士		speaker
+roev06b.0660	帝国騎士	Knight	speaker
 roev06b.0677	名もなのれん男に答える必要はないな。{n}ただ私達によく協力してくれる人物ではあると{n}言っておこう。		text
 roev06b.06E6	ロクス	Rocus	speaker
 roev06b.06FB	魔石を……教会から奪わせたのは帝国の差し金か？		text
-roev06b.0738	帝国騎士		speaker
+roev06b.0738	帝国騎士	Knight	speaker
 roev06b.074F	ハハハ、だとしたらなんだ？		text
 roev06b.0778	ロクス	Rocus	speaker
 roev06b.078D	お前を倒して、返してもらう。		text
-roev06b.07B8	帝国騎士		speaker
+roev06b.07B8	帝国騎士	Knight	speaker
 roev06b.07CF	勇ましい僧侶様だ。{n}しかし、今私が貴様と戦う必要はない。		text
 roev06b.0816	私の名はアルベリックだ。{n}また会おう、天使の勇者。		text
 roev06b.0933	ロクス	Rocus	speaker

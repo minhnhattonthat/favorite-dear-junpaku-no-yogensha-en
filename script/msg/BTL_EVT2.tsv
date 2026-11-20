@@ -1,847 +1,847 @@
 id	jp	en	notes
-BTL_EVT2.01E0S	ルディ		speaker
-BTL_EVT2.01E7	村を襲ったってのは、お前らか？		
-BTL_EVT2.0209S	タイタン		speaker
-BTL_EVT2.0212	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！		
-BTL_EVT2.02BAS	ルディ		speaker
-BTL_EVT2.02C1	人に危害を加えるっていうんなら、{n}おれが倒してやるぜ！		
-BTL_EVT2.02FBS	ルディ		speaker
-BTL_EVT2.0302	ざっとこんなもんさ！		
-BTL_EVT2.031AS	タイタン		speaker
-BTL_EVT2.0323	ふん！　口ほどにもない！！		
-BTL_EVT2.0341S	タイタン		speaker
-BTL_EVT2.034A	ふん！　口ほどにもない！！		
-BTL_EVT2.038CS	帝国兵		speaker
-BTL_EVT2.0393	黙って我々に従え！{n}逆らうというのなら、殺す！		
-BTL_EVT2.03C5S	帝国兵		speaker
-BTL_EVT2.03CC	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
-BTL_EVT2.03FCS	帝国兵		speaker
-BTL_EVT2.0403	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
-BTL_EVT2.0457S	ルディ		speaker
-BTL_EVT2.045E	進軍をやめろ！！		
-BTL_EVT2.0472S	帝国騎士		speaker
-BTL_EVT2.047B	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！		
-BTL_EVT2.04C3S	ルディ		speaker
-BTL_EVT2.04CA	この進軍の目的は……。		
-BTL_EVT2.04E4S	帝国騎士		speaker
-BTL_EVT2.04ED	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
-BTL_EVT2.0531S	帝国騎士		speaker
-BTL_EVT2.053A	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
-BTL_EVT2.05A2S	ルディ		speaker
-BTL_EVT2.05A9	気味の悪いやつだったな。		
-BTL_EVT2.05C5S	ファントム		speaker
+BTL_EVT2.01E0S	ルディ	Rudi	speaker
+BTL_EVT2.01E7	村を襲ったってのは、お前らか？	Are you the ones who attacked the village?	
+BTL_EVT2.0209S	タイタン	Titan	speaker
+BTL_EVT2.0212	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！	Humans attacked us first!! With beasts we'd{n}never seen, they...{wait}{clear}We're only paying them back... Anyone in our{n}way gets crushed!!	
+BTL_EVT2.02BAS	ルディ	Rudi	speaker
+BTL_EVT2.02C1	人に危害を加えるっていうんなら、{n}おれが倒してやるぜ！	If you're gonna hurt people, I'll take you{n}down!	
+BTL_EVT2.02FBS	ルディ	Rudi	speaker
+BTL_EVT2.0302	ざっとこんなもんさ！	Easy as that!	
+BTL_EVT2.031AS	タイタン	Titan	speaker
+BTL_EVT2.0323	ふん！　口ほどにもない！！	Hmph! All talk!!	
+BTL_EVT2.0341S	タイタン	Titan	speaker
+BTL_EVT2.034A	ふん！　口ほどにもない！！	Hmph! All talk!!	
+BTL_EVT2.038CS	帝国兵	Soldier	speaker
+BTL_EVT2.0393	黙って我々に従え！{n}逆らうというのなら、殺す！	Shut up and obey us! Resist and you die!	
+BTL_EVT2.03C5S	帝国兵	Soldier	speaker
+BTL_EVT2.03CC	わははは！{n}我々帝国軍に逆らおうなどムダだ！	Wahaha! Resisting the Imperial Army is{n}useless!	
+BTL_EVT2.03FCS	帝国兵	Soldier	speaker
+BTL_EVT2.0403	わははは！{n}我々帝国軍に逆らおうなどムダだ！	Wahaha! Resisting the Imperial Army is{n}useless!	
+BTL_EVT2.0457S	ルディ	Rudi	speaker
+BTL_EVT2.045E	進軍をやめろ！！	Stop this march!!	
+BTL_EVT2.0472S	帝国騎士	Knight	speaker
+BTL_EVT2.047B	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！	None of your business. We'll spare no one{n}who hinders our march!	
+BTL_EVT2.04C3S	ルディ	Rudi	speaker
+BTL_EVT2.04CA	この進軍の目的は……。	The purpose of this march is...	
+BTL_EVT2.04E4S	帝国騎士	Knight	speaker
+BTL_EVT2.04ED	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！	You could never match the Imperial Army!{n}Wahahahaha...!	
+BTL_EVT2.0531S	帝国騎士	Knight	speaker
+BTL_EVT2.053A	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！	You could never match the Imperial Army!{n}Wahahahaha...!	
+BTL_EVT2.05A2S	ルディ	Rudi	speaker
+BTL_EVT2.05A9	気味の悪いやつだったな。	That was a creepy one.	
+BTL_EVT2.05C5S	ファントム	Phantom	speaker
 BTL_EVT2.05D0	…………。	.....	
-BTL_EVT2.05DES	ファントム		speaker
+BTL_EVT2.05DES	ファントム	Phantom	speaker
 BTL_EVT2.05E9	…………。	.....	
 BTL_EVT2.061BS	イオン	Ion	speaker
-BTL_EVT2.0622	ぼくの邪魔をするから……。		
+BTL_EVT2.0622	ぼくの邪魔をするから……。	Because you got in my way...	
 BTL_EVT2.0640S	イオン	Ion	speaker
-BTL_EVT2.0647	ぼくの邪魔をするから……。		
-BTL_EVT2.0689S	ルディ		speaker
-BTL_EVT2.0690	進軍をやめろ！！		
-BTL_EVT2.06A4S	帝国兵		speaker
-BTL_EVT2.06AB	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！		
-BTL_EVT2.06F3S	ルディ		speaker
-BTL_EVT2.06FA	なにをしようっていうんだ……帝国は……。		
-BTL_EVT2.0726S	帝国兵		speaker
-BTL_EVT2.072D	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT2.0759S	帝国兵		speaker
-BTL_EVT2.0760	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT2.07B0S	ルディ		speaker
-BTL_EVT2.07B7	お前ら……{n}こんなことをいつまで続ける気だ！！		
-BTL_EVT2.07E9S	帝国兵		speaker
-BTL_EVT2.07F0	貴様には関係ないことだ！		
-BTL_EVT2.080CS	ルディ		speaker
-BTL_EVT2.0813	なんなんだ……{n}帝国の連中は……。		
-BTL_EVT2.0839S	帝国兵		speaker
-BTL_EVT2.0840	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT2.086CS	帝国兵		speaker
-BTL_EVT2.0873	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT2.08C3S	カイゼル		speaker
-BTL_EVT2.08CC	我々帝国軍に逆らうだと、面白い……。{n}行くぞ！！		
-BTL_EVT2.0900S	カイゼル		speaker
-BTL_EVT2.0909	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。		
-BTL_EVT2.0963S	カイゼル		speaker
-BTL_EVT2.096C	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。		
-BTL_EVT2.09CAS	カイゼル		speaker
-BTL_EVT2.09D3	ふん……我々に逆らうなど……愚かな……。		
-BTL_EVT2.09FFS	カイゼル		speaker
+BTL_EVT2.0647	ぼくの邪魔をするから……。	Because you got in my way...	
+BTL_EVT2.0689S	ルディ	Rudi	speaker
+BTL_EVT2.0690	進軍をやめろ！！	Stop this march!!	
+BTL_EVT2.06A4S	帝国兵	Soldier	speaker
+BTL_EVT2.06AB	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！	None of your business... We'll spare no one{n}who defies us!	
+BTL_EVT2.06F3S	ルディ	Rudi	speaker
+BTL_EVT2.06FA	なにをしようっていうんだ……帝国は……。	What is the Empire trying to do...?	
+BTL_EVT2.0726S	帝国兵	Soldier	speaker
+BTL_EVT2.072D	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
+BTL_EVT2.0759S	帝国兵	Soldier	speaker
+BTL_EVT2.0760	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
+BTL_EVT2.07B0S	ルディ	Rudi	speaker
+BTL_EVT2.07B7	お前ら……{n}こんなことをいつまで続ける気だ！！	How long are you going to keep this up?!!	
+BTL_EVT2.07E9S	帝国兵	Soldier	speaker
+BTL_EVT2.07F0	貴様には関係ないことだ！	None of your business!	
+BTL_EVT2.080CS	ルディ	Rudi	speaker
+BTL_EVT2.0813	なんなんだ……{n}帝国の連中は……。	What's with these Imperial guys...?	
+BTL_EVT2.0839S	帝国兵	Soldier	speaker
+BTL_EVT2.0840	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
+BTL_EVT2.086CS	帝国兵	Soldier	speaker
+BTL_EVT2.0873	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
+BTL_EVT2.08C3S	カイゼル	Kaiser	speaker
+BTL_EVT2.08CC	我々帝国軍に逆らうだと、面白い……。{n}行くぞ！！	You'd defy the Imperial Army? Interesting...{n}Here I come!!	
+BTL_EVT2.0900S	カイゼル	Kaiser	speaker
+BTL_EVT2.0909	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
+BTL_EVT2.0963S	カイゼル	Kaiser	speaker
+BTL_EVT2.096C	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT2.09CAS	カイゼル	Kaiser	speaker
+BTL_EVT2.09D3	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
+BTL_EVT2.09FFS	カイゼル	Kaiser	speaker
 BTL_EVT2.0A08	…………。	.....	
 BTL_EVT2.0A3AS	アルベリック	Alberic	speaker
-BTL_EVT2.0A47	天使の勇者か……		
+BTL_EVT2.0A47	天使の勇者か……	The angel's hero...	
 BTL_EVT2.0A5BS	アルベリック	Alberic	speaker
-BTL_EVT2.0A68	我が魔剣の餌食となりにきたな……		
+BTL_EVT2.0A68	我が魔剣の餌食となりにきたな……	You've come to feed my cursed sword...	
 BTL_EVT2.0A8CS	ルディエール	Rudiere	speaker
-BTL_EVT2.0A99	餌食になんかなるものか！		
+BTL_EVT2.0A99	餌食になんかなるものか！	I'm not gonna be anybody's prey!	
 BTL_EVT2.0AB5S	アルベリック	Alberic	speaker
-BTL_EVT2.0AC2	ふん、私の魔剣は無敵だ……。{n}貴様ごときには負けぬ！		
+BTL_EVT2.0AC2	ふん、私の魔剣は無敵だ……。{n}貴様ごときには負けぬ！	Hmph, my cursed sword is invincible... I{n}won't lose to the likes of you!	
 BTL_EVT2.0AFAS	ルディエール	Rudiere	speaker
-BTL_EVT2.0B07	魔剣に魂を奪われた男か……。{wait}{clear}哀れだな……。		
+BTL_EVT2.0B07	魔剣に魂を奪われた男か……。{wait}{clear}哀れだな……。	A man whose soul was taken by a cursed{n}sword...{wait}{clear}How sad...	
 BTL_EVT2.0B39S	アルベリック	Alberic	speaker
-BTL_EVT2.0B46	この剣も喜んでいる……		
+BTL_EVT2.0B46	この剣も喜んでいる……	This sword is pleased too...	
 BTL_EVT2.0B60S	アルベリック	Alberic	speaker
-BTL_EVT2.0B6D	天使の勇者の血は最高だとね……。		
+BTL_EVT2.0B6D	天使の勇者の血は最高だとね……。	The blood of an angel's hero is the finest,{n}it says...	
 BTL_EVT2.0B91S	アルベリック	Alberic	speaker
-BTL_EVT2.0B9E	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
-BTL_EVT2.0BFAS	騎士隊長		speaker
-BTL_EVT2.0C03	帝国バンザイ！！		
-BTL_EVT2.0C17S	騎士隊長		speaker
-BTL_EVT2.0C20	帝国バンザイ！！		
-BTL_EVT2.0C58S	帝国兵		speaker
-BTL_EVT2.0C5F	我々に、歯向かうやつはどこだ！！		
-BTL_EVT2.0C83S	ルディ		speaker
-BTL_EVT2.0C8A	なにっ……！！		
-BTL_EVT2.0C9CS	帝国兵		speaker
-BTL_EVT2.0CA3	我々に勝てると思っているのか！！		
-BTL_EVT2.0CC7S	帝国兵		speaker
-BTL_EVT2.0CCE	我々に勝てると思っているのか！！		
-BTL_EVT2.0D16S	帝国騎士		speaker
-BTL_EVT2.0D1F	ええいっ！　おれが相手だ！！		
-BTL_EVT2.0D3FS	帝国騎士		speaker
-BTL_EVT2.0D48	つ、強すぎる……。		
-BTL_EVT2.0D5ES	帝国騎士		speaker
-BTL_EVT2.0D67	敵として、不足はなかった……。		
-BTL_EVT2.0D89S	帝国騎士		speaker
-BTL_EVT2.0D92	おれに勝てるはずなどない！　わはははは！		
-BTL_EVT2.0DE2S	盗賊		speaker
-BTL_EVT2.0DE7	てめえ、やっちまうぞ。		
-BTL_EVT2.0E01S	ルディ		speaker
-BTL_EVT2.0E08	おれが返り討ちにしてやるぜ！		
-BTL_EVT2.0E28S	ルディ		speaker
-BTL_EVT2.0E2F	こんな村まで……。		
-BTL_EVT2.0E45S	盗賊		speaker
-BTL_EVT2.0E4A	はん！　オレたちにかなうわけねえんだよ！		
-BTL_EVT2.0E76S	盗賊		speaker
-BTL_EVT2.0E7B	はん！　オレたちにかなうわけねえんだよ！		
-BTL_EVT2.0ECBS	帝国兵		speaker
-BTL_EVT2.0ED2	なんだ貴様は？		
-BTL_EVT2.0EE4S	ルディ		speaker
-BTL_EVT2.0EEB	お前らか、こんなことをしたのは……。		
-BTL_EVT2.0F13S	ルディ		speaker
-BTL_EVT2.0F1A	ひどい、ひどすぎる……。		
-BTL_EVT2.0F36S	帝国兵		speaker
-BTL_EVT2.0F3D	我々も甘く見られたものだな。		
-BTL_EVT2.0F5DS	帝国兵		speaker
-BTL_EVT2.0F64	我々も甘く見られたものだな。		
-BTL_EVT2.0FA8S	ゾンビ		speaker
-BTL_EVT2.0FAF	ヴヴヴ……。		
-BTL_EVT2.0FBFS	ルディ		speaker
-BTL_EVT2.0FC6	うぁっ！{n}アンデッドはやっぱり気持ち悪いなぁ。{n}とっとと倒してやるぜ！		
-BTL_EVT2.1010S	ルディ		speaker
-BTL_EVT2.1017	これで、終わりだ……。		
-BTL_EVT2.1031S	ゾンビ		speaker
-BTL_EVT2.1038	ウウヴッッ……。		
-BTL_EVT2.104CS	ゾンビ		speaker
-BTL_EVT2.1053	ウウヴッッ……。		
-BTL_EVT2.108BS	吸血鬼		speaker
-BTL_EVT2.1092	なんだ貴様は？		
-BTL_EVT2.10A4S	ルディ		speaker
-BTL_EVT2.10AB	お前に名乗る名前なんてない！{n}行くぜ！		
-BTL_EVT2.10D5S	ルディ		speaker
+BTL_EVT2.0B9E	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！	Hahaha! An angel's hero can't even soothe my{n}sword!	
+BTL_EVT2.0BFAS	騎士隊長	Captain	speaker
+BTL_EVT2.0C03	帝国バンザイ！！	Long live the Empire!!	
+BTL_EVT2.0C17S	騎士隊長	Captain	speaker
+BTL_EVT2.0C20	帝国バンザイ！！	Long live the Empire!!	
+BTL_EVT2.0C58S	帝国兵	Soldier	speaker
+BTL_EVT2.0C5F	我々に、歯向かうやつはどこだ！！	Where's the one who dares defy us?!!	
+BTL_EVT2.0C83S	ルディ	Rudi	speaker
+BTL_EVT2.0C8A	なにっ……！！	What...!!	
+BTL_EVT2.0C9CS	帝国兵	Soldier	speaker
+BTL_EVT2.0CA3	我々に勝てると思っているのか！！	You think you can beat us?!!	
+BTL_EVT2.0CC7S	帝国兵	Soldier	speaker
+BTL_EVT2.0CCE	我々に勝てると思っているのか！！	You think you can beat us?!!	
+BTL_EVT2.0D16S	帝国騎士	Knight	speaker
+BTL_EVT2.0D1F	ええいっ！　おれが相手だ！！	Hyaah! I'll be your opponent!!	
+BTL_EVT2.0D3FS	帝国騎士	Knight	speaker
+BTL_EVT2.0D48	つ、強すぎる……。	T-too strong...	
+BTL_EVT2.0D5ES	帝国騎士	Knight	speaker
+BTL_EVT2.0D67	敵として、不足はなかった……。	You were a worthy foe...	
+BTL_EVT2.0D89S	帝国騎士	Knight	speaker
+BTL_EVT2.0D92	おれに勝てるはずなどない！　わはははは！	You can't possibly beat me! Wahahaha!	
+BTL_EVT2.0DE2S	盗賊	Bandit	speaker
+BTL_EVT2.0DE7	てめえ、やっちまうぞ。	I'm gonna take you down.	
+BTL_EVT2.0E01S	ルディ	Rudi	speaker
+BTL_EVT2.0E08	おれが返り討ちにしてやるぜ！	I'll turn the tables on you!	
+BTL_EVT2.0E28S	ルディ	Rudi	speaker
+BTL_EVT2.0E2F	こんな村まで……。	Even a village like this...	
+BTL_EVT2.0E45S	盗賊	Bandit	speaker
+BTL_EVT2.0E4A	はん！　オレたちにかなうわけねえんだよ！	Hah! No way you can beat us!	
+BTL_EVT2.0E76S	盗賊	Bandit	speaker
+BTL_EVT2.0E7B	はん！　オレたちにかなうわけねえんだよ！	Hah! No way you can beat us!	
+BTL_EVT2.0ECBS	帝国兵	Soldier	speaker
+BTL_EVT2.0ED2	なんだ貴様は？	Who are you?	
+BTL_EVT2.0EE4S	ルディ	Rudi	speaker
+BTL_EVT2.0EEB	お前らか、こんなことをしたのは……。	So you're the ones who did this...	
+BTL_EVT2.0F13S	ルディ	Rudi	speaker
+BTL_EVT2.0F1A	ひどい、ひどすぎる……。	Awful... this is too awful...	
+BTL_EVT2.0F36S	帝国兵	Soldier	speaker
+BTL_EVT2.0F3D	我々も甘く見られたものだな。	We've been underestimated, it seems.	
+BTL_EVT2.0F5DS	帝国兵	Soldier	speaker
+BTL_EVT2.0F64	我々も甘く見られたものだな。	We've been underestimated, it seems.	
+BTL_EVT2.0FA8S	ゾンビ	Zombie	speaker
+BTL_EVT2.0FAF	ヴヴヴ……。	Grrrr...	
+BTL_EVT2.0FBFS	ルディ	Rudi	speaker
+BTL_EVT2.0FC6	うぁっ！{n}アンデッドはやっぱり気持ち悪いなぁ。{n}とっとと倒してやるぜ！	Ugh! Undead really are gross. I'll take 'em{n}out fast!	
+BTL_EVT2.1010S	ルディ	Rudi	speaker
+BTL_EVT2.1017	これで、終わりだ……。	That's the end of it...	
+BTL_EVT2.1031S	ゾンビ	Zombie	speaker
+BTL_EVT2.1038	ウウヴッッ……。	Uurrgh...	
+BTL_EVT2.104CS	ゾンビ	Zombie	speaker
+BTL_EVT2.1053	ウウヴッッ……。	Uurrgh...	
+BTL_EVT2.108BS	吸血鬼	Vampire	speaker
+BTL_EVT2.1092	なんだ貴様は？	Who are you?	
+BTL_EVT2.10A4S	ルディ	Rudi	speaker
+BTL_EVT2.10AB	お前に名乗る名前なんてない！{n}行くぜ！	I've got no name to give you! Here I come!	
+BTL_EVT2.10D5S	ルディ	Rudi	speaker
 BTL_EVT2.10DC	…………。	.....	
-BTL_EVT2.10EAS	吸血鬼		speaker
-BTL_EVT2.10F1	人間ごときが、我らにかなうはずなかろう！		
-BTL_EVT2.111DS	吸血鬼		speaker
-BTL_EVT2.1124	おお、逃げていったわ！{n}わはははは……！		
-BTL_EVT2.1174S	メデューサ		speaker
-BTL_EVT2.117F	ほほほ……。		
-BTL_EVT2.118FS	ルディ		speaker
-BTL_EVT2.1196	なんだ、お前は……？		
-BTL_EVT2.11AES	ルディ		speaker
-BTL_EVT2.11B5	こういうのは苦手だ……。		
-BTL_EVT2.11D1S	メデューサ		speaker
-BTL_EVT2.11DC	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
-BTL_EVT2.1218S	メデューサ		speaker
-BTL_EVT2.1223	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
-BTL_EVT2.12EFS	ティタン		speaker
-BTL_EVT2.12F8	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！		
-BTL_EVT2.133CS	ルディ		speaker
-BTL_EVT2.1343	お前たちこそ、ここからすぐ出て行くんだ！		
-BTL_EVT2.136FS	ルディ		speaker
-BTL_EVT2.1376	これで、もう村は大丈夫だな。		
-BTL_EVT2.1396S	ティタン		speaker
-BTL_EVT2.139F	に、二度とくるな！！		
-BTL_EVT2.13B7S	ティタン		speaker
-BTL_EVT2.13C0	に、二度とくるな！！		
-BTL_EVT2.13FCS	サヴィオ		speaker
-BTL_EVT2.1405	お前は……{n}セレニスの言っていた天使の勇者だな……。		
-BTL_EVT2.143DS	サヴィオ		speaker
-BTL_EVT2.1446	殺す。		
-BTL_EVT2.1450S	ルディ		speaker
-BTL_EVT2.1457	セレニス？{wait}{clear}お前も帝国の手先なのか！？		
-BTL_EVT2.1483S	サヴィオ		speaker
-BTL_EVT2.148C	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいく男に{n}なにを聞かせても無駄だからな……		
-BTL_EVT2.1500S	サヴィオ		speaker
-BTL_EVT2.1509	ぐ、ぐぐぐ……。		
-BTL_EVT2.151DS	サヴィオ		speaker
-BTL_EVT2.1526	がああああ！！		
-BTL_EVT2.1538S	サヴィオ		speaker
-BTL_EVT2.1541	邪魔者は……死ね。		
-BTL_EVT2.1557S	サヴィオ		speaker
-BTL_EVT2.1560	うおーっ！		
+BTL_EVT2.10EAS	吸血鬼	Vampire	speaker
+BTL_EVT2.10F1	人間ごときが、我らにかなうはずなかろう！	Mere humans can't hope to match us!	
+BTL_EVT2.111DS	吸血鬼	Vampire	speaker
+BTL_EVT2.1124	おお、逃げていったわ！{n}わはははは……！	Oh, it ran away! Wahahaha...!	
+BTL_EVT2.1174S	メデューサ	Medusa	speaker
+BTL_EVT2.117F	ほほほ……。	Ohoho...	
+BTL_EVT2.118FS	ルディ	Rudi	speaker
+BTL_EVT2.1196	なんだ、お前は……？	What are you...?	
+BTL_EVT2.11AES	ルディ	Rudi	speaker
+BTL_EVT2.11B5	こういうのは苦手だ……。	I'm no good with this kind of thing...	
+BTL_EVT2.11D1S	メデューサ	Medusa	speaker
+BTL_EVT2.11DC	こんなおしとやかな私に負けるなんて……{n}情けない男……。	Losing to a demure lady like me... What a{n}pathetic man...	
+BTL_EVT2.1218S	メデューサ	Medusa	speaker
+BTL_EVT2.1223	こんなおしとやかな私に負けるなんて……{n}情けない男……。	Losing to a demure lady like me... What a{n}pathetic man...	
+BTL_EVT2.12EFS	ティタン	Titan	speaker
+BTL_EVT2.12F8	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！	Wh-what do you want...{wait}{clear}Th-this is our land now. Get out!	
+BTL_EVT2.133CS	ルディ	Rudi	speaker
+BTL_EVT2.1343	お前たちこそ、ここからすぐ出て行くんだ！	You're the ones who need to get out of here,{n}now!	
+BTL_EVT2.136FS	ルディ	Rudi	speaker
+BTL_EVT2.1376	これで、もう村は大丈夫だな。	The village should be fine now.	
+BTL_EVT2.1396S	ティタン	Titan	speaker
+BTL_EVT2.139F	に、二度とくるな！！	D-don't ever come back!!	
+BTL_EVT2.13B7S	ティタン	Titan	speaker
+BTL_EVT2.13C0	に、二度とくるな！！	D-don't ever come back!!	
+BTL_EVT2.13FCS	サヴィオ	Savio	speaker
+BTL_EVT2.1405	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's hero Serenis spoke{n}of...	
+BTL_EVT2.143DS	サヴィオ	Savio	speaker
+BTL_EVT2.1446	殺す。	I'll kill you.	
+BTL_EVT2.1450S	ルディ	Rudi	speaker
+BTL_EVT2.1457	セレニス？{wait}{clear}お前も帝国の手先なのか！？	Serenis?{wait}{clear}Are you working for the Empire too?!	
+BTL_EVT2.1483S	サヴィオ	Savio	speaker
+BTL_EVT2.148C	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいく男に{n}なにを聞かせても無駄だからな……	The witch who gave me this armor...{wait}{clear}But I'll tell you no more... There's no{n}point telling a dead man anything...	
+BTL_EVT2.1500S	サヴィオ	Savio	speaker
+BTL_EVT2.1509	ぐ、ぐぐぐ……。	Gh, ghhh...	
+BTL_EVT2.151DS	サヴィオ	Savio	speaker
+BTL_EVT2.1526	がああああ！！	Gaaaah!!	
+BTL_EVT2.1538S	サヴィオ	Savio	speaker
+BTL_EVT2.1541	邪魔者は……死ね。	Those in my way... die.	
+BTL_EVT2.1557S	サヴィオ	Savio	speaker
+BTL_EVT2.1560	うおーっ！	Raaah!	
 BTL_EVT2.1592S	クラレンス	Clarence	speaker
-BTL_EVT2.159D	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
-BTL_EVT2.15D7S	ルディ		speaker
-BTL_EVT2.15DE	どうしてそんなにこの世界を憎むんだ？		
+BTL_EVT2.159D	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。	Damn... I wanted to see the world end with{n}my own eyes...	
+BTL_EVT2.15D7S	ルディ	Rudi	speaker
+BTL_EVT2.15DE	どうしてそんなにこの世界を憎むんだ？	Why do you hate this world so much?	
 BTL_EVT2.1606S	クラレンス	Clarence	speaker
-BTL_EVT2.1611	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。		
-BTL_EVT2.1647S	ルディ		speaker
-BTL_EVT2.164E	ヴァイパー……。		
+BTL_EVT2.1611	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。	None of your business... I'll be waiting for{n}you in hell...	
+BTL_EVT2.1647S	ルディ	Rudi	speaker
+BTL_EVT2.164E	ヴァイパー……。	Viper...	
 BTL_EVT2.1662S	クラレンス	Clarence	speaker
-BTL_EVT2.166D	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
+BTL_EVT2.166D	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。	So long, angel's hero.{wait}{clear}...Don't worry, I'll be along later too.	
 BTL_EVT2.16AFS	クラレンス	Clarence	speaker
-BTL_EVT2.16BA	ははは！　いい様だぜ！		
-BTL_EVT2.171CS	ルディ		speaker
-BTL_EVT2.1723	帝国は、なにを考えてるんだ！？		
-BTL_EVT2.1745S	帝国兵		speaker
-BTL_EVT2.174C	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！		
-BTL_EVT2.1790S	ルディ		speaker
-BTL_EVT2.1797	帝国は、なにをはじめようっていうんだ？		
-BTL_EVT2.17C1S	帝国兵		speaker
-BTL_EVT2.17C8	お前ひとりにやられる我が軍ではないわ！		
-BTL_EVT2.17F2S	帝国兵		speaker
-BTL_EVT2.17F9	お前ひとりにやられる我が軍ではないわ！		
-BTL_EVT2.1847S	ルディ		speaker
-BTL_EVT2.184E	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？		
-BTL_EVT2.188ES	帝国兵		speaker
-BTL_EVT2.1895	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT2.18E1S	ルディ		speaker
-BTL_EVT2.18E8	帝国のやつら……許せない……。		
-BTL_EVT2.190AS	帝国兵		speaker
-BTL_EVT2.1911	わはははっ！{n}偉大なる帝国に栄えあれ！		
-BTL_EVT2.193BS	帝国兵		speaker
-BTL_EVT2.1942	わはははっ！{n}偉大なる帝国に栄えあれ！		
-BTL_EVT2.1990S	ルディ		speaker
-BTL_EVT2.1997	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？		
-BTL_EVT2.19D7S	帝国騎士		speaker
-BTL_EVT2.19E0	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！		
-BTL_EVT2.1A40S	ルディ		speaker
-BTL_EVT2.1A47	お前らなんかに従うものか！		
-BTL_EVT2.1A65S	ルディ		speaker
-BTL_EVT2.1A6C	帝国が相手じゃ、キリがない……{n}このままじゃ……。		
-BTL_EVT2.1AA2S	帝国騎士		speaker
-BTL_EVT2.1AAB	我々に逆らうなど、むだなこと！		
-BTL_EVT2.1ACDS	帝国騎士		speaker
-BTL_EVT2.1AD6	我々に逆らうなど、むだなこと！		
-BTL_EVT2.1B1CS	ルディ		speaker
-BTL_EVT2.1B23	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？		
-BTL_EVT2.1B63S	帝国兵		speaker
-BTL_EVT2.1B6A	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT2.1BB6S	ルディ		speaker
-BTL_EVT2.1BBD	帝国が相手じゃ、キリがない……{n}このままじゃ……。		
-BTL_EVT2.1BF3S	帝国騎士		speaker
-BTL_EVT2.1BFC	我らには紅月王がついておられる！　わはははは！		
-BTL_EVT2.1C2ES	帝国騎士		speaker
-BTL_EVT2.1C37	我らには紅月王がついておられる！　わはははは！		
-BTL_EVT2.1C8DS	ルディ		speaker
-BTL_EVT2.1C94	これ以上、罪のない人を苦しめるのはやめろ！{n}こんなことをして、なんになるんだ！？		
-BTL_EVT2.1CE8S	帝国騎士		speaker
-BTL_EVT2.1CF1	我らの進軍、誰にも止めることなどできん！		
-BTL_EVT2.1D1DS	ルディ		speaker
-BTL_EVT2.1D24	勝ったところで、これじゃ……。		
-BTL_EVT2.1D46S	帝国騎士		speaker
-BTL_EVT2.1D4F	我が戦いは、皇帝のため！		
-BTL_EVT2.1D6BS	帝国騎士		speaker
-BTL_EVT2.1D74	我が戦いは、皇帝のため！		
-BTL_EVT2.1DB4S	ルディ		speaker
-BTL_EVT2.1DBB	なんで、こんなやつが帝国軍といっしょに！？{n}いったいなにが起こったんだ？		
-BTL_EVT2.1E07S	融合兵		speaker
-BTL_EVT2.1E0E	愚かな人間には、なにもわかるまい……死ね！		
-BTL_EVT2.1E3CS	ルディ		speaker
-BTL_EVT2.1E43	こんなことになるなんて……{n}くそっ！！{n}でも、あきらめないぜ……おれは……。		
-BTL_EVT2.1E93S	融合兵		speaker
-BTL_EVT2.1E9A	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
-BTL_EVT2.1EDAS	融合兵		speaker
-BTL_EVT2.1EE1	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
-BTL_EVT2.1F45S	ルディ		speaker
-BTL_EVT2.1F4C	うわっ！　ひどいな、この血のにおいは……！{n}こんなやつら、とっとと片づけてやるぜ！		
-BTL_EVT2.1FA2S	ルディ		speaker
-BTL_EVT2.1FA9	気持ちわるかったな……。		
-BTL_EVT2.1FC5S	カオスジェリー		speaker
-BTL_EVT2.1FD4	ギュルギュルゥ……。		
-BTL_EVT2.1FECS	カオスジェリー		speaker
-BTL_EVT2.1FFB	ギュルギュルゥ……。		
-BTL_EVT2.2037S	ルディ		speaker
-BTL_EVT2.203E	ここはグラニスをつなぐ、大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！		
-BTL_EVT2.20AAS	ルディ		speaker
-BTL_EVT2.20B1	ざっとこんなもんさ。		
-BTL_EVT2.20C9S	デッドプラント		speaker
-BTL_EVT2.20D8	ひゅるひゅる……。		
-BTL_EVT2.20EES	デッドプラント		speaker
-BTL_EVT2.20FD	ひゅるひゅる……。		
-BTL_EVT2.2137S	ルディ		speaker
-BTL_EVT2.213E	女の人ばっかり狙う卑怯な連中は、お前らだな！{n}おれが倒してやるぜ！		
-BTL_EVT2.2184S	シーフ		speaker
-BTL_EVT2.218B	オレたちの邪魔しようってのか？{n}はん！　面白れえ！		
-BTL_EVT2.21C1S	ルディ		speaker
-BTL_EVT2.21C8	口ほどにもないやつらだ！		
-BTL_EVT2.21E4S	シーフ		speaker
-BTL_EVT2.21EB	はっはは！　ざまあみやがれ！		
-BTL_EVT2.220BS	シーフ		speaker
-BTL_EVT2.2212	はっはは！　ざまあみやがれ！		
-BTL_EVT2.2256S	ルディ		speaker
-BTL_EVT2.225D	うわっ！　でかいな……{n}でも、倒してやるぜ！		
-BTL_EVT2.228DS	ルディ		speaker
-BTL_EVT2.2294	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。		
-BTL_EVT2.22D2S	海竜		speaker
-BTL_EVT2.22D7	グギャア～！		
-BTL_EVT2.22E7S	海竜		speaker
-BTL_EVT2.22EC	グギャア～！		
-BTL_EVT2.2320S	ルディ		speaker
-BTL_EVT2.2327	おとなしく帰ってくれればいいのに……。{n}襲ってくるなら、おれもお前を倒すだけだ。		
-BTL_EVT2.237BS	ルディ		speaker
-BTL_EVT2.2382	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。		
-BTL_EVT2.23C0S	海竜		speaker
-BTL_EVT2.23C5	グギギャア～！		
-BTL_EVT2.23D7S	海竜		speaker
-BTL_EVT2.23DC	グギギャア～！		
-BTL_EVT2.2412S	ルディ		speaker
-BTL_EVT2.2419	街道で人を襲うなんて……{n}これ以上被害を出さないためにも、お前を倒す！		
-BTL_EVT2.2463S	ルディ		speaker
-BTL_EVT2.246A	ふう……{n}これで、みんな安心して通れるようになるな。		
-BTL_EVT2.24A2S	ヴェノム		speaker
-BTL_EVT2.24AB	シューシューシュー……		
-BTL_EVT2.24C5S	ヴェノム		speaker
-BTL_EVT2.24CE	シューシューシュー……		
-BTL_EVT2.250CS	ルディ		speaker
-BTL_EVT2.2513	レグランスで暴れてるんじゃ、{n}ほうってはおけないぜ。{wait}{clear}これ以上、村を襲うつもりなら、おれが倒す！		
-BTL_EVT2.2579S	ルディ		speaker
-BTL_EVT2.2580	やった！　これで村も安心だぜ！		
-BTL_EVT2.25A2S	ロック		speaker
-BTL_EVT2.25A9	クワァアアー！		
-BTL_EVT2.25BBS	ロック		speaker
-BTL_EVT2.25C2	クワァアアー！		
-BTL_EVT2.25F8S	ルディ		speaker
-BTL_EVT2.25FF	街道で人を襲うなんて……{n}これ以上被害を出さないためにも、お前を倒す！		
-BTL_EVT2.2649S	ルディ		speaker
-BTL_EVT2.2650	ふう……{n}これで、みんな安心して通れるようになるな。		
-BTL_EVT2.2688S	ミリピード		speaker
-BTL_EVT2.2693	ギシギシギシギシギシギシ……		
-BTL_EVT2.26B3S	ミリピード		speaker
-BTL_EVT2.26BE	ギシギシギシギシギシギシ……		
-BTL_EVT2.2702S	ルディ		speaker
-BTL_EVT2.2709	やっぱり、アンデッドだったのか。{n}それにしても、なんだか不気味な連中だな……。{n}とっとと片づけてやるぜ！		
-BTL_EVT2.2775S	ルディ		speaker
-BTL_EVT2.277C	終わったか……。{n}はあ……やっぱり、不気味だよな……{n}やつらは……。		
-BTL_EVT2.27C4S	スカルナイト		speaker
-BTL_EVT2.27D1	ニンゲン……イラナイ……{n}クカカカカカカ……！		
-BTL_EVT2.2803S	スカルナイト		speaker
-BTL_EVT2.2810	ニンゲン……イラナイ……{n}クカカカカカカ……！		
-BTL_EVT2.2866S	ルディ		speaker
-BTL_EVT2.286D	なんだよ、お前ら……気味が悪いな……。		
-BTL_EVT2.2897S	ルディ		speaker
-BTL_EVT2.289E	はあ……気味の悪いやつらだった……。		
-BTL_EVT2.28C6S	バンシー		speaker
-BTL_EVT2.28CF	ひひひひひ……		
-BTL_EVT2.28E1S	バンシー		speaker
-BTL_EVT2.28EA	ひひひひひ……		
-BTL_EVT2.2920S	ルディ		speaker
-BTL_EVT2.2927	村人だちを苦しめているのは、お前らか！？		
-BTL_EVT2.2953S	バーグラー		speaker
-BTL_EVT2.295E	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT2.29D2S	ルディ		speaker
-BTL_EVT2.29D9	お前らがいくら束になったって、{n}おれは負けないぜ。		
-BTL_EVT2.2A0FS	バーグラー		speaker
-BTL_EVT2.2A1A	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT2.2A52S	バーグラー		speaker
-BTL_EVT2.2A5D	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT2.2AB9S	ルディ		speaker
-BTL_EVT2.2AC0	村人だちを苦しめているのは、お前らか！？		
-BTL_EVT2.2AECS	バーグラー		speaker
-BTL_EVT2.2AF7	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT2.2B6BS	ルディ		speaker
-BTL_EVT2.2B72	お前らがいくら束になったって、{n}おれは負けないぜ。		
-BTL_EVT2.2BA8S	バーグラー		speaker
-BTL_EVT2.2BB3	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT2.2BEBS	バーグラー		speaker
-BTL_EVT2.2BF6	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT2.2C52S	ルディ		speaker
-BTL_EVT2.2C59	お前……魔族が……どうして……。		
-BTL_EVT2.2C7DS	リベザル		speaker
-BTL_EVT2.2C86	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！		
-BTL_EVT2.2CE6S	ルディ		speaker
-BTL_EVT2.2CED	魔族までが……くそっ！		
-BTL_EVT2.2D07S	リベザル		speaker
-BTL_EVT2.2D10	人間など我らの敵ではない！{n}ふははははは……っ！		
-BTL_EVT2.2D44S	リベザル		speaker
-BTL_EVT2.2D4D	人間など我らの敵ではない！{n}ふははははは……っ！		
-BTL_EVT2.2DA5S	ルディ		speaker
-BTL_EVT2.2DAC	こんなところに集まって、なんの相談だ？		
-BTL_EVT2.2DD6S	反乱兵		speaker
-BTL_EVT2.2DDD	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！		
-BTL_EVT2.2E39S	ルディ		speaker
-BTL_EVT2.2E40	くそっ！　こんな連中がいるなんて……。		
-BTL_EVT2.2E6AS	反乱兵		speaker
-BTL_EVT2.2E71	我々の邪魔などさせん！		
-BTL_EVT2.2E8BS	反乱兵		speaker
-BTL_EVT2.2E92	我々の邪魔などさせん！		
-BTL_EVT2.2ED0S	ルディ		speaker
-BTL_EVT2.2ED7	ここは大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！		
-BTL_EVT2.2F31S	ジャイアント		speaker
-BTL_EVT2.2F3E	人間ごときがおれに勝てると思うな！		
-BTL_EVT2.2F64S	ルディ		speaker
-BTL_EVT2.2F6B	ざっとこんなもんさ。		
-BTL_EVT2.2F83S	ジャイアント		speaker
-BTL_EVT2.2F90	おれが負けるわけなどない！{n}ぐわはははっ！		
-BTL_EVT2.2FBES	ジャイアント		speaker
-BTL_EVT2.2FCB	おれが負けるわけなどない！{n}ぐわはははっ！		
-BTL_EVT2.301DS	ルディ		speaker
-BTL_EVT2.3024	村で暴れるのはやめろ！		
-BTL_EVT2.303ES	オーク		speaker
-BTL_EVT2.3045	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
-BTL_EVT2.3077S	ルディ		speaker
-BTL_EVT2.307E	これで、村も安心だろう。{n}でも、なんだか……。		
-BTL_EVT2.30B0S	オーク		speaker
-BTL_EVT2.30B7	ニンゲン　ジャマ……！		
-BTL_EVT2.30D1S	オーク		speaker
-BTL_EVT2.30D8	ニンゲン　ジャマ……！		
-BTL_EVT2.3116S	ルディ		speaker
-BTL_EVT2.311D	うわっ！　なんだ、こいつら！		
-BTL_EVT2.313DS	グレムリン		speaker
-BTL_EVT2.3148	キシシシシシ！		
-BTL_EVT2.315AS	ルディ		speaker
-BTL_EVT2.3161	ふう……終わったぜ……。		
-BTL_EVT2.317DS	グレムリン		speaker
-BTL_EVT2.3188	キシシシシシ！		
-BTL_EVT2.319AS	グレムリン		speaker
-BTL_EVT2.31A5	キシシシシシ！		
-BTL_EVT2.31DBS	ルディ		speaker
-BTL_EVT2.31E2	お前ら……		
-BTL_EVT2.31F0S	ゴーゴン		speaker
-BTL_EVT2.31F9	ふふふ……まだ子供だけど、まあ、いいわ。{n}いい置物になるでしょう。		
-BTL_EVT2.323FS	ルディ		speaker
-BTL_EVT2.3246	終わった……。		
-BTL_EVT2.3258S	ゴーゴン		speaker
-BTL_EVT2.3261	ふふふふ……{n}あはははは……！		
-BTL_EVT2.3283S	ゴーゴン		speaker
-BTL_EVT2.328C	ふふふふ……{n}あはははは……！		
-BTL_EVT2.32D2S	ルディ		speaker
-BTL_EVT2.32D9	出ていかないんだったら、倒すだけだ。		
-BTL_EVT2.3301S	ルディ		speaker
-BTL_EVT2.3308	終わったぜ……。		
-BTL_EVT2.331CS	ヘルハウンド		speaker
-BTL_EVT2.3329	うおおお～んっ！！		
-BTL_EVT2.333FS	ヘルハウンド		speaker
-BTL_EVT2.334C	うおおお～んっ！！		
-BTL_EVT2.3386S	ルディ		speaker
-BTL_EVT2.338D	竜巻の原因は、こいつらだったのか？		
-BTL_EVT2.33B3S	キメラ		speaker
-BTL_EVT2.33BA	きえ～！　きえ～！		
-BTL_EVT2.33D0S	ルディ		speaker
-BTL_EVT2.33D7	これで村も大丈夫だろう。		
-BTL_EVT2.33F3S	キメラ		speaker
-BTL_EVT2.33FA	きえ～！　きえ～！		
-BTL_EVT2.3410S	キメラ		speaker
-BTL_EVT2.3417	きえ～！　きえ～！		
-BTL_EVT2.3451S	ルディ		speaker
-BTL_EVT2.3458	森の中でおとなしくしてくれていれば、{n}よかったのにな。{n}おれを襲う気なら、こっちも行くぜ。		
-BTL_EVT2.34B6S	ルディ		speaker
-BTL_EVT2.34BD	ふう……{n}ひとまずは、これで大丈夫だろう。		
-BTL_EVT2.34EBS	グリズリー		speaker
-BTL_EVT2.34F6	ぐがあ～！		
-BTL_EVT2.3504S	グリズリー		speaker
-BTL_EVT2.350F	ぐがあ～！		
-BTL_EVT2.3541S	ルディ		speaker
-BTL_EVT2.3548	おとなしく帰ってくれればいいのに……。{n}襲ってくるなら、おれもお前を倒すだけだ。		
-BTL_EVT2.359CS	ルディ		speaker
-BTL_EVT2.35A3	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。		
-BTL_EVT2.35E1S	海竜		speaker
-BTL_EVT2.35E6	グギギャア～！		
-BTL_EVT2.35F8S	海竜		speaker
-BTL_EVT2.35FD	グギギャア～！		
-BTL_EVT2.3633S	ルディ		speaker
-BTL_EVT2.363A	このあたりで暴れてる盗賊って、{n}あんたたちか？		
-BTL_EVT2.366CS	ミリシア		speaker
-BTL_EVT2.3675	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！		
-BTL_EVT2.36C5S	ルディ		speaker
-BTL_EVT2.36CC	こういう連中がいるから……！		
-BTL_EVT2.36ECS	ミリシア		speaker
-BTL_EVT2.36F5	はははっ！　まだまだ暴れるぜ！		
-BTL_EVT2.3717S	ミリシア		speaker
-BTL_EVT2.3720	はははっ！　まだまだ暴れるぜ！		
-BTL_EVT2.3766S	ルディ		speaker
-BTL_EVT2.376D	やっぱり、アンデッドの仕業だったのか……。		
-BTL_EVT2.379BS	ノスフェラトゥ		speaker
-BTL_EVT2.37AA	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。		
-BTL_EVT2.381CS	ルディ		speaker
-BTL_EVT2.3823	どうも苦手だな、この手の連中は……。		
-BTL_EVT2.384BS	ノスフェラトゥ		speaker
-BTL_EVT2.385A	人間はすべて我らにひざまずくがいい！		
-BTL_EVT2.3882S	ノスフェラトゥ		speaker
-BTL_EVT2.3891	人間はすべて我らにひざまずくがいい！		
-BTL_EVT2.38DDS	ヘルハウンド		speaker
-BTL_EVT2.38EA	グルル……！		
-BTL_EVT2.38FAS	ルディ		speaker
-BTL_EVT2.3901	お前らが村人たちを！		
-BTL_EVT2.3919S	ルディ		speaker
-BTL_EVT2.3920	もう、これで大丈夫だ……。		
-BTL_EVT2.393ES	ヘルハウンド		speaker
-BTL_EVT2.394B	ウワオオ～ン！		
-BTL_EVT2.395DS	ヘルハウンド		speaker
-BTL_EVT2.396A	ウワオオ～ン！		
-BTL_EVT2.39A0S	グレムリン		speaker
-BTL_EVT2.39AB	キシー！　キシシシー！		
-BTL_EVT2.39C5S	ルディ		speaker
-BTL_EVT2.39CC	うわっ！　なんだ？{n}まさか、こいつらが子供たちを……！？		
-BTL_EVT2.3A08S	ルディ		speaker
-BTL_EVT2.3A0F	これで、もう子供が襲われることはないだろうな。		
-BTL_EVT2.3A41S	グレムリン		speaker
-BTL_EVT2.3A4C	キシー！　キシシシー！		
-BTL_EVT2.3A66S	グレムリン		speaker
-BTL_EVT2.3A71	キシー！　キシシシー！		
-BTL_EVT2.3AAFS	ルディ		speaker
-BTL_EVT2.3AB6	みんなに被害が出る前に倒してやるぜ。		
-BTL_EVT2.3ADES	ルディ		speaker
-BTL_EVT2.3AE5	終わったな。{n}ま、こんなもんさ。		
-BTL_EVT2.3B09S	デスウィドウ		speaker
-BTL_EVT2.3B16	ギーギーギー		
-BTL_EVT2.3B26S	デスウィドウ		speaker
-BTL_EVT2.3B33	ギーギーギー		
-BTL_EVT2.3B67S	ルディ		speaker
-BTL_EVT2.3B6E	こんなに暴れてるんじゃ、{n}ほうってはおけないぜ。{wait}{clear}これ以上、村を襲うつもりなら、おれが倒す！		
-BTL_EVT2.3BD0S	ルディ		speaker
-BTL_EVT2.3BD7	やった！　これで村も安心だぜ！		
-BTL_EVT2.3BF9S	ベルクート		speaker
-BTL_EVT2.3C04	クワァアアー！		
-BTL_EVT2.3C16S	ベルクート		speaker
-BTL_EVT2.3C21	クワァアアー！		
-BTL_EVT2.3C57S	ルディ		speaker
-BTL_EVT2.3C5E	どうして村と人を襲ったりするんだ？		
-BTL_EVT2.3C84S	ホブゴブリン		speaker
-BTL_EVT2.3C91	コノむら、モラッタ。{n}オレタチノむらニスル！		
-BTL_EVT2.3CC1S	ルディ		speaker
-BTL_EVT2.3CC8	これで村は大丈夫だ……。		
-BTL_EVT2.3CE4S	ホブゴブリン		speaker
-BTL_EVT2.3CF1	オレタチノむら、マモッタ！		
-BTL_EVT2.3D0FS	ホブゴブリン		speaker
-BTL_EVT2.3D1C	オレタチノむら、マモッタ！		
-BTL_EVT2.3D5ES	海竜		speaker
-BTL_EVT2.3D63	グギギャギャ～！		
-BTL_EVT2.3D77S	ルディ		speaker
-BTL_EVT2.3D7E	魚がとれないと、みんなが困るんだ。{n}おとなしく帰る気がないんなら、{n}おれが相手になるぜ！		
-BTL_EVT2.3DDAS	ルディ		speaker
-BTL_EVT2.3DE1	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。		
-BTL_EVT2.3E1FS	海竜		speaker
-BTL_EVT2.3E24	グギャア～！　グギャア～！		
-BTL_EVT2.3E42S	海竜		speaker
-BTL_EVT2.3E47	グギャア～！　グギャア～！		
-BTL_EVT2.3E89S	ルディ		speaker
-BTL_EVT2.3E90	この声の正体は、海竜だったんだな。{n}襲ってくるなら、戦うしかないか……。		
-BTL_EVT2.3EDCS	ルディ		speaker
-BTL_EVT2.3EE3	これで、街の人も安心するだろう。		
-BTL_EVT2.3F07S	海竜		speaker
-BTL_EVT2.3F0C	ギャアアア～ギャアアア～		
-BTL_EVT2.3F28S	海竜		speaker
-BTL_EVT2.3F2D	ギャアアア～ギャアアア～		
-BTL_EVT2.3F6DS	ノスフェラトゥ		speaker
-BTL_EVT2.3F7C	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。		
-BTL_EVT2.3FC8S	ルディ		speaker
-BTL_EVT2.3FCF	おれに言いたいことはそれだけか……行くぜ！		
-BTL_EVT2.3FFDS	ルディ		speaker
-BTL_EVT2.4004	嫌な連中だぜ……。		
-BTL_EVT2.401AS	ノスフェラトゥ		speaker
-BTL_EVT2.4029	はははは……！{n}天使の勇者など、他愛もないものだな。		
-BTL_EVT2.4061S	ノスフェラトゥ		speaker
-BTL_EVT2.4070	はははは……！{n}天使の勇者など、他愛もないものだな。		
-BTL_EVT2.40CCS	ルディ		speaker
-BTL_EVT2.40D3	お前は……いったい何者なんだ！？		
-BTL_EVT2.40F7S	アロケン		speaker
-BTL_EVT2.4100	愚かな人間に名乗る名などない。行くぞ！		
-BTL_EVT2.412AS	アロケン		speaker
-BTL_EVT2.4133	安心するなよ……これからがすべての始まりだ……！		
-BTL_EVT2.4167S	アロケン		speaker
-BTL_EVT2.4170	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
-BTL_EVT2.41AAS	アロケン		speaker
-BTL_EVT2.41B3	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
-BTL_EVT2.4211S	ルディ		speaker
-BTL_EVT2.4218	お前は……いったい何者なんだ！？		
-BTL_EVT2.423CS	ウジャト		speaker
-BTL_EVT2.4245	愚かな人間に名乗る名などない。{n}行くわよ！		
-BTL_EVT2.4273S	ウジャト		speaker
-BTL_EVT2.427C	安心しないことよ……{n}これからがすべての始まり……！		
-BTL_EVT2.42B4S	ウジャト		speaker
-BTL_EVT2.42BD	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
-BTL_EVT2.42F7S	ウジャト		speaker
-BTL_EVT2.4300	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
-BTL_EVT2.435ES	ルディ		speaker
-BTL_EVT2.4365	お前は……いったい何者なんだ！？		
-BTL_EVT2.4389S	リベザル		speaker
-BTL_EVT2.4392	愚かな人間に名乗る名はない。行くぜ！		
-BTL_EVT2.43BAS	リベザル		speaker
-BTL_EVT2.43C3	安心するな……これからがすべての始まりだ……！		
-BTL_EVT2.43F5S	リベザル		speaker
-BTL_EVT2.43FE	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
-BTL_EVT2.443CS	リベザル		speaker
-BTL_EVT2.4445	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
-BTL_EVT2.44A7S	ゴーゴン		speaker
-BTL_EVT2.44B0	待っていたのは、あなたじゃないわ。{n}邪魔だから消えて！		
-BTL_EVT2.44EAS	ゴーゴン		speaker
-BTL_EVT2.44F3	ひとめ会いたかったのに……彼に……。		
-BTL_EVT2.451BS	ゴーゴン		speaker
-BTL_EVT2.4524	私が会いたいのは、ただひとりよ！		
-BTL_EVT2.4548S	ゴーゴン		speaker
-BTL_EVT2.4551	私が会いたいのは、ただひとりよ！		
-BTL_EVT2.4599S	ルディ		speaker
-BTL_EVT2.45A0	街道に巣くうなんて最悪だ……{n}それにここは重要な街道だからな。{wait}{clear}邪魔になるなら、倒すしかない。		
-BTL_EVT2.4604S	ルディ		speaker
-BTL_EVT2.460B	ふう……{n}これで、みんな安心して通れるようになるな。		
-BTL_EVT2.4643S	スキュラ		speaker
-BTL_EVT2.464C	きえ～！　きえ～！		
-BTL_EVT2.4662S	スキュラ		speaker
-BTL_EVT2.466B	きえ～！　きえ～！		
-BTL_EVT2.46A5S	ルディ		speaker
-BTL_EVT2.46AC	こんなところに集まって、なんの相談だ？		
-BTL_EVT2.46D6S	バラム		speaker
-BTL_EVT2.46DD	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！		
-BTL_EVT2.471DS	ルディ		speaker
-BTL_EVT2.4724	欲望のために魔物と手を組む人間がいる……{n}それもおれの国で……{n}くそっ！！		
-BTL_EVT2.4772S	バラム		speaker
-BTL_EVT2.4779	誰も俺を止めることなどできん！		
-BTL_EVT2.479BS	バラム		speaker
-BTL_EVT2.47A2	誰も俺を止めることなどできん！		
-BTL_EVT2.47E8S	融合兵		speaker
-BTL_EVT2.47EF	ワレワレノ　ジャマヲ　スルナ！		
-BTL_EVT2.4811S	融合兵		speaker
-BTL_EVT2.4818	イマイマシイ　ニンゲン　ドモ……！		
-BTL_EVT2.483ES	融合兵		speaker
-BTL_EVT2.4845	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
-BTL_EVT2.4877S	融合兵		speaker
-BTL_EVT2.487E	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
-BTL_EVT2.48D4S	ルディ		speaker
-BTL_EVT2.48DB	村人の命を狙うのなら、倒す！		
-BTL_EVT2.48FBS	ノスフェラトゥ		speaker
-BTL_EVT2.490A	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
-BTL_EVT2.4962S	ルディ		speaker
-BTL_EVT2.4969	なんて嫌な連中なんだ！		
-BTL_EVT2.4983S	ノスフェラトゥ		speaker
-BTL_EVT2.4992	人間はすべて我らにひざまずくがいい！		
-BTL_EVT2.49BAS	ノスフェラトゥ		speaker
-BTL_EVT2.49C9	人間はすべて我らにひざまずくがいい！		
-BTL_EVT2.4A15S	ウィザード		speaker
-BTL_EVT2.4A20	あの方をよみがえらせるには、{n}まだまだ女が足りん……。		
-BTL_EVT2.4A5AS	ルディ		speaker
-BTL_EVT2.4A61	お前らか！？　女性を連れ去ったのは！		
-BTL_EVT2.4A89S	ルディ		speaker
-BTL_EVT2.4A90	なんか……嫌な事件だな……。		
-BTL_EVT2.4AB0S	ウィザード		speaker
-BTL_EVT2.4ABB	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
-BTL_EVT2.4AF9S	ウィザード		speaker
-BTL_EVT2.4B04	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
-BTL_EVT2.4B66S	ルディ		speaker
-BTL_EVT2.4B6D	うわっ！　なんだ、こいつら！		
-BTL_EVT2.4B8DS	グレムリン		speaker
-BTL_EVT2.4B98	キシシシシシ！		
-BTL_EVT2.4BAAS	ルディ		speaker
-BTL_EVT2.4BB1	ふう……終わったぜ……。		
-BTL_EVT2.4BCDS	グレムリン		speaker
-BTL_EVT2.4BD8	キシシシシシ！		
-BTL_EVT2.4BEAS	グレムリン		speaker
-BTL_EVT2.4BF5	キシシシシシ！		
-BTL_EVT2.4C2BS	リベザル		speaker
-BTL_EVT2.4C34	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！		
-BTL_EVT2.4C7AS	ルディ		speaker
-BTL_EVT2.4C81	そんなこと、させるもんか！		
-BTL_EVT2.4C9FS	ルディ		speaker
-BTL_EVT2.4CA6	この森にまで魔族が現れるなんて……。		
-BTL_EVT2.4CCES	リベザル		speaker
-BTL_EVT2.4CD7	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
-BTL_EVT2.4D15S	リベザル		speaker
-BTL_EVT2.4D1E	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
-BTL_EVT2.4D80S	ルディ		speaker
-BTL_EVT2.4D87	黒い影の正体は、シャドウ！？		
-BTL_EVT2.4DA7S	ルディ		speaker
-BTL_EVT2.4DAE	ふう……{n}これで、みんな安心して通れるようになるな。		
-BTL_EVT2.4DE6S	ファントム		speaker
-BTL_EVT2.4DF1	ひゅうひゅう……		
-BTL_EVT2.4E05S	ファントム		speaker
-BTL_EVT2.4E10	ひゅうひゅう……		
-BTL_EVT2.4E48S	ルディ		speaker
-BTL_EVT2.4E4F	これ以上好き勝手はさせないぞ！		
-BTL_EVT2.4E71S	帝国騎士		speaker
-BTL_EVT2.4E7A	貴様ひとりで、{n}我々の兵力相手に何ができると言うのだ？		
-BTL_EVT2.4EB4S	ルディ		speaker
-BTL_EVT2.4EBB	なんだと……！		
-BTL_EVT2.4ECDS	ルディ		speaker
-BTL_EVT2.4ED4	くそ、帝国のやつらめ！{wait}{clear}なに！？　新手か！？		
-BTL_EVT2.4F06S	帝国騎士		speaker
-BTL_EVT2.4F0F	我々に逆らうからだ！　ははははは！		
-BTL_EVT2.4F35S	帝国騎士		speaker
-BTL_EVT2.4F3E	ぶざまだな！　ははははは！		
-BTL_EVT2.4FA4S	帝国騎士		speaker
-BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！		
-BTL_EVT2.5011S	ルディ		speaker
-BTL_EVT2.5018	アルベリック？{n}そんなやつ、おれには関係ない！{wait}{clear}関係ない人々を巻き込むんなら、{n}お前らは皆、おれの敵だ！		
-BTL_EVT2.5086S	帝国騎士		speaker
-BTL_EVT2.508F	なんだと、貴様！{n}我々に逆らうのなら死ね！！		
-BTL_EVT2.50BFS	帝国騎士		speaker
-BTL_EVT2.50C8	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。		
-BTL_EVT2.5102S	ルディ		speaker
-BTL_EVT2.5109	とうとうバーゼルのアルクマールまで……。{wait}{clear}レグランスまでの進軍も時間の問題か！？		
-BTL_EVT2.515FS	帝国騎士		speaker
-BTL_EVT2.5168	帝国バンザイ！！		
-BTL_EVT2.517CS	帝国騎士		speaker
-BTL_EVT2.5185	帝国バンザイ！！		
-BTL_EVT2.51BDS	帝国兵		speaker
-BTL_EVT2.51C4	帝国バンザイ！！		
-BTL_EVT2.51D8S	帝国兵		speaker
-BTL_EVT2.51DF	帝国バンザイ！！		
+BTL_EVT2.16BA	ははは！　いい様だぜ！	Hahaha! Serves you right!	
+BTL_EVT2.171CS	ルディ	Rudi	speaker
+BTL_EVT2.1723	帝国は、なにを考えてるんだ！？	What is the Empire thinking?!	
+BTL_EVT2.1745S	帝国兵	Soldier	speaker
+BTL_EVT2.174C	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！	Hmph! None of your business. If you get in{n}our way, we'll simply kill you!	
+BTL_EVT2.1790S	ルディ	Rudi	speaker
+BTL_EVT2.1797	帝国は、なにをはじめようっていうんだ？	What is the Empire trying to start?	
+BTL_EVT2.17C1S	帝国兵	Soldier	speaker
+BTL_EVT2.17C8	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT2.17F2S	帝国兵	Soldier	speaker
+BTL_EVT2.17F9	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT2.1847S	ルディ	Rudi	speaker
+BTL_EVT2.184E	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？	Stop picking on the weak! What good does{n}this do?!	
+BTL_EVT2.188ES	帝国兵	Soldier	speaker
+BTL_EVT2.1895	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！	You could never grasp our Emperor's aims.{n}Obey us quietly, or die!	
+BTL_EVT2.18E1S	ルディ	Rudi	speaker
+BTL_EVT2.18E8	帝国のやつら……許せない……。	Those Imperials... I can't forgive them...	
+BTL_EVT2.190AS	帝国兵	Soldier	speaker
+BTL_EVT2.1911	わはははっ！{n}偉大なる帝国に栄えあれ！	Wahahaha! Glory to the great Empire!	
+BTL_EVT2.193BS	帝国兵	Soldier	speaker
+BTL_EVT2.1942	わはははっ！{n}偉大なる帝国に栄えあれ！	Wahahaha! Glory to the great Empire!	
+BTL_EVT2.1990S	ルディ	Rudi	speaker
+BTL_EVT2.1997	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？	Stop picking on the weak! What good does{n}this do?!	
+BTL_EVT2.19D7S	帝国騎士	Knight	speaker
+BTL_EVT2.19E0	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！	Nothing surpasses our great cause. Beg for{n}mercy now and we may spare you... Wahahaha!	
+BTL_EVT2.1A40S	ルディ	Rudi	speaker
+BTL_EVT2.1A47	お前らなんかに従うものか！	Like I'd ever obey you guys!	
+BTL_EVT2.1A65S	ルディ	Rudi	speaker
+BTL_EVT2.1A6C	帝国が相手じゃ、キリがない……{n}このままじゃ……。	Against the Empire, there's no end to it...{n}At this rate...	
+BTL_EVT2.1AA2S	帝国騎士	Knight	speaker
+BTL_EVT2.1AAB	我々に逆らうなど、むだなこと！	Resisting us is futile!	
+BTL_EVT2.1ACDS	帝国騎士	Knight	speaker
+BTL_EVT2.1AD6	我々に逆らうなど、むだなこと！	Resisting us is futile!	
+BTL_EVT2.1B1CS	ルディ	Rudi	speaker
+BTL_EVT2.1B23	弱い者いじめはやめろ！{n}こんなことをして、なんになるんだ！？	Stop picking on the weak! What good does{n}this do?!	
+BTL_EVT2.1B63S	帝国兵	Soldier	speaker
+BTL_EVT2.1B6A	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！	You could never grasp our Emperor's aims.{n}Obey us quietly, or die!	
+BTL_EVT2.1BB6S	ルディ	Rudi	speaker
+BTL_EVT2.1BBD	帝国が相手じゃ、キリがない……{n}このままじゃ……。	Against the Empire, there's no end to it...{n}At this rate...	
+BTL_EVT2.1BF3S	帝国騎士	Knight	speaker
+BTL_EVT2.1BFC	我らには紅月王がついておられる！　わはははは！	The Crimson Moon King is with us! Wahahaha!	
+BTL_EVT2.1C2ES	帝国騎士	Knight	speaker
+BTL_EVT2.1C37	我らには紅月王がついておられる！　わはははは！	The Crimson Moon King is with us! Wahahaha!	
+BTL_EVT2.1C8DS	ルディ	Rudi	speaker
+BTL_EVT2.1C94	これ以上、罪のない人を苦しめるのはやめろ！{n}こんなことをして、なんになるんだ！？	Stop tormenting innocent people! What good{n}does this do?!	
+BTL_EVT2.1CE8S	帝国騎士	Knight	speaker
+BTL_EVT2.1CF1	我らの進軍、誰にも止めることなどできん！	No one can stop our march!	
+BTL_EVT2.1D1DS	ルディ	Rudi	speaker
+BTL_EVT2.1D24	勝ったところで、これじゃ……。	Even if I win, this...	
+BTL_EVT2.1D46S	帝国騎士	Knight	speaker
+BTL_EVT2.1D4F	我が戦いは、皇帝のため！	I fight for the Emperor!	
+BTL_EVT2.1D6BS	帝国騎士	Knight	speaker
+BTL_EVT2.1D74	我が戦いは、皇帝のため！	I fight for the Emperor!	
+BTL_EVT2.1DB4S	ルディ	Rudi	speaker
+BTL_EVT2.1DBB	なんで、こんなやつが帝国軍といっしょに！？{n}いったいなにが起こったんだ？	Why is something like this with the Imperial{n}Army?! What on earth happened?	
+BTL_EVT2.1E07S	融合兵	Fused Troop	speaker
+BTL_EVT2.1E0E	愚かな人間には、なにもわかるまい……死ね！	Foolish humans could never understand...{n}Die!	
+BTL_EVT2.1E3CS	ルディ	Rudi	speaker
+BTL_EVT2.1E43	こんなことになるなんて……{n}くそっ！！{n}でも、あきらめないぜ……おれは……。	I never thought it'd come to this... Damn{n}it!! But I won't give up... not me...	
+BTL_EVT2.1E93S	融合兵	Fused Troop	speaker
+BTL_EVT2.1E9A	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！	Gwahahaha! Foolish humans! Now you know our{n}power!!	
+BTL_EVT2.1EDAS	融合兵	Fused Troop	speaker
+BTL_EVT2.1EE1	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！	Gwahahaha! Foolish humans! Now you know our{n}power!!	
+BTL_EVT2.1F45S	ルディ	Rudi	speaker
+BTL_EVT2.1F4C	うわっ！　ひどいな、この血のにおいは……！{n}こんなやつら、とっとと片づけてやるぜ！	Whoa! This stench of blood is awful...! I'll{n}clean these guys up fast!	
+BTL_EVT2.1FA2S	ルディ	Rudi	speaker
+BTL_EVT2.1FA9	気持ちわるかったな……。	That was gross...	
+BTL_EVT2.1FC5S	カオスジェリー	Chaos Jelly	speaker
+BTL_EVT2.1FD4	ギュルギュルゥ……。	Gyurugyuruu...	
+BTL_EVT2.1FECS	カオスジェリー	Chaos Jelly	speaker
+BTL_EVT2.1FFB	ギュルギュルゥ……。	Gyurugyuruu...	
+BTL_EVT2.2037S	ルディ	Rudi	speaker
+BTL_EVT2.203E	ここはグラニスをつなぐ、大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village sits on the main highway to{n}Granis. I'll get rid of any monster running{wait}{clear}wild here!	
+BTL_EVT2.20AAS	ルディ	Rudi	speaker
+BTL_EVT2.20B1	ざっとこんなもんさ。	Easy as that.	
+BTL_EVT2.20C9S	デッドプラント	Dead Plant	speaker
+BTL_EVT2.20D8	ひゅるひゅる……。	Hyuruhyuru...	
+BTL_EVT2.20EES	デッドプラント	Dead Plant	speaker
+BTL_EVT2.20FD	ひゅるひゅる……。	Hyuruhyuru...	
+BTL_EVT2.2137S	ルディ	Rudi	speaker
+BTL_EVT2.213E	女の人ばっかり狙う卑怯な連中は、お前らだな！{n}おれが倒してやるぜ！	So you're the cowards who only go after{n}women! I'll take you down!	
+BTL_EVT2.2184S	シーフ	Thief	speaker
+BTL_EVT2.218B	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our way? Hah! This'll be{n}fun!	
+BTL_EVT2.21C1S	ルディ	Rudi	speaker
+BTL_EVT2.21C8	口ほどにもないやつらだ！	All talk, these guys!	
+BTL_EVT2.21E4S	シーフ	Thief	speaker
+BTL_EVT2.21EB	はっはは！　ざまあみやがれ！	Hahaha! Serves you right!	
+BTL_EVT2.220BS	シーフ	Thief	speaker
+BTL_EVT2.2212	はっはは！　ざまあみやがれ！	Hahaha! Serves you right!	
+BTL_EVT2.2256S	ルディ	Rudi	speaker
+BTL_EVT2.225D	うわっ！　でかいな……{n}でも、倒してやるぜ！	Whoa! It's huge... But I'll take it down!	
+BTL_EVT2.228DS	ルディ	Rudi	speaker
+BTL_EVT2.2294	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。	Phew... Made it somehow... That should do{n}it.	
+BTL_EVT2.22D2S	海竜	Sea Dragon	speaker
+BTL_EVT2.22D7	グギャア～！	Gugyaaah~!	
+BTL_EVT2.22E7S	海竜	Sea Dragon	speaker
+BTL_EVT2.22EC	グギャア～！	Gugyaaah~!	
+BTL_EVT2.2320S	ルディ	Rudi	speaker
+BTL_EVT2.2327	おとなしく帰ってくれればいいのに……。{n}襲ってくるなら、おれもお前を倒すだけだ。	I wish you'd just go home quietly... If you{n}attack, I'll have to take you down.	
+BTL_EVT2.237BS	ルディ	Rudi	speaker
+BTL_EVT2.2382	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。	Phew... Made it somehow... That should do{n}it.	
+BTL_EVT2.23C0S	海竜	Sea Dragon	speaker
+BTL_EVT2.23C5	グギギャア～！	Gugigyaaah~!	
+BTL_EVT2.23D7S	海竜	Sea Dragon	speaker
+BTL_EVT2.23DC	グギギャア～！	Gugigyaaah~!	
+BTL_EVT2.2412S	ルディ	Rudi	speaker
+BTL_EVT2.2419	街道で人を襲うなんて……{n}これ以上被害を出さないためにも、お前を倒す！	Attacking people on the highway... I'll beat{n}you so nobody else gets hurt!	
+BTL_EVT2.2463S	ルディ	Rudi	speaker
+BTL_EVT2.246A	ふう……{n}これで、みんな安心して通れるようになるな。	Phew... Now everyone can travel safely.	
+BTL_EVT2.24A2S	ヴェノム	Venom	speaker
+BTL_EVT2.24AB	シューシューシュー……	Hsss hsss hsss...	
+BTL_EVT2.24C5S	ヴェノム	Venom	speaker
+BTL_EVT2.24CE	シューシューシュー……	Hsss hsss hsss...	
+BTL_EVT2.250CS	ルディ	Rudi	speaker
+BTL_EVT2.2513	レグランスで暴れてるんじゃ、{n}ほうってはおけないぜ。{wait}{clear}これ以上、村を襲うつもりなら、おれが倒す！	If you're running wild in Legrance, I can't{n}let it go.{wait}{clear}If you mean to keep attacking villages, I'll{n}take you down!	
+BTL_EVT2.2579S	ルディ	Rudi	speaker
+BTL_EVT2.2580	やった！　これで村も安心だぜ！	Yes! The village is safe now!	
+BTL_EVT2.25A2S	ロック	Roc	speaker
+BTL_EVT2.25A9	クワァアアー！	Kwaaaaah!	
+BTL_EVT2.25BBS	ロック	Roc	speaker
+BTL_EVT2.25C2	クワァアアー！	Kwaaaaah!	
+BTL_EVT2.25F8S	ルディ	Rudi	speaker
+BTL_EVT2.25FF	街道で人を襲うなんて……{n}これ以上被害を出さないためにも、お前を倒す！	Attacking people on the highway... I'll beat{n}you so nobody else gets hurt!	
+BTL_EVT2.2649S	ルディ	Rudi	speaker
+BTL_EVT2.2650	ふう……{n}これで、みんな安心して通れるようになるな。	Phew... Now everyone can travel safely.	
+BTL_EVT2.2688S	ミリピード	Millipede	speaker
+BTL_EVT2.2693	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
+BTL_EVT2.26B3S	ミリピード	Millipede	speaker
+BTL_EVT2.26BE	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
+BTL_EVT2.2702S	ルディ	Rudi	speaker
+BTL_EVT2.2709	やっぱり、アンデッドだったのか。{n}それにしても、なんだか不気味な連中だな……。{n}とっとと片づけてやるぜ！	So it was undead after all. These guys sure{n}are creepy... I'll clean 'em up fast!	
+BTL_EVT2.2775S	ルディ	Rudi	speaker
+BTL_EVT2.277C	終わったか……。{n}はあ……やっぱり、不気味だよな……{n}やつらは……。	Is it over...? Haah... They really are{n}creepy... those things...	
+BTL_EVT2.27C4S	スカルナイト	Skull Knight	speaker
+BTL_EVT2.27D1	ニンゲン……イラナイ……{n}クカカカカカカ……！	HUMANS... NOT NEEDED... KAKAKAKAKA...!	
+BTL_EVT2.2803S	スカルナイト	Skull Knight	speaker
+BTL_EVT2.2810	ニンゲン……イラナイ……{n}クカカカカカカ……！	HUMANS... NOT NEEDED... KAKAKAKAKA...!	
+BTL_EVT2.2866S	ルディ	Rudi	speaker
+BTL_EVT2.286D	なんだよ、お前ら……気味が悪いな……。	What's with you guys... Creepy...	
+BTL_EVT2.2897S	ルディ	Rudi	speaker
+BTL_EVT2.289E	はあ……気味の悪いやつらだった……。	Haah... What a creepy bunch...	
+BTL_EVT2.28C6S	バンシー	Banshee	speaker
+BTL_EVT2.28CF	ひひひひひ……	Hihihihihi...	
+BTL_EVT2.28E1S	バンシー	Banshee	speaker
+BTL_EVT2.28EA	ひひひひひ……	Hihihihihi...	
+BTL_EVT2.2920S	ルディ	Rudi	speaker
+BTL_EVT2.2927	村人だちを苦しめているのは、お前らか！？	Are you the ones tormenting the villagers?!	
+BTL_EVT2.2953S	バーグラー	Burglar	speaker
+BTL_EVT2.295E	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT2.29D2S	ルディ	Rudi	speaker
+BTL_EVT2.29D9	お前らがいくら束になったって、{n}おれは負けないぜ。	No matter how many of you gang up on me, I{n}won't lose.	
+BTL_EVT2.2A0FS	バーグラー	Burglar	speaker
+BTL_EVT2.2A1A	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
+BTL_EVT2.2A52S	バーグラー	Burglar	speaker
+BTL_EVT2.2A5D	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
+BTL_EVT2.2AB9S	ルディ	Rudi	speaker
+BTL_EVT2.2AC0	村人だちを苦しめているのは、お前らか！？	Are you the ones tormenting the villagers?!	
+BTL_EVT2.2AECS	バーグラー	Burglar	speaker
+BTL_EVT2.2AF7	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT2.2B6BS	ルディ	Rudi	speaker
+BTL_EVT2.2B72	お前らがいくら束になったって、{n}おれは負けないぜ。	No matter how many of you gang up on me, I{n}won't lose.	
+BTL_EVT2.2BA8S	バーグラー	Burglar	speaker
+BTL_EVT2.2BB3	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
+BTL_EVT2.2BEBS	バーグラー	Burglar	speaker
+BTL_EVT2.2BF6	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
+BTL_EVT2.2C52S	ルディ	Rudi	speaker
+BTL_EVT2.2C59	お前……魔族が……どうして……。	You're... a demon... but why...	
+BTL_EVT2.2C7DS	リベザル	Ribezal	speaker
+BTL_EVT2.2C86	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
+BTL_EVT2.2CE6S	ルディ	Rudi	speaker
+BTL_EVT2.2CED	魔族までが……くそっ！	Even demons... Damn it!	
+BTL_EVT2.2D07S	リベザル	Ribezal	speaker
+BTL_EVT2.2D10	人間など我らの敵ではない！{n}ふははははは……っ！	Humans are no match for us! Fuhahahaha...!	
+BTL_EVT2.2D44S	リベザル	Ribezal	speaker
+BTL_EVT2.2D4D	人間など我らの敵ではない！{n}ふははははは……っ！	Humans are no match for us! Fuhahahaha...!	
+BTL_EVT2.2DA5S	ルディ	Rudi	speaker
+BTL_EVT2.2DAC	こんなところに集まって、なんの相談だ？	What are you all plotting, gathered here?	
+BTL_EVT2.2DD6S	反乱兵	Rebel	speaker
+BTL_EVT2.2DDD	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！	Hmph! None of your business.{wait}{clear}But it'd be bad if anyone learned we're{n}here. Die!	
+BTL_EVT2.2E39S	ルディ	Rudi	speaker
+BTL_EVT2.2E40	くそっ！　こんな連中がいるなんて……。	Damn! To think there are people like this...	
+BTL_EVT2.2E6AS	反乱兵	Rebel	speaker
+BTL_EVT2.2E71	我々の邪魔などさせん！	We won't let you interfere!	
+BTL_EVT2.2E8BS	反乱兵	Rebel	speaker
+BTL_EVT2.2E92	我々の邪魔などさせん！	We won't let you interfere!	
+BTL_EVT2.2ED0S	ルディ	Rudi	speaker
+BTL_EVT2.2ED7	ここは大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village is on an important highway.{n}I'll get rid of any monster running wild{wait}{clear}here!	
+BTL_EVT2.2F31S	ジャイアント	Giant	speaker
+BTL_EVT2.2F3E	人間ごときがおれに勝てると思うな！	Don't think a mere human can beat me!	
+BTL_EVT2.2F64S	ルディ	Rudi	speaker
+BTL_EVT2.2F6B	ざっとこんなもんさ。	Easy as that.	
+BTL_EVT2.2F83S	ジャイアント	Giant	speaker
+BTL_EVT2.2F90	おれが負けるわけなどない！{n}ぐわはははっ！	There's no way I could lose! Gwahahaha!	
+BTL_EVT2.2FBES	ジャイアント	Giant	speaker
+BTL_EVT2.2FCB	おれが負けるわけなどない！{n}ぐわはははっ！	There's no way I could lose! Gwahahaha!	
+BTL_EVT2.301DS	ルディ	Rudi	speaker
+BTL_EVT2.3024	村で暴れるのはやめろ！	Stop running wild in the village!	
+BTL_EVT2.303ES	オーク	Orc	speaker
+BTL_EVT2.3045	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！	SHUT UP! HUMANS NOT ONLY ONES WHO GET GOOD{n}THINGS!	
+BTL_EVT2.3077S	ルディ	Rudi	speaker
+BTL_EVT2.307E	これで、村も安心だろう。{n}でも、なんだか……。	The village should be safe now. But{n}somehow...	
+BTL_EVT2.30B0S	オーク	Orc	speaker
+BTL_EVT2.30B7	ニンゲン　ジャマ……！	HUMAN... IN WAY...!	
+BTL_EVT2.30D1S	オーク	Orc	speaker
+BTL_EVT2.30D8	ニンゲン　ジャマ……！	HUMAN... IN WAY...!	
+BTL_EVT2.3116S	ルディ	Rudi	speaker
+BTL_EVT2.311D	うわっ！　なんだ、こいつら！	Whoa! What are these things?!	
+BTL_EVT2.313DS	グレムリン	Gremlin	speaker
+BTL_EVT2.3148	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.315AS	ルディ	Rudi	speaker
+BTL_EVT2.3161	ふう……終わったぜ……。	Phew... It's over...	
+BTL_EVT2.317DS	グレムリン	Gremlin	speaker
+BTL_EVT2.3188	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.319AS	グレムリン	Gremlin	speaker
+BTL_EVT2.31A5	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.31DBS	ルディ	Rudi	speaker
+BTL_EVT2.31E2	お前ら……	You lot...	
+BTL_EVT2.31F0S	ゴーゴン	Gorgon	speaker
+BTL_EVT2.31F9	ふふふ……まだ子供だけど、まあ、いいわ。{n}いい置物になるでしょう。	Hehehe... Still a child, but oh well. You'll{n}make a nice ornament.	
+BTL_EVT2.323FS	ルディ	Rudi	speaker
+BTL_EVT2.3246	終わった……。	It's over...	
+BTL_EVT2.3258S	ゴーゴン	Gorgon	speaker
+BTL_EVT2.3261	ふふふふ……{n}あはははは……！	Hehehehe... Ahahahaha...!	
+BTL_EVT2.3283S	ゴーゴン	Gorgon	speaker
+BTL_EVT2.328C	ふふふふ……{n}あはははは……！	Hehehehe... Ahahahaha...!	
+BTL_EVT2.32D2S	ルディ	Rudi	speaker
+BTL_EVT2.32D9	出ていかないんだったら、倒すだけだ。	If you won't leave, I'll just have to beat{n}you.	
+BTL_EVT2.3301S	ルディ	Rudi	speaker
+BTL_EVT2.3308	終わったぜ……。	It's over...	
+BTL_EVT2.331CS	ヘルハウンド	Hellhound	speaker
+BTL_EVT2.3329	うおおお～んっ！！	Awooooo!!	
+BTL_EVT2.333FS	ヘルハウンド	Hellhound	speaker
+BTL_EVT2.334C	うおおお～んっ！！	Awooooo!!	
+BTL_EVT2.3386S	ルディ	Rudi	speaker
+BTL_EVT2.338D	竜巻の原因は、こいつらだったのか？	So these were behind the whirlwinds?	
+BTL_EVT2.33B3S	キメラ	Chimera	speaker
+BTL_EVT2.33BA	きえ～！　きえ～！	Kyeee! Kyeee!	
+BTL_EVT2.33D0S	ルディ	Rudi	speaker
+BTL_EVT2.33D7	これで村も大丈夫だろう。	The village should be fine now.	
+BTL_EVT2.33F3S	キメラ	Chimera	speaker
+BTL_EVT2.33FA	きえ～！　きえ～！	Kyeee! Kyeee!	
+BTL_EVT2.3410S	キメラ	Chimera	speaker
+BTL_EVT2.3417	きえ～！　きえ～！	Kyeee! Kyeee!	
+BTL_EVT2.3451S	ルディ	Rudi	speaker
+BTL_EVT2.3458	森の中でおとなしくしてくれていれば、{n}よかったのにな。{n}おれを襲う気なら、こっちも行くぜ。	If only you'd stayed quietly in the forest.{n}If you're coming for me, here I come too.	
+BTL_EVT2.34B6S	ルディ	Rudi	speaker
+BTL_EVT2.34BD	ふう……{n}ひとまずは、これで大丈夫だろう。	Phew... That should do it for now.	
+BTL_EVT2.34EBS	グリズリー	Grizzly	speaker
+BTL_EVT2.34F6	ぐがあ～！	Grraaah~!	
+BTL_EVT2.3504S	グリズリー	Grizzly	speaker
+BTL_EVT2.350F	ぐがあ～！	Grraaah~!	
+BTL_EVT2.3541S	ルディ	Rudi	speaker
+BTL_EVT2.3548	おとなしく帰ってくれればいいのに……。{n}襲ってくるなら、おれもお前を倒すだけだ。	I wish you'd just go home quietly... If you{n}attack, I'll have to take you down.	
+BTL_EVT2.359CS	ルディ	Rudi	speaker
+BTL_EVT2.35A3	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。	Phew... Made it somehow... That should do{n}it.	
+BTL_EVT2.35E1S	海竜	Sea Dragon	speaker
+BTL_EVT2.35E6	グギギャア～！	Gugigyaaah~!	
+BTL_EVT2.35F8S	海竜	Sea Dragon	speaker
+BTL_EVT2.35FD	グギギャア～！	Gugigyaaah~!	
+BTL_EVT2.3633S	ルディ	Rudi	speaker
+BTL_EVT2.363A	このあたりで暴れてる盗賊って、{n}あんたたちか？	Are you the bandits running wild around{n}here?	
+BTL_EVT2.366CS	ミリシア	Militia	speaker
+BTL_EVT2.3675	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！	Hmph! So what if we are? You leave your{n}stuff here too!	
+BTL_EVT2.36C5S	ルディ	Rudi	speaker
+BTL_EVT2.36CC	こういう連中がいるから……！	It's because of people like this...!	
+BTL_EVT2.36ECS	ミリシア	Militia	speaker
+BTL_EVT2.36F5	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna keep on raiding!	
+BTL_EVT2.3717S	ミリシア	Militia	speaker
+BTL_EVT2.3720	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna keep on raiding!	
+BTL_EVT2.3766S	ルディ	Rudi	speaker
+BTL_EVT2.376D	やっぱり、アンデッドの仕業だったのか……。	So it was the undead's doing after all...	
+BTL_EVT2.379BS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.37AA	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT2.381CS	ルディ	Rudi	speaker
+BTL_EVT2.3823	どうも苦手だな、この手の連中は……。	I just can't stand this type...	
+BTL_EVT2.384BS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.385A	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
+BTL_EVT2.3882S	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.3891	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
+BTL_EVT2.38DDS	ヘルハウンド	Hellhound	speaker
+BTL_EVT2.38EA	グルル……！	Grrr...!	
+BTL_EVT2.38FAS	ルディ	Rudi	speaker
+BTL_EVT2.3901	お前らが村人たちを！	So you're the ones who did it to the{n}villagers!	
+BTL_EVT2.3919S	ルディ	Rudi	speaker
+BTL_EVT2.3920	もう、これで大丈夫だ……。	It's all right now...	
+BTL_EVT2.393ES	ヘルハウンド	Hellhound	speaker
+BTL_EVT2.394B	ウワオオ～ン！	Awoooo~!	
+BTL_EVT2.395DS	ヘルハウンド	Hellhound	speaker
+BTL_EVT2.396A	ウワオオ～ン！	Awoooo~!	
+BTL_EVT2.39A0S	グレムリン	Gremlin	speaker
+BTL_EVT2.39AB	キシー！　キシシシー！	Kishee! Kishishishee!	
+BTL_EVT2.39C5S	ルディ	Rudi	speaker
+BTL_EVT2.39CC	うわっ！　なんだ？{n}まさか、こいつらが子供たちを……！？	Whoa! What's that? Don't tell me these{n}things took the children...?!	
+BTL_EVT2.3A08S	ルディ	Rudi	speaker
+BTL_EVT2.3A0F	これで、もう子供が襲われることはないだろうな。	Now no more children will be attacked.	
+BTL_EVT2.3A41S	グレムリン	Gremlin	speaker
+BTL_EVT2.3A4C	キシー！　キシシシー！	Kishee! Kishishishee!	
+BTL_EVT2.3A66S	グレムリン	Gremlin	speaker
+BTL_EVT2.3A71	キシー！　キシシシー！	Kishee! Kishishishee!	
+BTL_EVT2.3AAFS	ルディ	Rudi	speaker
+BTL_EVT2.3AB6	みんなに被害が出る前に倒してやるぜ。	I'll beat you before anyone gets hurt.	
+BTL_EVT2.3ADES	ルディ	Rudi	speaker
+BTL_EVT2.3AE5	終わったな。{n}ま、こんなもんさ。	It's over. Well, that's that.	
+BTL_EVT2.3B09S	デスウィドウ	Death Widow	speaker
+BTL_EVT2.3B16	ギーギーギー	Gee gee gee	
+BTL_EVT2.3B26S	デスウィドウ	Death Widow	speaker
+BTL_EVT2.3B33	ギーギーギー	Gee gee gee	
+BTL_EVT2.3B67S	ルディ	Rudi	speaker
+BTL_EVT2.3B6E	こんなに暴れてるんじゃ、{n}ほうってはおけないぜ。{wait}{clear}これ以上、村を襲うつもりなら、おれが倒す！	If you're running this wild, I can't let it{n}go.{wait}{clear}If you mean to keep attacking villages, I'll{n}take you down!	
+BTL_EVT2.3BD0S	ルディ	Rudi	speaker
+BTL_EVT2.3BD7	やった！　これで村も安心だぜ！	Yes! The village is safe now!	
+BTL_EVT2.3BF9S	ベルクート	Berkut	speaker
+BTL_EVT2.3C04	クワァアアー！	Kwaaaaah!	
+BTL_EVT2.3C16S	ベルクート	Berkut	speaker
+BTL_EVT2.3C21	クワァアアー！	Kwaaaaah!	
+BTL_EVT2.3C57S	ルディ	Rudi	speaker
+BTL_EVT2.3C5E	どうして村と人を襲ったりするんだ？	Why did you attack the village and its{n}people?	
+BTL_EVT2.3C84S	ホブゴブリン	Hobgoblin	speaker
+BTL_EVT2.3C91	コノむら、モラッタ。{n}オレタチノむらニスル！	THIS VILLAGE, WE TAKE. MAKE IT OUR VILLAGE!	
+BTL_EVT2.3CC1S	ルディ	Rudi	speaker
+BTL_EVT2.3CC8	これで村は大丈夫だ……。	The village is safe now...	
+BTL_EVT2.3CE4S	ホブゴブリン	Hobgoblin	speaker
+BTL_EVT2.3CF1	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!	
+BTL_EVT2.3D0FS	ホブゴブリン	Hobgoblin	speaker
+BTL_EVT2.3D1C	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!	
+BTL_EVT2.3D5ES	海竜	Sea Dragon	speaker
+BTL_EVT2.3D63	グギギャギャ～！	Gugigyagyaah~!	
+BTL_EVT2.3D77S	ルディ	Rudi	speaker
+BTL_EVT2.3D7E	魚がとれないと、みんなが困るんだ。{n}おとなしく帰る気がないんなら、{n}おれが相手になるぜ！	If they can't catch fish, everyone suffers.{n}If you won't go home quietly, I'll fight{wait}{clear}you!	
+BTL_EVT2.3DDAS	ルディ	Rudi	speaker
+BTL_EVT2.3DE1	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。	Phew... Made it somehow... That should do{n}it.	
+BTL_EVT2.3E1FS	海竜	Sea Dragon	speaker
+BTL_EVT2.3E24	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
+BTL_EVT2.3E42S	海竜	Sea Dragon	speaker
+BTL_EVT2.3E47	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
+BTL_EVT2.3E89S	ルディ	Rudi	speaker
+BTL_EVT2.3E90	この声の正体は、海竜だったんだな。{n}襲ってくるなら、戦うしかないか……。	So the voice was a sea dragon. If it{n}attacks, I'll have to fight...	
+BTL_EVT2.3EDCS	ルディ	Rudi	speaker
+BTL_EVT2.3EE3	これで、街の人も安心するだろう。	The townspeople can rest easy now.	
+BTL_EVT2.3F07S	海竜	Sea Dragon	speaker
+BTL_EVT2.3F0C	ギャアアア～ギャアアア～	Gyaaaah~ Gyaaaah~	
+BTL_EVT2.3F28S	海竜	Sea Dragon	speaker
+BTL_EVT2.3F2D	ギャアアア～ギャアアア～	Gyaaaah~ Gyaaaah~	
+BTL_EVT2.3F6DS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.3F7C	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。	Well, well, the angel's hero. We're honored{n}that you've accepted our invitation.	
+BTL_EVT2.3FC8S	ルディ	Rudi	speaker
+BTL_EVT2.3FCF	おれに言いたいことはそれだけか……行くぜ！	Is that all you've got to say to me...? Here{n}I come!	
+BTL_EVT2.3FFDS	ルディ	Rudi	speaker
+BTL_EVT2.4004	嫌な連中だぜ……。	What a nasty bunch...	
+BTL_EVT2.401AS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.4029	はははは……！{n}天使の勇者など、他愛もないものだな。	Hahahaha...! The angel's hero is nothing to{n}speak of.	
+BTL_EVT2.4061S	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.4070	はははは……！{n}天使の勇者など、他愛もないものだな。	Hahahaha...! The angel's hero is nothing to{n}speak of.	
+BTL_EVT2.40CCS	ルディ	Rudi	speaker
+BTL_EVT2.40D3	お前は……いったい何者なんだ！？	What... what on earth are you?!	
+BTL_EVT2.40F7S	アロケン	Allocen	speaker
+BTL_EVT2.4100	愚かな人間に名乗る名などない。行くぞ！	I have no name to give a foolish human. Here{n}I come!	
+BTL_EVT2.412AS	アロケン	Allocen	speaker
+BTL_EVT2.4133	安心するなよ……これからがすべての始まりだ……！	Don't relax just yet... This is only the{n}beginning...!	
+BTL_EVT2.4167S	アロケン	Allocen	speaker
+BTL_EVT2.4170	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！	A mere human could never beat me. Wahahaha!	
+BTL_EVT2.41AAS	アロケン	Allocen	speaker
+BTL_EVT2.41B3	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！	A mere human could never beat me. Wahahaha!	
+BTL_EVT2.4211S	ルディ	Rudi	speaker
+BTL_EVT2.4218	お前は……いったい何者なんだ！？	What... what on earth are you?!	
+BTL_EVT2.423CS	ウジャト	Udjat	speaker
+BTL_EVT2.4245	愚かな人間に名乗る名などない。{n}行くわよ！	I have no name to give a foolish human. Here{n}I come!	
+BTL_EVT2.4273S	ウジャト	Udjat	speaker
+BTL_EVT2.427C	安心しないことよ……{n}これからがすべての始まり……！	Don't relax just yet... This is only the{n}beginning...!	
+BTL_EVT2.42B4S	ウジャト	Udjat	speaker
+BTL_EVT2.42BD	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！	A mere human could never beat me. Ahahahaha!	
+BTL_EVT2.42F7S	ウジャト	Udjat	speaker
+BTL_EVT2.4300	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！	A mere human could never beat me. Ahahahaha!	
+BTL_EVT2.435ES	ルディ	Rudi	speaker
+BTL_EVT2.4365	お前は……いったい何者なんだ！？	What... what on earth are you?!	
+BTL_EVT2.4389S	リベザル	Ribezal	speaker
+BTL_EVT2.4392	愚かな人間に名乗る名はない。行くぜ！	I got no name to give a foolish human. Here{n}I come!	
+BTL_EVT2.43BAS	リベザル	Ribezal	speaker
+BTL_EVT2.43C3	安心するな……これからがすべての始まりだ……！	Don't relax... This is only the{n}beginning...!	
+BTL_EVT2.43F5S	リベザル	Ribezal	speaker
+BTL_EVT2.43FE	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！	A mere human could never beat me. Uhehehehe!	
+BTL_EVT2.443CS	リベザル	Ribezal	speaker
+BTL_EVT2.4445	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！	A mere human could never beat me. Uhehehehe!	
+BTL_EVT2.44A7S	ゴーゴン	Gorgon	speaker
+BTL_EVT2.44B0	待っていたのは、あなたじゃないわ。{n}邪魔だから消えて！	You're not the one I was waiting for. You're{n}in the way, so vanish!	
+BTL_EVT2.44EAS	ゴーゴン	Gorgon	speaker
+BTL_EVT2.44F3	ひとめ会いたかったのに……彼に……。	I only wanted to see him once... just{n}once...	
+BTL_EVT2.451BS	ゴーゴン	Gorgon	speaker
+BTL_EVT2.4524	私が会いたいのは、ただひとりよ！	There's only one person I want to see!	
+BTL_EVT2.4548S	ゴーゴン	Gorgon	speaker
+BTL_EVT2.4551	私が会いたいのは、ただひとりよ！	There's only one person I want to see!	
+BTL_EVT2.4599S	ルディ	Rudi	speaker
+BTL_EVT2.45A0	街道に巣くうなんて最悪だ……{n}それにここは重要な街道だからな。{wait}{clear}邪魔になるなら、倒すしかない。	Nesting on the highway is the worst... And{n}this is an important highway.{wait}{clear}If you're in the way, I'll have to beat you.	
+BTL_EVT2.4604S	ルディ	Rudi	speaker
+BTL_EVT2.460B	ふう……{n}これで、みんな安心して通れるようになるな。	Phew... Now everyone can travel safely.	
+BTL_EVT2.4643S	スキュラ	Scylla	speaker
+BTL_EVT2.464C	きえ～！　きえ～！	Kyeee! Kyeee!	
+BTL_EVT2.4662S	スキュラ	Scylla	speaker
+BTL_EVT2.466B	きえ～！　きえ～！	Kyeee! Kyeee!	
+BTL_EVT2.46A5S	ルディ	Rudi	speaker
+BTL_EVT2.46AC	こんなところに集まって、なんの相談だ？	What are you all plotting, gathered here?	
+BTL_EVT2.46D6S	バラム	Balam	speaker
+BTL_EVT2.46DD	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！	Isn't it obvious? We wipe out every human{n}who defies us!	
+BTL_EVT2.471DS	ルディ	Rudi	speaker
+BTL_EVT2.4724	欲望のために魔物と手を組む人間がいる……{n}それもおれの国で……{n}くそっ！！	Humans who team up with monsters out of{n}greed... in my own country too... Damn it!!	
+BTL_EVT2.4772S	バラム	Balam	speaker
+BTL_EVT2.4779	誰も俺を止めることなどできん！	No one can stop me!	
+BTL_EVT2.479BS	バラム	Balam	speaker
+BTL_EVT2.47A2	誰も俺を止めることなどできん！	No one can stop me!	
+BTL_EVT2.47E8S	融合兵	Fused Troop	speaker
+BTL_EVT2.47EF	ワレワレノ　ジャマヲ　スルナ！	DO NOT... GET IN OUR WAY!	
+BTL_EVT2.4811S	融合兵	Fused Troop	speaker
+BTL_EVT2.4818	イマイマシイ　ニンゲン　ドモ……！	ACCURSED... HUMANS...!	
+BTL_EVT2.483ES	融合兵	Fused Troop	speaker
+BTL_EVT2.4845	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　	ANGEL'S HERO... IS NOTHING SPECIAL!	
+BTL_EVT2.4877S	融合兵	Fused Troop	speaker
+BTL_EVT2.487E	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　	ANGEL'S HERO... IS NOTHING SPECIAL!	
+BTL_EVT2.48D4S	ルディ	Rudi	speaker
+BTL_EVT2.48DB	村人の命を狙うのなら、倒す！	If you're after the villagers' lives, I'll{n}take you down!	
+BTL_EVT2.48FBS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.490A	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！	Hehehe... Most of this village is already my{n}servants. I'll add you to them!	
+BTL_EVT2.4962S	ルディ	Rudi	speaker
+BTL_EVT2.4969	なんて嫌な連中なんだ！	What a nasty bunch!	
+BTL_EVT2.4983S	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.4992	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
+BTL_EVT2.49BAS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.49C9	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
+BTL_EVT2.4A15S	ウィザード	Wizard	speaker
+BTL_EVT2.4A20	あの方をよみがえらせるには、{n}まだまだ女が足りん……。	We still need many more women to revive that{n}one...	
+BTL_EVT2.4A5AS	ルディ	Rudi	speaker
+BTL_EVT2.4A61	お前らか！？　女性を連れ去ったのは！	Was it you?! You carried off the women!	
+BTL_EVT2.4A89S	ルディ	Rudi	speaker
+BTL_EVT2.4A90	なんか……嫌な事件だな……。	What a... nasty affair...	
+BTL_EVT2.4AB0S	ウィザード	Wizard	speaker
+BTL_EVT2.4ABB	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！	We will revive that one! We'll let no one{n}stand in our way!	
+BTL_EVT2.4AF9S	ウィザード	Wizard	speaker
+BTL_EVT2.4B04	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！	We will revive that one! We'll let no one{n}stand in our way!	
+BTL_EVT2.4B66S	ルディ	Rudi	speaker
+BTL_EVT2.4B6D	うわっ！　なんだ、こいつら！	Whoa! What are these things?!	
+BTL_EVT2.4B8DS	グレムリン	Gremlin	speaker
+BTL_EVT2.4B98	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.4BAAS	ルディ	Rudi	speaker
+BTL_EVT2.4BB1	ふう……終わったぜ……。	Phew... It's over...	
+BTL_EVT2.4BCDS	グレムリン	Gremlin	speaker
+BTL_EVT2.4BD8	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.4BEAS	グレムリン	Gremlin	speaker
+BTL_EVT2.4BF5	キシシシシシ！	Kishishishishi!	
+BTL_EVT2.4C2BS	リベザル	Ribezal	speaker
+BTL_EVT2.4C34	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！	What's so holy about this forest? I'll make{n}it all mine!	
+BTL_EVT2.4C7AS	ルディ	Rudi	speaker
+BTL_EVT2.4C81	そんなこと、させるもんか！	I won't let you do that!	
+BTL_EVT2.4C9FS	ルディ	Rudi	speaker
+BTL_EVT2.4CA6	この森にまで魔族が現れるなんて……。	Demons showing up even in this forest...	
+BTL_EVT2.4CCES	リベザル	Ribezal	speaker
+BTL_EVT2.4CD7	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
+BTL_EVT2.4D15S	リベザル	Ribezal	speaker
+BTL_EVT2.4D1E	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
+BTL_EVT2.4D80S	ルディ	Rudi	speaker
+BTL_EVT2.4D87	黒い影の正体は、シャドウ！？	The black shadow was a Shadow?!	
+BTL_EVT2.4DA7S	ルディ	Rudi	speaker
+BTL_EVT2.4DAE	ふう……{n}これで、みんな安心して通れるようになるな。	Phew... Now everyone can travel safely.	
+BTL_EVT2.4DE6S	ファントム	Phantom	speaker
+BTL_EVT2.4DF1	ひゅうひゅう……	Hyuu hyuu...	
+BTL_EVT2.4E05S	ファントム	Phantom	speaker
+BTL_EVT2.4E10	ひゅうひゅう……	Hyuu hyuu...	
+BTL_EVT2.4E48S	ルディ	Rudi	speaker
+BTL_EVT2.4E4F	これ以上好き勝手はさせないぞ！	I won't let you do as you please any longer!	
+BTL_EVT2.4E71S	帝国騎士	Knight	speaker
+BTL_EVT2.4E7A	貴様ひとりで、{n}我々の兵力相手に何ができると言うのだ？	What can you do on your own against our{n}forces?	
+BTL_EVT2.4EB4S	ルディ	Rudi	speaker
+BTL_EVT2.4EBB	なんだと……！	What...!	
+BTL_EVT2.4ECDS	ルディ	Rudi	speaker
+BTL_EVT2.4ED4	くそ、帝国のやつらめ！{wait}{clear}なに！？　新手か！？	Damn those Imperials!{wait}{clear}What?! More of them?!	
+BTL_EVT2.4F06S	帝国騎士	Knight	speaker
+BTL_EVT2.4F0F	我々に逆らうからだ！　ははははは！	That's what you get for defying us!{n}Hahahaha!	
+BTL_EVT2.4F35S	帝国騎士	Knight	speaker
+BTL_EVT2.4F3E	ぶざまだな！　ははははは！	How pathetic! Hahahaha!	
+BTL_EVT2.4FA4S	帝国騎士	Knight	speaker
+BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Lord Alberic, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT2.5011S	ルディ	Rudi	speaker
+BTL_EVT2.5018	アルベリック？{n}そんなやつ、おれには関係ない！{wait}{clear}関係ない人々を巻き込むんなら、{n}お前らは皆、おれの敵だ！	Alberic? I don't care about him!{wait}{clear}If you drag innocent people into this,{n}you're all my enemies!	
+BTL_EVT2.5086S	帝国騎士	Knight	speaker
+BTL_EVT2.508F	なんだと、貴様！{n}我々に逆らうのなら死ね！！	What did you say?! If you defy us, die!!	
+BTL_EVT2.50BFS	帝国騎士	Knight	speaker
+BTL_EVT2.50C8	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Lord Alberic... forgive me...{wait}{clear}Ugh...	
+BTL_EVT2.5102S	ルディ	Rudi	speaker
+BTL_EVT2.5109	とうとうバーゼルのアルクマールまで……。{wait}{clear}レグランスまでの進軍も時間の問題か！？	So they've reached Alkmaar in Basel...{wait}{clear}Is a march on Legrance just a matter of{n}time?!	
+BTL_EVT2.515FS	帝国騎士	Knight	speaker
+BTL_EVT2.5168	帝国バンザイ！！	Long live the Empire!!	
+BTL_EVT2.517CS	帝国騎士	Knight	speaker
+BTL_EVT2.5185	帝国バンザイ！！	Long live the Empire!!	
+BTL_EVT2.51BDS	帝国兵	Soldier	speaker
+BTL_EVT2.51C4	帝国バンザイ！！	Long live the Empire!!	
+BTL_EVT2.51D8S	帝国兵	Soldier	speaker
+BTL_EVT2.51DF	帝国バンザイ！！	Long live the Empire!!	
 BTL_EVT2.5283S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5292	ようこそ、我が城へ。{n}天使の勇者。		
+BTL_EVT2.5292	ようこそ、我が城へ。{n}天使の勇者。	Welcome to my castle, angel's hero.	
 BTL_EVT2.52B8S	ルディエール	Rudiere	speaker
-BTL_EVT2.52C5	吸血鬼王レイブンルフト！{n}おれがお前を倒しにきた！		
+BTL_EVT2.52C5	吸血鬼王レイブンルフト！{n}おれがお前を倒しにきた！	Vampire King Ravenruft! I've come to defeat{n}you!	
 BTL_EVT2.52FBS	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.530A	勇ましさは認めよう。{n}小僧。{wait}{clear}だが、その勇ましさは{n}無謀でしかないいことを教えてやろう。{wait}{clear}死ぬがいい！		
+BTL_EVT2.530A	勇ましさは認めよう。{n}小僧。{wait}{clear}だが、その勇ましさは{n}無謀でしかないいことを教えてやろう。{wait}{clear}死ぬがいい！	I'll grant you your courage, boy.{wait}{clear}But let me teach you that such courage is{n}mere recklessness.{wait}{clear}Now die!	
 BTL_EVT2.5378S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5387	なかなかの力だ……。		
+BTL_EVT2.5387	なかなかの力だ……。	Quite some power...	
 BTL_EVT2.539FS	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.53AE	だが、私の力はこんなものではないぞ……		
+BTL_EVT2.53AE	だが、私の力はこんなものではないぞ……	But my power is far greater than this...	
 BTL_EVT2.53D8S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.53E7	ウォオオオオオオ！！！		
+BTL_EVT2.53E7	ウォオオオオオオ！！！	Uwoooooooh!!!	
 BTL_EVT2.5401S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5410	天使よ、これでわかったか、おのれの偽善を！		
+BTL_EVT2.5410	天使よ、これでわかったか、おのれの偽善を！	Angel, do you see your own hypocrisy now?!	
 BTL_EVT2.543ES	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.544D	この勇者はお前が殺したのだぞ！！		
+BTL_EVT2.544D	この勇者はお前が殺したのだぞ！！	It was you who killed this hero!!	
 BTL_EVT2.5471S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5480	フハハハハ！！		
+BTL_EVT2.5480	フハハハハ！！	Fuhahahaha!!	
 BTL_EVT2.5492S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.54A1	……なにが天使の勇者だ。		
+BTL_EVT2.54A1	……なにが天使の勇者だ。	...Angel's hero, indeed.	
 BTL_EVT2.54BDS	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.54CC	無様な敗北者が……。		
+BTL_EVT2.54CC	無様な敗北者が……。	A pathetic loser...	
 BTL_EVT2.5508S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5517	私は闇の中に帰るだけだ……。		
+BTL_EVT2.5517	私は闇の中に帰るだけだ……。	I merely return to the darkness...	
 BTL_EVT2.5537S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5546	天使よ、これでわかったか、おのれの偽善を！		
+BTL_EVT2.5546	天使よ、これでわかったか、おのれの偽善を！	Angel, do you see your own hypocrisy now?!	
 BTL_EVT2.5574S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5583	この勇者はお前が殺したのだぞ！！		
+BTL_EVT2.5583	この勇者はお前が殺したのだぞ！！	It was you who killed this hero!!	
 BTL_EVT2.55A7S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.55B6	フハハハハ！！		
+BTL_EVT2.55B6	フハハハハ！！	Fuhahahaha!!	
 BTL_EVT2.55C8S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.55D7	……なにが天使の勇者だ。		
+BTL_EVT2.55D7	……なにが天使の勇者だ。	...Angel's hero, indeed.	
 BTL_EVT2.55F3S	レイブンルフト	Ravenruft	speaker
-BTL_EVT2.5602	無様な敗北者が……。		
+BTL_EVT2.5602	無様な敗北者が……。	A pathetic loser...	
 BTL_EVT2.563ES	ルディエール	Rudiere	speaker
-BTL_EVT2.564B	どうして、こんな小さな子供まで……。{n}こいつも誰かに利用されてたのか……？		
+BTL_EVT2.564B	どうして、こんな小さな子供まで……。{n}こいつも誰かに利用されてたのか……？	Why even such a little child... Was he being{n}used by someone too...?	
 BTL_EVT2.5699S	イオン	Ion	speaker
-BTL_EVT2.56A0	ぼくの邪魔をするから……。		
+BTL_EVT2.56A0	ぼくの邪魔をするから……。	Because you got in my way...	
 BTL_EVT2.56BES	イオン	Ion	speaker
-BTL_EVT2.56C5	ぼくの邪魔をするから……。		
-BTL_EVT2.5707S	ルディ		speaker
-BTL_EVT2.570E	クッ……なんてばか力だ……。		
-BTL_EVT2.5752S	ルディ		speaker
+BTL_EVT2.56C5	ぼくの邪魔をするから……。	Because you got in my way...	
+BTL_EVT2.5707S	ルディ	Rudi	speaker
+BTL_EVT2.570E	クッ……なんてばか力だ……。	Ngh... What brute strength...	
+BTL_EVT2.5752S	ルディ	Rudi	speaker
 BTL_EVT2.5759	…………。	.....	
-BTL_EVT2.5767S	サヴィオ		speaker
-BTL_EVT2.5770	グハハハハハ。		
-BTL_EVT2.5782S	サヴィオ		speaker
-BTL_EVT2.578B	グハハハハハ。		
-BTL_EVT2.57C1S	ルディ		speaker
-BTL_EVT2.57C8	＄＄＄＄＄＄の話は本当だったんだ……。{n}でも、なんでこいつらが帝国軍に……？		
-BTL_EVT2.5818S	モラクス		speaker
-BTL_EVT2.5821	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！		
-BTL_EVT2.586FS	モラクス		speaker
-BTL_EVT2.5878	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。		
-BTL_EVT2.58C8S	ルディ		speaker
-BTL_EVT2.58CF	いったいどうなってるんだ？		
-BTL_EVT2.58EDS	モラクス		speaker
-BTL_EVT2.58F6	首を洗って出直して来い！{n}ワハハハっ！		
-BTL_EVT2.5920S	モラクス		speaker
-BTL_EVT2.5929	ワハハハ！　天使の勇者など、赤子のようだ！		
-BTL_EVT2.597BS	ラルヴァ		speaker
-BTL_EVT2.5984	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！		
-BTL_EVT2.5A16S	ルディ		speaker
-BTL_EVT2.5A1D	なんだとっ！？{n}倒されるのは、お前だ！　覚悟しろ！		
-BTL_EVT2.5A53S	ラルヴァ		speaker
-BTL_EVT2.5A5C	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！		
-BTL_EVT2.5AACS	ラルヴァ		speaker
-BTL_EVT2.5AB5	な、なんで……あたしが……。		
-BTL_EVT2.5AD5S	ルディ		speaker
-BTL_EVT2.5ADC	おれは、お前ら魔族になんか負けはしない。		
-BTL_EVT2.5B08S	ラルヴァ		speaker
-BTL_EVT2.5B11	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！		
-BTL_EVT2.5B63S	ラルヴァ		speaker
-BTL_EVT2.5B6C	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
-BTL_EVT2.5BC8S	ラルヴァ		speaker
-BTL_EVT2.5BD1	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
+BTL_EVT2.5767S	サヴィオ	Savio	speaker
+BTL_EVT2.5770	グハハハハハ。	Guhahahahaha.	
+BTL_EVT2.5782S	サヴィオ	Savio	speaker
+BTL_EVT2.578B	グハハハハハ。	Guhahahahaha.	
+BTL_EVT2.57C1S	ルディ	Rudi	speaker
+BTL_EVT2.57C8	＄＄＄＄＄＄の話は本当だったんだ……。{n}でも、なんでこいつらが帝国軍に……？	So what ＄＄＄＄＄＄ said was true... But{n}why are these things in the Imperial{wait}{clear}Army...?	
+BTL_EVT2.5818S	モラクス	Morax	speaker
+BTL_EVT2.5821	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT2.586FS	モラクス	Morax	speaker
+BTL_EVT2.5878	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
+BTL_EVT2.58C8S	ルディ	Rudi	speaker
+BTL_EVT2.58CF	いったいどうなってるんだ？	What on earth is going on?	
+BTL_EVT2.58EDS	モラクス	Morax	speaker
+BTL_EVT2.58F6	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
+BTL_EVT2.5920S	モラクス	Morax	speaker
+BTL_EVT2.5929	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero is like a babe in{n}arms!	
+BTL_EVT2.597BS	ラルヴァ	Larva	speaker
+BTL_EVT2.5984	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
+BTL_EVT2.5A16S	ルディ	Rudi	speaker
+BTL_EVT2.5A1D	なんだとっ！？{n}倒されるのは、お前だ！　覚悟しろ！	What?! You're the one going down! Get ready!	
+BTL_EVT2.5A53S	ラルヴァ	Larva	speaker
+BTL_EVT2.5A5C	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！	Ahahaha! What a funny thing to say! Then{n}let's see what you can do!!	
+BTL_EVT2.5AACS	ラルヴァ	Larva	speaker
+BTL_EVT2.5AB5	な、なんで……あたしが……。	H-how... could I...	
+BTL_EVT2.5AD5S	ルディ	Rudi	speaker
+BTL_EVT2.5ADC	おれは、お前ら魔族になんか負けはしない。	I won't lose to you demons.	
+BTL_EVT2.5B08S	ラルヴァ	Larva	speaker
+BTL_EVT2.5B11	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！	Hmph, big words... The real suffering for{n}you lot starts now. Ahahaha!	
+BTL_EVT2.5B63S	ラルヴァ	Larva	speaker
+BTL_EVT2.5B6C	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！	No human can beat me. Not even the angel's{n}hero. Ahahaha!	
+BTL_EVT2.5BC8S	ラルヴァ	Larva	speaker
+BTL_EVT2.5BD1	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。	What, running away? Humans really are{n}boring.	
 BTL_EVT2.5C59S	セレニス	Serenis	speaker
-BTL_EVT2.5C62	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
+BTL_EVT2.5C62	ふふふ……。{n}天使の勇者も所詮この程度なのね……。	Hehehe... So the angel's hero is no more{n}than this after all...	
 BTL_EVT2.5C98S	セレニス	Serenis	speaker
-BTL_EVT2.5CA1	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT2.5D8BS	王の女		speaker
-BTL_EVT2.5D92	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
+BTL_EVT2.5CA1	ふふふ……。{n}天使の勇者も所詮この程度なのね……。	Hehehe... So the angel's hero is no more{n}than this after all...	
+BTL_EVT2.5D8BS	王の女	King's Lady	speaker
+BTL_EVT2.5D92	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
 BTL_EVT2.5DE2S	ルディエール	Rudiere	speaker
-BTL_EVT2.5DEF	なんだ！　いきなり！{wait}{clear}お前たちには関係のないことだ。		
-BTL_EVT2.5E29S	王の女		speaker
-BTL_EVT2.5E30	ばかね！　ここでもずくと消えなさい！！		
+BTL_EVT2.5DEF	なんだ！　いきなり！{wait}{clear}お前たちには関係のないことだ。	What?! Out of nowhere!{wait}{clear}That's none of your business.	
+BTL_EVT2.5E29S	王の女	King's Lady	speaker
+BTL_EVT2.5E30	ばかね！　ここでもずくと消えなさい！！	Fool! Turn to dust right here and vanish!!	
 BTL_EVT2.5E5AS	ルディエール	Rudiere	speaker
-BTL_EVT2.5E67	なんだったんだあいつらは……。{wait}{clear}あっ、城が消えてる！{wait}{clear}この先には進めないってことか……？		
-BTL_EVT2.5EC7S	王の女		speaker
-BTL_EVT2.5ECE	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
-BTL_EVT2.5F10S	王の女		speaker
-BTL_EVT2.5F17	逃げましたわよ……。{n}ホホホホ……		
-BTL_EVT2.5FA9S	ノスフェラトゥ		speaker
-BTL_EVT2.5FB8	人間ごときに、我らの邪魔などさせるものか！		
-BTL_EVT2.5FE6S	ルディ		speaker
-BTL_EVT2.5FED	なんて嫌なやつなんだ……{n}吸血鬼ってのは……。		
-BTL_EVT2.601FS	ノスフェラトゥ		speaker
-BTL_EVT2.602E	人間など、我らの敵ではない！		
-BTL_EVT2.604ES	ノスフェラトゥ		speaker
-BTL_EVT2.605D	逃げていきおったわ！		
+BTL_EVT2.5E67	なんだったんだあいつらは……。{wait}{clear}あっ、城が消えてる！{wait}{clear}この先には進めないってことか……？	What was with them...?{wait}{clear}Ah, the castle's gone!{wait}{clear}So I can't go any further...?	
+BTL_EVT2.5EC7S	王の女	King's Lady	speaker
+BTL_EVT2.5ECE	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
+BTL_EVT2.5F10S	王の女	King's Lady	speaker
+BTL_EVT2.5F17	逃げましたわよ……。{n}ホホホホ……	They ran away... Ohohohoho...	
+BTL_EVT2.5FA9S	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.5FB8	人間ごときに、我らの邪魔などさせるものか！	We won't let mere humans interfere with us!	
+BTL_EVT2.5FE6S	ルディ	Rudi	speaker
+BTL_EVT2.5FED	なんて嫌なやつなんだ……{n}吸血鬼ってのは……。	What a nasty guy... vampires...	
+BTL_EVT2.601FS	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.602E	人間など、我らの敵ではない！	Humans are no match for us!	
+BTL_EVT2.604ES	ノスフェラトゥ	Nosferatu	speaker
+BTL_EVT2.605D	逃げていきおったわ！	It ran away!	
 BTL_EVT2.60E1S	ルディエール	Rudiere	speaker
-BTL_EVT2.60EE	あんた、勇者だったんだろ？{n}なんで吸血鬼になんか……。		
+BTL_EVT2.60EE	あんた、勇者だったんだろ？{n}なんで吸血鬼になんか……。	You were a hero, weren't you? Why would you{n}become a vampire...?	
 BTL_EVT2.6128S	クライヴ	Clive	speaker
 BTL_EVT2.6131	…………。	.....	
 BTL_EVT2.613FS	ルディエール	Rudiere	speaker
-BTL_EVT2.614C	もう言葉も通じないのか？		
+BTL_EVT2.614C	もう言葉も通じないのか？	Can't you even understand words anymore?	
 BTL_EVT2.6168S	ルディエール	Rudiere	speaker
-BTL_EVT2.6175	こんなの……。{wait}{clear}なんだか……やりきれない……。		
+BTL_EVT2.6175	こんなの……。{wait}{clear}なんだか……やりきれない……。	This is...{wait}{clear}It's just... too much to bear...	
 BTL_EVT2.61A9S	クライヴ	Clive	speaker
 BTL_EVT2.61B2	…………。	.....	
 BTL_EVT2.61C0S	クライヴ	Clive	speaker
 BTL_EVT2.61C9	…………。	.....	
-BTL_EVT2.621FS	ルディ		speaker
-BTL_EVT2.6226	くそ……きりがないぜ……。		
-BTL_EVT2.6244S	ルディ		speaker
-BTL_EVT2.624B	ダメだ……おれひとりじゃ……。		
-BTL_EVT2.626DS	帝国歩兵		speaker
-BTL_EVT2.6276	皇帝陛下バンザイ！		
-BTL_EVT2.628CS	帝国歩兵		speaker
-BTL_EVT2.6295	皇帝陛下バンザイ！		
-BTL_EVT2.62CFS	ルディ		speaker
-BTL_EVT2.62D6	出ていかないんだったら、倒すだけだ。		
-BTL_EVT2.62FES	ルディ		speaker
-BTL_EVT2.6305	終わったぜ……。		
-BTL_EVT2.6319S	ティンダロス		speaker
-BTL_EVT2.6326	うおおお～んっ！！		
-BTL_EVT2.633CS	ティンダロス		speaker
-BTL_EVT2.6349	うおおお～んっ！！		
-BTL_EVT2.6383S	ルディ		speaker
-BTL_EVT2.638A	なにやってんだ！？{n}ばかなことはやめろ！		
-BTL_EVT2.63B6S	ルディ		speaker
-BTL_EVT2.63BD	最低な連中だな……。		
+BTL_EVT2.621FS	ルディ	Rudi	speaker
+BTL_EVT2.6226	くそ……きりがないぜ……。	Damn... There's no end to them...	
+BTL_EVT2.6244S	ルディ	Rudi	speaker
+BTL_EVT2.624B	ダメだ……おれひとりじゃ……。	It's no good... not on my own...	
+BTL_EVT2.626DS	帝国歩兵	Foot Soldier	speaker
+BTL_EVT2.6276	皇帝陛下バンザイ！	Long live His Majesty the Emperor!	
+BTL_EVT2.628CS	帝国歩兵	Foot Soldier	speaker
+BTL_EVT2.6295	皇帝陛下バンザイ！	Long live His Majesty the Emperor!	
+BTL_EVT2.62CFS	ルディ	Rudi	speaker
+BTL_EVT2.62D6	出ていかないんだったら、倒すだけだ。	If you won't leave, I'll just have to beat{n}you.	
+BTL_EVT2.62FES	ルディ	Rudi	speaker
+BTL_EVT2.6305	終わったぜ……。	It's over...	
+BTL_EVT2.6319S	ティンダロス	Tindalos	speaker
+BTL_EVT2.6326	うおおお～んっ！！	Awooooo!!	
+BTL_EVT2.633CS	ティンダロス	Tindalos	speaker
+BTL_EVT2.6349	うおおお～んっ！！	Awooooo!!	
+BTL_EVT2.6383S	ルディ	Rudi	speaker
+BTL_EVT2.638A	なにやってんだ！？{n}ばかなことはやめろ！	What are you doing?! Stop this stupidity!	
+BTL_EVT2.63B6S	ルディ	Rudi	speaker
+BTL_EVT2.63BD	最低な連中だな……。	What a rotten bunch...	
 BTL_EVT2.63D5S	ウォーロック	Warlock	speaker
-BTL_EVT2.63E2	我らの儀式の意味……わかるはずはない……。		
+BTL_EVT2.63E2	我らの儀式の意味……わかるはずはない……。	The meaning of our ritual... is beyond{n}you...	
 BTL_EVT2.6410S	ウォーロック	Warlock	speaker
-BTL_EVT2.641D	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT2.646FS	ウジャト		speaker
-BTL_EVT2.6478	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		
-BTL_EVT2.64C0S	ルディ		speaker
-BTL_EVT2.64C7	くそっ！{n}こんな連中がいっぱい出てきたら、{n}この世界はどうなるんだよ！！		
-BTL_EVT2.6513S	ウジャト		speaker
-BTL_EVT2.651C	あははは！{n}情けない勇者だこと！		
-BTL_EVT2.6540S	ウジャト		speaker
-BTL_EVT2.6549	あははは！{n}情けない勇者だこと！		
-BTL_EVT2.6591S	ルディ		speaker
-BTL_EVT2.6598	お前らなんか、すぐに倒してやるぜ！		
-BTL_EVT2.65BES	ルディ		speaker
-BTL_EVT2.65C5	終わったか……。		
-BTL_EVT2.65D9S	ティンダロス		speaker
-BTL_EVT2.65E6	ウオォ～ン！！		
-BTL_EVT2.65F8S	ティンダロス		speaker
-BTL_EVT2.6605	ウオォ～ン！！		
-BTL_EVT2.663BS	モラクス		speaker
-BTL_EVT2.6644	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！		
-BTL_EVT2.6698S	ルディ		speaker
-BTL_EVT2.669F	あんな魔族に負けるわけないだろ！！		
-BTL_EVT2.66C5S	モラクス		speaker
-BTL_EVT2.66CE	ふははは！　出直してこい！		
-BTL_EVT2.66ECS	モラクス		speaker
-BTL_EVT2.66F5	勇者とは、あんなものか！{n}ふははははは……！		
+BTL_EVT2.641D	我らの儀式の意味……わかるはずはない……。	The meaning of our ritual... is beyond{n}you...	
+BTL_EVT2.646FS	ウジャト	Udjat	speaker
+BTL_EVT2.6478	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！	So you've come, angel's hero. Show me just{n}how strong you are!	
+BTL_EVT2.64C0S	ルディ	Rudi	speaker
+BTL_EVT2.64C7	くそっ！{n}こんな連中がいっぱい出てきたら、{n}この世界はどうなるんだよ！！	Damn! If lots of guys like this show up,{n}what'll happen to this world?!	
+BTL_EVT2.6513S	ウジャト	Udjat	speaker
+BTL_EVT2.651C	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
+BTL_EVT2.6540S	ウジャト	Udjat	speaker
+BTL_EVT2.6549	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
+BTL_EVT2.6591S	ルディ	Rudi	speaker
+BTL_EVT2.6598	お前らなんか、すぐに倒してやるぜ！	I'll beat you guys in no time!	
+BTL_EVT2.65BES	ルディ	Rudi	speaker
+BTL_EVT2.65C5	終わったか……。	Is it over...?	
+BTL_EVT2.65D9S	ティンダロス	Tindalos	speaker
+BTL_EVT2.65E6	ウオォ～ン！！	Awoooo!!	
+BTL_EVT2.65F8S	ティンダロス	Tindalos	speaker
+BTL_EVT2.6605	ウオォ～ン！！	Awoooo!!	
+BTL_EVT2.663BS	モラクス	Morax	speaker
+BTL_EVT2.6644	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！	Hmph, angel's hero or not, you're only{n}human. You can't hope to match me!{wait}{clear}Here I come!	
+BTL_EVT2.6698S	ルディ	Rudi	speaker
+BTL_EVT2.669F	あんな魔族に負けるわけないだろ！！	No way I'd lose to a demon like that!!	
+BTL_EVT2.66C5S	モラクス	Morax	speaker
+BTL_EVT2.66CE	ふははは！　出直してこい！	Fuhahaha! Come back when you're ready!	
+BTL_EVT2.66ECS	モラクス	Morax	speaker
+BTL_EVT2.66F5	勇者とは、あんなものか！{n}ふははははは……！	So that's a hero?! Fuhahahahaha...!	

@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev16b.0002	兄弟戦闘（勝利後）		dev label (guess: not shown)
 loev16b.00A2	サヴィア	Savia	unit name (32-byte field)
-loev16b.00DE	ルディ		unit name (32-byte field)
+loev16b.00DE	ルディ	Rudi	unit name (32-byte field)
 loev16b.04A8	ルディエール	Rudiere	speaker
 loev16b.04C3	サヴィア！！		text
 loev16b.04EE	サヴィア	Savia	speaker

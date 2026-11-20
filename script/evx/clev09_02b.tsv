@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev09_02b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev09_02b.00DE	ヴァンパイア		unit name (32-byte field)
-clev09_02b.0538	吸血鬼ブラス		speaker
+clev09_02b.0538	吸血鬼ブラス	Vampire Blas	speaker
 clev09_02b.0553	さすが、王の息子……{n}血の強さはすばらしい……。		text
 clev09_02b.0592	だが、レイブンルフト様のお力には{n}遠くおよびませんな。		text
 clev09_02b.05D7	あなたはお父上の前でひざまずくことに{n}なるでしょう。		text

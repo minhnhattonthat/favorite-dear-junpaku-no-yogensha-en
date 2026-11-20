@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev13_03.0002	1		dev label (guess: not shown)
 eiev13_03.00A2	アイリーン	Irene	unit name (32-byte field)
-eiev13_03.00DE	ウィザード		unit name (32-byte field)
+eiev13_03.00DE	ウィザード	Wizard	unit name (32-byte field)
 eiev13_03.04D8	男の声	Man's Voice	speaker
 eiev13_03.04ED	アイリーン……。		text
 eiev13_03.0568	アイリーン	Irene	speaker

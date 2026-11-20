@@ -1,7 +1,7 @@
 id	jp	en	notes
 feev29b.0002	サヴィオ戦		dev label (guess: not shown)
 feev29b.00A2	フェイン	Fein	unit name (32-byte field)
-feev29b.00DE	ジャイアント		unit name (32-byte field)
-feev29b.0498	サヴィオ		speaker
+feev29b.00DE	ジャイアント	Giant	unit name (32-byte field)
+feev29b.0498	サヴィオ	Savio	speaker
 feev29b.04AF	ぐ、ぐぐぐ……		text
-feev29b.0504	がああああ！！		text
+feev29b.0504	がああああ！！	Gaaaah!!	text

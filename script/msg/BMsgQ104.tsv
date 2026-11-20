@@ -14,7 +14,7 @@ BMsgQ104.0384	行き先によっては、険しい道が多くなって{n}大変
 BMsgQ104.03DC	歩きにくい道はつらいし、苦手で大変だけど、{n}そんなこと言ってられないでしょ？{wait}{clear}＄＄＄＄＄＄の依頼を受けなくていいんだったら、{n}べつだけど。	Rough roads are hard, and I'm not good with{n}them, but I can't complain, can I?{wait}{clear}Unless I didn't have to take your requests,{n}＄＄＄＄＄＄.	
 BMsgQ104.046A	初めての場所	New places	
 BMsgQ104.0478	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
-BMsgQ104.04B8	そんな、失礼ね！{n}こう見えたって、方向感覚はばっちりなんだから。{wait}{clear}それに、ちょっと迷ったって、{n}ウェスタが助けてくれるわ。		
+BMsgQ104.04B8	そんな、失礼ね！{n}こう見えたって、方向感覚はばっちりなんだから。{wait}{clear}それに、ちょっと迷ったって、{n}ウェスタが助けてくれるわ。	How rude! I may not look it, but my sense of{n}direction is perfect.{wait}{clear}Besides, even if I get a little lost, Vesta{n}will help me.	
 BMsgQ104.0536	青い空	Blue sky	
 BMsgQ104.053E	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ104.0612	うん……そうだね……。{n}塔から見える夕焼けはね、とってもきれいなんだ。{wait}{clear}ブレメース島の南の海岸線が真っ赤に染まって、{n}それから、ゆっくり紫色になって……。{n}いろんな顔が見えるよね、空って。	Yeah... You're right... The sunset you can{n}see from the tower is so beautiful.{wait}{clear}The southern coast of Bremes Isle turns{n}bright red, and then slowly turns purple...{n}The sky has so many faces, doesn't it?	
@@ -23,7 +23,7 @@ BMsgQ104.06DE	アルカヤには、{n}すばらしい景色がたくさんあり
 BMsgQ104.0716	そうだね。{n}ブレメース島からあんまり出たことがなかったから{n}なんだか、すごく新鮮に感じるな。	Yeah. I'd hardly ever left Bremes Isle, so{n}it all feels so fresh.	
 BMsgQ104.0774	妖精は役に立つ？	Fairies useful?	
 BMsgQ104.0786	妖精たちは助けになっていますか？	Are the fairies a help to you?	
-BMsgQ104.07AA	うん、がんばってくれてると思う。{wait}{clear}最初はうるさいかなって思ったけど。{n}それに、ウェスタにもびっくりされちゃって、{n}おもしろいことがたくさんあったよ。		
+BMsgQ104.07AA	うん、がんばってくれてると思う。{wait}{clear}最初はうるさいかなって思ったけど。{n}それに、ウェスタにもびっくりされちゃって、{n}おもしろいことがたくさんあったよ。	Yeah, I think they're working hard.{wait}{clear}At first I thought they'd be a nuisance. And{n}they even gave Vesta a fright. We've had{n}lots of fun times.	
 BMsgQ104.0842	旅先で思うこと	On the road	
 BMsgQ104.0852	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BMsgQ104.0894	そうだね、いろいろね、考えるよ。{n}塔にいたときは、感じなかったこととか、{n}知らなかったこととか、どんどんわかってきて……。{wait}{clear}なんだか気がつくと、{n}ぼーっとしたりしちゃう……。	Yeah, I think about all kinds of things.{n}Things I never felt or never knew back in{n}the tower, I'm understanding more and{wait}{clear}more...{wait}{clear}Before I know it, I'm just spacing out...	
@@ -38,13 +38,13 @@ BMsgQ104.0A5A	お疲れさまでした。	Thank you for your hard work.
 BMsgQ104.0A70	わざわざそれを言いに来たの？{n}天使って、ホント、気をつかうのね。{wait}{clear}でも、ありがと。	You came all the way here to say that? You{n}angels really are considerate.{wait}{clear}But thanks.	
 BMsgQ104.0AC6	眠るのは好き？	Like sleeping?	
 BMsgQ104.0AD6	眠ることは好きですか？	Do you like sleeping?	
-BMsgQ104.0AF0	あいかわらず、へんなこと聞くのね。{wait}{clear}まあ、好きでも嫌いでもないかな……。{n}寝ないで魔導書を読んでたりもするし、{n}ウェスタは夜行性だしね。{wait}{clear}でも、ぽかぽかしたところでのお昼寝は好きかな。		
+BMsgQ104.0AF0	あいかわらず、へんなこと聞くのね。{wait}{clear}まあ、好きでも嫌いでもないかな……。{n}寝ないで魔導書を読んでたりもするし、{n}ウェスタは夜行性だしね。{wait}{clear}でも、ぽかぽかしたところでのお昼寝は好きかな。	You still ask the strangest things.{wait}{clear}Well, I don't love it or hate it... I{n}sometimes stay up reading grimoires, and{n}Vesta is nocturnal, after all.{wait}{clear}But I do like napping somewhere nice and{n}warm.	
 BMsgQ104.0BAE	出来事	Events	
 BMsgQ104.0BB6	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。	I'm sure a lot has happened, but please get{n}some good rest.	
 BMsgQ104.0BFA	ありがと。{wait}{clear}ホント、毎日いろんなことがあって、{n}ちょっと大変だもんね……。	Thanks.{wait}{clear}Really, so much happens every day, it's kind{n}of a lot...	
 BMsgQ104.0C48	何かすることは？	Bedtime habit?	
 BMsgQ104.0C5A	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？	Is there anything you do before bed, or any{n}habit you have?	
-BMsgQ104.0CA6	べつにないけど……。{n}あ、ウェスタが帰ってきてるかどうかは、{n}たしかめてから、寝るわ。		
+BMsgQ104.0CA6	べつにないけど……。{n}あ、ウェスタが帰ってきてるかどうかは、{n}たしかめてから、寝るわ。	Nothing in particular... Oh, I do check that{n}Vesta's come home before I go to bed.	
 BMsgQ104.0CFE	いつもと違う場所	Strange places	
 BMsgQ104.0D10	いつもと違う場所でも{n}しっかり眠ることができますか？	Can you sleep well even in an unfamiliar{n}place?	
 BMsgQ104.0D48	う～ん、得意じゃないけど、{n}そんなことを言ってられないでしょ？{wait}{clear}でも、ずいぶんなれたと思うよ。	Hmm, I'm not good at it, but I can't{n}complain, can I?{wait}{clear}But I think I've gotten pretty used to it.	

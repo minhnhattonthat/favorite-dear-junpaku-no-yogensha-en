@@ -1,18 +1,18 @@
 id	jp	en	notes
 ceev06.00A2	セシア	Cecia	unit name (32-byte field)
-ceev06.00DE	帝国歩兵		unit name (32-byte field)
-ceev06.011A	帝国歩兵		unit name (32-byte field)
-ceev06.0156	帝国騎士		unit name (32-byte field)
-ceev06.0498	帝国兵		speaker
+ceev06.00DE	帝国歩兵	Foot Soldier	unit name (32-byte field)
+ceev06.011A	帝国歩兵	Foot Soldier	unit name (32-byte field)
+ceev06.0156	帝国騎士	Knight	unit name (32-byte field)
+ceev06.0498	帝国兵	Soldier	speaker
 ceev06.04AD	森の一族もなかなかやるようだな……。		text
 ceev06.04E0	セシア	Cecia	speaker
 ceev06.04F5	どうして、森へ侵攻をはじめたのですか？{n}ここも、私たちも帝国に害などなさないはずです！		text
-ceev06.055A	帝国兵		speaker
+ceev06.055A	帝国兵	Soldier	speaker
 ceev06.056F	確かに、森は我々には害をなさない。{n}だが、そこにすむ一族は別だ。		text
 ceev06.05BE	いつ我が帝国に刃向かうかわからないからな。{n}現に、お前もこうして我々の前にいる。		text
 ceev06.061D	セシア	Cecia	speaker
 ceev06.0632	そんな……私は……。		text
-ceev06.0655	帝国兵		speaker
+ceev06.0655	帝国兵	Soldier	speaker
 ceev06.066A	我々の進軍を邪魔する者は、何人たりとも許さん！{n}森に火を放っても構わん！		text
 ceev06.06D5	セシア	Cecia	speaker
 ceev06.06EA	ひどい……なんてことを……。{n}森を汚すというなら、私はあなた方を許しません！		text

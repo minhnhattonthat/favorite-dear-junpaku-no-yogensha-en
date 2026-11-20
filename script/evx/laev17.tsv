@@ -1,10 +1,10 @@
 id	jp	en	notes
 laev17.00A2	レイラ	Leyla	unit name (32-byte field)
 laev17.00DE	アルベリック	Alberic	unit name (32-byte field)
-laev17.011A	帝国騎士		unit name (32-byte field)
-laev17.0156	帝国騎士		unit name (32-byte field)
-laev17.0192	帝国騎士		unit name (32-byte field)
-laev17.01CE	帝国騎士		unit name (32-byte field)
+laev17.011A	帝国騎士	Knight	unit name (32-byte field)
+laev17.0156	帝国騎士	Knight	unit name (32-byte field)
+laev17.0192	帝国騎士	Knight	unit name (32-byte field)
+laev17.01CE	帝国騎士	Knight	unit name (32-byte field)
 laev17.04D8	アルベリック	Alberic	speaker
 laev17.04F3	レイラ……君か……会いたかったよ……。		text
 laev17.0538	レイラ	Leyla	speaker

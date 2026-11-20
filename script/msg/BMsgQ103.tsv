@@ -14,7 +14,7 @@ BMsgQ103.03DE	行き先によっては、険しい道が多くなって{n}大変
 BMsgQ103.0436	大丈夫じゃないけどね、{n}行かなくちゃならないんだろ？{wait}{clear}楽な道ばっかり選んで、目的地に着けたら、{n}どんなにいいだろうって、本当に思うよ。	I'm not fine, but I have to go, don't I?{wait}{clear}I really do think how nice it'd be if I{n}could pick only easy roads and still get{n}where I'm going.	
 BMsgQ103.04C0	初めての場所	New places	
 BMsgQ103.04CE	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
-BMsgQ103.050E	僕はそんなに頼りなく見えるのか？{n}まあ、森とかに入ったら{n}迷う可能性はあるけどな……。{wait}{clear}そうしたら、お前が道を探してきてくれよ。{n}その翼で飛べるんだからな。		
+BMsgQ103.050E	僕はそんなに頼りなく見えるのか？{n}まあ、森とかに入ったら{n}迷う可能性はあるけどな……。{wait}{clear}そうしたら、お前が道を探してきてくれよ。{n}その翼で飛べるんだからな。	Do I really look that unreliable? Well, I{n}might get lost if I went into a forest or{n}something...{wait}{clear}Then you can go find the way for me. You can{n}fly with those wings, after all.	
 BMsgQ103.05AE	青い空	Blue sky	
 BMsgQ103.05B6	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ103.068A	ふっ……天使らしい感想だな。{wait}{clear}でも、そういうふうにこの世界のことを{n}いろいろ考えてるんだな……。{wait}{clear}それはほめてやるよ。	Heh... Spoken like an angel.{wait}{clear}But I see you think about this world in all{n}sorts of ways...{wait}{clear}I'll give you credit for that.	
@@ -149,7 +149,7 @@ BMsgQ103.208A	どうか、無事に戻ってきてください。	Please come ba
 BMsgQ103.20B0	そんな縁起でもないこと言うなよ。{n}いやなやつだな……。	Don't say ominous stuff like that. What a{n}pain you are...	
 BMsgQ103.20E8	どきどき	Heart pounding	
 BMsgQ103.20F2	どきどきしてきました……。	My heart's starting to pound...	
-BMsgQ103.2110	……ったく、お前が落ち着かなくてどうするんだ？{n}そんな顔されたら、こっちが不安になるだろ？		
+BMsgQ103.2110	……ったく、お前が落ち着かなくてどうするんだ？{n}そんな顔されたら、こっちが不安になるだろ？	...Geez, what good is it if you can't stay{n}calm? Making a face like that just makes me{n}nervous, you know?	
 BMsgQ103.216C	すみません！	I'm sorry!	
 BMsgQ103.217A	すみません！{n}私がちゃんと考えてなくて……。	I'm sorry! I didn't think it through...	
 BMsgQ103.21AA	いや……＄＄＄＄＄＄のせいじゃない……。{n}自分の力が足りなかっただけだ。	No... It's not your fault, ＄＄＄＄＄＄... I{n}just wasn't strong enough.	
@@ -161,19 +161,19 @@ BMsgQ103.2292	こんなひどい傷を負うまで{n}がんばってくれたの
 BMsgQ103.22E2	礼を言われても、{n}敵を倒せなかったのなら意味がないだろ？{wait}{clear}それにこんな傷を負うなんて……サイテーだ……。	Thanks don't mean anything if I couldn't{n}beat the enemy, right?{wait}{clear}And getting wounded like this... It's the{n}worst...	
 BMsgQ103.234E	助けられなくて	Couldn't help	
 BMsgQ103.235E	助けてあげられなくて、すみませんでした。	I'm sorry I couldn't help you.	
-BMsgQ103.238A	いや、べつにお前をあてにしていても{n}しかたのないことだ……。{n}あんまり気にしないでくれ。		
+BMsgQ103.238A	いや、べつにお前をあてにしていても{n}しかたのないことだ……。{n}あんまり気にしないでくれ。	No, it's pointless to count on you for{n}that... Don't worry about it too much.	
 BMsgQ103.23E4	他に必要なことは	Anything else?	
 BMsgQ103.23F6	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？	Besides items, I'd like to do whatever I can{n}for you. Is there anything?	
 BMsgQ103.2444	いや……とにかくそんなに心配しないでくれ。{n}こういう姿を見られるだけで、情けない……。{wait}{clear}ただ……あ、いや、いい……。	No... Anyway, don't worry so much. Just{n}being seen like this is humiliating...{wait}{clear}It's just... Ah, no, never mind...	
 BMsgQ103.24BC	無理をさせて……	Pushed too hard	
 BMsgQ103.24CE	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。	I pushed you so hard that it came to this,{n}didn't I?{wait}{clear}I'm sorry.	
-BMsgQ103.2522	お前にあやまられても、困るだけだ。{n}それに、これは自分の力不足のせいで、{n}お前のせいじゃない。		
+BMsgQ103.2522	お前にあやまられても、困るだけだ。{n}それに、これは自分の力不足のせいで、{n}お前のせいじゃない。	You apologizing just puts me on the spot.{n}Besides, this is because I wasn't strong{n}enough, not because of you.	
 BMsgQ103.2582	お願いばかり	Asking too much	
 BMsgQ103.2590	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
 BMsgQ103.25F4	いや……頼られてイヤな気持ちはしない……。{n}ただ、こたえられないのは情けないな……。	No... I don't mind being relied on... It's{n}just pathetic that I couldn't live up to{n}it...	
 BMsgQ103.264A	敵が強くて	Strong enemy	
 BMsgQ103.2656	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。	To think the enemy was strong enough to hurt{n}you like this...{wait}{clear}I must have asked it of you the wrong way...	
-BMsgQ103.26C0	それ以上言うな……。{n}お前のいいわけは聞きたくない。		
+BMsgQ103.26C0	それ以上言うな……。{n}お前のいいわけは聞きたくない。	Don't say another word... I don't want to{n}hear your excuses.	
 BMsgQ103.26F6	油断は禁物	Stay alert	
 BMsgQ103.2702	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。	For you to be so badly wounded... Did you{n}let your guard down?	
 BMsgQ103.2742	こんなときに、きびしいな……。{n}だが、たしかにそうかもしれない……。	Harsh, at a time like this... But you may be{n}right...	

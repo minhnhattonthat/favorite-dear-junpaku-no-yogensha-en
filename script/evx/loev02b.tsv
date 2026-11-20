@@ -1,11 +1,11 @@
 id	jp	en	notes
 loev02b.0002	わるい人たち(戦闘後）		dev label (guess: not shown)
-loev02b.00A2	ルディ		unit name (32-byte field)
-loev02b.00DE	シーフ		unit name (32-byte field)
+loev02b.00A2	ルディ	Rudi	unit name (32-byte field)
+loev02b.00DE	シーフ	Thief	unit name (32-byte field)
 loev02b.011A	じじい		unit name (32-byte field)
 loev02b.0500	ルディエール	Rudiere	speaker
 loev02b.051B	どうだ、どっちが強いかわかったか？{n}お前らの雇い主に会わせろ。		text
-loev02b.0568	私兵		speaker
+loev02b.0568	私兵	Hired Guard	speaker
 loev02b.057B	ちっ……わかったよ。		text
 loev02b.0672	ルディエール	Rudiere	speaker
 loev02b.068D	お前か、ちんぴらを集めて{n}このあたりの人を苦しめてるのは。		text

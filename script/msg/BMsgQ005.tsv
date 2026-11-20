@@ -188,13 +188,13 @@ BMsgQ005.2D34	世界の混乱の原因は……。	The cause of the world's turm
 BMsgQ005.2D50	帝国が罪のない人々を苦しめているなんて……{n}私には耐えられない……。{wait}{clear}でも……他になにかが……。	The Empire tormenting innocent people... I{n}can't bear it...{wait}{clear}But... something else is...	
 BMsgQ005.2DB4	帝国	The Empire	
 BMsgQ005.2DBA	この世界に平和がもどれば……きっと……。	If peace returns to this world... surely...	
-BMsgQ005.2DE6	そうね……。{n}苦しんだ人々のためにも、私が……。{wait}{clear}そして、帝国の名誉もきっと回復させてみせる。		
-BMsgQ005.2E48	騎士		
-BMsgQ005.2E4E	どうして騎士に？		
-BMsgQ005.2E62	どうしてと聞かれると困るわね……。{wait}{clear}きっと小さなときから父を見ていたせいだと思うわ。{n}父のそばで自分も戦いたいと思った……。{wait}{clear}それに、お人形やドレスより、{n}剣の方が好きだったから……。		
-BMsgQ005.2F20	騎士		
-BMsgQ005.2F26	レイラの強さはどこからくるのでしょうね。		
-BMsgQ005.2F52	私の強さ？{n}そんなこと、考えてもみなかったわ。{wait}{clear}そうね……追いつけないとわかっていても{n}父に追いつきたいからかしら……。{wait}{clear}よくわからないわ。		
-BMsgQ005.2FE4	騎士		
-BMsgQ005.2FEA	騎士という生き方は……。		
-BMsgQ005.3006	あなたがなにを言いたいのか、わかるわ……。{wait}{clear}でも、やめましょう、この話は……。		
+BMsgQ005.2DE6	そうね……。{n}苦しんだ人々のためにも、私が……。{wait}{clear}そして、帝国の名誉もきっと回復させてみせる。	Yes... For the sake of the people who{n}suffered, I must...{wait}{clear}And I will restore the Empire's honor, too.{n}I promise.	
+BMsgQ005.2E48	騎士	Knighthood	
+BMsgQ005.2E4E	どうして騎士に？	Why did you become a knight?	
+BMsgQ005.2E62	どうしてと聞かれると困るわね……。{wait}{clear}きっと小さなときから父を見ていたせいだと思うわ。{n}父のそばで自分も戦いたいと思った……。{wait}{clear}それに、お人形やドレスより、{n}剣の方が好きだったから……。	"Why" is a hard question to answer...{wait}{clear}I suppose it's because I watched my father{n}ever since I was little. I wanted to fight{n}at his side...{wait}{clear}Besides, I always liked swords better than{n}dolls and dresses...	
+BMsgQ005.2F20	騎士	Knighthood	
+BMsgQ005.2F26	レイラの強さはどこからくるのでしょうね。	I wonder where your strength comes from,{n}Leyla.	
+BMsgQ005.2F52	私の強さ？{n}そんなこと、考えてもみなかったわ。{wait}{clear}そうね……追いつけないとわかっていても{n}父に追いつきたいからかしら……。{wait}{clear}よくわからないわ。	My strength? I've never even thought about{n}it.{wait}{clear}Let me see... Maybe it's because I want to{n}catch up with my father, even knowing I{n}never can...{wait}{clear}I really don't know.	
+BMsgQ005.2FE4	騎士	Knighthood	
+BMsgQ005.2FEA	騎士という生き方は……。	Living as a knight...	
+BMsgQ005.3006	あなたがなにを言いたいのか、わかるわ……。{wait}{clear}でも、やめましょう、この話は……。	I know what you're trying to say...{wait}{clear}But let's not talk about this...	

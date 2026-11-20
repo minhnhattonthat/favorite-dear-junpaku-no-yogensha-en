@@ -1,200 +1,200 @@
 id	jp	en	notes
-BMsgQ006.0190	天使様、まだなにかお話がありますか？		
+BMsgQ006.0190	天使様、まだなにかお話がありますか？	Angel, is there something else you wanted to{n}talk about?	
 BMsgQ006.01B6	体調は？	Your health?	
 BMsgQ006.01C0	疲れていませんか？	Aren't you tired?	
-BMsgQ006.01D6	はい、大丈夫です。{wait}{clear}こうしていろいろな土地を歩くことができて、{n}とてもうれしいですし。{n}だから、少しぐらい疲れても平気です。{wait}{clear}でも、こんなにのんびりした気持ちでいては、{n}本当はいけないのですよね……。		
+BMsgQ006.01D6	はい、大丈夫です。{wait}{clear}こうしていろいろな土地を歩くことができて、{n}とてもうれしいですし。{n}だから、少しぐらい疲れても平気です。{wait}{clear}でも、こんなにのんびりした気持ちでいては、{n}本当はいけないのですよね……。	Yes, I'm fine.{wait}{clear}I'm so happy to be able to walk through all{n}these lands. So a little tiredness doesn't{n}bother me.{wait}{clear}But I really shouldn't be feeling this{n}carefree, should I...	
 BMsgQ006.02A4	一緒に歩く	Walk together	
 BMsgQ006.02B0	一緒に歩いてもいいですか？	May I walk with you?	
-BMsgQ006.02CE	はい！{wait}{clear}でも、天使様と並んで歩くなんて、{n}ちょっと不思議な感じですね。		
+BMsgQ006.02CE	はい！{wait}{clear}でも、天使様と並んで歩くなんて、{n}ちょっと不思議な感じですね。	Yes!{wait}{clear}But walking side by side with an angel feels{n}a little strange, doesn't it?	
 BMsgQ006.0318	風を感じる	Feel the wind	
 BMsgQ006.0324	風に吹かれながら歩くのは、気持ちいいですね。	It feels nice to walk with the wind blowing,{n}doesn't it?	
-BMsgQ006.0354	ええ、本当にそう思います。{wait}{clear}でも、ときどき吹く強い風には、{n}なんだか胸騒ぎを感じます……。{wait}{clear}私の気のせいだといいのですけど……。		
+BMsgQ006.0354	ええ、本当にそう思います。{wait}{clear}でも、ときどき吹く強い風には、{n}なんだか胸騒ぎを感じます……。{wait}{clear}私の気のせいだといいのですけど……。	Yes, I really think so too.{wait}{clear}But when the strong winds blow now and then,{n}I get an uneasy feeling...{wait}{clear}I hope it's just my imagination...	
 BMsgQ006.03DA	険しい道	Rough roads	
 BMsgQ006.03E4	行き先によっては、険しい道が多くなって{n}大変なこともあると思いますが、大丈夫ですか？	Depending on where you go, there may be a{n}lot of rough roads, which could be hard.{n}Will you be all right?	
-BMsgQ006.043C	はい、心配しないでください、天使様。{n}でこぼこした場所とか、森の中とかの方が、{n}私には歩きやすい場所ですし。{wait}{clear}森の生活で、道ではないところを歩く方が{n}私には簡単なことですから。		
+BMsgQ006.043C	はい、心配しないでください、天使様。{n}でこぼこした場所とか、森の中とかの方が、{n}私には歩きやすい場所ですし。{wait}{clear}森の生活で、道ではないところを歩く方が{n}私には簡単なことですから。	Yes, please don't worry, Angel. Rough ground{n}and forests are actually easier for me to{n}walk through.{wait}{clear}Living in the forest, I got used to walking{n}where there are no paths.	
 BMsgQ006.04F0	初めての場所	New places	
 BMsgQ006.04FE	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
-BMsgQ006.053E	はい……あります……。{wait}{clear}森の中を歩いているときのように、{n}目じるしになるものを{n}ちゃんと見ているつもりなんですけど……。{wait}{clear}はじめて見るものに夢中になってしまったり{n}人の多いところへ行くと{n}自分がどこにいるのかわからなくって……。{wait}{clear}森ではそんなことはなかったんですけど。		
+BMsgQ006.053E	はい……あります……。{wait}{clear}森の中を歩いているときのように、{n}目じるしになるものを{n}ちゃんと見ているつもりなんですけど……。{wait}{clear}はじめて見るものに夢中になってしまったり{n}人の多いところへ行くと{n}自分がどこにいるのかわからなくって……。{wait}{clear}森ではそんなことはなかったんですけど。	Yes... it happens...{wait}{clear}I try to keep an eye on landmarks, just like{n}when I walk through the forest...{wait}{clear}But when I get caught up in something new,{n}or go somewhere crowded, I lose track of{n}where I am...{wait}{clear}That never happened to me in the forest.	
 BMsgQ006.0652	青い空	Blue sky	
 BMsgQ006.065A	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
-BMsgQ006.072E	天使様もそう思われるのですね。{n}空はとても美しいと私も思います。{wait}{clear}怒りのような嵐やきびしい日照りのような顔を{n}見せるときもありますけれど……。{wait}{clear}豊かな光と雨を与えてくれる、{n}美しくて大切な空だと私は思っています。		
+BMsgQ006.072E	天使様もそう思われるのですね。{n}空はとても美しいと私も思います。{wait}{clear}怒りのような嵐やきびしい日照りのような顔を{n}見せるときもありますけれど……。{wait}{clear}豊かな光と雨を与えてくれる、{n}美しくて大切な空だと私は思っています。	So you think so too, Angel. I also find the{n}sky very beautiful.{wait}{clear}Sometimes it shows an angry face, with{n}storms and harsh droughts...{wait}{clear}But it gives us plenty of light and rain. To{n}me it's a beautiful, precious sky.	
 BMsgQ006.0808	素敵な景色	Lovely views	
 BMsgQ006.0814	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
-BMsgQ006.084C	はい、私もそう思います。{wait}{clear}いまは、見るものすべてに{n}そう感じています……。{wait}{clear}自然がつくったものはもちろんですが、{n}人の手によってつくられたものも……。		
+BMsgQ006.084C	はい、私もそう思います。{wait}{clear}いまは、見るものすべてに{n}そう感じています……。{wait}{clear}自然がつくったものはもちろんですが、{n}人の手によってつくられたものも……。	Yes, I think so too.{wait}{clear}Right now I feel that way about everything I{n}see...{wait}{clear}Things made by nature, of course, but things{n}made by human hands as well...	
 BMsgQ006.08E8	妖精は役に立つ？	Fairies useful?	
 BMsgQ006.08FA	妖精たちは助けになっていますか？	Are the fairies a help to you?	
-BMsgQ006.091E	はい、もちろんです。{wait}{clear}小さい体で、{n}とても一生懸命につくしてくれます。{wait}{clear}私もなにかお返しができればと思うのですが……。{n}なにかいい考えはありませんか？　天使様？		
+BMsgQ006.091E	はい、もちろんです。{wait}{clear}小さい体で、{n}とても一生懸命につくしてくれます。{wait}{clear}私もなにかお返しができればと思うのですが……。{n}なにかいい考えはありませんか？　天使様？	Yes, of course.{wait}{clear}With that little body, they work so very{n}hard for me.{wait}{clear}I wish I could do something for them in{n}return... Do you have any good ideas, Angel?	
 BMsgQ006.09C4	旅先で思うこと	On the road	
 BMsgQ006.09D4	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
-BMsgQ006.0A16	そうですね……。{wait}{clear}私は森から出てみたいと思っていましたけど、{n}まさか、天使様と一緒に旅することになるとは{n}思っても見ませんでしたし……。{wait}{clear}最初は、見るものすべてがめずらしく、{n}とても魅力的に思えました。{wait}{clear}いまもそうですが……でも……{n}あらためて、森がどれだけ大切なのかが{n}わかったような気がします。		
+BMsgQ006.0A16	そうですね……。{wait}{clear}私は森から出てみたいと思っていましたけど、{n}まさか、天使様と一緒に旅することになるとは{n}思っても見ませんでしたし……。{wait}{clear}最初は、見るものすべてがめずらしく、{n}とても魅力的に思えました。{wait}{clear}いまもそうですが……でも……{n}あらためて、森がどれだけ大切なのかが{n}わかったような気がします。	Let me see...{wait}{clear}I always wanted to leave the forest, but I{n}never dreamed I'd end up traveling with an{n}angel...{wait}{clear}At first everything I saw was so unusual,{n}and it all seemed so fascinating.{wait}{clear}It still does... but... I feel I've come to{n}understand all over again how precious the{n}forest is.	
 BMsgQ006.0B48	旅で出会う人	People met	
 BMsgQ006.0B56	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
-BMsgQ006.0B7C	そうですね。{wait}{clear}いろいろな人に会って、お話をして……{n}いろいろなことを感じます。{wait}{clear}町の人たちは、中には冷たい感じのする人も{n}いますけど……でも、森のみんなと気持ちは{n}変わらないんだなって、いまは思います。		
+BMsgQ006.0B7C	そうですね。{wait}{clear}いろいろな人に会って、お話をして……{n}いろいろなことを感じます。{wait}{clear}町の人たちは、中には冷たい感じのする人も{n}いますけど……でも、森のみんなと気持ちは{n}変わらないんだなって、いまは思います。	Yes.{wait}{clear}Meeting all kinds of people, talking with{n}them... it makes me feel so many things.{wait}{clear}Some of the townspeople seem a little{n}cold... but now I think their hearts aren't{n}so different from everyone's in the forest.	
 BMsgQ006.0C4C	いい夢が……	Sweet dreams	
 BMsgQ006.0C5A	いい夢が見られるといいですね。	I hope you have sweet dreams.	
-BMsgQ006.0C7C	ありがとうございます、天使様。{n}夢を見ながら、ぐっすり眠れればと思います。		
+BMsgQ006.0C7C	ありがとうございます、天使様。{n}夢を見ながら、ぐっすり眠れればと思います。	Thank you, Angel. I hope I'll sleep soundly{n}and have nice dreams.	
 BMsgQ006.0CC8	お疲れさま	Good work	
 BMsgQ006.0CD4	お疲れさまでした。	Thank you for your hard work.	
-BMsgQ006.0CEA	はい、天使様、お疲れさまでした。{n}天使様も疲れてはいませんか？{wait}{clear}いつも私の心配ばかりしてくださって……。{n}天使様もきちんと休んでくださいね。		
+BMsgQ006.0CEA	はい、天使様、お疲れさまでした。{n}天使様も疲れてはいませんか？{wait}{clear}いつも私の心配ばかりしてくださって……。{n}天使様もきちんと休んでくださいね。	Yes, Angel, thank you for today. Aren't you{n}tired too, Angel?{wait}{clear}You're always worrying about me... Please{n}make sure you rest properly too, Angel.	
 BMsgQ006.0D7A	眠るのは好き？	Like sleeping?	
 BMsgQ006.0D8A	眠ることは好きですか？	Do you like sleeping?	
-BMsgQ006.0DA4	天使様はたまに、へんなことを聞くのですね。{wait}{clear}眠ることは嫌いではないですよ。{n}森の木の上や、少し開けた場所の草の上で{n}のんびりお昼寝すると、とても気持ちがいいです。{wait}{clear}天使様にも{n}一度経験してもらえたら、いいのですけどね。		
+BMsgQ006.0DA4	天使様はたまに、へんなことを聞くのですね。{wait}{clear}眠ることは嫌いではないですよ。{n}森の木の上や、少し開けた場所の草の上で{n}のんびりお昼寝すると、とても気持ちがいいです。{wait}{clear}天使様にも{n}一度経験してもらえたら、いいのですけどね。	You ask the strangest things sometimes,{n}Angel.{wait}{clear}I don't dislike sleeping. A lazy nap up in a{n}forest tree, or on the grass in a little{n}clearing, feels wonderful.{wait}{clear}I wish you could try it once too, Angel.	
 BMsgQ006.0E84	出来事	Events	
 BMsgQ006.0E8C	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。	I'm sure a lot has happened, but please get{n}some good rest.	
-BMsgQ006.0ED0	本当に、毎日いろいろなことがありますね。{n}うれしいことも、そうでないことも……。{wait}{clear}寝る前は、今日あった出来事を{n}いろいろ考えてしまうことが多くて……。{wait}{clear}でも、心配しないでくださいね、天使様。{n}ちゃんと寝ますから。		
+BMsgQ006.0ED0	本当に、毎日いろいろなことがありますね。{n}うれしいことも、そうでないことも……。{wait}{clear}寝る前は、今日あった出来事を{n}いろいろ考えてしまうことが多くて……。{wait}{clear}でも、心配しないでくださいね、天使様。{n}ちゃんと寝ますから。	So much really happens every day, doesn't{n}it? Happy things, and things that aren't...{wait}{clear}Before bed I often end up thinking over{n}everything that happened that day...{wait}{clear}But please don't worry, Angel. I'll get my{n}sleep.	
 BMsgQ006.0FAA	何かすることは？	Bedtime habit?	
 BMsgQ006.0FBC	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？	Is there anything you do before bed, or any{n}habit you have?	
-BMsgQ006.1008	私たちのすべてを支えてくれている、{n}森と自然への感謝の祈りをささげます。{wait}{clear}これは、どこへ行っても忘れません。		
+BMsgQ006.1008	私たちのすべてを支えてくれている、{n}森と自然への感謝の祈りをささげます。{wait}{clear}これは、どこへ行っても忘れません。	I offer a prayer of thanks to the forest and{n}to nature, which support everything we are.{wait}{clear}I'll never forget that, wherever I go.	
 BMsgQ006.1078	いつもと違う場所	Strange places	
 BMsgQ006.108A	いつもと違う場所でも{n}しっかり眠ることができますか？	Can you sleep well even in an unfamiliar{n}place?	
-BMsgQ006.10C2	はい、ずいぶん慣れました。{n}でも、ときどき森の素朴なベッドの感じを{n}なつかしく思い出したりもします。		
+BMsgQ006.10C2	はい、ずいぶん慣れました。{n}でも、ときどき森の素朴なベッドの感じを{n}なつかしく思い出したりもします。	Yes, I've gotten quite used to it. But{n}sometimes I fondly remember the feel of my{n}simple bed in the forest.	
 BMsgQ006.1128	眠れないときは	Can't sleep?	
 BMsgQ006.1138	眠れないときはどうしていますか。	What do you do when you can't sleep?	
-BMsgQ006.115C	よほど眠れないときには、外へ出ます。{n}晴れていれば星を見たり、{n}近くに森や林があれば、そこへ行ったりします。{wait}{clear}星のまたたきを見て、その光を浴びたり、{n}森で木々のささやきを耳にすれば{n}気持ちがゆったりしてくるので。		
+BMsgQ006.115C	よほど眠れないときには、外へ出ます。{n}晴れていれば星を見たり、{n}近くに森や林があれば、そこへ行ったりします。{wait}{clear}星のまたたきを見て、その光を浴びたり、{n}森で木々のささやきを耳にすれば{n}気持ちがゆったりしてくるので。	When I really can't sleep, I go outside. If{n}it's clear I look at the stars, and if{n}there's a forest or a grove nearby, I go{wait}{clear}there.{wait}{clear}Watching the stars twinkle and bathing in{n}their light, or hearing the trees whisper in{n}the forest, calms my heart.	
 BMsgQ006.1234	故郷のこと	Your home	
 BMsgQ006.1240	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？	Traveling the world like this, don't you{n}ever think about your home?	
-BMsgQ006.1290	そうですね……忘れたことはありません。{wait}{clear}こんな状況だからこそ、{n}森のことを考えてしまいますし。{wait}{clear}外へ出て、はじめてわかったことが{n}本当に、たくさんあります。{wait}{clear}私を導いてくださって{n}ありがとうございます、天使様……。		
+BMsgQ006.1290	そうですね……忘れたことはありません。{wait}{clear}こんな状況だからこそ、{n}森のことを考えてしまいますし。{wait}{clear}外へ出て、はじめてわかったことが{n}本当に、たくさんあります。{wait}{clear}私を導いてくださって{n}ありがとうございます、天使様……。	Yes... I've never forgotten it.{wait}{clear}It's because of the way things are that I{n}keep thinking about the forest.{wait}{clear}There are truly so many things I only{n}understood once I came out into the world.{wait}{clear}Thank you for guiding me, Angel...	
 BMsgQ006.136E	一緒にいたい	Stay with you	
 BMsgQ006.137C	しばらく一緒にいても、かまいませんか？	Would you mind if I stayed with you a while?	
-BMsgQ006.13A6	ええ、よろこんで。{n}なんのお話をしましょうね、天使様。		
+BMsgQ006.13A6	ええ、よろこんで。{n}なんのお話をしましょうね、天使様。	Yes, gladly. What shall we talk about,{n}Angel?	
 BMsgQ006.13DE	起きたときには	On waking	
 BMsgQ006.13EE	目が覚めたときに必ずすることがありますか？	Is there anything you always do when you{n}wake up?	
-BMsgQ006.141C	へんなことが気にするのですね、天使様は。{wait}{clear}そうですね……{n}旅をはじめてからはひとりなので、{n}特別なにもしていませんけど……。{wait}{clear}森にいたときには、水をくみにいったり、{n}朝食の準備をしたり……いろいろやっていました。{n}いまは、とってものんびりしていますけど。		
+BMsgQ006.141C	へんなことが気にするのですね、天使様は。{wait}{clear}そうですね……{n}旅をはじめてからはひとりなので、{n}特別なにもしていませんけど……。{wait}{clear}森にいたときには、水をくみにいったり、{n}朝食の準備をしたり……いろいろやっていました。{n}いまは、とってものんびりしていますけど。	What a strange thing to wonder about, Angel.{wait}{clear}Let me see... Since I started traveling I've{n}been on my own, so I don't do anything{n}special...{wait}{clear}In the forest I'd go fetch water, make{n}breakfast... all sorts of things. Now I'm{n}taking it very easy.	
 BMsgQ006.1520	まだ続ける？	Keep going?	
 BMsgQ006.152E	まだ続けるのですか？	Are you going to keep going?	
-BMsgQ006.1546	はい。もちろんです。{n}まだ、はじめたばかりですから。{wait}{clear}それに、いまの私では、{n}まだまだ力不足ですから……。		
+BMsgQ006.1546	はい。もちろんです。{n}まだ、はじめたばかりですから。{wait}{clear}それに、いまの私では、{n}まだまだ力不足ですから……。	Yes, of course. I've only just begun.{wait}{clear}Besides, I'm still far from strong enough as{n}I am now...	
 BMsgQ006.15B4	いつもありがとう	Thank you	
 BMsgQ006.15C6	いつもありがとうございます。	Thank you for everything.	
-BMsgQ006.15E6	お礼なんて……{n}気にしないでください、天使様。{wait}{clear}天使様にお仕えしていることを{n}誇りに思っていますし、{n}当然のことをしているだけです。{wait}{clear}私、がんばりますから、{n}どうか、見守っていてくださいね。		
+BMsgQ006.15E6	お礼なんて……{n}気にしないでください、天使様。{wait}{clear}天使様にお仕えしていることを{n}誇りに思っていますし、{n}当然のことをしているだけです。{wait}{clear}私、がんばりますから、{n}どうか、見守っていてくださいね。	Thanks? Please don't worry about that,{n}Angel.{wait}{clear}I'm proud to serve you, and I'm only doing{n}what I should.{wait}{clear}I'll do my best, so please keep watching{n}over me.	
 BMsgQ006.16AA	修行はつらい？	Hard training?	
 BMsgQ006.16BA	修行はつらいこともあると思うのですが……。	I imagine training can be hard at times...	
-BMsgQ006.16E8	そうですね……。{n}つらくないと言ったら、ウソになると思います。{n}でもやらなければいけないことです。{wait}{clear}ここでなまけていたら、{n}もっと大変なことになりますし、{n}天使様にも迷惑がかかってしまいますから。{wait}{clear}でも、無理はしませんから、{n}心配しないでくださいね。		
+BMsgQ006.16E8	そうですね……。{n}つらくないと言ったら、ウソになると思います。{n}でもやらなければいけないことです。{wait}{clear}ここでなまけていたら、{n}もっと大変なことになりますし、{n}天使様にも迷惑がかかってしまいますから。{wait}{clear}でも、無理はしませんから、{n}心配しないでくださいね。	Well... I'd be lying if I said it wasn't{n}hard. But it's something I have to do.{wait}{clear}If I slack off now, things will only get{n}worse, and I'll cause you trouble too,{n}Angel.{wait}{clear}But I won't push myself too hard, so please{n}don't worry.	
 BMsgQ006.17E8	休まなくて平気？	No rest?	
 BMsgQ006.17FA	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？	You've been training nonstop. Are you sure{n}you don't need a rest?	
-BMsgQ006.1842	気を使ってくださってありがとうございます。{n}でも、大丈夫ですから、心配しないでくださいね。{wait}{clear}疲れたら、ちゃんと休みます。{n}あまり無理に修行をしても、意味がないですからね。		
+BMsgQ006.1842	気を使ってくださってありがとうございます。{n}でも、大丈夫ですから、心配しないでくださいね。{wait}{clear}疲れたら、ちゃんと休みます。{n}あまり無理に修行をしても、意味がないですからね。	Thank you for your concern. But I'm fine, so{n}please don't worry.{wait}{clear}When I'm tired, I'll rest properly. Training{n}too hard doesn't do any good, after all.	
 BMsgQ006.18F0	熱心ですね	So dedicated	
 BMsgQ006.18FC	とても熱心に修行されているようですね。	You seem to be training very hard.	
-BMsgQ006.1926	そうですね……。{n}でも、天使様。誤解はしないでください。{wait}{clear}私は戦いのためだけに{n}練習しているのではないのです。{wait}{clear}狩りとか、高いところの木の実を取ったりとか……。{n}弓は人を傷つけるための道具ではないですから……。		
+BMsgQ006.1926	そうですね……。{n}でも、天使様。誤解はしないでください。{wait}{clear}私は戦いのためだけに{n}練習しているのではないのです。{wait}{clear}狩りとか、高いところの木の実を取ったりとか……。{n}弓は人を傷つけるための道具ではないですから……。	That's true... But Angel, please don't{n}misunderstand.{wait}{clear}I don't practice only for fighting.{wait}{clear}It's for hunting, or picking nuts from high{n}branches... A bow isn't a tool for hurting{n}people...	
 BMsgQ006.19FE	体力に自信は？	Your stamina?	
 BMsgQ006.1A0E	体力に自信はありますか？	Are you confident in your stamina?	
-BMsgQ006.1A2A	天使様は、へんなことを気にされるのですね。{wait}{clear}体力になら、自信はあります。{n}森での狩りのときなどは、やはり体力がないと{n}どうしようもありませんから。		
+BMsgQ006.1A2A	天使様は、へんなことを気にされるのですね。{wait}{clear}体力になら、自信はあります。{n}森での狩りのときなどは、やはり体力がないと{n}どうしようもありませんから。	You worry about the strangest things, Angel.{wait}{clear}I'm confident in my stamina. When you hunt{n}in the forest, you can't do anything without{n}it.	
 BMsgQ006.1AC0	ケガをしないで	Don't get hurt	
 BMsgQ006.1AD0	ケガには気をつけてくださいね。	Please be careful not to get hurt.	
-BMsgQ006.1AF2	天使様は、心配性なのですね。{n}でも、大丈夫ですから、安心していてくださいね。		
+BMsgQ006.1AF2	天使様は、心配性なのですね。{n}でも、大丈夫ですから、安心していてくださいね。	You're such a worrier, Angel. But I'm fine,{n}so please rest easy.	
 BMsgQ006.1B40	気をつけること	What to watch	
 BMsgQ006.1B50	修行の時に{n}なにか気をつけていることはあるのですか？	Is there anything you pay attention to when{n}you train?	
-BMsgQ006.1B88	はい、集中することを考えています。{wait}{clear}気持ちを落ち着かせて行わないと、{n}なにをやっても上手にいかないように思います。		
+BMsgQ006.1B88	はい、集中することを考えています。{wait}{clear}気持ちを落ち着かせて行わないと、{n}なにをやっても上手にいかないように思います。	Yes, I'm thinking about concentrating.{wait}{clear}I feel that unless I calm my heart first,{n}nothing I do goes well.	
 BMsgQ006.1BFE	調子は？	How's it going?	
 BMsgQ006.1C08	修行の調子はいかがですか？	How is your training going?	
-BMsgQ006.1C26	調子ですか？{n}いいと思います。{wait}{clear}こうして、天使様もいてくださいますから。{n}がんばりますね。		
+BMsgQ006.1C26	調子ですか？{n}いいと思います。{wait}{clear}こうして、天使様もいてくださいますから。{n}がんばりますね。	How I'm doing? I think I'm doing well.{wait}{clear}After all, you're here with me, Angel. I'll{n}do my best.	
 BMsgQ006.1C84	修行の成果	Results	
 BMsgQ006.1C90	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
-BMsgQ006.1CCA	そうですね。{n}結果が出ると、とても励みになります。{wait}{clear}でも、人を傷つけるようなことばかりで、{n}結果を求めるのは、違うと思っています。		
+BMsgQ006.1CCA	そうですね。{n}結果が出ると、とても励みになります。{wait}{clear}でも、人を傷つけるようなことばかりで、{n}結果を求めるのは、違うと思っています。	Yes. When I see results, it really{n}encourages me.{wait}{clear}But I don't think it's right to seek results{n}only by hurting people.	
 BMsgQ006.1D50	邪魔でしょうか？	Am I a bother?	
 BMsgQ006.1D62	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
-BMsgQ006.1D90	いえ、気にしないで下さい。{n}天使様でしたら、{n}いつ来ていただいてもかまいませんよ。{wait}{clear}せっかくですから、お話しませんか？		
+BMsgQ006.1D90	いえ、気にしないで下さい。{n}天使様でしたら、{n}いつ来ていただいてもかまいませんよ。{wait}{clear}せっかくですから、お話しませんか？	No, please don't worry about it. You're{n}welcome to visit any time, Angel.{wait}{clear}Since you're here, shall we talk a while?	
 BMsgQ006.1E0A	好きなことは？	Favorite thing?	
 BMsgQ006.1E1A	なにか好きなことはありますか？	Is there anything you like to do?	
-BMsgQ006.1E3C	好きなことはいろいろありますけど……。{n}森では川や湖で泳ぐのが好きでした。{wait}{clear}水の中に入ると体が軽くなって、{n}すごく気持ちがよくって……。		
+BMsgQ006.1E3C	好きなことはいろいろありますけど……。{n}森では川や湖で泳ぐのが好きでした。{wait}{clear}水の中に入ると体が軽くなって、{n}すごく気持ちがよくって……。	I like lots of things... In the forest I{n}loved swimming in the rivers and lakes.{wait}{clear}In the water my body feels so light, and{n}it's so refreshing...	
 BMsgQ006.1EC8	気分転換	Change of pace	
 BMsgQ006.1ED2	なにか普段と違うことをすると{n}気分転換ができますよね。	Doing something different from usual makes{n}for a nice change of pace, doesn't it?	
-BMsgQ006.1F0C	はい、そうですね。{wait}{clear}草原で寝ころんだり、川面をみつめたり、{n}夜は星をながめたり……。{wait}{clear}そんなふうにゆっくりとした時間を過ごすと、{n}とても気分転換になりますよね。		
+BMsgQ006.1F0C	はい、そうですね。{wait}{clear}草原で寝ころんだり、川面をみつめたり、{n}夜は星をながめたり……。{wait}{clear}そんなふうにゆっくりとした時間を過ごすと、{n}とても気分転換になりますよね。	Yes, it does.{wait}{clear}Lying in a meadow, gazing at the river,{n}watching the stars at night...{wait}{clear}Spending slow, quiet time like that is such{n}a nice change of pace, isn't it?	
 BMsgQ006.1FB2	小さい頃は何を？	As a child?	
 BMsgQ006.1FC4	小さい頃はなにをして遊びましたか？	What did you play when you were little?	
-BMsgQ006.1FEA	そうですね……{n}森の中ではなにをしても遊びのような感じでした。{n}木に登るのも、川への魚とりも、狩りも……。{wait}{clear}ふふっ……よく考えると、{n}いまもあまりやっていることは変わりませんね。{wait}{clear}でも、その変わらないということが、{n}大切なのかもしれませんね……。		
+BMsgQ006.1FEA	そうですね……{n}森の中ではなにをしても遊びのような感じでした。{n}木に登るのも、川への魚とりも、狩りも……。{wait}{clear}ふふっ……よく考えると、{n}いまもあまりやっていることは変わりませんね。{wait}{clear}でも、その変わらないということが、{n}大切なのかもしれませんね……。	Let me see... In the forest, everything I{n}did felt like play. Climbing trees, catching{n}fish in the river, hunting...{wait}{clear}Hehe... come to think of it, what I do now{n}isn't so different.{wait}{clear}But maybe that's what matters, that it{n}hasn't changed...	
 BMsgQ006.20E6	しばらく一緒に	A while longer	
 BMsgQ006.20F6	もうしばらく、一緒にいてもいいですか？	May I stay with you a while longer?	
-BMsgQ006.2120	はい。{n}私も今、そう思っていたところです。		
+BMsgQ006.2120	はい。{n}私も今、そう思っていたところです。	Yes. I was just thinking the same thing.	
 BMsgQ006.214C	また任務をお願い	Another task	
 BMsgQ006.215E	戦いはつらいと思いますが、{n}これからも人々の為に力をかしてください。	I know the fighting is hard, but please keep{n}lending your strength for the people's sake.	
-BMsgQ006.21A6	はい、わかっています。{wait}{clear}私にどれだけのことができるのかわかりませんが、{n}天使様のお役に立ちたいといつも考えています。{wait}{clear}天使様がそばにいてくださる限り、{n}私、がんばれると思います。		
+BMsgQ006.21A6	はい、わかっています。{wait}{clear}私にどれだけのことができるのかわかりませんが、{n}天使様のお役に立ちたいといつも考えています。{wait}{clear}天使様がそばにいてくださる限り、{n}私、がんばれると思います。	Yes, I understand.{wait}{clear}I don't know how much I can do, but I always{n}want to be of use to you, Angel.{wait}{clear}As long as you're by my side, I think I can{n}keep trying my best.	
 BMsgQ006.225E	ゆっくり休んで	Rest well	
 BMsgQ006.226E	せめて、こういう時間くらいは、{n}ゆっくり休んでくださいね。	At least at times like this, please get some{n}good rest.	
-BMsgQ006.22AC	ありがとうございます、天使様。{n}でも、そうやって気を使ってばかりいると、{n}天使様が疲れてしまいますよ。{wait}{clear}私も休ませてもらいますので、{n}天使様もたまにはゆっくり休んでくださいね。		
+BMsgQ006.22AC	ありがとうございます、天使様。{n}でも、そうやって気を使ってばかりいると、{n}天使様が疲れてしまいますよ。{wait}{clear}私も休ませてもらいますので、{n}天使様もたまにはゆっくり休んでくださいね。	Thank you, Angel. But if you keep worrying{n}about others like that, you'll wear yourself{n}out.{wait}{clear}I'll take my rest, so you should relax once{n}in a while too, Angel.	
 BMsgQ006.2360	考えていること	Your thoughts	
 BMsgQ006.2370	歩きながら、考えごとをしたりしますか？	Do you think things over while you walk?	
-BMsgQ006.239A	そうですね……。{n}いろいろ考えています……。{wait}{clear}でも、いろいろ考えすぎてしまっているような{n}そんな気もしますし……。{wait}{clear}ほどほどにしないといけないですよね。		
+BMsgQ006.239A	そうですね……。{n}いろいろ考えています……。{wait}{clear}でも、いろいろ考えすぎてしまっているような{n}そんな気もしますし……。{wait}{clear}ほどほどにしないといけないですよね。	Let me see... I'm thinking about all sorts{n}of things...{wait}{clear}But I also feel like I might be thinking too{n}much...{wait}{clear}I should keep it in moderation, shouldn't I?	
 BMsgQ006.2438	人の集まる場所へ	Crowded places	
 BMsgQ006.244A	人の集まる場所へ行ったりしますか？	Do you go to places where people gather?	
-BMsgQ006.2470	あまり行くことはありません……。{n}大きな町にも慣れましたけど、{n}あまり人の多いところは苦手みたいです。{wait}{clear}人の多いところよりも、自然の中にいる方が、{n}ずっと落ち着きますから……。{wait}{clear}あ、でも天使様のお使いとかがあれば、{n}行きますから、おっしゃってくださいね。		
+BMsgQ006.2470	あまり行くことはありません……。{n}大きな町にも慣れましたけど、{n}あまり人の多いところは苦手みたいです。{wait}{clear}人の多いところよりも、自然の中にいる方が、{n}ずっと落ち着きますから……。{wait}{clear}あ、でも天使様のお使いとかがあれば、{n}行きますから、おっしゃってくださいね。	I don't go there much... I've gotten used to{n}big towns, but I don't seem to like crowded{n}places.{wait}{clear}I feel much calmer out in nature than where{n}there are lots of people...{wait}{clear}Oh, but if you have an errand for me, Angel,{n}I'll go, so just say the word.	
 BMsgQ006.2574	食事はとっている	Eating well?	
 BMsgQ006.2586	食事はしっかりとっていますか？	Are you eating properly?	
-BMsgQ006.25A8	はい、ちゃんと食べています。{n}ずいぶん、町の食べ物にも慣れました。{wait}{clear}同じ野菜でも料理のしかたが違うと、{n}味もかわるので、最初はびっくりしましたけど。{wait}{clear}おいしかったものは、森に帰ったら、{n}みんなにつくってあげようと思っています。		
+BMsgQ006.25A8	はい、ちゃんと食べています。{n}ずいぶん、町の食べ物にも慣れました。{wait}{clear}同じ野菜でも料理のしかたが違うと、{n}味もかわるので、最初はびっくりしましたけど。{wait}{clear}おいしかったものは、森に帰ったら、{n}みんなにつくってあげようと思っています。	Yes, I'm eating properly. I've gotten quite{n}used to town food.{wait}{clear}The same vegetables taste different when{n}they're cooked differently, so I was{n}surprised at first.{wait}{clear}When I go back to the forest, I want to make{n}the dishes I liked for everyone.	
 BMsgQ006.2690	気をつけて	Be careful	
 BMsgQ006.269C	気をつけてください……。	Please be careful...	
 BMsgQ006.26B8	ええ……わかってる。{n}心配しないで。	Yes... I know. Don't worry.	
 BMsgQ006.26DE	すみません	I'm sorry	
 BMsgQ006.26EA	すみませんが、がんばって……。	I'm sorry, but please hang in there...	
-BMsgQ006.270C	大丈夫ですよ、天使様。{n}安心していてください。		
+BMsgQ006.270C	大丈夫ですよ、天使様。{n}安心していてください。	I'm fine, Angel. Please rest easy.	
 BMsgQ006.273C	無理はしないで	Don't overdo it	
 BMsgQ006.274C	無理はしないでくださいね。	Please don't push yourself too hard.	
-BMsgQ006.276A	ありがとうございます、心配してくださって。{n}でも、大丈夫です……きっと……。		
+BMsgQ006.276A	ありがとうございます、心配してくださって。{n}でも、大丈夫です……きっと……。	Thank you for worrying about me. But I'm{n}fine... I'm sure of it...	
 BMsgQ006.27B8	油断は禁物	Stay alert	
 BMsgQ006.27C4	油断はしないでくださいね。	Please don't let your guard down.	
-BMsgQ006.27E2	はい、大丈夫です……。{n}どんな敵であっても、油断はしません。		
+BMsgQ006.27E2	はい、大丈夫です……。{n}どんな敵であっても、油断はしません。	Yes, I'm fine... Whatever the enemy, I won't{n}let my guard down.	
 BMsgQ006.2820	敵が気になる	The enemy	
 BMsgQ006.282E	敵の様子が気になりませんか？	Aren't you concerned about the enemy?	
-BMsgQ006.284E	いえ、気にはなりません……。{n}ここまで来たのです……{n}一生懸命に戦うしかありません。		
+BMsgQ006.284E	いえ、気にはなりません……。{n}ここまで来たのです……{n}一生懸命に戦うしかありません。	No, it doesn't bother me... I've come this{n}far... All I can do is fight with all my{n}heart.	
 BMsgQ006.28A4	がんばって	Good luck	
 BMsgQ006.28B0	がんばってください……。	Please do your best...	
-BMsgQ006.28CC	はい……。{n}ありがとうございます、天使様。		
+BMsgQ006.28CC	はい……。{n}ありがとうございます、天使様。	Yes... Thank you, Angel.	
 BMsgQ006.28F8	緊張……	Nervous...	
 BMsgQ006.2902	すみません、{n}私の方が緊張しているかもしれません……。	I'm sorry, I might be the one who's more{n}nervous...	
-BMsgQ006.293C	天使様、そんなに心配しないでください。{n}私なら、大丈夫ですから。		
+BMsgQ006.293C	天使様、そんなに心配しないでください。{n}私なら、大丈夫ですから。	Angel, please don't worry so much. I'll be{n}all right.	
 BMsgQ006.297E	きっと大丈夫です	You'll be fine	
-BMsgQ006.2990	セシアなら、きっと大丈夫です。		
-BMsgQ006.29B2	ありがとうございます……天使様……。{n}私、がんばります。		
+BMsgQ006.2990	セシアなら、きっと大丈夫です。	I'm sure you'll be all right, Cecia.	
+BMsgQ006.29B2	ありがとうございます……天使様……。{n}私、がんばります。	Thank you... Angel... I'll do my best.	
 BMsgQ006.29EC	どうか無事で……	Stay safe...	
 BMsgQ006.29FE	どうか、無事に戻ってきてください。	Please come back safe and sound.	
-BMsgQ006.2A24	そんな心配しないでください。{n}きっと大丈夫ですよ、天使様。		
+BMsgQ006.2A24	そんな心配しないでください。{n}きっと大丈夫ですよ、天使様。	Please don't worry like that. I'm sure it'll{n}be all right, Angel.	
 BMsgQ006.2A60	どきどき	Heart pounding	
 BMsgQ006.2A6A	どきどきしてきました……。	My heart's starting to pound...	
-BMsgQ006.2A88	大丈夫ですよ、天使様、落ち着いてください。		
+BMsgQ006.2A88	大丈夫ですよ、天使様、落ち着いてください。	It's all right, Angel. Please calm down.	
 BMsgQ006.2AB4	すみません！	I'm sorry!	
 BMsgQ006.2AC2	すみません！{n}私がちゃんと考えてなくて……。	I'm sorry! I didn't think it through...	
-BMsgQ006.2AF2	いいえ、これは私の力不足のせいです。{n}ごめんなさい、天使様のお役に立てなくて……。		
+BMsgQ006.2AF2	いいえ、これは私の力不足のせいです。{n}ごめんなさい、天使様のお役に立てなくて……。	No, this is because I wasn't strong enough.{n}I'm sorry I couldn't be of use to you,{n}Angel...	
 BMsgQ006.2B46	大丈夫ですか？	Are you okay?	
 BMsgQ006.2B56	大丈夫ですか？{n}しっかりしてください。	Are you all right? Hang in there.	
-BMsgQ006.2B80	すみません、天使様……。{wait}{clear}でも、天使様に来ていただけて、{n}とても安心しました。{n}ありがとうございます。		
+BMsgQ006.2B80	すみません、天使様……。{wait}{clear}でも、天使様に来ていただけて、{n}とても安心しました。{n}ありがとうございます。	I'm sorry, Angel...{wait}{clear}But I feel so relieved that you came. Thank{n}you.	
 BMsgQ006.2BEA	ありがとう	Thank you	
 BMsgQ006.2BF6	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
-BMsgQ006.2C46	あの……そんなに、気になさらないでください。{n}私、天使様のお役に立ちたいのに、{n}逆にこんなことになってしまって……。		
+BMsgQ006.2C46	あの……そんなに、気になさらないでください。{n}私、天使様のお役に立ちたいのに、{n}逆にこんなことになってしまって……。	Um... please don't worry about it so much. I{n}wanted to be of use to you, and instead this{n}happened...	
 BMsgQ006.2CBC	助けられなくて	Couldn't help	
 BMsgQ006.2CCC	助けてあげられなくて、すみませんでした。	I'm sorry I couldn't help you.	
-BMsgQ006.2CF8	いいえ、天使様のせいではありません。{n}ですから、気になさらないでください。{wait}{clear}それに、天使様がいつもいつも{n}戦いのときにいてくださったりしていたら、{n}甘えてしまいそうですから……。		
+BMsgQ006.2CF8	いいえ、天使様のせいではありません。{n}ですから、気になさらないでください。{wait}{clear}それに、天使様がいつもいつも{n}戦いのときにいてくださったりしていたら、{n}甘えてしまいそうですから……。	No, it's not your fault, Angel. So please{n}don't let it trouble you.{wait}{clear}Besides, if you were always there with me in{n}every battle, I'd end up depending on you...	
 BMsgQ006.2DAE	他に必要なことは	Anything else?	
 BMsgQ006.2DC0	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？	Besides items, I'd like to do whatever I can{n}for you. Is there anything?	
-BMsgQ006.2E0E	すみません、大丈夫です……。{wait}{clear}でも、できたら、また来てくださいますか？{n}天使様がいてくれれば、{n}それだけで気持ちが落ち着きます……。		
+BMsgQ006.2E0E	すみません、大丈夫です……。{wait}{clear}でも、できたら、また来てくださいますか？{n}天使様がいてくれれば、{n}それだけで気持ちが落ち着きます……。	I'm sorry, I'm all right...{wait}{clear}But if you can, will you come again? Just{n}having you here calms my heart...	
 BMsgQ006.2E96	無理をさせて……	Pushed too hard	
 BMsgQ006.2EA8	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。	I pushed you so hard that it came to this,{n}didn't I?{wait}{clear}I'm sorry.	
-BMsgQ006.2EFC	いいえ、それは違います。{n}天使様のせいではありません。{wait}{clear}私が自分でしたことですから、{n}天使様が悪いわけではないのです。{n}だから、あやまらないでください。		
+BMsgQ006.2EFC	いいえ、それは違います。{n}天使様のせいではありません。{wait}{clear}私が自分でしたことですから、{n}天使様が悪いわけではないのです。{n}だから、あやまらないでください。	No, that's not true. It isn't your fault,{n}Angel.{wait}{clear}I did this myself, so you're not to blame.{n}Please don't apologize.	
 BMsgQ006.2F98	お願いばかり	Asking too much	
 BMsgQ006.2FA6	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
-BMsgQ006.300A	いいです、天使様。{n}私は天使様に頼りにされることが、{n}とてもうれしかったのですから……。{wait}{clear}それなのに、こたえることができなくて、{n}すみませんでした。{wait}{clear}私……かならず、強くなります。		
+BMsgQ006.300A	いいです、天使様。{n}私は天使様に頼りにされることが、{n}とてもうれしかったのですから……。{wait}{clear}それなのに、こたえることができなくて、{n}すみませんでした。{wait}{clear}私……かならず、強くなります。	It's all right, Angel. I was so happy that{n}you relied on me...{wait}{clear}And yet I couldn't live up to it. I'm sorry.{wait}{clear}I... I will become stronger. I promise.	
 BMsgQ006.30C4	敵が強くて	Strong enemy	
 BMsgQ006.30D0	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。	To think the enemy was strong enough to hurt{n}you like this...{wait}{clear}I must have asked it of you the wrong way...	
-BMsgQ006.313A	いいえ、違います。{n}私の力が足りなかったのです。{wait}{clear}……いい経験になったと思っています。{n}ありがとうございます……天使様……。		
+BMsgQ006.313A	いいえ、違います。{n}私の力が足りなかったのです。{wait}{clear}……いい経験になったと思っています。{n}ありがとうございます……天使様……。	No, you're wrong. I simply wasn't strong{n}enough.{wait}{clear}...I think it was a good lesson. Thank{n}you... Angel...	
 BMsgQ006.31BA	油断は禁物	Stay alert	
 BMsgQ006.31C6	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。	For you to be so badly wounded... Did you{n}let your guard down?	
-BMsgQ006.3206	いいえ。{n}油断をしたつもりはありません。{wait}{clear}でも……。{n}力がおよばなかったことははっきりしています。{n}もっと、がんばらないと……。		
+BMsgQ006.3206	いいえ。{n}油断をしたつもりはありません。{wait}{clear}でも……。{n}力がおよばなかったことははっきりしています。{n}もっと、がんばらないと……。	No. I don't think I was careless.{wait}{clear}But... it's clear my strength fell short. I{n}have to try harder...	
 BMsgQ006.328A	元気になって	Get well	
 BMsgQ006.3298	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。	You may be worried about the world, but for{n}now, think only about getting better.	
-BMsgQ006.32F0	はい……ありがとうございます、天使様……。{wait}{clear}元気になって、また天使様にお仕えしたいです。		
-BMsgQ006.334C	森		
-BMsgQ006.3350	このレイフォリアの森は本当に美しいですね。		
-BMsgQ006.337E	ありがとうございます、天使様！{wait}{clear}私の大好きな森のことをそう言っていただけると、{n}とてもうれしいです。		
-BMsgQ006.33E6	森		
-BMsgQ006.33EA	森はすばらしいです。		
-BMsgQ006.3402	ええ、本当に……。{n}人も動物も森の恵みで生きていますから……。		
-BMsgQ006.3442	森		
-BMsgQ006.3446	セシアにとって、この森は……。		
-BMsgQ006.3468	とても大切な場所です。{n}そして、私にとって、{n}この森の秩序が壊されることがいちばん怖い……。{wait}{clear}ずっと、守り続けていきたいと思っています。		
-BMsgQ006.34F4	伝説		
-BMsgQ006.34FA	伝説のことを教えてもらえますか？		
-BMsgQ006.351E	ええ……。{wait}{clear}伝説とは、遠い昔、天使様に導かれ、{n}世界の危機を救ったディアナ様の物語のことです。{wait}{clear}ディアナ様の意志は過去からずっと受け継がれ、{n}いまも、ある場所で{n}この森を守護してくださっていると言われています。{wait}{clear}そして、代々のディアナ様のことを{n}私たちは親愛の気持ちをこめて{n}聖母様と呼んでいるのです。{wait}{clear}森の女の子のほとんどは、きっと{n}ディアナ様にあこがれを持っていると思います。		
-BMsgQ006.36A4	伝説		
-BMsgQ006.36AA	伝説の意味は……		
-BMsgQ006.36BE	伝説の意味ですか……？{n}それは……そのお話は、いつか……。		
-BMsgQ006.36FA	伝説		
-BMsgQ006.3700	ずっと伝えていってください……。		
-BMsgQ006.3724	はい……そうですね……天使様。		
+BMsgQ006.32F0	はい……ありがとうございます、天使様……。{wait}{clear}元気になって、また天使様にお仕えしたいです。	Yes... Thank you, Angel...{wait}{clear}I want to get well and serve you again.	
+BMsgQ006.334C	森	The Forest	
+BMsgQ006.3350	このレイフォリアの森は本当に美しいですね。	This Reyforia Forest is truly beautiful.	
+BMsgQ006.337E	ありがとうございます、天使様！{wait}{clear}私の大好きな森のことをそう言っていただけると、{n}とてもうれしいです。	Thank you, Angel!{wait}{clear}It makes me so happy to hear you say that{n}about my beloved forest.	
+BMsgQ006.33E6	森	The Forest	
+BMsgQ006.33EA	森はすばらしいです。	The forest is wonderful.	
+BMsgQ006.3402	ええ、本当に……。{n}人も動物も森の恵みで生きていますから……。	Yes, truly... People and animals both live{n}on the forest's gifts...	
+BMsgQ006.3442	森	The Forest	
+BMsgQ006.3446	セシアにとって、この森は……。	To you, Cecia, this forest is...	
+BMsgQ006.3468	とても大切な場所です。{n}そして、私にとって、{n}この森の秩序が壊されることがいちばん怖い……。{wait}{clear}ずっと、守り続けていきたいと思っています。	A very precious place. And what I fear most{n}is the order of this forest being{n}destroyed...{wait}{clear}I want to keep protecting it, always.	
+BMsgQ006.34F4	伝説	The Legend	
+BMsgQ006.34FA	伝説のことを教えてもらえますか？	Could you tell me about the legend?	
+BMsgQ006.351E	ええ……。{wait}{clear}伝説とは、遠い昔、天使様に導かれ、{n}世界の危機を救ったディアナ様の物語のことです。{wait}{clear}ディアナ様の意志は過去からずっと受け継がれ、{n}いまも、ある場所で{n}この森を守護してくださっていると言われています。{wait}{clear}そして、代々のディアナ様のことを{n}私たちは親愛の気持ちをこめて{n}聖母様と呼んでいるのです。{wait}{clear}森の女の子のほとんどは、きっと{n}ディアナ様にあこがれを持っていると思います。	Yes...{wait}{clear}The legend is the story of Diana-sama, who{n}long ago was guided by an angel and saved{n}the world from crisis.{wait}{clear}They say Diana-sama's will has been handed{n}down ever since, and that even now she{n}protects this forest from a certain place.{wait}{clear}And with love, we call each Diana-sama in{n}turn the Holy Mother.{wait}{clear}I think almost every girl in the forest{n}looks up to Diana-sama.	
+BMsgQ006.36A4	伝説	The Legend	
+BMsgQ006.36AA	伝説の意味は……	The legend means...	
+BMsgQ006.36BE	伝説の意味ですか……？{n}それは……そのお話は、いつか……。	What the legend means...? That... that's a{n}story for another day...	
+BMsgQ006.36FA	伝説	The Legend	
+BMsgQ006.3700	ずっと伝えていってください……。	Please keep passing it on...	
+BMsgQ006.3724	はい……そうですね……天使様。	Yes... I will... Angel.	

@@ -1,8 +1,8 @@
 id	jp	en	notes
 roev07.0002	癒しの手		dev label (guess: not shown)
 roev07.00A2	ロクス	Rocus	unit name (32-byte field)
-roev07.00DE	シーフ		unit name (32-byte field)
-roev07.011A	シーフ		unit name (32-byte field)
+roev07.00DE	シーフ	Thief	unit name (32-byte field)
+roev07.011A	シーフ	Thief	unit name (32-byte field)
 roev07.0156	男の子	What's that?{wait}{clear}	unit name (32-byte field)
 roev07.0498	ならず者１		speaker
 roev07.04B1	これで、たんまり金が入るぜ！		text
