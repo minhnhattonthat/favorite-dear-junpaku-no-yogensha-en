@@ -119,6 +119,9 @@ def write_inc(path=INC):
         idx[lead] = i
     for k in range(0, 256, 16):
         lines.append("    .byte " + ", ".join(f"0x{v:02X}" for v in idx[k:k + 16]))
+    lines.append("pair_leads:      ; lead byte by index (n // 188), for asm/name.asm")
+    lines.append("    .byte " + ", ".join(f"0x{v:02X}" for v in LEADS))
+    lines.append(".align 4")
     lines.append("pair_glyphs:     ; per letter: 14 rows x 3 bytes (6 px 4bpp, low nibble = left pixel)")
     for ch in CHARS:
         px = glyph_pixels(ch, font)
@@ -128,6 +131,40 @@ def write_inc(path=INC):
         lines.append(f"    .byte {', '.join(f'0x{v:02X}' for v in data)}   ; {ch!r}")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return path
+
+
+def name_equs():
+    """armips -equ values for asm/name.asm: CHARS indices of the full-width name-entry letters' ASCII forms."""
+    return {"CH_SPACE": CHARS.index(" "), "CH_EXCL": CHARS.index("!"), "CH_QUES": CHARS.index("?"),
+            "CH_0": CHARS.index("0"), "CH_UA": CHARS.index("A"), "CH_LA": CHARS.index("a")}
+
+
+def name_to_pairs(sjis: bytes) -> bytes:
+    """Python model of asm/name.asm name_commit: a full-width SJIS name (name entry) -> the stored name, with
+    full-width Latin letters, digits, space, ! and ? turned into pair codes (an odd run gets a trailing space) and
+    any other character kept. Stops at NUL or 12 bytes; the result is NUL-padded to 12 bytes."""
+    full = {0x8140: " ", 0x8148: "?", 0x8149: "!"}
+    full.update({0x8260 + i: chr(65 + i) for i in range(26)})
+    full.update({0x8281 + i: chr(97 + i) for i in range(26)})
+    full.update({0x824F + i: chr(48 + i) for i in range(10)})
+    out, run = b"", ""
+    for i in range(0, min(len(sjis), 12) - 1, 2):
+        c = sjis[i] << 8 | sjis[i + 1]
+        if sjis[i] == 0:
+            break
+        if c in full:
+            run += full[c]
+            if len(run) == 2:
+                out += pair_code(*run)
+                run = ""
+            continue
+        if run:
+            out += pair_code(run, " ")
+            run = ""
+        out += sjis[i:i + 2]
+    if run:
+        out += pair_code(run, " ")
+    return out.ljust(12, b"\0")
 
 
 def sheet(out, text=None, zoom=4):

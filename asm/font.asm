@@ -10,6 +10,7 @@
 ; 0x8002C514 no longer rejects an index above the glyph count.
 
 .psx
+.include "addrs.inc"
 .open EXE_IN, EXE_OUT, (LOAD_ADDR - 0x800)  ; LOAD_ADDR (-equ, build.patch_exe): the moved t_addr, below FREE
                                             ; (the string heap of tools/codetext.py sits between them)
 
@@ -160,7 +161,13 @@ glyph_hook:                             ; a0 = glyph index
 .include "font_data.inc"
 font_end:
 
-.if font_end > FREE_END
-    .error "font hook overflows the FREE block"
+.if font_end > NAME_COMMIT
+    .error "font hook overflows into name_commit (asm/addrs.inc)"
+.endif
+
+.include "name.asm"
+
+.if name_end > FREE_END
+    .error "name_commit overflows the FREE block"
 .endif
 .close
