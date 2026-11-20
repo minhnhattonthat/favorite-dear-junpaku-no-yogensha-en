@@ -35,8 +35,9 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - the title logo 純白の預言者 (D5: no official English logo; G1 kept);
 - visit_01.ssb lines like "29-00" (the original's own placeholder ids, JP ２９＿００);
 - tgs_end's blank proof frame (the scene runs).
-Known open graphics rows (an `issue`, but name the row so it is not re-investigated): G10 album profile panel
-(name/job/birthday/homeland in Japanese), G3 status tags, G4 skill banners, G14/G15 FMV captions and staff roll.
+Known open graphics rows (an `issue`, but name the row so it is not re-investigated): G14/G15 FMV captions and
+staff roll. G3 tags, G4 banners and the G10 album panel are English from build 2e18e967 (an_mag_0.tim, ALBUM_03.TIM);
+on an older build they are still Japanese.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

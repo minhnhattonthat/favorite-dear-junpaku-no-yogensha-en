@@ -1,0 +1,35 @@
+# G10 album profile atlas GRPDATA 1454 ALBUM_03.TIM (tools/album.py). u	v	w	h	jp	en	align	tops	font	notes
+# Rects are the sprites the OMAKE album draws (RAM dumps, tools/sprites.py; docs/re/graphics.md G10); the text is
+# redrawn inside each one. en: lines split by " / ", columns by " | ". align: one letter per line (l, r, c).
+# tops: line tops in the rect (default: centred). font: label (14 px), small (font6), tag (narrow); empty = the
+# first that fits of label, small, tag.
+0	0	40	24	フェイン	Fein	l
+40	0	40	24	クライヴ	Clive	l
+80	0	32	24	ルディ	Rudi	l
+0	24	32	24	ロクス	Rocus	l
+32	24	56	24	アイリーン	Irene	l
+88	24	32	24	レイラ	Leyla	l
+0	48	32	24	セシア	Cecia	l
+32	48	32	24	天界	Heaven	l			page 8 (angels and fairies); glossary "the Heavens" is 34 px in the smallest legible font, the rect 32
+72	48	64	24	ウォーロック	Warlock	r			Fein's job
+0	72	80	24	ヴァンパイアハンター	Vampire Hunter	r			Clive
+80	72	24	24	王子	Prince	r			Rudiere; 24 px rect
+0	96	48	24	聖職者	Cleric	r			Rocus
+48	96	48	24	魔導士	Mage	r			Irene
+96	96	32	24	騎士	Knight	r			Leyla
+0	120	40	24	弓使い	Archer	r			Cecia
+88	144	48	16	4月24日	Apr 24	r
+88	160	48	16	2月16日	Feb 16	r
+88	176	48	16	6月29日	Jun 29	r
+88	192	48	16	11月4日	Nov 4	r
+88	208	48	16	10月1日	Oct 1	r
+88	224	48	16	12月12日	Dec 12	r
+88	240	48	16	8月11日	Aug 11	r
+144	0	72	32	出身地 / 六王国連合	From / Six Kingdoms	lr	0,16	small
+144	32	72	32	出身地 / ゼルン公国	From / Duchy of Zern	lr	0,16	small
+144	64	72	32	出身地 / レグランス王国	From / Legrance	lr	0,16	small	Kingdom of Legrance does not fit 72 px
+144	96	72	32	出身地 / エクレシア教国	From / Ecclesia	lr	0,16	small
+144	128	72	32	出身地 / ブレメース島	From / Bremes Isle	lr	0,16	small
+144	160	72	32	出身地 / グローサイン帝国	From / Grosain Empire	lr	0,16	small
+144	192	72	32	出身地 / レイフォリアの森	From / Reyforia Forest	lr	0,16	small
+0	144	80	112	ラファエル ミカエル / ラツィエル レミエル / ティタニア / ローザ フロリンダ / シェリー リリィ / リンクス アクイラ / シータス レーパス	Raphael | Michael / Raziel | Remiel / Titania / Rosa | Florinda / Shelly | Lily / Lynx | Aquila / Cetus | Lepus	lllllll	2,16,32,52,65,78,91	small	page 8 list

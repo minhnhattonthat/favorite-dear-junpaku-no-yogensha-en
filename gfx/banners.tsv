@@ -1,0 +1,15 @@
+# G3 status tags and G4 skill banners in GRPDATA an_mag_0.tim (tools/banners.py). kind	idx	jp	en	notes
+# tags: 36x16 at (40*idx, 184), narrow font fonts/font_tag.txt; banners: 16 rows at y 208/224/240, x 0 (idx 0-2) or
+# 104 (idx 3-5), the pill keeps its original width. Two spaces between the skill name and its effect, as the JP.
+tag	0	パラライズ	Paralyze	JP word (paralyze); GRPDATA_0002's status screen says Paralysis, too wide for the tag
+tag	1	ポイズン	Poison
+tag	2	コンフュ	Confuse	JP abbreviates too (confu); Confusion is too wide for the tag
+tag	3	石化	Stone
+tag	4	スリープ	Sleep
+tag	5	チャーム	Charm
+banner	0	逃走　戦闘から退却	Flee  Leave battle
+banner	1	小回復　HP100回復	Minor Heal  +100 HP
+banner	2	大回復　HP完全回復	Major Heal  Full HP
+banner	3	連撃　攻撃を3回繰り返す	Combo  Attack 3 times
+banner	4	透明　敵の攻撃を3回無効化	Vanish  Nullify 3 attacks
+banner	5	祝福　特殊能力カバー上昇	Blessing  Skill cover up	特殊能力 = special ability; カバー = cover

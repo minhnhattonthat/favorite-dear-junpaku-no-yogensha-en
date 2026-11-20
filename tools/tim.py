@@ -66,6 +66,16 @@ def to_image(t, clut=0):
     return im
 
 
+def with_pixels(data, pix, off=0):
+    """data (a 4 bpp TIM at off) with its image indices replaced by pix (row-major, same size) -> new bytes."""
+    t = parse(data, off)
+    assert t and t["bpp"] == 4 and len(pix) == t["w"] * t["h"], "want a 4 bpp TIM and a full-size index list"
+    assert all(0 <= v < 16 for v in pix)
+    start = t["end"] - t["w"] * t["h"] // 2
+    raw = bytes(pix[i] | pix[i + 1] << 4 for i in range(0, len(pix), 2))
+    return data[:start] + raw + data[t["end"]:]
+
+
 def dump(outdir, disc):
     """Every TIM in every LKF archive (whole entries, plus TIMs packed back to back inside an entry)
     -> OUTDIR/<archive>_<index>_<n>.png + index.tsv. Entries that hold no TIM are listed as skipped."""

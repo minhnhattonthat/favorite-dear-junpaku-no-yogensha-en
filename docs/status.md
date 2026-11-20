@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (21st worker: G3/G4/G10 redrawn, build 2e18e967, re-tour owed; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -222,11 +222,28 @@ Updated at the end of every session. Keep it to what the next session needs; his
   battle_3152, battle_h1-h6, credits, end_* (9), game_over, game_over2, tgs_end (`warp.py SCENE.. --cue <abs>/build/
   fd2_en.cue --out-dir work/qa/tour`). The old tour (da353c51) is in `work/qa/tour_da353c51`. Then `qa_sheets.py
   work/qa/tour`, `qa_gate.py init ... --build build/fd2_en.bin` and verdicts.
-- **Next (phase 8):** finish the re-tour (above), then read the remaining sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size
+- **Phase 8 progress (2026-11-21, 21st worker):** re-tour on 47e8c2eb finished: all 21 remaining scenes OK
+  (tgs_end blank as known), so `work/qa/tour` has all 67 scenes on 47e8c2eb. **G3 + G4 done:** `tools/banners.py`,
+  `gfx/banners.tsv` redraw an_mag_0.tim (GRPDATA 0057) in palette-index space (valid for all 16 CLUTs, no VRAM dump
+  needed): tags Paralyze Poison Confuse Stone Sleep Charm (new narrow `fonts/font_tag.txt`, 36 px sprites), banners
+  "Flee  Leave battle", "Minor Heal  +100 HP", "Major Heal  Full HP", "Combo  Attack 3 times", "Vanish  Nullify 3
+  attacks", "Blessing  Skill cover up" (pills keep their width); `tim.with_pixels` (4 bpp writer). **G10 done:**
+  `tools/album.py`, `gfx/album.tsv`; the album's atlas rects came from RAM dumps (`tools/debug/ramdump.lua`, new
+  `tools/sprites.py` lists GP0 sprite packets; dumps in `work/qa/p8/album_ram/`), text in label14 (DejaVu 14 px,
+  copied from ../favorite-dear-en with `tools/labelfont.py`) / font6 / font_tag; cuts in polish.md. Tests
+  `tests/test_banners.py`, `tests/test_album.py`; check.py 65 passed, lint 0. **Build 2e18e967** (graphics only vs
+  47e8c2eb: GRPDATA 0057 + 1454), smoke OK. NOT yet seen in game: the re-tour of omake, omake_cg, album_2-8, battle,
+  battle_h1-h6, battle_3152 on 2e18e967 was killed by the host for low memory (the first game's project had two
+  emulators running) before any scene finished. The G3/G4 sprites may not show in the warp battles at all (they
+  appear on status effects / skills): if not, add a battle route that casts a skill, or waive with the redraw sheet.
+- **Next (phase 8):** re-tour on 2e18e967 the 17 scenes above (`warp.py omake omake_cg album_2 .. album_8 battle
+  battle_h1 .. battle_h6 battle_3152 -j 1 --cue <abs>/build/fd2_en.cue --out-dir work/qa/tour`, with no other
+  emulators running); the other 50 scenes' text is identical between 47e8c2eb and 2e18e967 (only GRPDATA 0057/1454
+  changed), so record that with the manifest. Then read the remaining sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size
   20 --out-dir work/qa/chunks`; ~1k tokens per sheet, so ~60 sheets per worker; write `verdicts/w<N>_NNN.tsv`):
   battles (G3/G4/G7/G8 graphics likely still JP), credits (13 pages, D3: English credits = ENDING.STR FMV work),
-  the 7 endings, game over, tgs_end, ev_*, exam, year1, maseki, end_cecia*. Then the graphics redraws (G3, G4, G8
-  88 plates, G10 album atlas, G9 if used) and the FMV captions/credits (G14/G15).
+  the 7 endings, game over, tgs_end, ev_*, exam, year1, maseki, end_cecia*. Graphics left: G9 if used (fileslog
+  check), G7 glyph strips (find the user), and the FMV captions/credits (G14/G15).
   Earlier list: QA in the emulator per the skill's phase 8 done-when (tour sheets + visual-QA verdicts via
   `qa_gate.py`, graphics text G-rows incl. the OMAKE profile panel (stylized-font graphic, still JP), chapter cards,
   game over, credits; `inkbox.py` on choice/menu boxes; stress saves; `textcover.py`). Carried from phase 7: add a

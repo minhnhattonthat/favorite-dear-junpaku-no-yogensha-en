@@ -24,3 +24,5 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [ ] gfx/plates.tsv 77 天竜 battle name plate "Heaven Dragon" (glossary "Heavenly Dragon" is 70 px, the PIX plate 64x12). Waive, or redraw in a narrower face.
 - [ ] Name entry opens on the katakana page; the Latin page is one arrow press away. Opening on the Latin page would suit English players (find the page variable in pro.bin near 0x8009BF80).
 - [ ] Odd-length Latin player names end in a space (pair glyphs fill whole 12 px cells): "Ray , welcome". Half-cell rendering of the name placeholder would fix it.
+- [ ] gfx/album.tsv G10 cuts forced by fixed atlas rects (computed in code): 天界 "Heaven" (glossary "the Heavens", 32 px rect), レグランス王国 "Legrance" (Kingdom of Legrance), 六王国連合 "Six Kingdoms" (Alliance dropped), 王子 "Prince" in the 3 px tag font (24 px rect). Restore if the album code rects are found and widened.
+- [ ] gfx/banners.tsv G3 tags "Paralyze"/"Confuse" (the JP words; the status screen says Paralysis/Confusion) in the narrow tag font: 36 px sprites. Waive or widen the sprites.
