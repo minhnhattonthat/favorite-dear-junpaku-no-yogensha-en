@@ -162,6 +162,10 @@ def check(b):
             if jp.count(t) and not en.count(t):
                 errs.append(f"{i}: placeholder {t} is missing")
             plain = plain.replace(t, "")
+        if "￥" in jp:        # the prologue quiz's line break (pro.bin tables)
+            if en.count("￥") != jp.count("￥"):
+                errs.append(f"{i}: {en.count('￥')} ￥ line breaks, the JP has {jp.count('￥')}")
+            plain = plain.replace("￥", "")
         bad = {c for c in plain if c not in ALLOWED}
         if bad:
             errs.append(f"{i}: characters not in the font {sorted(bad)}")
@@ -183,7 +187,8 @@ def check(b):
                     errs.append(f"{i}: word longer than a line: {word[:20]}")
         rest = jp             # a term inside a longer matched term (ルディ in ウルディピア) is that term's
         for gjp, gen, avoid in sorted(gl, key=lambda g: -len(g[0])):
-            if gjp in rest and gen and gen not in en:
+            # a capitalised first letter or title case (menu labels, "Chaos Level") also counts
+            if gjp in rest and gen and not any(f in en for f in (gen, gen[0].upper() + gen[1:], gen.title())):
                 errs.append(f"{i}: glossary {gjp} -> {gen} missing")
             rest = rest.replace(gjp, "　")
             for a in avoid:

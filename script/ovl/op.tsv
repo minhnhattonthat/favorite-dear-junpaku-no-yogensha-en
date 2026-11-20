@@ -181,8 +181,8 @@ op.8009C7D8	ロクスと地上に残る約束を交わして。		ptrx1
 op.8009C7FC	クラレンスとの最後の戦いで目に傷を負ったロクス。		ptrx1
 op.8009C830	ヴァイパーとの最後の戦い		ptrx1
 op.8009C84C	毒蛇の誘い		ptrx1
-op.8009C858	それを心配そうに見つめるロクス。		ptrx1
-op.8009C87C	ロクス、ヴァイパーにキレる		ptrx1
+op.8009C858	それを心配そうに見つめるロクス。	Rocus watches anxiously.	ptrx1
+op.8009C87C	ロクス、ヴァイパーにキレる	Rocus Loses It with Viper	ptrx1
 op.8009C898	ロクスは女天使に素直に自分の気持ちを話す。		ptrx1
 op.8009C8C4	女天使を誘って		ptrx1
 op.8009C8D4	寒い夜		ptrx1
@@ -190,7 +190,7 @@ op.8009C8DC	酔っぱらった天使にあきれるロクス。		ptrx1
 op.8009C900	ロクスと飲みに行った男天使		ptrx1
 op.8009C91C	意外な天使		ptrx1
 op.8009C928	天使はロクスを信じると言うが彼は素直になれない。		ptrx1
-op.8009C95C	自分の不満をこういう形でしか表現できないロクス。		ptrx1
+op.8009C95C	自分の不満をこういう形でしか表現できないロクス。	Rocus can only voice his frustration this way.	ptrx1
 op.8009C990	宿屋での出来事		ptrx1
 op.8009C9A0	自分にイラ立つロクスはいさめる天使とケンカに。		ptrx1
 op.8009C9D0	やけになって		ptrx1
@@ -204,8 +204,8 @@ op.8009CA88	聖都侵攻		ptrx1
 op.8009CA94	カードに負けたロクスは秘密をしゃべらせられる。		ptrx1
 op.8009CAC4	クラレンスとの勝負		ptrx1
 op.8009CAD8	毒蛇との賭け		ptrx1
-op.8009CAE8	クラレンスに会ってロクスの運命が変わりはじめる。		ptrx1
-op.8009CB1C	ヴァイパー～毒蛇～というあだ名の男		ptrx1
+op.8009CAE8	クラレンスに会ってロクスの運命が変わりはじめる。	Meeting Clarence, Rocus's fate begins to change.	ptrx1
+op.8009CB1C	ヴァイパー～毒蛇～というあだ名の男	The Man Called Viper	ptrx1
 op.8009CB40	毒蛇		ptrx1
 op.8009CB48	天使を誘って訪れた酒場でのロクス……。		ptrx1
 op.8009CB70	ロクスの夜		ptrx1
@@ -220,16 +220,16 @@ op.8009CC2C	ルディと地上に残る約束を交わして。		ptrx1
 op.8009CC50	誓い		ptrx2
 op.8009CC58	がれきの山を見つめるルディと天使。		ptrx2
 op.8009CC7C	雨宿りをしながら天使に自分の想いを語る。		ptrx1
-op.8009CCA8	いままでの自分を振り返るルディ		ptrx1
+op.8009CCA8	いままでの自分を振り返るルディ	Rudi Looks Back on Himself	ptrx1
 op.8009CCC8	雨		ptrx1
 op.8009CCCC	弟を止めようとするがその想いは届かずに……。		ptrx1
 op.8009CCFC	ルディとサヴィオの戦い		ptrx1
 op.8009CD14	呪いの鎧		ptrx1
-op.8009CD20	それを心配そうに見つめるルディ。		ptrx1
+op.8009CD20	それを心配そうに見つめるルディ。	Rudi watches anxiously.	ptrx1
 op.8009CD44	サヴィアはルディにユーグの印象を話す。		ptrx1
 op.8009CD6C	誤解がとけた二人		ptrx1
-op.8009CD80	鎧～ルディとサヴィア２～		ptrx1
-op.8009CD9C	王の死の原因がルディにあると責められる。		ptrx1
+op.8009CD80	鎧～ルディとサヴィア２～	Armor: Rudi and Savia 2	ptrx1
+op.8009CD9C	王の死の原因がルディにあると責められる。	Rudi is blamed for the king's death.	ptrx1
 op.8009CDC8	自分のことばかり考えている貴族たち		ptrx1
 op.8009CDEC	政治		ptrx1
 op.8009CDF4	兄の死後、玉座の間で母と話すルディ。		ptrx1
@@ -238,12 +238,12 @@ op.8009CE28	母		ptrx1
 op.8009CE2C	兄の亡きがらにすがるルディ。		ptrx1
 op.8009CE4C	悪いうわさを聞いて王宮に戻るが……		ptrx1
 op.8009CE70	王、暗殺		ptrx1
-op.8009CE7C	ルディを助けにきたのは……？		ptrx1
+op.8009CE7C	ルディを助けにきたのは……？	Who came to rescue Rudi...?	ptrx1
 op.8009CE9C	赤い鎧の男に囚われたルディ		ptrx1
 op.8009CEB8	血色の鎧		ptrx1
 op.8009CEC4	昼間とは違った様子を見せる皇帝にルディは……。		ptrx1
 op.8009CEF4	宮殿のテラスで		ptrx1
-op.8009CF04	皇帝エンディミオン		ptrx1
+op.8009CF04	皇帝エンディミオン	Emperor Endymion	ptrx1
 op.8009CF18	ルディは自分の気持ちを皇帝へぶつける。		ptrx1
 op.8009CF40	正装したルディの姿		ptrx1
 op.8009CF54	ルディは宰相の言葉に反感を抱く。		ptrx1
@@ -252,17 +252,17 @@ op.8009CF88	帝国を訪れたルディに、宰相は……。		ptrx1
 op.8009CFAC	帝国皇帝との会見の場にて		ptrx1
 op.8009CFC8	帝都		ptrx3
 op.8009CFD0	兄から帝国の真意を探ることを頼まれたルディ。		ptrx1
-op.8009D000	レグランス国王、ユーグ・ゼイント		ptrx1
+op.8009D000	レグランス国王、ユーグ・ゼイント	Hugues Zeint, King of Legrance	ptrx1
 op.8009D024	帝国への特使		ptrx1
 op.8009D034	あまりの暑さに水浴びをするルディたち。		ptrx1
 op.8009D05C	ゾウのセネカとルディ		ptrx1
-op.8009D074	ひととき～遊んで～		ptrx1
-op.8009D088	寝ているルディを起こすと……。		ptrx1
+op.8009D074	ひととき～遊んで～	A Moment at Play	ptrx1
+op.8009D088	寝ているルディを起こすと……。	Waking Rudi from his nap...	ptrx1
 op.8009D0A8	レグランス王国、王宮。		ptrx1
 op.8009D0C0	ルディとの最初の出会い		ptrx2
 op.8009D0D8	南国の王子		ptrx2
 op.8009D0E4	再び出会って		ptrx1
-op.8009D0F4	レイブンルフトを倒したクライヴは……。		ptrx1
+op.8009D0F4	レイブンルフトを倒したクライヴは……。	Clive, having defeated Ravenruft...	ptrx1
 op.8009D11C	レイブンルフトを倒して。		ptrx1
 op.8009D138	レイブンルフトとの最後の戦いの場所。		ptrx1
 op.8009D160	レイブンルフト城の広間		ptrx1
@@ -271,21 +271,21 @@ op.8009D184	クライヴと地上に残る約束を交わして。		ptrx1
 op.8009D1AC	天竜の見える場所で話すふたり。		ptrx4
 op.8009D1CC	復活した天竜		ptrx5
 op.8009D1DC	光を求めて		ptrx2
-op.8009D1E8	明るい日差しは彼にとってはまだつらく……。		ptrx1
+op.8009D1E8	明るい日差しは彼にとってはまだつらく……。	Bright sunlight is still hard on him...	ptrx1
 op.8009D214	陽の当たる場所		ptrx1
 op.8009D224	街へ		ptrx1
 op.8009D22C	がれきの山を見つめるクライヴと天使。		ptrx1
 op.8009D254	勇者だったころのレイブンルフトの剣を手に入れる。		ptrx1
 op.8009D288	天使の剣		ptrx2
 op.8009D294	占領された村		ptrx2
-op.8009D2A4	それを心配そうに見つめるクライヴ。		ptrx1
-op.8009D2C8	吸血鬼の血がクライヴを苦しめる……そして……。		ptrx1
+op.8009D2A4	それを心配そうに見つめるクライヴ。	Clive watches anxiously.	ptrx1
+op.8009D2C8	吸血鬼の血がクライヴを苦しめる……そして……。	Vampire blood torments Clive... and then...	ptrx1
 op.8009D2F8	発作		ptrx1
 op.8009D300	血の葛藤		ptrx1
 op.8009D30C	レイブンルフトの力の前に、近づくことも出来ない。		ptrx1
-op.8009D340	レイブンルフトの玉座		ptrx1
+op.8009D340	レイブンルフトの玉座	Ravenruft's Throne	ptrx1
 op.8009D358	いつもは姿を見ることさえできない謎の城。		ptrx1
-op.8009D384	レイブンルフト城		ptrx1
+op.8009D384	レイブンルフト城	Ravenruft Castle	ptrx1
 op.8009D398	城への道		ptrx2
 op.8009D3A4	この村で起こった悲劇を語るクライヴ。		ptrx1
 op.8009D3CC	あるうち捨てられた村を訪れて		ptrx1
@@ -294,18 +294,18 @@ op.8009D3FC	吸血鬼と化した彼女は彼を誘惑しようとするが…�
 op.8009D430	吸血鬼に襲われたクレージュ公国の姫		ptrx1
 op.8009D454	呪われた姫君		ptrx1
 op.8009D464	安らかな寝息……寝顔からは影は感じられない。		ptrx1
-op.8009D494	眠るクライヴ		ptrx1
-op.8009D4A4	安息と		ptrx1
+op.8009D494	眠るクライヴ	Clive Asleep	ptrx1
+op.8009D4A4	安息と	Rest	ptrx1
 op.8009D4AC	月明かりの下、ゾンビを倒したクライヴは……。		ptrx1
-op.8009D4DC	クライヴとの最初の出会い		ptrx1
-op.8009D4F8	吸血鬼ハンター		ptrx1
+op.8009D4DC	クライヴとの最初の出会い	First Meeting with Clive	ptrx1
+op.8009D4F8	吸血鬼ハンター	Vampire Hunter	ptrx1
 op.8009D508	荒野で……		ptrx1
 op.8009D514	未来へ		ptrx2
-op.8009D520	エンディング		ptrx7
-op.8009D530	ウェスタが届けてくれた手紙で彼女の気持ちを知る。		ptrx1
+op.8009D520	エンディング	Ending	ptrx7
+op.8009D530	ウェスタが届けてくれた手紙で彼女の気持ちを知る。	Vesta's letter tells the angel how she feels.	ptrx1
 op.8009D564	手紙が届いて		ptrx1
-op.8009D574	アイリーンからの手紙		ptrx1
-op.8009D58C	フェインに呼び止められ天使は立ち止まる。		ptrx1
+op.8009D574	アイリーンからの手紙	A Letter from Irene	ptrx1
+op.8009D58C	フェインに呼び止められ天使は立ち止まる。	Called by Fein, the angel stops.	ptrx1
 op.8009D5B8	告白		ptrx11
 op.8009D5C0	死ねなかったことを悔やむフェインに天使は……。		ptrx1
 op.8009D5F0	月明かりだけが差し込む部屋		ptrx1
@@ -315,19 +315,19 @@ op.8009D638	魔石の塔の見える場所で……		ptrx1
 op.8009D654	崩れた塔を目の前にして天使は……。		ptrx1
 op.8009D678	天竜復活		ptrx7
 op.8009D684	崩れた魔石の塔		ptrx7
-op.8009D694	セレニスをひとりではいかせないと言う。		ptrx1
+op.8009D694	セレニスをひとりではいかせないと言う。	He says he won't let Serenis go alone.	ptrx1
 op.8009D6BC	罪の償いとは……		ptrx1
-op.8009D6D0	フェインの死		ptrx1
+op.8009D6D0	フェインの死	Fein's Death	ptrx1
 op.8009D6E0	セレニスが死に、悪魔はエンディミオンの体へ。		ptrx7
 op.8009D710	セレニスに巣くっていた悪魔		ptrx7
-op.8009D72C	エンディミオン覚醒		ptrx7
+op.8009D72C	エンディミオン覚醒	Endymion Awakens	ptrx7
 op.8009D740	自らの手で倒したセレニスを抱きとめ……。		ptrx1
-op.8009D76C	フェインとの戦いによって倒れたセレニス。		ptrx1
+op.8009D76C	フェインとの戦いによって倒れたセレニス。	Serenis, fallen in the battle with Fein.	ptrx1
 op.8009D798	セレニスの死		ptrx2
 op.8009D7A8	魔石がすべて集まり、天竜復活の儀式が行われる。		ptrx7
 op.8009D7D8	魔石の塔		ptrx7
 op.8009D7E4	復活の儀式		ptrx7
-op.8009D7F0	それを心配そうに見つめるフェイン。		ptrx1
+op.8009D7F0	それを心配そうに見つめるフェイン。	Fein watches anxiously.	ptrx1
 op.8009D814	魔石を触った天使はその力のために傷つき倒れる。		ptrx7
 op.8009D844	ヴァイパーは魔石を手に天使を挑発する。		ptrx7
 op.8009D86C	魔石を奪った男と出会って		ptrx6
@@ -335,9 +335,9 @@ op.8009D888	ヴァイパーの挑戦		ptrx14
 op.8009D89C	閉じられた森から出るために川を渡る。		ptrx1
 op.8009D8C4	魔導士の力によって森に閉じこめられて		ptrx1
 op.8009D8EC	わなの森		ptrx2
-op.8009D8F8	寝ころんで本に夢中になっているフェイン。		ptrx1
-op.8009D924	つかのまの休息		ptrx1
-op.8009D934	休息		ptrx1
+op.8009D8F8	寝ころんで本に夢中になっているフェイン。	Fein lying down, absorbed in a book.	ptrx1
+op.8009D924	つかのまの休息	A Brief Rest	ptrx1
+op.8009D934	休息	Rest	ptrx1
 op.8009D93C	殺された仲間を見て、怒りにふるえるフェイン。		ptrx1
 op.8009D96C	帝国に襲われたグランドロッジ		ptrx1
 op.8009D98C	アルベリック侵攻		ptrx1
@@ -350,10 +350,10 @@ op.8009DA38	聖都		ptrx1
 op.8009DA40	世界や悩みについてなどをお互いの気持ちを話す。		ptrx1
 op.8009DA70	フェインとの会話		ptrx1
 op.8009DA84	酒場にて		ptrx2
-op.8009DA90	グランドマスターとは何度か話をすることに。		ptrx1
-op.8009DABC	バーゼルのアルクマールにあるグランドロッジ		ptrx1
-op.8009DAE8	グランドマスター		ptrx1
+op.8009DA90	グランドマスターとは何度か話をすることに。	Several talks with the Grand Master.	ptrx1
+op.8009DABC	バーゼルのアルクマールにあるグランドロッジ	The Grand Lodge in Alkmaar, Basel	ptrx1
+op.8009DAE8	グランドマスター	The Grand Master	ptrx1
 op.8009DAFC	死を覚悟したフェインの傷を天使は癒す……。		ptrx1
-op.8009DB28	黒衣の魔導士たちにフェインは命を狙われる。		ptrx1
-op.8009DB54	フェインとの最初の出会い		ptrx2
-op.8009DB70	狙われたウォーロック		ptrx2
+op.8009DB28	黒衣の魔導士たちにフェインは命を狙われる。	The Black Mages are out for Fein's life.	ptrx1
+op.8009DB54	フェインとの最初の出会い	First Meeting with Fein	ptrx2
+op.8009DB70	狙われたウォーロック	The Hunted Warlock	ptrx2

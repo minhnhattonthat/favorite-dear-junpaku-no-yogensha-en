@@ -135,6 +135,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | ザルハ | Zarha | | the Forest of Shadows (影の森) area | |
 | ロオク | Rooak | | where the Holy Mother lives (MssAns6) | |
 | カルーガ | Kaluga | | カルーガの塔 the Tower of Kaluga | |
+| ペレイラ | Pereira | | EXE town table (holds レイラ: listed so the check skips it) | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -260,4 +261,23 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   ヴァスティール Vastir = Ravenruft's name a thousand years ago (Diana's comrade); ガープ Gaap; コキュートス Cocytus;
   ハエの王 "Lord of the Flies" (Beelzebub); 闇の王子 "Prince of Darkness" (Clive); 死人女/死人子供 unit names "Dead
   Woman"/"Dead Child"; EVX choices 《...》 have no {n}: plain text. EVX titles (.0002 dev labels) get short English.
+- EXE town table (SLPS.80020088-0898, b091) adds: レイテ Leyte, グルカ Gurkha, ロハス Rojas, ナディ Nadi, スリーナガル
+  Srinagar, メーラト Meerut, ティフアナ Tijuana, イラ Ira, クイロン Quilon, ラフィエット Lafayette, ウルファ Urfa,
+  ミルデューラ Mildura, ヌドラ Ndola, エルナクラム Ernakulam, タルファーヤ Tarfaya, クルアン Kluang, トゥムクル Tumkur,
+  ジェーラ Gela, ラセト Raset, レティシア Leticia, アンナプルナ Annapurna, アムレリ Amreli, アフイ Ahui, アル－シャ
+  Arusha, クーリオン Curion, トゥラロ Turalo, ファンガレー Whangarei, ラタキア Latakia, ダオ Dao, スワンヒル Swan Hill,
+  リネア Linea, ソファラ Sofala, ティト Tito, ファテーガル Fatehgarh, レク Rek, アリエ Arie, ザリア Zaria, フランカ
+  Franca, クラロス Claros, ミエレス Mieres, フォルタレザ Fortaleza, ステレア Sterea, パトス Patos, ブレシア Brescia,
+  アイシア Aisia, フィーシュ Fisch, ガララテ Gallarate, ティエール Thiers, イリンガ Iringa, シーラーズ Shiraz,
+  リクスリオン Lixourion, タルスス Tarsus, タリファ Tarifa, ナタール Natal, ピポカ Pipoca, フラガ Fraga, ナミュール
+  Namur, セート Sete, テルミス Thermis, レリダ Lerida, ハイファ Haifa, キルナ Kiruna, リャノ Llano, アークレイリ
+  Akureyri, ラビア Rabia, ロタ Rota, アングレーム Angouleme, メルクレア Merclea, アベビル Abbeville, ラルナカ Larnaca,
+  ブロラ Brora, スウォレ Suore (= スゥオレ), ツェレ Celle, アライット Arait, ダクス Dax, グリエフ Guryev, アスナ Asna,
+  オルークス Orux, ニトラ Nitra, トゥーラ Tula, ナリア Naria, グーラ Gura, ムルシア Murcia, クルガン Kurgan, ファールン
+  Falun, トゥルン Turun (not トルン Torun), リエカ Rijeka, イシム Ishim, ルーレオ Lulea, バールベリ Varberg, デズフール
+  Dezful, タルスク Talsk, アローサ Arosa, ロンダ Ronda, シュタイア Steyr, プーラ Pula, ロデズ Rodez, バルレッタ Barletta,
+  ウォルフス Wolfs, アケルシュス Akershus, ハイランド Highland, ヘルゴント Helgond; タルラク = タルラック Tarlac.
+  Item ホドフレイム "Hod Flame". Heaven palaces: ラキア宮 Raqia Palace, フォータ離宮 Fota Villa (Titania), エミリア宮
+  Emilia Palace, フロー宮 Flo Palace, 聖アザリア宮 St. Azaria Palace; angels レミエル Remiel, ラツィエル Raziel.
+  エクレシア教国 "the Holy Nation of Ecclesia"; 聖王国 (old name) "the Holy Kingdom". 魔導士殿 (Rocus to Fein) "Sir Mage".
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

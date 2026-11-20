@@ -1,0 +1,471 @@
+id	en
+pro.800A1184	Fear of having no food or water
+pro.800A11B4	Just watch how the fight turns out
+pro.800A11E4	The box is too small...
+pro.800A1214	If possible, I'd like that.
+pro.800A1244	Of course!
+pro.800A1274	A cube
+pro.800A12A4	A full moon
+pro.800A12D4	Important work
+pro.800A1304	A child rolling on the beach with a dog
+pro.800A1334	Winging it is more fun.
+pro.800A1364	A sunset feels full of dreams...
+pro.800A1394	Somewhere warm and relaxing.
+pro.800A13C4	Wonder if it's something to do with me
+pro.800A13F4	Fun at first, but with a sad ending
+pro.800A1424	Near the bottom of the glass
+pro.800A1454	I eat what I like and dislike equally.
+pro.800A1484	Green leaves
+pro.800A14B4	Lots
+pro.800A14E4	Being fussed over by strangers
+pro.800A1514	Two or more
+pro.800A1544	Loneliness, all alone at sea
+pro.800A1574	Somehow calm the two of them down.
+pro.800A15A4	Just the right size!
+pro.800A15D4	It's enough that I believe in them!
+pro.800A1604	No, sometimes I'm not so sure.
+pro.800A1864	-
+rfd2.8009B57C	In Party
+rfd2.8009B5F8	-
+rfd2.8009B6E0	-
+rfd2.8009B6E8	Event:
+rfd2.8009B6F0	To Heaven
+rfd2.8009B6F8	Status
+rfd2.8009B704	Fairies
+rfd2.8009B70C	Heroes
+rfd2.8009B9B4	Begin the search. Is this all right?
+rfd2.8009B9D8	  Yes
+rfd2.8009B9E0	  No
+rfd2.8009B9EC	Border
+rfd2.8009B9F4	Chaos Level
+rfd2.8009B9FC	Frontier
+rfd2.8009BA04	Kingdom
+rfd2.8009BA20	Wilds
+rfd2.8009BA28	Six Kingdoms
+rfd2.8009BA34	Holy Nation
+rfd2.8009BA44	Ecclesia
+rfd2.8009BA50	Bremes Isle
+rfd2.8009BA64	Zern
+rfd2.8009BA70	Duchy
+rfd2.8009BA80	Courrege
+rfd2.8009BA90	Empire
+rfd2.8009BAA0	Grosain
+rfd2.8009BAB0	World Chaos Level
+rfd2.8009BABC	Chaos Level:
+rfd2.8009BAC8	Search
+rfd2.8009BB0C	Found
+rfd2.8009BB14	Standby
+rfd2.8009BB1C	Mission
+rfd2.8009BB24	Unknown
+rfd2.8009BB2C	Injured
+rfd2.8009BB34	Dead
+rfd2.8009BB58	Location: %s - %s
+rfd2.8009BB68	%s        Chaos Level
+rfd2.8009BB84	Sleeping
+rfd2.8009BB9C	Training
+rfd2.8009BBB4	Resting
+rfd2.8009BBCC	Moving
+rfd2.8009BBE4	On a Mission
+rfd2.8009BC14	Mission:
+rfd2.8009BC20	Heading:
+rfd2.8009BC2C	Scout %s. Is this all right?
+rfd2.8009BC68	Visit %s. Is this all right?
+rfd2.8009BC8C	Not enough AP.
+rfd2.8009BCC0	This is the destination, right?
+rfd2.8009BCDC	Here, huh...
+rfd2.8009BCE8	So I should go there, right?
+rfd2.8009BD04	Here, right?
+rfd2.8009BD18	Hmm, so I should go there?
+rfd2.8009BD38	Here?
+rfd2.8009BD44	Is it here?
+rfd2.8009BD54	Is this the place?
+rfd2.8009BD9C	Give this item?
+rfd2.8009BDB8	Item
+rfd2.8009BDC4	Mission
+rfd2.8009BDCC	Talk
+rfd2.8009BEE0	How may I help you?
+rfd2.8009BF14	Where's the destination?
+rfd2.8009BF28	Where should I go.
+rfd2.8009BF40	Where should I go?
+rfd2.8009BF58	Where should I go, then?
+rfd2.8009BF70	Where is the destination?
+rfd2.8009BFA4	Huh?
+rfd2.8009BFAC	Oh?
+rfd2.8009BFB4	I don't have any items, do I?
+rfd2.8009BFD8	End the visit.
+rfd2.8009BFEC	Accompany the hero?
+rfd2.8009C004	  Accompany
+rfd2.8009C010	  Don't Accompany
+rfd2.8009C028	Present
+rfd2.8009C038	Feather
+rfd2.8009C048	Book
+rfd2.8009C058	Herb
+rfd2.8009C068	Potion
+rfd2.8009C078	Charm
+rfd2.8009C088	Ring
+rfd2.8009C098	Bracelet
+rfd2.8009C0A8	Pendant
+rfd2.8009C0B8	Boots
+rfd2.8009C0C8	Armor
+rfd2.8009C0D8	Light Armor
+rfd2.8009C0E8	Robe
+rfd2.8009C0F8	Bow
+rfd2.8009C108	1H Sword
+rfd2.8009C118	Rod
+rfd2.8009C128	Staff
+rfd2.8009C138	Curved Sword
+rfd2.8009C148	1-Edged 2H
+rfd2.8009C158	2-Edged 2H
+rfd2.8009C168	Stress:
+rfd2.8009C174	Justice:
+rfd2.8009C180	HP:
+rfd2.8009C188	Speed:
+rfd2.8009C194	Defense:
+rfd2.8009C19C	Attack:
+rfd2.8009C1A4	-
+rfd2.8009C1A8	-
+rfd2.8009C1AC	-
+rfd2.8009C1B0	-
+rfd2.8009C1B4	-
+rfd2.8009C1B8	-
+rfd2.8009C1BC	-
+rfd2.8009C1C0	-
+rfd2.8009C1C4	-
+rfd2.8009C1C8	-
+rfd2.8009C1CC	Choose an item to give the hero.
+rfd2.8009C1F4	Equip: Yes
+rfd2.8009C200	Equip: No
+rfd2.8009C20C	-
+rfd2.8009C254	Stop accompanying.
+rfd2.8009C268	  Talk to the Hero
+rfd2.8009C27C	  End Accompanying
+rfd2.8009C290	, accompany
+rfd2.8009C294	?
+rfd2.8009C2BC	Stop searching and
+rfd2.8009C2CC	Stop accompanying and
+rfd2.8009C2DC	 stand by?
+rfd2.8009C2F0	: return to Heaven?
+rfd2.8009C308	Choose a fairy to give orders to.
+rfd2.8009C328	Return to Heaven
+rfd2.8009C334	Standby
+rfd2.8009C33C	Accompany Hero
+rfd2.8009C350	: awaiting orders.
+rfd2.8009C364	 will accompany the hero.
+rfd2.8009C37C	 will stand by.
+rfd2.8009C390	 will return to Heaven.
+rfd2.8009C3A8	:
+rfd2.8009C3B4	Moving to the next search area
+rfd2.8009C3CC	 (searching)
+rfd2.8009C3D8	 (accompanying)
+rfd2.8009C450	Angel
+rfd2.8009C4B8	  Yes
+rfd2.8009C4D4	 - Meet
+rfd2.8009C4DC	Don't Meet
+rfd2.8009C4E8	Hurry there?
+rfd2.8009C570	-
+rfd2.8009C57C	-
+rfd2.8009C590	-
+rfd2.8009C59C	-
+rfd2.8009C5AC	-
+rfd2.8009C5BC	-
+rfd2.8009C5C8	-
+rfd2.8009C5D8	-
+rfd2.8009CFD4	Meet Raphael
+rfd2.8009CFE8	Get equipment items
+rfd2.8009CFFC	Get consumable items
+rfd2.8009D010	Borrow fairies, get information
+rfd2.8009D02C	Return to your room
+rfd2.8009D040	Return to the world below
+rfd2.8009D084	Save or load game data
+rfd2.8009D0A4	Check each character's status
+rfd2.8009D0C8	Spend a day to recover AP
+rfd2.8009D0E0	Go to another palace in the Heavens
+rfd2.8009D120	What is it, ＄＄＄＄＄＄?
+rfd2.8009D144	Come again anytime, ＄＄＄＄＄＄.
+rfd2.8009D16C	Welcome.
+rfd2.8009D17C	Is there something you need?
+rfd2.8009D1A0	Of these, you have
+rfd2.8009D1A8	.
+rfd2.8009D1BC	It seems you can't carry any more.
+rfd2.8009D1DC	First, go and give your items to the hero.
+rfd2.8009D20C	Will this do?
+rfd2.8009D238	Oh, it seems you don't have enough AP.
+rfd2.8009D258	Leave the Flo Palace?
+rfd2.8009D274	I see, you don't need this.
+rfd2.8009D290	I hope the hero likes it.
+rfd2.8009D2B8	Make good use of your items.
+rfd2.8009D2DC	Come again if you need anything else.
+rfd2.8009D308	Hello. What brings you here today?
+rfd2.8009D330	Does your hero need something?
+rfd2.8009D35C	You can't carry that many.
+rfd2.8009D380	Give them to the hero, then come back.
+rfd2.8009D3A8	It seems you don't have enough AP.
+rfd2.8009D3C8	Leave the Emilia Palace?
+rfd2.8009D3E8	I see, so you don't need this.
+rfd2.8009D410	For the hero's sake,
+rfd2.8009D420	be sure to keep your items well stocked.
+rfd2.8009D44C	Oh, welcome. What brings you here today?
+rfd2.8009D474	Do you need a fairy?
+rfd2.8009D488	Or do you want to hear about someone?
+rfd2.8009D4AC	Leave the Fota Villa?
+rfd2.8009D4CC	This one?
+rfd2.8009D4DC	Then do your best together with this one.
+rfd2.8009D508	I see, not this one.
+rfd2.8009D524	There's no one left who can help you.
+rfd2.8009D548	: hear about them?
+rfd2.8009D560	You don't have enough AP.
+rfd2.8009D578	Oh, it seems you don't have enough AP.
+rfd2.8009D598	Don't push the fairies too hard.
+rfd2.8009D5C4	Come again if anything comes up.
+rfd2.8009D5E8	Return Below
+rfd2.8009D5F4	Raqia Palace
+rfd2.8009D600	Fota Villa
+rfd2.8009D610	Emilia Palace
+rfd2.8009D61C	Flo Palace
+rfd2.8009D628	St. Azaria Palace
+rfd2.8009D638	Choose where to go.
+rfd2.8009D654	Move
+rfd2.8009D65C	Rest
+rfd2.8009D670	Data
+rfd2.8009D678	Hire Fairy
+rfd2.8009D684	Info
+rfd2.8009D694	Recovering AP...
+rfd2.8009D6A8	Time simply passes...
+rfd2.8009D6C8	Rosa's way of speaking is a little cold,
+rfd2.8009D6F4	but she's a very kind-hearted, good girl.
+rfd2.8009D714	I'm sure she'll be a help to you.
+rfd2.8009D738	Florinda may dress like that,
+rfd2.8009D760	but she's a good girl who works very seriously.
+rfd2.8009D788	Shelly can be a little too easygoing,
+rfd2.8009D7B8	but she gets her work done properly.
+rfd2.8009D7DC	Lily goes at her own pace and can handle anything.
+rfd2.8009D808	He may look a little quiet,
+rfd2.8009D830	but Lynx works harder than anyone.
+rfd2.8009D854	He may seem a bit reckless, but he's fine!
+rfd2.8009D880	Aquila may be a little laid-back.
+rfd2.8009D8B4	But she does her work properly, so
+rfd2.8009D8DC	Cetus is very dependable and good at his work.
+rfd2.8009D910	Don't be fooled by appearances.
+rfd2.8009D934	Lepus is very good at looking after others.
+rfd2.8009D958	Someone so earnest and just
+rfd2.8009D99C	Who do you want to hear about?
+rfd2.8009D9E4	-
+rfd2.8009D9F4	-
+rfd2.8009D9F8	-
+rfd2.8009DA04	＄＄＄＄＄＄, your bonus AP is
+rfd2.8009DA20	.{n}Put it to use in your actions in Arcaya.
+SLPS.80020088	Leyte
+SLPS.80020090	Mirzapur
+SLPS.8002009C	Tarlac
+SLPS.800200A8	Gurkha
+SLPS.800200B0	Rojas
+SLPS.800200B8	Nadi
+SLPS.800200C0	Srinagar
+SLPS.800200D0	Ripa
+SLPS.800200D8	Rekai
+SLPS.800200E0	Meerut
+SLPS.800200EC	Dilolo
+SLPS.800200F8	Tijuana
+SLPS.80020104	Hofuf
+SLPS.80020110	Pereira
+SLPS.80020114	Ira
+SLPS.8002011C	Quilon
+SLPS.80020128	Lafayette
+SLPS.80020138	Faro
+SLPS.80020140	Semirara
+SLPS.8002014C	Urfa
+SLPS.80020158	Lida
+SLPS.80020160	Mildura
+SLPS.80020170	Ndola
+SLPS.80020178	Ernakulam
+SLPS.80020188	Tarfaya
+SLPS.80020198	Rize
+SLPS.800201A0	Fanlan
+SLPS.800201AC	Kluang
+SLPS.800201B8	Dinar
+SLPS.800201C4	Guaira
+SLPS.800201D0	Tumkur
+SLPS.800201DC	Gela
+SLPS.800201E8	Leiria
+SLPS.800201F4	Granis
+SLPS.80020200	Raset
+SLPS.80020208	Leticia
+SLPS.80020214	Rooak
+SLPS.8002021C	Annapurna
+SLPS.8002022C	Amreli
+SLPS.80020238	Ahui
+SLPS.80020240	Arusha
+SLPS.8002024C	Salem
+SLPS.80020258	Turkana
+SLPS.80020264	Curion
+SLPS.80020270	Turalo
+SLPS.8002027C	Whangarei
+SLPS.8002028C	Tran
+SLPS.80020294	Latakia
+SLPS.800202A0	Dao
+SLPS.800202A8	Tete
+SLPS.800202B0	Swan Hill
+SLPS.800202BC	Linea
+SLPS.800202C4	Texel
+SLPS.800202CC	Sofala
+SLPS.800202D8	Kierang
+SLPS.800202E4	Gauhati
+SLPS.800202F4	Adrar
+SLPS.80020300	Tito
+SLPS.80020308	Carrara
+SLPS.80020314	Loralai
+SLPS.80020320	Fatehgarh
+SLPS.80020330	Rek
+SLPS.80020338	Recife
+SLPS.80020344	Arie
+SLPS.8002034C	Quetta
+SLPS.80020358	Zaria
+SLPS.80020360	Franca
+SLPS.8002036C	Alkmaar
+SLPS.8002037C	Ragwort
+SLPS.80020388	Claros
+SLPS.80020394	Mieres
+SLPS.800203A0	Ilyus
+SLPS.800203AC	Rajes
+SLPS.800203B8	Fortaleza
+SLPS.800203C8	Sterea
+SLPS.800203D4	Patos
+SLPS.800203DC	Aarau
+SLPS.800203E8	Brescia
+SLPS.800203F4	Aisia
+SLPS.80020400	Fisch
+SLPS.8002040C	Ticul
+SLPS.80020418	Cucuta
+SLPS.80020420	Gallarate
+SLPS.8002042C	Thiers
+SLPS.80020438	Ceara
+SLPS.80020440	Araras
+SLPS.8002044C	Rais
+SLPS.80020458	Iringa
+SLPS.80020464	Popo
+SLPS.8002046C	Shiraz
+SLPS.80020478	Lendia
+SLPS.80020488	Lixourion
+SLPS.80020498	Kuhl
+SLPS.800204A0	Lamia
+SLPS.800204A8	Tarsus
+SLPS.800204B4	Tarifa
+SLPS.800204C0	Natal
+SLPS.800204CC	Pipoca
+SLPS.800204D4	Fraga
+SLPS.800204DC	Manaus
+SLPS.800204E8	Lugoj
+SLPS.800204F4	Jena
+SLPS.80020500	Namur
+SLPS.8002050C	Misrata
+SLPS.80020518	Sete
+SLPS.80020520	Thermis
+SLPS.8002052C	Nuuk
+SLPS.80020534	Lerida
+SLPS.8002053C	Haifa
+SLPS.80020548	Corrientes
+SLPS.80020558	Sayak
+SLPS.80020560	Brenner
+SLPS.8002056C	Larissa
+SLPS.80020578	Aalst
+SLPS.80020584	Kiruna
+SLPS.8002058C	Fano
+SLPS.80020598	Llano
+SLPS.800205A0	Marilia
+SLPS.800205AC	Leus
+SLPS.800205B4	Akureyri
+SLPS.800205C4	Curo
+SLPS.800205CC	Seriphos
+SLPS.800205D8	Rabia
+SLPS.800205E0	Rota
+SLPS.800205E8	Lucca
+SLPS.800205F0	Liege
+SLPS.800205FC	Angouleme
+SLPS.8002060C	Limeira
+SLPS.80020618	Merclea
+SLPS.80020624	Kungur
+SLPS.80020630	Abbeville
+SLPS.8002063C	Larnaca
+SLPS.80020648	Brora
+SLPS.80020650	Iona
+SLPS.8002065C	Suore
+SLPS.80020668	Turla
+SLPS.80020674	Roeselare
+SLPS.80020684	Celle
+SLPS.8002068C	Arait
+SLPS.80020698	Dax
+SLPS.800206A0	Guryev
+SLPS.800206AC	Asna
+SLPS.800206B4	Orux
+SLPS.800206C0	Taranto
+SLPS.800206CC	Nitra
+SLPS.800206D4	Teruel
+SLPS.800206E0	Tula
+SLPS.800206EC	Naria
+SLPS.800206F4	Liffey
+SLPS.80020700	Leszno
+SLPS.8002070C	Gura
+SLPS.80020714	Murcia
+SLPS.80020720	Kurgan
+SLPS.8002072C	Darg
+SLPS.80020734	Falun
+SLPS.80020740	Hayil
+SLPS.8002074C	Turun
+SLPS.80020758	Reizefut
+SLPS.80020768	Galarus
+SLPS.80020774	Tyrone
+SLPS.80020780	Rijeka
+SLPS.80020788	Ishim
+SLPS.80020790	Kaluga
+SLPS.8002079C	Lulea
+SLPS.800207A8	Tara
+SLPS.800207B0	Darus
+SLPS.800207BC	Varberg
+SLPS.800207C8	Dezful
+SLPS.800207D4	Talsk
+SLPS.800207E0	Jotun
+SLPS.800207EC	Utrera
+SLPS.800207F8	Arosa
+SLPS.80020804	Ronda
+SLPS.8002080C	Wels
+SLPS.80020818	Steyr
+SLPS.80020824	Pula
+SLPS.8002082C	Turta
+SLPS.80020838	Graz
+SLPS.80020844	Siragusa
+SLPS.80020850	Rodez
+SLPS.80020858	Barletta
+SLPS.80020864	Wolfs
+SLPS.80020870	Torun
+SLPS.80020878	Akershus
+SLPS.80020888	Highland
+SLPS.800208A8	Sigul
+SLPS.800208B0	Helgond
+SLPS.800208BC	old bracelet
+SLPS.800208C8	guard of a famous sword
+SLPS.800208D4	silver rosary
+SLPS.800208E4	silver ring
+SLPS.800208F0	straw hat
+SLPS.800208FC	Hod Flame
+SLPS.8002090C	Lif Kreuz
+SLPS.8002091C	Erythia
+SLPS.8002092C	Thor's Cross
+SLPS.8002093C	Eternity Ring
+SLPS.80020950	Faith Ring
+SLPS.80020960	Rhein Ring
+SLPS.80020970	Draupnir
+SLPS.80020980	Rheinpfalz
+SLPS.80020990	Dyr Bracelet
+SLPS.800209A0	Brising
+SLPS.800209B0	Valdarges
+SLPS.800209C0	Bolidiwez
+SLPS.800209D0	Nemgran Boots
+SLPS.800209E4	Kval Boots
+SLPS.800209F4	Hermes Boots
+SLPS.80020A04	Ragna Armor
+SLPS.80020A14	Vendigeit
+SLPS.80020A28	Mirage Mail
+SLPS.80020A3C	Tyr Lamellar
+SLPS.80020A50	Sigurd Mail
+SLPS.80020A60	Groll Mail
+SLPS.80020A70	Vendigeid
