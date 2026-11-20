@@ -5,7 +5,7 @@ roev13.010E	これがありゃ、世界は平和だぜ。{wait}{clear}
 roev13.0130	ＮＵＬＬ	NULL	speaker
 roev13.0140	《魔石を受け取る》{n}		
 roev13.0168	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.0178	！？{wait}{clear}		
+roev13.0178	！？{wait}{clear}	?!{wait}{clear}	
 roev13.0180	クラレンス	Clarence	speaker
 roev13.0192	ハハ、間抜けが。{wait}{clear}		
 roev13.01A6	ロクス	Rocus	speaker
@@ -24,7 +24,7 @@ roev13.0372	すみません、お聞きしたいことがあるのですが…�
 roev13.03A6	ミカエル	Michael	speaker
 roev13.03B2	ああ、やつならいないぞ。{wait}{clear}		
 roev13.03CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.03DE	！？{wait}{clear}		
+roev13.03DE	！？{wait}{clear}	?!{wait}{clear}	
 roev13.03FE	ミカエル	Michael	speaker
 roev13.040A	俺もやつに用があったんだがな……{n}どこかへ出かけているらしい。{wait}{clear}		
 roev13.044C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

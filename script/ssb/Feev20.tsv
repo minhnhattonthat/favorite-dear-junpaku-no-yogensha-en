@@ -1,24 +1,24 @@
 id	jp	en	notes
 Feev20.0056	フェイン	Fein	speaker
-Feev20.0066	……＄＄＄＄＄＄。{n}セレニスが死んだというのは本当か？{wait}{clear}		
-Feev20.00A4	……帝国の魔女が死んだと……噂を聞いた。{wait}{clear}		
+Feev20.0066	……＄＄＄＄＄＄。{n}セレニスが死んだというのは本当か？{wait}{clear}	...＄＄＄＄＄＄. Is it true that Serenis is{n}dead?{wait}{clear}	
+Feev20.00A4	……帝国の魔女が死んだと……噂を聞いた。{wait}{clear}	...I heard a rumor... that the Empire's{n}witch was dead.{wait}{clear}	
 Feev20.0104	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.0114	……はい、アイリーンが、倒しました。{wait}{clear}		
-Feev20.014A	ただ……セレニスは最後に悪魔から{n}解放されて……天に召されました……。{wait}{clear}		
+Feev20.0114	……はい、アイリーンが、倒しました。{wait}{clear}	...Yes. Irene defeated her.{wait}{clear}	
+Feev20.014A	ただ……セレニスは最後に悪魔から{n}解放されて……天に召されました……。{wait}{clear}	But... at the very end, Serenis was freed{n}from the devil... and called to Heaven...{wait}{clear}	
 Feev20.0198	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.01A8	……はい、勇者クライヴが、倒しました。{wait}{clear}		
+Feev20.01A8	……はい、勇者クライヴが、倒しました。{wait}{clear}	...Yes. The hero Clive defeated her.{wait}{clear}	
 Feev20.01D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.01E6	……はい、勇者ルディエールが、倒しました。{wait}{clear}		
+Feev20.01E6	……はい、勇者ルディエールが、倒しました。{wait}{clear}	...Yes. The hero Rudiere defeated her.{wait}{clear}	
 Feev20.0218	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.0228	……はい、勇者ロクスが、倒しました。{wait}{clear}		
+Feev20.0228	……はい、勇者ロクスが、倒しました。{wait}{clear}	...Yes. The hero Rocus defeated her.{wait}{clear}	
 Feev20.0254	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.0264	……はい、勇者レイラが、倒しました。{wait}{clear}		
+Feev20.0264	……はい、勇者レイラが、倒しました。{wait}{clear}	...Yes. The hero Leyla defeated her.{wait}{clear}	
 Feev20.0290	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.02A0	……はい、勇者セシアが、倒しました。{wait}{clear}		
+Feev20.02A0	……はい、勇者セシアが、倒しました。{wait}{clear}	...Yes. The hero Cecia defeated her.{wait}{clear}	
 Feev20.02CC	フェイン	Fein	speaker
-Feev20.02DC	……そうか。{wait}{clear}		
-Feev20.02F0	……セレニス……。{wait}{clear}		
+Feev20.02DC	……そうか。{wait}{clear}	...I see.{wait}{clear}	
+Feev20.02F0	……セレニス……。{wait}{clear}	...Serenis...{wait}{clear}	
 Feev20.0306	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev20.0316	フェイン……{wait}{clear}		
+Feev20.0316	フェイン……{wait}{clear}	Fein...{wait}{clear}	
 Feev20.0334	フェイン	Fein	speaker
-Feev20.0344	今は、一人にしてくれ……。{wait}{clear}		
+Feev20.0344	今は、一人にしてくれ……。{wait}{clear}	Leave me alone for now...{wait}{clear}	

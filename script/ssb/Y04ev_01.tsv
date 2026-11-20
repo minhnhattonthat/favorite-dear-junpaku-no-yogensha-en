@@ -4,7 +4,7 @@ Y04ev_01.0026	今日は、空気が冴えてますね……。{n}そして、い
 Y04ev_01.0060	リリィ	Lily	speaker
 Y04ev_01.006E	ふふふ……。{wait}{clear}		
 Y04ev_01.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.008E	ん？{wait}{clear}		
+Y04ev_01.008E	ん？{wait}{clear}	Hm?{wait}{clear}	
 Y04ev_01.0096	リリィ	Lily	speaker
 Y04ev_01.00A4	う～ん、気持ちいい……。{wait}{clear}		
 Y04ev_01.00C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

@@ -1,49 +1,49 @@
 id	jp	en	notes
 loev01_01.006A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.007A	ルディエール……{wait}{clear}ルディエール・レグランス、起きてください。{wait}{clear}		
+loev01_01.007A	ルディエール……{wait}{clear}ルディエール・レグランス、起きてください。{wait}{clear}	Rudiere...{wait}{clear}Rudiere Legrance, please wake up.{wait}{clear}	
 loev01_01.00BC	ルディエール	Rudiere	speaker
-loev01_01.00D0	……う…ん……{wait}{clear}		
+loev01_01.00D0	……う…ん……{wait}{clear}	...Mm... nn...{wait}{clear}	
 loev01_01.00E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.00F2	目を覚ましてください。{wait}{clear}		
+loev01_01.00F2	目を覚ましてください。{wait}{clear}	Please wake up.{wait}{clear}	
 loev01_01.010C	ルディエール	Rudiere	speaker
-loev01_01.0120	……うん……なんだ……よ。{wait}{clear}		
-loev01_01.0142	なあ……昨日は……遅かったんだ……{wait}{clear}		
-loev01_01.016C	まだ……眠らせてくれよ……。{wait}{clear}		
+loev01_01.0120	……うん……なんだ……よ。{wait}{clear}	...Mm... what... is it...{wait}{clear}	
+loev01_01.0142	なあ……昨日は……遅かったんだ……{wait}{clear}	C'mon... I was out... late last night...{wait}{clear}	
+loev01_01.016C	まだ……眠らせてくれよ……。{wait}{clear}	Let me... sleep a little more...{wait}{clear}	
 loev01_01.018C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.019C	どうしても、{n}あなたに、お話ししたいことがあるのです。{wait}{clear}どうか、起きて、話を聞いてもらえませんか？{wait}{clear}		
+loev01_01.019C	どうしても、{n}あなたに、お話ししたいことがあるのです。{wait}{clear}どうか、起きて、話を聞いてもらえませんか？{wait}{clear}	There's something I really must talk to you{n}about.{wait}{clear}Won't you please get up and hear me out?{wait}{clear}	
 loev01_01.0204	ルディエール	Rudiere	speaker
-loev01_01.0218	……ちっ……{wait}{clear}		
+loev01_01.0218	……ちっ……{wait}{clear}	...Tch...{wait}{clear}	
 loev01_01.0230	ルディエール	Rudiere	speaker
-loev01_01.025E	ったく、なんだよ{n}寝かせてくれっていってんだろ！！{wait}{clear}		
+loev01_01.025E	ったく、なんだよ{n}寝かせてくれっていってんだろ！！{wait}{clear}	Geez, what is it?! I said let me sleep!!{wait}{clear}	
 loev01_01.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.02A4	突然お邪魔して、すみません。ルディエール。{wait}{clear}		
+loev01_01.02A4	突然お邪魔して、すみません。ルディエール。{wait}{clear}	I'm sorry to intrude so suddenly, Rudiere.{wait}{clear}	
 loev01_01.02D2	ルディエール	Rudiere	speaker
-loev01_01.02E6	……ん？{wait}{clear}		
-loev01_01.02F6	な、なんだよ、お前！{wait}{clear}		
+loev01_01.02E6	……ん？{wait}{clear}	...Hm?{wait}{clear}	
+loev01_01.02F6	な、なんだよ、お前！{wait}{clear}	Wh-what the heck are you?!{wait}{clear}	
 loev01_01.030E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.031E	私は天界から世界の混乱を正す使命を与えられた{n}天使＄＄＄＄＄＄というものです。{wait}{clear}あなたにお願いしたいことがあって来ました。{wait}{clear}		
+loev01_01.031E	私は天界から世界の混乱を正す使命を与えられた{n}天使＄＄＄＄＄＄というものです。{wait}{clear}あなたにお願いしたいことがあって来ました。{wait}{clear}	I am ＄＄＄＄＄＄, an angel charged by the{n}Heavens with setting right the turmoil in{n}the world.{wait}{clear}I've come because there's something I'd like{n}to ask of you.{wait}{clear}	
 loev01_01.03B2	ルディエール	Rudiere	speaker
-loev01_01.03C6	天使！？{n}あの、本にでてくる天使か！{wait}{clear}		
-loev01_01.03F2	……たしかに、羽はあるけど……本物か？{wait}{clear}		
-loev01_01.0420	さわらせてみせてくれよ。{wait}{clear}		
+loev01_01.03C6	天使！？{n}あの、本にでてくる天使か！{wait}{clear}	An angel?! Like the angels in storybooks?!{wait}{clear}	
+loev01_01.03F2	……たしかに、羽はあるけど……本物か？{wait}{clear}	...Sure, you've got wings, but... are they{n}real?{wait}{clear}	
+loev01_01.0420	さわらせてみせてくれよ。{wait}{clear}	Let me touch 'em.{wait}{clear}	
 loev01_01.0442	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0452	は？{wait}{clear}		
+loev01_01.0452	は？{wait}{clear}	Excuse me?{wait}{clear}	
 loev01_01.045A	ルディエール	Rudiere	speaker
-loev01_01.046E	うーん？{n}ひっぱってもとれないな。{wait}{clear}		
+loev01_01.046E	うーん？{n}ひっぱってもとれないな。{wait}{clear}	Hmm? They don't come off when I pull.{wait}{clear}	
 loev01_01.04A0	ルディエール	Rudiere	speaker
-loev01_01.04B4	たしかに、本物かもしれないな。{wait}{clear}		
+loev01_01.04B4	たしかに、本物かもしれないな。{wait}{clear}	Guess they might be real after all.{wait}{clear}	
 loev01_01.04D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.04E6	では、話を聞いてもらえますか？{wait}{clear}		
+loev01_01.04E6	では、話を聞いてもらえますか？{wait}{clear}	Then, will you hear me out?{wait}{clear}	
 loev01_01.0508	ルディエール	Rudiere	speaker
-loev01_01.051C	言ってみな。{wait}{clear}		
+loev01_01.051C	言ってみな。{wait}{clear}	Go ahead.{wait}{clear}	
 loev01_01.052C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.053C	今この地上には様々な混乱が起きています。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}		
+loev01_01.053C	今この地上には様々な混乱が起きています。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}	Right now, all kinds of turmoil are arising{n}in the surface world.{wait}{clear}I want you to set that turmoil right,{n}together with me.{wait}{clear}	
 loev01_01.05A4	ルディエール	Rudiere	speaker
-loev01_01.05B8	ふーん……。{n}わかった。協力してもいい。{wait}{clear}		
+loev01_01.05B8	ふーん……。{n}わかった。協力してもいい。{wait}{clear}	Hmm... All right. I'll help you out.{wait}{clear}	
 loev01_01.05E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.05F4	ありがとう。ルディエール。{wait}{clear}		
+loev01_01.05F4	ありがとう。ルディエール。{wait}{clear}	Thank you, Rudiere.{wait}{clear}	
 loev01_01.0612	ルディエール	Rudiere	speaker
-loev01_01.0626	ああ、いいって……。{wait}{clear}		
+loev01_01.0626	ああ、いいって……。{wait}{clear}	Yeah, don't mention it...{wait}{clear}	
 loev01_01.063E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev01_01.064E	では、あなたにお願いがあるときまた来ます。{wait}{clear}		
 loev01_01.067C	ルディエール	Rudiere	speaker
@@ -68,7 +68,7 @@ loev01_01.08CC	ルディエール、話を聞いて欲しいのです。{wait}{c
 loev01_01.0902	ルディエール	Rudiere	speaker
 loev01_01.0912	……ふう、言ってみな。{wait}{clear}もう目が覚めちまったよ。{wait}{clear}		
 loev01_01.0948	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0958	今この地上には様々な混乱が起きています。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}		
+loev01_01.0958	今この地上には様々な混乱が起きています。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}	Right now, all kinds of turmoil are arising{n}in the surface world.{wait}{clear}I want you to set that turmoil right,{n}together with me.{wait}{clear}	
 loev01_01.09C0	ルディエール	Rudiere	speaker
 loev01_01.09D0	おいおい、唐突だな……。{n}本物なのかお前？{wait}{clear}		
 loev01_01.09FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

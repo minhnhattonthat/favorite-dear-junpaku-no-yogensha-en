@@ -69,11 +69,11 @@ BTL_EVT4.0A73S	カイゼル		speaker
 BTL_EVT4.0A7C	…………。		
 BTL_EVT4.0AAES	アイリーン	Irene	speaker
 BTL_EVT4.0AB9	あの剣……強力な魔法で作られてた……。{wait}{clear}それに魂を奪われたのね……。		
-BTL_EVT4.0B03S	アルベリック		speaker
+BTL_EVT4.0B03S	アルベリック	Alberic	speaker
 BTL_EVT4.0B10	この剣も喜んでいる……		
-BTL_EVT4.0B2AS	アルベリック		speaker
+BTL_EVT4.0B2AS	アルベリック	Alberic	speaker
 BTL_EVT4.0B37	天使の勇者の血は最高だとね……。		
-BTL_EVT4.0B5BS	アルベリック		speaker
+BTL_EVT4.0B5BS	アルベリック	Alberic	speaker
 BTL_EVT4.0B68	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
 BTL_EVT4.0BC4S	騎士隊長		speaker
 BTL_EVT4.0BCD	帝国バンザイ！！		
@@ -767,9 +767,9 @@ BTL_EVT4.5CC8S	アイリーン	Irene	speaker
 BTL_EVT4.5CD3	姉さん……どうして……。		
 BTL_EVT4.5CEFS	セレニス	Serenis	speaker
 BTL_EVT4.5CF8	アハハハハ……！		
-BTL_EVT4.5D30S	アルベリック		speaker
+BTL_EVT4.5D30S	アルベリック	Alberic	speaker
 BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。		
-BTL_EVT4.5D65S	アルベリック		speaker
+BTL_EVT4.5D65S	アルベリック	Alberic	speaker
 BTL_EVT4.5D72	身のほどを思い知れ！		
 BTL_EVT4.5DF6S	王の女		speaker
 BTL_EVT4.5DFD	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		

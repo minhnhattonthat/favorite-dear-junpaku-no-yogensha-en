@@ -1,153 +1,153 @@
 id	jp	en	notes
 laev10.0054	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.0064	どうしたのです、レイラ？{n}その格好は、どこかへ出かけるのですか？{wait}{clear}		
+laev10.0064	どうしたのです、レイラ？{n}その格好は、どこかへ出かけるのですか？{wait}{clear}	What's wrong, Leyla? Dressed like that, are{n}you going somewhere?{wait}{clear}	
 laev10.00A8	レイラ	Leyla	speaker
-laev10.00B2	＄＄＄＄＄＄ね……。{wait}{clear}		
-laev10.00CE	これから、宮殿へ行くの……。{wait}{clear}		
+laev10.00B2	＄＄＄＄＄＄ね……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
+laev10.00CE	これから、宮殿へ行くの……。{wait}{clear}	I'm going to the palace now...{wait}{clear}	
 laev10.00EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.00FE	え？　宮殿へ？{n}いったい、なにがあるのですか？{wait}{clear}		
+laev10.00FE	え？　宮殿へ？{n}いったい、なにがあるのですか？{wait}{clear}	What? The palace? What on earth is happening{n}there?{wait}{clear}	
 laev10.0130	レイラ	Leyla	speaker
-laev10.013E	今夜、宮殿で戦勝記念の夜会が開かれる。{wait}{clear}		
-laev10.016C	そこには皇帝や宰相の出席も予定されているわ。{wait}{clear}		
-laev10.01A0	私はそこでクロイツフェルドを倒す……。{wait}{clear}		
+laev10.013E	今夜、宮殿で戦勝記念の夜会が開かれる。{wait}{clear}	Tonight there's a soiree at the palace to{n}celebrate a victory.{wait}{clear}	
+laev10.016C	そこには皇帝や宰相の出席も予定されているわ。{wait}{clear}	The Emperor and the chancellor are both{n}expected to attend.{wait}{clear}	
+laev10.01A0	私はそこでクロイツフェルドを倒す……。{wait}{clear}	That's where I'll strike down Kreutzfeld...{wait}{clear}	
 laev10.01CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.01DA	そんな……無謀です！{n}レイラにとっては、ほとんど敵しかいない宮殿で、{n}そんなことをすれば……。{wait}{clear}		
+laev10.01DA	そんな……無謀です！{n}レイラにとっては、ほとんど敵しかいない宮殿で、{n}そんなことをすれば……。{wait}{clear}	No... that's reckless! Leyla, that palace is{n}full of almost nothing but enemies to you.{n}If you do that...{wait}{clear}	
 laev10.0250	レイラ	Leyla	speaker
-laev10.025E	無謀は承知の上よ……。{wait}{clear}		
-laev10.027C	たとえ、私は自分が死ぬとしても{n}クロイツフェルドを許すわけにはいかない……。{wait}{clear}		
-laev10.02D0	それに皇帝か宰相、どちらかを葬れば……{n}あなたの望む平和も手にはいるわ……。{wait}{clear}		
+laev10.025E	無謀は承知の上よ……。{wait}{clear}	I know it's reckless...{wait}{clear}	
+laev10.027C	たとえ、私は自分が死ぬとしても{n}クロイツフェルドを許すわけにはいかない……。{wait}{clear}	Even if it costs me my life, I cannot{n}forgive Kreutzfeld...{wait}{clear}	
+laev10.02D0	それに皇帝か宰相、どちらかを葬れば……{n}あなたの望む平和も手にはいるわ……。{wait}{clear}	Besides, if I bury either the Emperor or the{n}chancellor... you'll have the peace you{n}want...{wait}{clear}	
 laev10.0320	ＮＵＬＬ	NULL	speaker
-laev10.0330	《それは違います！》{n}		
-laev10.034C	《落ち着いてください。》{n}		
+laev10.0330	《それは違います！》{n}	That's wrong!{n}	
+laev10.034C	《落ち着いてください。》{n}	Please calm down.{n}	
 laev10.0372	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.0382	それは、違います！！{wait}{clear}もし、あなたが命を落とすようなことになって、{n}それで世界に平和が訪れたとしても、{n}それにどんな意味があるというのですか？{wait}{clear}私は、そんな平和を望んでいるのではありません。{n}レイラ、もう一度、一緒に考えましょう。{n}もっと別の方法もあるはずです！{wait}{clear}		
+laev10.0382	それは、違います！！{wait}{clear}もし、あなたが命を落とすようなことになって、{n}それで世界に平和が訪れたとしても、{n}それにどんな意味があるというのですか？{wait}{clear}私は、そんな平和を望んでいるのではありません。{n}レイラ、もう一度、一緒に考えましょう。{n}もっと別の方法もあるはずです！{wait}{clear}	That's wrong!!{wait}{clear}If you were to lose your life, and peace{n}came to the world because of it, what would{n}that peace even mean?{wait}{clear}That's not the kind of peace I want. Leyla,{n}let's think this through together again.{n}There has to be another way!{wait}{clear}	
 laev10.04A4	レイラ	Leyla	speaker
-laev10.04B2	止めても無駄よ。{n}私はもう決めたの……。{wait}{clear}		
-laev10.04E2	私に協力してくれる貴族たちもいるわ……{wait}{clear}		
-laev10.0510	夜会に忍び込むことも、{n}そこでやつに近づく手はずも整えたわ。{wait}{clear}		
+laev10.04B2	止めても無駄よ。{n}私はもう決めたの……。{wait}{clear}	It's no use trying to stop me. I've already{n}decided...{wait}{clear}	
+laev10.04E2	私に協力してくれる貴族たちもいるわ……{wait}{clear}	There are nobles who are helping me...{wait}{clear}	
+laev10.0510	夜会に忍び込むことも、{n}そこでやつに近づく手はずも整えたわ。{wait}{clear}	They've arranged for me to slip into the{n}soiree and get close to him there.{wait}{clear}	
 laev10.055A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.056A	どうか落ち着いてくださいレイラ……。{wait}{clear}命を落とすかもしれない危険なことに{n}自ら飛び込んでゆくことを{n}お父様やお母様が望むと思うのですか？{wait}{clear}もっと別な方法があるはずです！{wait}{clear}		
+laev10.056A	どうか落ち着いてくださいレイラ……。{wait}{clear}命を落とすかもしれない危険なことに{n}自ら飛び込んでゆくことを{n}お父様やお母様が望むと思うのですか？{wait}{clear}もっと別な方法があるはずです！{wait}{clear}	Please calm down, Leyla...{wait}{clear}Do you think your father and mother would{n}want you to throw yourself into danger that{n}could cost you your life?{wait}{clear}There has to be another way!{wait}{clear}	
 laev10.062E	レイラ	Leyla	speaker
-laev10.063C	……これが最後の機会かもしれないの。{wait}{clear}		
-laev10.0668	私はこれに賭ける……。{n}あなたの指図は受けないわ……。{wait}{clear}		
+laev10.063C	……これが最後の機会かもしれないの。{wait}{clear}	...This may be my last chance.{wait}{clear}	
+laev10.0668	私はこれに賭ける……。{n}あなたの指図は受けないわ……。{wait}{clear}	I'm staking everything on it... I won't take{n}orders from you...{wait}{clear}	
 laev10.06A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.06B8	しかし、レイラ……。{wait}{clear}		
+laev10.06B8	しかし、レイラ……。{wait}{clear}	But, Leyla...{wait}{clear}	
 laev10.06E4	レイラ	Leyla	speaker
-laev10.06F2	迎えが来たわ……。{wait}{clear}		
+laev10.06F2	迎えが来たわ……。{wait}{clear}	My escort is here...{wait}{clear}	
 laev10.070C	さよなら、＄＄＄＄＄＄。{wait}{clear}	Goodbye, ＄＄＄＄＄＄.{wait}{clear}	
 laev10.0734	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.0744	レイラをこのまま危険にさらすわけにいきません。{n}ついて行きましょう！{wait}{clear}		
-laev10.07A8	貴族１		speaker
-laev10.07B2	こんなに盛大な夜会が開かれるのは久しぶりですな。{wait}{clear}		
-laev10.07E6	貴族２		speaker
-laev10.07F0	そうですな……。まあ、我が国の勢いを考えれば、{n}これも当然のことでしょう。{wait}{clear}		
-laev10.083E	貴族１		speaker
-laev10.0848	いやいや、まったく。{n}皇帝陛下はまさしく始祖皇帝の生まれ変わりですな。{wait}{clear}		
-laev10.0892	貴族２		speaker
-laev10.089C	まさしく、そうでしょう！{n}エンディミオン皇帝陛下の治世のうちに{n}大陸全土を帝国領土とするのも夢ではない……{wait}{clear}		
-laev10.090A	貴族１		speaker
-laev10.0914	おっと、そろそろ皇帝陛下がお見えになるのでは？{wait}{clear}		
-laev10.094C	侍従		speaker
-laev10.0954	エンディミオン皇帝陛下のおでましぃっ！{wait}{clear}		
-laev10.0986	アルベリック		speaker
-laev10.099A	皇帝の慈悲に感謝するのだな……。{wait}{clear}		
+laev10.0744	レイラをこのまま危険にさらすわけにいきません。{n}ついて行きましょう！{wait}{clear}	I can't leave Leyla exposed to danger like{n}this. I'll follow her!{wait}{clear}	
+laev10.07A8	貴族１	Noble 1	speaker
+laev10.07B2	こんなに盛大な夜会が開かれるのは久しぶりですな。{wait}{clear}	It's been a long while since so grand a{n}soiree was held.{wait}{clear}	
+laev10.07E6	貴族２	Noble 2	speaker
+laev10.07F0	そうですな……。まあ、我が国の勢いを考えれば、{n}これも当然のことでしょう。{wait}{clear}	Indeed... Well, given our nation's momentum,{n}it's only natural.{wait}{clear}	
+laev10.083E	貴族１	Noble 1	speaker
+laev10.0848	いやいや、まったく。{n}皇帝陛下はまさしく始祖皇帝の生まれ変わりですな。{wait}{clear}	Quite so, quite so. His Majesty truly is the{n}founding emperor reborn.{wait}{clear}	
+laev10.0892	貴族２	Noble 2	speaker
+laev10.089C	まさしく、そうでしょう！{n}エンディミオン皇帝陛下の治世のうちに{n}大陸全土を帝国領土とするのも夢ではない……{wait}{clear}	Truly! Under His Majesty Emperor Endymion's{n}reign, making the whole continent imperial{n}land is no mere dream...{wait}{clear}	
+laev10.090A	貴族１	Noble 1	speaker
+laev10.0914	おっと、そろそろ皇帝陛下がお見えになるのでは？{wait}{clear}	Oh, isn't His Majesty due to arrive soon?{wait}{clear}	
+laev10.094C	侍従	Chamberlain	speaker
+laev10.0954	エンディミオン皇帝陛下のおでましぃっ！{wait}{clear}	His Majesty Emperor Endymion has arriiived!{wait}{clear}	
+laev10.0986	アルベリック	Alberic	speaker
+laev10.099A	皇帝の慈悲に感謝するのだな……。{wait}{clear}	You should thank the Emperor for his{n}mercy...{wait}{clear}	
 laev10.09BE	レイラ	Leyla	speaker
-laev10.09CC	お前のような男の顔をみると吐き気がする……。{wait}{clear}		
-laev10.0A1C	アルベリック		speaker
-laev10.0A30	言葉には気をつけろ……レイラ。{wait}{clear}		
-laev10.0A56	昔とは立場がちがう……。{n}{wait}{clear}		
-laev10.0A78	お前は帝国騎士隊長ではなく、ただの反逆者で、{n}明日の朝には処刑される身なのだからな。{wait}{clear}		
+laev10.09CC	お前のような男の顔をみると吐き気がする……。{wait}{clear}	Seeing the face of a man like you makes me{n}sick...{wait}{clear}	
+laev10.0A1C	アルベリック	Alberic	speaker
+laev10.0A30	言葉には気をつけろ……レイラ。{wait}{clear}	Mind your tongue... Leyla.{wait}{clear}	
+laev10.0A56	昔とは立場がちがう……。{n}{wait}{clear}	Things are not as they once were...{wait}{clear}	
+laev10.0A78	お前は帝国騎士隊長ではなく、ただの反逆者で、{n}明日の朝には処刑される身なのだからな。{wait}{clear}	You are no longer a captain of the imperial{n}knights, only a traitor who will be executed{n}tomorrow morning.{wait}{clear}	
 laev10.0AD0	レイラ	Leyla	speaker
 laev10.0ADE	…………。{wait}{clear}	.........{wait}{clear}	
-laev10.0AEC	アルベリック		speaker
-laev10.0B00	……しかし相変わらず、君は美しい……{n}下にいる大貴族の婦人たちが石ころのようだ。{wait}{clear}		
-laev10.0B60	アルベリック		speaker
-laev10.0B74	あの老騎士もこの美しさに目を奪われて{n}剣がにぶったのだろうな……。{wait}{clear}		
-laev10.0BBE	いや……さすがに親友の娘を殺すことが{n}できなかっただけかもしれん。{n}凡俗な男だ。{wait}{clear}		
-laev10.0C16	父上のいいアイデアだったのだがな、{n}あの男に君を殺させる案は。{wait}{clear}		
+laev10.0AEC	アルベリック	Alberic	speaker
+laev10.0B00	……しかし相変わらず、君は美しい……{n}下にいる大貴族の婦人たちが石ころのようだ。{wait}{clear}	...But you are as beautiful as ever... The{n}great noble ladies below look like pebbles{n}beside you.{wait}{clear}	
+laev10.0B60	アルベリック	Alberic	speaker
+laev10.0B74	あの老騎士もこの美しさに目を奪われて{n}剣がにぶったのだろうな……。{wait}{clear}	That old knight must have been dazzled by{n}your beauty too, and his sword went dull...{wait}{clear}	
+laev10.0BBE	いや……さすがに親友の娘を殺すことが{n}できなかっただけかもしれん。{n}凡俗な男だ。{wait}{clear}	No... perhaps he simply couldn't bring{n}himself to kill his best friend's daughter.{n}A common man.{wait}{clear}	
+laev10.0C16	父上のいいアイデアだったのだがな、{n}あの男に君を殺させる案は。{wait}{clear}	It was a fine idea of my father's, having{n}that man kill you.{wait}{clear}	
 laev10.0C58	レイラ	Leyla	speaker
-laev10.0C66	汚い真似を……。{wait}{clear}		
+laev10.0C66	汚い真似を……。{wait}{clear}	Such a dirty trick...{wait}{clear}	
 laev10.0C7A	レイラ	Leyla	speaker
-laev10.0C88	貴様を……私は絶対に許さない……{wait}{clear}		
-laev10.0CAC	アルベリック		speaker
-laev10.0CC0	最後の夜くらい今日の姿同様、{n}ご婦人らしくしたらどうだ？{wait}{clear}		
-laev10.0D00	帝国騎士最高の地位にいる私が{n}相手をするのだからな。{wait}{clear}		
-laev10.0D3C	そうそうあることではない……{n}名誉と思って欲しいな。{wait}{clear}		
+laev10.0C88	貴様を……私は絶対に許さない……{wait}{clear}	I will never... forgive you...{wait}{clear}	
+laev10.0CAC	アルベリック	Alberic	speaker
+laev10.0CC0	最後の夜くらい今日の姿同様、{n}ご婦人らしくしたらどうだ？{wait}{clear}	On your last night, why not act like a lady,{n}as you look tonight?{wait}{clear}	
+laev10.0D00	帝国騎士最高の地位にいる私が{n}相手をするのだからな。{wait}{clear}	After all, you'll be keeping company with{n}me, who holds the highest rank among the{n}imperial knights.{wait}{clear}	
+laev10.0D3C	そうそうあることではない……{n}名誉と思って欲しいな。{wait}{clear}	Such a chance doesn't come often... You{n}should consider it an honor.{wait}{clear}	
 laev10.0D74	レイラ	Leyla	speaker
-laev10.0D82	……お前にはずかしめを受けるぐらいなら{n}この場で死ぬ！{wait}{clear}		
-laev10.0DBC	アルベリック		speaker
-laev10.0DD0	そんな強がりは……{wait}{clear}		
-laev10.0DF0	アルベリック		speaker
-laev10.0E04	チッ……誰だ！{wait}{clear}		
+laev10.0D82	……お前にはずかしめを受けるぐらいなら{n}この場で死ぬ！{wait}{clear}	...I'd rather die right here than be shamed{n}by you!{wait}{clear}	
+laev10.0DBC	アルベリック	Alberic	speaker
+laev10.0DD0	そんな強がりは……{wait}{clear}	Such bravado...{wait}{clear}	
+laev10.0DF0	アルベリック	Alberic	speaker
+laev10.0E04	チッ……誰だ！{wait}{clear}	Tch... Who's there?!{wait}{clear}	
 laev10.0E16	セレニス	Serenis	speaker
-laev10.0E26	私です、アルベリック。{n}中に入れなさい。{wait}{clear}		
-laev10.0E52	アルベリック		speaker
-laev10.0E66	セレニスか……無粋な真似を……。{wait}{clear}		
+laev10.0E26	私です、アルベリック。{n}中に入れなさい。{wait}{clear}	It is I, Alberic. Let me in.{wait}{clear}	
+laev10.0E52	アルベリック	Alberic	speaker
+laev10.0E66	セレニスか……無粋な真似を……。{wait}{clear}	Serenis... How tactless of you...{wait}{clear}	
 laev10.0EA2	セレニス	Serenis	speaker
-laev10.0EB2	アルベリック、{n}私はこの女と話したいことがあります。{wait}{clear}		
-laev10.0EEE	席をはずしなさい。{wait}{clear}		
-laev10.0F04	アルベリック		speaker
+laev10.0EB2	アルベリック、{n}私はこの女と話したいことがあります。{wait}{clear}	Alberic, I have something to discuss with{n}this woman.{wait}{clear}	
+laev10.0EEE	席をはずしなさい。{wait}{clear}	Leave us.{wait}{clear}	
+laev10.0F04	アルベリック	Alberic	speaker
 laev10.0F18	……わかった。{wait}{clear}	...Fine.{wait}{clear}	
 laev10.0F2A	セレニス	Serenis	speaker
-laev10.0F3A	それから、階下で宰相があなたを呼んでいます。{wait}{clear}		
-laev10.0F6A	アルベリック		speaker
-laev10.0F7E	ああ、行く！{wait}{clear}		
+laev10.0F3A	それから、階下で宰相があなたを呼んでいます。{wait}{clear}	Also, the chancellor is calling for you{n}downstairs.{wait}{clear}	
+laev10.0F6A	アルベリック	Alberic	speaker
+laev10.0F7E	ああ、行く！{wait}{clear}	Fine, I'm going!{wait}{clear}	
 laev10.0F8E	セレニス	Serenis	speaker
-laev10.0F9E	ふ、いつまでも子供のような男……。{wait}{clear}		
-laev10.0FC8	あなた、ヴィグリード将軍の娘ね……。{wait}{clear}		
+laev10.0F9E	ふ、いつまでも子供のような男……。{wait}{clear}	Heh, forever a child, that man...{wait}{clear}	
+laev10.0FC8	あなた、ヴィグリード将軍の娘ね……。{wait}{clear}	You're General Vigrid's daughter, aren't{n}you...?{wait}{clear}	
 laev10.0FF0	レイラ	Leyla	speaker
 laev10.0FFE	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.100C	セレニス	Serenis	speaker
-laev10.101C	聞きたいことがあるの……いい？{wait}{clear}		
+laev10.101C	聞きたいことがあるの……いい？{wait}{clear}	There's something I want to ask you... May{n}I?{wait}{clear}	
 laev10.103E	レイラ	Leyla	speaker
 laev10.104C	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.105A	セレニス	Serenis	speaker
-laev10.106A	あなたの力の影に、{n}天使がいるという噂を聞いたの……。{wait}{clear}		
+laev10.106A	あなたの力の影に、{n}天使がいるという噂を聞いたの……。{wait}{clear}	I've heard a rumor that there's an angel in{n}the shadow of your power...{wait}{clear}	
 laev10.10A4	レイラ	Leyla	speaker
-laev10.10B2	だとしたら……なんだというの……。{wait}{clear}		
+laev10.10B2	だとしたら……なんだというの……。{wait}{clear}	And if there is... what of it...?{wait}{clear}	
 laev10.10D8	セレニス	Serenis	speaker
-laev10.10E8	私は昔から天使の存在を信じていて、{n}一度、会ってみたいと思っているの……。{wait}{clear}		
-laev10.113A	お願い、あなたの天使に会わせて欲しいの……{wait}{clear}		
-laev10.116C	もし、会わせてくれたなら、あなたの命を救うわ。{wait}{clear}		
-laev10.11A2	皇帝は慈悲深いお方……{n}私の言葉であなたを救えるわ……。{wait}{clear}		
+laev10.10E8	私は昔から天使の存在を信じていて、{n}一度、会ってみたいと思っているの……。{wait}{clear}	I've long believed angels exist, and I've{n}wanted to meet one, just once...{wait}{clear}	
+laev10.113A	お願い、あなたの天使に会わせて欲しいの……{wait}{clear}	Please, let me meet your angel...{wait}{clear}	
+laev10.116C	もし、会わせてくれたなら、あなたの命を救うわ。{wait}{clear}	If you do, I'll save your life.{wait}{clear}	
+laev10.11A2	皇帝は慈悲深いお方……{n}私の言葉であなたを救えるわ……。{wait}{clear}	The Emperor is a merciful man... A word from{n}me can save you...{wait}{clear}	
 laev10.11DE	レイラ	Leyla	speaker
 laev10.11EC	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.11FE	セレニス	Serenis	speaker
-laev10.120E	強情ね……。{wait}{clear}		
-laev10.1222	いいわ……{wait}{clear}		
-laev10.1234	ここにいるのでしょう……{n}いるのはわかるわ、姿を現しなさい。{wait}{clear}		
-laev10.1278	現せばこの娘は助かるのよ。{wait}{clear}		
+laev10.120E	強情ね……。{wait}{clear}	How stubborn...{wait}{clear}	
+laev10.1222	いいわ……{wait}{clear}	Very well...{wait}{clear}	
+laev10.1234	ここにいるのでしょう……{n}いるのはわかるわ、姿を現しなさい。{wait}{clear}	You're here, aren't you...? I know you are.{n}Show yourself.{wait}{clear}	
+laev10.1278	現せばこの娘は助かるのよ。{wait}{clear}	If you do, this girl will be spared.{wait}{clear}	
 laev10.1296	ＮＵＬＬ	NULL	speaker
-laev10.12A6	《姿を現す。》{n}		
-laev10.12BC	《姿を現さない。》{n}		
+laev10.12A6	《姿を現す。》{n}	Show yourself.{n}	
+laev10.12BC	《姿を現さない。》{n}	Stay hidden.{n}	
 laev10.12D6	セレニス	Serenis	speaker
-laev10.12E6	いいの？{n}彼女を救いたくないの？{wait}{clear}		
+laev10.12E6	いいの？{n}彼女を救いたくないの？{wait}{clear}	Are you sure? Don't you want to save her?{wait}{clear}	
 laev10.130E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.131E	……ここにいます。{wait}{clear}		
+laev10.131E	……ここにいます。{wait}{clear}	...I'm here.{wait}{clear}	
 laev10.1334	セレニス	Serenis	speaker
-laev10.1344	やはりいたわね……。{wait}{clear}		
-laev10.1360	暗殺を謀ろうなんて、{n}ずいぶんと無茶をさせるのね……。{wait}{clear}		
+laev10.1344	やはりいたわね……。{wait}{clear}	So you were here after all...{wait}{clear}	
+laev10.1360	暗殺を謀ろうなんて、{n}ずいぶんと無茶をさせるのね……。{wait}{clear}	Plotting an assassination... You make her do{n}such reckless things...{wait}{clear}	
 laev10.139A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.13AA	いえ……{n}こんなことをさせるつもりはありませんでした……。{wait}{clear}		
+laev10.13AA	いえ……{n}こんなことをさせるつもりはありませんでした……。{wait}{clear}	No... I never meant for her to do this...{wait}{clear}	
 laev10.13E8	セレニス	Serenis	speaker
-laev10.13F8	どうやら、若い天使ね。{n}しばらく前から感じていたけど……{wait}{clear}		
-laev10.1438	出会えてうれしいわ。{wait}{clear}		
+laev10.13F8	どうやら、若い天使ね。{n}しばらく前から感じていたけど……{wait}{clear}	A young angel, it seems. I've sensed you for{n}some time now...{wait}{clear}	
+laev10.1438	出会えてうれしいわ。{wait}{clear}	I'm glad we've met.{wait}{clear}	
 laev10.1450	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.1460	あなたはいったい……。{wait}{clear}		
+laev10.1460	あなたはいったい……。{wait}{clear}	Who on earth are you...?{wait}{clear}	
 laev10.147A	セレニス	Serenis	speaker
-laev10.148A	私はこの娘と同じように天使に仕える者よ。{wait}{clear}		
-laev10.14BA	ただ……私を守護してくださる方は{n}あなたのように無知でも、無力でもなく{n}偉大な力を持ったお方……{wait}{clear}		
-laev10.1522	そして、私のうちに宿り{n}その力すべてを授けてくださっている……。{wait}{clear}		
+laev10.148A	私はこの娘と同じように天使に仕える者よ。{wait}{clear}	I serve an angel, just like this girl.{wait}{clear}	
+laev10.14BA	ただ……私を守護してくださる方は{n}あなたのように無知でも、無力でもなく{n}偉大な力を持ったお方……{wait}{clear}	But the one who protects me is neither{n}ignorant nor powerless like you, but a being{n}of great power...{wait}{clear}	
+laev10.1522	そして、私のうちに宿り{n}その力すべてを授けてくださっている……。{wait}{clear}	One who dwells within me and grants me all{n}of that power...{wait}{clear}	
 laev10.15A4	セレニス	Serenis	speaker
-laev10.15B4	フフフ、あなたは愚かな天使ね……{n}油断して姿など見せるからこういう目にあう……。{wait}{clear}		
-laev10.160C	私の内にすむ方は{n}あなたとは比べものにならない力を持っているのよ。{wait}{clear}		
-laev10.1656	地上世界に降りた魂だけのあなたでさえ{n}打ち殺すことができるほどにね。{wait}{clear}		
-laev10.16A2	さあ、うるさい天使、この場で滅しなさい。{wait}{clear}		
+laev10.15B4	フフフ、あなたは愚かな天使ね……{n}油断して姿など見せるからこういう目にあう……。{wait}{clear}	Heh heh heh, what a foolish angel you are...{n}This is what you get for letting your guard{n}down and showing yourself...{wait}{clear}	
+laev10.160C	私の内にすむ方は{n}あなたとは比べものにならない力を持っているのよ。{wait}{clear}	The one who lives within me has power beyond{n}compare with yours.{wait}{clear}	
+laev10.1656	地上世界に降りた魂だけのあなたでさえ{n}打ち殺すことができるほどにね。{wait}{clear}	Enough to strike down even you, who came{n}down to the surface world as nothing but a{n}soul.{wait}{clear}	
+laev10.16A2	さあ、うるさい天使、この場で滅しなさい。{wait}{clear}	Now, meddlesome angel, perish here and now.{wait}{clear}	
 laev10.16E0	セレニス	Serenis	speaker
-laev10.16F0	！？{wait}{clear}		
+laev10.16F0	！？{wait}{clear}	?!{wait}{clear}	
 laev10.171E	レイラ	Leyla	speaker
-laev10.172C	大丈夫？　＄＄＄＄＄＄。{wait}{clear}		
+laev10.172C	大丈夫？　＄＄＄＄＄＄。{wait}{clear}	Are you all right, ＄＄＄＄＄＄?{wait}{clear}	
 laev10.1748	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev10.1758	はい……大丈夫です……。{wait}{clear}		
+laev10.1758	はい……大丈夫です……。{wait}{clear}	Yes... I'm all right...{wait}{clear}	
 laev10.1782	レイラ	Leyla	speaker
-laev10.1790	ここを出ましょう、＄＄＄＄＄＄。{wait}{clear}		
+laev10.1790	ここを出ましょう、＄＄＄＄＄＄。{wait}{clear}	Let's get out of here, ＄＄＄＄＄＄.{wait}{clear}	

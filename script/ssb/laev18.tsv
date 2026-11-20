@@ -1,40 +1,40 @@
 id	jp	en	notes
 laev18.0064	レイラ	Leyla	speaker
-laev18.0072	あの姿……天竜ね……。{wait}{clear}		
+laev18.0072	あの姿……天竜ね……。{wait}{clear}	That form... It's the Heavenly Dragon...{wait}{clear}	
 laev18.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.009C	そうです……。{n}世界を終わらせようとしている悪魔の竜です……。{wait}{clear}		
+laev18.009C	そうです……。{n}世界を終わらせようとしている悪魔の竜です……。{wait}{clear}	Yes... The devil's dragon that seeks to end{n}the world...{wait}{clear}	
 laev18.00DE	レイラ	Leyla	speaker
-laev18.00EC	あの竜が世界を飲み込んでしまうのね……。{wait}{clear}		
+laev18.00EC	あの竜が世界を飲み込んでしまうのね……。{wait}{clear}	So that dragon will swallow the world...{wait}{clear}	
 laev18.0118	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.0128	サタンの竜はこの地上すべての魂を奪いつくし、{n}冥界へ帰還しようとしています。{wait}{clear}止めなければ、世界は破滅するでしょう。{wait}{clear}		
+laev18.0128	サタンの竜はこの地上すべての魂を奪いつくし、{n}冥界へ帰還しようとしています。{wait}{clear}止めなければ、世界は破滅するでしょう。{wait}{clear}	Satan's dragon means to devour every soul on{n}the surface world and return to the{n}underworld.{wait}{clear}If we don't stop it, the world will be{n}destroyed.{wait}{clear}	
 laev18.01C8	レイラ	Leyla	speaker
-laev18.01D6	……＄＄＄＄＄＄。{n}今まで、ありがとう……。{wait}{clear}		
-laev18.020A	私はあなたにずっと支えられていた……。{wait}{clear}		
-laev18.0238	あなたがいなければ……私は……。{wait}{clear}		
+laev18.01D6	……＄＄＄＄＄＄。{n}今まで、ありがとう……。{wait}{clear}	...＄＄＄＄＄＄. Thank you, for everything{n}until now...{wait}{clear}	
+laev18.020A	私はあなたにずっと支えられていた……。{wait}{clear}	You've always been there to support me...{wait}{clear}	
+laev18.0238	あなたがいなければ……私は……。{wait}{clear}	If it weren't for you... I...{wait}{clear}	
 laev18.025C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.026C	いいえ……レイラ。{n}あなた自身の力でここまで来たのです。{n}私の力などわずかなものです……。{wait}{clear}		
+laev18.026C	いいえ……レイラ。{n}あなた自身の力でここまで来たのです。{n}私の力などわずかなものです……。{wait}{clear}	No... Leyla. You came this far on your own{n}strength. My help was only a small thing...{wait}{clear}	
 laev18.02CA	レイラ	Leyla	speaker
-laev18.02D8	……この戦いがすべて終わったとき、{n}あなたは天界へ戻ってしまうの？{wait}{clear}		
+laev18.02D8	……この戦いがすべて終わったとき、{n}あなたは天界へ戻ってしまうの？{wait}{clear}	...When this battle is all over, will you go{n}back to the Heavens?{wait}{clear}	
 laev18.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.032E	はい……それが天使としてのつとめです。{wait}{clear}		
+laev18.032E	はい……それが天使としてのつとめです。{wait}{clear}	Yes... That is my duty as an angel.{wait}{clear}	
 laev18.0364	レイラ	Leyla	speaker
-laev18.0372	残ることはできないのね……。{wait}{clear}		
+laev18.0372	残ることはできないのね……。{wait}{clear}	So you can't stay...{wait}{clear}	
 laev18.0392	ＮＵＬＬ	NULL	speaker
-laev18.03A2	《残りたいと思っています。》{n}		
-laev18.03C6	《天使ですから……。》{n}		
+laev18.03A2	《残りたいと思っています。》{n}	I want to stay.{n}	
+laev18.03C6	《天使ですから……。》{n}	I'm an angel...{n}	
 laev18.03E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.03F4	……いえ……。{n}私はここに残りたいと思っています。{wait}{clear}天使としてのつとめを破ることになっても……。{wait}{clear}		
+laev18.03F4	……いえ……。{n}私はここに残りたいと思っています。{wait}{clear}天使としてのつとめを破ることになっても……。{wait}{clear}	...No... I want to stay here.{wait}{clear}Even if it means breaking my duty as an{n}angel...{wait}{clear}	
 laev18.0466	レイラ	Leyla	speaker
-laev18.0474	本当に……？{wait}{clear}		
+laev18.0474	本当に……？{wait}{clear}	Really...?{wait}{clear}	
 laev18.0484	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev18.0494	はい……。{wait}{clear}	Yes...{wait}{clear}	
 laev18.04CE	レイラ	Leyla	speaker
 laev18.04DC	ありがとう……＄＄＄＄＄＄。{wait}{clear}	Thank you... ＄＄＄＄＄＄.{wait}{clear}	
 laev18.05B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev18.05C2	はい……。{n}私は……天使ですから……。{wait}{clear}		
+laev18.05C2	はい……。{n}私は……天使ですから……。{wait}{clear}	Yes... Because I... am an angel...{wait}{clear}	
 laev18.05EC	レイラ	Leyla	speaker
-laev18.05FA	そう……。{n}残念ね……。{wait}{clear}		
-laev18.061A	私、あなたを……。{wait}{clear}		
-laev18.0640	……いいえ……今は……やめましょう……。{wait}{clear}		
-laev18.0670	世界のために……{n}私たちは戦わなければならないのだから……。{wait}{clear}		
-laev18.06B4	最後の戦いに備えましょう。{n}＄＄＄＄＄＄。{wait}{clear}		
+laev18.05FA	そう……。{n}残念ね……。{wait}{clear}	I see... That's a shame...{wait}{clear}	
+laev18.061A	私、あなたを……。{wait}{clear}	I... you...{wait}{clear}	
+laev18.0640	……いいえ……今は……やめましょう……。{wait}{clear}	...No... not now... let's not...{wait}{clear}	
+laev18.0670	世界のために……{n}私たちは戦わなければならないのだから……。{wait}{clear}	We have to fight... for the sake of the{n}world...{wait}{clear}	
+laev18.06B4	最後の戦いに備えましょう。{n}＄＄＄＄＄＄。{wait}{clear}	Let's prepare for the final battle,{n}＄＄＄＄＄＄.{wait}{clear}	

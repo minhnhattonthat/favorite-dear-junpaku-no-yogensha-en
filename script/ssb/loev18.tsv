@@ -28,7 +28,7 @@ loev18.0474	《すみません……》{n}	I'm sorry...{n}
 loev18.048E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev18.049E	はい……わかりました。{n}この地上に残ります。{wait}{clear}		
 loev18.04FA	ルディエール	Rudiere	speaker
-loev18.050E	ありがとう、＄＄＄＄＄＄。{wait}{clear}		
+loev18.050E	ありがとう、＄＄＄＄＄＄。{wait}{clear}	Thank you, ＄＄＄＄＄＄.{wait}{clear}	
 loev18.0530	君がそう言ってくれることを願っていた……。{wait}{clear}		
 loev18.0562	おれは君にふさわしい男になるよ。{n}必ず……。{wait}{clear}		
 loev18.0648	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

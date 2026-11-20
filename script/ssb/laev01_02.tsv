@@ -1,9 +1,9 @@
 id	jp	en	notes
 laev01_02.004E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev01_02.005E	レイラ、考えていただけましたか？{wait}{clear}		
+laev01_02.005E	レイラ、考えていただけましたか？{wait}{clear}	Leyla, have you thought it over?{wait}{clear}	
 laev01_02.0082	レイラ	Leyla	speaker
-laev01_02.008C	ええ、いろいろとね……。{wait}{clear}決めたわ。あなたに協力する。{n}天の御使いに従うわ。{wait}{clear}		
+laev01_02.008C	ええ、いろいろとね……。{wait}{clear}決めたわ。あなたに協力する。{n}天の御使いに従うわ。{wait}{clear}	Yes, about a great many things...{wait}{clear}I've decided. I'll help you. I'll follow{n}Heaven's messenger.{wait}{clear}	
 laev01_02.00DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev01_02.00EE	ありがとう、レイラ。{wait}{clear}		
+laev01_02.00EE	ありがとう、レイラ。{wait}{clear}	Thank you, Leyla.{wait}{clear}	
 laev01_02.0106	レイラ	Leyla	speaker
-laev01_02.0110	これも何かの運命ね。{wait}{clear}私もこのまま、いつまでも帝国の領内に{n}残っていることはできないわ……。{wait}{clear}アルベリックたちが私を探し出そうと{n}いろいろ手をつくしているし……。{wait}{clear}騎士としての地位も奪われてしまった私に{n}今、ここでできることなどなにもない……。{wait}{clear}あなたに賭けてみるわ。{wait}{clear}なにかできることがあったら、{n}いつでも声をかけて。{wait}{clear}		
+laev01_02.0110	これも何かの運命ね。{wait}{clear}私もこのまま、いつまでも帝国の領内に{n}残っていることはできないわ……。{wait}{clear}アルベリックたちが私を探し出そうと{n}いろいろ手をつくしているし……。{wait}{clear}騎士としての地位も奪われてしまった私に{n}今、ここでできることなどなにもない……。{wait}{clear}あなたに賭けてみるわ。{wait}{clear}なにかできることがあったら、{n}いつでも声をかけて。{wait}{clear}	This must be fate.{wait}{clear}I can't stay within the Empire's borders{n}forever like this...{wait}{clear}Alberic and his men are doing everything{n}they can to hunt me down...{wait}{clear}And stripped of my rank as a knight, there's{n}nothing I can do here now...{wait}{clear}I'll take a chance on you.{wait}{clear}If there's anything I can do, call on me{n}anytime.{wait}{clear}	

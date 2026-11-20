@@ -67,21 +67,21 @@ BTL_EVT2.09CAS	カイゼル		speaker
 BTL_EVT2.09D3	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT2.09FFS	カイゼル		speaker
 BTL_EVT2.0A08	…………。		
-BTL_EVT2.0A3AS	アルベリック		speaker
+BTL_EVT2.0A3AS	アルベリック	Alberic	speaker
 BTL_EVT2.0A47	天使の勇者か……		
-BTL_EVT2.0A5BS	アルベリック		speaker
+BTL_EVT2.0A5BS	アルベリック	Alberic	speaker
 BTL_EVT2.0A68	我が魔剣の餌食となりにきたな……		
 BTL_EVT2.0A8CS	ルディエール	Rudiere	speaker
 BTL_EVT2.0A99	餌食になんかなるものか！		
-BTL_EVT2.0AB5S	アルベリック		speaker
+BTL_EVT2.0AB5S	アルベリック	Alberic	speaker
 BTL_EVT2.0AC2	ふん、私の魔剣は無敵だ……。{n}貴様ごときには負けぬ！		
 BTL_EVT2.0AFAS	ルディエール	Rudiere	speaker
 BTL_EVT2.0B07	魔剣に魂を奪われた男か……。{wait}{clear}哀れだな……。		
-BTL_EVT2.0B39S	アルベリック		speaker
+BTL_EVT2.0B39S	アルベリック	Alberic	speaker
 BTL_EVT2.0B46	この剣も喜んでいる……		
-BTL_EVT2.0B60S	アルベリック		speaker
+BTL_EVT2.0B60S	アルベリック	Alberic	speaker
 BTL_EVT2.0B6D	天使の勇者の血は最高だとね……。		
-BTL_EVT2.0B91S	アルベリック		speaker
+BTL_EVT2.0B91S	アルベリック	Alberic	speaker
 BTL_EVT2.0B9E	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
 BTL_EVT2.0BFAS	騎士隊長		speaker
 BTL_EVT2.0C03	帝国バンザイ！！		

@@ -1,62 +1,62 @@
 id	jp	en	notes
 laev13.0048	レイラ	Leyla	speaker
-laev13.0052	ねえ、＄＄＄＄＄＄、お腹は空いていない？{wait}{clear}		
+laev13.0052	ねえ、＄＄＄＄＄＄、お腹は空いていない？{wait}{clear}	Say, ＄＄＄＄＄＄, aren't you hungry?{wait}{clear}	
 laev13.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.008E	ええ……そうですね、少し……。{wait}{clear}		
+laev13.008E	ええ……そうですね、少し……。{wait}{clear}	Yes... I suppose I am, a little...{wait}{clear}	
 laev13.00B0	レイラ	Leyla	speaker
-laev13.00BA	たまには一緒に食事でもどう？{n}でも、その姿のままじゃ行けないわね……。{n}人間の姿にはなれないの？{wait}{clear}		
+laev13.00BA	たまには一緒に食事でもどう？{n}でも、その姿のままじゃ行けないわね……。{n}人間の姿にはなれないの？{wait}{clear}	Why don't we eat together for once? But you{n}can't go looking like that... Can't you take{n}a human form?{wait}{clear}	
 laev13.011E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.012E	え？{n}ええ、なれますけど……。{wait}{clear}		
+laev13.012E	え？{n}ええ、なれますけど……。{wait}{clear}	What? Y-yes, I can, but...{wait}{clear}	
 laev13.0150	レイラ	Leyla	speaker
-laev13.015A	じゃあ、さっそく人間の姿になって、行きましょう。{wait}{clear}		
+laev13.015A	じゃあ、さっそく人間の姿になって、行きましょう。{wait}{clear}	Then take human form right away and let's{n}go.{wait}{clear}	
 laev13.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.019E	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	
 laev13.01DC	レイラ	Leyla	speaker
-laev13.01E6	ふう……。{n}なんだか、ひさしぶりにホッとしたわ。{wait}{clear}		
+laev13.01E6	ふう……。{n}なんだか、ひさしぶりにホッとしたわ。{wait}{clear}	Phew... It's been ages since I felt this{n}relaxed.{wait}{clear}	
 laev13.021A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.022A	そうですね……。{n}こんなゆったりした時間の過ごし方が{n}いつもできればいいのですけどね。{wait}{clear}		
+laev13.022A	そうですね……。{n}こんなゆったりした時間の過ごし方が{n}いつもできればいいのですけどね。{wait}{clear}	It has... If only we could always spend time{n}this leisurely.{wait}{clear}	
 laev13.0284	レイラ	Leyla	speaker
-laev13.028E	本当に……。{n}ねえ、あなたのことを少し聞いてもいい？{wait}{clear}		
+laev13.028E	本当に……。{n}ねえ、あなたのことを少し聞いてもいい？{wait}{clear}	Truly... Say, may I ask a little about you?{wait}{clear}	
 laev13.02C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.02D6	ええ、かまいませんけれど、なんですか？{wait}{clear}		
+laev13.02D6	ええ、かまいませんけれど、なんですか？{wait}{clear}	Yes, I don't mind. What is it?{wait}{clear}	
 laev13.0300	レイラ	Leyla	speaker
-laev13.030A	ちょっと聞きにくいことなんだけど……{n}あなたにとっていちばん大切なものはなに？{wait}{clear}		
+laev13.030A	ちょっと聞きにくいことなんだけど……{n}あなたにとっていちばん大切なものはなに？{wait}{clear}	It's a bit hard to ask, but... what matters{n}most to you?{wait}{clear}	
 laev13.035C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.036C	それは、むずかしい質問ですね……。{n}そうですね……{wait}{clear}		
+laev13.036C	それは、むずかしい質問ですね……。{n}そうですね……{wait}{clear}	That's a difficult question... Let me see...{wait}{clear}	
 laev13.03A2	ＮＵＬＬ	NULL	speaker
-laev13.03B2	《すべてを慈しむ心》{n}		
-laev13.03CE	《信じる心》{n}		
+laev13.03B2	《すべてを慈しむ心》{n}	A heart that cherishes all{n}	
+laev13.03CE	《信じる心》{n}	A heart that believes{n}	
 laev13.03E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.03F8	すべてを慈しむ心です……。{wait}{clear}人も自然も……。{n}たくさんのものを愛し慈しむことができなければ、{n}いけないと思っています。{wait}{clear}慈しむ心とは、自分のためでなく、{n}なにかを大切にする心だと思っていますから……。{wait}{clear}		
+laev13.03F8	すべてを慈しむ心です……。{wait}{clear}人も自然も……。{n}たくさんのものを愛し慈しむことができなければ、{n}いけないと思っています。{wait}{clear}慈しむ心とは、自分のためでなく、{n}なにかを大切にする心だと思っていますから……。{wait}{clear}	A heart that cherishes all things...{wait}{clear}People and nature alike... I believe I must{n}be able to love and cherish a great many{n}things.{wait}{clear}Because to me, a cherishing heart is one{n}that values something, not for its own{n}sake...{wait}{clear}	
 laev13.04D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.04E2	信じる心です……。{wait}{clear}信じる心がなければ、なにをしたとしても、{n}私は誰のためにも、{n}なんのためにもならないと思うのです。{wait}{clear}私が皆を信じなければ、{n}ここにいる意味もないと思っています。{wait}{clear}		
+laev13.04E2	信じる心です……。{wait}{clear}信じる心がなければ、なにをしたとしても、{n}私は誰のためにも、{n}なんのためにもならないと思うのです。{wait}{clear}私が皆を信じなければ、{n}ここにいる意味もないと思っています。{wait}{clear}	A heart that believes...{wait}{clear}Without a heart that believes, I don't think{n}anything I do would be of use to anyone, or{n}for anything.{wait}{clear}If I didn't believe in everyone, there would{n}be no point in my being here.{wait}{clear}	
 laev13.059E	レイラ	Leyla	speaker
-laev13.05A8	そう……。{n}あなたの考えが聞けて、うれしいわ。{wait}{clear}ねえ、天界のことを話してくれる？{wait}{clear}		
+laev13.05A8	そう……。{n}あなたの考えが聞けて、うれしいわ。{wait}{clear}ねえ、天界のことを話してくれる？{wait}{clear}	I see... I'm glad I got to hear what you{n}think.{wait}{clear}Say, will you tell me about the Heavens?{wait}{clear}	
 laev13.05FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.060E	ええ、かまいませんけど、{n}なにを話していいのか……。{n}レイラの聞きたいことはなにかありますか？{wait}{clear}		
+laev13.060E	ええ、かまいませんけど、{n}なにを話していいのか……。{n}レイラの聞きたいことはなにかありますか？{wait}{clear}	Yes, I don't mind, but I'm not sure what to{n}talk about... Is there anything you want to{n}know, Leyla?{wait}{clear}	
 laev13.0670	レイラ	Leyla	speaker
 laev13.067A	そうね……。{wait}{clear}	Yeah...{wait}{clear}	
 laev13.06A6	レイラ	Leyla	speaker
-laev13.06B0	なんだか、話し込んでしまったわね。{n}ずいぶんゆっくりしてしまったわ……。{wait}{clear}そろそろ宿へ戻りましょうか？　＄＄＄＄＄＄？{wait}{clear}		
+laev13.06B0	なんだか、話し込んでしまったわね。{n}ずいぶんゆっくりしてしまったわ……。{wait}{clear}そろそろ宿へ戻りましょうか？　＄＄＄＄＄＄？{wait}{clear}	We got so caught up in talking. We've{n}lingered quite a while...{wait}{clear}Shall we head back to the inn, ＄＄＄＄＄＄?{wait}{clear}	
 laev13.072C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.073C	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 laev13.076E	レイラ	Leyla	speaker
-laev13.0778	ふう、少し飲み過ぎたみたい……。{n}ベランダで涼んでくるわ。{wait}{clear}		
+laev13.0778	ふう、少し飲み過ぎたみたい……。{n}ベランダで涼んでくるわ。{wait}{clear}	Phew, I think I drank a little too much...{n}I'm going to cool off on the balcony.{wait}{clear}	
 laev13.07C2	レイラ	Leyla	speaker
-laev13.07CC	気持ちいい……。{n}＄＄＄＄＄＄もこっちへ来たら？{wait}{clear}		
+laev13.07CC	気持ちいい……。{n}＄＄＄＄＄＄もこっちへ来たら？{wait}{clear}	That feels nice... Why don't you come out{n}here too, ＄＄＄＄＄＄?{wait}{clear}	
 laev13.0800	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.0810	はい。{wait}{clear}	Yes.{wait}{clear}	
 laev13.0846	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.0856	…………。{wait}{clear}	.........{wait}{clear}	
 laev13.0864	レイラ	Leyla	speaker
-laev13.086E	どうしたの、ぼんやりして？{wait}{clear}		
+laev13.086E	どうしたの、ぼんやりして？{wait}{clear}	What's wrong? You're spacing out.{wait}{clear}	
 laev13.088C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.089C	い、いえ……あの……{n}いつものレイラと雰囲気が違うような気が……。{wait}{clear}		
+laev13.089C	い、いえ……あの……{n}いつものレイラと雰囲気が違うような気が……。{wait}{clear}	N-no... um... You just seem different from{n}your usual self, Leyla...{wait}{clear}	
 laev13.08E2	レイラ	Leyla	speaker
-laev13.08EC	ふふふ……そうかもしれないわね……。{wait}{clear}		
+laev13.08EC	ふふふ……そうかもしれないわね……。{wait}{clear}	Hehe... Maybe so...{wait}{clear}	
 laev13.0914	レイラ	Leyla	speaker
-laev13.091E	あなたが飛んでいるときに見ている街って{n}こんな感じなの？{wait}{clear}		
+laev13.091E	あなたが飛んでいるときに見ている街って{n}こんな感じなの？{wait}{clear}	Is this what the town looks like when you're{n}flying?{wait}{clear}	
 laev13.095A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.096A	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 laev13.0980	レイラ	Leyla	speaker
-laev13.098A	飛べるって、すばらしいでしょうね……。{wait}{clear}ねえ、＄＄＄＄＄＄……{n}私、あなたに出会えたこと、本当に感謝してる。{wait}{clear}ありがとう……。{wait}{clear}		
+laev13.098A	飛べるって、すばらしいでしょうね……。{wait}{clear}ねえ、＄＄＄＄＄＄……{n}私、あなたに出会えたこと、本当に感謝してる。{wait}{clear}ありがとう……。{wait}{clear}	Being able to fly must be wonderful...{wait}{clear}Say, ＄＄＄＄＄＄... I'm truly grateful that{n}I met you.{wait}{clear}Thank you...{wait}{clear}	

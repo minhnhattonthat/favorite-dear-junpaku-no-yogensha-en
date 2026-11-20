@@ -2,7 +2,7 @@ id	jp	en	notes
 eiev05.0002	帝国侵攻		dev label (guess: not shown)
 eiev05.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev05.00DE	盲目の魔道士		unit name (32-byte field)
-eiev05.011A	アルベリック		unit name (32-byte field)
+eiev05.011A	アルベリック	Alberic	unit name (32-byte field)
 eiev05.0156	帝國戦士		unit name (32-byte field)
 eiev05.0192	帝國戦士		unit name (32-byte field)
 eiev05.01CE	帝國戦士		unit name (32-byte field)

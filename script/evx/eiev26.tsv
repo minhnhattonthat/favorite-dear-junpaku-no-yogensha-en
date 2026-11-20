@@ -1,21 +1,21 @@
 id	jp	en	notes
 eiev26.00A2	レイラ	Leyla	unit name (32-byte field)
-eiev26.00DE	アルベリック		unit name (32-byte field)
+eiev26.00DE	アルベリック	Alberic	unit name (32-byte field)
 eiev26.011A	コマンダー		unit name (32-byte field)
 eiev26.0156	コマンダー		unit name (32-byte field)
 eiev26.0192	コマンダー		unit name (32-byte field)
 eiev26.01CE	コマンダー		unit name (32-byte field)
-eiev26.04D8	アルベリック		speaker
+eiev26.04D8	アルベリック	Alberic	speaker
 eiev26.04F3	天使の勇者か……		text
 eiev26.0522	我が魔剣の餌食となりにきたな……		text
 eiev26.0569	アイリーン	Irene	speaker
 eiev26.0582	……気持ちの悪い男。		text
 eiev26.05A5	これ以上酷いまねさせないわ……。		text
-eiev26.05D4	アルベリック		speaker
+eiev26.05D4	アルベリック	Alberic	speaker
 eiev26.05EF	ふん……小娘が……		text
 eiev26.0610	その血、ぶちまけてくれる……		text
 eiev26.0683	アイリーン	Irene	speaker
 eiev26.069C	あなたね……今度は逃がさないわ。		text
-eiev26.06CB	アルベリック		speaker
+eiev26.06CB	アルベリック	Alberic	speaker
 eiev26.06E6	小娘……どこかで会ったか……		text
 eiev26.0711	まあいい。{n}我が剣にその血をそそげ。		text

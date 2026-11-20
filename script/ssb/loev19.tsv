@@ -5,7 +5,7 @@ loev19.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0096	こんにちは、ルディ。{n}なんだか、とても楽しそうですね。{wait}{clear}でも、ルディと一緒にいる、その象は？{wait}{clear}		
 loev19.00F8	ルディエール	Rudiere	speaker
 loev19.0108	ん？　＄＄＄＄＄＄か。{n}こいつは、おれの幼なじみのセネカさ。{wait}{clear}		
-loev19.0148	セネカ		speaker
+loev19.0148	セネカ	Seneca	speaker
 loev19.0156	パオー{wait}{clear}		
 loev19.0160	ＮＵＬＬ	NULL	speaker
 loev19.0170	《幼なじみ？》{n}		
@@ -14,7 +14,7 @@ loev19.01A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.01B4	幼なじみ……ですか？{wait}{clear}		
 loev19.01CC	ルディエール	Rudiere	speaker
 loev19.01DC	そうさ。{wait}{clear}おれがこの王宮に来たときに{n}子象のセネカに会ったんだ。{wait}{clear}久しぶりにここに戻ったんだし、{n}あんまり暑いから一緒に水浴びしてんのさ。{wait}{clear}ほら、セネカ{n}＄＄＄＄＄＄にも水かけてやれよ。{wait}{clear}		
-loev19.02A0	セネカ		speaker
+loev19.02A0	セネカ	Seneca	speaker
 loev19.02AE	パオー！{wait}{clear}		
 loev19.02C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.02D2	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}		
@@ -26,7 +26,7 @@ loev19.0366	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0376	とても、かわいいですね。{wait}{clear}		
 loev19.0392	ルディエール	Rudiere	speaker
 loev19.03A2	かわいい？{n}ほめられたぞ、セネカ。{wait}{clear}なんか言ってやれよ。{wait}{clear}		
-loev19.03E0	セネカ		speaker
+loev19.03E0	セネカ	Seneca	speaker
 loev19.03EE	パオパオパオー{wait}{clear}		
 loev19.0400	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0410	え？{wait}{clear}	What?{wait}{clear}	
@@ -40,7 +40,7 @@ loev19.04A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.04B8	口が悪いって……？{wait}{clear}		
 loev19.04CE	ルディエール	Rudiere	speaker
 loev19.04DE	さ、セネカ。{n}ほめてもらったお礼に{n}＄＄＄＄＄＄も涼しくしてやれよ！{wait}{clear}ほらっ！{wait}{clear}		
-loev19.0532	セネカ		speaker
+loev19.0532	セネカ	Seneca	speaker
 loev19.0540	パオー！{wait}{clear}		
 loev19.0554	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0564	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}		

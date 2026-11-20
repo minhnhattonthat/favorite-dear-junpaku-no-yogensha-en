@@ -1,26 +1,26 @@
 id	jp	en	notes
 laev14.005A	クラレンス	Clarence	speaker
-laev14.0068	ほら、天使様、取りにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
+laev14.0068	ほら、天使様、取りにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}	Here, Angel, come and get it. With this, the{n}world's at peace.{wait}{clear}	
 laev14.00A6	ＮＵＬＬ	NULL	speaker
 laev14.00B6	《魔石を受け取る。》{n}	Take the Demon Stone.{n}	
 laev14.00E0	レイラ	Leyla	speaker
 laev14.00EA	＄＄＄＄＄＄！{wait}{clear}	＄＄＄＄＄＄!{wait}{clear}	
-laev14.0100	目を開けて……＄＄＄＄＄＄！{wait}{clear}		
+laev14.0100	目を開けて……＄＄＄＄＄＄！{wait}{clear}	Open your eyes... ＄＄＄＄＄＄!{wait}{clear}	
 laev14.014C	レイラ	Leyla	speaker
-laev14.015A	大丈夫？{wait}{clear}		
+laev14.015A	大丈夫？{wait}{clear}	Are you all right?{wait}{clear}	
 laev14.0166	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev14.0176	ええ……平気です……。{wait}{clear}		
+laev14.0176	ええ……平気です……。{wait}{clear}	Yes... I'm fine...{wait}{clear}	
 laev14.0190	レイラ	Leyla	speaker
-laev14.019E	……よかった……。{wait}{clear}		
+laev14.019E	……よかった……。{wait}{clear}	...Thank goodness...{wait}{clear}	
 laev14.01D0	レイラ	Leyla	speaker
-laev14.01DA	でも、ごめんなさいね、＄＄＄＄＄＄……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまったわ……。{wait}{clear}		
+laev14.01DA	でも、ごめんなさいね、＄＄＄＄＄＄……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまったわ……。{wait}{clear}	But I'm sorry, ＄＄＄＄＄＄... Viper got{n}away with the Demon Stone...{wait}{clear}	
 laev14.0242	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev14.0252	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	I see...{wait}{clear}(What on earth was that just now...? I'll{n}ask Lord Raphael...){wait}{clear}	
 laev14.02DC	レイラ	Leyla	speaker
-laev14.02E6	＄＄＄＄＄＄、大丈夫？{wait}{clear}		
+laev14.02E6	＄＄＄＄＄＄、大丈夫？{wait}{clear}	＄＄＄＄＄＄, are you all right?{wait}{clear}	
 laev14.0300	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev14.0310	……ええ、大丈夫です……。{wait}{clear}	...Yes, I'm all right...{wait}{clear}	
 laev14.032E	レイラ	Leyla	speaker
-laev14.0338	でも、ごめんなさい……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまったわ……。{wait}{clear}		
+laev14.0338	でも、ごめんなさい……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまったわ……。{wait}{clear}	But I'm sorry... Viper got away with the{n}Demon Stone...{wait}{clear}	
 laev14.0390	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev14.03A0	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	I see...{wait}{clear}(What on earth was that just now...? I'll{n}ask Lord Raphael...){wait}{clear}	

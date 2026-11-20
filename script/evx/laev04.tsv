@@ -24,20 +24,20 @@ laev04.06DD	帝国騎士		speaker
 laev04.06F4	裏切り者なら、殺してもかまわないな……。{n}我が部下の仇、取らせてもらうぞ！		text
 laev04.0915	レイラ	Leyla	speaker
 laev04.092A	あなたたちは！？		text
-laev04.09A9	元部下		speaker
+laev04.09A9	元部下	Ex-Soldier	speaker
 laev04.09BE	隊長！　ご無事ですか？		text
 laev04.09E3	レイラ	Leyla	speaker
 laev04.09F8	あなたたち……どうして……。		text
-laev04.0A23	元部下		speaker
+laev04.0A23	元部下	Ex-Soldier	speaker
 laev04.0A38	隊長の姿を見かけたので、あとを追ってきたのです。		text
 laev04.0A77	隊長の行方がわからなくなってから、{n}いろいろなうわさが流れたのですが、{n}自分たちはいまでも隊長を信じています！		text
 laev04.0AF4	それに、こんな侵略は我が国の本意ではありません。{n}どうか、お気を落とさないようにしてください。		text
 laev04.0B61	いつか、必ず国に戻れるよう、{n}我々が隊長の誤解を解きます！！		text
 laev04.0BAC	レイラ	Leyla	speaker
 laev04.0BC1	みんな……ありがとう……。		text
-laev04.0BEA	元部下		speaker
+laev04.0BEA	元部下	Ex-Soldier	speaker
 laev04.0BFF	もっとお話ししたいのですが、ここは危険です。{n}早く、安全な場所へ！		text
 laev04.0C50	レイラ	Leyla	speaker
 laev04.0C65	ええ……みんな、本当にありがとう。{n}あなたたちも気をつけて！		text
-laev04.0CB0	元部下		speaker
+laev04.0CB0	元部下	Ex-Soldier	speaker
 laev04.0CC5	はい！		text

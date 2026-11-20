@@ -50,7 +50,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | トライア | Trier | | | |
 | レグランス | Legrance | | | |
 | セシア | Cecia | | | |
-| セレニス | Serenis | | | |
+| セレニス | Serenis | | Fein's wife, Irene's elder sister; 帝国の魔女 "the Empire's witch", possessed by a devil | |
 | クラレンス | Clarence | | | |
 | ラファエル | Raphael | | archangel | |
 | ミカエル | Michael | | archangel | |
@@ -68,6 +68,9 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | レーアン | Lehan | | a regional guild master (Master Lehan) | |
 | ゼルン | Zern | | Marquis Zern (ゼルン侯/候) | |
 | ラビエル | Raviel | | default angel name in the preview version (game 1 spelling) | |
+| クロイツフェルド | Kreutzfeld | | great noble house; the father is chancellor, Alberic is the son | |
+| カイゼル | Kaiser | | General Kaiser (将軍), imperial officer (laev05) | |
+| セネカ | Seneca | | Rudiere's elephant (パオーン "Pawoooo!") | |
 | リンクス | Lynx | | fairy, boyish (僕) | |
 | ローザ | Rosa | | fairy (formal, composed) | |
 | フロリンダ | Florinda | | fairy; calls herself フロリン "Florin" | |

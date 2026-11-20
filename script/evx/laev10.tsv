@@ -1,7 +1,7 @@
 id	jp	en	notes
 laev10.00A2	レイラ	Leyla	unit name (32-byte field)
 laev10.00DE	皇帝		unit name (32-byte field)
-laev10.011A	アルベリック		unit name (32-byte field)
+laev10.011A	アルベリック	Alberic	unit name (32-byte field)
 laev10.0156	帝国兵		unit name (32-byte field)
 laev10.0192	帝国兵		unit name (32-byte field)
 laev10.01CE	帝国兵		unit name (32-byte field)
@@ -15,23 +15,23 @@ laev10.0590	レイラ	Leyla	speaker
 laev10.05A5	クロイツフェルドがいない？{n}でも、今なら皇帝を……！！		text
 laev10.05EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0605	レイラっ！		text
-laev10.08DE	アルベリック		speaker
+laev10.08DE	アルベリック	Alberic	speaker
 laev10.08F9	これはレイラ……その姿も美しいな……。		text
 laev10.093E	しかし……物騒な真似は慎んだ方がいい。		text
 laev10.0983	皇帝の暗殺など、もってのほかだ……。		text
 laev10.09D2	レイラ	Leyla	speaker
 laev10.09E7	くっ……。		text
-laev10.0A48	アルベリック		speaker
+laev10.0A48	アルベリック	Alberic	speaker
 laev10.0A63	美しい君を反逆の罪で裁くの悲しいが、{n}この場で切り捨てねば{n}また逃げ出されてしまいそうだ……。		text
 laev10.0AE0	どうも君には協力者が多いようだからな。		text
 laev10.0B45	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0B60	レイラ！　私が姿を……！！		text
 laev10.0BBD	エンディミオン		speaker
 laev10.0BDA	待て、アルベリック。		text
-laev10.0C35	アルベリック		speaker
+laev10.0C35	アルベリック	Alberic	speaker
 laev10.0C50	！？		text
 laev10.0D33	エンディミオン		speaker
 laev10.0D50	この祝勝の場を血で汚すことはならん。		text
 laev10.0D93	彼女は無抵抗、処罰は後日行え……。		text
-laev10.0DD4	アルベリック		speaker
+laev10.0DD4	アルベリック	Alberic	speaker
 laev10.0DEF	はい、皇帝陛下……。		text

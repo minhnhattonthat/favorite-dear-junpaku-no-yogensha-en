@@ -1,22 +1,22 @@
 id	jp	en	notes
 Feev25.005C	クラレンス	Clarence	speaker
-Feev25.006A	ほら、天使様、取りに来な。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
+Feev25.006A	ほら、天使様、取りに来な。{n}これがありゃ、世界は平和だぜ。{wait}{clear}	Here, Angel, come and get it. With this, the{n}world's at peace.{wait}{clear}	
 Feev25.00A8	ＮＵＬＬ	NULL	speaker
 Feev25.00B8	《魔石を取る》{n}	Take the Demon Stone{n}	
 Feev25.00DC	フェイン	Fein	speaker
-Feev25.00EC	大丈夫か！　＄＄＄＄＄＄！{wait}{clear}		
+Feev25.00EC	大丈夫か！　＄＄＄＄＄＄！{wait}{clear}	Are you all right?! ＄＄＄＄＄＄!{wait}{clear}	
 Feev25.0144	フェイン	Fein	speaker
-Feev25.0154	よかった……{wait}{clear}		
-Feev25.0168	どこかケガはないか？{wait}{clear}		
+Feev25.0154	よかった……{wait}{clear}	Thank goodness...{wait}{clear}	
+Feev25.0168	どこかケガはないか？{wait}{clear}	Are you hurt anywhere?{wait}{clear}	
 Feev25.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev25.0190	ええ……大丈夫です。{wait}{clear}		
+Feev25.0190	ええ……大丈夫です。{wait}{clear}	Yes... I'm all right.{wait}{clear}	
 Feev25.01D2	フェイン	Fein	speaker
-Feev25.01DE	やつには逃げられた……。{wait}{clear}		
+Feev25.01DE	やつには逃げられた……。{wait}{clear}	He got away from me...{wait}{clear}	
 Feev25.0220	フェイン	Fein	speaker
-Feev25.022C	平気か？{n}やつには逃げられた……。{wait}{clear}		
+Feev25.022C	平気か？{n}やつには逃げられた……。{wait}{clear}	Are you okay? He got away from me...{wait}{clear}	
 Feev25.025E	フェイン	Fein	speaker
-Feev25.026A	帝国の魔女……セレニスか……。{wait}{clear}		
+Feev25.026A	帝国の魔女……セレニスか……。{wait}{clear}	The Empire's witch... Serenis...{wait}{clear}	
 Feev25.028C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev25.029C	フェイン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
+Feev25.029C	フェイン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	Fein...{wait}{clear}(What on earth was that just now...? I{n}should ask Lord Raphael...){wait}{clear}	
 Feev25.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev25.0312	フェイン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
+Feev25.0312	フェイン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	Fein...{wait}{clear}(What on earth was that just now...? I{n}should ask Lord Raphael...){wait}{clear}	

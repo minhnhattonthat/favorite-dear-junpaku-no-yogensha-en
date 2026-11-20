@@ -67,21 +67,21 @@ BTL_EVT3.0A2ES	カイゼル		speaker
 BTL_EVT3.0A37	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT3.0A63S	カイゼル		speaker
 BTL_EVT3.0A6C	…………。		
-BTL_EVT3.0A9ES	アルベリック		speaker
+BTL_EVT3.0A9ES	アルベリック	Alberic	speaker
 BTL_EVT3.0AAB	天使の勇者か……		
-BTL_EVT3.0ABFS	アルベリック		speaker
+BTL_EVT3.0ABFS	アルベリック	Alberic	speaker
 BTL_EVT3.0ACC	我が魔剣の餌食となりにきたな……		
 BTL_EVT3.0AF0S	ロクス	Rocus	speaker
 BTL_EVT3.0AF7	帝国の病を象徴するような男だな。		
-BTL_EVT3.0B1BS	アルベリック		speaker
+BTL_EVT3.0B1BS	アルベリック	Alberic	speaker
 BTL_EVT3.0B28	ふん、病か……{wait}{clear}そんなものこの剣が{n}すべて癒してくれたよ……{wait}{clear}人の魂を吸ってな！		
 BTL_EVT3.0B80S	ロクス	Rocus	speaker
 BTL_EVT3.0B87	魔による癒しだと……ふざけるな……。		
-BTL_EVT3.0BAFS	アルベリック		speaker
+BTL_EVT3.0BAFS	アルベリック	Alberic	speaker
 BTL_EVT3.0BBC	この剣も喜んでいる……		
-BTL_EVT3.0BD6S	アルベリック		speaker
+BTL_EVT3.0BD6S	アルベリック	Alberic	speaker
 BTL_EVT3.0BE3	天使の勇者の血は最高だとね……。		
-BTL_EVT3.0C07S	アルベリック		speaker
+BTL_EVT3.0C07S	アルベリック	Alberic	speaker
 BTL_EVT3.0C14	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
 BTL_EVT3.0C70S	騎士隊長		speaker
 BTL_EVT3.0C79	帝国バンザイ！！		

@@ -6,7 +6,7 @@ maseki.0088	すみません、お聞きしたいことがあるのですが…�
 maseki.00BC	ミカエル	Michael	speaker
 maseki.00C8	ああ、やつならいないぞ。{wait}{clear}		
 maseki.00E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.00F4	！？{wait}{clear}		
+maseki.00F4	！？{wait}{clear}	?!{wait}{clear}	
 maseki.0114	ミカエル	Michael	speaker
 maseki.0120	俺もやつに用があったんだがな……{n}どこかへ出かけているらしい。{wait}{clear}		
 maseki.0162	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

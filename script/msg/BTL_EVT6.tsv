@@ -59,21 +59,21 @@ BTL_EVT6.090ES	カイゼル		speaker
 BTL_EVT6.0917	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT6.0943S	カイゼル		speaker
 BTL_EVT6.094C	…………。		
-BTL_EVT6.097ES	アルベリック		speaker
+BTL_EVT6.097ES	アルベリック	Alberic	speaker
 BTL_EVT6.098B	天使の勇者か……		
-BTL_EVT6.099FS	アルベリック		speaker
+BTL_EVT6.099FS	アルベリック	Alberic	speaker
 BTL_EVT6.09AC	我が魔剣の餌食となりにきたな……		
 BTL_EVT6.09D0S	セシア	Cecia	speaker
 BTL_EVT6.09D7	あなた……{n}あなたも悪魔に魅入られているの？		
-BTL_EVT6.0A07S	アルベリック		speaker
+BTL_EVT6.0A07S	アルベリック	Alberic	speaker
 BTL_EVT6.0A14	ふふふ……私は力を手に入れた。{n}ただ、それだけのことだ……。{wait}{clear}おお、この剣が騒いでいる。{n}天使の勇者の血を見たいと……！		
 BTL_EVT6.0A92S	セシア	Cecia	speaker
 BTL_EVT6.0A99	あの剣に操られて……可哀想な人……。		
-BTL_EVT6.0AC1S	アルベリック		speaker
+BTL_EVT6.0AC1S	アルベリック	Alberic	speaker
 BTL_EVT6.0ACE	この剣も喜んでいる……		
-BTL_EVT6.0AE8S	アルベリック		speaker
+BTL_EVT6.0AE8S	アルベリック	Alberic	speaker
 BTL_EVT6.0AF5	天使の勇者の血は最高だとね……。		
-BTL_EVT6.0B19S	アルベリック		speaker
+BTL_EVT6.0B19S	アルベリック	Alberic	speaker
 BTL_EVT6.0B26	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
 BTL_EVT6.0B82S	騎士隊長		speaker
 BTL_EVT6.0B8B	帝国バンザイ！！		

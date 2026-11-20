@@ -17,58 +17,58 @@ Feev14.01C4	そうか……。気のせいか？{wait}{clear}	I see... Just my i
 Feev14.01E4	もうすこし歩いてみよう……。{wait}{clear}	Let's walk a little further...{wait}{clear}	
 Feev14.0234	フェイン	Fein	speaker
 Feev14.0244	やっぱり……同じ場所だ。{n}この風景、さっき話をした所だ。{wait}{clear}	I knew it... It's the same place. This{n}scenery... it's where we were talking a{n}moment ago.{wait}{clear}	
-Feev14.0284	わな……魔導士の術か……。{wait}{clear}		
-Feev14.02A6	ここの空間を閉じてを俺を弱らせて殺すか……{n}飢え死ににでもさせるつもりなのだろう。{wait}{clear}		
+Feev14.0284	わな……魔導士の術か……。{wait}{clear}	A trap... a mage's spell...{wait}{clear}	
+Feev14.02A6	ここの空間を閉じてを俺を弱らせて殺すか……{n}飢え死ににでもさせるつもりなのだろう。{wait}{clear}	Seal off this space and wear me down until I{n}die... They must mean to starve me to death.{wait}{clear}	
 Feev14.030A	フェイン	Fein	speaker
-Feev14.031A	ふう、面倒なことになったな……{wait}{clear}		
+Feev14.031A	ふう、面倒なことになったな……{wait}{clear}	Phew, this has gotten troublesome...{wait}{clear}	
 Feev14.033C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev14.034C	どうするのです？{wait}{clear}		
+Feev14.034C	どうするのです？{wait}{clear}	What will you do?{wait}{clear}	
 Feev14.036E	フェイン	Fein	speaker
-Feev14.037E	そうだな……{n}まわりを歩いてみよう。{n}術のほころびがあるかもしれない。{wait}{clear}		
+Feev14.037E	そうだな……{n}まわりを歩いてみよう。{n}術のほころびがあるかもしれない。{wait}{clear}	Let's see... Let's walk around. There may be{n}a flaw in the spell.{wait}{clear}	
 Feev14.03F4	フェイン	Fein	speaker
-Feev14.0404	一度だけ……{n}この術をジグが使っているのをみたことがある。{wait}{clear}		
-Feev14.0446	まだ、俺がジグについてまもない頃だ……。{wait}{clear}		
+Feev14.0404	一度だけ……{n}この術をジグが使っているのをみたことがある。{wait}{clear}	Only once... I saw Zig use this spell once.{wait}{clear}	
+Feev14.0446	まだ、俺がジグについてまもない頃だ……。{wait}{clear}	It was soon after I'd started following{n}Zig...{wait}{clear}	
 Feev14.0472	ＮＵＬＬ	NULL	speaker
-Feev14.0482	《ジグの話を聞く》{n}		
-Feev14.049C	《幼い頃の話を聞く》{n}		
+Feev14.0482	《ジグの話を聞く》{n}	Ask about Zig{n}	
+Feev14.049C	《幼い頃の話を聞く》{n}	Ask about his childhood{n}	
 Feev14.04C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev14.04D4	ジグの話をきかせてもらえませんか？{wait}{clear}		
+Feev14.04D4	ジグの話をきかせてもらえませんか？{wait}{clear}	Would you tell me about Zig?{wait}{clear}	
 Feev14.0506	フェイン	Fein	speaker
-Feev14.0516	彼は力の使い方と魔導士としての生き方を{n}教えてくれた師だ。{wait}{clear}		
-Feev14.0558	……多くのひとが魔導士の力を忌んでいること、{n}そのことに注意して生きるべきだと。{wait}{clear}		
-Feev14.05B0	むやみな力の発露は自分自身の生き方を{n}せばめてしまうだろうと。{wait}{clear}		
-Feev14.05F6	幼い俺にそう話して{n}力をおさえ、うまく使う方法を教えてくれた。{wait}{clear}		
+Feev14.0516	彼は力の使い方と魔導士としての生き方を{n}教えてくれた師だ。{wait}{clear}	He was the master who taught me how to use{n}my power, and how to live as a mage.{wait}{clear}	
+Feev14.0558	……多くのひとが魔導士の力を忌んでいること、{n}そのことに注意して生きるべきだと。{wait}{clear}	...He said many people loathe a mage's{n}power, and that I should live mindful of{n}that.{wait}{clear}	
+Feev14.05B0	むやみな力の発露は自分自身の生き方を{n}せばめてしまうだろうと。{wait}{clear}	That letting my power loose recklessly would{n}only narrow the life I could lead.{wait}{clear}	
+Feev14.05F6	幼い俺にそう話して{n}力をおさえ、うまく使う方法を教えてくれた。{wait}{clear}	He told me that when I was small, and taught{n}me to hold my power back and use it well.{wait}{clear}	
 Feev14.0646	フェイン	Fein	speaker
-Feev14.0656	でも……結局……俺は師の言葉をまもれなかった。{wait}{clear}		
+Feev14.0656	でも……結局……俺は師の言葉をまもれなかった。{wait}{clear}	But... in the end... I couldn't keep my{n}master's words.{wait}{clear}	
 Feev14.069E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev14.06AE	あなたの幼いころの話を{n}聞かせてもらえませんか？{wait}{clear}		
+Feev14.06AE	あなたの幼いころの話を{n}聞かせてもらえませんか？{wait}{clear}	Would you tell me about when you were{n}little?{wait}{clear}	
 Feev14.06EE	フェイン	Fein	speaker
-Feev14.06FE	ジグに引き取られる前の記憶はほとんどない……。{wait}{clear}		
-Feev14.0734	俺は……小さな頃、自分の力……{n}魔導士の力の意味がわからなかった……{wait}{clear}		
+Feev14.06FE	ジグに引き取られる前の記憶はほとんどない……。{wait}{clear}	I barely remember anything from before Zig{n}took me in...{wait}{clear}	
+Feev14.0734	俺は……小さな頃、自分の力……{n}魔導士の力の意味がわからなかった……{wait}{clear}	When I was small... I didn't understand what{n}my power... a mage's power... meant...{wait}{clear}	
 Feev14.078A	フェイン	Fein	speaker
-Feev14.079A	両親が自分を気味悪がってることにも{n}全く気がつかなかった……{wait}{clear}		
+Feev14.079A	両親が自分を気味悪がってることにも{n}全く気がつかなかった……{wait}{clear}	I never even noticed that my parents found{n}me creepy...{wait}{clear}	
 Feev14.07E8	フェイン	Fein	speaker
-Feev14.07F8	俺は旅をしていたジグに{n}その力を見込まれて、引き取られた。{wait}{clear}		
-Feev14.083A	はじめはなぜ、自分がそんな目にあうのか{n}わからなかった……{wait}{clear}		
-Feev14.087C	ただ……{n}ジグと一緒にさまざまな場所を旅していくうちに{n}わかった……{wait}{clear}		
-Feev14.08C8	自分がこの世界でしか{n}生きられない人間なんだということが……。{wait}{clear}		
+Feev14.07F8	俺は旅をしていたジグに{n}その力を見込まれて、引き取られた。{wait}{clear}	Zig was traveling, saw promise in my power,{n}and took me in.{wait}{clear}	
+Feev14.083A	はじめはなぜ、自分がそんな目にあうのか{n}わからなかった……{wait}{clear}	At first I didn't understand why that had{n}happened to me...{wait}{clear}	
+Feev14.087C	ただ……{n}ジグと一緒にさまざまな場所を旅していくうちに{n}わかった……{wait}{clear}	But... as I traveled all sorts of places{n}with Zig, I came to understand...{wait}{clear}	
+Feev14.08C8	自分がこの世界でしか{n}生きられない人間なんだということが……。{wait}{clear}	That I'm someone who can only live in this{n}world...{wait}{clear}	
 Feev14.0918	フェイン	Fein	speaker
-Feev14.0928	ジグは多くの魔導士に尊敬されてた人で{n}その人の弟子というのは子供心に誇りだった。{wait}{clear}		
-Feev14.0980	ジグから技をならうことにも、{n}旅をすることにもなれた後は{n}とても充実していた……{wait}{clear}		
-Feev14.09D8	あのころは……{wait}{clear}		
+Feev14.0928	ジグは多くの魔導士に尊敬されてた人で{n}その人の弟子というのは子供心に誇りだった。{wait}{clear}	Zig was respected by many mages, and as a{n}child I was proud to be his apprentice.{wait}{clear}	
+Feev14.0980	ジグから技をならうことにも、{n}旅をすることにもなれた後は{n}とても充実していた……{wait}{clear}	Once I got used to learning from Zig and to{n}traveling, those days were truly full...{wait}{clear}	
+Feev14.09D8	あのころは……{wait}{clear}	Back then...{wait}{clear}	
 Feev14.0A04	フェイン	Fein	speaker
-Feev14.0A14	うん……？　この音……{n}川が近いな……{wait}{clear}		
-Feev14.0A42	こっちだ……{wait}{clear}		
+Feev14.0A14	うん……？　この音……{n}川が近いな……{wait}{clear}	Hm...? That sound... There's a river{n}nearby...{wait}{clear}	
+Feev14.0A42	こっちだ……{wait}{clear}	This way...{wait}{clear}	
 Feev14.0A70	フェイン	Fein	speaker
-Feev14.0A80	俺達をはめた術者はたいしたやつではないな……{wait}{clear}		
-Feev14.0AB4	または見くびられたか……{wait}{clear}		
+Feev14.0A80	俺達をはめた術者はたいしたやつではないな……{wait}{clear}	Whoever trapped us isn't much of a caster...{wait}{clear}	
+Feev14.0AB4	または見くびられたか……{wait}{clear}	Or they underestimated me...{wait}{clear}	
 Feev14.0AD0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev14.0AE0	どうしてです？{wait}{clear}		
+Feev14.0AE0	どうしてです？{wait}{clear}	Why do you say that?{wait}{clear}	
 Feev14.0AF2	フェイン	Fein	speaker
-Feev14.0B02	ここまでたくさんの流水を{n}閉じこめることはできないんだ、この術は。{wait}{clear}		
-Feev14.0B4C	向こう岸へ川を渡っていけば、{n}この閉空間からは逃れられる。{wait}{clear}		
-Feev14.0B8E	渡ろう。{wait}{clear}		
+Feev14.0B02	ここまでたくさんの流水を{n}閉じこめることはできないんだ、この術は。{wait}{clear}	This spell can't seal in this much flowing{n}water.{wait}{clear}	
+Feev14.0B4C	向こう岸へ川を渡っていけば、{n}この閉空間からは逃れられる。{wait}{clear}	If we cross the river to the far bank, we{n}can escape this closed space.{wait}{clear}	
+Feev14.0B8E	渡ろう。{wait}{clear}	Let's cross.{wait}{clear}	
 Feev14.0BC4	フェイン	Fein	speaker
-Feev14.0BD4	ここを渡っても……{n}術者が待ちかまえているかもな。{wait}{clear}		
-Feev14.0C0E	まあ、そのときはそのときか……{wait}{clear}		
-Feev14.0C34	さあ、行こう。{wait}{clear}		
+Feev14.0BD4	ここを渡っても……{n}術者が待ちかまえているかもな。{wait}{clear}	Even if we cross here... the caster may be{n}lying in wait.{wait}{clear}	
+Feev14.0C0E	まあ、そのときはそのときか……{wait}{clear}	Well, we'll deal with that when it comes...{wait}{clear}	
+Feev14.0C34	さあ、行こう。{wait}{clear}	Come on, let's go.{wait}{clear}	

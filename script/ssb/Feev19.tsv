@@ -2,32 +2,32 @@ id	jp	en	notes
 Feev19.00D4	セレニス	Serenis	speaker
 Feev19.00E4	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……。{wait}{clear}	Ah, Lord Satan... I have waited... for the{n}day I would meet you...{wait}{clear}	
 Feev19.012A	フェイン	Fein	speaker
-Feev19.013A	伝説の天竜……これが悪魔の竜か！{wait}{clear}		
+Feev19.013A	伝説の天竜……これが悪魔の竜か！{wait}{clear}	The legendary Heavenly Dragon... So this is{n}the devil's dragon!{wait}{clear}	
 Feev19.015E	セレニス	Serenis	speaker
 Feev19.016E	そう！{n}これこそがサタン様の魂の化身である天竜よ！{wait}{clear}	Yes! This is the Heavenly Dragon, the{n}incarnation of Lord Satan's soul!{wait}{clear}	
 Feev19.01A8	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}	Isn't it magnificent? That form, that{n}majesty...{wait}{clear}	
 Feev19.01DA	フェイン	Fein	speaker
-Feev19.01EA	君は……もう……{wait}{clear}		
+Feev19.01EA	君は……もう……{wait}{clear}	You're... already...{wait}{clear}	
 Feev19.01FE	セレニス	Serenis	speaker
-Feev19.020E	なに？{n}聞こえないわ、フェイン。{wait}{clear}		
+Feev19.020E	なに？{n}聞こえないわ、フェイン。{wait}{clear}	What? I can't hear you, Fein.{wait}{clear}	
 Feev19.0232	フェイン	Fein	speaker
-Feev19.0242	俺は……君を……君を倒す……{wait}{clear}		
+Feev19.0242	俺は……君を……君を倒す……{wait}{clear}	I... will... I will defeat you...{wait}{clear}	
 Feev19.02AA	フェイン	Fein	speaker
-Feev19.02BA	……セレニス！！{wait}{clear}		
+Feev19.02BA	……セレニス！！{wait}{clear}	...Serenis!!{wait}{clear}	
 Feev19.02F6	フェイン	Fein	speaker
-Feev19.0306	……セレニス！！{wait}{clear}		
+Feev19.0306	……セレニス！！{wait}{clear}	...Serenis!!{wait}{clear}	
 Feev19.035A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev19.036A	塔が崩れます、フェイン！{wait}{clear}		
+Feev19.036A	塔が崩れます、フェイン！{wait}{clear}	The tower is collapsing, Fein!{wait}{clear}	
 Feev19.0386	フェイン	Fein	speaker
-Feev19.0396	セレニス……{wait}{clear}		
-Feev19.03AA	一人で行かせはしない……。{wait}{clear}		
+Feev19.0396	セレニス……{wait}{clear}	Serenis...{wait}{clear}	
+Feev19.03AA	一人で行かせはしない……。{wait}{clear}	I won't let you go alone...{wait}{clear}	
 Feev19.03D2	フェイン	Fein	speaker
-Feev19.03E2	世話になったな……＄＄＄＄＄＄。{wait}{clear}		
-Feev19.040A	君には感謝している……。{wait}{clear}		
+Feev19.03E2	世話になったな……＄＄＄＄＄＄。{wait}{clear}	Thank you for everything... ＄＄＄＄＄＄.{wait}{clear}	
+Feev19.040A	君には感謝している……。{wait}{clear}	I'm grateful to you...{wait}{clear}	
 Feev19.0426	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev19.0436	フェイン！！{wait}{clear}		
+Feev19.0436	フェイン！！{wait}{clear}	Fein!!{wait}{clear}	
 Feev19.0450	フェイン	Fein	speaker
-Feev19.0460	やっと……一緒になれたな……。{wait}{clear}		
+Feev19.0460	やっと……一緒になれたな……。{wait}{clear}	At last... we're together...{wait}{clear}	
 Feev19.048C	ＮＵＬＬ	NULL	speaker
 Feev19.0498	ゴゴゴゴゴ……{wait}{clear}	Rumble rumble...{wait}{clear}	
 Feev19.04C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -43,7 +43,7 @@ Feev19.0626	ラファエル様！　ラファエル様っ！！！{wait}{clear}	
 Feev19.0660	ラファエル	Raphael	speaker
 Feev19.066E	＄＄＄＄＄＄、{n}そんなに慌てて、どうしたのですか？{n}{wait}{clear}	＄＄＄＄＄＄, what's the matter, in such a{n}hurry?{n}{wait}{clear}	
 Feev19.06A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev19.06B6	ラファエル様……{n}勇者フェインが死にました……。{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}		
+Feev19.06B6	ラファエル様……{n}勇者フェインが死にました……。{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}	Lord Raphael... The hero Fein has died...{wait}{clear}To save his wife, whose soul a devil had{n}taken over through the magic he himself{n}used, and to atone for his sin...{wait}{clear}I could not save him... Because my own power{n}was not enough.{wait}{clear}But, Lord Raphael, I no longer know.{wait}{clear}Is it truly right for angels to force humans{n}to fight, as I am doing now?{wait}{clear}	
 Feev19.083A	ラファエル	Raphael	speaker
 Feev19.0848	…………。{wait}{clear}……＄＄＄＄＄＄……私についてきなさい。{wait}{clear}	......{wait}{clear}...＄＄＄＄＄＄... come with me.{wait}{clear}	
 Feev19.0888	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

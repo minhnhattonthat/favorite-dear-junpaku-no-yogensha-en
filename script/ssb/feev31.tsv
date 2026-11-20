@@ -1,6 +1,6 @@
 id	jp	en	notes
 feev31.00FE	ラファエル	Raphael	speaker
-feev31.0110	勇者フェイン、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
+feev31.0110	勇者フェイン、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}	Hero Fein, Angel ＄＄＄＄＄＄, you have done{n}well.{wait}{clear}	
 feev31.0146	ミカエル	Michael	speaker
 feev31.0156	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
 feev31.0176	ラファエル	Raphael	speaker
@@ -8,51 +8,51 @@ feev31.0188	私たちは天界で待っています。{n}勇者に別れをつ�
 feev31.01C2	ミカエル	Michael	speaker
 feev31.01D2	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
 feev31.0230	フェイン	Fein	speaker
-feev31.0240	天界へ帰るのか……。{wait}{clear}		
+feev31.0240	天界へ帰るのか……。{wait}{clear}	So you're going back to the Heavens...{wait}{clear}	
 feev31.0258	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev31.0268	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev31.0272	フェイン	Fein	speaker
-feev31.0282	君には助けられてばかりだったな。{wait}{clear}		
-feev31.02AA	天界での活躍を祈っている。{wait}{clear}		
+feev31.0282	君には助けられてばかりだったな。{wait}{clear}	You were always the one helping me.{wait}{clear}	
+feev31.02AA	天界での活躍を祈っている。{wait}{clear}	I'll pray for your success in the Heavens.{wait}{clear}	
 feev31.02C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev31.02D8	ありがとう。フェイン{wait}{clear}		
+feev31.02D8	ありがとう。フェイン{wait}{clear}	Thank you, Fein.{wait}{clear}	
 feev31.02F0	フェイン	Fein	speaker
-feev31.0300	もしも地上戻ることがあるなら、{n}また会いに来てくれ。{wait}{clear}		
-feev31.033C	そのときは天界の話を聞かせて欲しい。{wait}{clear}		
+feev31.0300	もしも地上戻ることがあるなら、{n}また会いに来てくれ。{wait}{clear}	If you ever come back to the surface world,{n}come see me again.{wait}{clear}	
+feev31.033C	そのときは天界の話を聞かせて欲しい。{wait}{clear}	I'd like to hear about the Heavens then.{wait}{clear}	
 feev31.0364	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev31.0374	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev31.0382	フェイン	Fein	speaker
-feev31.0392	お別れだな……。{n}いろいろ、ありがとう。＄＄＄＄＄＄。{wait}{clear}		
+feev31.0392	お別れだな……。{n}いろいろ、ありがとう。＄＄＄＄＄＄。{wait}{clear}	So this is goodbye... Thank you for{n}everything, ＄＄＄＄＄＄.{wait}{clear}	
 feev31.03CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev31.03DC	さよなら、フェイン。{wait}{clear}		
+feev31.03DC	さよなら、フェイン。{wait}{clear}	Goodbye, Fein.{wait}{clear}	
 feev31.03F4	フェイン	Fein	speaker
-feev31.0404	ああ、さよなら、＄＄＄＄＄＄。{wait}{clear}		
+feev31.0404	ああ、さよなら、＄＄＄＄＄＄。{wait}{clear}	Yeah. Goodbye, ＄＄＄＄＄＄.{wait}{clear}	
 feev31.044E	フェイン	Fein	speaker
-feev31.045E	帰るのだな……。{wait}{clear}		
+feev31.045E	帰るのだな……。{wait}{clear}	So you're going back...{wait}{clear}	
 feev31.0472	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev31.0482	はい……{n}でも、私はあなたの元へ{n}戻ってきます……{wait}{clear}		
+feev31.0482	はい……{n}でも、私はあなたの元へ{n}戻ってきます……{wait}{clear}	Yes... But I will come back to you...{wait}{clear}	
 feev31.04B8	フェイン	Fein	speaker
-feev31.04C8	俺のことなど……{n}気にしないでいい……{wait}{clear}		
-feev31.04F6	君には君の未来があるはずだ……。{wait}{clear}		
+feev31.04C8	俺のことなど……{n}気にしないでいい……{wait}{clear}	Don't... worry about me...{wait}{clear}	
+feev31.04F6	君には君の未来があるはずだ……。{wait}{clear}	You must have a future of your own...{wait}{clear}	
 feev31.051A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev31.052A	……フェイン。{wait}{clear}		
+feev31.052A	……フェイン。{wait}{clear}	...Fein.{wait}{clear}	
 feev31.053C	フェイン	Fein	speaker
-feev31.054C	ただ……俺は君の幸せを……{n}ここで願っている。{wait}{clear}		
-feev31.0582	さよなら……＄＄＄＄＄＄。{wait}{clear}		
+feev31.054C	ただ……俺は君の幸せを……{n}ここで願っている。{wait}{clear}	Still... from here... I'll wish for your{n}happiness.{wait}{clear}	
+feev31.0582	さよなら……＄＄＄＄＄＄。{wait}{clear}	Goodbye... ＄＄＄＄＄＄.{wait}{clear}	
 feev31.05C8	フェイン	Fein	speaker
-feev31.05D8	お別れだな……。{wait}{clear}		
+feev31.05D8	お別れだな……。{wait}{clear}	So this is goodbye...{wait}{clear}	
 feev31.05EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev31.05FC	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev31.060A	フェイン	Fein	speaker
-feev31.061A	君には助けられてばかりだった……。{wait}{clear}		
-feev31.0644	いろいろ、すまなかった……。{wait}{clear}		
-feev31.0668	天界での君の幸せを祈ってる。{wait}{clear}		
+feev31.061A	君には助けられてばかりだった……。{wait}{clear}	You were always the one helping me...{wait}{clear}	
+feev31.0644	いろいろ、すまなかった……。{wait}{clear}	I'm sorry, for everything...{wait}{clear}	
+feev31.0668	天界での君の幸せを祈ってる。{wait}{clear}	I'll pray for your happiness in the Heavens.{wait}{clear}	
 feev31.0688	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev31.0698	ありがとう……フェイン。{wait}{clear}	Thank you... Fein.{wait}{clear}	
 feev31.06B4	フェイン	Fein	speaker
-feev31.06C4	……さよなら、＄＄＄＄＄＄{wait}{clear}		
+feev31.06C4	……さよなら、＄＄＄＄＄＄{wait}{clear}	...Goodbye, ＄＄＄＄＄＄.{wait}{clear}	
 feev31.06E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev31.06F2	さよなら……フェイン。{wait}{clear}		
+feev31.06F2	さよなら……フェイン。{wait}{clear}	Goodbye... Fein.{wait}{clear}	
 feev31.0728	ベルゼバブ	Beelzebub	speaker
 feev31.073A	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
 feev31.076C	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

@@ -5,7 +5,7 @@ Feev04b.00DE	帝国歩兵		unit name (32-byte field)
 Feev04b.011A	帝国歩兵		unit name (32-byte field)
 Feev04b.0156	帝国歩兵		unit name (32-byte field)
 Feev04b.0192	帝国歩兵		unit name (32-byte field)
-Feev04b.01CE	アルベリック		unit name (32-byte field)
+Feev04b.01CE	アルベリック	Alberic	unit name (32-byte field)
 Feev04b.05C8	帝国の騎士		speaker
 Feev04b.05E1	なんだ貴様は？		text
 Feev04b.05FE	フェイン	Fein	speaker
