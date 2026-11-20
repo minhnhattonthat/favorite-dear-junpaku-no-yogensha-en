@@ -224,6 +224,9 @@ def main():
         import codetext
         heap = codetext.Heap()
         lkf_changes, files, nrows = insert.changes("en", overrides=qa, texts_for=texts_for, heap=heap)
+        import plates
+        for archive, entries in plates.changes().items():
+            lkf_changes.setdefault(archive, {}).update(entries)
         stem = a.stem or ("fd2_ruler" if a.ruler else "fd2_marker" if a.marker else "fd2_en")
         write_logs(stem, heap, lkf_changes, files)
         files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes(), heap)

@@ -21,5 +21,6 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 
 ## Phase 8 QA (2026-11-21)
 - [ ] rfd2.8009D628 聖アザリア宮 heaven Move button "Azaria Palace" (St. dropped: the 14-letter button clipped "St. Azaria Palace" at both ends; full name kept in dialogue). Restore if the button sprite is widened.
+- [ ] gfx/plates.tsv 77 天竜 battle name plate "Heaven Dragon" (glossary "Heavenly Dragon" is 70 px, the PIX plate 64x12). Waive, or redraw in a narrower face.
 - [ ] Name entry opens on the katakana page; the Latin page is one arrow press away. Opening on the Latin page would suit English players (find the page variable in pro.bin near 0x8009BF80).
 - [ ] Odd-length Latin player names end in a space (pair glyphs fill whole 12 px cells): "Ray , welcome". Half-cell rendering of the name placeholder would fix it.

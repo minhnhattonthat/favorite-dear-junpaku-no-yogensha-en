@@ -1,0 +1,90 @@
+# G8 battle unit name plates: GRPDATA Name_NNN.PIX (64x12, tools/plates.py renders `en` into the build).
+# idx	jp	en	notes
+0	ウルフ	Wolf
+1	ホワイトファング	White Fang
+2	マンイーター	Man-Eater
+3	デッドプラント	Dead Plant
+4	ヴェノム	Venom
+5	アノコンダ	Anaconda	JP misspells アナコンダ
+6	タランテラ	Tarantula
+7	デスウィドウ	Death Widow
+8	ビッグベア	Big Bear
+9	グリズリー	Grizzly
+10	センチピード	Centipede
+11	ミリピード	Millipede
+12	ロック	Roc
+13	ベルクート	Berkut
+14	海竜	Sea Dragon
+15	ゾンビ	Zombie
+16	グール	Ghoul
+17	スケルトン	Skeleton
+18	スカルナイト	Skull Knight
+19	カーミラ	Carmilla
+20	バンシー	Banshee
+21	ヴァンパイア	Vampire
+22	ノスフェラトゥ	Nosferatu
+23	シーフ	Thief
+24	バーグラー	Burglar
+25	ウィザード	Wizard
+26	ウォーロック	Warlock
+27	オーク	Orc
+28	ホブゴブリン	Hobgoblin
+29	ジャイアント	Giant
+30	タイタン	Titan
+31	ミリシア	Militia
+32	レベル	Rebel
+33	民兵	Militia	same meaning as ミリシア
+34	反乱兵	Rebel	same meaning as レベル (glossary: 反乱兵 Rebel)
+35	帝国歩兵	Foot Soldier
+36	歩兵隊長	Foot Captain
+37	帝国兵	Soldier	glossary name tag
+38	帝国戦士	Warrior	glossary name tag
+39	帝国騎士	Knight	glossary name tag
+40	コマンダー	Commander
+41	ジェネラル	General
+42	騎士隊長	Captain	glossary
+43	融合兵	Fused Troop	glossary
+44	シャドウ	Shadow
+45	ファントム	Phantom
+46	カオスジェリー	Chaos Jelly
+47	ポイズンスライム	Poison Slime
+48	グレムリン	Gremlin
+49	レッサーデーモン	Lesser Demon
+50	ゴーゴン	Gorgon
+51	メデューサ	Medusa
+52	ヘルハウンド	Hellhound
+53	ガルム	Garm
+54	ティンダロス	Tindalos
+55	キメラ	Chimera
+56	スキュラ	Scylla
+57	リベザル	Ribezal
+58	モラクス	Morax
+59	アロケン	Allocen
+60	バラム	Balam
+61	ウジャト	Udjat
+62	ラルヴァ	Larva
+63	クライヴ	Clive
+64	セレニス	Serenis
+65	レイブンルフト	Ravenruft
+66	レイブンルフト	Ravenruft
+67	サヴィオ	Savio
+68	サヴィオ	Savio
+69	クラレンス	Clarence
+70	アルベリック	Alberic
+71	イオン	Ion
+72	スターン	Stern	glossary (Ion's beasts Sonne/Mond/Stern)
+73	ゾネ	Sonne
+74	モーント	Mond
+75	エンディミオン	Endymion
+76	ベルゼバブ	Beelzebub
+77	天竜	Heaven Dragon	glossary Heavenly Dragon is 70 px, the plate 64 (polish.md)
+78	ベルゼバブ	Beelzebub
+79	ロクス	Rocus
+80	アイリーン	Irene
+81	フェイン	Fein
+82	クライヴ	Clive
+83	ルディ	Rudi	glossary: ルディ "Rudi"
+84	ロクス	Rocus
+85	アイリーン	Irene
+86	レイラ	Leyla
+87	セシア	Cecia

@@ -31,7 +31,7 @@ tour adds any screen the sweep can't see (text composed at runtime from glyph st
 | G5 | Small katakana strip | GRPDATA_0057 top-left | small kana glyphs | find use on the tour |
 | G6 | Name-entry keyboard font (two colours) | GRPDATA_0051, 0052 | hiragana + katakana grid (A-Z a-z already present) | the keyboard layout itself is code/table-driven: decide in phase 5 whether to drop the kana pages |
 | G7 | Battle unit name glyph strips | GRPDATA_0458 (katakana + digits), 0459 (kanji 海竜民兵反乱帝国歩騎重士隊長融合天) | glyph strips | probably composes unit labels at runtime; find the user on the battle tour |
-| G8 | Battle unit name plates (88) | GRPDATA `Name_000..087.PIX` (`tools/pix.py`) | enemy and hero names (ウルフ, ホワイトファング, 帝国騎士, フェイン...) | redraw with a small font into 64x12; names from the glossary. Verified format |
+| G8 | Battle unit name plates (88) | GRPDATA `Name_000..087.PIX` (`tools/pix.py`) | enemy and hero names (ウルフ, ホワイトファング, 帝国騎士, フェイン...) | DONE 2026-11-21: `gfx/plates.tsv` (88 rows: 0-80 Name_000..NAME_080, 81-87 Name_B00..B06 heroes) rendered by `tools/plates.py` with fonts/font6 into the build; seen in game (`work/qa/p8/plates`) |
 | G9 | "キャラ劇" title card (character theatre extra) | GRPDATA_0558 (also small UI labels マンイーター / デッドプラント / アイリーン in the mock) | キャラ劇 | redraw |
 | G10 | Album profile text atlas | GRPDATA_1454 | names, jobs (聖職者 魔導士 ...), birthdays (4月24日), heights/weights, homelands (〜王国, 〜の森) | redraw the whole atlas (largest graphics job) |
 | G11 | Spell-effect glyphs | GRPDATA_1494 (KANJI.tim) | six large decorative pseudo-kanji (not real characters) | probably keep (they are effect art); confirm on the tour |

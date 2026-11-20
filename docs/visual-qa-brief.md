@@ -1,4 +1,4 @@
-# Visual-QA reviewer brief - <Game title>
+# Visual-QA reviewer brief - Favorite Dear: Junpaku no Yogensha
 
 You review contact sheets from a translated build's QA tour and give each one a verdict. Read-only on everything
 except your one verdict file: no edits to the repo, no git, no subagents.
@@ -30,7 +30,13 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
-- <game-specific: e.g. "the double cursor in the shop is the original's">
+- battles: white or grey squares under unit sprites and at hit flashes (PCSX-Redux draws the semi-transparent
+  shadow/flash quads that way; the original disc shows the same, `work/qa/jp/battle`);
+- the title logo 純白の預言者 (D5: no official English logo; G1 kept);
+- visit_01.ssb lines like "29-00" (the original's own placeholder ids, JP ２９＿００);
+- tgs_end's blank proof frame (the scene runs).
+Known open graphics rows (an `issue`, but name the row so it is not re-investigated): G10 album profile panel
+(name/job/birthday/homeland in Japanese), G3 status tags, G4 skill banners, G14/G15 FMV captions and staff roll.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:
