@@ -20,7 +20,7 @@ eiev07.02D6	姉さん……どうして……。{wait}{clear}
 eiev07.0304	……私、姉さんを止めなきゃ……。{wait}{clear}		
 eiev07.032C	もし、姉さんが現れそうな時は私に教えて。{wait}{clear}		
 eiev07.035C	お願い。{wait}{clear}		
-eiev07.0368	ＮＵＬＬ		speaker
+eiev07.0368	ＮＵＬＬ	NULL	speaker
 eiev07.0378	《はい。》{n}		
 eiev07.038A	《必ずとは……。》{n}		
 eiev07.03AE	＄＄＄＄＄＄		speaker

@@ -22,7 +22,7 @@ loev18.0360	それにはっきりと気づいた……。{wait}{clear}
 loev18.0386	ずっとともに戦ってきて……{n}おれは……君がいてくれたことに{n}どれだけ助けられたか……{wait}{clear}		
 loev18.03EE	お願いだ……地上に残ってくれないか……{wait}{clear}		
 loev18.041C	おれのそばにこれからもずっと……いて欲しいんだ。{wait}{clear}		
-loev18.0450	ＮＵＬＬ		speaker
+loev18.0450	ＮＵＬＬ	NULL	speaker
 loev18.0460	《はい……》{n}		
 loev18.0474	《すみません……》{n}		
 loev18.048E	＄＄＄＄＄＄		speaker

@@ -50,7 +50,7 @@ Feev01_01.069E	フェイン		speaker
 Feev01_01.06AE	ああ、わかった。{wait}{clear}		
 Feev01_01.06D2	フェイン		speaker
 Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}		
-Feev01_01.072E	ＮＵＬＬ		speaker
+Feev01_01.072E	ＮＵＬＬ	NULL	speaker
 Feev01_01.073E	《どうしても頼みたい》{n}		
 Feev01_01.075C	《わかりました》{n}		
 Feev01_01.077A	＄＄＄＄＄＄		speaker

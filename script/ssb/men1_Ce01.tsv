@@ -5,7 +5,7 @@ men1_Ce01.007A	＄＄＄＄＄＄		speaker
 men1_Ce01.008A	いいえ、それは気にしないでください。{wait}{clear}妖精から話があると聞いて来たのですが、{n}なにかあったのですか？{wait}{clear}		
 men1_Ce01.00F4	セシア		speaker
 men1_Ce01.00FE	いいえ……あの……お話というか……{n}ごめんなさい、天使様。{wait}{clear}妖精さんから、天使様は呼んだら来てくださると{n}聞いたものですから……。{n}少し、お話しがしたくて……。{wait}{clear}		
-men1_Ce01.01A4	ＮＵＬＬ		speaker
+men1_Ce01.01A4	ＮＵＬＬ	NULL	speaker
 men1_Ce01.01B4	《そうだったのですね……。》{n}		
 men1_Ce01.01D8	《いつでも呼んでください。》{n}		
 men1_Ce01.01FC	＄＄＄＄＄＄		speaker

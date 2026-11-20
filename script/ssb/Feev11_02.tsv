@@ -1,7 +1,7 @@
 id	jp	en	notes
 Feev11_02.007E	フェイン		speaker
 Feev11_02.008A	クッ……{n}魔石を奪われディアナ様も……。{wait}{clear}敵に出し抜かれてばかりだ……。{n}俺たちはこのままで{n}敵から世界を守ることができるのか？{wait}{clear}		
-Feev11_02.0110	ＮＵＬＬ		speaker
+Feev11_02.0110	ＮＵＬＬ	NULL	speaker
 Feev11_02.0120	《…………。》{n}		
 Feev11_02.0136	《必ず……》{n}		
 Feev11_02.014A	＄＄＄＄＄＄		speaker

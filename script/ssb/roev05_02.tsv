@@ -37,7 +37,7 @@ roev05_02.05CC	ロクス		speaker
 roev05_02.05D6	言われなくとも、{n}二度と戻るつもりなどない！{wait}{clear}		
 roev05_02.0630	ロクス		speaker
 roev05_02.063A	…………。{wait}{clear}		
-roev05_02.0648	ＮＵＬＬ		speaker
+roev05_02.0648	ＮＵＬＬ	NULL	speaker
 roev05_02.0658	《宝玉とは？》{n}		
 roev05_02.066E	《落ち着いてください。》{n}		
 roev05_02.0694	＄＄＄＄＄＄		speaker

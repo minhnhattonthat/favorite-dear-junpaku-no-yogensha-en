@@ -5,7 +5,7 @@ men2_Cl01.007A	＄＄＄＄＄＄		speaker
 men2_Cl01.008A	いえ、べつに大丈夫です……。{n}あの、なにかお話でも？{wait}{clear}		
 men2_Cl01.00C2	クライヴ		speaker
 men2_Cl01.00CE	ああ……{n}少し時間をもらえないか……？{wait}{clear}		
-men2_Cl01.00F8	ＮＵＬＬ		speaker
+men2_Cl01.00F8	ＮＵＬＬ	NULL	speaker
 men2_Cl01.0108	《ええ……。》{n}		
 men2_Cl01.011E	《もちろんです。》{n}		
 men2_Cl01.0138	＄＄＄＄＄＄		speaker

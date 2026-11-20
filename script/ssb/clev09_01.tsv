@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev09_01.004E	クライヴ		speaker
 clev09_01.005A	＄＄＄＄＄＄、俺はレイブンルフト城へ向かう。{wait}{clear}しばらく、お前の仕事は受けることができない。{wait}{clear}		
-clev09_01.00BA	ＮＵＬＬ		speaker
+clev09_01.00BA	ＮＵＬＬ	NULL	speaker
 clev09_01.00CA	《今は……》{n}		
 clev09_01.00DE	《わかりました》{n}		
 clev09_01.0100	＄＄＄＄＄＄		speaker
@@ -12,7 +12,7 @@ clev09_01.0182	クライヴ		speaker
 clev09_01.018E	俺はやつを追い続けてきた。{n}それ以外のことに興味などない……。{wait}{clear}		
 clev09_01.01E0	＄＄＄＄＄＄		speaker
 clev09_01.01F0	わかりました……{wait}{clear}		
-clev09_01.020C	ＮＵＬＬ		speaker
+clev09_01.020C	ＮＵＬＬ	NULL	speaker
 clev09_01.021C	《必ず帰ってきてください》{n}		
 clev09_01.023E	《ご武運を……》{n}		
 clev09_01.0260	＄＄＄＄＄＄		speaker

@@ -7,7 +7,7 @@ Feev24.00AC	＄＄＄＄＄＄		speaker
 Feev24.00BC	フェイン……お話ししたいことがあるのですが……。{wait}{clear}		
 Feev24.00F0	フェイン		speaker
 Feev24.0100	かまうな……俺に……。{wait}{clear}		
-Feev24.011A	ＮＵＬＬ		speaker
+Feev24.011A	ＮＵＬＬ	NULL	speaker
 Feev24.012A	《このまま立ち去る。》{n}		
 Feev24.0148	《説得する。》{n}		
 Feev24.015E	＄＄＄＄＄＄		speaker
@@ -31,7 +31,7 @@ Feev24.04E4	＄＄＄＄＄＄		speaker
 Feev24.04F4	……わかりました。{wait}{clear}		
 Feev24.0512	フェイン		speaker
 Feev24.051E	＄＄＄＄＄＄……。{wait}{clear}		
-Feev24.0534	ＮＵＬＬ		speaker
+Feev24.0534	ＮＵＬＬ	NULL	speaker
 Feev24.0544	《立ち止まる。》{n}		
 Feev24.055C	《立ち止まらない。》{n}		
 Feev24.057C	フェイン		speaker

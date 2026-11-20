@@ -14,7 +14,7 @@ eiev13_01.02CA	＄＄＄＄＄＄		speaker
 eiev13_01.02DA	そうですか……。{wait}{clear}		
 eiev13_01.02EE	アイリーン		speaker
 eiev13_01.02FC	それから、ロッジっていうのは、{n}ギルドの魔導士たちの家みたいなものね。{n}特にこの六王国にはたくさんのロッジがあるわ。{wait}{clear}その中で、グランドロッジっていうのは、{n}ギルドのマスターたちの頂点にあたる、{n}グランドマスターがいるところよ。{wait}{clear}わかった？{wait}{clear}		
-eiev13_01.03F4	ＮＵＬＬ		speaker
+eiev13_01.03F4	ＮＵＬＬ	NULL	speaker
 eiev13_01.0404	《はい、わかりました。》{n}		
 eiev13_01.0424	《ぜんぜんわかりません。》{n}		
 eiev13_01.044A	＄＄＄＄＄＄		speaker
@@ -27,7 +27,7 @@ eiev13_01.054C	＄＄＄＄＄＄		speaker
 eiev13_01.055C	はい、ありがとうございます。{wait}{clear}		
 eiev13_01.057C	アイリーン		speaker
 eiev13_01.058A	で、今のグランドマスターが{n}おじいちゃんの親友だったんだ。{wait}{clear}ここまで来たから寄ってみようかな……{n}なにか話が聞けるかもしれないし。{wait}{clear}		
-eiev13_01.0612	ＮＵＬＬ		speaker
+eiev13_01.0612	ＮＵＬＬ	NULL	speaker
 eiev13_01.0622	《行ってみたらいいのでは？》{n}		
 eiev13_01.0646	《どちらでもいい。》{n}		
 eiev13_01.0668	＄＄＄＄＄＄		speaker
@@ -48,7 +48,7 @@ eiev13_01.0914	＄＄＄＄＄＄		speaker
 eiev13_01.0924	グランドロッジですか？{wait}{clear}		
 eiev13_01.0946	アイリーン		speaker
 eiev13_01.0954	グランドロッジはギルドをまとめているロッジの中で{n}いちばん重要なところよ。{wait}{clear}今のグランドマスターは{n}おじいちゃんの親友だった人なんだ。{wait}{clear}会いに行ってみようかな……。{wait}{clear}		
-eiev13_01.0A00	ＮＵＬＬ		speaker
+eiev13_01.0A00	ＮＵＬＬ	NULL	speaker
 eiev13_01.0A10	《行ってみたらいいのでは？》{n}		
 eiev13_01.0A34	《どちらでもいい。》{n}		
 eiev13_01.0A56	＄＄＄＄＄＄		speaker

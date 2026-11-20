@@ -16,7 +16,7 @@ feev07_02.01BE	フェイン		speaker
 feev07_02.01CA	そうか……。{n}それならば、しかたがないな。{wait}{clear}じゃあ、気をつけて行くのだぞ。{wait}{clear}		
 feev07_02.024A	フェイン		speaker
 feev07_02.025A	天使の仕事はうまくいっているのか？{wait}{clear}		
-feev07_02.0280	ＮＵＬＬ		speaker
+feev07_02.0280	ＮＵＬＬ	NULL	speaker
 feev07_02.0290	《はい……》{n}		
 feev07_02.02A4	《いえ……》{n}		
 feev07_02.02BC	＄＄＄＄＄＄		speaker

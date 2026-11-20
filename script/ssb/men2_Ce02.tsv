@@ -5,7 +5,7 @@ men2_Ce02.007A	＄＄＄＄＄＄		speaker
 men2_Ce02.008A	どうしました、セシア？{n}なにか話でもあるのですか？{wait}{clear}		
 men2_Ce02.00CC	セシア		speaker
 men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}		
-men2_Ce02.016E	ＮＵＬＬ		speaker
+men2_Ce02.016E	ＮＵＬＬ	NULL	speaker
 men2_Ce02.017E	《なにか困ったことでも？》{n}		
 men2_Ce02.01A0	《ええ、もちろん大丈夫！》{n}		
 men2_Ce02.01C2	＄＄＄＄＄＄		speaker

@@ -28,52 +28,52 @@ prologue.073A	あと、ひとつ注意しなければならないことが{n}あ
 prologue.0776	今回あなたが降りる世界「アルカヤ」は{n}あなたが過去に降りた「インフォス」ほど{n}天界との結びつきが強くありません。{wait}{clear}		
 prologue.07EE	なので天使としての力もより限られてしまいます。{n}あなたはその点を心に留めて行動しなさい。{wait}{clear}		
 prologue.084E	今回も妖精界から協力を仰いでいます。{wait}{clear}		
-prologue.0876	ＮＵＬＬ		speaker
+prologue.0876	ＮＵＬＬ	NULL	speaker
 prologue.08CA	変数に間違った値が入っています！！！		
-prologue.0904	ローザ		speaker
+prologue.0904	ローザ	Rosa	speaker
 prologue.091A	はじめまして、天使様、ローザと申します。{wait}{clear}		
 prologue.094A	天使様のお役に立てるよう、{n}一生懸命がんばりますので、{n}よろしくお願いいたします。{wait}{clear}		
 prologue.09A8	お久しぶりです、天使様。{n}また一緒にお仕事ができるなんて光栄です。{wait}{clear}		
 prologue.09F2	今度もがんばりますので、{n}よろしくお願いいたします。{wait}{clear}		
-prologue.0A2A	ＮＵＬＬ		speaker
-prologue.0A54	フロリンダ		speaker
+prologue.0A2A	ＮＵＬＬ	NULL	speaker
+prologue.0A54	フロリンダ	Florinda	speaker
 prologue.0A6E	天使様ぁ、はじめまして。フロリンダですぅ。{wait}{clear}		
 prologue.0AA0	フロリン、一生懸命がんばりますので、{n}よろしくお願いします！{wait}{clear}		
 prologue.0AE8	わぁい！　天使様、会いたかったですぅ。{wait}{clear}		
 prologue.0B16	また一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}		
 prologue.0B54	フロリン、天使様のために、{n}いっぱい、いっぱい、がんばります！{wait}{clear}		
-prologue.0B96	ＮＵＬＬ		speaker
-prologue.0BC0	シェリー		speaker
+prologue.0B96	ＮＵＬＬ	NULL	speaker
+prologue.0BC0	シェリー	Shelly	speaker
 prologue.0BD8	はじめまして、天使様。シェリーです。{wait}{clear}		
 prologue.0C04	天使様と勇者様のサポートとして{n}がんばりますので、よろしくお願いします。{wait}{clear}		
 prologue.0C58	天使様！　お久しぶりです！　お元気でした？{wait}{clear}		
 prologue.0C8A	また一緒にお仕事できるなんて、{n}すっごくうれしいです。{wait}{clear}		
 prologue.0CC8	よろしくお願いしますね！{wait}{clear}		
-prologue.0CE4	ＮＵＬＬ		speaker
+prologue.0CE4	ＮＵＬＬ	NULL	speaker
 prologue.0D0E	リリィ		speaker
 prologue.0D24	天使様、はじめまして。リリィと申します。{wait}{clear}		
 prologue.0D54	一生懸命、天使様のサポートを{n}させていただきたいと思いますので、{n}よろしくお願いいたします。{wait}{clear}		
 prologue.0DBC	天使様、お久しぶりです。{wait}{clear}		
 prologue.0DDC	また、一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}		
 prologue.0E1C	天使様のために、一生懸命がんばりますね。{wait}{clear}		
-prologue.0E48	ＮＵＬＬ		speaker
+prologue.0E48	ＮＵＬＬ	NULL	speaker
 prologue.0E72	リンクス		speaker
 prologue.0E82	はじめまして！　天使様。{n}ボク、リンクスです。{wait}{clear}		
 prologue.0EB8	絶対に天使様のお役に立てるよう、がんばります！{n}よろしくお願いします！{wait}{clear}		
-prologue.0F02	ＮＵＬＬ		speaker
+prologue.0F02	ＮＵＬＬ	NULL	speaker
 prologue.0F2C	アクイラ		speaker
 prologue.0F3C	あの、天使様、はじめまして。{n}私、アクイラといいます。{wait}{clear}		
 prologue.0F7A	天使様と勇者様のためにがんばりますので、{n}よろしくお願いします。{wait}{clear}		
-prologue.0FBE	ＮＵＬＬ		speaker
+prologue.0FBE	ＮＵＬＬ	NULL	speaker
 prologue.0FE8	シータス		speaker
 prologue.0FF8	天使様、はじめまして。シータスです。{wait}{clear}		
 prologue.1024	天使様のお手伝いができるなんて光栄です。{n}はりきって、がんばらせてもらいます。{wait}{clear}		
-prologue.1076	ＮＵＬＬ		speaker
+prologue.1076	ＮＵＬＬ	NULL	speaker
 prologue.10A0	レーパス		speaker
 prologue.10B0	はじめまして、天使様。レーパスと申します。{wait}{clear}		
 prologue.10E2	天使様と勇者様のサポートができるなんて、{n}大変、光栄に思います。{wait}{clear}		
 prologue.112A	しっかりつとめさせていただきたいと{n}思いますので、よろしくお願いいたします。{wait}{clear}		
-prologue.117A	ＮＵＬＬ		speaker
+prologue.117A	ＮＵＬＬ	NULL	speaker
 prologue.11A4	ラファエル		speaker
 prologue.11C6	彼女はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		
 prologue.1212	彼はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		

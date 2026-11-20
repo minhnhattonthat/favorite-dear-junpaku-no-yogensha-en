@@ -5,7 +5,7 @@ men1_Ce02.007A	＄＄＄＄＄＄		speaker
 men1_Ce02.008A	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men1_Ce02.00C8	セシア		speaker
 men1_Ce02.00D2	いえ、そうではないんです。{n}ただ、天使様と少し話ができればと思って……。{n}ご迷惑でしたでしょうか？{wait}{clear}		
-men1_Ce02.0138	ＮＵＬＬ		speaker
+men1_Ce02.0138	ＮＵＬＬ	NULL	speaker
 men1_Ce02.0148	《大丈夫ですよ。》{n}		
 men1_Ce02.0162	《時間があまり……。》{n}		
 men1_Ce02.0180	＄＄＄＄＄＄		speaker

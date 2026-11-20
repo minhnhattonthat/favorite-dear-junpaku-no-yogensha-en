@@ -8,7 +8,7 @@ eiev09.00DE	知ってる……。{n}森を守る聖母の伝説があるとこ�
 eiev09.0148	誰！？{wait}{clear}		
 eiev09.0188	アイリーン		speaker
 eiev09.0196	おじいちゃんが言っていた通り……{n}魔石はここにあったのね。{wait}{clear}		
-eiev09.01F0	ＮＵＬＬ		speaker
+eiev09.01F0	ＮＵＬＬ	NULL	speaker
 eiev09.0200	《聖母？》{n}		
 eiev09.0212	《魔石？》{n}		
 eiev09.0228	＄＄＄＄＄＄		speaker

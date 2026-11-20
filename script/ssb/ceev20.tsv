@@ -10,7 +10,7 @@ ceev20.0170	セシア		speaker
 ceev20.017A	これ以上、あなたの思い通りにはさせません！{wait}{clear}		
 ceev20.0204	＄＄＄＄＄＄		speaker
 ceev20.0214	塔が崩れます、セシア！{wait}{clear}		
-ceev20.0234	ＮＵＬＬ		speaker
+ceev20.0234	ＮＵＬＬ	NULL	speaker
 ceev20.0240	ゴゴゴゴゴ……{wait}{clear}		
 ceev20.0282	セシア		speaker
 ceev20.028C	天使様……あのとき……{n}あの最後のとき……彼女はわざと……。{wait}{clear}どうして……。{wait}{clear}		

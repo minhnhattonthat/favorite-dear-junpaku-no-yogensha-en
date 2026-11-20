@@ -5,7 +5,7 @@ men2_Ei01.0078	＄＄＄＄＄＄		speaker
 men2_Ei01.0088	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}		
 men2_Ei01.00DE	アイリーン		speaker
 men2_Ei01.00EC	ううん、違う……そんなことじゃないの。{n}ただ、ちょっと話したいと思っただけ……。{wait}{clear}		
-men2_Ei01.0140	ＮＵＬＬ		speaker
+men2_Ei01.0140	ＮＵＬＬ	NULL	speaker
 men2_Ei01.0150	《アイリーンも……。》{n}		
 men2_Ei01.016E	《そうだったのですね。》{n}		
 men2_Ei01.018E	＄＄＄＄＄＄		speaker

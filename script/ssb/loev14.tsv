@@ -10,7 +10,7 @@ loev14.0292	ルディエール		speaker
 loev14.02A2	だめだ……おれ一人じゃ、どうにもならない……{n}ここは退いた方がいい、＄＄＄＄＄＄、行こう！{wait}{clear}		
 loev14.0328	ルディエール		speaker
 loev14.0338	……結局なにもできなかった。{wait}{clear}今の王国の軍隊は役に立たない……。{n}兄さんが心配していた通りになっちまった。{wait}{clear}どうしたらいいんだ……。{wait}{clear}		
-loev14.03C4	ＮＵＬＬ		speaker
+loev14.03C4	ＮＵＬＬ	NULL	speaker
 loev14.03D4	《本当の敵を探しましょう。》{n}		
 loev14.03F8	《なにか方法を考えましょう。》{n}		
 loev14.0428	＄＄＄＄＄＄		speaker

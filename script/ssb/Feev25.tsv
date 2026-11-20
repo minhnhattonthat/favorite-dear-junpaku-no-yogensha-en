@@ -1,7 +1,7 @@
 id	jp	en	notes
 Feev25.005C	クラレンス		speaker
 Feev25.006A	ほら、天使様、取りに来な。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
-Feev25.00A8	ＮＵＬＬ		speaker
+Feev25.00A8	ＮＵＬＬ	NULL	speaker
 Feev25.00B8	《魔石を取る》{n}		
 Feev25.00DC	フェイン		speaker
 Feev25.00EC	大丈夫か！　＄＄＄＄＄＄！{wait}{clear}		

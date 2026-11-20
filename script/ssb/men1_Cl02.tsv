@@ -5,7 +5,7 @@ men1_Cl02.007A	＄＄＄＄＄＄		speaker
 men1_Cl02.008A	いいえ。{n}なにか用ですか、クライヴ？{wait}{clear}		
 men1_Cl02.00B2	クライヴ		speaker
 men1_Cl02.00BE	いや、少し……話したかったのだが……。{n}{wait}{clear}		
-men1_Cl02.00EA	ＮＵＬＬ		speaker
+men1_Cl02.00EA	ＮＵＬＬ	NULL	speaker
 men1_Cl02.00FA	《ええ、かまいません。》{n}		
 men1_Cl02.011A	《ちょっと時間が……。》{n}		
 men1_Cl02.013A	＄＄＄＄＄＄		speaker

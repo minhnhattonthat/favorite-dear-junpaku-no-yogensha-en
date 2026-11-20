@@ -5,7 +5,7 @@ men2_Fe02.0082	＄＄＄＄＄＄		speaker
 men2_Fe02.0092	いいえ……それはかまいません……。{n}なにかお話があるのでしょう？{wait}{clear}		
 men2_Fe02.00D6	フェイン		speaker
 men2_Fe02.00E2	まあ、そうだな……{n}話と言うほどのことではないのだが……{n}少しいいか？{wait}{clear}		
-men2_Fe02.012C	ＮＵＬＬ		speaker
+men2_Fe02.012C	ＮＵＬＬ	NULL	speaker
 men2_Fe02.013C	《なにか悩み事でも？》{n}		
 men2_Fe02.015A	《ええ、私でよければ……。》{n}		
 men2_Fe02.017E	＄＄＄＄＄＄		speaker

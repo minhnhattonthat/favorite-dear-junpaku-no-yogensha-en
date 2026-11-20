@@ -9,7 +9,7 @@ Feev22_01.00D0	フェイン		speaker
 Feev22_01.00DC	手紙？{wait}{clear}アイリーンからか……？{wait}{clear}		
 Feev22_01.011E	フェイン		speaker
 Feev22_01.012A	…………。{wait}{clear}		
-Feev22_01.0138	ＮＵＬＬ		speaker
+Feev22_01.0138	ＮＵＬＬ	NULL	speaker
 Feev22_01.0148	《アイリーンからですよね……？》{n}		
 Feev22_01.0170	《なんと書いてあったのですか？》{n}		
 Feev22_01.0198	＄＄＄＄＄＄		speaker

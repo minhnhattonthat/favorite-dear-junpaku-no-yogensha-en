@@ -1,7 +1,7 @@
 id	jp	en	notes
 ceev19_01.0060	クラレンス		speaker
 ceev19_01.006E	ほら、天使様、とりにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
-ceev19_01.00AC	ＮＵＬＬ		speaker
+ceev19_01.00AC	ＮＵＬＬ	NULL	speaker
 ceev19_01.00BC	《魔石を受け取る。》{n}		
 ceev19_01.00E6	セシア		speaker
 ceev19_01.00F4	天使様！{wait}{clear}		

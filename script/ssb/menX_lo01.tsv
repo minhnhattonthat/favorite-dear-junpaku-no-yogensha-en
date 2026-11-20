@@ -7,7 +7,7 @@ menX_lo01.0110	ルディエール		speaker
 menX_lo01.0120	しつこいな……。{n}おれにかまわないでくれよ。{wait}{clear}		
 menX_lo01.0154	ルディエール		speaker
 menX_lo01.0164	＄＄＄＄＄＄の気持ちもわかるけど……{n}おれの好きにさせておいてくれないか？{wait}{clear}悪いな……。{wait}{clear}		
-menX_lo01.01CC	ＮＵＬＬ		speaker
+menX_lo01.01CC	ＮＵＬＬ	NULL	speaker
 menX_lo01.01D8	ルディに同行しますか？{n}		
 menX_lo01.01F4	　《はい》{n}		
 menX_lo01.0206	　《いいえ》		

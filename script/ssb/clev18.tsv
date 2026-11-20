@@ -30,7 +30,7 @@ clev18.04D0	それに俺は君にできることなどなにもない……{wait
 clev18.0502	でも言わせてくれ……{wait}{clear}		
 clev18.051E	もし許されるのなら、君に……{wait}{clear}		
 clev18.0542	ずっとそばにいて欲しい……{wait}{clear}		
-clev18.0560	ＮＵＬＬ		speaker
+clev18.0560	ＮＵＬＬ	NULL	speaker
 clev18.0570	《はい……》{n}		
 clev18.0584	《すみません……》{n}		
 clev18.059E	＄＄＄＄＄＄		speaker

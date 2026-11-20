@@ -58,7 +58,7 @@ loev01_01.0770	たく……。手の込んだ冗談だぜ……{wait}{clear}
 loev01_01.0798	ふわあ……。{wait}{clear}		
 loev01_01.07B8	ルディエール		speaker
 loev01_01.07C8	はあ？{wait}{clear}……なあ、またにしようぜ、冗談は。{wait}{clear}おれは寝るぜ……。{wait}{clear}		
-loev01_01.0836	ＮＵＬＬ		speaker
+loev01_01.0836	ＮＵＬＬ	NULL	speaker
 loev01_01.0846	《もう一度起こす》{n}		
 loev01_01.0860	《また今度にする》		
 loev01_01.0898	ルディエール		speaker

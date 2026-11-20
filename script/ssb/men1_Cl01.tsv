@@ -5,7 +5,7 @@ men1_Cl01.007A	＄＄＄＄＄＄		speaker
 men1_Cl01.008A	いえ……大丈夫です。{n}あの、妖精からなにか話があると聞いたので……。{wait}{clear}		
 men1_Cl01.00D2	クライヴ		speaker
 men1_Cl01.00DE	いや……{n}天使というものがどういうものなのか、{n}悪いが試させてもらった……。{wait}{clear}		
-men1_Cl01.012E	ＮＵＬＬ		speaker
+men1_Cl01.012E	ＮＵＬＬ	NULL	speaker
 men1_Cl01.013E	《しかたがないですね……。》{n}		
 men1_Cl01.0162	《そうだったのですか……。》{n}		
 men1_Cl01.0186	＄＄＄＄＄＄		speaker

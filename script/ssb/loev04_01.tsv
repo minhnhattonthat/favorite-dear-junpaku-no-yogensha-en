@@ -3,14 +3,14 @@ loev04_01.0052	ルディエール		speaker
 loev04_01.0066	よう、＄＄＄＄＄＄。{n}急に呼び出して悪いな。{wait}{clear}		
 loev04_01.009A	あのさ、兄さんから手紙が届いて、{n}呼び出されたんだ。{n}王宮に。{wait}{clear}		
 loev04_01.00E0	行ってもいいか？{wait}{clear}		
-loev04_01.00F4	ＮＵＬＬ		speaker
+loev04_01.00F4	ＮＵＬＬ	NULL	speaker
 loev04_01.0104	《かまわない》{n}		
 loev04_01.011A	《今は……》{n}		
 loev04_01.012E	＄＄＄＄＄＄		speaker
 loev04_01.013E	ええ、かまいませんよ。{wait}{clear}		
 loev04_01.0164	ルディエール		speaker
 loev04_01.0178	いいのか？　悪いな。{wait}{clear}		
-loev04_01.0190	ＮＵＬＬ		speaker
+loev04_01.0190	ＮＵＬＬ	NULL	speaker
 loev04_01.01A0	《なんと仰っているのですか？》{n}		
 loev04_01.01C6	《どんな方です？》{n}		
 loev04_01.01E4	＄＄＄＄＄＄		speaker

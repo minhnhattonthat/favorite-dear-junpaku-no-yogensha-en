@@ -9,7 +9,7 @@ men3_Lo03.0112	＄＄＄＄＄＄		speaker
 men3_Lo03.0122	なにかあったのですか？{wait}{clear}		
 men3_Lo03.013C	ルディエール		speaker
 men3_Lo03.014C	いや、そうじゃないよ。{n}この象牙のナイフを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
-men3_Lo03.01CA	ＮＵＬＬ		speaker
+men3_Lo03.01CA	ＮＵＬＬ	NULL	speaker
 men3_Lo03.01DA	《ありがとうございます。》{n}		
 men3_Lo03.01FC	《戒律があるので……。》{n}		
 men3_Lo03.021C	＄＄＄＄＄＄		speaker

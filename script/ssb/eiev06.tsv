@@ -3,7 +3,7 @@ eiev06.0150	アイリーン		speaker
 eiev06.015E	なんで……こんなことを……{wait}{clear}		
 eiev06.0184	アイリーン		speaker
 eiev06.0192	関係ない人たちを巻き込む戦いなんて……{n}ひどすぎるよ……こんなの……。{wait}{clear}		
-eiev06.01DC	ＮＵＬＬ		speaker
+eiev06.01DC	ＮＵＬＬ	NULL	speaker
 eiev06.01EC	《帝国を止めましょう。》{n}		
 eiev06.020C	《今は感傷に流されず……》{n}		
 eiev06.0238	＄＄＄＄＄＄		speaker
@@ -13,7 +13,7 @@ eiev06.0296	ひどい言い方……{n}だって人が死んだんだよ……�
 eiev06.02D4	私、人間なんだよ！{n}たくさんの人が傷ついてるのに{n}平気な顔なんかできないよ！{wait}{clear}		
 eiev06.0338	アイリーン		speaker
 eiev06.0346	ウェスタを見つけてくれた、あの子……{n}あの家族……みつからなかったね……{n}無事に逃げていればいいけど……。{wait}{clear}こんなの……ひどいよ。{wait}{clear}		
-eiev06.03CE	ＮＵＬＬ		speaker
+eiev06.03CE	ＮＵＬＬ	NULL	speaker
 eiev06.03DE	《帝国を止めましょう。》{n}		
 eiev06.03FE	《きっと大丈夫ですよ。》{n}		
 eiev06.0428	＄＄＄＄＄＄		speaker

@@ -5,7 +5,7 @@ men3_Ei04.0082	＄＄＄＄＄＄		speaker
 men3_Ei04.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
 men3_Ei04.00CC	アイリーン		speaker
 men3_Ei04.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、{n}この古い腕輪をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
-men3_Ei04.0170	ＮＵＬＬ		speaker
+men3_Ei04.0170	ＮＵＬＬ	NULL	speaker
 men3_Ei04.0180	《ありがとうございます。》{n}		
 men3_Ei04.01A2	《戒律があるので……。》{n}		
 men3_Ei04.01C2	＄＄＄＄＄＄		speaker

@@ -5,7 +5,7 @@ eiev23_01.00B2	＄＄＄＄＄＄		speaker
 eiev23_01.00C2	はい……戦いの中で……。{wait}{clear}		
 eiev23_01.00DE	アイリーン		speaker
 eiev23_01.00EC	なんで……フェイン……{wait}{clear}		
-eiev23_01.0106	ＮＵＬＬ		speaker
+eiev23_01.0106	ＮＵＬＬ	NULL	speaker
 eiev23_01.0116	《私の力が足りなかった……》{n}		
 eiev23_01.013A	《どうしようもなかった……》{n}		
 eiev23_01.0168	＄＄＄＄＄＄		speaker

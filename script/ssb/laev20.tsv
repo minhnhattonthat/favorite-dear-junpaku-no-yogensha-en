@@ -10,7 +10,7 @@ laev20.0172	レイラ		speaker
 laev20.017C	これ以上、あなたの思い通りにはさない！{wait}{clear}		
 laev20.01FA	＄＄＄＄＄＄		speaker
 laev20.020A	塔が崩れます、レイラ！{wait}{clear}		
-laev20.022A	ＮＵＬＬ		speaker
+laev20.022A	ＮＵＬＬ	NULL	speaker
 laev20.0236	ゴゴゴゴゴ……{wait}{clear}		
 laev20.0272	レイラ		speaker
 laev20.027C	＄＄＄＄＄＄……あのとき……{n}セレニスは、わざと私の剣を受けたわ……。{wait}{clear}なぜ……？{wait}{clear}		

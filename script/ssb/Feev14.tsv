@@ -5,7 +5,7 @@ Feev14.009E	フェイン		speaker
 Feev14.00AE	……変だな……。{wait}{clear}		
 Feev14.00C6	この森の様子、雰囲気がおかしい……{wait}{clear}		
 Feev14.00F0	感じないか？{wait}{clear}		
-Feev14.0100	ＮＵＬＬ		speaker
+Feev14.0100	ＮＵＬＬ	NULL	speaker
 Feev14.0110	《感じる》{n}		
 Feev14.0122	《感じない》{n}		
 Feev14.0136	フェイン		speaker
@@ -28,7 +28,7 @@ Feev14.037E	そうだな……{n}まわりを歩いてみよう。{n}術のほ�
 Feev14.03F4	フェイン		speaker
 Feev14.0404	一度だけ……{n}この術をジグが使っているのをみたことがある。{wait}{clear}		
 Feev14.0446	まだ、俺がジグについてまもない頃だ……。{wait}{clear}		
-Feev14.0472	ＮＵＬＬ		speaker
+Feev14.0472	ＮＵＬＬ	NULL	speaker
 Feev14.0482	《ジグの話を聞く》{n}		
 Feev14.049C	《幼い頃の話を聞く》{n}		
 Feev14.04C4	＄＄＄＄＄＄		speaker

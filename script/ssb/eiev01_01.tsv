@@ -66,7 +66,7 @@ eiev01_01.08FA	アイリーン		speaker
 eiev01_01.090C	まちなさい、こらあ！！{wait}{clear}		
 eiev01_01.0942	アイリーン		speaker
 eiev01_01.0950	……いやよ。{wait}{clear}私、そんなにヒマじゃないの。{wait}{clear}		
-eiev01_01.0980	ＮＵＬＬ		speaker
+eiev01_01.0980	ＮＵＬＬ	NULL	speaker
 eiev01_01.0990	《どうしても頼みたい》{n}		
 eiev01_01.09AE	《また来ます》{n}		
 eiev01_01.09CA	＄＄＄＄＄＄		speaker

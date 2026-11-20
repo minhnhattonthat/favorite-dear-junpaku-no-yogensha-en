@@ -5,7 +5,7 @@ men2_Lo02.007A	＄＄＄＄＄＄		speaker
 men2_Lo02.008A	あ、ルディ……！{n}なにかお話しでもあるのですか？{wait}{clear}		
 men2_Lo02.00BE	ルディエール		speaker
 men2_Lo02.00CE	ああ、用がなかったら呼ばないさ。{n}＄＄＄＄＄＄は、いつも忙しそうだろうからな。{wait}{clear}少しつきあってもらってもいいか？{wait}{clear}		
-men2_Lo02.0144	ＮＵＬＬ		speaker
+men2_Lo02.0144	ＮＵＬＬ	NULL	speaker
 men2_Lo02.0154	《悩み事でもあるのですか？》{n}		
 men2_Lo02.0178	《ええ、私も……。》{n}		
 men2_Lo02.0194	＄＄＄＄＄＄		speaker

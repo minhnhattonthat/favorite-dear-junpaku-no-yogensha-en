@@ -5,7 +5,7 @@ men2_La01.0074	＄＄＄＄＄＄		speaker
 men2_La01.0084	いいえ、そんなことは気にしないでください。{n}ところで、なにかあったのですか？　レイラ？{wait}{clear}		
 men2_La01.00EA	レイラ		speaker
 men2_La01.00F4	いえ、なにかがあったわけじゃないの。{n}ただ、＄＄＄＄＄＄と{n}話したいと思っただけ……。{wait}{clear}		
-men2_La01.014E	ＮＵＬＬ		speaker
+men2_La01.014E	ＮＵＬＬ	NULL	speaker
 men2_La01.015E	《そうですか……。》{n}		
 men2_La01.017A	《おつきあいしますよ。》{n}		
 men2_La01.019A	＄＄＄＄＄＄		speaker

@@ -9,7 +9,7 @@ men3_Lo01.0114	＄＄＄＄＄＄		speaker
 men3_Lo01.0124	なにかあったのですか？{wait}{clear}		
 men3_Lo01.013E	ルディエール		speaker
 men3_Lo01.014E	いや、そうじゃないよ。{n}このシルクのハンカチを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
-men3_Lo01.01D0	ＮＵＬＬ		speaker
+men3_Lo01.01D0	ＮＵＬＬ	NULL	speaker
 men3_Lo01.01E0	《ありがとうございます。》{n}		
 men3_Lo01.0202	《戒律があるので……。》{n}		
 men3_Lo01.0222	＄＄＄＄＄＄		speaker

@@ -7,7 +7,7 @@ eiev16.0080	アイリーン		speaker
 eiev16.0092	魔法が解けたみたい……{wait}{clear}		
 eiev16.00B0	なんでだろうね……。{wait}{clear}		
 eiev16.00CC	ねえ……＄＄＄＄＄＄。{n}私、お姉ちゃんに似てる？{wait}{clear}		
-eiev16.0100	ＮＵＬＬ		speaker
+eiev16.0100	ＮＵＬＬ	NULL	speaker
 eiev16.0110	《ええ……》{n}		
 eiev16.0124	《いいえ……》{n}		
 eiev16.0144	＄＄＄＄＄＄		speaker
@@ -38,7 +38,7 @@ eiev16.0450	アイリーン		speaker
 eiev16.0462	そうなんだ……。{wait}{clear}		
 eiev16.047A	…………。{wait}{clear}		
 eiev16.048C	絶対に残れないの？{wait}{clear}		
-eiev16.04A2	ＮＵＬＬ		speaker
+eiev16.04A2	ＮＵＬＬ	NULL	speaker
 eiev16.04B2	《はい……。》{n}		
 eiev16.04C8	《いいえ……。》{n}		
 eiev16.04E4	＄＄＄＄＄＄		speaker

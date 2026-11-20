@@ -5,7 +5,7 @@ men3_Ro03.00A4	＄＄＄＄＄＄		speaker
 men3_Ro03.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
 men3_Ro03.00D8	ロクス		speaker
 men3_Ro03.00E2	いや、べつになにもないよ。{n}ただ、この年代物のワインを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
-men3_Ro03.014A	ＮＵＬＬ		speaker
+men3_Ro03.014A	ＮＵＬＬ	NULL	speaker
 men3_Ro03.015A	《ありがとうございます。》{n}		
 men3_Ro03.017C	《戒律があるので……。》{n}		
 men3_Ro03.019C	＄＄＄＄＄＄		speaker

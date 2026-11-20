@@ -5,7 +5,7 @@ men3_Ce01.007A	＄＄＄＄＄＄		speaker
 men3_Ce01.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}		
 men3_Ce01.00C4	セシア		speaker
 men3_Ce01.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}ハシバミの実なんですけど、{n}受け取っていただけますか？{wait}{clear}		
-men3_Ce01.014E	ＮＵＬＬ		speaker
+men3_Ce01.014E	ＮＵＬＬ	NULL	speaker
 men3_Ce01.015E	《ありがとうございます。》{n}		
 men3_Ce01.0180	《戒律があるので……。》{n}		
 men3_Ce01.01A0	＄＄＄＄＄＄		speaker

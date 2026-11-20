@@ -7,7 +7,7 @@ ceev02.009C	セシア		speaker
 ceev02.00A6	あ、いえ……{n}こんな大きな街を見るのは、はじめてで……。{wait}{clear}		
 ceev02.00F0	セシア		speaker
 ceev02.00FA	すごいですね。{n}村の様子とはまったく違います。{n}こんなに大きな建物があって……。{wait}{clear}天使様、もっといろいろなところを{n}見てみたいのですが、いいですか？{wait}{clear}		
-ceev02.0194	ＮＵＬＬ		speaker
+ceev02.0194	ＮＵＬＬ	NULL	speaker
 ceev02.01A4	《先を急ぎませんか？》{n}		
 ceev02.01C2	《ええ、かまいません。》{n}		
 ceev02.01E8	＄＄＄＄＄＄		speaker

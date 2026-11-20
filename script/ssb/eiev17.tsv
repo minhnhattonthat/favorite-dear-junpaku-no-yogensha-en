@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev17.0056	アイリーン		speaker
 eiev17.0064	ねえ、買い物行かない？　買い物！{n}こんなきれいな街にきてなにもしないで帰るなんて{n}つまんないでしょ。{wait}{clear}ひとりで行くのもつまんないし、つき合ってよ。{wait}{clear}		
-eiev17.00FC	ＮＵＬＬ		speaker
+eiev17.00FC	ＮＵＬＬ	NULL	speaker
 eiev17.010C	《つき合えない》{n}		
 eiev17.0124	《つき合う》{n}		
 eiev17.013C	＄＄＄＄＄＄		speaker
@@ -21,7 +21,7 @@ eiev17.0374	アイリーン		speaker
 eiev17.0382	みてみて、いいカンジじゃない。{wait}{clear}これどう？　かわいくない？{n}買っちゃおうかな……。{n}ね、いいと思うでしょ。{wait}{clear}		
 eiev17.0414	アイリーン		speaker
 eiev17.0422	ふふ、楽しいね。{wait}{clear}女同士でこうやってさ。{n}どうでもいい話して、買い物して回って……{wait}{clear}		
-eiev17.047A	ＮＵＬＬ		speaker
+eiev17.047A	ＮＵＬＬ	NULL	speaker
 eiev17.048A	《楽しいですね》{n}		
 eiev17.04A2	《つとめが気になる》{n}		
 eiev17.04C8	＄＄＄＄＄＄		speaker

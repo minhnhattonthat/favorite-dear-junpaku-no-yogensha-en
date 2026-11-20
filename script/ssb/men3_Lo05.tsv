@@ -9,7 +9,7 @@ men3_Lo05.0114	＄＄＄＄＄＄		speaker
 men3_Lo05.0124	なにかあったのですか？{wait}{clear}		
 men3_Lo05.013E	ルディエール		speaker
 men3_Lo05.014E	いや、そうじゃないよ。{n}この魔除けのクリスを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
-men3_Lo05.01CE	ＮＵＬＬ		speaker
+men3_Lo05.01CE	ＮＵＬＬ	NULL	speaker
 men3_Lo05.01DE	《ありがとうございます。》{n}		
 men3_Lo05.0200	《戒律があるので……。》{n}		
 men3_Lo05.0220	＄＄＄＄＄＄		speaker

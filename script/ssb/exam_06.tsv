@@ -3,27 +3,27 @@ exam_06.0046	クラレンス		speaker
 exam_06.0054	……なあ、お前は勝負の時、{n}何を信じる？{wait}{clear}		
 exam_06.0080	ロクス		speaker
 exam_06.008A	さあな……強いて言えば自分の腕か。{n}いや運か……。{wait}{clear}		
-exam_06.00C8	ＮＵＬＬ		speaker
+exam_06.00C8	ＮＵＬＬ	NULL	speaker
 exam_06.00F2	アイリーン		speaker
 exam_06.0100	ウェスタ！{wait}{clear}届けて……彼に……。{wait}{clear}		
-exam_06.012E	ＮＵＬＬ		speaker
+exam_06.012E	ＮＵＬＬ	NULL	speaker
 exam_06.0158	ルディエール		speaker
 exam_06.0168	きっと伝説を利用して{n}自分の欲望を果たそうと{n}しているに違いない。{wait}{clear}		
-exam_06.01B6	ＮＵＬＬ		speaker
+exam_06.01B6	ＮＵＬＬ	NULL	speaker
 exam_06.01E0	セシア		speaker
 exam_06.01EA	大丈夫、もう平気よ、{wait}{clear}		
 exam_06.0204	イオン		speaker
 exam_06.020E	…………。{wait}{clear}		
-exam_06.0224	ＮＵＬＬ		speaker
+exam_06.0224	ＮＵＬＬ	NULL	speaker
 exam_06.024E	レイラ		speaker
 exam_06.0258	…………。{wait}{clear}		
-exam_06.026A	ＮＵＬＬ		speaker
+exam_06.026A	ＮＵＬＬ	NULL	speaker
 exam_06.0294	ルディエール		speaker
 exam_06.02A4	そんなばかな……。{wait}{clear}		
-exam_06.02C2	ＮＵＬＬ		speaker
+exam_06.02C2	ＮＵＬＬ	NULL	speaker
 exam_06.02E0	クライヴ		speaker
 exam_06.02EC	クッ……{wait}{clear}		
-exam_06.0300	ＮＵＬＬ		speaker
+exam_06.0300	ＮＵＬＬ	NULL	speaker
 exam_06.032A	フェイン		speaker
 exam_06.0336	クソ！！！{n}なんてことだ！！{wait}{clear}やつらめ……{wait}{clear}		
-exam_06.036E	ＮＵＬＬ		speaker
+exam_06.036E	ＮＵＬＬ	NULL	speaker

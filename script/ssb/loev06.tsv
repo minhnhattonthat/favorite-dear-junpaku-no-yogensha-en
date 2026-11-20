@@ -29,7 +29,7 @@ loev06.05D6	＄＄＄＄＄＄		speaker
 loev06.05E6	お疲れのようですね。{wait}{clear}		
 loev06.060C	ルディエール		speaker
 loev06.061C	まあね。{n}どたばたとなれないことをやったからな。{wait}{clear}		
-loev06.0650	ＮＵＬＬ		speaker
+loev06.0650	ＮＵＬＬ	NULL	speaker
 loev06.0660	《また、依頼を……》{n}		
 loev06.067C	《心配ですか？》{n}		
 loev06.069E	＄＄＄＄＄＄		speaker

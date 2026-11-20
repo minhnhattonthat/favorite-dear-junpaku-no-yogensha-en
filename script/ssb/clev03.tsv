@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev03.003A	＄＄＄＄＄＄		speaker
 clev03.004A	……クライヴ、いないのですか……？{wait}{clear}		
-clev03.0094	ＮＵＬＬ		speaker
+clev03.0094	ＮＵＬＬ	NULL	speaker
 clev03.00A4	《そっと帰る。》{n}		
 clev03.00BC	《起こす。》{n}		
 clev03.00D4	＄＄＄＄＄＄		speaker

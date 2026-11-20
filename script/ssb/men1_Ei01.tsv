@@ -5,7 +5,7 @@ men1_Ei01.0078	＄＄＄＄＄＄		speaker
 men1_Ei01.0088	妖精から話があると聞いたのですが、{n}なにかあったのですか？　アイリーン？{wait}{clear}		
 men1_Ei01.00D4	アイリーン		speaker
 men1_Ei01.00E2	うん……。{n}妖精が、＄＄＄＄＄＄は呼んだら来るって{n}言ってたから、本当かどうか試してみたかったの。{wait}{clear}		
-men1_Ei01.0148	ＮＵＬＬ		speaker
+men1_Ei01.0148	ＮＵＬＬ	NULL	speaker
 men1_Ei01.0158	《そうだったのですか……。》{n}		
 men1_Ei01.017C	《これで信じてもらえますよね？》{n}		
 men1_Ei01.01A4	＄＄＄＄＄＄		speaker

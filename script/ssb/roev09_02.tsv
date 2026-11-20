@@ -31,7 +31,7 @@ roev09_02.0962	ロクス		speaker
 roev09_02.096C	…………。{wait}{clear}		
 roev09_02.0996	ロクス		speaker
 roev09_02.09A0	……教会を裏切るようなことはない……か。{wait}{clear}よく言うよ……{n}このていたらくな僕を知りながらね……。{wait}{clear}		
-roev09_02.0A06	ＮＵＬＬ		speaker
+roev09_02.0A06	ＮＵＬＬ	NULL	speaker
 roev09_02.0A16	《副教皇はあなたを信じている》{n}		
 roev09_02.0A3C	《いい加減に……》{n}		
 roev09_02.0A56	＄＄＄＄＄＄		speaker

@@ -5,7 +5,7 @@ men3_Cl05.0084	＄＄＄＄＄＄		speaker
 men3_Cl05.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men3_Cl05.00D2	クライヴ		speaker
 men3_Cl05.00DE	いや……これを……{n}銘刀のつばを、お前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
-men3_Cl05.013A	ＮＵＬＬ		speaker
+men3_Cl05.013A	ＮＵＬＬ	NULL	speaker
 men3_Cl05.014A	《ありがとうございます。》{n}		
 men3_Cl05.016C	《戒律があるので……。》{n}		
 men3_Cl05.018C	＄＄＄＄＄＄		speaker

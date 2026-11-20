@@ -5,7 +5,7 @@ men1_Lo01.007A	＄＄＄＄＄＄		speaker
 men1_Lo01.008A	ルディ、どうしたのですか？{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
 men1_Lo01.00D2	ルディエール		speaker
 men1_Lo01.00E2	いや……ごめん。{n}妖精が＄＄＄＄＄＄は呼べば来るって言ってたから、{n}本当かどうか、試してみたんだ。{wait}{clear}		
-men1_Lo01.0148	ＮＵＬＬ		speaker
+men1_Lo01.0148	ＮＵＬＬ	NULL	speaker
 men1_Lo01.0158	《これで信じてもらえましたか？》{n}		
 men1_Lo01.0180	《用のあるときだけにしてもらえませんか？》{n}		
 men1_Lo01.01B2	＄＄＄＄＄＄		speaker

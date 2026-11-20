@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev14.0048	クライヴ		speaker
 clev14.0058	街を歩かないか……＄＄＄＄＄＄？{wait}{clear}		
-clev14.007C	ＮＵＬＬ		speaker
+clev14.007C	ＮＵＬＬ	NULL	speaker
 clev14.008C	《珍しいですね。》{n}		
 clev14.00A6	《ええ……。》{n}		
 clev14.00C6	＄＄＄＄＄＄		speaker
@@ -47,7 +47,7 @@ clev14.0534	いいです、そんなことは……。{wait}{clear}
 clev14.0562	クライヴ		speaker
 clev14.0572	俺は……{wait}{clear}		
 clev14.0582	君に出会えたことを……感謝している……。{wait}{clear}		
-clev14.05AE	ＮＵＬＬ		speaker
+clev14.05AE	ＮＵＬＬ	NULL	speaker
 clev14.05BE	《ありがとう……。》{n}		
 clev14.05DA	《私もうれしい……。》{n}		
 clev14.0602	＄＄＄＄＄＄		speaker

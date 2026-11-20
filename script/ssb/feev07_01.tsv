@@ -1,7 +1,7 @@
 id	jp	en	notes
 feev07_01.0048	フェイン		speaker
 feev07_01.0058	どうだ？　＄＄＄＄＄＄、たまにはつきあわないか？{wait}{clear}		
-feev07_01.008C	ＮＵＬＬ		speaker
+feev07_01.008C	ＮＵＬＬ	NULL	speaker
 feev07_01.009C	《ええ、いいですよ。》{n}		
 feev07_01.00BA	《すみません……。》{n}		
 feev07_01.00E0	＄＄＄＄＄＄		speaker
@@ -22,7 +22,7 @@ feev07_01.02A6	いつも立ち話ばかりだからな。{wait}{clear}
 feev07_01.02C6	フェイン		speaker
 feev07_01.02D6	どうした？　浮かない顔をして？{wait}{clear}		
 feev07_01.02FC	なにか悩みでもあるのか？{wait}{clear}		
-feev07_01.0318	ＮＵＬＬ		speaker
+feev07_01.0318	ＮＵＬＬ	NULL	speaker
 feev07_01.0328	《いいえ、別に……》{n}		
 feev07_01.0344	《ええ、ちょっと……》{n}		
 feev07_01.0362	＄＄＄＄＄＄		speaker
@@ -32,7 +32,7 @@ feev07_01.03C4	そうか……気のせいか。{wait}{clear}
 feev07_01.03E2	ならいいんだ。{wait}{clear}		
 feev07_01.03F4	フェイン		speaker
 feev07_01.0400	ところで、君はこの世界のことを{n}あまり知らなかったようだが……{n}君から見てこの世界はどう見える？{wait}{clear}救うに値する、すばらしい世界か？{wait}{clear}		
-feev07_01.0488	ＮＵＬＬ		speaker
+feev07_01.0488	ＮＵＬＬ	NULL	speaker
 feev07_01.0498	《はい……》{n}		
 feev07_01.04AC	《いえ……》{n}		
 feev07_01.04CC	＄＄＄＄＄＄		speaker
@@ -68,7 +68,7 @@ feev07_01.0C38	そうか。{wait}{clear}
 feev07_01.0C48	自分でよければ聞く……。{wait}{clear}		
 feev07_01.0C64	＄＄＄＄＄＄		speaker
 feev07_01.0C74	はい……。{wait}{clear}		
-feev07_01.0C82	ＮＵＬＬ		speaker
+feev07_01.0C82	ＮＵＬＬ	NULL	speaker
 feev07_01.0C92	《勇者たちについて、ちょっと……》{n}		
 feev07_01.0CBC	《世界の混乱の原因が……》{n}		
 feev07_01.0CDE	＄＄＄＄＄＄		speaker

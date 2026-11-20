@@ -1,0 +1,471 @@
+id	kind	speaker	jp
+pro.800A1184	table 800A0EB4 stride 0x30		食料と水がない不安
+pro.800A11B4	table 800A0EB4 stride 0x30		ただただケンカの行方を見守る
+pro.800A11E4	table 800A0EB4 stride 0x30		箱が小さすぎる……。
+pro.800A1214	table 800A0EB4 stride 0x30		できたら、そうして欲しい。
+pro.800A1244	table 800A0EB4 stride 0x30		もちろん！
+pro.800A1274	luix1 tabx1		立方体
+pro.800A12A4	table 800A0EB4 stride 0x30		満月
+pro.800A12D4	table 800A0EB4 stride 0x30		たいせつな仕事
+pro.800A1304	table 800A0EB4 stride 0x30		砂浜で犬と転げまわって遊ぶ子供
+pro.800A1334	table 800A0EB4 stride 0x30		行き当たりばったりが楽しい
+pro.800A1364	table 800A0EB4 stride 0x30		夕日は夢があるような気がする……。
+pro.800A1394	table 800A0EB4 stride 0x30		あたたかくてのんびりしたところ。
+pro.800A13C4	table 800A0EB4 stride 0x30		自分に関係した事ではないか？　と考えてみる
+pro.800A13F4	table 800A0EB4 stride 0x30		前半は楽しいが、悲しい結末を迎える物語
+pro.800A1424	table 800A0EB4 stride 0x30		グラスの下の方
+pro.800A1454	table 800A0EB4 stride 0x30		好きなものも嫌いなものも均等に食べる。
+pro.800A1484	table 800A0EB4 stride 0x30		緑の葉っぱ
+pro.800A14B4	table 800A0EB4 stride 0x30		たくさん
+pro.800A14E4	table 800A0EB4 stride 0x30		知らない人に囲まれてちやほやされている夢
+pro.800A1514	table 800A0EB4 stride 0x30		２本以上
+pro.800A1544	table 800A0EB4 stride 0x30		海に囲まれて一人ぼっちの孤独
+pro.800A1574	table 800A0EB4 stride 0x30		なんとかふたりをなだめる。
+pro.800A15A4	table 800A0EB4 stride 0x30		ちょうどいい感じ！
+pro.800A15D4	table 800A0EB4 stride 0x30		自分が信じているだけでいい！
+pro.800A1604	table 800A0EB4 stride 0x30		いや、自信がないときもある。
+pro.800A1864	luix1		ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ　　　　　　ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ？！・　　　あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん　　がぎぐげござじずぜぞだぢづでど　ばびぶべぼぱぴぷぺぽ　０１２３４ぁぃぅぇぉっゃゅょー　５６７８９アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン　　ガギグゲゴザジズゼゾダヂヅデド　バビブベボパピプペポヴ　　　　　ァィゥェォッャュョ　　　　　　　
+rfd2.8009B57C	luix1		同　行　中
+rfd2.8009B5F8	luix1		BraveChgStat() ～ UnKnown Brave State...{0A}
+rfd2.8009B6E0	luix1		　　
+rfd2.8009B6E8	luix1		事件：
+rfd2.8009B6F0	ptrx1		天界へ
+rfd2.8009B6F8	ptrx1		ステータス
+rfd2.8009B704	ptrx1		妖　精
+rfd2.8009B70C	ptrx1		勇　者
+rfd2.8009B9B4	luix1		探索を行います。よろしいですか？
+rfd2.8009B9D8	luix1		　はい
+rfd2.8009B9E0	luix1		　いいえ
+rfd2.8009B9EC	ptrx1		国　境
+rfd2.8009B9F4	ptrx1		混乱度
+rfd2.8009B9FC	ptrx1		辺境
+rfd2.8009BA04	ptrx1		　　　　王国
+rfd2.8009BA20	ptrx1		未開地
+rfd2.8009BA28	ptrx1		六王国連合
+rfd2.8009BA34	ptrx1		　　　　教国
+rfd2.8009BA44	ptrx1		エクレシア
+rfd2.8009BA50	ptrx1		ブレメース島
+rfd2.8009BA64	ptrx1		ゼルン公国
+rfd2.8009BA70	ptrx1		　　　　公国
+rfd2.8009BA80	ptrx1		クレージュ　
+rfd2.8009BA90	ptrx1		　　　　帝国
+rfd2.8009BAA0	ptrx1		グローサイン
+rfd2.8009BAB0	luix1		世界混乱度
+rfd2.8009BABC	luix2		混乱度：
+rfd2.8009BAC8	luix1		探　索
+rfd2.8009BB0C	luix1		発見
+rfd2.8009BB14	luix1		待機
+rfd2.8009BB1C	luix1		任務
+rfd2.8009BB24	luix1		不明
+rfd2.8009BB2C	luix1		負傷
+rfd2.8009BB34	luix1		死亡
+rfd2.8009BB58	luix1		現在地：%s－%s
+rfd2.8009BB68	luix1		%s　　　　　　　　混乱度　
+rfd2.8009BB84	luix1		睡眠中　　　　　　　
+rfd2.8009BB9C	luix1		修行中　　　　　　　
+rfd2.8009BBB4	luix1		休息中　　　　　　　
+rfd2.8009BBCC	luix1		移動中　　　　　　　
+rfd2.8009BBE4	luix1		任務遂行中　　　　　
+rfd2.8009BC14	luix1		任務　：
+rfd2.8009BC20	luix1		移動先：
+rfd2.8009BC2C	luix1		%sをスカウトします。よろしいですか？
+rfd2.8009BC68	luix1		%sを訪問します。よろしいですか？
+rfd2.8009BC8C	luix1		ＡＰが足りません
+rfd2.8009BCC0	luix1		目的地はここでいいんだな？
+rfd2.8009BCDC	luix1		ここか……
+rfd2.8009BCE8	luix1		そこへ行けばいいんだな？
+rfd2.8009BD04	luix1		ここでいいんだな？
+rfd2.8009BD18	luix1		ふーん、そこへ行けばいいのね？
+rfd2.8009BD38	luix1		ここね？
+rfd2.8009BD44	luix1		ここですか？
+rfd2.8009BD54	luix1		ここでよろしいですか？
+rfd2.8009BD9C	luix1		このアイテムを贈りますか。
+rfd2.8009BDB8	ptrx1		ＩＴＥＭ
+rfd2.8009BDC4	ptrx1		任　務
+rfd2.8009BDCC	ptrx1		会　話
+rfd2.8009BEE0	luix1		何の御用でしょう
+rfd2.8009BF14	luix1		目的地はどこだ？
+rfd2.8009BF28	luix1		どこへ行けばいいんだ。
+rfd2.8009BF40	luix2		どこへ行けばいいんだ？
+rfd2.8009BF58	luix2		どこへ行けばいいの？
+rfd2.8009BF70	luix1		目的地はどこですか？
+rfd2.8009BFA4	luix1		あれ？
+rfd2.8009BFAC	luix1		あら？
+rfd2.8009BFB4	luix1		アイテムを持っていませんでしたね。
+rfd2.8009BFD8	luix1		訪問を終了します。
+rfd2.8009BFEC	luix1		勇者に同行しますか？
+rfd2.8009C004	luix1		　同行する
+rfd2.8009C010	luix1		　同行しない
+rfd2.8009C028	ptrx1		プレゼント　　
+rfd2.8009C038	ptrx1		羽　　　　　　
+rfd2.8009C048	ptrx1		本　　　　　　
+rfd2.8009C058	ptrx1		薬草　　　　　
+rfd2.8009C068	ptrx1		ポーション　　
+rfd2.8009C078	ptrx1		お守り　　　　
+rfd2.8009C088	ptrx1		リング　　　　
+rfd2.8009C098	ptrx1		ブレスレット　
+rfd2.8009C0A8	ptrx1		ペンダント　　
+rfd2.8009C0B8	ptrx1		ブーツ　　　　
+rfd2.8009C0C8	ptrx1		通常鎧　　　　
+rfd2.8009C0D8	ptrx1		軽装鎧　　　　
+rfd2.8009C0E8	ptrx1		ローブ　　　　
+rfd2.8009C0F8	ptrx1		弓　　　　　　
+rfd2.8009C108	ptrx1		片手剣　　　　
+rfd2.8009C118	ptrx1		ロッド　　　　
+rfd2.8009C128	ptrx1		スタッフ　　　
+rfd2.8009C138	ptrx1		湾曲刀　　　　
+rfd2.8009C148	ptrx1		片刃両手剣　　
+rfd2.8009C158	ptrx1		両刃両手剣　　
+rfd2.8009C168	ptrx1		ストレス：
+rfd2.8009C174	ptrx1		正義感：
+rfd2.8009C180	ptrx1		ＨＰ：
+rfd2.8009C188	ptrx1		素早さ：
+rfd2.8009C194	ptrx1		防御：
+rfd2.8009C19C	ptrx1		攻撃：
+rfd2.8009C1A4	ptrx1		９
+rfd2.8009C1A8	ptrx1		８
+rfd2.8009C1AC	ptrx1		７
+rfd2.8009C1B0	ptrx1		６
+rfd2.8009C1B4	ptrx1		５
+rfd2.8009C1B8	ptrx1		４
+rfd2.8009C1BC	ptrx1		３
+rfd2.8009C1C0	ptrx1		２
+rfd2.8009C1C4	ptrx1		１
+rfd2.8009C1C8	ptrx1		０
+rfd2.8009C1CC	luix1		勇者に贈るアイテムを選んでください。
+rfd2.8009C1F4	luix1		装備：可
+rfd2.8009C200	luix1		装備：不可
+rfd2.8009C20C	luix4		ー
+rfd2.8009C254	luix1		同行を中断します
+rfd2.8009C268	luix1		　勇者に話しかける
+rfd2.8009C27C	luix1		　同行を終了する
+rfd2.8009C290	luix1		を
+rfd2.8009C294	luix1		に同行させますか？
+rfd2.8009C2BC	luix1		探索を中断し
+rfd2.8009C2CC	luix1		同行を中断し
+rfd2.8009C2DC	luix1		待機させますか？
+rfd2.8009C2F0	luix1		を天界に帰しますか？
+rfd2.8009C308	luix1		指示を出す妖精を選択します。
+rfd2.8009C328	ptrx1		天界に帰還
+rfd2.8009C334	ptrx1		待　機
+rfd2.8009C33C	ptrx1		勇者に同行
+rfd2.8009C350	luix1		に指示を出します。
+rfd2.8009C364	luix1		を勇者に同行させます。
+rfd2.8009C37C	luix1		を待機させます。
+rfd2.8009C390	luix1		を帰還させます。
+rfd2.8009C3A8	luix1		：
+rfd2.8009C3B4	luix1		次の探索地域に移動中
+rfd2.8009C3CC	luix1		を探索中
+rfd2.8009C3D8	luix1		に同行中
+rfd2.8009C450	ptrx1		天　使
+rfd2.8009C4B8	luix2		　《はい》
+rfd2.8009C4D4	luix1		に会う
+rfd2.8009C4DC	luix1		会わない
+rfd2.8009C4E8	luix1		急行しますか
+rfd2.8009C570	luix3		＜地方名＞
+rfd2.8009C57C	luix3		＜勇者名＞
+rfd2.8009C590	luix1		００
+rfd2.8009C59C	luix1		＜勇者名１＞
+rfd2.8009C5AC	luix1		＜勇者名２＞
+rfd2.8009C5BC	luix1		＜妖精名＞
+rfd2.8009C5C8	luix1		＜イベント名＞
+rfd2.8009C5D8	luix1		＜目的地名＞
+rfd2.8009CFD4	luix1		ラファエルに会う
+rfd2.8009CFE8	luix1		装備アイテムの入手
+rfd2.8009CFFC	luix1		消費アイテムの入手
+rfd2.8009D010	luix1		妖精を借りる　情報の入手
+rfd2.8009D02C	luix1		自分の部屋へ戻る
+rfd2.8009D040	luix2		地上界へ帰る
+rfd2.8009D084	luix1		ゲームデータのセーブやロード
+rfd2.8009D0A4	luix1		各キャラクターのステータスを確認
+rfd2.8009D0C8	luix1		１日過ごしてＡＰを回復
+rfd2.8009D0E0	luix1		天界の他の宮へ移動
+rfd2.8009D120	luix1		どうしたのです？　＄＄＄＄＄＄。
+rfd2.8009D144	luix1		またいつでも来なさい、＄＄＄＄＄＄。
+rfd2.8009D16C	luix1		いらっしゃい。
+rfd2.8009D17C	luix1		なにか必要なものがあるのかしら。
+rfd2.8009D1A0	luix2		これは
+rfd2.8009D1A8	luix2		個持っているわね。
+rfd2.8009D1BC	luix1		それ以上は持てないみたいね。
+rfd2.8009D1DC	luix1		まずは、アイテムを勇者に渡していらっしゃい。
+rfd2.8009D20C	luix2		これでいいのかしら？
+rfd2.8009D238	luix1		あら、ＡＰが足りないみたいよ。
+rfd2.8009D258	luix1		フロー宮から移動しますか？
+rfd2.8009D274	luix2		そう、これは必要ないのね。
+rfd2.8009D290	luix2		勇者によろこんでもらえるといいわね。
+rfd2.8009D2B8	luix1		アイテムはしっかり活用しなさいね。
+rfd2.8009D2DC	luix1		また必要なものがあったら、来るといいわ。
+rfd2.8009D308	luix1		こんにちは、今日はどうしたのですか？
+rfd2.8009D330	luix1		あなたの勇者に、必要なものがあるのですか？
+rfd2.8009D35C	luix1		そんなにたくさんは持てませんよ。
+rfd2.8009D380	luix1		勇者に渡してから、またいらっしゃい。
+rfd2.8009D3A8	luix1		ＡＰが足りないみたいですね。
+rfd2.8009D3C8	luix1		エミリア宮から移動しますか？
+rfd2.8009D3E8	luix2		そうですか、これは必要ないのですね。
+rfd2.8009D410	luix1		勇者のために、
+rfd2.8009D420	luix1		アイテムはきちんと用意しておくのですよ。
+rfd2.8009D44C	luix1		あら、いらっしゃい。今日はどうしたの？
+rfd2.8009D474	luix5		妖精が必要なの？
+rfd2.8009D488	luix5		それとも誰かのことが聞きたいの？
+rfd2.8009D4AC	luix1		フォータ離宮から移動しますか？
+rfd2.8009D4CC	luix1		この子でいい？
+rfd2.8009D4DC	luix1		じゃあ、この子といっしょにがんばってね。
+rfd2.8009D508	luix1		そう、この子じゃないのね。
+rfd2.8009D524	luix1		もう、手伝える子たちはいないわよ。
+rfd2.8009D548	luix1		の情報を聞きますか？
+rfd2.8009D560	luix1		ＡＰが足りないわよ。
+rfd2.8009D578	luix1		あら、ＡＰが足りないみたいね。
+rfd2.8009D598	luix1		妖精たちには、あまり無理させちゃダメよ。
+rfd2.8009D5C4	luix1		またなにかあったら、いらっしゃい。
+rfd2.8009D5E8	ptrx2		地上に戻る
+rfd2.8009D5F4	ptrx1 luix1		ラキア宮
+rfd2.8009D600	ptrx1		フォータ離宮
+rfd2.8009D610	ptrx1		エミリア宮
+rfd2.8009D61C	ptrx1		フロー宮
+rfd2.8009D628	ptrx1		聖アザリア宮
+rfd2.8009D638	luix1		移動先を選択してください
+rfd2.8009D654	ptrx1		移　動
+rfd2.8009D65C	ptrx1		休　息
+rfd2.8009D670	ptrx1		データ
+rfd2.8009D678	luix1		妖精雇用
+rfd2.8009D684	luix1		情　報
+rfd2.8009D694	luix1		ＡＰ回復中・・・
+rfd2.8009D6A8	luix1		時が過ぎるのみ・・・
+rfd2.8009D6C8	luix1		ローザはちょっと言葉づかいは冷たいけれど、
+rfd2.8009D6F4	luix1		とても心のやさしい、いい子よ。
+rfd2.8009D714	luix1		きっと、あなたの役に立つと思うわ。
+rfd2.8009D738	luix1		フロリンダはあんな格好をしているけど、
+rfd2.8009D760	luix1		とっても真面目に仕事をするいい子よ。
+rfd2.8009D788	luix1		シェリーは調子のいいところがちょっとあるけど、
+rfd2.8009D7B8	luix1		仕事はしっかりこなしてくれる子よ。
+rfd2.8009D7DC	luix1		リリィはなんでもこなせるマイペースな子よ。
+rfd2.8009D808	luix1		少しおとなしく見えるかもしれないけど、
+rfd2.8009D830	luix1		リンクスは人一倍のがんばり屋よ。
+rfd2.8009D854	luix1		ちょっと危なっかしく見えるけど、大丈夫！
+rfd2.8009D880	luix1		アクイラは少しおっとりしているかもしれないわね。
+rfd2.8009D8B4	luix1		でも、仕事はしっかりしてくれるから、
+rfd2.8009D8DC	luix1		シータスとてもしっかり者で、仕事はよくできるわ。
+rfd2.8009D910	luix1		見かけに惑わされたりしないでね。
+rfd2.8009D934	luix1		レーパスはとても面倒見のいい子よ。
+rfd2.8009D958	luix1		真面目で正義感の強い彼女なら
+rfd2.8009D99C	luix1		誰のことが聞きたいの？
+rfd2.8009D9E4	luix1		ね。
+rfd2.8009D9F4	luix1		／
+rfd2.8009D9F8	luix1		００００
+rfd2.8009DA04	luix1		＄＄＄＄＄＄、ボーナスＡＰ
+rfd2.8009DA20	luix1		です。{n}アルカヤでのあなたの行動に役立ててください。
+SLPS.80020088	ptrx1		レイテ
+SLPS.80020090	ptrx1		ミルザプル
+SLPS.8002009C	ptrx1		タルラク
+SLPS.800200A8	ptrx1		グルカ
+SLPS.800200B0	ptrx1		ロハス
+SLPS.800200B8	ptrx1		ナディ
+SLPS.800200C0	ptrx1		スリーナガル
+SLPS.800200D0	ptrx1		リパ
+SLPS.800200D8	ptrx1		レカイ
+SLPS.800200E0	ptrx1		メーラト
+SLPS.800200EC	ptrx1		ディロロ
+SLPS.800200F8	ptrx1		ティフアナ
+SLPS.80020104	ptrx1		フフーフ
+SLPS.80020110	ptrx1		ペレイラ
+SLPS.80020114	luix5		イラ
+SLPS.8002011C	ptrx1		クイロン
+SLPS.80020128	ptrx1		ラフィエット
+SLPS.80020138	ptrx1		ファロ
+SLPS.80020140	ptrx1		セミララ
+SLPS.8002014C	ptrx1		ウルファ
+SLPS.80020158	ptrx1		リダ
+SLPS.80020160	ptrx1		ミルデューラ
+SLPS.80020170	ptrx1		ヌドラ
+SLPS.80020178	ptrx1		エルナクラム
+SLPS.80020188	ptrx1		タルファーヤ
+SLPS.80020198	ptrx1		リゼ
+SLPS.800201A0	ptrx1		ファンラン
+SLPS.800201AC	ptrx1		クルアン
+SLPS.800201B8	ptrx1		ディナル
+SLPS.800201C4	ptrx1		グァイラ
+SLPS.800201D0	ptrx1		トゥムクル
+SLPS.800201DC	ptrx1		ジェーラ
+SLPS.800201E8	ptrx1		レイリア
+SLPS.800201F4	ptrx1		グラニス
+SLPS.80020200	ptrx1		ラセト
+SLPS.80020208	ptrx1		レティシア
+SLPS.80020214	ptrx1		ロオク
+SLPS.8002021C	ptrx1		アンナプルナ
+SLPS.8002022C	ptrx1		アムレリ
+SLPS.80020238	ptrx1		アフイ
+SLPS.80020240	ptrx1		アル－シャ
+SLPS.8002024C	ptrx1		セーレム
+SLPS.80020258	ptrx1		トゥルカナ
+SLPS.80020264	ptrx1		クーリオン
+SLPS.80020270	ptrx1		トゥラロ
+SLPS.8002027C	ptrx1		ファンガレー
+SLPS.8002028C	ptrx1		トラン
+SLPS.80020294	ptrx1		ラタキア
+SLPS.800202A0	ptrx1		ダオ
+SLPS.800202A8	ptrx1		テテ
+SLPS.800202B0	ptrx1		スワンヒル
+SLPS.800202BC	ptrx1		リネア
+SLPS.800202C4	ptrx1		テセル
+SLPS.800202CC	ptrx1		ソファラ
+SLPS.800202D8	ptrx1		キエラング
+SLPS.800202E4	ptrx1		ガウハ－ティ
+SLPS.800202F4	ptrx1		アドラル
+SLPS.80020300	ptrx1		ティト
+SLPS.80020308	ptrx1		カラーラ
+SLPS.80020314	ptrx1		ロラライ
+SLPS.80020320	ptrx1		ファテーガル
+SLPS.80020330	ptrx1		レク
+SLPS.80020338	ptrx1		レシフェ
+SLPS.80020344	ptrx1		アリエ
+SLPS.8002034C	ptrx1		クエッタ
+SLPS.80020358	ptrx1		ザリア
+SLPS.80020360	ptrx1		フランカ
+SLPS.8002036C	ptrx1		アルクマール
+SLPS.8002037C	ptrx1		ラグワート
+SLPS.80020388	ptrx1		クラロス
+SLPS.80020394	ptrx1		ミエレス
+SLPS.800203A0	ptrx1		イリュウス
+SLPS.800203AC	ptrx1		ラジェス
+SLPS.800203B8	ptrx1		フォルタレザ
+SLPS.800203C8	ptrx1		ステレア
+SLPS.800203D4	ptrx1		パトス
+SLPS.800203DC	ptrx1		アーラウ
+SLPS.800203E8	ptrx1		ブレシア
+SLPS.800203F4	ptrx1		アイシア
+SLPS.80020400	ptrx1		フィーシュ
+SLPS.8002040C	ptrx1		ティクル
+SLPS.80020418	ptrx1		ククタ
+SLPS.80020420	ptrx1		ガララテ
+SLPS.8002042C	ptrx1		ティエール
+SLPS.80020438	ptrx1		セアラ
+SLPS.80020440	ptrx1		アララス
+SLPS.8002044C	ptrx1		ライース
+SLPS.80020458	ptrx1		イリンガ
+SLPS.80020464	ptrx1		ポーポ
+SLPS.8002046C	ptrx1		シーラーズ
+SLPS.80020478	ptrx1		レーンディア
+SLPS.80020488	ptrx1		リクスリオン
+SLPS.80020498	ptrx1		クール
+SLPS.800204A0	ptrx1		ラミア
+SLPS.800204A8	ptrx1		タルスス
+SLPS.800204B4	ptrx1		タリファ
+SLPS.800204C0	ptrx1		ナタール
+SLPS.800204CC	ptrx1		ピポカ
+SLPS.800204D4	ptrx1		フラガ
+SLPS.800204DC	ptrx1		マナウス
+SLPS.800204E8	ptrx1		ルゴジュ
+SLPS.800204F4	ptrx1		イエーナ
+SLPS.80020500	ptrx1		ナミュール
+SLPS.8002050C	ptrx1		ミスラタ
+SLPS.80020518	ptrx1		セート
+SLPS.80020520	ptrx1		テルミス
+SLPS.8002052C	ptrx1		ヌーク
+SLPS.80020534	ptrx1		レリダ
+SLPS.8002053C	ptrx1		ハイファ
+SLPS.80020548	ptrx1		コリエンテス
+SLPS.80020558	ptrx1		サヤク
+SLPS.80020560	ptrx1		ブレンナー
+SLPS.8002056C	ptrx1		ラリッサ
+SLPS.80020578	ptrx1		アールスト
+SLPS.80020584	ptrx1		キルナ
+SLPS.8002058C	ptrx1		ファーノ
+SLPS.80020598	ptrx1		リャノ
+SLPS.800205A0	ptrx1		マリリア
+SLPS.800205AC	ptrx1		レウス
+SLPS.800205B4	ptrx1		アークレイリ
+SLPS.800205C4	ptrx1		キュロ
+SLPS.800205CC	ptrx1		セリフォス
+SLPS.800205D8	ptrx1		ラビア
+SLPS.800205E0	ptrx1		ロタ
+SLPS.800205E8	ptrx1		ルッカ
+SLPS.800205F0	ptrx1		リエージュ
+SLPS.800205FC	ptrx1		アングレーム
+SLPS.8002060C	ptrx1		リメイラ
+SLPS.80020618	ptrx1		メルクレア
+SLPS.80020624	ptrx1		クングル
+SLPS.80020630	ptrx1		アベビル
+SLPS.8002063C	ptrx1		ラルナカ
+SLPS.80020648	ptrx1		ブロラ
+SLPS.80020650	ptrx1		アイオナ
+SLPS.8002065C	ptrx1		スウォレ
+SLPS.80020668	ptrx1		トゥルラ
+SLPS.80020674	ptrx1		ルーセラーレ
+SLPS.80020684	ptrx1		ツェレ
+SLPS.8002068C	ptrx1		アライット
+SLPS.80020698	ptrx1		ダクス
+SLPS.800206A0	ptrx1		グリエフ
+SLPS.800206AC	ptrx1		アスナ
+SLPS.800206B4	ptrx1		オルークス
+SLPS.800206C0	ptrx1		ターラント
+SLPS.800206CC	ptrx1		ニトラ
+SLPS.800206D4	ptrx1		テルエル
+SLPS.800206E0	ptrx1		トゥーラ
+SLPS.800206EC	ptrx1		ナリア
+SLPS.800206F4	ptrx1		リフィー
+SLPS.80020700	ptrx1		レシュノ
+SLPS.8002070C	ptrx1		グーラ
+SLPS.80020714	ptrx1		ムルシア
+SLPS.80020720	ptrx1		クルガン
+SLPS.8002072C	ptrx1		ダーグ
+SLPS.80020734	ptrx1		ファールン
+SLPS.80020740	ptrx1		ハーイル
+SLPS.8002074C	ptrx1		トゥルン
+SLPS.80020758	ptrx2		レイゼフート
+SLPS.80020768	ptrx1		ガラルス
+SLPS.80020774	ptrx1		ティローン
+SLPS.80020780	ptrx1		リエカ
+SLPS.80020788	ptrx1		イシム
+SLPS.80020790	ptrx1		カルーガ
+SLPS.8002079C	ptrx1		ルーレオ
+SLPS.800207A8	ptrx1		タラ
+SLPS.800207B0	ptrx1		ダルース
+SLPS.800207BC	ptrx1		バールベリ
+SLPS.800207C8	ptrx1		デズフール
+SLPS.800207D4	ptrx1		タルスク
+SLPS.800207E0	ptrx1		ヨートゥン
+SLPS.800207EC	ptrx1		ウトレラ
+SLPS.800207F8	ptrx1		アローサ
+SLPS.80020804	ptrx1		ロンダ
+SLPS.8002080C	ptrx1		ウェルス
+SLPS.80020818	ptrx1		シュタイア
+SLPS.80020824	ptrx1		プーラ
+SLPS.8002082C	ptrx1		トゥルタ
+SLPS.80020838	ptrx1		グラーツ
+SLPS.80020844	ptrx1		シラグザ
+SLPS.80020850	ptrx1		ロデズ
+SLPS.80020858	ptrx1		バルレッタ
+SLPS.80020864	ptrx1		ウォルフス
+SLPS.80020870	ptrx1		トルン
+SLPS.80020878	ptrx1		アケルシュス
+SLPS.80020888	ptrx1		ハイランド
+SLPS.800208A8	ptrx1		シグル
+SLPS.800208B0	ptrx1		ヘルゴント
+SLPS.800208BC	ptrx1		古い腕輪
+SLPS.800208C8	ptrx1		銘刀のつば
+SLPS.800208D4	ptrx1		銀のロザリオ
+SLPS.800208E4	ptrx1		銀の指輪
+SLPS.800208F0	ptrx1		麦わら帽子
+SLPS.800208FC	ptrx1		ホドフレイム
+SLPS.8002090C	ptrx1		リーヴクロイツ
+SLPS.8002091C	ptrx1		エリュティア
+SLPS.8002092C	ptrx1		トールズクロス
+SLPS.8002093C	ptrx1		エタナリィリング
+SLPS.80020950	ptrx1		フェイスリング
+SLPS.80020960	ptrx1		ラインリング
+SLPS.80020970	ptrx1		ドラウプニル
+SLPS.80020980	ptrx1		ラインファルツ
+SLPS.80020990	ptrx1		ディールブレス
+SLPS.800209A0	ptrx1		ブリーシング
+SLPS.800209B0	ptrx1		ヴァルダルゲス
+SLPS.800209C0	ptrx1		ボリディウェズ
+SLPS.800209D0	ptrx1		ネムグランブーツ
+SLPS.800209E4	ptrx1		クヴァルブーツ
+SLPS.800209F4	ptrx1		ヘルメスブーツ
+SLPS.80020A04	ptrx1		ラグナアーマー
+SLPS.80020A14	ptrx1		ヴェンディゲイト
+SLPS.80020A28	ptrx1		ミラージュメイル
+SLPS.80020A3C	ptrx1		チュールラメラー
+SLPS.80020A50	ptrx1		シグルドメイル
+SLPS.80020A60	ptrx1		グロルメイル
+SLPS.80020A70	ptrx1		ヴェンディゲイド

@@ -100,7 +100,7 @@ eiev13_02.1138	アイリーン		speaker
 eiev13_02.1146	うん……。{wait}{clear}フェインは……義理の兄なの……。{n}セレニス姉さんと結婚して……{n}それなのに……姉さんがフェインを……{wait}{clear}絶対に信じられない……{wait}{clear}		
 eiev13_02.11D6	＄＄＄＄＄＄		speaker
 eiev13_02.11E6	アイリーン……{wait}{clear}		
-eiev13_02.11F8	ＮＵＬＬ		speaker
+eiev13_02.11F8	ＮＵＬＬ	NULL	speaker
 eiev13_02.1208	《元気を出してください。》{n}		
 eiev13_02.122A	《真実はわからないのだから……。》{n}		
 eiev13_02.125A	＄＄＄＄＄＄		speaker

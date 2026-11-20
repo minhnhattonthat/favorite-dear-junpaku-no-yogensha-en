@@ -5,7 +5,7 @@ roev12.007A	ロクス		speaker
 roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}		
 roev12.0114	＄＄＄＄＄＄		speaker
 roev12.0124	そうですか……？{wait}{clear}		
-roev12.0138	ＮＵＬＬ		speaker
+roev12.0138	ＮＵＬＬ	NULL	speaker
 roev12.0148	《わかりました、おつき合いします。》{n}		
 roev12.0174	《やっぱりお酒はちょっと……。》{n}		
 roev12.01A8	＄＄＄＄＄＄		speaker
@@ -14,7 +14,7 @@ roev12.0204	ロクス		speaker
 roev12.020E	じゃあ、人の姿になれよ。{n}行こう。{wait}{clear}		
 roev12.0250	ロクス		speaker
 roev12.025A	バカをしていることは自分でわかってるさ。{n}ただ……自分じゃどうにもならない。{n}なにか納得できないから、いつも無茶をしてしまう。{wait}{clear}		
-roev12.02DC	ＮＵＬＬ		speaker
+roev12.02DC	ＮＵＬＬ	NULL	speaker
 roev12.02EC	《そうでしょうか……。》{n}		
 roev12.030C	《それを望んでいるのですか？》{n}		
 roev12.0338	＄＄＄＄＄＄		speaker

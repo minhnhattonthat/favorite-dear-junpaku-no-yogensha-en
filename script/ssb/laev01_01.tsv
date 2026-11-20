@@ -65,7 +65,7 @@ laev01_01.08BA	レイラ		speaker
 laev01_01.08C8	そう……。{n}では待っているわ。{wait}{clear}		
 laev01_01.08FA	レイラ		speaker
 laev01_01.0904	話はわかったわ……。{wait}{clear}でも、少し時間をもらえない？{n}整理したいの……考えを。{wait}{clear}		
-laev01_01.0956	ＮＵＬＬ		speaker
+laev01_01.0956	ＮＵＬＬ	NULL	speaker
 laev01_01.0966	《どうしても頼みたい》{n}		
 laev01_01.0984	《わかりました》{n}		
 laev01_01.09A2	＄＄＄＄＄＄		speaker

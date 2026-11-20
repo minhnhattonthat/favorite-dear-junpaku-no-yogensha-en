@@ -5,7 +5,7 @@ men2_Ce01.007A	＄＄＄＄＄＄		speaker
 men2_Ce01.008A	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}		
 men2_Ce01.00D4	セシア		speaker
 men2_Ce01.00DE	いえ、そんなたいしたことではないのですが……{n}ただ、ちょっと天使様とお話したいと{n}思っただけなんです……。{wait}{clear}すみません、わがままを言ってしまって……。{wait}{clear}		
-men2_Ce01.017A	ＮＵＬＬ		speaker
+men2_Ce01.017A	ＮＵＬＬ	NULL	speaker
 men2_Ce01.018A	《セシアに呼ばれたのだから……。》{n}		
 men2_Ce01.01B4	《そうだったのですね。》{n}		
 men2_Ce01.01D4	＄＄＄＄＄＄		speaker

@@ -20,7 +20,7 @@ roev17.029A	＄＄＄＄＄＄……僕は君の笑顔が好きだ……{wait}{c
 roev17.02CA	君の髪も、やさしいその声も、{n}僕は君のすべてが……{n}大好きだ。{wait}{clear}		
 roev17.0310	僕は……{n}こんなことを人間の女性には{n}聞いたことなどないけど……{wait}{clear}		
 roev17.0358	君にキスしてもいいか？{wait}{clear}		
-roev17.0372	ＮＵＬＬ		speaker
+roev17.0372	ＮＵＬＬ	NULL	speaker
 roev17.0382	《受け入れる》{n}		
 roev17.0398	《受け入れない》{n}		
 roev17.03DC	ロクス		speaker

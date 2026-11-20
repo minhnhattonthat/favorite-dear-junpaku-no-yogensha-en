@@ -23,7 +23,7 @@ clev01_01.02DC	＄＄＄＄＄＄		speaker
 clev01_01.02EC	あ、クライヴ！　待ってください！！{wait}{clear}…………。{wait}{clear}		
 clev01_01.0330	クライヴ		speaker
 clev01_01.033C	…………。{wait}{clear}		
-clev01_01.0356	ＮＵＬＬ		speaker
+clev01_01.0356	ＮＵＬＬ	NULL	speaker
 clev01_01.0362	text_on;		
 clev01_01.036E	《追いかける》{n}		
 clev01_01.0384	《今はあきらめる》		

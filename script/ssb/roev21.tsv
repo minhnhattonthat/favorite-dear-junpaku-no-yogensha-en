@@ -10,7 +10,7 @@ roev21.0192	ロクス		speaker
 roev21.019C	これ以上すきにはさせん！{wait}{clear}		
 roev21.0214	＄＄＄＄＄＄		speaker
 roev21.0224	塔が崩れます、ロクス！{wait}{clear}		
-roev21.0244	ＮＵＬＬ		speaker
+roev21.0244	ＮＵＬＬ	NULL	speaker
 roev21.0250	ゴゴゴゴゴ……{wait}{clear}		
 roev21.0292	ロクス		speaker
 roev21.029C	最後、魔女の{n}動きが止まった……{wait}{clear}何かが起きたようだったが……。{wait}{clear}		

@@ -1,0 +1,182 @@
+id	kind	speaker	jp
+roev15.00B6	wrap44x3	ロクス	なにもしない……、なんていう約束を僕はできないけど、つき合ってくれたら嬉しい。{wait}{clear}
+roev15.0130	wrap44x3	ＮＵＬＬ	《今は忙しいので……》{n}
+roev15.0196	wrap44x3	ロクス	ありがとう。{wait}{clear}
+roev15.01C0	wrap44x3	＄＄＄＄＄＄	今は忙しいので……{wait}{clear}
+roev15.01F2	wrap44x3	ロクス	そうか……じゃあ、また今度にしよう……{wait}{clear}
+roev15.0256	wrap44x3	ロクス	今日は冷えるな……寒くないか？{wait}{clear}
+roev15.028A	wrap44x3	＄＄＄＄＄＄	ええ、私は平気です。{wait}{clear}
+roev15.02BE	wrap44x3	ロクス	君は平気でも、見ているこちらが寒い。ほら……。{wait}{clear}
+roev15.0316	wrap44x3	＄＄＄＄＄＄	ありがとう……ロクス。{wait}{clear}
+roev15.035C	wrap44x3	ロクス	……君にはたくさん迷惑をかけた……すまなかった……。{wait}{clear}
+roev15.03A6	wrap44x3	＄＄＄＄＄＄	いえ、いいんです。もう。{wait}{clear}
+roev15.03EA	wrap44x3	ＮＵＬＬ	《あなたの話を聞かせてください》{n}
+roev15.0412	wrap44x3	ＮＵＬＬ	《癒しの手について……》{n}
+roev15.0448	wrap44x3	＄＄＄＄＄＄	あなたの話を聞かせてください。ロクス。{wait}{clear}
+roev15.0480	wrap44x3	ロクス	僕の話？　面白くはないよ……きっと。{wait}{clear}
+roev15.04B8	wrap44x3	＄＄＄＄＄＄	かまいません……。私が聞きたいと思っているのですから、話していただけませんか？{wait}{clear}
+roev15.051C	wrap44x3	ロクス	僕は……子供のころ、教会に引き取られた。{wait}{clear}
+roev15.054C	wrap44x3	ロクス	この手の能力を見いだされて……。{wait}{clear}
+roev15.0574	wrap44x3	ロクス	教会では僕は教皇になるべくいろんな知識を教えられた。作法や、教皇として義務の話だ。{wait}{clear}
+roev15.05D2	wrap44x3	ロクス	その一方で、まわりの司教達は未来の教皇である僕にいろんなおべっかを使ってきた。{wait}{clear}
+roev15.062A	wrap44x3	ロクス	子供相手のつまんないものさ……{wait}{clear}
+roev15.0650	wrap44x3	ロクス	まあ、そのときはそれなりだまされたけどね。{wait}{clear}
+roev15.0682	wrap44x3	ロクス	聖職者つったって、人間さ、うわっつらじゃいい顔してても中身はただの強欲なオッサンたちだ。{wait}{clear}
+roev15.06E6	wrap44x3	ロクス	口ではいいことをいうから、ただの悪人よりずっとたちが悪い……。{wait}{clear}
+roev15.072E	wrap44x3	ロクス	そんな人間たち相手にだましだまされやっているうちに、なんだか……{wait}{clear}
+roev15.0778	wrap44x3	ロクス	教皇になるのがばからしくなった……。{wait}{clear}
+roev15.07A4	wrap44x3	ロクス	結局利用されているだけに感じたから。{wait}{clear}
+roev15.07D0	wrap44x3	ロクス	それで適当に遊びほうけていたら、副教皇に聖都から追い出された……。{wait}{clear}
+roev15.081C	wrap44x3	ロクス	ま、こんなところだ……つまんない話さ……。{wait}{clear}
+roev15.085C	wrap44x3	＄＄＄＄＄＄	そんなことはありません……。話してくれて、ありがとうございました。{wait}{clear}ところで……ロクスのご両親は今どうしているのですか？{wait}{clear}
+roev15.08EC	wrap44x3	ロクス	ああ、両親は普通の人たちさ。{wait}{clear}
+roev15.0910	wrap44x3	ロクス	でも、ずっと別々に暮らしていたから……{wait}{clear}
+roev15.093E	wrap44x3	ロクス	大きくなって会ったときにはほとんど他人みたいな感じだった。{wait}{clear}
+roev15.0982	wrap44x3	ロクス	今でもほとんど会わないし、お互い話すこともない……。{wait}{clear}
+roev15.09C0	wrap44x3	ロクス	苦手だ……あの人達は。{wait}{clear}…………。{wait}{clear}
+roev15.0A02	wrap44x3	＄＄＄＄＄＄	あなたの癒しの手の話を聞かせてくれませんか？{wait}{clear}
+roev15.0A42	wrap44x3	ロクス	この手の話か……。{wait}{clear}
+roev15.0A5C	wrap44x3	ロクス	……自分の手の力に気づいたのは８才か９才くらいのときかな……{wait}{clear}
+roev15.0AA2	wrap44x3	ロクス	一番最初は飼っていた子犬だった……まだ生まれてまもない子犬が馬車にひかれて……{wait}{clear}
+roev15.0AFA	wrap44x3	ロクス	大けがしてとても助からないって思った。{wait}{clear}
+roev15.0B28	wrap44x3	ロクス	僕はそのときすごく悔しかった……{wait}{clear}
+roev15.0B50	wrap44x3	ロクス	なんのためにこいつは生まれてきたんだって、まだ小さくてなんにも知らないのに……{wait}{clear}
+roev15.0BA8	wrap44x3	ロクス	こんな風に死ぬなんて許せなかった……。{wait}{clear}
+roev15.0BD6	wrap44x3	ロクス	でも僕がその子犬をなでていると子犬の血が止まって、傷が治って……{wait}{clear}
+roev15.0C20	wrap44x3	ロクス	初めは気づかなかった。ただ、子犬が元気になったことがうれしかった……自分の思いがかなったって。{wait}{clear}
+roev15.0C8A	wrap44x3	ロクス	そして、そんなことが何回かあって……大人達は僕の力に気づいた……{wait}{clear}
+roev15.0CD4	wrap44x3	ロクス	教会は……教皇の証である癒しの手の使いを求めていたからすぐに引き取られた。{wait}{clear}
+roev15.0D2A	wrap44x3	ロクス	でも、教会が僕のこの手にやらせたことは布施を多くする貴族や王族、大商人たちの治療ばかりだった……。{wait}{clear}
+roev15.0D98	wrap44x3	ロクス	僕はそのうち面倒になってきて適当にいいわけをつくって力を使うのをやめた……。{wait}{clear}
+roev15.0DEE	wrap44x3	ロクス	他人に利用されるのは御免だから……。{wait}{clear}
+roev15.0E1A	wrap44x3	ロクス	……べつに……今の僕には必要なんてない……こんな力は……{wait}{clear}…………。{wait}{clear}
+roev15.0E9A	wrap44x3	ロクス	雪だ……。{wait}{clear}
+roev15.0EAC	wrap44x3	ロクス	どうりで寒いはずだ……。{wait}{clear}
+roev15.0ECC	wrap44x3	ロクス	宿へもどろう……。{wait}{clear}
+roev16.00FC	wrap44x3	ロクス	ヴァイパー、お前！{wait}{clear}
+roev16.0124	wrap44x3	クラレンス	はははは、ロクス。お前はほんと、お人好しだよ。{wait}{clear}
+roev16.015C	wrap44x3	クラレンス	……気をつけろかすり傷ですまない場合もある……。{wait}{clear}
+roev16.0196	wrap44x3	クラレンス	じゃあな、楽しかったぜ……。{wait}{clear}
+roev17.005C	wrap44x3	ロクス	時間はあるかい、＄＄＄＄＄＄？{wait}{clear}
+roev17.008E	wrap44x3	＄＄＄＄＄＄	ええ、平気です。{wait}{clear}
+roev17.00B2	wrap44x3	＄＄＄＄＄＄	目の傷は、大丈夫ですか？{wait}{clear}
+roev17.00DC	wrap44x3	ロクス	ああ、とくに問題はない。かすり傷だ。{wait}{clear}
+roev17.010A	wrap44x3	ロクス	傷跡は残ったけどね……。{wait}{clear}
+roev17.012A	wrap44x3	ロクス	ま、君との冒険の思い出にするさ。{wait}{clear}
+roev17.015C	wrap44x3	ロクス	＄＄＄＄＄＄、……君のほかの勇者たちにとっては知らないけど……{wait}{clear}
+roev17.01A6	wrap44x3	ロクス	僕は人のために戦うなんてできない。{wait}{clear}
+roev17.01D0	wrap44x3	ロクス	そんなことをするのは僕にとっては偽善だ……{wait}{clear}
+roev17.0202	wrap44x3	ロクス	でも……僕は好きな女性……女の子のためにならできる……。{wait}{clear}
+roev17.0244	wrap44x3	ロクス	この体がどうなろうと知ったこっちゃない……。{wait}{clear}
+roev17.0278	wrap44x3	ロクス	なんでもできる……きっと。{wait}{clear}
+roev17.029A	wrap44x3	ロクス	＄＄＄＄＄＄……僕は君の笑顔が好きだ……{wait}{clear}
+roev17.02CA	wrap44x3	ロクス	君の髪も、やさしいその声も、僕は君のすべてが……大好きだ。{wait}{clear}
+roev17.0310	wrap44x3	ロクス	僕は……こんなことを人間の女性には聞いたことなどないけど……{wait}{clear}
+roev17.0358	wrap44x3	ロクス	君にキスしてもいいか？{wait}{clear}
+roev17.0382	wrap44x3	ＮＵＬＬ	《受け入れる》{n}
+roev17.0398	wrap44x3	ＮＵＬＬ	《受け入れない》{n}
+roev17.03EA	wrap44x3	ロクス	君を愛している……。{wait}{clear}
+roev17.04CA	wrap44x3	＄＄＄＄＄＄	ごめんなさい、ロクス……{wait}{clear}
+roev17.0506	wrap44x3	ロクス	振られたわけか……{wait}{clear}
+roev17.0520	wrap44x3	ロクス	ふう……{wait}{clear}
+roev17.053C	wrap44x3	ロクス	僕のような男を振るなんてたぶん、後悔するよ。＄＄＄＄＄＄。{wait}{clear}
+roev19_01.0058	wrap44x3	ロクス	ずいぶんと深い森だ。こんな場所に人はいないだろう……？{wait}{clear}
+roev19_01.00F4	wrap44x3	ロクス	……待て、誰かいる……？{wait}{clear}
+roev21.00CA	wrap44x3	ロクス	なんてことを……{wait}{clear}天竜……エンディミオンの血が呼び寄せたのか……。{wait}{clear}
+roev21.019C	wrap44x3	ロクス	これ以上すきにはさせん！{wait}{clear}
+roev21.0224	wrap44x3	＄＄＄＄＄＄	塔が崩れます、ロクス！{wait}{clear}
+roev21.029C	wrap44x3	ロクス	最後、魔女の動きが止まった……{wait}{clear}何かが起きたようだったが……。{wait}{clear}
+roev21.02FC	wrap44x3	ロクス	天竜か……{wait}{clear}ついによみがえったわけだ。{wait}{clear}
+roev25.00A6	wrap44x3	ラファエル	勇者ロクス、天使＄＄＄＄＄＄、よくやりました。{wait}{clear}
+roev25.01D0	wrap44x3	ロクス	天界に帰るのか。{wait}{clear}
+roev25.020C	wrap44x3	ロクス	また、地上に降りたときは会いに来てくれ。いつでも歓迎するよ。{wait}{clear}
+roev25.0252	wrap44x3	ロクス	あ、今度はつまらないことで迷惑はかけないつもりだ。{wait}{clear}
+roev25.029A	wrap44x3	＄＄＄＄＄＄	はい、わかりました。{wait}{clear}
+roev25.02C0	wrap44x3	ロクス	さよなら、天使様。{wait}{clear}
+roev25.02E6	wrap44x3	＄＄＄＄＄＄	さようなら、ロクス。{wait}{clear}
+roev25.0334	wrap44x3	ロクス	天界へ帰るのか？{wait}{clear}
+roev25.0358	wrap44x3	＄＄＄＄＄＄	はい……{wait}{clear}でも必ずあなたの元に戻ります。{wait}{clear}……私は人としてここに残ります。{wait}{clear}
+roev25.03CE	wrap44x3	ロクス	もし、戻れないのなら……いいんだ……{wait}{clear}
+roev25.03FC	wrap44x3	ロクス	僕なんかのために、なにかを捨てることなどない……{wait}{clear}
+roev25.0436	wrap44x3	ロクス	僕のことなど忘れてしまってくれ。{wait}{clear}
+roev25.046A	wrap44x3	＄＄＄＄＄＄	いいえ……ロクス……戻ってきます、必ず……。{wait}{clear}また……会いましょう。ロクス{wait}{clear}
+roev25.054A	wrap44x3	ロクス	そうか…………また会えるといいな。{wait}{clear}
+roev25.0576	wrap44x3	ロクス	僕は君の笑顔を忘れない……。{wait}{clear}
+roev25.059A	wrap44x3	ロクス	もう一度、君の名を呼べる日を楽しみにしている。{wait}{clear}
+roev25.05DE	wrap44x3	＄＄＄＄＄＄	さよなら、ロクス。{wait}{clear}
+roev25.0602	wrap44x3	ロクス	ああ、さよなら。＄＄＄＄＄＄。{wait}{clear}
+taiken00.0040	wrap44x3		この体験版は、開発途中バージョンです。製品版とは仕様が変わる可能性があることを、あらかじめご了承ください。{wait}{clear}今回の体験版では、プレイヤーの名前を入力することができません。名前はデフォルトのラビエルになります。{wait}{clear}また、パートナー妖精も８人のうちランダムで選ばれます。{wait}{clear}プレイできる期間は１／１～１／３１までです。日付は画面の左上に表示されています。{wait}{clear}では、さっそく聖アザリア宮にいるラファエルから話を聞いてゲームをはじめてください。{wait}{clear}あなたと、アルカヤの勇者の未来に幸あらんことを……。{wait}{clear}
+taiken01.0038	wrap44x3		今回の体験版はここまでです。このあとの冒険は、製品版の発売まで楽しみに待っていてください。{wait}{clear}では、またあなたに会えることを祈って……。{wait}{clear}
+tenkai.01F2	wrap44x3	＄＄＄＄＄＄	ラファエル様……勇者クライヴが死にました……。{n}{wait}{clear}彼は、自分の中の吸血鬼の血の誘惑にずっと耐えていたのです……。{n}{wait}{clear}それなのに……彼はその血に負け、他の勇者の手によって、倒されました。私の言葉も、まったく届くことなく……。{wait}{clear}
+tenkai.02F4	wrap44x3	＄＄＄＄＄＄	ラファエル様……勇者フェインが死にました……。{n}{wait}{clear}自分の使った魔法によって悪魔に魂を乗っ取られた妻を救い、自分の罪を償うために……。{wait}{clear}
+tenkai.0E36	wrap44x3	＄＄＄＄＄＄	それは、わかっています。私たちがサタンと戦う理由は……。{wait}{clear}ですが、それと人とのあいだになにか関係あるというのですか？戦ってもらう理由にはならないと……{wait}{clear}
+TGS_END.002C	wrap44x3		今回、遊べるのはここまでです。ゲームはこのように進行していきます。{wait}{clear}そして、勇者候補たちのお話の続きは、ソフトの発売までお待ちください。{wait}{clear}
+visit_01.003C	wrap44x3		０１＿００{wait}{clear}
+visit_01.0070	wrap44x3		０１＿０１{wait}{clear}
+visit_01.008A	wrap44x3		０２＿００{wait}{clear}
+visit_01.00A4	wrap44x3		０２＿０１{wait}{clear}
+visit_01.00BE	wrap44x3		０３＿００{wait}{clear}
+visit_01.00D8	wrap44x3		０３＿０１{wait}{clear}
+visit_01.00F2	wrap44x3		０４＿００{wait}{clear}
+visit_01.010C	wrap44x3		０４＿０１{wait}{clear}
+visit_01.0126	wrap44x3		０５＿００{wait}{clear}０５＿０１
+visit_01.015A	wrap44x3		０６＿００{wait}{clear}
+visit_01.0174	wrap44x3		０６＿０１{wait}{clear}
+visit_01.018E	wrap44x3		０７＿００{wait}{clear}
+visit_01.01A8	wrap44x3		０７＿０１{wait}{clear}
+visit_01.01C2	wrap44x3		０８＿００{wait}{clear}
+visit_01.01DC	wrap44x3		０８＿０１{wait}{clear}
+visit_01.01F6	wrap44x3		０９＿００{wait}{clear}
+visit_01.0210	wrap44x3		０９＿０１{wait}{clear}
+visit_01.022A	wrap44x3		１１＿００{wait}{clear}
+visit_01.0244	wrap44x3		１１＿０１{wait}{clear}
+visit_01.025E	wrap44x3		１２＿００{wait}{clear}
+visit_01.0278	wrap44x3		１２＿０１{wait}{clear}
+visit_01.0292	wrap44x3		１６＿０１{wait}{clear}
+visit_01.02AC	wrap44x3		１６＿０２{wait}{clear}
+visit_01.02C6	wrap44x3		１９＿００{wait}{clear}
+visit_01.02E0	wrap44x3		１９＿０１{wait}{clear}
+visit_01.02FA	wrap44x3		２０＿００{wait}{clear}
+visit_01.0314	wrap44x3		２０＿０１{wait}{clear}
+visit_01.032E	wrap44x3		２１＿００{wait}{clear}
+visit_01.0348	wrap44x3		２２＿０１{wait}{clear}
+visit_01.0362	wrap44x3		２３＿００{wait}{clear}
+visit_01.037C	wrap44x3		２３＿０１{wait}{clear}
+visit_01.0396	wrap44x3		２４＿００{wait}{clear}
+visit_01.03B0	wrap44x3		２４＿０１{wait}{clear}
+visit_01.03CA	wrap44x3		２５＿００{wait}{clear}
+visit_01.03E4	wrap44x3		２５＿０１{wait}{clear}
+visit_01.03FE	wrap44x3		２６＿００{wait}{clear}
+visit_01.0418	wrap44x3		２６＿０１{wait}{clear}
+visit_01.0432	wrap44x3		２８＿００{wait}{clear}
+visit_01.044C	wrap44x3		２８＿０１{wait}{clear}
+visit_01.0466	wrap44x3		２９＿００{wait}{clear}
+visit_01.0480	wrap44x3		２９＿０１{wait}{clear}
+visit_01.049A	wrap44x3		３０＿００{wait}{clear}
+visit_01.04B4	wrap44x3		３０＿０１{wait}{clear}
+visit_01.04CE	wrap44x3		３１＿００{wait}{clear}
+visit_01.04E8	wrap44x3		３１＿０１{wait}{clear}
+visit_01.0502	wrap44x3		３２＿００{wait}{clear}
+visit_01.051C	wrap44x3		３２＿０１{wait}{clear}
+visit_01.0536	wrap44x3		３３＿００{wait}{clear}
+visit_01.0550	wrap44x3		３３＿０１{wait}{clear}
+visit_01.056A	wrap44x3		３４＿００{wait}{clear}
+visit_01.0584	wrap44x3		３５＿００{wait}{clear}
+visit_02.0054	wrap44x3	ＮＵＬＬ	アイリーン訪問中{wait}{clear}
+Y01ev_01.0044	wrap44x3	＄＄＄＄＄＄	ローザはちゃんと休んでいるでしょうか……。{wait}{clear}
+Y01ev_01.0080	wrap44x3	ローザ	きゃーっ！{wait}{clear}
+Y01ev_01.009E	wrap44x3	＄＄＄＄＄＄	え？　今のは？{wait}{clear}
+Y01ev_01.00BE	wrap44x3	ローザ	きゃあ、きゃぁ、天使様、助けてくださいっ！{wait}{clear}
+Y01ev_01.00FC	wrap44x3	＄＄＄＄＄＄	は、はい！　今、行きますっ！{wait}{clear}
+Y01ev_01.0150	wrap44x3	ローザ	ああ、天使様、来てくださったんですね。{wait}{clear}
+Y01ev_01.018A	wrap44x3	＄＄＄＄＄＄	いったい、どうしたのですか、ローザ？なにがおこったのです？{wait}{clear}
+Y01ev_01.01D8	wrap44x3	ローザ	あ、あの……朝露があまりにも美しくて……。思わず見とれていたら、こんなことに……。{wait}{clear}
+Y01ev_01.0242	wrap44x3	＄＄＄＄＄＄	そうだったんですか。今、はずしてあげますからね。{wait}{clear}
+Y01ev_01.0286	wrap44x3	ローザ	すいません、天使様……ありがとうございます。{wait}{clear}
+Y01ev_01.02D0	wrap44x3	＄＄＄＄＄＄	でも、よかったですね、クモがいなくて。{wait}{clear}
+Y01ev_01.0308	wrap44x3	ローザ	ええ、本当に……。クモがいたなんて思ったら、ぞっとしてしまいます。{wait}{clear}
+Y01ev_01.0360	wrap44x3	＄＄＄＄＄＄	はい、もう大丈夫ですよ。{wait}{clear}
+Y01ev_01.03A6	wrap44x3	ローザ	はぁ、よかった……。天使様、本当にありがとうございました。{wait}{clear}
+Y01ev_01.03FE	wrap44x3	＄＄＄＄＄＄	いえ、どういたしまして。ローザの意外な一面が見られて、楽しかったですよ。{wait}{clear}
+Y01ev_01.045A	wrap44x3	ローザ	そんな、天使様、からかわないでください。{n}{wait}{clear}
+Y01ev_01.0496	wrap44x3	ローザ	でも、恥ずかしいので、このことは、みんなには内緒にしておいてくださいね。{wait}{clear}

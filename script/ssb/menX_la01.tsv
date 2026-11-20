@@ -7,7 +7,7 @@ menX_la01.0102	レイラ		speaker
 menX_la01.010C	悪いけど、ひとりにしておいて……。{wait}{clear}		
 menX_la01.0136	レイラ		speaker
 menX_la01.0140	＄＄＄＄＄＄……{n}あなたの立場はわかるけど、{n}お願いだから、ひとりにして……。{wait}{clear}		
-menX_la01.019C	ＮＵＬＬ		speaker
+menX_la01.019C	ＮＵＬＬ	NULL	speaker
 menX_la01.01A8	レイラに同行しますか？{n}		
 menX_la01.01C4	　《はい》{n}		
 menX_la01.01D6	　《いいえ》		

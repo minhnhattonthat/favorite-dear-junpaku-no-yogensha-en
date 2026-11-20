@@ -5,7 +5,7 @@ men1_Fe01.0082	＄＄＄＄＄＄		speaker
 men1_Fe01.0092	ええ……{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
 men1_Fe01.00C8	フェイン		speaker
 men1_Fe01.00D4	いや……{n}実は天使としての君の心構えを知りたくて{n}呼んでもらったのだ。{wait}{clear}		
-men1_Fe01.011E	ＮＵＬＬ		speaker
+men1_Fe01.011E	ＮＵＬＬ	NULL	speaker
 men1_Fe01.012E	《そうだったのですか……。》{n}		
 men1_Fe01.0152	《これでなにかわかりましたか？》{n}		
 men1_Fe01.017A	＄＄＄＄＄＄		speaker

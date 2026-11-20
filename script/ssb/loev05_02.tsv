@@ -13,7 +13,7 @@ loev05_02.01DC	部屋を抜け出して、ここで景色を見てた……。{w
 loev05_02.020E	ふう……なんだかんだ言って、{n}あの宰相の言ってた通りだ……{wait}{clear}		
 loev05_02.0250	おれたちの国は若くて歴史もない……。{wait}{clear}		
 loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{wait}{clear}		
-loev05_02.02AA	ＮＵＬＬ		speaker
+loev05_02.02AA	ＮＵＬＬ	NULL	speaker
 loev05_02.02BA	《そんなことはない》{n}		
 loev05_02.02D6	《気を落とすことはない》{n}		
 loev05_02.0300	＄＄＄＄＄＄		speaker

@@ -1,78 +1,78 @@
 id	jp	en	notes
-alkaya.008E	ローザ		speaker
-alkaya.009A	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたこの地について{n}説明させていただこうと思いますが、{n}お聞きになられますか、天使様？{wait}{clear}		
-alkaya.0130	ＮＵＬＬ		speaker
-alkaya.0140	《聞く》{n}		
-alkaya.0150	《聞かない》{n}		
-alkaya.0164	ローザ		speaker
-alkaya.016E	では、少しだけですが、{n}アルカヤの説明をさせていただきます。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなり、{n}大きく７つに分けられます。{wait}{clear}		
-alkaya.022E	ローザ		speaker
-alkaya.0238	まず、大陸の北にあり、{n}アルカヤでもっとも強大な力を誇るのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフート。{n}大陸の北、約３分の１を占め、{n}また、国土の３分の１は凍土におおわれています。{wait}{clear}大陸全土を領土としたほどの{n}大帝国だった時代もあるという、{n}とても長い歴史のある国です。{wait}{clear}現在も非常に統率のとれた騎士団を組織する{n}アルカヤ一の軍事国家です。{wait}{clear}		
-alkaya.03BC	ローザ		speaker
-alkaya.03C6	グローサイン帝国の東に位置するのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとても厳しい環境のため、{n}あまり人も住んでいません。{n}大陸の中でも辺境地域といえるでしょう。{wait}{clear}その土地柄のせいか、さまざまな迷信などが{n}いまでもたくさん語られているようです。{wait}{clear}クレージュ公国の北の地域については{n}詳しくは調べられませんでした。{n}ただ、とても怖れられている場所のようでした。{wait}{clear}		
-alkaya.0552	ローザ		speaker
-alkaya.055C	帝国の南には、エクレシア教国があります。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスです。{wait}{clear}代々教皇が治めているこの国には{n}首都にとても大きな聖堂があり、{n}たくさんの人々の信仰を集めています。{wait}{clear}また、セルバ地方にはイェラセル大陸最大の湖{n}ドライハウプ湖があります。{wait}{clear}		
-alkaya.068C	ローザ		speaker
-alkaya.0696	帝国の南西、教国の西に接しているのは{n}６つの国からなる、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルという６つの王国は{n}交易が非常に盛んで、とても豊かな国です。{wait}{clear}中心都市はバーゼルにあるアルクマールです。{n}そして、ラビルクにあるスゥオレからは{n}船が出ていて、西の島へ渡ることができます。{wait}{clear}		
-alkaya.07F0	ローザ		speaker
-alkaya.07FA	西のアスローン海に浮かんでいるのは、{n}アルカヤ最大の島、ブレメース島です。{wait}{clear}数百年前から人々が移り住んだといわれる{n}新しい地域です。{wait}{clear}ただ、東西を横切る山脈があるため平地がせまく、{n}あまり恵まれた土地とは言えないようです。{wait}{clear}大陸の南西にあるカヴァキア半島は、{n}未開の地で、半島のほとんどを占める森は{n}レイフォリアの森と呼ばれています。{wait}{clear}大陸からの人の出入りはほとんどなく、{n}もともと森で暮らしている部族がいます。{wait}{clear}彼らには独自の文化や生活があり、{n}そこに伝わる伝説や神話が{n}いまでも語り継がれているようです。{wait}{clear}		
-alkaya.0A14	ローザ		speaker
-alkaya.0A1E	大陸のいちばん南に位置しているのは、{n}レグランス王国です。{n}首都はエローラにあるファンランです。{wait}{clear}以前は東と西に分かれた国だったようですが、{n}５０年ほど前に両王家が一緒になって{n}現在のレグランス王国になったそうです。{wait}{clear}統一されて間もないことと、{n}もともとの国の違いによって、{n}いろいろな問題を抱えているようです。{wait}{clear}		
-alkaya.0B7C	ローザ		speaker
-alkaya.0B86	天使様、以上がアルカヤの説明です。{n}一度にお話ししてしまったのですが、大丈夫ですか？{wait}{clear}これから大変かとは思いますが、{n}がんばってくださいね。{wait}{clear}では、さっそくですが{n}私に探索の指示をいただけますか？{wait}{clear}		
-alkaya.0C56	ローザ		speaker
-alkaya.0C60	そうですか、わかりました。{n}では、さっそくですが、{n}私に探索の指示をいただけますか？{wait}{clear}		
-alkaya.0CD0	フロリンダ		speaker
-alkaya.0CE0	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りたこの地上界について{n}フロリンが説明をさせてもらいますけど、{n}お聞きになりますか？{wait}{clear}		
-alkaya.0D70	ＮＵＬＬ		speaker
-alkaya.0D80	《聞く》{n}		
-alkaya.0D90	《聞かない》{n}		
-alkaya.0DA4	フロリンダ		speaker
-alkaya.0DB2	わかりましたぁ！{n}少しだけですけど、説明しますね！{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて{n}大きく７つに分けられます。{wait}{clear}		
-alkaya.0E6C	フロリンダ		speaker
-alkaya.0E7A	まず、大陸の北にあって{n}アルカヤでいちばん強大な力を誇っているのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフートです。{n}大陸の約３分の１を占めていて、国土の{n}３分の１は凍土におおわれている寒い国ですぅ。{wait}{clear}大陸のほぼ全部を支配するような{n}大帝国だった時代もあったみたいで、{n}とっても長い歴史のある国です。{wait}{clear}いまは統率のとれた騎士団が組織されている{n}軍事国家ですぅ。{wait}{clear}		
-alkaya.100E	フロリンダ		speaker
-alkaya.101C	グローサイン帝国の東にあるのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとっても環境が厳しくって、{n}大陸の辺境地域って感じですぅ。{n}それに、人もあんまり住んでないみたいです。{wait}{clear}そのせいか、いろんな迷信が、{n}いまでもたくさん伝わっているようです。{wait}{clear}クレージュ公国の北の方は、{n}詳しく調べられませんでした。{wait}{clear}ただ、とっても怖れられている{n}場所だというのだけ、わかりました。{wait}{clear}		
-alkaya.11AE	フロリンダ		speaker
-alkaya.11BC	帝国の南は、エクレシア教国です。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスですぅ。{wait}{clear}この国は代々教皇が治めています。{n}そして、首都にはとっても大きな聖堂があって、{n}たくさんの人々の信仰を集めてるみたいです。{wait}{clear}それに、セルバ地方にはイェラセル大陸で{n}いちばん大きな湖、ドライハウプ湖があります。{wait}{clear}		
-alkaya.130A	フロリンダ		speaker
-alkaya.1318	帝国の南西、教国の西にあるのは{n}６つの国からできている、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルっていう６つの王国は{n}交易がすっごく盛んで、とても豊かな国ですぅ。{wait}{clear}中心都市はバーゼルにあるアルクマールで、{n}ラビルクにあるスゥオレからは船が出てます。{n}そこから西にある島へ渡ることができます。{wait}{clear}		
-alkaya.147A	フロリンダ		speaker
-alkaya.1488	西のアスローン海に浮かんでいるのは、{n}アルカヤでいちばん大きな島、ブレメース島です。{wait}{clear}人が移り住んでから、{n}まだ数百年しかたってないので、{n}なんか、新しい地域みたいですぅ。{wait}{clear}でも、東西を横切る山脈があって{n}平らな土地が少ないので、{n}あまり恵まれた感じではないみたいです。{wait}{clear}大陸の南西にあるカヴァキア半島は未開の地です。{n}そして、半島のほとんどをおおっている森は{n}レイフォリアの森と呼ばれていますぅ。{wait}{clear}大陸からの人の出入りはほとんどないんですけど、{n}もともと森で暮らしている部族がいます。{wait}{clear}彼らには独自の文化や生活があって{n}そこに伝わる伝説や神話が{n}たくさん語り継がれているみたいです。{wait}{clear}		
-alkaya.16EE	フロリンダ		speaker
-alkaya.16FC	大陸のいちばん南にあるのは、{n}レグランス王国です。{n}首都はエローラにあるファンランです。{wait}{clear}前は東と西に分かれた国だったみたいですけど、{n}５０年くらい前に両王家が一緒になって{n}いまのレグランス王国になったそうです。{wait}{clear}統一されてからの歴史が浅いことと、{n}もともと国の違いがあったので、{n}いろいろな問題を抱えているみたいですぅ。{wait}{clear}		
-alkaya.1866	フロリンダ		speaker
-alkaya.1874	天使様、これでアルカヤの説明はおしまいです。{n}いっぺんにたくさん話しちゃいましたけど、{n}大丈夫ですか？{wait}{clear}いろいろ大変だと思いますけど、{n}がんばってくださいね！{wait}{clear}じゃあ、さっそくですけど、{n}フロリンに探索の指示をしてもらえますか？{wait}{clear}		
-alkaya.1964	フロリンダ		speaker
-alkaya.1972	そうですか……わかりました。{n}じゃあ、さっそくですけど、{n}フロリンに探索の指示をしてもらえますか？{wait}{clear}		
-alkaya.19F4	シェリー		speaker
-alkaya.1A02	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたところなので、{n}説明しようと思うんですけど、お聞きになりますか？{wait}{clear}		
-alkaya.1A86	ＮＵＬＬ		speaker
-alkaya.1A96	《聞く》{n}		
-alkaya.1AA6	《聞かない》{n}		
-alkaya.1ABA	シェリー		speaker
-alkaya.1AC6	わかりました。{n}では、少しだけですけど、説明しますね！{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて、{n}大きく７つに分けられます。{wait}{clear}		
-alkaya.1B86	シェリー		speaker
-alkaya.1B92	まず、大陸の北にあり、{n}アルカヤでもっとも強大な力を誇るのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフート。{n}大陸の北、約３分の１を占めていますが、{n}国土の３分の１は凍土におおわれています。{wait}{clear}大陸全土を領土にしたくらいの{n}大帝国だった時代もあるという、{n}とても長い歴史のある国です。{wait}{clear}いまも非常に統率のとれた騎士団を組織する{n}軍事国家です。{wait}{clear}		
-alkaya.1D10	シェリー		speaker
-alkaya.1D1C	グローサイン帝国の東に位置しているのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとても厳しい環境です。{n}大陸の中でも辺境地域って感じで、{n}人もあんまり住んでないみたいです。{wait}{clear}その土地柄のせいか、さまざまな迷信が、{n}いまでも人々にたくさん伝わっているようです。{wait}{clear}ただ、クレージュ公国の北の地域は{n}詳しく調べられなかったです。{n}ただ、とっても怖れられている場所みたいです。{wait}{clear}		
-alkaya.1EAC	シェリー		speaker
-alkaya.1EB8	帝国の南には、エクレシア教国があります。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスです。{wait}{clear}代々教皇が治めているこの国には{n}首都にとっても大きな聖堂があって{n}たくさんの人々の信仰を集めてます。{wait}{clear}また、セルバ地方にはイェラセル大陸最大の湖、{n}ドライハウプ湖があります。{wait}{clear}		
-alkaya.1FEA	シェリー		speaker
-alkaya.1FF6	帝国の南西、教国の西に接しているのは{n}６つの国からなる、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルという６つの王国は{n}交易がとても盛んで、すごく豊かな国です。{wait}{clear}中心都市はバーゼルにあるアルクマールで、{n}ラビルクにあるスゥオレからは船が出ています。{n}そこから西にある島へ渡ることができます。{wait}{clear}		
-alkaya.2154	シェリー		speaker
+alkaya.008E	ローザ	Rosa	speaker
+alkaya.009A	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたこの地について{n}説明させていただこうと思いますが、{n}お聞きになられますか、天使様？{wait}{clear}	Angel, this is Arcaya, the world below.{wait}{clear}Since this is your first time here, may I{n}tell you a little about this land, Angel?{wait}{clear}	
+alkaya.0130	ＮＵＬＬ	NULL	speaker
+alkaya.0140	《聞く》{n}	Listen{n}	
+alkaya.0150	《聞かない》{n}	Don't listen{n}	
+alkaya.0164	ローザ	Rosa	speaker
+alkaya.016E	では、少しだけですが、{n}アルカヤの説明をさせていただきます。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなり、{n}大きく７つに分けられます。{wait}{clear}	Then allow me to explain Arcaya, if only{n}briefly.{wait}{clear}Arcaya is made up of the Yerasel continent,{n}the Kavakia peninsula and islands large and{n}small. It is divided into seven main lands.{wait}{clear}	
+alkaya.022E	ローザ	Rosa	speaker
+alkaya.0238	まず、大陸の北にあり、{n}アルカヤでもっとも強大な力を誇るのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフート。{n}大陸の北、約３分の１を占め、{n}また、国土の３分の１は凍土におおわれています。{wait}{clear}大陸全土を領土としたほどの{n}大帝国だった時代もあるという、{n}とても長い歴史のある国です。{wait}{clear}現在も非常に統率のとれた騎士団を組織する{n}アルカヤ一の軍事国家です。{wait}{clear}	First, in the north of the continent lies{n}the Grosain Empire, the mightiest power in{n}all Arcaya.{wait}{clear}Its capital is Reizefut, in the Reizefut{n}region. It covers about a third of the{n}continent, and a third of its land is frozen{wait}{clear}tundra.{wait}{clear}It is a land with a very long history; it is{n}said that it once ruled the whole continent{n}as a great empire.{wait}{clear}Even now it is Arcaya's foremost military{n}nation, with superbly disciplined knightly{n}orders.{wait}{clear}	
+alkaya.03BC	ローザ	Rosa	speaker
+alkaya.03C6	グローサイン帝国の東に位置するのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとても厳しい環境のため、{n}あまり人も住んでいません。{n}大陸の中でも辺境地域といえるでしょう。{wait}{clear}その土地柄のせいか、さまざまな迷信などが{n}いまでもたくさん語られているようです。{wait}{clear}クレージュ公国の北の地域については{n}詳しくは調べられませんでした。{n}ただ、とても怖れられている場所のようでした。{wait}{clear}	East of the Grosain Empire lie the Duchy of{n}Courrege and the Duchy of Zern.{wait}{clear}The land there is harsh, and few people live{n}in it. One could call it the frontier of the{n}continent.{wait}{clear}Perhaps because of that, many old{n}superstitions are still told there.{wait}{clear}I could not look closely into the lands{n}north of Courrege. I only learned that the{n}place is greatly feared.{wait}{clear}	
+alkaya.0552	ローザ	Rosa	speaker
+alkaya.055C	帝国の南には、エクレシア教国があります。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスです。{wait}{clear}代々教皇が治めているこの国には{n}首都にとても大きな聖堂があり、{n}たくさんの人々の信仰を集めています。{wait}{clear}また、セルバ地方にはイェラセル大陸最大の湖{n}ドライハウプ湖があります。{wait}{clear}	South of the Empire is the Holy Nation of{n}Ecclesia. It is a country united by its{n}faith, and its capital is Araras, in{wait}{clear}Linares.{wait}{clear}It has been ruled by a line of popes, and{n}the great cathedral in its capital draws the{n}faith of many people.{wait}{clear}In the Selva region lies Lake Dreihaup, the{n}largest lake on the Yerasel continent.{wait}{clear}	
+alkaya.068C	ローザ	Rosa	speaker
+alkaya.0696	帝国の南西、教国の西に接しているのは{n}６つの国からなる、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルという６つの王国は{n}交易が非常に盛んで、とても豊かな国です。{wait}{clear}中心都市はバーゼルにあるアルクマールです。{n}そして、ラビルクにあるスゥオレからは{n}船が出ていて、西の島へ渡ることができます。{wait}{clear}	Southwest of the Empire and west of the Holy{n}Nation lies the Six Kingdoms Alliance.{wait}{clear}Its six kingdoms, Labirk, Celesta, Lanas,{n}Lefkas, Frezelecia and Basel, thrive on{n}trade and are very wealthy.{wait}{clear}Its central city is Alkmaar, in Basel. Ships{n}leave from Suole, in Labirk, for the island{n}to the west.{wait}{clear}	
+alkaya.07F0	ローザ	Rosa	speaker
+alkaya.07FA	西のアスローン海に浮かんでいるのは、{n}アルカヤ最大の島、ブレメース島です。{wait}{clear}数百年前から人々が移り住んだといわれる{n}新しい地域です。{wait}{clear}ただ、東西を横切る山脈があるため平地がせまく、{n}あまり恵まれた土地とは言えないようです。{wait}{clear}大陸の南西にあるカヴァキア半島は、{n}未開の地で、半島のほとんどを占める森は{n}レイフォリアの森と呼ばれています。{wait}{clear}大陸からの人の出入りはほとんどなく、{n}もともと森で暮らしている部族がいます。{wait}{clear}彼らには独自の文化や生活があり、{n}そこに伝わる伝説や神話が{n}いまでも語り継がれているようです。{wait}{clear}	Floating in the Athlone Sea to the west is{n}Bremes Island, the largest island in Arcaya.{wait}{clear}People are said to have settled it only a{n}few hundred years ago, so it is a young{n}land.{wait}{clear}But a mountain range runs across it from{n}east to west, so flat land is scarce, and it{n}is not a very blessed place.{wait}{clear}The Kavakia peninsula, southwest of the{n}continent, is untamed land. The forest that{n}covers most of it is called the Reyforia{wait}{clear}Forest.{wait}{clear}Hardly anyone from the continent goes there,{n}but tribes have lived in that forest since{n}long ago.{wait}{clear}They have their own culture and way of life,{n}and their legends and myths are still handed{n}down.{wait}{clear}	
+alkaya.0A14	ローザ	Rosa	speaker
+alkaya.0A1E	大陸のいちばん南に位置しているのは、{n}レグランス王国です。{n}首都はエローラにあるファンランです。{wait}{clear}以前は東と西に分かれた国だったようですが、{n}５０年ほど前に両王家が一緒になって{n}現在のレグランス王国になったそうです。{wait}{clear}統一されて間もないことと、{n}もともとの国の違いによって、{n}いろいろな問題を抱えているようです。{wait}{clear}	At the southern tip of the continent is the{n}Kingdom of Legrance. Its capital is Fanlan,{n}in Ellora.{wait}{clear}It was once split into an eastern and a{n}western kingdom, but about fifty years ago{n}the two royal houses joined to form the{wait}{clear}Kingdom of Legrance we see today.{wait}{clear}Because it was united so recently, and{n}because the two old kingdoms differed, it{n}seems to have many problems.{wait}{clear}	
+alkaya.0B7C	ローザ	Rosa	speaker
+alkaya.0B86	天使様、以上がアルカヤの説明です。{n}一度にお話ししてしまったのですが、大丈夫ですか？{wait}{clear}これから大変かとは思いますが、{n}がんばってくださいね。{wait}{clear}では、さっそくですが{n}私に探索の指示をいただけますか？{wait}{clear}	That concludes my explanation of Arcaya,{n}Angel. I told you a great deal at once; are{n}you all right?{wait}{clear}I am sure hard times lie ahead, but please{n}do your best.{wait}{clear}Now then, may I have your orders for my{n}search?{wait}{clear}	
+alkaya.0C56	ローザ	Rosa	speaker
+alkaya.0C60	そうですか、わかりました。{n}では、さっそくですが、{n}私に探索の指示をいただけますか？{wait}{clear}	I see. Very well. Then, may I have your{n}orders for my search?{wait}{clear}	
+alkaya.0CD0	フロリンダ	Florinda	speaker
+alkaya.0CE0	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りたこの地上界について{n}フロリンが説明をさせてもらいますけど、{n}お聞きになりますか？{wait}{clear}	Angel, this is Arcaya, the world below!{wait}{clear}It's your first time down here, so Florin{n}can tell you all about it! Do you wanna{n}hear?{wait}{clear}	
+alkaya.0D70	ＮＵＬＬ	NULL	speaker
+alkaya.0D80	《聞く》{n}	Listen{n}	
+alkaya.0D90	《聞かない》{n}	Don't listen{n}	
+alkaya.0DA4	フロリンダ	Florinda	speaker
+alkaya.0DB2	わかりましたぁ！{n}少しだけですけど、説明しますね！{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて{n}大きく７つに分けられます。{wait}{clear}	Okaaay! Just a little, then!{wait}{clear}Arcaya is made up of the Yerasel continent,{n}the Kavakia peninsula and lots of big and{n}little islands, and it's split into seven{wait}{clear}main lands.{wait}{clear}	
+alkaya.0E6C	フロリンダ	Florinda	speaker
+alkaya.0E7A	まず、大陸の北にあって{n}アルカヤでいちばん強大な力を誇っているのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフートです。{n}大陸の約３分の１を占めていて、国土の{n}３分の１は凍土におおわれている寒い国ですぅ。{wait}{clear}大陸のほぼ全部を支配するような{n}大帝国だった時代もあったみたいで、{n}とっても長い歴史のある国です。{wait}{clear}いまは統率のとれた騎士団が組織されている{n}軍事国家ですぅ。{wait}{clear}	First, up in the north of the continent is{n}the Grosain Empire, the strongest power in{n}all Arcaya.{wait}{clear}Its capital is Reizefut, in the Reizefut{n}region. It covers about a third of the{n}continent, and a third of it is frozen{wait}{clear}tundra. It's a cold, cold country!{wait}{clear}Way back, it was a huge empire that ruled{n}almost the whole continent, so it has a{n}really long history.{wait}{clear}These days it's a military nation with super{n}disciplined knightly orders!{wait}{clear}	
+alkaya.100E	フロリンダ	Florinda	speaker
+alkaya.101C	グローサイン帝国の東にあるのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとっても環境が厳しくって、{n}大陸の辺境地域って感じですぅ。{n}それに、人もあんまり住んでないみたいです。{wait}{clear}そのせいか、いろんな迷信が、{n}いまでもたくさん伝わっているようです。{wait}{clear}クレージュ公国の北の方は、{n}詳しく調べられませんでした。{wait}{clear}ただ、とっても怖れられている{n}場所だというのだけ、わかりました。{wait}{clear}	East of the Grosain Empire are the Duchy of{n}Courrege and the Duchy of Zern.{wait}{clear}The land there is really harsh, kind of like{n}the edge of the continent. And hardly{n}anybody lives there.{wait}{clear}Maybe that's why there are still lots and{n}lots of superstitions going around.{wait}{clear}Florin couldn't look closely at the land{n}north of Courrege.{wait}{clear}All Florin found out is that people are{n}really scared of it.{wait}{clear}	
+alkaya.11AE	フロリンダ	Florinda	speaker
+alkaya.11BC	帝国の南は、エクレシア教国です。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスですぅ。{wait}{clear}この国は代々教皇が治めています。{n}そして、首都にはとっても大きな聖堂があって、{n}たくさんの人々の信仰を集めてるみたいです。{wait}{clear}それに、セルバ地方にはイェラセル大陸で{n}いちばん大きな湖、ドライハウプ湖があります。{wait}{clear}	South of the Empire is the Holy Nation of{n}Ecclesia. It's a country united by its{n}faith, and its capital is Araras, in{wait}{clear}Linares!{wait}{clear}Popes have ruled it for generations. And{n}there's a really big cathedral in the{n}capital, and loads of people come to worship{wait}{clear}there.{wait}{clear}Oh, and in the Selva region there's Lake{n}Dreihaup, the biggest lake on the Yerasel{n}continent.{wait}{clear}	
+alkaya.130A	フロリンダ	Florinda	speaker
+alkaya.1318	帝国の南西、教国の西にあるのは{n}６つの国からできている、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルっていう６つの王国は{n}交易がすっごく盛んで、とても豊かな国ですぅ。{wait}{clear}中心都市はバーゼルにあるアルクマールで、{n}ラビルクにあるスゥオレからは船が出てます。{n}そこから西にある島へ渡ることができます。{wait}{clear}	Southwest of the Empire and west of the Holy{n}Nation is the Six Kingdoms Alliance, made of{n}six countries.{wait}{clear}The six kingdoms, Labirk, Celesta, Lanas,{n}Lefkas, Frezelecia and Basel, do tons of{n}trade, so they're super rich!{wait}{clear}The central city is Alkmaar, in Basel, and{n}ships leave from Suole, in Labirk. You can{n}sail from there to the island in the west.{wait}{clear}	
+alkaya.147A	フロリンダ	Florinda	speaker
+alkaya.1488	西のアスローン海に浮かんでいるのは、{n}アルカヤでいちばん大きな島、ブレメース島です。{wait}{clear}人が移り住んでから、{n}まだ数百年しかたってないので、{n}なんか、新しい地域みたいですぅ。{wait}{clear}でも、東西を横切る山脈があって{n}平らな土地が少ないので、{n}あまり恵まれた感じではないみたいです。{wait}{clear}大陸の南西にあるカヴァキア半島は未開の地です。{n}そして、半島のほとんどをおおっている森は{n}レイフォリアの森と呼ばれていますぅ。{wait}{clear}大陸からの人の出入りはほとんどないんですけど、{n}もともと森で暮らしている部族がいます。{wait}{clear}彼らには独自の文化や生活があって{n}そこに伝わる伝説や神話が{n}たくさん語り継がれているみたいです。{wait}{clear}	Floating in the Athlone Sea to the west is{n}Bremes Island, the biggest island in Arcaya.{wait}{clear}People only moved there a few hundred years{n}ago, so it's kind of a new place!{wait}{clear}But there are mountains running across it{n}from east to west, so there isn't much flat{n}land, and it doesn't seem very lucky.{wait}{clear}The Kavakia peninsula, southwest of the{n}continent, is wild, untamed land. The forest{n}covering most of it is called the Reyforia{wait}{clear}Forest!{wait}{clear}Hardly anybody from the continent goes{n}there, but there are tribes who've always{n}lived in the forest.{wait}{clear}They have their own culture and way of life,{n}and they still tell lots of their own{n}legends and myths.{wait}{clear}	
+alkaya.16EE	フロリンダ	Florinda	speaker
+alkaya.16FC	大陸のいちばん南にあるのは、{n}レグランス王国です。{n}首都はエローラにあるファンランです。{wait}{clear}前は東と西に分かれた国だったみたいですけど、{n}５０年くらい前に両王家が一緒になって{n}いまのレグランス王国になったそうです。{wait}{clear}統一されてからの歴史が浅いことと、{n}もともと国の違いがあったので、{n}いろいろな問題を抱えているみたいですぅ。{wait}{clear}	At the very south of the continent is the{n}Kingdom of Legrance. Its capital is Fanlan,{n}in Ellora.{wait}{clear}It used to be split into east and west, but{n}about fifty years ago the two royal families{n}joined up and it became the Kingdom of{wait}{clear}Legrance.{wait}{clear}It hasn't been one country for long, and the{n}old kingdoms were different, so it seems to{n}have lots of problems!{wait}{clear}	
+alkaya.1866	フロリンダ	Florinda	speaker
+alkaya.1874	天使様、これでアルカヤの説明はおしまいです。{n}いっぺんにたくさん話しちゃいましたけど、{n}大丈夫ですか？{wait}{clear}いろいろ大変だと思いますけど、{n}がんばってくださいね！{wait}{clear}じゃあ、さっそくですけど、{n}フロリンに探索の指示をしてもらえますか？{wait}{clear}	That's the end of Florin's talk about{n}Arcaya, Angel. Florin said an awful lot all{n}at once; are you okay?{wait}{clear}It's gonna be tough, but do your best, okay?{wait}{clear}So, um, can you give Florin some orders for{n}searching?{wait}{clear}	
+alkaya.1964	フロリンダ	Florinda	speaker
+alkaya.1972	そうですか……わかりました。{n}じゃあ、さっそくですけど、{n}フロリンに探索の指示をしてもらえますか？{wait}{clear}	Okay... got it. Then, um, can you give{n}Florin some orders for searching?{wait}{clear}	
+alkaya.19F4	シェリー	Shelly	speaker
+alkaya.1A02	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたところなので、{n}説明しようと思うんですけど、お聞きになりますか？{wait}{clear}	Angel, this is Arcaya, the world below!{wait}{clear}It's your first time here, so I thought I'd{n}explain a few things. Would you like to{n}hear?{wait}{clear}	
+alkaya.1A86	ＮＵＬＬ	NULL	speaker
+alkaya.1A96	《聞く》{n}	Listen{n}	
+alkaya.1AA6	《聞かない》{n}	Don't listen{n}	
+alkaya.1ABA	シェリー	Shelly	speaker
+alkaya.1AC6	わかりました。{n}では、少しだけですけど、説明しますね！{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて、{n}大きく７つに分けられます。{wait}{clear}	Okay! Then I'll explain, just a little!{wait}{clear}Arcaya is made up of the Yerasel continent,{n}the Kavakia peninsula and islands big and{n}small, and it's divided into seven main{wait}{clear}lands.{wait}{clear}	
+alkaya.1B86	シェリー	Shelly	speaker
+alkaya.1B92	まず、大陸の北にあり、{n}アルカヤでもっとも強大な力を誇るのが{n}グローサイン帝国です。{wait}{clear}首都はレイゼフートにあるレイゼフート。{n}大陸の北、約３分の１を占めていますが、{n}国土の３分の１は凍土におおわれています。{wait}{clear}大陸全土を領土にしたくらいの{n}大帝国だった時代もあるという、{n}とても長い歴史のある国です。{wait}{clear}いまも非常に統率のとれた騎士団を組織する{n}軍事国家です。{wait}{clear}	First, in the north of the continent is the{n}Grosain Empire, the mightiest power in{n}Arcaya.{wait}{clear}Its capital is Reizefut, in the Reizefut{n}region. It covers about a third of the{n}continent, but a third of its land is frozen{wait}{clear}tundra.{wait}{clear}It has a really long history; they say it{n}was once a great empire that ruled the whole{n}continent.{wait}{clear}Even now it's a military nation with very{n}disciplined knightly orders.{wait}{clear}	
+alkaya.1D10	シェリー	Shelly	speaker
+alkaya.1D1C	グローサイン帝国の東に位置しているのは、{n}クレージュ公国とゼルン公国です。{wait}{clear}この地域はとても厳しい環境です。{n}大陸の中でも辺境地域って感じで、{n}人もあんまり住んでないみたいです。{wait}{clear}その土地柄のせいか、さまざまな迷信が、{n}いまでも人々にたくさん伝わっているようです。{wait}{clear}ただ、クレージュ公国の北の地域は{n}詳しく調べられなかったです。{n}ただ、とっても怖れられている場所みたいです。{wait}{clear}	East of the Grosain Empire are the Duchy of{n}Courrege and the Duchy of Zern.{wait}{clear}It's a really harsh land. It feels like the{n}frontier of the continent, and not many{n}people seem to live there.{wait}{clear}Maybe because of that, lots of old{n}superstitions are still told there.{wait}{clear}I couldn't look closely into the lands north{n}of Courrege, though. It just seems to be a{n}place people are really afraid of.{wait}{clear}	
+alkaya.1EAC	シェリー	Shelly	speaker
+alkaya.1EB8	帝国の南には、エクレシア教国があります。{n}宗教によって統一された国で、{n}首都はリナレスにあるアララスです。{wait}{clear}代々教皇が治めているこの国には{n}首都にとっても大きな聖堂があって{n}たくさんの人々の信仰を集めてます。{wait}{clear}また、セルバ地方にはイェラセル大陸最大の湖、{n}ドライハウプ湖があります。{wait}{clear}	South of the Empire is the Holy Nation of{n}Ecclesia. It's a country united by its{n}faith, and its capital is Araras, in{wait}{clear}Linares.{wait}{clear}It's been ruled by popes for generations,{n}and the huge cathedral in the capital draws{n}lots of faithful people.{wait}{clear}And in the Selva region is Lake Dreihaup,{n}the largest lake on the Yerasel continent.{wait}{clear}	
+alkaya.1FEA	シェリー	Shelly	speaker
+alkaya.1FF6	帝国の南西、教国の西に接しているのは{n}６つの国からなる、六王国連合です。{wait}{clear}ラビルク、セレスタ、ラナス、レフカス、{n}フレゼレシア、バーゼルという６つの王国は{n}交易がとても盛んで、すごく豊かな国です。{wait}{clear}中心都市はバーゼルにあるアルクマールで、{n}ラビルクにあるスゥオレからは船が出ています。{n}そこから西にある島へ渡ることができます。{wait}{clear}	Southwest of the Empire and west of the Holy{n}Nation is the Six Kingdoms Alliance, made up{n}of six countries.{wait}{clear}Its six kingdoms, Labirk, Celesta, Lanas,{n}Lefkas, Frezelecia and Basel, do lots of{n}trade and are really wealthy.{wait}{clear}The central city is Alkmaar, in Basel, and{n}ships leave from Suole, in Labirk. You can{n}cross from there to the island in the west.{wait}{clear}	
+alkaya.2154	シェリー	Shelly	speaker
 alkaya.2160	西のアスローン海に浮かんでいるのは、{n}アルカヤ最大の島、ブレメース島です。{wait}{clear}人々が移り住んだのは数百年前からで、{n}新しい地域みたいです。{wait}{clear}ただ、東西を横切る山脈があって平地がせまいので、{n}あまり恵まれた土地ではないようです。{wait}{clear}大陸の南西にあるカヴァキア半島は未開の地です。{n}その半島のほとんどを占める深い森は、{n}レイフォリアの森と呼ばれてます。{wait}{clear}大陸からの人の出入りはほとんどないようですが、{n}ずっと森で生活している部族がいます。{wait}{clear}彼らには独自の文化があって、{n}そこに伝わる伝説や神話は{n}いまもたくさん語り継がれているようです。{wait}{clear}		
-alkaya.238E	シェリー		speaker
+alkaya.238E	シェリー	Shelly	speaker
 alkaya.239A	大陸のいちばん南にあるのは{n}レグランス王国です。{n}首都はエローラにあるファンランです。{wait}{clear}前は東と西に分かれた国だったようみたいで、{n}５０年前に両王家が一緒になって{n}いまのレグランス王国になったそうです。{wait}{clear}統一されてからの歴史が浅いことと{n}もともとの国の違いのせいで{n}いろいろな問題を抱えているみたいです。{wait}{clear}		
-alkaya.24F2	シェリー		speaker
+alkaya.24F2	シェリー	Shelly	speaker
 alkaya.24FE	以上がアルカヤの説明です、天使様。{wait}{clear}一気に話してしまいましたけど、覚えてます？{n}大変だと思いますけど、がんばってくださいね！{wait}{clear}ではでは、さっそくですが{n}私に探索の指示をいただけますか？{wait}{clear}		
-alkaya.25C2	シェリー		speaker
+alkaya.25C2	シェリー	Shelly	speaker
 alkaya.25CE	そうですか、わかりました。{n}ではでは、さっそくですが{n}私に探索の指示をいただけますか？{wait}{clear}		
 alkaya.263C	リリィ		speaker
 alkaya.2648	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたこの地について{n}説明をさせていただきたいのですが、{n}お聞きになられますか？{wait}{clear}		
-alkaya.26D6	ＮＵＬＬ		speaker
-alkaya.26E6	《聞く》{n}		
-alkaya.26F6	《聞かない》{n}		
+alkaya.26D6	ＮＵＬＬ	NULL	speaker
+alkaya.26E6	《聞く》{n}	Listen{n}	
+alkaya.26F6	《聞かない》{n}	Don't listen{n}	
 alkaya.270A	リリィ		speaker
 alkaya.2714	わかりました。{n}では、少しだけですが、説明させていただきます。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなり、{n}大きく７つに分けられます。{wait}{clear}		
 alkaya.27D6	リリィ		speaker
@@ -93,9 +93,9 @@ alkaya.3202	リリィ		speaker
 alkaya.320C	そうですか、わかりました。{n}では、さっそくですが{n}私に探索の指示をお願いできますか？{wait}{clear}		
 alkaya.3278	リンクス		speaker
 alkaya.3286	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたところだから、{n}説明しようと思うんですけど、{n}聞いてくれますか？{wait}{clear}		
-alkaya.330A	ＮＵＬＬ		speaker
-alkaya.331A	《聞く》{n}		
-alkaya.332A	《聞かない》{n}		
+alkaya.330A	ＮＵＬＬ	NULL	speaker
+alkaya.331A	《聞く》{n}	Listen{n}	
+alkaya.332A	《聞かない》{n}	Don't listen{n}	
 alkaya.333E	リンクス		speaker
 alkaya.334A	わかりました！{n}じゃあ、少しだけど、説明するよ！{wait}{clear}えっと、地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて{n}大きく７つに分けられてるんだ。{wait}{clear}		
 alkaya.340E	リンクス		speaker
@@ -116,9 +116,9 @@ alkaya.3E86	リンクス		speaker
 alkaya.3E92	そっか……わかりました。{n}じゃあ、早く僕に探索の指示をもらえますか？{wait}{clear}		
 alkaya.3EEE	アクイラ		speaker
 alkaya.3EFC	あの、天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられた地上界なので、{n}説明をしようと思うんですけど……{n}お聞きになりますか？{wait}{clear}		
-alkaya.3F8C	ＮＵＬＬ		speaker
-alkaya.3F9C	《聞く》{n}		
-alkaya.3FAC	《聞かない》{n}		
+alkaya.3F8C	ＮＵＬＬ	NULL	speaker
+alkaya.3F9C	《聞く》{n}	Listen{n}	
+alkaya.3FAC	《聞かない》{n}	Don't listen{n}	
 alkaya.3FC0	アクイラ		speaker
 alkaya.3FCC	わかりました。{n}じゃあ、少しだけですけど説明します。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなっていて、{n}大きく７つに分けられます。{wait}{clear}		
 alkaya.408A	アクイラ		speaker
@@ -139,9 +139,9 @@ alkaya.4B1E	アクイラ		speaker
 alkaya.4B2A	そうですか……わかりました。{n}あの、では、さっそくですけど{n}私に探索の指示をいただけますか？{wait}{clear}		
 alkaya.4B9E	シータス		speaker
 alkaya.4BAC	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたこの地について{n}説明しようと思うのですが、{n}お聞きになりますか？{wait}{clear}		
-alkaya.4C30	ＮＵＬＬ		speaker
-alkaya.4C40	《聞く》{n}		
-alkaya.4C50	《聞かない》{n}		
+alkaya.4C30	ＮＵＬＬ	NULL	speaker
+alkaya.4C40	《聞く》{n}	Listen{n}	
+alkaya.4C50	《聞かない》{n}	Don't listen{n}	
 alkaya.4C64	シータス		speaker
 alkaya.4C70	わかりました。{n}では、少しですが、ご説明します。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなり、{n}大きく７つに分けられます。{wait}{clear}		
 alkaya.4D24	シータス		speaker
@@ -162,9 +162,9 @@ alkaya.5750	シータス		speaker
 alkaya.575C	そうですか、わかりました。{n}では、さっそくですが{n}探索の指示をいただけませんか？{wait}{clear}		
 alkaya.57C4	レーパス		speaker
 alkaya.57D2	天使様、ここが地上界アルカヤです。{wait}{clear}天使様がはじめて降りられたこの地について{n}説明をさせていただきたいと思います。{n}お聞きになりますか？{wait}{clear}		
-alkaya.5860	ＮＵＬＬ		speaker
-alkaya.5870	《聞く》{n}		
-alkaya.5880	《聞かない》{n}		
+alkaya.5860	ＮＵＬＬ	NULL	speaker
+alkaya.5870	《聞く》{n}	Listen{n}	
+alkaya.5880	《聞かない》{n}	Don't listen{n}	
 alkaya.5894	レーパス		speaker
 alkaya.58A0	わかりました。{n}では、少しですが、説明させていただきます。{wait}{clear}地上界アルカヤはイェラセル大陸と{n}カヴァキア半島、そして大小の島からなり、{n}大きく７つに分けられます。{wait}{clear}		
 alkaya.595E	レーパス		speaker

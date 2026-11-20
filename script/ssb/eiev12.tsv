@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev12.0052	アイリーン		speaker
 eiev12.0060	暑っついわね。{n}ほんと。{wait}{clear}		
-eiev12.007C	ＮＵＬＬ		speaker
+eiev12.007C	ＮＵＬＬ	NULL	speaker
 eiev12.008C	《暑いですね。》{n}		
 eiev12.00A4	《暑くないです……。》{n}		
 eiev12.00CC	＄＄＄＄＄＄		speaker
@@ -14,7 +14,7 @@ eiev12.01D4	アイリーン		speaker
 eiev12.01E2	あ、そ。{n}いいわよね、ほんと。{wait}{clear}いっつも、のほほーんとしてられるもんね。{n}たく……。{wait}{clear}		
 eiev12.025E	アイリーン		speaker
 eiev12.026C	ねえ……{n}このあたり、さっきも通らなかった？{wait}{clear}		
-eiev12.029C	ＮＵＬＬ		speaker
+eiev12.029C	ＮＵＬＬ	NULL	speaker
 eiev12.02AC	《そうですか？》{n}		
 eiev12.02C4	《通ったと思う》{n}		
 eiev12.02E6	＄＄＄＄＄＄		speaker
@@ -42,14 +42,14 @@ eiev12.05FA	＄＄＄＄＄＄		speaker
 eiev12.060A	ええ、いちおう……ありますけど……。{wait}{clear}		
 eiev12.0632	アイリーン		speaker
 eiev12.0640	じゃ、恋愛感情とかって、あるの？{wait}{clear}		
-eiev12.0664	ＮＵＬＬ		speaker
+eiev12.0664	ＮＵＬＬ	NULL	speaker
 eiev12.0674	《恋愛感情というか……》{n}		
 eiev12.0694	《そういう感情は……》{n}		
 eiev12.06BC	＄＄＄＄＄＄		speaker
 eiev12.06CC	あ、あの……そうですね……。{wait}{clear}私たちのような階級の低い天使は{n}人と変わらないような感情を{n}持ってはいますけど……。{wait}{clear}		
 eiev12.0744	アイリーン		speaker
 eiev12.0752	そっか……。{wait}{clear}じゃ、人を好きになったりしたこともあるの？{wait}{clear}		
-eiev12.079C	ＮＵＬＬ		speaker
+eiev12.079C	ＮＵＬＬ	NULL	speaker
 eiev12.07AC	《……あります……。》{n}		
 eiev12.07CA	《それは……ありません。》{n}		
 eiev12.07F6	＄＄＄＄＄＄		speaker
@@ -60,7 +60,7 @@ eiev12.08A2	＄＄＄＄＄＄		speaker
 eiev12.08B2	その世界を去って天界へ戻ってからは、{n}会ってはいません。{wait}{clear}私には天使としてのつとめがあります。{n}だから、地上界に残ることはできません……。{wait}{clear}		
 eiev12.094E	アイリーン		speaker
 eiev12.095C	……そっか。{wait}{clear}私もずっと好きだった人がいたけど……{n}その人は遠くに……{n}手の届かないところに行っちゃった。{wait}{clear}みんな忘れられたら、どんなにいいかって思ってた。{n}好きだったことも、{n}一緒にいた時間もなにもかも……。{wait}{clear}でも……まだ……{n}どうしても忘れること、できないんだ……。{wait}{clear}		
-eiev12.0A74	ＮＵＬＬ		speaker
+eiev12.0A74	ＮＵＬＬ	NULL	speaker
 eiev12.0A84	《それは、しかたがない……》{n}		
 eiev12.0AA8	《いつかきっと……》{n}		
 eiev12.0ACE	＄＄＄＄＄＄		speaker
@@ -88,7 +88,7 @@ eiev12.0F5A	＄＄＄＄＄＄		speaker
 eiev12.0F6A	私はつとめを果たすために地上に来ています。{n}人に対してそんな感情を持つことは……できません。{wait}{clear}		
 eiev12.0FCA	アイリーン		speaker
 eiev12.0FD8	でも、もしも人を好きになったら、どうするの？{wait}{clear}		
-eiev12.1008	ＮＵＬＬ		speaker
+eiev12.1008	ＮＵＬＬ	NULL	speaker
 eiev12.1018	《そのときは……》{n}		
 eiev12.1032	《たぶん……ありません……。》{n}		
 eiev12.1062	＄＄＄＄＄＄		speaker
@@ -120,7 +120,7 @@ eiev12.157E	ね、聞いていい？{n}天使も男女の区別はあるの？{w
 eiev12.15AE	＄＄＄＄＄＄		speaker
 eiev12.15BE	ええ、ありますよ……いちおう……。{wait}{clear}		
 eiev12.15F0	ふーん。{wait}{clear}じゃ、人間も恋愛対象になるの？{wait}{clear}		
-eiev12.161E	ＮＵＬＬ		speaker
+eiev12.161E	ＮＵＬＬ	NULL	speaker
 eiev12.162E	《それは……。》{n}		
 eiev12.1646	《なりません。》{n}		
 eiev12.1668	＄＄＄＄＄＄		speaker
@@ -158,7 +158,7 @@ eiev12.1ADA	アイリーン		speaker
 eiev12.1AF4	なによ、その顔。{wait}{clear}文句があんなら、言いなさい。{n}たくぅ……{wait}{clear}		
 eiev12.1B38	アイリーン		speaker
 eiev12.1B46	じゃ、人間の女の子好きになったことある？{wait}{clear}		
-eiev12.1B7A	ＮＵＬＬ		speaker
+eiev12.1B7A	ＮＵＬＬ	NULL	speaker
 eiev12.1B8A	《あ、あります……。》{n}		
 eiev12.1BA8	《ありません。》{n}		
 eiev12.1BCA	＄＄＄＄＄＄		speaker
@@ -179,7 +179,7 @@ eiev12.1E9C	＄＄＄＄＄＄		speaker
 eiev12.1EAC	え？{wait}{clear}		
 eiev12.1EC0	アイリーン		speaker
 eiev12.1ECE	この世界の女の子はどうってことよ。{n}ニブいなー。{wait}{clear}		
-eiev12.1F02	ＮＵＬＬ		speaker
+eiev12.1F02	ＮＵＬＬ	NULL	speaker
 eiev12.1F12	《よくわからないです……。》{n}		
 eiev12.1F36	《いいと思います……。》{n}		
 eiev12.1F60	＄＄＄＄＄＄		speaker

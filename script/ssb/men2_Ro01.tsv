@@ -10,7 +10,7 @@ men2_Ro01.010E	冗談……？{wait}{clear}
 men2_Ro01.0128	ロクス		speaker
 men2_Ro01.0132	ははは……。{n}それだけ急いで来てくれたのはうれしいけどな。{wait}{clear}		
 men2_Ro01.017C	なあ、＄＄＄＄＄＄、時間はあるのか？{wait}{clear}		
-men2_Ro01.01A4	ＮＵＬＬ		speaker
+men2_Ro01.01A4	ＮＵＬＬ	NULL	speaker
 men2_Ro01.01B4	《ええ、大丈夫です。》{n}		
 men2_Ro01.01D2	《そうですね……ちょっと……。》{n}		
 men2_Ro01.01FA	＄＄＄＄＄＄		speaker

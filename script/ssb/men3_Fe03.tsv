@@ -5,7 +5,7 @@ men3_Fe03.008C	＄＄＄＄＄＄		speaker
 men3_Fe03.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
 men3_Fe03.00C2	フェイン		speaker
 men3_Fe03.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの命の水をわたそうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
-men3_Fe03.0160	ＮＵＬＬ		speaker
+men3_Fe03.0160	ＮＵＬＬ	NULL	speaker
 men3_Fe03.0170	《ありがとうございます。》{n}		
 men3_Fe03.0192	《戒律があるので……。》{n}		
 men3_Fe03.01B2	＄＄＄＄＄＄		speaker

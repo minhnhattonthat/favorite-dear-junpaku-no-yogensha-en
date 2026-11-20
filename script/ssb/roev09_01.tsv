@@ -1,7 +1,7 @@
 id	jp	en	notes
 roev09_01.0054	ロクス		speaker
 roev09_01.005E	副教皇や大司教は{n}バレーゼのイリュウスの教会にいるらしい……。{wait}{clear}自分も行ってくる……。{wait}{clear}		
-roev09_01.00BA	ＮＵＬＬ		speaker
+roev09_01.00BA	ＮＵＬＬ	NULL	speaker
 roev09_01.00CA	《わかりました》{n}		
 roev09_01.00E2	《無事だったのですか？》{n}		
 roev09_01.0108	＄＄＄＄＄＄		speaker

@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev10.0040	クライヴ		speaker
 clev10.004C	……あの城か。{wait}{clear}		
-clev10.005E	ＮＵＬＬ		speaker
+clev10.005E	ＮＵＬＬ	NULL	speaker
 clev10.006E	《話しかける》{n}		
 clev10.0084	《話しかけない》{n}		
 clev10.00AE	＄＄＄＄＄＄		speaker
@@ -47,7 +47,7 @@ clev10.05AE	＄＄＄＄＄＄		speaker
 clev10.05BE	もう、見えません……{n}巨大な魔力で存在を隠してしまったようです。{wait}{clear}		
 clev10.0610	クライヴ		speaker
 clev10.061C	クッ……{wait}{clear}		
-clev10.0628	ＮＵＬＬ		speaker
+clev10.0628	ＮＵＬＬ	NULL	speaker
 clev10.0638	《どうか怒りを……》{n}		
 clev10.0654	《なぜそこまで……》{n}		
 clev10.067A	＄＄＄＄＄＄		speaker

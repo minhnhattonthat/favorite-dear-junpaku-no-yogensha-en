@@ -5,7 +5,7 @@ men3_La01.007E	＄＄＄＄＄＄		speaker
 men3_La01.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
 men3_La01.00AE	レイラ		speaker
 men3_La01.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}タラブローチなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
-men3_La01.011E	ＮＵＬＬ		speaker
+men3_La01.011E	ＮＵＬＬ	NULL	speaker
 men3_La01.012E	《ありがとうございます。》{n}		
 men3_La01.0150	《戒律があるので……。》{n}		
 men3_La01.0170	＄＄＄＄＄＄		speaker

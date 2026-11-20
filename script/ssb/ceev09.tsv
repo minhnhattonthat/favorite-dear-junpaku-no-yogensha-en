@@ -13,7 +13,7 @@ ceev09.018A	ええ、いいですよ。{wait}{clear}
 ceev09.01C8	セシア		speaker
 ceev09.01D6	気持ちいい……{wait}{clear}		
 ceev09.01EC	天使様も泳ぎませんか？{wait}{clear}		
-ceev09.0206	ＮＵＬＬ		speaker
+ceev09.0206	ＮＵＬＬ	NULL	speaker
 ceev09.0216	《はい、泳ぎます。》{n}		
 ceev09.0232	《泳ぎはちょっと……。》{n}		
 ceev09.025C	＄＄＄＄＄＄		speaker

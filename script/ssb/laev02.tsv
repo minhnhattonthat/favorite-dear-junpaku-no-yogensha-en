@@ -5,7 +5,7 @@ laev02.00B2	＄＄＄＄＄＄		speaker
 laev02.00C2	レイラ、なにか心配ごとでも？{wait}{clear}		
 laev02.00E2	レイラ		speaker
 laev02.00EC	いいえ、そうではないの……。{wait}{clear}ただ、騎士としての立場から離れていることなんて{n}あまりなかったものだから、なんだか不思議で……。{wait}{clear}		
-laev02.0170	ＮＵＬＬ		speaker
+laev02.0170	ＮＵＬＬ	NULL	speaker
 laev02.0180	《気持ちを楽にしてください。》{n}		
 laev02.01A6	《そのうち、慣れてくるものです。》{n}		
 laev02.01D6	＄＄＄＄＄＄		speaker

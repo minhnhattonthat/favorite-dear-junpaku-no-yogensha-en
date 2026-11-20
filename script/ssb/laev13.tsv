@@ -23,7 +23,7 @@ laev13.0300	レイラ		speaker
 laev13.030A	ちょっと聞きにくいことなんだけど……{n}あなたにとっていちばん大切なものはなに？{wait}{clear}		
 laev13.035C	＄＄＄＄＄＄		speaker
 laev13.036C	それは、むずかしい質問ですね……。{n}そうですね……{wait}{clear}		
-laev13.03A2	ＮＵＬＬ		speaker
+laev13.03A2	ＮＵＬＬ	NULL	speaker
 laev13.03B2	《すべてを慈しむ心》{n}		
 laev13.03CE	《信じる心》{n}		
 laev13.03E8	＄＄＄＄＄＄		speaker

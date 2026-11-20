@@ -7,7 +7,7 @@ clev11.00D2	＄＄＄＄＄＄		speaker
 clev11.00E2	……あなたの話を聞かせてくれませんか？{wait}{clear}		
 clev11.010C	クライヴ		speaker
 clev11.011C	たいした話などない……。{wait}{clear}		
-clev11.0138	ＮＵＬＬ		speaker
+clev11.0138	ＮＵＬＬ	NULL	speaker
 clev11.0148	《どうして私と戦ってくれるのです？》{n}		
 clev11.0174	《なぜ、何も話してくれないのです？》{n}		
 clev11.01AA	＄＄＄＄＄＄		speaker
@@ -52,7 +52,7 @@ clev11.07F2	＄＄＄＄＄＄		speaker
 clev11.0802	クライヴ……{wait}{clear}		
 clev11.081E	クライヴ		speaker
 clev11.082E	それに死ねば……{n}この苦しみからは逃れられる……。{wait}{clear}		
-clev11.0864	ＮＵＬＬ		speaker
+clev11.0864	ＮＵＬＬ	NULL	speaker
 clev11.0874	《苦しみを黙ってこらえないで》{n}		
 clev11.089A	《あきらめないで》{n}		
 clev11.08BE	＄＄＄＄＄＄		speaker

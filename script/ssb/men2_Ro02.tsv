@@ -5,7 +5,7 @@ men2_Ro02.006E	＄＄＄＄＄＄		speaker
 men2_Ro02.007E	あ、ロクス……！{n}今日はどうしたのですか？{wait}{clear}		
 men2_Ro02.00AC	ロクス		speaker
 men2_Ro02.00B6	ああ、ちょっと＄＄＄＄＄＄に{n}つきあって欲しいところがあるんだ。{wait}{clear}時間、あるか？{wait}{clear}		
-men2_Ro02.010C	ＮＵＬＬ		speaker
+men2_Ro02.010C	ＮＵＬＬ	NULL	speaker
 men2_Ro02.011C	《お酒じゃないですよね？》{n}		
 men2_Ro02.013E	《ええ……。》{n}		
 men2_Ro02.0154	＄＄＄＄＄＄		speaker

@@ -5,7 +5,7 @@ men3_La02.007E	＄＄＄＄＄＄		speaker
 men3_La02.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
 men3_La02.00AE	レイラ		speaker
 men3_La02.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}決闘用の手袋なんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
-men3_La02.011E	ＮＵＬＬ		speaker
+men3_La02.011E	ＮＵＬＬ	NULL	speaker
 men3_La02.012E	《ありがとうございます。》{n}		
 men3_La02.0150	《戒律があるので……。》{n}		
 men3_La02.0170	＄＄＄＄＄＄		speaker

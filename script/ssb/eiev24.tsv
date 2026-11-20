@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev24.004C	クラレンス		speaker
 eiev24.005A	ほら、天使様、とりにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
-eiev24.0098	ＮＵＬＬ		speaker
+eiev24.0098	ＮＵＬＬ	NULL	speaker
 eiev24.00A8	《魔石を取る》{n}		
 eiev24.00CC	アイリーン		speaker
 eiev24.00DA	＄＄＄＄＄＄！{wait}{clear}		

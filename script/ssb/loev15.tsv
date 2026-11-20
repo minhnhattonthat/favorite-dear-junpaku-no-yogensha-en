@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev15.016A	ルディエール		speaker
 loev15.017A	なあ、＄＄＄＄＄＄。{wait}{clear}サヴィアは本当のことを言ってると思うか？{wait}{clear}		
-loev15.01BE	ＮＵＬＬ		speaker
+loev15.01BE	ＮＵＬＬ	NULL	speaker
 loev15.01CE	《思う》{n}		
 loev15.01DE	《わからない》{n}		
 loev15.01FE	＄＄＄＄＄＄		speaker

@@ -19,7 +19,7 @@ laev18.031E	＄＄＄＄＄＄		speaker
 laev18.032E	はい……それが天使としてのつとめです。{wait}{clear}		
 laev18.0364	レイラ		speaker
 laev18.0372	残ることはできないのね……。{wait}{clear}		
-laev18.0392	ＮＵＬＬ		speaker
+laev18.0392	ＮＵＬＬ	NULL	speaker
 laev18.03A2	《残りたいと思っています。》{n}		
 laev18.03C6	《天使ですから……。》{n}		
 laev18.03E4	＄＄＄＄＄＄		speaker

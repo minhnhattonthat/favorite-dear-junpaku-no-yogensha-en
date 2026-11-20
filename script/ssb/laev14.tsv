@@ -1,7 +1,7 @@
 id	jp	en	notes
 laev14.005A	クラレンス		speaker
 laev14.0068	ほら、天使様、取りにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
-laev14.00A6	ＮＵＬＬ		speaker
+laev14.00A6	ＮＵＬＬ	NULL	speaker
 laev14.00B6	《魔石を受け取る。》{n}		
 laev14.00E0	レイラ		speaker
 laev14.00EA	＄＄＄＄＄＄！{wait}{clear}		

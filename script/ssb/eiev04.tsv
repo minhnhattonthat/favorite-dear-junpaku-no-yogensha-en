@@ -5,7 +5,7 @@ eiev04.0080	＄＄＄＄＄＄		speaker
 eiev04.0090	見ていませんが、どうしたのです？{wait}{clear}		
 eiev04.00B4	アイリーン		speaker
 eiev04.00C2	ん、ちょっと姿が見えないのよね。{n}もう普段なら帰ってきてもいい頃なのに……。{wait}{clear}ね、一緒に探してくれない？{wait}{clear}		
-eiev04.0130	ＮＵＬＬ		speaker
+eiev04.0130	ＮＵＬＬ	NULL	speaker
 eiev04.0140	《手伝う》{n}		
 eiev04.0152	《断る》{n}		
 eiev04.0168	＄＄＄＄＄＄		speaker
@@ -26,7 +26,7 @@ eiev04.032C	アイリーン		speaker
 eiev04.033A	はい……。{wait}{clear}		
 eiev04.0366	アイリーン		speaker
 eiev04.0374	はあ……。{wait}{clear}いる？　＄＄＄＄＄＄？{wait}{clear}		
-eiev04.039C	ＮＵＬＬ		speaker
+eiev04.039C	ＮＵＬＬ	NULL	speaker
 eiev04.03AC	《どうしたんです？》{n}		
 eiev04.03C8	《楽しそうですね》{n}		
 eiev04.03EC	＄＄＄＄＄＄		speaker
@@ -37,7 +37,7 @@ eiev04.047C	＄＄＄＄＄＄		speaker
 eiev04.048C	？{wait}{clear}		
 eiev04.0492	アイリーン		speaker
 eiev04.04A0	理由は聞かないで。お願い。{wait}{clear}		
-eiev04.04BE	ＮＵＬＬ		speaker
+eiev04.04BE	ＮＵＬＬ	NULL	speaker
 eiev04.04CE	《明日まで待てないのですか？》{n}		
 eiev04.04F4	《わかりました》{n}		
 eiev04.0516	＄＄＄＄＄＄		speaker

@@ -10,7 +10,7 @@ loev21.01AE	ルディエール		speaker
 loev21.01BE	こんなまね……{n}もうこれ以上させるか！{wait}{clear}		
 loev21.0240	＄＄＄＄＄＄		speaker
 loev21.0250	塔が崩れます、ルディエール！{wait}{clear}		
-loev21.0276	ＮＵＬＬ		speaker
+loev21.0276	ＮＵＬＬ	NULL	speaker
 loev21.0282	ゴゴゴゴゴ……{wait}{clear}		
 loev21.02C6	ルディエール		speaker
 loev21.02D6	悪魔め……{n}俺はどこまでも追っていくぞ。{wait}{clear}		

@@ -5,7 +5,7 @@ men3_Cl03.0084	＄＄＄＄＄＄		speaker
 men3_Cl03.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men3_Cl03.00D2	クライヴ		speaker
 men3_Cl03.00DE	いや……これを……{n}ゾンビパウダーをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
-men3_Cl03.013C	ＮＵＬＬ		speaker
+men3_Cl03.013C	ＮＵＬＬ	NULL	speaker
 men3_Cl03.014C	《ありがとうございます。》{n}		
 men3_Cl03.016E	《戒律があるので……。》{n}		
 men3_Cl03.018E	＄＄＄＄＄＄		speaker

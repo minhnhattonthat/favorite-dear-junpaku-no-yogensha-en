@@ -2,7 +2,7 @@ id	jp	en	notes
 eiev08.004E	アイリーン		speaker
 eiev08.0060	ね、一度、塔に戻っていい？{wait}{clear}		
 eiev08.0082	ここまで来たんだからよってもいいでしょ？{wait}{clear}		
-eiev08.00AE	ＮＵＬＬ		speaker
+eiev08.00AE	ＮＵＬＬ	NULL	speaker
 eiev08.00BE	《ええ》{n}		
 eiev08.00CE	《今はちょっと》{n}		
 eiev08.00F0	＄＄＄＄＄＄		speaker
@@ -22,12 +22,12 @@ eiev08.02D4	へんな気分……。{wait}{clear}
 eiev08.02EC	さて……おじいちゃんのあの本どこやったっけ……{wait}{clear}		
 eiev08.0322	そだ、一緒に探すの手伝ってよ、＄＄＄＄＄＄。{wait}{clear}		
 eiev08.0356	さ、こっち！　いいでしょ？{wait}{clear}		
-eiev08.0374	ＮＵＬＬ		speaker
+eiev08.0374	ＮＵＬＬ	NULL	speaker
 eiev08.0384	《ええ》{n}		
 eiev08.0394	《もう戻る》{n}		
 eiev08.03B2	＄＄＄＄＄＄		speaker
 eiev08.03C2	ええ、いいですよ、アイリーン。{wait}{clear}		
-eiev08.03EC	ＮＵＬＬ		speaker
+eiev08.03EC	ＮＵＬＬ	NULL	speaker
 eiev08.03F8	がさ、がさ。{wait}{clear}		
 eiev08.040C	ごそごそ……{wait}{clear}		
 eiev08.0438	アイリーン		speaker

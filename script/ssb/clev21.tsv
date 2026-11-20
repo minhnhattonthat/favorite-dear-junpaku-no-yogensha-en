@@ -10,7 +10,7 @@ clev21.015E	クライヴ		speaker
 clev21.016A	く、これ以上はさせん！{wait}{clear}		
 clev21.01CE	＄＄＄＄＄＄		speaker
 clev21.01DE	塔が崩れます、クライヴ！{wait}{clear}		
-clev21.0200	ＮＵＬＬ		speaker
+clev21.0200	ＮＵＬＬ	NULL	speaker
 clev21.020C	ゴゴゴゴゴ……{wait}{clear}		
 clev21.0248	クライヴ		speaker
 clev21.0254	悪魔め……{n}俺はどこまでも追っていくぞ。{wait}{clear}		

@@ -1,7 +1,7 @@
 id	jp	en	notes
 clev19.0050	クラレンス		speaker
 clev19.005E	ほら、天使様、とりにきな。{wait}{clear}これがありゃ、世界は平和だぜ。{wait}{clear}		
-clev19.009E	ＮＵＬＬ		speaker
+clev19.009E	ＮＵＬＬ	NULL	speaker
 clev19.00AE	《魔石を取る》{n}		
 clev19.00D2	クライヴ		speaker
 clev19.00E2	おい！　＄＄＄＄＄＄！{wait}{clear}		

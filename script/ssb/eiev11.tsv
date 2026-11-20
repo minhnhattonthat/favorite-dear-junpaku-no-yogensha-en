@@ -34,7 +34,7 @@ eiev11.06FE	でも、何年かけて探しても見つからなかった……�
 eiev11.0734	やっと会えたセレニス姉さんは{n}もう……呪われた魂に奪われていた……{wait}{clear}		
 eiev11.077E	こんなの……もう……{wait}{clear}		
 eiev11.079A	私、どうしたらいいの……？{n}ねえ、教えて……＄＄＄＄＄{wait}{clear}		
-eiev11.07D4	ＮＵＬＬ		speaker
+eiev11.07D4	ＮＵＬＬ	NULL	speaker
 eiev11.07E4	《なにか方法があるはず》{n}		
 eiev11.0804	《……》{n}		
 eiev11.081E	＄＄＄＄＄＄		speaker
@@ -43,7 +43,7 @@ eiev11.08A0	アイリーン		speaker
 eiev11.08B2	なのに……なのに、姉さんは……{wait}{clear}		
 eiev11.08D8	呪われた魂が……{n}姉さんを……フェインを奪っていってしまった……{wait}{clear}		
 eiev11.0920	ねえ、＄＄＄＄＄＄{n}私、どうしたらいいの？{wait}{clear}		
-eiev11.094E	ＮＵＬＬ		speaker
+eiev11.094E	ＮＵＬＬ	NULL	speaker
 eiev11.095E	《なにか方法があるはず》{n}		
 eiev11.097E	《……》{n}		
 eiev11.0998	＄＄＄＄＄＄		speaker

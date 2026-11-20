@@ -66,7 +66,7 @@ roev03_01.0848	ああ、誰が金を払おうと酒は酒だ。{wait}{clear}
 roev03_01.0870	遠慮なく飲ませてもらうよ。{wait}{clear}		
 roev03_01.08B4	＄＄＄＄＄＄		speaker
 roev03_01.08C4	さて、どうしましょう？{wait}{clear}		
-roev03_01.08DE	ＮＵＬＬ		speaker
+roev03_01.08DE	ＮＵＬＬ	NULL	speaker
 roev03_01.08EE	《話しかける。》{n}		
 roev03_01.0906	《話しかけない。》{n}		
 roev03_01.0924	＄＄＄＄＄＄		speaker
@@ -78,7 +78,7 @@ roev03_01.09B0	どうです？　今日はタダ酒だ。{wait}{clear}
 roev03_01.09D4	一緒に飲みましょう。{wait}{clear}		
 roev03_01.09EC	＄＄＄＄＄＄		speaker
 roev03_01.09FC	え？　ええ……。{n}あの、ロクス聞いてもいいですか？{wait}{clear}		
-roev03_01.0A32	ＮＵＬＬ		speaker
+roev03_01.0A32	ＮＵＬＬ	NULL	speaker
 roev03_01.0A42	《ヴァイパーについて》{n}		
 roev03_01.0A60	《お酒について》{n}		
 roev03_01.0A82	＄＄＄＄＄＄		speaker

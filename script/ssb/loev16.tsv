@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev16.023A	ルディエール		speaker
 loev16.024A	……おれは、彼女との約束を{n}果たせなかった。{wait}{clear}おれは……{n}自分が情けない……{wait}{clear}		
-loev16.029C	ＮＵＬＬ		speaker
+loev16.029C	ＮＵＬＬ	NULL	speaker
 loev16.02AC	《最善はつくした》{n}		
 loev16.02C6	《鎧の呪いは……》{n}		
 loev16.02E6	＄＄＄＄＄＄		speaker

@@ -9,7 +9,7 @@ men3_Lo04.0114	＄＄＄＄＄＄		speaker
 men3_Lo04.0124	なにかあったのですか？{wait}{clear}		
 men3_Lo04.013E	ルディエール		speaker
 men3_Lo04.014E	いや、そうじゃないよ。{n}この珍しいスパイスを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
-men3_Lo04.01CE	ＮＵＬＬ		speaker
+men3_Lo04.01CE	ＮＵＬＬ	NULL	speaker
 men3_Lo04.01DE	《ありがとうございます。》{n}		
 men3_Lo04.0200	《戒律があるので……。》{n}		
 men3_Lo04.0220	＄＄＄＄＄＄		speaker

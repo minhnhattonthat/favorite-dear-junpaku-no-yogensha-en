@@ -5,7 +5,7 @@ men2_Fe01.0082	＄＄＄＄＄＄		speaker
 men2_Fe01.0092	いえ、べつに大丈夫です……。{n}なにかお話でも？{wait}{clear}		
 men2_Fe01.00C4	フェイン		speaker
 men2_Fe01.00D0	ああ、少し時間をもらえるか？{n}{wait}{clear}		
-men2_Fe01.00F2	ＮＵＬＬ		speaker
+men2_Fe01.00F2	ＮＵＬＬ	NULL	speaker
 men2_Fe01.0102	《どうしたのですか？》{n}		
 men2_Fe01.0120	《ええ、かまいませんけど……》{n}		
 men2_Fe01.0146	＄＄＄＄＄＄		speaker

@@ -7,7 +7,7 @@ clev15_02.00E2	＄＄＄＄＄＄		speaker
 clev15_02.00F2	もう、見えません……{wait}{clear}巨大な魔力で存在を隠してしまったようです。{wait}{clear}		
 clev15_02.0146	クライヴ		speaker
 clev15_02.0152	クッ……{wait}{clear}		
-clev15_02.015E	ＮＵＬＬ		speaker
+clev15_02.015E	ＮＵＬＬ	NULL	speaker
 clev15_02.016E	《どうか怒りを……》{n}		
 clev15_02.018A	《なぜそこまで……》{n}		
 clev15_02.01B0	＄＄＄＄＄＄		speaker

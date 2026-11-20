@@ -5,7 +5,7 @@ men3_Ei03.0082	＄＄＄＄＄＄		speaker
 men3_Ei03.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
 men3_Ei03.00CC	アイリーン		speaker
 men3_Ei03.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、このクマのぬいぐるみを{n}あげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
-men3_Ei03.0178	ＮＵＬＬ		speaker
+men3_Ei03.0178	ＮＵＬＬ	NULL	speaker
 men3_Ei03.0188	《ありがとうございます。》{n}		
 men3_Ei03.01AA	《戒律があるので……。》{n}		
 men3_Ei03.01CA	＄＄＄＄＄＄		speaker

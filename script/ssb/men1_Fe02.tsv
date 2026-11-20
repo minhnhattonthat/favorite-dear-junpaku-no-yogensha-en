@@ -5,7 +5,7 @@ men1_Fe02.0082	＄＄＄＄＄＄		speaker
 men1_Fe02.0092	いいえ。{n}なにか用ですか、フェイン？{wait}{clear}		
 men1_Fe02.00BA	フェイン		speaker
 men1_Fe02.00C6	いや、少し話がしたいと思ったのだが、{n}迷惑だったか？{wait}{clear}		
-men1_Fe02.00FE	ＮＵＬＬ		speaker
+men1_Fe02.00FE	ＮＵＬＬ	NULL	speaker
 men1_Fe02.010E	《いいえ。》{n}		
 men1_Fe02.0122	《あまり時間が……。》{n}		
 men1_Fe02.0140	＄＄＄＄＄＄		speaker

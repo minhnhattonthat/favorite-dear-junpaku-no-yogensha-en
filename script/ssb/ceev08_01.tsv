@@ -7,7 +7,7 @@ ceev08_01.00EE	私は聖母様の伝説と同じように{n}天使様に仕え�
 ceev08_01.012A	いずれ、伝説の森へ訪れたいと{n}ずっと思ってはいたのですが……{wait}{clear}		
 ceev08_01.016E	今、行かなければならない、{n}そんな気がするのです。{wait}{clear}		
 ceev08_01.01A8	かまいませんか？{wait}{clear}		
-ceev08_01.01BC	ＮＵＬＬ		speaker
+ceev08_01.01BC	ＮＵＬＬ	NULL	speaker
 ceev08_01.01CC	《ええ、もちろんかまいません。》{n}		
 ceev08_01.01F4	《今はちょっと……。》{n}		
 ceev08_01.0218	＄＄＄＄＄＄		speaker

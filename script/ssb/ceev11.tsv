@@ -17,7 +17,7 @@ ceev11.0290	セシア		speaker
 ceev11.029E	むしろ、誇りに思います……。{n}聖母に選ばれるのですから……。{wait}{clear}		
 ceev11.02DE	セシア		speaker
 ceev11.02EC	ただ、あまりに突然で……{n}私にそれがつとまるかどうか……。{wait}{clear}		
-ceev11.033E	ＮＵＬＬ		speaker
+ceev11.033E	ＮＵＬＬ	NULL	speaker
 ceev11.034E	《迷うのはわかります。》{n}		
 ceev11.036E	《きっと大丈夫ですよ。》{n}		
 ceev11.0398	＄＄＄＄＄＄		speaker
@@ -37,7 +37,7 @@ ceev11.05FC	私……{wait}{clear}
 ceev11.060A	天使様……{wait}{clear}		
 ceev11.061C	お願いがあります……{wait}{clear}		
 ceev11.0638	最後に私が私であるうちに……{n}あなたに……{wait}{clear}		
-ceev11.0666	ＮＵＬＬ		speaker
+ceev11.0666	ＮＵＬＬ	NULL	speaker
 ceev11.0676	《セシアにキスする》{n}		
 ceev11.0692	《セシアを抱きしめる》{n}		
 ceev11.06EC	セシア		speaker

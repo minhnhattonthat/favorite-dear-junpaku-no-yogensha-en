@@ -37,7 +37,7 @@ roev07.0590	＄＄＄＄＄＄		speaker
 roev07.05A0	ロクス……？{wait}{clear}		
 roev07.05B0	ロクス		speaker
 roev07.05BA	ひどい話だな……{n}金がないから、子供をさらって……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}		
-roev07.0638	ＮＵＬＬ		speaker
+roev07.0638	ＮＵＬＬ	NULL	speaker
 roev07.0648	《そういう人ばかりでは……。》{n}		
 roev07.066E	《あなたはやさしい……。》{n}		
 roev07.0696	＄＄＄＄＄＄		speaker
@@ -58,7 +58,7 @@ roev07.0986	＄＄＄＄＄＄		speaker
 roev07.0996	ロクス、大丈夫ですか？{wait}{clear}		
 roev07.09B0	ロクス		speaker
 roev07.09BA	ふっ、ばかみたいだな……{n}カッコよく人助けをしたはいいが、{n}やつらからの仕返しをくらうなんて……。{wait}{clear}それにしても……{n}弱い子供をさらって、金を巻き上げようなんて……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}		
-roev07.0AAC	ＮＵＬＬ		speaker
+roev07.0AAC	ＮＵＬＬ	NULL	speaker
 roev07.0ABC	《そういう人ばかりでは……。》{n}		
 roev07.0AE2	《あなたはやさしい……。》{n}		
 roev07.0B0A	＄＄＄＄＄＄		speaker

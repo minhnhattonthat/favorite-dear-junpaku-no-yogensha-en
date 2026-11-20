@@ -5,7 +5,7 @@ men3_Fe01.008C	＄＄＄＄＄＄		speaker
 men3_Fe01.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
 men3_Fe01.00C2	フェイン		speaker
 men3_Fe01.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこのギルドの護符を渡そうと思ってな。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
-men3_Fe01.0162	ＮＵＬＬ		speaker
+men3_Fe01.0162	ＮＵＬＬ	NULL	speaker
 men3_Fe01.0172	《ありがとうございます。》{n}		
 men3_Fe01.0194	《戒律があるので……。》{n}		
 men3_Fe01.01B4	＄＄＄＄＄＄		speaker

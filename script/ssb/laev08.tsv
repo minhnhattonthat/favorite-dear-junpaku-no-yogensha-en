@@ -7,7 +7,7 @@ laev08.00DC	＄＄＄＄＄＄		speaker
 laev08.00EC	どんなことです？{wait}{clear}		
 laev08.0100	レイラ		speaker
 laev08.010E	……父の思い出……{n}それと今、一人でいる母のこと……。{wait}{clear}		
-laev08.0148	ＮＵＬＬ		speaker
+laev08.0148	ＮＵＬＬ	NULL	speaker
 laev08.0158	《お母様はどうしているのですか？》{n}		
 laev08.0182	《お父様のどんな思い出ですか？》{n}		
 laev08.01B0	＄＄＄＄＄＄		speaker

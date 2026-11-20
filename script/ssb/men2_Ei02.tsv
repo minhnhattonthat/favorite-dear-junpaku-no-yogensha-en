@@ -5,7 +5,7 @@ men2_Ei02.0078	＄＄＄＄＄＄		speaker
 men2_Ei02.0088	そんなこと気にしないでください。{n}なにかお話しでもあるのですか？{wait}{clear}		
 men2_Ei02.00CC	アイリーン		speaker
 men2_Ei02.00DA	うん、ちょっとお願いしたいことがあって……。{n}でも、＄＄＄＄＄＄はいつも忙しそうだから{n}大丈夫かな……？{wait}{clear}		
-men2_Ei02.0146	ＮＵＬＬ		speaker
+men2_Ei02.0146	ＮＵＬＬ	NULL	speaker
 men2_Ei02.0156	《お願いってなんですか？》{n}		
 men2_Ei02.0178	《大丈夫ですよ。》{n}		
 men2_Ei02.0192	＄＄＄＄＄＄		speaker

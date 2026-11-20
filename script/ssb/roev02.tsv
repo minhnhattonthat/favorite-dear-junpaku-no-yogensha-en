@@ -1,7 +1,7 @@
 id	jp	en	notes
 roev02.0068	ロクス		speaker
 roev02.0072	ん？　君か……。{wait}{clear}今から、遊びに行こうと思っているのですが、{n}一緒にいきませんか？{wait}{clear}		
-roev02.00CA	ＮＵＬＬ		speaker
+roev02.00CA	ＮＵＬＬ	NULL	speaker
 roev02.00DA	《はい、行きます。》{n}		
 roev02.00F6	《すみませんが……。》{n}		
 roev02.0118	＄＄＄＄＄＄		speaker
@@ -46,7 +46,7 @@ roev02.06D6	＄＄＄＄＄＄		speaker
 roev02.06E6	はい、なんですか？{wait}{clear}		
 roev02.06FC	ロクス		speaker
 roev02.0706	なぜ、帰ってしまったのです？{wait}{clear}ひょっとして{n}天使様には刺激が強すぎたのですか？{wait}{clear}		
-roev02.075A	ＮＵＬＬ		speaker
+roev02.075A	ＮＵＬＬ	NULL	speaker
 roev02.076A	《…………。》{n}		
 roev02.0780	《羽目をはずしすぎるのも……》{n}		
 roev02.07AA	＄＄＄＄＄＄		speaker
@@ -68,7 +68,7 @@ roev02.0ACC	ロクス		speaker
 roev02.0AD6	あ、天使様でしたか。{n}今から、ちょっと出かけてきます。{wait}{clear}なにかお話があるのでしたら、{n}また、明日にしてください。{wait}{clear}		
 roev02.0B52	＄＄＄＄＄＄		speaker
 roev02.0B62	あ！　ロクス……！{n}ふう……行ってしまいましたね……。{wait}{clear}		
-roev02.0B9C	ＮＵＬＬ		speaker
+roev02.0B9C	ＮＵＬＬ	NULL	speaker
 roev02.0BAC	《そっとついて行く。》{n}		
 roev02.0BCA	《ついて行かない。》{n}		
 roev02.0BEA	＄＄＄＄＄＄		speaker

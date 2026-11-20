@@ -9,7 +9,7 @@ laev11.00E8	レイラ		speaker
 laev11.00F6	…………。{wait}{clear}		
 laev11.0104	＄＄＄＄＄＄		speaker
 laev11.0114	…………。{wait}{clear}		
-laev11.0122	ＮＵＬＬ		speaker
+laev11.0122	ＮＵＬＬ	NULL	speaker
 laev11.0132	《今は、休んでください。》{n}		
 laev11.0154	《あなたが無事だったことが……。》{n}		
 laev11.0184	＄＄＄＄＄＄		speaker

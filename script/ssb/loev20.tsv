@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev20.005A	クラレンス		speaker
 loev20.0068	ほら、天使様、とりにきな。{wait}{clear}これがありゃ、世界は平和だぜ。{wait}{clear}		
-loev20.00A8	ＮＵＬＬ		speaker
+loev20.00A8	ＮＵＬＬ	NULL	speaker
 loev20.00B8	《魔石を取る》{n}		
 loev20.00DC	ルディエール		speaker
 loev20.00F0	おい！　＄＄＄＄＄＄。{wait}{clear}		

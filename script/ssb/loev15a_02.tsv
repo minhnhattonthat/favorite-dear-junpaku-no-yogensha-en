@@ -9,7 +9,7 @@ loev15a_02.01CC	＄＄＄＄＄＄		speaker
 loev15a_02.01DC	サヴィオの向かった場所へ行きますか？{n}ルディ。{wait}{clear}		
 loev15a_02.0214	ルディエール		speaker
 loev15a_02.0224	ああ、行く。{wait}{clear}		
-loev15a_02.0234	ＮＵＬＬ		speaker
+loev15a_02.0234	ＮＵＬＬ	NULL	speaker
 loev15a_02.0244	《気をつけて》{n}		
 loev15a_02.025A	《鎧は……》{n}		
 loev15a_02.0274	＄＄＄＄＄＄		speaker

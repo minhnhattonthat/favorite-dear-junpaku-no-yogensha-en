@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev20.005C	アイリーン		speaker
 eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
-eiev20.0172	ＮＵＬＬ		speaker
+eiev20.0172	ＮＵＬＬ	NULL	speaker
 eiev20.0182	《わかりました……。》{n}		
 eiev20.01A0	《なぜ……？》{n}		
 eiev20.01C0	＄＄＄＄＄＄		speaker
@@ -20,7 +20,7 @@ eiev20.034A	言葉じゃ止められない……{wait}{clear}私が姉さんを�
 eiev20.03A0	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}		
 eiev20.03F6	アイリーン		speaker
 eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
-eiev20.050C	ＮＵＬＬ		speaker
+eiev20.050C	ＮＵＬＬ	NULL	speaker
 eiev20.051C	《詳しく教えて欲しい。》{n}		
 eiev20.053C	《なぜ……？》{n}		
 eiev20.055C	＄＄＄＄＄＄		speaker

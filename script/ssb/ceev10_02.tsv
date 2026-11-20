@@ -1,7 +1,7 @@
 id	jp	en	notes
 ceev10_02.0054	セシア		speaker
 ceev10_02.005E	なんども申し訳ありません、天使様。{n}でも、聖母様の身になにかあってからでは{n}遅いと思うのです……。{wait}{clear}お願いします、{n}聖母の森へ行かせてください！{wait}{clear}		
-ceev10_02.00F4	ＮＵＬＬ		speaker
+ceev10_02.00F4	ＮＵＬＬ	NULL	speaker
 ceev10_02.0104	《今は無理です。》{n}		
 ceev10_02.011E	《わかりました。》{n}		
 ceev10_02.014A	＄＄＄＄＄＄		speaker

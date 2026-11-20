@@ -16,7 +16,7 @@ laev10.0250	レイラ		speaker
 laev10.025E	無謀は承知の上よ……。{wait}{clear}		
 laev10.027C	たとえ、私は自分が死ぬとしても{n}クロイツフェルドを許すわけにはいかない……。{wait}{clear}		
 laev10.02D0	それに皇帝か宰相、どちらかを葬れば……{n}あなたの望む平和も手にはいるわ……。{wait}{clear}		
-laev10.0320	ＮＵＬＬ		speaker
+laev10.0320	ＮＵＬＬ	NULL	speaker
 laev10.0330	《それは違います！》{n}		
 laev10.034C	《落ち着いてください。》{n}		
 laev10.0372	＄＄＄＄＄＄		speaker
@@ -117,7 +117,7 @@ laev10.120E	強情ね……。{wait}{clear}
 laev10.1222	いいわ……{wait}{clear}		
 laev10.1234	ここにいるのでしょう……{n}いるのはわかるわ、姿を現しなさい。{wait}{clear}		
 laev10.1278	現せばこの娘は助かるのよ。{wait}{clear}		
-laev10.1296	ＮＵＬＬ		speaker
+laev10.1296	ＮＵＬＬ	NULL	speaker
 laev10.12A6	《姿を現す。》{n}		
 laev10.12BC	《姿を現さない。》{n}		
 laev10.12D6	セレニス		speaker

@@ -5,7 +5,7 @@ loev02.0190	ルディエール		speaker
 loev02.01A0	ああ、でもな……{n}あんなやつがこんなところで{n}のさばるのを許した、王族……{wait}{clear}つまりおれにも……責任があるんだ。{wait}{clear}		
 loev02.0222	ルディエール		speaker
 loev02.0232	感謝されるのはすこしバツが悪いよ……。{wait}{clear}		
-loev02.025C	ＮＵＬＬ		speaker
+loev02.025C	ＮＵＬＬ	NULL	speaker
 loev02.026C	《正しいことをした……》{n}		
 loev02.028C	《そうですか……》{n}		
 loev02.02B0	＄＄＄＄＄＄		speaker

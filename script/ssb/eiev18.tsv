@@ -5,7 +5,7 @@ eiev18.0072	＄＄＄＄＄＄		speaker
 eiev18.0082	ええ、そうですね。{wait}{clear}		
 eiev18.00A4	アイリーン		speaker
 eiev18.00B2	へへ……ね、雪合戦しよっか。{wait}{clear}		
-eiev18.00D2	ＮＵＬＬ		speaker
+eiev18.00D2	ＮＵＬＬ	NULL	speaker
 eiev18.00E2	《子供っぽいですね》{n}		
 eiev18.00FE	《雪合戦？》{n}		
 eiev18.011C	＄＄＄＄＄＄		speaker
@@ -13,7 +13,7 @@ eiev18.012C	子供っぽいですね、なんだか。{wait}{clear}
 eiev18.0158	アイリーン		speaker
 eiev18.0166	ふーん、いいの。{n}やりたいんだから。{wait}{clear}		
 eiev18.019A	ね、やるの？　やらないの？{wait}{clear}		
-eiev18.01B8	ＮＵＬＬ		speaker
+eiev18.01B8	ＮＵＬＬ	NULL	speaker
 eiev18.01C8	《やる》{n}		
 eiev18.01D8	《やらない》{n}		
 eiev18.01F6	＄＄＄＄＄＄		speaker
@@ -51,7 +51,7 @@ eiev18.05BC	アイリーン		speaker
 eiev18.05CA	あー、楽しかった。{n}ずいぶんバカなことしてるね、私たち。{wait}{clear}		
 eiev18.0612	ま、いっか……{n}たまにはね。{wait}{clear}ふー……。{wait}{clear}		
 eiev18.064C	久しぶりに、こんなに笑ったな……。{wait}{clear}		
-eiev18.0672	ＮＵＬＬ		speaker
+eiev18.0672	ＮＵＬＬ	NULL	speaker
 eiev18.0682	《元気が戻って……》{n}		
 eiev18.069E	《いつでも、また……》{n}		
 eiev18.06C6	＄＄＄＄＄＄		speaker

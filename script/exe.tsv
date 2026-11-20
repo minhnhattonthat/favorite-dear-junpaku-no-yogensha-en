@@ -473,9 +473,9 @@ SLPS.80021870	シータス		ptrx1
 SLPS.8002187C	アクイラ		ptrx1
 SLPS.80021888	リンクス		ptrx1
 SLPS.80021894	リリィ		ptrx1
-SLPS.8002189C	シェリー		ptrx1
-SLPS.800218A8	フロリンダ		ptrx1
-SLPS.800218B4	ローザ		ptrx1
+SLPS.8002189C	シェリー	Shelly	ptrx1
+SLPS.800218A8	フロリンダ	Florinda	ptrx1
+SLPS.800218B4	ローザ	Rosa	ptrx1
 SLPS.800218BC	ラビエル		luix1
 SLPS.80021B9C	FontEntryBuf() ～ Font Manager Buffer Locate Error...{0A}		luix1
 SLPS.80021BD4	FontEntryBuf() ～ UnKnown Code...{0A}		luix2

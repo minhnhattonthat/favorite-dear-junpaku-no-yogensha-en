@@ -7,7 +7,7 @@ loev19.00F8	ルディエール		speaker
 loev19.0108	ん？　＄＄＄＄＄＄か。{n}こいつは、おれの幼なじみのセネカさ。{wait}{clear}		
 loev19.0148	セネカ		speaker
 loev19.0156	パオー{wait}{clear}		
-loev19.0160	ＮＵＬＬ		speaker
+loev19.0160	ＮＵＬＬ	NULL	speaker
 loev19.0170	《幼なじみ？》{n}		
 loev19.0186	《かわいいですね》{n}		
 loev19.01A4	＄＄＄＄＄＄		speaker

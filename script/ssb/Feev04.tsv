@@ -2,7 +2,7 @@ id	jp	en	notes
 Feev04.00CA	☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆		
 Feev04.0152	フェイン		speaker
 Feev04.015E	クソっ！{n}もう少し早く戻って来ることができれば……。{wait}{clear}		
-Feev04.0196	ＮＵＬＬ		speaker
+Feev04.0196	ＮＵＬＬ	NULL	speaker
 Feev04.01A6	《早く逃げなければ……》{n}		
 Feev04.01C6	《謝る》{n}		
 Feev04.01DC	＄＄＄＄＄＄		speaker

@@ -12,7 +12,7 @@ eiev14.01A2	セレニス		speaker
 eiev14.01B2	……ふふ、そうね{n}もう聞かせる必要はないわね。{wait}{clear}		
 eiev14.01E8	さあ、来なさい。{wait}{clear}		
 eiev14.0200	あなたを殺して、魂を天竜に捧げてあげるわ。{wait}{clear}		
-eiev14.028E	ＮＵＬＬ		speaker
+eiev14.028E	ＮＵＬＬ	NULL	speaker
 eiev14.029A	ゴゴゴゴゴ……{wait}{clear}		
 eiev14.02C0	＄＄＄＄＄＄		speaker
 eiev14.02D0	アイリーン……大丈夫ですか？{wait}{clear}		

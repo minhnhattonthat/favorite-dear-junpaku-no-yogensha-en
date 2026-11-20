@@ -24,7 +24,7 @@ ceev18.02F2	心のどこかで……森に暮らしていたころのように{n
 ceev18.034E	どんなに楽だったろう、と思うことがあります……。{wait}{clear}		
 ceev18.0386	譲られた記憶がつくる心は{n}こんなふうにを思う気持ちを……いさめます……。{wait}{clear}		
 ceev18.03D6	天使様も……{n}きっと私がこんな弱い気持ちをもつなんて{n}お怒りになるでしょうね……。{wait}{clear}		
-ceev18.042C	ＮＵＬＬ		speaker
+ceev18.042C	ＮＵＬＬ	NULL	speaker
 ceev18.043C	《いいえ、自然な心だと思います。》{n}		
 ceev18.0466	《人が迷うのは当然です。》{n}		
 ceev18.0488	＄＄＄＄＄＄		speaker
@@ -41,7 +41,7 @@ ceev18.05FA	セシア		speaker
 ceev18.0608	天使様……{n}弱い私がこうしてここまでこれたのは……{wait}{clear}		
 ceev18.0642	天使様がそばにいてくださったからです……。{wait}{clear}		
 ceev18.0674	＄＄＄＄＄＄様……私の心は、{n}今も……あのときと変わっていません……。{wait}{clear}		
-ceev18.06BE	ＮＵＬＬ		speaker
+ceev18.06BE	ＮＵＬＬ	NULL	speaker
 ceev18.06CE	《セシアを抱きしめる。》{n}		
 ceev18.06EE	《礼を言う。》{n}		
 ceev18.0738	＄＄＄＄＄＄		speaker

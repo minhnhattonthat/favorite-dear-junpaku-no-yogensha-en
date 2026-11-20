@@ -5,7 +5,7 @@ men2_Cl02.007A	＄＄＄＄＄＄		speaker
 men2_Cl02.008A	いいえ……それはかまいません……。{n}クライヴが呼んでくれたのですから……。{wait}{clear}なにかお話があるのでしょう？{wait}{clear}		
 men2_Cl02.00F8	クライヴ		speaker
 men2_Cl02.0104	ああ……{n}たいした話じゃないんだが……{n}少しいいか？{wait}{clear}		
-men2_Cl02.013C	ＮＵＬＬ		speaker
+men2_Cl02.013C	ＮＵＬＬ	NULL	speaker
 men2_Cl02.014C	《ええ、私でよければ……。》{n}		
 men2_Cl02.0170	《悩み事でもあるのですか？》{n}		
 men2_Cl02.0194	＄＄＄＄＄＄		speaker

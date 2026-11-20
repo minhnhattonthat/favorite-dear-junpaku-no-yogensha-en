@@ -5,7 +5,7 @@ men1_La02.0074	＄＄＄＄＄＄		speaker
 men1_La02.0084	どうしたのですか、レイラ？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men1_La02.00CA	レイラ		speaker
 men1_La02.00D4	そうじゃなくて……。{wait}{clear}ただ、＄＄＄＄＄＄と話がしたかっただけなの。{n}そんなことで来てもらって、迷惑だったかしら？{wait}{clear}		
-men1_La02.014A	ＮＵＬＬ		speaker
+men1_La02.014A	ＮＵＬＬ	NULL	speaker
 men1_La02.015A	《いいえ、気にしないでください。》{n}		
 men1_La02.0184	《あの……すみません……。》{n}		
 men1_La02.01A8	＄＄＄＄＄＄		speaker

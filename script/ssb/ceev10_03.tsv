@@ -16,7 +16,7 @@ ceev10_03.02A4	セシア……。{n}すみません、私はなにも言うこ�
 ceev10_03.033A	セシア		speaker
 ceev10_03.0348	むしろ、誇りに思います……。{n}聖母に選ばれるのですから……。{wait}{clear}		
 ceev10_03.038C	ただ、あまりに突然で……{n}私にそれがつとまるかどうか……。{wait}{clear}		
-ceev10_03.03DE	ＮＵＬＬ		speaker
+ceev10_03.03DE	ＮＵＬＬ	NULL	speaker
 ceev10_03.03EE	《迷うのはわかります。》{n}		
 ceev10_03.040E	《きっと大丈夫ですよ。》{n}		
 ceev10_03.0438	＄＄＄＄＄＄		speaker
@@ -36,7 +36,7 @@ ceev10_03.069E	私……{wait}{clear}
 ceev10_03.06AC	天使様……{wait}{clear}		
 ceev10_03.06BE	お願いがあります……{wait}{clear}		
 ceev10_03.06DA	最後に私が私であるうちに……{n}あなたに……{wait}{clear}		
-ceev10_03.0708	ＮＵＬＬ		speaker
+ceev10_03.0708	ＮＵＬＬ	NULL	speaker
 ceev10_03.0718	《セシアにキスする》{n}		
 ceev10_03.0734	《セシアを抱きしめる》{n}		
 ceev10_03.078C	セシア		speaker

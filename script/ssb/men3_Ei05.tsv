@@ -5,7 +5,7 @@ men3_Ei05.0082	＄＄＄＄＄＄		speaker
 men3_Ei05.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
 men3_Ei05.00CC	アイリーン		speaker
 men3_Ei05.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この魔導書をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
-men3_Ei05.016C	ＮＵＬＬ		speaker
+men3_Ei05.016C	ＮＵＬＬ	NULL	speaker
 men3_Ei05.017C	《ありがとうございます。》{n}		
 men3_Ei05.019E	《戒律があるので……。》{n}		
 men3_Ei05.01BE	＄＄＄＄＄＄		speaker

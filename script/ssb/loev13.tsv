@@ -11,7 +11,7 @@ loev13.015A	あんなやつらに……{n}おれは国を奪われてしまっ�
 loev13.0196	兄さんに顔向けできない……{wait}{clear}		
 loev13.01C4	もう、何を信じればいいんだ……{wait}{clear}		
 loev13.01EA	おれは……。{wait}{clear}		
-loev13.01FA	ＮＵＬＬ		speaker
+loev13.01FA	ＮＵＬＬ	NULL	speaker
 loev13.020A	《自分を信じて……》{n}		
 loev13.0226	《今は立ち止まらず……》{n}		
 loev13.0250	＄＄＄＄＄＄		speaker

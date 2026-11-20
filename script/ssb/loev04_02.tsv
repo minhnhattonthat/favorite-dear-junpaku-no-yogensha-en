@@ -54,7 +54,7 @@ loev04_02.0AF6	気にさわったんだったら、謝るよ。{n}ただ、兄�
 loev04_02.0B70	それより、兄さんを見たの、初めてだろ？{wait}{clear}		
 loev04_02.0B9A	＄＄＄＄＄＄		speaker
 loev04_02.0BAA	ええ。{wait}{clear}		
-loev04_02.0BB4	ＮＵＬＬ		speaker
+loev04_02.0BB4	ＮＵＬＬ	NULL	speaker
 loev04_02.0BC4	《立派な方ですね。》{n}		
 loev04_02.0BE0	《帝国に行くのですか？》{n}		
 loev04_02.0C0A	＄＄＄＄＄＄		speaker

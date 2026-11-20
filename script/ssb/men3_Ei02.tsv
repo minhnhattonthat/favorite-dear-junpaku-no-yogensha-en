@@ -5,7 +5,7 @@ men3_Ei02.0082	＄＄＄＄＄＄		speaker
 men3_Ei02.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
 men3_Ei02.00CC	アイリーン		speaker
 men3_Ei02.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この羽ペンをあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
-men3_Ei02.016C	ＮＵＬＬ		speaker
+men3_Ei02.016C	ＮＵＬＬ	NULL	speaker
 men3_Ei02.017C	《ありがとうございます。》{n}		
 men3_Ei02.019E	《戒律があるので……。》{n}		
 men3_Ei02.01BE	＄＄＄＄＄＄		speaker

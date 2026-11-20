@@ -5,7 +5,7 @@ men3_Ro04.00A4	＄＄＄＄＄＄		speaker
 men3_Ro04.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
 men3_Ro04.00D8	ロクス		speaker
 men3_Ro04.00E2	いや、べつになにもないよ。{n}ただ、このタローカードを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
-men3_Ro04.0148	ＮＵＬＬ		speaker
+men3_Ro04.0148	ＮＵＬＬ	NULL	speaker
 men3_Ro04.0158	《ありがとうございます。》{n}		
 men3_Ro04.017A	《戒律があるので……。》{n}		
 men3_Ro04.019A	＄＄＄＄＄＄		speaker

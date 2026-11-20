@@ -5,7 +5,7 @@ men3_Ro02.00A4	＄＄＄＄＄＄		speaker
 men3_Ro02.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
 men3_Ro02.00D8	ロクス		speaker
 men3_Ro02.00E2	いや、べつになにもないよ。{n}ただ、この聖者のローブを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
-men3_Ro02.0148	ＮＵＬＬ		speaker
+men3_Ro02.0148	ＮＵＬＬ	NULL	speaker
 men3_Ro02.0158	《ありがとうございます。》{n}		
 men3_Ro02.017A	《戒律があるので……。》{n}		
 men3_Ro02.019A	＄＄＄＄＄＄		speaker

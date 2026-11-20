@@ -2,7 +2,7 @@ id	jp	en	notes
 roev13.00DA	クラレンス		speaker
 roev13.00EC	ほら、天使様、とりにきな。{wait}{clear}		
 roev13.010E	これがありゃ、世界は平和だぜ。{wait}{clear}		
-roev13.0130	ＮＵＬＬ		speaker
+roev13.0130	ＮＵＬＬ	NULL	speaker
 roev13.0140	《魔石を受け取る》{n}		
 roev13.0168	＄＄＄＄＄＄		speaker
 roev13.0178	！？{wait}{clear}		

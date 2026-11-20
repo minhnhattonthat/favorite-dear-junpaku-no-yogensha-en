@@ -5,7 +5,7 @@ roev15.006E	……いるか、＄＄＄＄＄＄？{wait}{clear}
 roev15.008C	ロクス		speaker
 roev15.009A	一緒に出かけないか？{wait}{clear}		
 roev15.00B6	なにもしない……、なんていう{n}約束を僕はできないけど、{n}つき合ってくれたら嬉しい。{wait}{clear}		
-roev15.010C	ＮＵＬＬ		speaker
+roev15.010C	ＮＵＬＬ	NULL	speaker
 roev15.011C	《ええ……》{n}		
 roev15.0130	《今は忙しいので……》{n}		
 roev15.0154	＄＄＄＄＄＄		speaker
@@ -30,7 +30,7 @@ roev15.0396	＄＄＄＄＄＄		speaker
 roev15.03A6	いえ、いいんです。もう。{wait}{clear}		
 roev15.03C2	ロクス		speaker
 roev15.03CC	…………。{wait}{clear}		
-roev15.03DA	ＮＵＬＬ		speaker
+roev15.03DA	ＮＵＬＬ	NULL	speaker
 roev15.03EA	《あなたの話を聞かせてください》{n}		
 roev15.0412	《癒しの手について……》{n}		
 roev15.0438	＄＄＄＄＄＄		speaker

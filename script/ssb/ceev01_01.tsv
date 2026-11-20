@@ -40,7 +40,7 @@ ceev01_01.05AA	セシア		speaker
 ceev01_01.05B8	はい、わかりました……。{n}いつでもお待ちしています、天使様。{wait}{clear}		
 ceev01_01.0614	セシア		speaker
 ceev01_01.061E	あの、天使様……{wait}{clear}少し待っていただけませんか？{wait}{clear}長老たちに天使様についていくことを{n}報告をしなければなりません。{wait}{clear}勝手に村を出ることはできないですから……。{wait}{clear}それに、心の準備も……。{wait}{clear}		
-ceev01_01.06E0	ＮＵＬＬ		speaker
+ceev01_01.06E0	ＮＵＬＬ	NULL	speaker
 ceev01_01.06F0	《どうしても頼みたい》{n}		
 ceev01_01.070E	《また来ます》{n}		
 ceev01_01.072A	＄＄＄＄＄＄		speaker

@@ -93,7 +93,7 @@ roev01_01.0D06	ロクス		speaker
 roev01_01.0D14	わかりました、ではまた。{wait}{clear}		
 roev01_01.0D40	ロクス		speaker
 roev01_01.0D4A	天使様の頼みをお断りするのは{n}非常に申し訳ないのですが……{n}今はおつき合いできません。{wait}{clear}自分には少々込み入った事情があるのです。{n}すみません。{wait}{clear}		
-roev01_01.0DDE	ＮＵＬＬ		speaker
+roev01_01.0DDE	ＮＵＬＬ	NULL	speaker
 roev01_01.0DEE	《どうしてもお願いしたい》{n}		
 roev01_01.0E10	《今はあきらめる》{n}		
 roev01_01.0E32	＄＄＄＄＄＄		speaker
@@ -110,21 +110,21 @@ roev01_01.1020	ロクス		speaker
 roev01_01.102A	すみません、美しい天使様。{n}また、お会いできる日を楽しみにしていますよ。{wait}{clear}		
 roev01_01.1086	ロクス		speaker
 roev01_01.1090	私にも事情があるのです。{n}失礼してもいいですか？{wait}{clear}		
-roev01_01.10C4	ＮＵＬＬ		speaker
+roev01_01.10C4	ＮＵＬＬ	NULL	speaker
 roev01_01.10D4	《どうしてもお願いしたい》{n}		
 roev01_01.10F6	《あきらめる》{n}		
 roev01_01.1112	＄＄＄＄＄＄		speaker
 roev01_01.1122	お願いできませんか？{wait}{clear}		
 roev01_01.113A	ロクス		speaker
 roev01_01.1144	協力はできません。{wait}{clear}		
-roev01_01.115A	ＮＵＬＬ		speaker
+roev01_01.115A	ＮＵＬＬ	NULL	speaker
 roev01_01.116A	《どうしてもお願いしたい》{n}		
 roev01_01.118C	《あきらめる》{n}		
 roev01_01.11A8	＄＄＄＄＄＄		speaker
 roev01_01.11B8	お願いできませんか？{wait}{clear}		
 roev01_01.11DC	ロクス		speaker
 roev01_01.11E6	しつこいな……{wait}{clear}協力はできません。{wait}{clear}		
-roev01_01.120E	ＮＵＬＬ		speaker
+roev01_01.120E	ＮＵＬＬ	NULL	speaker
 roev01_01.121E	《どうしてもお願いしたい》{n}		
 roev01_01.1240	《あきらめる》{n}		
 roev01_01.125C	＄＄＄＄＄＄		speaker

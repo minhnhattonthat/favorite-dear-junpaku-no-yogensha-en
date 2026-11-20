@@ -5,7 +5,7 @@ men1_La01.0074	＄＄＄＄＄＄		speaker
 men1_La01.0084	いいえ、それは気にしないでください。{n}妖精からなにか話があると聞いたので……。{wait}{clear}		
 men1_La01.00E2	レイラ		speaker
 men1_La01.00EC	ええ……話というか……{wait}{clear}妖精から、＄＄＄＄＄＄は{n}呼んだら来るって聞いたから、{n}試してみたかったの……。{wait}{clear}		
-men1_La01.015A	ＮＵＬＬ		speaker
+men1_La01.015A	ＮＵＬＬ	NULL	speaker
 men1_La01.016A	《そんなことだったのですね……。》{n}		
 men1_La01.0194	《これで信じてもらえましたか？》{n}		
 men1_La01.01BC	＄＄＄＄＄＄		speaker

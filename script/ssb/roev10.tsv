@@ -8,7 +8,7 @@ roev10.00B6	大丈夫ですか？{wait}{clear}
 roev10.00C8	ロクス		speaker
 roev10.00D6	大丈夫ですか？……か。{n}口先だけのなぐさめ、ありがとう。{wait}{clear}		
 roev10.0116	いつも感謝してるよ……。{wait}{clear}		
-roev10.0132	ＮＵＬＬ		speaker
+roev10.0132	ＮＵＬＬ	NULL	speaker
 roev10.0142	《宿へ戻りましょう。》{n}		
 roev10.0160	《少しお酒をつつしんで……。》{n}		
 roev10.0186	＄＄＄＄＄＄		speaker

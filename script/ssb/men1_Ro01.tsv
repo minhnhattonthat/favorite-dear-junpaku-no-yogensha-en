@@ -9,7 +9,7 @@ men1_Ro01.010E	＄＄＄＄＄＄		speaker
 men1_Ro01.011E	え？{wait}{clear}		
 men1_Ro01.0126	ロクス		speaker
 men1_Ro01.0130	妖精が、天使様は呼べば来るって言ってたから{n}本当なのかと思ってさ。{wait}{clear}		
-men1_Ro01.0176	ＮＵＬＬ		speaker
+men1_Ro01.0176	ＮＵＬＬ	NULL	speaker
 men1_Ro01.0186	《それで？》{n}		
 men1_Ro01.019A	《これで信じてもらえましたか？》{n}		
 men1_Ro01.01C2	＄＄＄＄＄＄		speaker

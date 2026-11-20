@@ -13,7 +13,7 @@ loev10_02.0260	ルディエール		speaker
 loev10_02.0270	…………。{wait}{clear}		
 loev10_02.027E	＄＄＄＄＄＄		speaker
 loev10_02.028E	ルディ……{wait}{clear}		
-loev10_02.029C	ＮＵＬＬ		speaker
+loev10_02.029C	ＮＵＬＬ	NULL	speaker
 loev10_02.02AC	《どうして……》{n}		
 loev10_02.02C4	《残念なことです……》{n}		
 loev10_02.02EC	＄＄＄＄＄＄		speaker
