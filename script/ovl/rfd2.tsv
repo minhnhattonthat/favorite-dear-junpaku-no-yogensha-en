@@ -185,13 +185,13 @@ rfd2.8009CFB0	０		ptrx1
 rfd2.8009CFD4	ラファエルに会う	Meet Raphael	luix1
 rfd2.8009CFE8	装備アイテムの入手	Get equipment items	luix1
 rfd2.8009CFFC	消費アイテムの入手	Get consumable items	luix1
-rfd2.8009D010	妖精を借りる　情報の入手	Borrow fairies, get information	luix1
+rfd2.8009D010	妖精を借りる　情報の入手	Borrow fairies, hear the news	luix1
 rfd2.8009D02C	自分の部屋へ戻る	Return to your room	luix1
 rfd2.8009D040	地上界へ帰る	Return to the world below	luix2
 rfd2.8009D084	ゲームデータのセーブやロード	Save or load game data	luix1
 rfd2.8009D0A4	各キャラクターのステータスを確認	Check each character's status	luix1
 rfd2.8009D0C8	１日過ごしてＡＰを回復	Spend a day to recover AP	luix1
-rfd2.8009D0E0	天界の他の宮へ移動	Go to another palace in the Heavens	luix1
+rfd2.8009D0E0	天界の他の宮へ移動	Go to another palace	luix1
 rfd2.8009D120	どうしたのです？　＄＄＄＄＄＄。	What is it, ＄＄＄＄＄＄?	luix1
 rfd2.8009D144	またいつでも来なさい、＄＄＄＄＄＄。	Come again anytime, ＄＄＄＄＄＄.	luix1
 rfd2.8009D16C	いらっしゃい。	Welcome.	luix1

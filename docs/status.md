@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (21st worker: G3/G4/G10 redrawn, build 2e18e967, re-tour owed; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (22nd worker: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -236,7 +236,28 @@ Updated at the end of every session. Keep it to what the next session needs; his
   battle_h1-h6, battle_3152 on 2e18e967 was killed by the host for low memory (the first game's project had two
   emulators running) before any scene finished. The G3/G4 sprites may not show in the warp battles at all (they
   appear on status effects / skills): if not, add a battle route that casts a skill, or waive with the redraw sheet.
-- **Next (phase 8):** re-tour on 2e18e967 the 17 scenes above (`warp.py omake omake_cg album_2 .. album_8 battle
+- **Phase 8 progress (2026-11-21, 22nd worker):** re-tour of the 17 scenes on 2e18e967 (`work/qa/retour_2e18.log`).
+  `qa_sheets.py` re-run on the other 50 scenes and `qa_gate.py init` (191 sheets). Sheets with identical pixels
+  share a verdict (29 duplicates: every heaven_*/map_* scene opens with the same two map day-cycle sheets).
+  Verdicts in `work/qa/verdicts/w22_001..007.tsv` (~100 sheets): name_entry, prologue*, heaven*, load_*, map*,
+  ev_* (not ev_fe), exam, maseki, year1, tutorial, title_omake, visit, game_over*, end_raphael, end_cecia.
+  **Fixed:** heaven help bar is a fixed ~210 px pill (29 letters fit): "Go to another palace in the Heavens" was
+  clipped both ends -> "Go to another palace"; "Borrow fairies, get information" -> "Borrow fairies, hear the
+  news"; budget 30 in `tools/widths.tsv` for rfd2.8009CFC0-D0EF (lint 0). Not bugs: the end_* warps all play
+  Fein's .end narration (picked by the fixture save, not by the warped ending); after "Save clear data? Yes" the
+  game asks to LOAD clear data first (ed.8009B704, original design). **Issues left:** G14 opening movie DEMO.STR
+  captions Japanese (game_over2 sheets 2-4 reboot into it), G15 credits (13 sheets). ev_fe's frames were left as
+  raw `.psx` dumps by the earlier killed run: re-warped on 757dbe6a, sheets made, verdict owed. Polish gained the
+  pair-glyph gap "Ravi el" and the help-bar cuts. The re-tour of the 17 scenes finished OK (all arrived).
+  **Build 757dbe6a** (help bar), check.py 65 passed + lint 0, smoke OK; heaven_move re-warped on it shows "Go to
+  another palace" in the pill (`work/qa/p8/w22/heaven_move/qa_sheet_3.png`, verdict `fixed`).
+- **Next (phase 8):** read the sheets still without a verdict: `qa_gate.py todo work/qa/manifest.tsv
+  work/qa/verdicts` (end_cecia_clear 2-6, end_cl, end_ei, end_fe, end_la, end_lo, end_ro (same Fein narration
+  scrolled differently; first sheet of each is the hero's ending event), tgs_end, credits (G15 issue), ev_fe after
+  its re-warp, and the 17 re-toured scenes: omake, omake_cg, album_2-8, battle*, where G3/G4/G10 English should show).
+  The build changed after the tour (help bar, rfd2 only), so before phase 9 run one full re-tour on the final
+  build, `qa_sheets.py`, `qa_gate.py init` (unchanged sheets keep their verdicts). Then the FMV work (G14/G15).
+  Older next list: re-tour on 2e18e967 the 17 scenes above (`warp.py omake omake_cg album_2 .. album_8 battle
   battle_h1 .. battle_h6 battle_3152 -j 1 --cue <abs>/build/fd2_en.cue --out-dir work/qa/tour`, with no other
   emulators running); the other 50 scenes' text is identical between 47e8c2eb and 2e18e967 (only GRPDATA 0057/1454
   changed), so record that with the manifest. Then read the remaining sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size

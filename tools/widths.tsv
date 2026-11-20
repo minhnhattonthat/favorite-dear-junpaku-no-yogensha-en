@@ -2,6 +2,7 @@
 # Measured boxes: docs/re/text.md §Width gate. Unmeasured so far: OMAKE captions (op), pro quiz lines (phase 8).
 # regex on "<script path>:<id>"	letters	box
 ^ovl/rfd2\.tsv:rfd2\.8009D(5E8|5F4|600|610|61C|628|654|65C|664|670|678|684)$	14	heaven menu / move buttons (17 letters clipped both ends, 13 fit: work/qa/tour/heaven_move)
+^ovl/rfd2\.tsv:rfd2\.8009(CF[C-F]|D0[0-E])	30	heaven help bar (fixed ~210 px pill: 29 letters fit, 35 clipped both ends: work/qa/tour/heaven_move)
 ^ovl/rfd2\.tsv:rfd2\.8009B[EF]	44	heaven / fairy talk box (one string per line)
 ^ovl/rfd2\.tsv:rfd2\.8009D[1-9A]	44	heaven / fairy talk box (one string per line)
 ^exe\.tsv:SLPS\.8008D[0-3]	44	system message box (memory card)
