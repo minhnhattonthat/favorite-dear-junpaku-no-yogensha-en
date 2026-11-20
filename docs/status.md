@@ -202,10 +202,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (`work/qa/p8/name/`). (2) fixture cards: name set to Raviel (save header indices + stored name at data +0x2DC);
   load list shows "Raviel". (3) heaven Move button "St. Azaria Palace" clipped both ends: budget 14 in
   `tools/widths.tsv`, now "Azaria Palace" (polish.md). Not bugs: visit_01.ssb lines "29-00" etc. are the
-  original's placeholder ids (JP ２９＿００). **build/fd2_en.bin is still da353c51 (the toured build); the fixes
+  original's placeholder ids (JP ２９＿００). **(superseded: build 47e8c2eb has these fixes, 20th worker) build/fd2_en.bin was da353c51; the fixes
   are in `build/fd2_name.bin` (e967f0c9...) only** until the next `build.py`; after all fixes, rebuild fd2_en,
   re-tour (`warp.py --all -j 1`), `qa_sheets.py`, `qa_gate.py init` again (unchanged sheets keep their verdicts).
-- **Next (phase 8):** read the remaining 173 sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size
+- **Phase 8 progress (2026-11-21, 20th worker):** **G8 done:** 88 battle name plates in English
+  (`gfx/plates.tsv`, rows 0-80 = Name_000..NAME_080 with mixed-case entry names, 81-87 = Name_B00..B06 heroes;
+  `tools/plates.py check|sheet` renders them with fonts/font6, proportional, into the build; `tests/test_plates.py`).
+  Seen in battle: "Titan", "Fein" (`work/qa/p8/plates/b1.png`). 天竜 plate = "Heaven Dragon" (70 px glossary form
+  does not fit 64; polish.md). Build **47e8c2eb** (name fix + plates). The white squares under battle sprites are in
+  the original too (`work/qa/jp/battle`, warp on the JP disc): added to `docs/visual-qa-brief.md` standing non-bugs,
+  with the other known non-bugs and the open G-rows. Credits sheets = the JP FMV staff roll (G15), all 13 an issue
+  until the FMV work. G4 banner texts read at zoom (`work/qa/p8/g34.png`): 逃走 戦闘から退却, 連撃 攻撃を3回繰り返す,
+  小回復 HP100回復, 透明 敵の攻撃を3回無効化, 大回復 HP完全回復, 鉄壁(?) 特殊能力カバー上昇; G3 tags パラライズ ポイズン
+  コンフュ 石化 スリープ チャーム. an_mag_0.tim (GRPDATA_0057) is 4bpp with 16 CLUTs and the text is drawn in another
+  CLUT than 0 (clut 0 shows it magenta/cyan): find the CLUT the battle uses (VRAM dump in a battle) before redrawing;
+  tools/tim.py decodes only, needs a 4bpp encoder. **Re-tour on 47e8c2eb was killed for low memory** (host had other
+  projects' emulators running) after 46 of 66 scenes: `work/qa/tour/` has album_*, demo_menu, ev_*, exam, heaven_*,
+  load_*, map_*, maseki, name_entry, omake*, prologue*, title*, tutorial, visit, year1; still to run: battle,
+  battle_3152, battle_h1-h6, credits, end_* (9), game_over, game_over2, tgs_end (`warp.py SCENE.. --cue <abs>/build/
+  fd2_en.cue --out-dir work/qa/tour`). The old tour (da353c51) is in `work/qa/tour_da353c51`. Then `qa_sheets.py
+  work/qa/tour`, `qa_gate.py init ... --build build/fd2_en.bin` and verdicts.
+- **Next (phase 8):** finish the re-tour (above), then read the remaining sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size
   20 --out-dir work/qa/chunks`; ~1k tokens per sheet, so ~60 sheets per worker; write `verdicts/w<N>_NNN.tsv`):
   battles (G3/G4/G7/G8 graphics likely still JP), credits (13 pages, D3: English credits = ENDING.STR FMV work),
   the 7 endings, game over, tgs_end, ev_*, exam, year1, maseki, end_cecia*. Then the graphics redraws (G3, G4, G8
