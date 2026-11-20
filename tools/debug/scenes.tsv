@@ -67,3 +67,6 @@ credits	ending			hold	30000				ed.bin: staff roll movie ENDING.STR (4214 movie f
 game_over	ending	0x10		mash	14000				ed.bin game over (g_over0-3.tim)
 game_over2	ending	0x20		hold	20000				ed.bin byte 0x20: second game-over variant (grey card), then a soft reset to the logos
 choice_menx	event	menX_Ce01.ssb		hold	13000		30 -;6 circle;120 -;6 circle;120 -		menX_Ce01 "Accompany Cecia?" Yes/No choice held (inkbox); post.png = after 2 circles
+stress_kana	title			hold	19000	work/saves/stress_kana.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save (tools/stress.py): 6-katakana angel name, 99:59:59, 9999 days; title load list, loaded heaven, Data -> Save list (after a load the heaven menu ignores up/down: circle opens Data)
+stress_wide	title			hold	19000	work/saves/stress_wide.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save: angel named WWWWWW; same route
+stress_short	title			hold	19000	work/saves/stress_short.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save: 1-letter angel name A, play time 0, day 1; same route
