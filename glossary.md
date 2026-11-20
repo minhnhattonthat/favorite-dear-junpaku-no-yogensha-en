@@ -123,6 +123,18 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | グラニス | Granis | | reached by Legrance's main highway (BTL_EVT2) | |
 | リパ | Ripa | | a seaside spot Rocus likes (BTL_EVT3) | |
 | アザリア | Azaria | | 聖アザリア宮 the Palace of St. Azaria (Raphael's seat) | |
+| カルナール | Karnal | | in Legrance (MssAns2) | |
+| カディス | Cadiz | | old-Eastern-Kingdom part of Legrance (MssAns2) | |
+| セーレム | Salem | | seaside village (sea dragon) | |
+| ラリッサ | Larissa | | invaded by the Empire (MssAns5) | |
+| ラナス | Lanas | | region holding Jena | |
+| エルランゲス | Erlanges | | region; ヨートゥン Jotun is a small village there | |
+| セリフォス | Seriphos | | highway (MssAns5) | |
+| ディロロ | Dilolo | | Cecia's village region (Titans' pact) | |
+| ラグワート | Ragwort | | forest area (MssAns6) | |
+| ザルハ | Zarha | | the Forest of Shadows (影の森) area | |
+| ロオク | Rooak | | where the Holy Mother lives (MssAns6) | |
+| カルーガ | Kaluga | | カルーガの塔 the Tower of Kaluga | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -136,6 +148,53 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | 大天使 | archangel | | the archangel / Lord Raphael | |
 | ウォーロック | Warlock | | sword-trained guild mage (Fein) | |
 | 黒衣の魔導士 | Black Mage | | name tag, Feev01_01 | |
+| 混乱度 | chaos level | | world gauge in the fairy reports | |
+| エリヴァーガル | Elivagar | | Raphael's gifts (HVN_Msg00); the EXE item list SLPS.80020A04-0BF8 must match | |
+| カラズボルグ | Caladbolg | | Fein, two-handed sword | |
+| ルグナサズ | Lughnasadh | | Fein | |
+| ファブスレイヤー | Fafslayer | | Clive, single-edged two-handed sword | |
+| バルドゥーダー | Baldudar | | Clive | |
+| スクルドパラー | Skuldparer | | Clive | |
+| クリスフォルセス | Krisforses | | Rudiere, curved sword | |
+| スコルブレイカー | Skollbreaker | | Rudiere | |
+| リーグクリス | Rigkris | | Rudiere | |
+| ボロディメイス | Borodi Mace | | Rocus, staff | |
+| カドゥケウス | Caduceus | | Rocus | |
+| ワンドフギン | Wand Huginn | | Irene, rod | |
+| レーラズロッド | Laerad Rod | | Irene | |
+| セフィロート | Sephiroth | | Irene | |
+| チュールフレール | Tyr Fleuret | | Leyla, one-handed sword | |
+| ウルディピア | Urdipia | | Leyla | |
+| ティルレイピア | Tir Rapier | | Leyla | |
+| ロギズアロー | Logiz Arrow | | Cecia, bow | |
+| ケイロンボウ | Chiron Bow | | Cecia | |
+| スカディアロー | Skadi Arrow | | Cecia | |
+| グロアローブ | Groa Robe | | robe | |
+| パーテルノステル | Paternoster | | robe | |
+| ヴェンディゲイド | Vendigeid | | robe (not the armor ヴェンディゲイト) | |
+| ヴェンディゲイト | Vendigeit | | standard armor | |
+| グロルメイル | Groll Mail | | light armor | |
+| シグルドメイル | Sigurd Mail | | light armor | |
+| チュールラメラー | Tyr Lamellar | | light armor | |
+| ミラージュメイル | Mirage Mail | | standard armor | |
+| ラグナアーマー | Ragna Armor | | standard armor | |
+| ヘルメスブーツ | Hermes Boots | | boots | |
+| クヴァルブーツ | Kval Boots | | boots | |
+| ネムグランブーツ | Nemgran Boots | | boots | |
+| ボリディウェズ | Bolidiwez | | pendant | |
+| ヴァルダルゲス | Valdarges | | pendant | |
+| ブリーシング | Brising | | pendant | |
+| ディールブレス | Dyr Bracelet | | bracelet | |
+| ラインファルツ | Rheinpfalz | | bracelet | |
+| ドラウプニル | Draupnir | | bracelet | |
+| ラインリング | Rhein Ring | | ring | |
+| フェイスリング | Faith Ring | | ring | |
+| エタナリィリング | Eternity Ring | | ring | |
+| トールズクロス | Thor's Cross | | charm | |
+| エリュティア | Erythia | | charm | |
+| リーヴクロイツ | Lif Kreuz | | charm | |
+| カリス | Chalice | | holy grail, charm | |
+| グラール | Graal | | holy grail, charm | |
 
 ## Decisions from earlier batches
 - Chapter labels `xxNN.0012` (第N節「...」, ...エンディング): title only, no number ("Cursed Soul", "Confession").

@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG0.000E	そうか……。{n}すまんが、今は手がはなせない。{wait}{clear}他の誰かに頼んでもらえないだろうか。		
-GenNG0.0064	そうか……。{n}悪いが、今そこへ行くわけにはいかない……。{wait}{clear}誰か他の者に頼んでくれ。		
-GenNG0.00BA	すまないが、俺が行っても間に合うとは思えない。{wait}{clear}悪いが、他の者に頼んでもらえないか？		
-GenNG0.0112	そんな事件が……。{n}しかし、俺は今は手がはなせない。{wait}{clear}すまないが、他の誰かに頼んでもらえないか。		
-GenNG0.0176	その程度の事件なら、俺が行くまでもないだろう。{wait}{clear}誰か他をあたってくれないか？		
-GenNG0.01C6	すまない。{n}俺には、どうしても{n}やらなければならないことがある。{wait}{clear}悪いがその依頼を受けることはできない。		
+GenNG0.000E	そうか……。{n}すまんが、今は手がはなせない。{wait}{clear}他の誰かに頼んでもらえないだろうか。	I see... Sorry, but my hands are full right{n}now.{wait}{clear}Could you ask someone else?	
+GenNG0.0064	そうか……。{n}悪いが、今そこへ行くわけにはいかない……。{wait}{clear}誰か他の者に頼んでくれ。	I see... Sorry, but I can't go there right{n}now...{wait}{clear}Ask someone else.	
+GenNG0.00BA	すまないが、俺が行っても間に合うとは思えない。{wait}{clear}悪いが、他の者に頼んでもらえないか？	Sorry, but I don't think I'd make it in time{n}even if I went.{wait}{clear}I'm afraid you'll have to ask someone else.	
+GenNG0.0112	そんな事件が……。{n}しかし、俺は今は手がはなせない。{wait}{clear}すまないが、他の誰かに頼んでもらえないか。	An incident like that... But my hands are{n}full right now.{wait}{clear}Sorry, but could you ask someone else?	
+GenNG0.0176	その程度の事件なら、俺が行くまでもないだろう。{wait}{clear}誰か他をあたってくれないか？	An incident that minor doesn't need me.{wait}{clear}Could you try someone else?	
+GenNG0.01C6	すまない。{n}俺には、どうしても{n}やらなければならないことがある。{wait}{clear}悪いがその依頼を受けることはできない。	Sorry. There's something I absolutely have{n}to do.{wait}{clear}I'm afraid I can't take that request.	

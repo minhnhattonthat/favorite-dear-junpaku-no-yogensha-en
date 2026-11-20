@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG6.000E	そんなひどいことが？{wait}{clear}でも、ごめんなさい、天使様。{n}私、どうしても手がはなせなくて……。{n}他の人にお願いしていただけませんか？		
-GenNG6.0090	すみません、天使様……。{n}今は、どうしてもそこへは行けません……。{wait}{clear}他の人に頼んでいただけないでしょうか？		
-GenNG6.00FE	天使様、すみません。{n}私が行っても、間に合わないと思います。{wait}{clear}他の方に頼んでいただけないでしょうか？		
-GenNG6.0166	その事件は、私でなくても解決できると思います。{n}他の方にお願いして欲しいのですが……{n}わがまま言って、ごめんなさい、天使様。		
-GenNG6.01E4	そんな事件が……？{n}でも……すみません、天使様。{wait}{clear}私にはどうしても{n}やらなければならないことがあるんです。{n}他の方にお願いしていただけませんか？		
-GenNG6.0278	すみません、天使様。{n}どうしても手がはなせないのです。{wait}{clear}今度の依頼は受けますから、{n}今回は他の方にお願いしていただけないでしょうか？{wait}{clear}本当に、すみません。		
+GenNG6.000E	そんなひどいことが？{wait}{clear}でも、ごめんなさい、天使様。{n}私、どうしても手がはなせなくて……。{n}他の人にお願いしていただけませんか？	Something that awful?{wait}{clear}But I'm sorry, Angel. I just can't get{n}away... Could you ask someone else?	
+GenNG6.0090	すみません、天使様……。{n}今は、どうしてもそこへは行けません……。{wait}{clear}他の人に頼んでいただけないでしょうか？	I'm sorry, Angel... I simply can't go there{n}right now...{wait}{clear}Could you ask someone else, please?	
+GenNG6.00FE	天使様、すみません。{n}私が行っても、間に合わないと思います。{wait}{clear}他の方に頼んでいただけないでしょうか？	I'm sorry, Angel. Even if I went, I don't{n}think I'd make it in time.{wait}{clear}Could you ask someone else, please?	
+GenNG6.0166	その事件は、私でなくても解決できると思います。{n}他の方にお願いして欲しいのですが……{n}わがまま言って、ごめんなさい、天使様。	I think someone other than me could resolve{n}that incident. I'd like you to ask someone{n}else... I'm sorry for being selfish, Angel.	
+GenNG6.01E4	そんな事件が……？{n}でも……すみません、天使様。{wait}{clear}私にはどうしても{n}やらなければならないことがあるんです。{n}他の方にお願いしていただけませんか？	An incident like that...? But... I'm sorry,{n}Angel.{wait}{clear}There's something I absolutely have to do.{n}Could you ask someone else, please?	
+GenNG6.0278	すみません、天使様。{n}どうしても手がはなせないのです。{wait}{clear}今度の依頼は受けますから、{n}今回は他の方にお願いしていただけないでしょうか？{wait}{clear}本当に、すみません。	I'm sorry, Angel. I just can't get away.{wait}{clear}I'll take the next request, so could you ask{n}someone else this time?{wait}{clear}I'm truly sorry.	

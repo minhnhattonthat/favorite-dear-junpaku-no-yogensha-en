@@ -1,0 +1,74 @@
+id	en
+HVN_Msg00.1750	＄＄＄＄＄＄, please give this Draupnir to your hero.{wait}{clear}It is a bracelet, so give it to whichever hero you think needs it most.
+HVN_Msg00.17EA	＄＄＄＄＄＄, please give this Rhein Ring to your hero.{wait}{clear}It is a ring, so give it to whichever hero you think needs it most.
+HVN_Msg00.187E	＄＄＄＄＄＄, please give this Faith Ring to your hero.{wait}{clear}It is a ring, so give it to whichever hero you think needs it most.
+HVN_Msg00.1914	＄＄＄＄＄＄, please give this Eternity Ring to your hero.{wait}{clear}It is a ring, so give it to whichever hero you think needs it most.
+HVN_Msg00.19AC	＄＄＄＄＄＄, please give this Thor's Cross to your hero.{wait}{clear}It is a charm, so give it to whichever hero you think needs it most.
+HVN_Msg00.1A42	＄＄＄＄＄＄, please give this Erythia to your hero.{wait}{clear}It is a charm, so give it to whichever hero you think needs it most.
+HVN_Msg00.1AD6	＄＄＄＄＄＄, please give this Lif Kreuz to your hero.{wait}{clear}It is a charm, so give it to whichever hero you think needs it most.
+HVN_Msg00.1B6C	＄＄＄＄＄＄, please give this Chalice to your hero.{wait}{clear}It is what is called a holy grail, and it works as a charm.{wait}{clear}If you give it to your hero, I am sure it will be of use.
+HVN_Msg00.1C1A	＄＄＄＄＄＄, please give this Graal to your hero.{wait}{clear}It is what is called a holy grail, and it works as a charm.{wait}{clear}If you give it to your hero, I am sure it will be of use.
+HVN_Msg00.1CCA	It seems you have not yet found any humans willing to help you.{wait}{clear}When you guide people in the right direction, they will surely become heroes.{wait}{clear}Work together with the fairies in your duties, so that you may also uncover the cause of Arcaya's chaos.
+HVN_Msg00.1DA6	It seems there are humans willing to help you.{wait}{clear}While they are still inexperienced, it is best to act together with them as much as you can. Sending a fairy along with them is also a good idea.
+HVN_Msg00.1E48	＄＄＄＄＄＄, are you coming to understand the people of Arcaya little by little?{wait}{clear}Opening their hearts takes time. Do not rush; keep going to see them.
+HVN_Msg00.1EE0	＄＄＄＄＄＄, be sure to watch Arcaya's chaos level.{wait}{clear}The chaos level is tied to the enemies' strength, so you must be careful when you ask a hero to take on a mission.
+HVN_Msg00.1F86	How are things in Arcaya?{wait}{clear}I imagine all manner of chaos is breaking out, but please find its cause as quickly as you can.{wait}{clear}It is a hard duty, but I am counting on you and the heroes.
+HVN_Msg00.2046	I am watching over your work from here. If you are ever troubled, come back at any time.
+HVN_Msg00.209E	＄＄＄＄＄＄... I am sure you will be able to understand the heroes.{wait}{clear}When you and the heroes come to trust each other, that power will save the world.
+HVN_Msg00.2128	So the Demon Stone in Arcaya is the cause of every calamity...{wait}{clear}The Demon Stone fell into the hands of the wicked, and that has brought about the present chaos.{wait}{clear}Stop those who would use the stone's power... ＄＄＄＄＄＄...
+HVN_Msg00.21F6	It is humans who are gathering the Demon Stone, but something seems to lie behind them...{wait}{clear}＄＄＄＄＄＄, be careful.
+HVN_Msg00.2264	＄＄＄＄＄＄, I think you already know, but the fallen angels will use every means to bring Arcaya to ruin.{wait}{clear}People's sorrow is a step toward the void they desire.{wait}{clear}You and the heroes may be exposed to even greater danger than now. Please, be very careful.
+HVN_Msg00.2372	Only a little time remains.{wait}{clear}You are our last hope. I am counting on you... ＄＄＄＄＄＄...{wait}{clear}Save Arcaya from ruin, together with the heroes.
+HVN_Msg00.2416	The duty in the world below is a hard one. But do not lose heart; keep at it.{wait}{clear}I am always watching over you.
+HVN_Msg00.2494	Never forget what it means that you are an angel.{wait}{clear}Then the place you must go should become clear of itself.
+HVN_Msg00.2510	May the blessings of Heaven and earth always be with you...
+HVN_Msg00.254C	Oh? It seems you cannot carry any more items. A pity, but let us leave it for another time.
+HVN_Msg00.259E	＄＄＄＄＄＄, here is a bonus of ＜ボーナスＡＰ＞ AP. Put it to use in your work in Arcaya.
+MssAns0.016A	None
+MssAns0.01BE	Ngh... The Empire... At last, Basel... and the Guild, of all places...{wait}{clear}＄＄＄＄＄＄, I'll go at once... Let me make it in time...
+MssAns0.024A	The Empire in the Holy City... So it's finally come...{wait}{clear}Yes, let me go...
+MssAns0.028C	The Demon Stone... So one of the pieces other than the Guild's has been stolen...{wait}{clear}Let me go...
+MssAns0.02F8	All right, I'll go. If I go, I should be able to find something out.
+MssAns0.033E	All right. I'm sure I can get hold of the information you need.{wait}{clear}There's something I want to know, too... Let's go.
+MssAns0.03C0	All right... There, surely...{wait}{clear}I'll go. I'll get there before anyone else, no matter what...!
+MssAns0.041A	That happened...? All right, if I'll do, I'll go.{wait}{clear}But be ready for the worst...
+MssAns0.048E	Ravenruft Castle... All right... I'll go.
+MssAns0.04BA	So the day has finally come...{wait}{clear}I lost someone precious because of me... And if this world is lost on top of that, only the void they desire will remain...{wait}{clear}That, I will never allow... I'll go, to atone for the sin I committed...{wait}{clear}Don't worry. I'll defeat the Heavenly Dragon, I promise.
+MssAns0.05F4	Creatures that aren't human in the imperial army? All right... I'll go.
+MssAns0.0642	All right, I'll go. If it concerns Bremes, I can't leave it alone.
+MssAns0.068C	A sea dragon at Bremes? All right, I'll head there at once.
+MssAns0.06D6	If it's a woman sobbing, it must be a banshee. If I'll do, I'll go and find out.
+MssAns0.0732	All right... Something that isn't human... I'll go and find out.
+MssAns0.0770	That highway matters. I'll go.
+MssAns0.07D4	That's... a nasty incident... I'll find the cause as quickly as I can.
+MssAns0.0818	All right... I'll go. I want an incident that grim resolved right away.
+MssAns0.0884	A two-headed monster... All right, I'll go.
+MssAns0.08CC	I see... All right... I'll go. I have to do something about this...
+MssAns0.0916	All right... I'll go...
+MssAns0.0930	All right, I'll go. Legrance is a young, precious country; that's exactly why we can't lose it...
+MssAns0.098A	All right, I'll go at once. Summoning monsters... it must be mages with ties to the Empire.{wait}{clear}I'll stop them before it's too late to undo.
+MssAns1.0170	Zombies... Then it's my job.{wait}{clear}I'll go.
+MssAns1.01A8	Fine. If they've come out, I'll go.
+MssAns1.020E	Yeah, fine...
+MssAns1.022A	They've appeared even in Ecclesia... Fine... I'll go...
+MssAns1.027A	Fine... I'll go.
+MssAns1.02CA	The Demon Stone... the Heavenly Dragon... Fine... I have to go...
+MssAns1.0316	So this day has finally come... I'll take him down myself... No matter what!
+MssAns1.0356	So he's finally shown himself... I can't let this chance slip... Let's go...
+MssAns1.039E	Fine... I'll go...{wait}{clear}This world never meant anything to me, but since I met you, something has changed...{wait}{clear}Like sinking into a dark void... I won't let things go the way they want...{wait}{clear}I'll defeat the Heavenly Dragon. I swear it.
+MssAns1.0498	Slatina, you say? I'll go...
+MssAns1.0504	That monster is probably undead, just as you thought...{wait}{clear}It's my job.
+MssAns1.0558	That's a banshee... I'll go...
+MssAns1.05D2	That's their doing... I'll go.
+MssAns1.0626	Them again... most likely... Let me go.
+MssAns1.0680	They've gotten even that far...{wait}{clear}I'll go... I'll take them down myself...
+MssAns1.06CC	Fine...
+MssAns2.0176	In Karnal? Someone like that inside Legrance's borders? Unforgivable...{wait}{clear}Let me go, ＄＄＄＄＄＄.
+MssAns2.022E	That's happening in Cadiz?! Damn it! So the old Eastern Kingdom's problems just won't go away?!{wait}{clear}＄＄＄＄＄＄, I'll go. This is a problem I have to deal with!
+MssAns2.02DC	I see... All right... Coming all the way to the Holy City... I can't just stay quiet.
+MssAns2.032C	Yeah, all right... I'll go.
+MssAns2.0348	Yeah... So they've finally come...{wait}{clear}Legrance is my country... I'll hurry there.
+MssAns2.03AC	Kran, huh... Right on the line between west and east... If something happens there at a time like this, Legrance will just fall into chaos.{wait}{clear}I'll go. It's my own country... I have to go...
+MssAns2.0460	Red armor... All right, I'll go!
+MssAns2.0484	Damn it! I won't let everything go the Empire's way!{wait}{clear}I'm going, for my brother's sake too!
+MssAns2.04E4	All right... I'll go and do everything I can. But be ready for the worst too, ＄＄＄＄＄＄.

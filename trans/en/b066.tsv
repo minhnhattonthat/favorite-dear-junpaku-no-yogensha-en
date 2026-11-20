@@ -1,0 +1,82 @@
+id	en
+FryMsg7.2322	Angel... The heroes fought valiantly, but... the capital of the Holy Nation of Ecclesia has fallen to the Empire.{wait}{clear}The city was destroyed, and the cathedral was set ablaze.{wait}{clear}Many people perished, but it seems some managed to escape.{wait}{clear}Angel, I am deeply worried about what will become of Arcaya... Please take great care as well, Angel.
+FryMsg7.27C6	Angel! A hero has defeated Clarence, the one called Viper, who stole the Demon Stone from the Holy Nation of Ecclesia.{wait}{clear}It appears he could hold no hope for this world, and sided with the Empire of his own accord...
+FryMsg7.2A36	Angel! The devil that possessed Endymion has shown itself, along with the castle of the legendary Crimson Moon King!{wait}{clear}Unless that devil and the Heavenly Dragon are defeated, peace will not return to Arcaya!{wait}{clear}Angel, I beg you, defeat the devil and the Heavenly Dragon together with the heroes, and save the world!
+FryMsg7.2B1E	Angel! It seems a man named Fein Lu Lugus of Celesta in the Six Kingdoms Alliance was well suited to be a hero candidate...{wait}{clear}But his life was taken by mysterious mages.{wait}{clear}It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.2C0C	Angel! It seems a man named Rudiere Trier Legrance of Ellora in the Kingdom of Legrance was well suited to be a hero candidate...{wait}{clear}But with the death of his elder brother, the king, he was caught up in the kingdom's troubles, and his whereabouts are unknown.{wait}{clear}Even if we search, we will likely not find him. It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.2D6C	Angel! It seems a man named Rocus Las Flores of Linares in the Holy Nation of Ecclesia was well suited to be a hero candidate...{wait}{clear}But in the chaos when the Holy City fell to the Empire, his whereabouts became unknown. Even if we search, we will likely not find him now.{wait}{clear}It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.2EA6	Angel! It seems a girl named Irene Tirnag of Bremes Isle was well suited to be a hero candidate...{wait}{clear}But in an incident tied to the Heavenly Dragon's revival, her whereabouts became unknown. Even if we search, we will likely not find her now.{wait}{clear}It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.2FC8	Angel! It seems a woman named Leyla Vigrid of Reizefut in the Grosain Empire was well suited to be a hero candidate...{wait}{clear}But she was framed for treason and killed...{wait}{clear}It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.30BC	Angel! It seems a girl named Cecia of Fes in the untamed lands was well suited to be a hero candidate...{wait}{clear}But she was caught up in the attack on St. Diana, who protected the Reyforia Forest, and her whereabouts became unknown.{wait}{clear}Even if we search, we will likely not find her now. It is most regrettable, but one of Arcaya's hopes has been lost.
+FryMsg7.3206	Angel! Leyla-sama tried to assassinate the Emperor at an evening ball, and Alberic killed her.{wait}{clear}She must have been so deeply tormented over her father's and mother's deaths... Leyla-sama...{wait}{clear}Angel, I am so very sad... One of Arcaya's hopes has been lost...
+GenAnsw0.000E	So I just need to resolve that incident? All right, I'll go.
+GenAnsw0.0048	If that's the situation, I can't very well leave it alone. ...Let's go.
+GenAnsw0.0086	An incident like that, I'll deal with right away. Leave it to me.
+GenAnsw0.00BC	That should be an easy incident to resolve. I'll head there right away and take care of it.
+GenAnsw0.0106	All right. If I'll do, I'll go handle that incident.
+GenAnsw0.0134	I'll head for that incident.{wait}{clear}I hope I make it in time...
+GenAnsw1.000E	I just need to deal with that? Fine...
+GenAnsw1.003E	Can't leave that alone...{wait}{clear}I'll go...
+GenAnsw1.0068	So I just need to resolve that incident? Fine.
+GenAnsw1.0096	Fine, I'll go...
+GenAnsw1.00B2	An incident like that is easily handled. If I'll do, I'll go.
+GenAnsw1.00EC	Fine...{wait}{clear}I hope I make it in time...
+GenAnsw2.000E	So I go there and resolve the incident? If I'll do, I'm on it.
+GenAnsw2.0054	If that's going on, I can't just sit here. I'll go.
+GenAnsw2.0092	Got it, I'll go. An incident like that, I can wrap up in no time.
+GenAnsw2.00D0	That's going on? Got it, I'll hurry over there!
+GenAnsw2.010E	An incident like that? Got it, I'll go.{wait}{clear}I can't just leave it alone.
+GenAnsw2.0160	I'll take that incident.{wait}{clear}Hope I make it in time...
+GenAnsw3.000E	So I just need to take care of that incident? All right, I'll go.
+GenAnsw3.0046	I can't overlook that... All right, I'll go.
+GenAnsw3.0078	An incident like that is going on? All right, I'll head there at once.
+GenAnsw3.00B4	All right, I'll go. An incident like that, I can resolve in no time.
+GenAnsw3.00F2	To think something like that would happen... All right, I'll head there at once.
+GenAnsw3.012C	All right. I'll head for that incident.{wait}{clear}I hope I make it in time, though...
+GenAnsw4.000E	So I just need to do something about that incident? All right, I'll go.
+GenAnsw4.004A	Well, I can't just ignore that! All right, I'll go.
+GenAnsw4.007E	So I need to resolve that incident. All right, if I'll do, I'll go.
+GenAnsw4.00C4	All right. I think I can resolve an incident like that in no time...{wait}{clear}I'll be off.
+GenAnsw4.0118	That's going on? All right, I'll go right away.
+GenAnsw4.0152	All right. I'll take that incident.{wait}{clear}I hope I make it in time...
+GenAnsw5.000E	So I just need to resolve that incident? I see... Very well.
+GenAnsw5.0042	I can't stay silent about that. I'll go.
+GenAnsw5.0078	To think something like that would happen... Very well, I'll head there at once.
+GenAnsw5.00B4	Very well, I'll go. I think I can resolve an incident like that quickly...
+GenAnsw5.00F8	Very well. I'll head for that incident.{wait}{clear}I can't just leave it alone, after all.
+GenAnsw5.0148	Very well. I'll head for that incident.{wait}{clear}I only hope I make it in time...
+GenAnsw6.000E	So I just need to resolve that? I understand. I'll go.
+GenAnsw6.004C	That's terrible! Angel, I'll go right away.
+GenAnsw6.007C	I'll head for that incident. I can't leave it alone.
+GenAnsw6.00B6	To think something like that would happen...{wait}{clear}I understand, Angel. I'll go.
+GenAnsw6.00FE	I understand, Angel. I think I can resolve that incident quickly.
+GenAnsw6.0142	I'll go to that incident.{wait}{clear}I hope I make it in time...
+GenNG0.000E	I see... Sorry, but my hands are full right now.{wait}{clear}Could you ask someone else?
+GenNG0.0064	I see... Sorry, but I can't go there right now...{wait}{clear}Ask someone else.
+GenNG0.00BA	Sorry, but I don't think I'd make it in time even if I went.{wait}{clear}I'm afraid you'll have to ask someone else.
+GenNG0.0112	An incident like that... But my hands are full right now.{wait}{clear}Sorry, but could you ask someone else?
+GenNG0.0176	An incident that minor doesn't need me.{wait}{clear}Could you try someone else?
+GenNG0.01C6	Sorry. There's something I absolutely have to do.{wait}{clear}I'm afraid I can't take that request.
+GenNG1.000E	Can't...
+GenNG1.001C	Can't do it...
+GenNG1.002C	I've got my hands full with something else.
+GenNG1.0046	An incident that minor, ask someone else.
+GenNG1.0072	I won't make it in time for that one. Try someone else.
+GenNG1.00B4	Sorry, I have other things to do. Try someone else... My apologies...
+GenNG2.000E	I see... So that's going on...{wait}{clear}But I've got my hands full with something else right now. Sorry...
+GenNG2.007A	Sorry! I can't go there right now.{wait}{clear}Sorry, but could you ask somebody else?
+GenNG2.00D8	I don't think I'd make it in time for that one. Sorry, ask somebody else.
+GenNG2.0126	An incident that small doesn't really need me, does it? Sorry, ask somebody else.
+GenNG2.0188	Sorry, I've got something else I need to do.{wait}{clear}I'll take the next request, so could you ask somebody else about this one?
+GenNG2.020A	Sorry! I can't get away right now.{wait}{clear}Sorry, but could you ask somebody else?
+GenNG3.000E	Sorry, I'm a bit tied up. Could you ask someone else?
+GenNG3.0052	Sorry, but I can't go there right now.{wait}{clear}Could you ask someone else?
+GenNG3.0096	Sorry, but I don't think I'd make it in time for that incident...{wait}{clear}Won't you ask someone else?
+GenNG3.00F6	An incident like that, I don't see the need for me to go.{wait}{clear}Why not ask someone else?
+GenNG3.0140	That incident hardly needs me, does it?{wait}{clear}Sorry, but ask someone else.
+GenNG3.0188	Sorry, but I'm not in the mood. Couldn't you make a better request once in a while?
+GenNG4.000E	That's going on?{wait}{clear}But sorry! I'm a little tied up. Could you ask someone else?
+GenNG4.0070	Sorry! I can't go there right now.{wait}{clear}Ask someone else! Sorry!{n}
+GenNG4.00C4	I'm not good with incidents like that. Sorry, ask someone else.
+GenNG4.00FE	I don't think I'd make it in time for that incident. Sorry, could you ask someone else?
+GenNG4.0156	Whaaat?! You want me to go to an incident like that?{wait}{clear}Sorry, but I'm not good with that sort of thing. You'd better ask someone else, really.

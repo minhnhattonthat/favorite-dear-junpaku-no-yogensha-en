@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenAnsw3.000E	その事件をなんとかすればいいのか？{n}わかった、行こう。		
-GenAnsw3.0046	それは見過ごせないな……{n}わかった、僕が行こう。		
-GenAnsw3.0078	そんな事件が起こっているのか？{n}わかった、すぐに向かおう。		
-GenAnsw3.00B4	わかった、僕が行こう。{n}そんな事件など、すぐに解決できるさ。		
-GenAnsw3.00F2	そんな事件が起こるなんて……{n}わかった、すぐに向かおう。		
-GenAnsw3.012C	わかった。{n}その事件には僕が向かおう。{wait}{clear}間に合えばいいけどな……。		
+GenAnsw3.000E	その事件をなんとかすればいいのか？{n}わかった、行こう。	So I just need to take care of that{n}incident? All right, I'll go.	
+GenAnsw3.0046	それは見過ごせないな……{n}わかった、僕が行こう。	I can't overlook that... All right, I'll go.	
+GenAnsw3.0078	そんな事件が起こっているのか？{n}わかった、すぐに向かおう。	An incident like that is going on? All{n}right, I'll head there at once.	
+GenAnsw3.00B4	わかった、僕が行こう。{n}そんな事件など、すぐに解決できるさ。	All right, I'll go. An incident like that, I{n}can resolve in no time.	
+GenAnsw3.00F2	そんな事件が起こるなんて……{n}わかった、すぐに向かおう。	To think something like that would happen...{n}All right, I'll head there at once.	
+GenAnsw3.012C	わかった。{n}その事件には僕が向かおう。{wait}{clear}間に合えばいいけどな……。	All right. I'll head for that incident.{wait}{clear}I hope I make it in time, though...	

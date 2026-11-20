@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG2.000E	そっか……そんなことが起きているのか……。{wait}{clear}でも、おれ、今、他のことで手がいっぱいなんだ。{n}悪いな……。		
-GenNG2.007A	ごめん！{n}おれは今、そこへ行くわけにはいかないんだ。{wait}{clear}悪いけど、他の人に頼んでもらえるか？		
-GenNG2.00D8	それ、おれが行っても間に合わないと思うぜ。{n}悪いけど、他の人に頼んでくれよ。		
-GenNG2.0126	それくらいの事件なら、{n}おれが行かなくてもいいんじゃないか？{n}悪いけど、他のやつに頼んでくれよ。		
-GenNG2.0188	悪いけど、おれ、{n}他にやらなくちゃいけないことがあるんだ。{wait}{clear}今度は依頼、受けるからさ、{n}この事件は他の人に頼んでもらえないか？		
-GenNG2.020A	ごめん！　ちょっと手がはなせないんだ。{wait}{clear}悪いけど、他の人にお願いできないか？		
+GenNG2.000E	そっか……そんなことが起きているのか……。{wait}{clear}でも、おれ、今、他のことで手がいっぱいなんだ。{n}悪いな……。	I see... So that's going on...{wait}{clear}But I've got my hands full with something{n}else right now. Sorry...	
+GenNG2.007A	ごめん！{n}おれは今、そこへ行くわけにはいかないんだ。{wait}{clear}悪いけど、他の人に頼んでもらえるか？	Sorry! I can't go there right now.{wait}{clear}Sorry, but could you ask somebody else?	
+GenNG2.00D8	それ、おれが行っても間に合わないと思うぜ。{n}悪いけど、他の人に頼んでくれよ。	I don't think I'd make it in time for that{n}one. Sorry, ask somebody else.	
+GenNG2.0126	それくらいの事件なら、{n}おれが行かなくてもいいんじゃないか？{n}悪いけど、他のやつに頼んでくれよ。	An incident that small doesn't really need{n}me, does it? Sorry, ask somebody else.	
+GenNG2.0188	悪いけど、おれ、{n}他にやらなくちゃいけないことがあるんだ。{wait}{clear}今度は依頼、受けるからさ、{n}この事件は他の人に頼んでもらえないか？	Sorry, I've got something else I need to do.{wait}{clear}I'll take the next request, so could you ask{n}somebody else about this one?	
+GenNG2.020A	ごめん！　ちょっと手がはなせないんだ。{wait}{clear}悪いけど、他の人にお願いできないか？	Sorry! I can't get away right now.{wait}{clear}Sorry, but could you ask somebody else?	

@@ -1,90 +1,90 @@
 id	jp	en	notes
-MssAns6.016A	なし		
-MssAns6.0170	なし		
-MssAns6.0176	なし		
-MssAns6.017C	なし		
-MssAns6.0182	タイタンたちがですか？{n}そんな……{n}長老たちとの契約で、村は襲わないと……。{wait}{clear}わかりました、ディロロへ向かいます。{n}そして、彼らと話してみます。		
-MssAns6.0216	なし		
-MssAns6.021C	なし		
-MssAns6.0222	なし		
-MssAns6.0228	なし		
-MssAns6.022E	魔獣ですか……？{n}なにか……とても気になります……。{wait}{clear}わかりました、すぐに向かいます。		
-MssAns6.0288	なし		
-MssAns6.028E	ラグワートへ帝国軍が！？{n}どうして、森へ……？{wait}{clear}わかりました。{n}すぐに向かいます、天使様！		
-MssAns6.02EC	ザルハの一帯ですか？{n}あのあたりの森は影の森と呼ばれ、{n}精霊がすんでいると言われています。{wait}{clear}精霊をおそれて、村の者は{n}ほとんど近づかないはずなのですが……。{wait}{clear}天使様、森の問題ですから、私が行きます。		
-MssAns6.03B8	なし		
-MssAns6.03BE	なし		
-MssAns6.03C4	なし		
-MssAns6.03CA	なし		
-MssAns6.03D0	わかりました、天使様。{wait}{clear}ロオクにいる聖母様の身になにかあっては、{n}取り返しがつきません。{n}私がすぐに向かいます。		
-MssAns6.0444	帝国軍が聖都へですか……？{wait}{clear}天使様、行かせてください。{n}私ではなにもできないかもしれませんが……{n}黙って見ていることなどできません。		
-MssAns6.04CC	魔石！？　わかりました、すぐに向かいます！		
-MssAns6.04F8	なし		
-MssAns6.04FE	なし		
-MssAns6.0504	わかりました。{n}あの子には、これ以上{n}罪を重ねさせるわけにはいきません。{wait}{clear}すぐにファーノへ向かいます。		
-MssAns6.056E	なし		
-MssAns6.0574	なし		
-MssAns6.057A	なし		
-MssAns6.0580	なし		
-MssAns6.0586	天使様……私はまだあきらめません。{n}きっと、きっとなにかできるはずです。{wait}{clear}行きます、カルーガの塔へ！		
-MssAns6.05EE	なし		
-MssAns6.05F4	なし		
-MssAns6.05FA	天使様……{n}考えたくなかったことが、{n}起こってしまったのですね……。{wait}{clear}私が行きます……彼のためにも……。		
-MssAns6.0666	なし		
-MssAns6.066C	わかりました……私が行きます……。		
+MssAns6.016A	なし	None	
+MssAns6.0170	なし	None	
+MssAns6.0176	なし	None	
+MssAns6.017C	なし	None	
+MssAns6.0182	タイタンたちがですか？{n}そんな……{n}長老たちとの契約で、村は襲わないと……。{wait}{clear}わかりました、ディロロへ向かいます。{n}そして、彼らと話してみます。	The Titans? But... they made a pact with the{n}elders not to attack the village...{wait}{clear}I understand. I'll head for Dilolo, and try{n}talking with them.	
+MssAns6.0216	なし	None	
+MssAns6.021C	なし	None	
+MssAns6.0222	なし	None	
+MssAns6.0228	なし	None	
+MssAns6.022E	魔獣ですか……？{n}なにか……とても気になります……。{wait}{clear}わかりました、すぐに向かいます。	A magical beast...? Something about it...{n}really bothers me...{wait}{clear}I understand. I'll head there right away.	
+MssAns6.0288	なし	None	
+MssAns6.028E	ラグワートへ帝国軍が！？{n}どうして、森へ……？{wait}{clear}わかりました。{n}すぐに向かいます、天使様！	The imperial army at Ragwort?! Why the{n}forest...?{wait}{clear}I understand. I'll head there right away,{n}Angel!	
+MssAns6.02EC	ザルハの一帯ですか？{n}あのあたりの森は影の森と呼ばれ、{n}精霊がすんでいると言われています。{wait}{clear}精霊をおそれて、村の者は{n}ほとんど近づかないはずなのですが……。{wait}{clear}天使様、森の問題ですから、私が行きます。	The Zarha area? The forest around there is{n}called the Forest of Shadows, and they say{n}spirits live there.{wait}{clear}The villagers fear the spirits, so hardly{n}any of them should go near it...{wait}{clear}Angel, it's a problem of the forest, so I'll{n}go.	
+MssAns6.03B8	なし	None	
+MssAns6.03BE	なし	None	
+MssAns6.03C4	なし	None	
+MssAns6.03CA	なし	None	
+MssAns6.03D0	わかりました、天使様。{wait}{clear}ロオクにいる聖母様の身になにかあっては、{n}取り返しがつきません。{n}私がすぐに向かいます。	I understand, Angel.{wait}{clear}If anything happened to the Holy Mother in{n}Rooak, it could never be undone. I'll head{n}there right away.	
+MssAns6.0444	帝国軍が聖都へですか……？{wait}{clear}天使様、行かせてください。{n}私ではなにもできないかもしれませんが……{n}黙って見ていることなどできません。	The imperial army is marching on the Holy{n}City...?{wait}{clear}Angel, please let me go. I may not be able{n}to do anything... but I can't just stand by{n}and watch.	
+MssAns6.04CC	魔石！？　わかりました、すぐに向かいます！	The Demon Stone?! I understand, I'll head{n}there right away!	
+MssAns6.04F8	なし	None	
+MssAns6.04FE	なし	None	
+MssAns6.0504	わかりました。{n}あの子には、これ以上{n}罪を重ねさせるわけにはいきません。{wait}{clear}すぐにファーノへ向かいます。	I understand. I can't let that boy pile up{n}any more sins.{wait}{clear}I'll head for Fano right away.	
+MssAns6.056E	なし	None	
+MssAns6.0574	なし	None	
+MssAns6.057A	なし	None	
+MssAns6.0580	なし	None	
+MssAns6.0586	天使様……私はまだあきらめません。{n}きっと、きっとなにかできるはずです。{wait}{clear}行きます、カルーガの塔へ！	Angel... I'm not giving up yet. Surely,{n}surely there's something I can do.{wait}{clear}I'm going, to the Tower of Kaluga!	
+MssAns6.05EE	なし	None	
+MssAns6.05F4	なし	None	
+MssAns6.05FA	天使様……{n}考えたくなかったことが、{n}起こってしまったのですね……。{wait}{clear}私が行きます……彼のためにも……。	Angel... So the thing I didn't want to think{n}about has happened...{wait}{clear}I'll go... for his sake, too...	
+MssAns6.0666	なし	None	
+MssAns6.066C	わかりました……私が行きます……。	I understand... I'll go...	
 MssAns6.0690	天使様……これが最後の戦いですね……。{n}私……ずっと守られてきたことに、{n}いま気がつきました。{wait}{clear}レイフォリアの森に、この世界に、{n}そして、天使様に……。{wait}{clear}今度は、本当に私がみんなを守らなければいけない。{n}それが、私の使命です。{wait}{clear}なにも怖くありません、{n}天使様がいてくださるのですから……。{wait}{clear}かならず天竜を倒します。		
-MssAns6.07D4	なし		
-MssAns6.07DA	なし		
-MssAns6.07E0	なし		
-MssAns6.07E6	なし		
-MssAns6.07EC	なし		
-MssAns6.07F2	なし		
+MssAns6.07D4	なし	None	
+MssAns6.07DA	なし	None	
+MssAns6.07E0	なし	None	
+MssAns6.07E6	なし	None	
+MssAns6.07EC	なし	None	
+MssAns6.07F2	なし	None	
 MssAns6.07F8	ケナーに魔物が？{n}わかりました、私が行きます！		
-MssAns6.0828	なし		
-MssAns6.082E	なし		
-MssAns6.0834	なし		
-MssAns6.083A	なし		
-MssAns6.0840	なし		
-MssAns6.0846	なし		
-MssAns6.084C	なし		
-MssAns6.0852	なし		
-MssAns6.0858	なし		
-MssAns6.085E	なし		
-MssAns6.0864	なし		
-MssAns6.086A	なし		
-MssAns6.0870	なし		
-MssAns6.0876	なし		
-MssAns6.087C	なし		
-MssAns6.0882	なし		
-MssAns6.0888	なし		
-MssAns6.088E	なし		
+MssAns6.0828	なし	None	
+MssAns6.082E	なし	None	
+MssAns6.0834	なし	None	
+MssAns6.083A	なし	None	
+MssAns6.0840	なし	None	
+MssAns6.0846	なし	None	
+MssAns6.084C	なし	None	
+MssAns6.0852	なし	None	
+MssAns6.0858	なし	None	
+MssAns6.085E	なし	None	
+MssAns6.0864	なし	None	
+MssAns6.086A	なし	None	
+MssAns6.0870	なし	None	
+MssAns6.0876	なし	None	
+MssAns6.087C	なし	None	
+MssAns6.0882	なし	None	
+MssAns6.0888	なし	None	
+MssAns6.088E	なし	None	
 MssAns6.0894	謎の竜巻ですか？{n}わかりました、行きます。{wait}{clear}森で起こることは、{n}私がなんとかしないといけないと思います。		
 MssAns6.0900	わかりました、すぐに向かいます。{n}森のことです、私が行かないと……。		
-MssAns6.0946	なし		
-MssAns6.094C	なし		
-MssAns6.0952	なし		
+MssAns6.0946	なし	None	
+MssAns6.094C	なし	None	
+MssAns6.0952	なし	None	
 MssAns6.0958	森でそんなことが起こっているのですか？{n}天使様、私、すぐに行きます！		
 MssAns6.099E	天使様、私が行きます。{n}そんなひどいこと、すぐに止めないと……！		
-MssAns6.09E0	なし		
+MssAns6.09E0	なし	None	
 MssAns6.09E6	わかりました、天使様。{n}すぐにロラライへ向かいます。{wait}{clear}きっと、みんな困っているはずですから……。		
-MssAns6.0A4A	なし		
-MssAns6.0A50	なし		
-MssAns6.0A56	なし		
-MssAns6.0A5C	なし		
-MssAns6.0A62	なし		
-MssAns6.0A68	なし		
-MssAns6.0A6E	なし		
-MssAns6.0A74	なし		
-MssAns6.0A7A	なし		
-MssAns6.0A80	なし		
-MssAns6.0A86	なし		
-MssAns6.0A8C	なし		
+MssAns6.0A4A	なし	None	
+MssAns6.0A50	なし	None	
+MssAns6.0A56	なし	None	
+MssAns6.0A5C	なし	None	
+MssAns6.0A62	なし	None	
+MssAns6.0A68	なし	None	
+MssAns6.0A6E	なし	None	
+MssAns6.0A74	なし	None	
+MssAns6.0A7A	なし	None	
+MssAns6.0A80	なし	None	
+MssAns6.0A86	なし	None	
+MssAns6.0A8C	なし	None	
 MssAns6.0A92	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。		
-MssAns6.0ADC	なし		
-MssAns6.0AE2	なし		
-MssAns6.0AE8	なし		
-MssAns6.0AEE	なし		
+MssAns6.0ADC	なし	None	
+MssAns6.0AE2	なし	None	
+MssAns6.0AE8	なし	None	
+MssAns6.0AEE	なし	None	
 MssAns6.0AF4	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。		
-MssAns6.0B3E	なし		
+MssAns6.0B3E	なし	None	
 MssAns6.0B44	森に魔物が入ってくるなんて、{n}私の力が弱いから……。{wait}{clear}私の責任です、天使様。{n}すぐに、行きます。{n}行って、魔物を倒します。		
-MssAns6.0BC2	なし		
+MssAns6.0BC2	なし	None	

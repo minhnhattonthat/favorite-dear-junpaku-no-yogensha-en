@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenAnsw5.000E	その事件を解決すればいいの？{n}そう……わかったわ。		
-GenAnsw5.0042	それは黙っているわけにいかないわね。{n}私が、行くわ。		
-GenAnsw5.0078	そんな事件が起こるなんて……{n}わかったわ、すぐに向かうわ。		
-GenAnsw5.00B4	わかった、私が行くわ。{n}そんな事件はすぐに解決できると思うし……。		
-GenAnsw5.00F8	わかった。{n}その事件には私が向かうわ。{wait}{clear}ほうっておくわけにはいかないものね。		
-GenAnsw5.0148	わかったわ。{n}その事件には、私が向かうわ。{wait}{clear}間に合えばいいのだけれど……。		
+GenAnsw5.000E	その事件を解決すればいいの？{n}そう……わかったわ。	So I just need to resolve that incident? I{n}see... Very well.	
+GenAnsw5.0042	それは黙っているわけにいかないわね。{n}私が、行くわ。	I can't stay silent about that. I'll go.	
+GenAnsw5.0078	そんな事件が起こるなんて……{n}わかったわ、すぐに向かうわ。	To think something like that would happen...{n}Very well, I'll head there at once.	
+GenAnsw5.00B4	わかった、私が行くわ。{n}そんな事件はすぐに解決できると思うし……。	Very well, I'll go. I think I can resolve an{n}incident like that quickly...	
+GenAnsw5.00F8	わかった。{n}その事件には私が向かうわ。{wait}{clear}ほうっておくわけにはいかないものね。	Very well. I'll head for that incident.{wait}{clear}I can't just leave it alone, after all.	
+GenAnsw5.0148	わかったわ。{n}その事件には、私が向かうわ。{wait}{clear}間に合えばいいのだけれど……。	Very well. I'll head for that incident.{wait}{clear}I only hope I make it in time...	

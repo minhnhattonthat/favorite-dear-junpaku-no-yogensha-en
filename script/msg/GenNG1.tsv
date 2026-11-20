@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG1.000E	無理だ……。		
-GenNG1.001C	無理だな……。		
-GenNG1.002C	今は他のことで手一杯だ。		
-GenNG1.0046	その程度の事件なら、他のやつに頼むことだ。		
-GenNG1.0072	その事件に俺が行っても間に合うとは思えない。{n}他をあたってくれ。		
-GenNG1.00B4	すまないが、他にやることがある。{n}他をあたってくれ……悪いな……。		
+GenNG1.000E	無理だ……。	Can't...	
+GenNG1.001C	無理だな……。	Can't do it...	
+GenNG1.002C	今は他のことで手一杯だ。	I've got my hands full with something else.	
+GenNG1.0046	その程度の事件なら、他のやつに頼むことだ。	An incident that minor, ask someone else.	
+GenNG1.0072	その事件に俺が行っても間に合うとは思えない。{n}他をあたってくれ。	I won't make it in time for that one. Try{n}someone else.	
+GenNG1.00B4	すまないが、他にやることがある。{n}他をあたってくれ……悪いな……。	Sorry, I have other things to do. Try{n}someone else... My apologies...	

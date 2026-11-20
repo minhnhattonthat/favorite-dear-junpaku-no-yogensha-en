@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG4.000E	そんなことが起こってるの？{wait}{clear}でも、ごめん！　ちょっと手が放せないの。{n}他の人に頼んでもらえる？		
-GenNG4.0070	ごめん！{n}今、そこへ行くわけにはいかないの。{wait}{clear}誰か他の人に頼んで！　ごめんね！{n}		
-GenNG4.00C4	そういう事件って苦手なんだ。{n}悪いけど、他の人に頼んで。		
-GenNG4.00FE	その事件って、私じゃきっと間に合わないと思うよ。{n}悪いけど、他の人に頼んでもらえない？		
-GenNG4.0156	えーっ！　そんな事件に行けっていうの？{wait}{clear}悪いけど、そういうの苦手なんだ。{n}他の人に頼んだ方がいいよ、きっと。		
-GenNG4.01C6	そんな事件が……！？{wait}{clear}でも……ごめん。{n}どうしても他にやらなくちゃいけないことがあるの。{n}悪いけど、他の人にお願いしてくれない？		
+GenNG4.000E	そんなことが起こってるの？{wait}{clear}でも、ごめん！　ちょっと手が放せないの。{n}他の人に頼んでもらえる？	That's going on?{wait}{clear}But sorry! I'm a little tied up. Could you{n}ask someone else?	
+GenNG4.0070	ごめん！{n}今、そこへ行くわけにはいかないの。{wait}{clear}誰か他の人に頼んで！　ごめんね！{n}	Sorry! I can't go there right now.{wait}{clear}Ask someone else! Sorry!{n}	
+GenNG4.00C4	そういう事件って苦手なんだ。{n}悪いけど、他の人に頼んで。	I'm not good with incidents like that.{n}Sorry, ask someone else.	
+GenNG4.00FE	その事件って、私じゃきっと間に合わないと思うよ。{n}悪いけど、他の人に頼んでもらえない？	I don't think I'd make it in time for that{n}incident. Sorry, could you ask someone else?	
+GenNG4.0156	えーっ！　そんな事件に行けっていうの？{wait}{clear}悪いけど、そういうの苦手なんだ。{n}他の人に頼んだ方がいいよ、きっと。	Whaaat?! You want me to go to an incident{n}like that?{wait}{clear}Sorry, but I'm not good with that sort of{n}thing. You'd better ask someone else,{n}really.	
+GenNG4.01C6	そんな事件が……！？{wait}{clear}でも……ごめん。{n}どうしても他にやらなくちゃいけないことがあるの。{n}悪いけど、他の人にお願いしてくれない？	An incident like that...?!{wait}{clear}But... sorry. There's something else I{n}absolutely have to do. Sorry, but could you{n}ask someone else?	

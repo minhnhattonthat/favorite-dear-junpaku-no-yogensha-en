@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG3.000E	悪いな、ちょっと手が放せないんだ。{n}他のやつに頼んでもらえないか？		
-GenNG3.0052	悪いが、今はそこへ行けない。{wait}{clear}誰か他のやつに頼んでもらえないか？		
-GenNG3.0096	悪いけど、その事件には、{n}僕が行って間に合うとは思えないな……。{wait}{clear}他の人に頼んでくれないか？		
-GenNG3.00F6	そんな事件なら、僕が行く必要は感じないな。{wait}{clear}他のやつに頼んだらどうだ？		
-GenNG3.0140	その事件、僕が行くまでもないだろう？{wait}{clear}悪いけど、他の人に頼んでくれ。		
-GenNG3.0188	悪いけど、気が向かない。{n}たまにはもっとましなお願いをしてくれないか？		
+GenNG3.000E	悪いな、ちょっと手が放せないんだ。{n}他のやつに頼んでもらえないか？	Sorry, I'm a bit tied up. Could you ask{n}someone else?	
+GenNG3.0052	悪いが、今はそこへ行けない。{wait}{clear}誰か他のやつに頼んでもらえないか？	Sorry, but I can't go there right now.{wait}{clear}Could you ask someone else?	
+GenNG3.0096	悪いけど、その事件には、{n}僕が行って間に合うとは思えないな……。{wait}{clear}他の人に頼んでくれないか？	Sorry, but I don't think I'd make it in time{n}for that incident...{wait}{clear}Won't you ask someone else?	
+GenNG3.00F6	そんな事件なら、僕が行く必要は感じないな。{wait}{clear}他のやつに頼んだらどうだ？	An incident like that, I don't see the need{n}for me to go.{wait}{clear}Why not ask someone else?	
+GenNG3.0140	その事件、僕が行くまでもないだろう？{wait}{clear}悪いけど、他の人に頼んでくれ。	That incident hardly needs me, does it?{wait}{clear}Sorry, but ask someone else.	
+GenNG3.0188	悪いけど、気が向かない。{n}たまにはもっとましなお願いをしてくれないか？	Sorry, but I'm not in the mood. Couldn't you{n}make a better request once in a while?	

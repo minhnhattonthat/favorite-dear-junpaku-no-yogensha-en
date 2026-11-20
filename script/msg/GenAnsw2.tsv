@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenAnsw2.000E	そこへ行って、事件を解決すればいいのか？{n}おれでよかったら、行くぜ。		
-GenAnsw2.0054	そんなことが起こってるなら黙ってられないな。{n}行くよ、おれ。		
-GenAnsw2.0092	わかった、行くよ。{n}そんな事件だったら、すぐに解決できるさ。		
-GenAnsw2.00D0	そんなことが起こってるのか？{n}わかった、急いで行ってくるよ！		
-GenAnsw2.010E	そんな事件が？{n}わかった、おれ、行くよ。{wait}{clear}ほうっておくわけにはいかないからな。		
-GenAnsw2.0160	その事件、おれが行くよ。{wait}{clear}間に合えばいいけど……。		
+GenAnsw2.000E	そこへ行って、事件を解決すればいいのか？{n}おれでよかったら、行くぜ。	So I go there and resolve the incident? If{n}I'll do, I'm on it.	
+GenAnsw2.0054	そんなことが起こってるなら黙ってられないな。{n}行くよ、おれ。	If that's going on, I can't just sit here.{n}I'll go.	
+GenAnsw2.0092	わかった、行くよ。{n}そんな事件だったら、すぐに解決できるさ。	Got it, I'll go. An incident like that, I{n}can wrap up in no time.	
+GenAnsw2.00D0	そんなことが起こってるのか？{n}わかった、急いで行ってくるよ！	That's going on? Got it, I'll hurry over{n}there!	
+GenAnsw2.010E	そんな事件が？{n}わかった、おれ、行くよ。{wait}{clear}ほうっておくわけにはいかないからな。	An incident like that? Got it, I'll go.{wait}{clear}I can't just leave it alone.	
+GenAnsw2.0160	その事件、おれが行くよ。{wait}{clear}間に合えばいいけど……。	I'll take that incident.{wait}{clear}Hope I make it in time...	

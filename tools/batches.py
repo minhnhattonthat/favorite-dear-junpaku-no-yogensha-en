@@ -32,7 +32,7 @@ PAGE = "{wait}{clear}"
 ALLOWED = set(font_en.CHARS)
 # Runtime placeholders the game substitutes by string match (table in FD2BN.LKF at 0xE0FC): keep them byte-exact.
 GAME_TAGS = ["＜勇者名１＞", "＜勇者名２＞", "＜勇者名＞", "＜妖精名＞", "＜イベント名＞", "＜地方名＞",
-             "＜目的地名＞", "○○"]
+             "＜目的地名＞", "○○", "＜ボーナスＡＰ＞"]   # last: HVN_Msg00.259E, kept as in the JP
 
 
 def wrap_spec(path, row):
@@ -176,9 +176,11 @@ def check(b):
             for word in re.split(r"[ ]|\{[^}]*\}", en):
                 if len(word) > w:
                     errs.append(f"{i}: word longer than a line: {word[:20]}")
-        for gjp, gen, avoid in gl:
-            if gjp in jp and gen and gen not in en:
+        rest = jp             # a term inside a longer matched term (ルディ in ウルディピア) is that term's
+        for gjp, gen, avoid in sorted(gl, key=lambda g: -len(g[0])):
+            if gjp in rest and gen and gen not in en:
                 errs.append(f"{i}: glossary {gjp} -> {gen} missing")
+            rest = rest.replace(gjp, "　")
             for a in avoid:
                 if re.search(r"\b" + re.escape(a) + r"\b", en):
                     errs.append(f"{i}: avoid {a!r}")

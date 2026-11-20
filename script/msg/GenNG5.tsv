@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenNG5.000E	そんなことが？{wait}{clear}でも、ごめんなさい。{n}私はどうしてもやらなければならないことがあるの。{n}悪いけど、他の人にお願いしてもらえる？		
-GenNG5.0090	ごめんなさい……。{n}今は、どうしてもそこへは行けないわ……。{wait}{clear}他の人に頼んでもらえる？		
-GenNG5.00EA	いまからその事件に向かったとしても、{n}私じゃ間に合うと思えないわ。{wait}{clear}悪いけど、他の人にお願いした方がいいと思うわ。		
-GenNG5.0160	そんなことが起こってるの？{n}でも、こめんなさい。{wait}{clear}私には、どうしても{n}やらなければいけないことがあるの。{n}他の人にお願いしてもらえるかしら？		
-GenNG5.01F0	その事件は、{n}私じゃなくても解決できると思うわ。{n}誰か他の人に頼んでもらえないかしら。		
-GenNG5.0248	ごめんなさい、その事件には行けないわ……。{n}悪いけど、他の人に頼んで……。		
+GenNG5.000E	そんなことが？{wait}{clear}でも、ごめんなさい。{n}私はどうしてもやらなければならないことがあるの。{n}悪いけど、他の人にお願いしてもらえる？	Something like that?{wait}{clear}But I'm sorry. There's something I{n}absolutely must do. I'm afraid you'll have{n}to ask someone else.	
+GenNG5.0090	ごめんなさい……。{n}今は、どうしてもそこへは行けないわ……。{wait}{clear}他の人に頼んでもらえる？	I'm sorry... I simply can't go there right{n}now...{wait}{clear}Could you ask someone else?	
+GenNG5.00EA	いまからその事件に向かったとしても、{n}私じゃ間に合うと思えないわ。{wait}{clear}悪いけど、他の人にお願いした方がいいと思うわ。	Even if I set out for that incident now, I{n}don't think I'd make it in time.{wait}{clear}I'm sorry, but I think you'd better ask{n}someone else.	
+GenNG5.0160	そんなことが起こってるの？{n}でも、こめんなさい。{wait}{clear}私には、どうしても{n}やらなければいけないことがあるの。{n}他の人にお願いしてもらえるかしら？	That's happening? But I'm sorry.{wait}{clear}There's something I absolutely must do.{n}Could you ask someone else?	
+GenNG5.01F0	その事件は、{n}私じゃなくても解決できると思うわ。{n}誰か他の人に頼んでもらえないかしら。	I think someone other than me could resolve{n}that incident. Could you ask someone else?	
+GenNG5.0248	ごめんなさい、その事件には行けないわ……。{n}悪いけど、他の人に頼んで……。	I'm sorry, I can't go to that incident...{n}I'm afraid you'll have to ask someone{n}else...	

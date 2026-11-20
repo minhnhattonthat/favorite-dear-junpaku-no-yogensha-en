@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenAnsw0.000E	その事件を解決すればいいのだな？{n}わかった、俺が行こう。		
-GenAnsw0.0048	そういうことなら、放っておくわけにはいくまい。{n}……行こう。		
-GenAnsw0.0086	そんな事件なら、すぐになんとかしよう。{n}任せてくれ。		
-GenAnsw0.00BC	それはたやすく解決できる事件だろうな。{n}すぐに向かって、なんとかしよう。		
-GenAnsw0.0106	わかった。{n}その事件、俺でよかったら行こう。		
-GenAnsw0.0134	その事件には俺が向かおう。{wait}{clear}間に合えばいいのだが……。		
+GenAnsw0.000E	その事件を解決すればいいのだな？{n}わかった、俺が行こう。	So I just need to resolve that incident? All{n}right, I'll go.	
+GenAnsw0.0048	そういうことなら、放っておくわけにはいくまい。{n}……行こう。	If that's the situation, I can't very well{n}leave it alone. ...Let's go.	
+GenAnsw0.0086	そんな事件なら、すぐになんとかしよう。{n}任せてくれ。	An incident like that, I'll deal with right{n}away. Leave it to me.	
+GenAnsw0.00BC	それはたやすく解決できる事件だろうな。{n}すぐに向かって、なんとかしよう。	That should be an easy incident to resolve.{n}I'll head there right away and take care of{n}it.	
+GenAnsw0.0106	わかった。{n}その事件、俺でよかったら行こう。	All right. If I'll do, I'll go handle that{n}incident.	
+GenAnsw0.0134	その事件には俺が向かおう。{wait}{clear}間に合えばいいのだが……。	I'll head for that incident.{wait}{clear}I hope I make it in time...	

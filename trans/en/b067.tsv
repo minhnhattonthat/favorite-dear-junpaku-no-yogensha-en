@@ -1,0 +1,56 @@
+id	en
+GenNG4.01C6	An incident like that...?!{wait}{clear}But... sorry. There's something else I absolutely have to do. Sorry, but could you ask someone else?
+GenNG5.000E	Something like that?{wait}{clear}But I'm sorry. There's something I absolutely must do. I'm afraid you'll have to ask someone else.
+GenNG5.0090	I'm sorry... I simply can't go there right now...{wait}{clear}Could you ask someone else?
+GenNG5.00EA	Even if I set out for that incident now, I don't think I'd make it in time.{wait}{clear}I'm sorry, but I think you'd better ask someone else.
+GenNG5.0160	That's happening? But I'm sorry.{wait}{clear}There's something I absolutely must do. Could you ask someone else?
+GenNG5.01F0	I think someone other than me could resolve that incident. Could you ask someone else?
+GenNG5.0248	I'm sorry, I can't go to that incident... I'm afraid you'll have to ask someone else...
+GenNG6.000E	Something that awful?{wait}{clear}But I'm sorry, Angel. I just can't get away... Could you ask someone else?
+GenNG6.0090	I'm sorry, Angel... I simply can't go there right now...{wait}{clear}Could you ask someone else, please?
+GenNG6.00FE	I'm sorry, Angel. Even if I went, I don't think I'd make it in time.{wait}{clear}Could you ask someone else, please?
+GenNG6.0166	I think someone other than me could resolve that incident. I'd like you to ask someone else... I'm sorry for being selfish, Angel.
+GenNG6.01E4	An incident like that...? But... I'm sorry, Angel.{wait}{clear}There's something I absolutely have to do. Could you ask someone else, please?
+GenNG6.0278	I'm sorry, Angel. I just can't get away.{wait}{clear}I'll take the next request, so could you ask someone else this time?{wait}{clear}I'm truly sorry.
+HVN_Msg00.0088	It seems you have gained experience alongside the heroes of Arcaya. ＄＄＄＄＄＄'s level has gone up.
+HVN_Msg00.00DE	And you can now use the magic of Great Heal.{wait}{clear}Use it to help the heroes.
+HVN_Msg00.013C	And you can now use the magic of Invisibility.{wait}{clear}Use it to help the heroes.
+HVN_Msg00.0198	And you can now use the magic of Flurry.{wait}{clear}Use it to help the heroes.
+HVN_Msg00.01F4	＄＄＄＄＄＄, please give this Elivagar to your hero.{wait}{clear}It is a large double-edged two-handed sword, so I am sure it will serve Fein well.
+HVN_Msg00.0286	＄＄＄＄＄＄, please give this Caladbolg to your hero.{wait}{clear}It is a large double-edged two-handed sword, so I am sure it will serve Fein well.
+HVN_Msg00.0316	＄＄＄＄＄＄, please give this Lughnasadh to your hero.{wait}{clear}It is a large double-edged two-handed sword, so I am sure it will serve Fein well.
+HVN_Msg00.03A4	＄＄＄＄＄＄, please give this Fafslayer to your hero.{wait}{clear}It is a single-edged two-handed sword, so I am sure it will serve Clive well.
+HVN_Msg00.0434	＄＄＄＄＄＄, please give this Baldudar to your hero.{wait}{clear}It is a single-edged two-handed sword, so I am sure it will serve Clive well.
+HVN_Msg00.04C2	＄＄＄＄＄＄, please give this Skuldparer to your hero.{wait}{clear}It is a single-edged two-handed sword, so I am sure it will serve Clive well.
+HVN_Msg00.0550	＄＄＄＄＄＄, please give this Krisforses to your hero.{wait}{clear}It is a curved sword, so I am sure it will serve Rudiere well.
+HVN_Msg00.05DE	＄＄＄＄＄＄, please give this Skollbreaker to your hero.{wait}{clear}It is a curved sword, so I am sure it will serve Rudiere well.
+HVN_Msg00.066C	＄＄＄＄＄＄, please give this Rigkris to your hero.{wait}{clear}It is a curved sword, so I am sure it will serve Rudiere well.
+HVN_Msg00.06F6	＄＄＄＄＄＄, please give this Holy Staff to your hero.{wait}{clear}It is a staff, so I am sure it will serve Rocus well.
+HVN_Msg00.0780	＄＄＄＄＄＄, please give this Borodi Mace to your hero.{wait}{clear}It is a staff, so I am sure it will serve Rocus well.
+HVN_Msg00.0808	＄＄＄＄＄＄, please give this Caduceus to your hero.{wait}{clear}It is a staff, so I am sure it will serve Rocus well.
+HVN_Msg00.088E	＄＄＄＄＄＄, please give this Wand Huginn to your hero.{wait}{clear}It is a rod, so I am sure it will serve Irene well.
+HVN_Msg00.0916	＄＄＄＄＄＄, please give this Laerad Rod to your hero.{wait}{clear}It is a rod, so I am sure it will serve Irene well.
+HVN_Msg00.09A0	＄＄＄＄＄＄, please give this Sephiroth to your hero.{wait}{clear}It is a rod, so I am sure it will serve Irene well.
+HVN_Msg00.0A28	＄＄＄＄＄＄, please give this Tyr Fleuret to your hero.{wait}{clear}It is a one-handed sword, so I am sure it will serve Leyla well.
+HVN_Msg00.0AB0	＄＄＄＄＄＄, please give this Urdipia to your hero.{wait}{clear}It is a one-handed sword, so I am sure it will serve Leyla well.
+HVN_Msg00.0B34	＄＄＄＄＄＄, please give this Tir Rapier to your hero.{wait}{clear}It is a one-handed sword, so I am sure it will serve Leyla well.
+HVN_Msg00.0BBA	＄＄＄＄＄＄, please give this Logiz Arrow to your hero.{wait}{clear}It is a bow, so I am sure it will serve Cecia well.
+HVN_Msg00.0C3A	＄＄＄＄＄＄, please give this Chiron Bow to your hero.{wait}{clear}It is a bow, so I am sure it will serve Cecia well.
+HVN_Msg00.0CBA	＄＄＄＄＄＄, please give this Skadi Arrow to your hero.{wait}{clear}It is a bow, so I am sure it will serve Cecia well.
+HVN_Msg00.0D3C	＄＄＄＄＄＄, please give this Groa Robe to your hero.{wait}{clear}It is a robe, so give it to whichever hero you think needs it most.
+HVN_Msg00.0DD0	＄＄＄＄＄＄, please give this Paternoster to your hero.{wait}{clear}It is a robe, so give it to whichever hero you think needs it most.
+HVN_Msg00.0E68	＄＄＄＄＄＄, please give this Vendigeid to your hero.{wait}{clear}It is a robe, so give it to whichever hero you think needs it most.
+HVN_Msg00.0F00	＄＄＄＄＄＄, please give this Groll Mail to your hero.{wait}{clear}It is light armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.0F94	＄＄＄＄＄＄, please give this Sigurd Mail to your hero.{wait}{clear}It is light armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.102A	＄＄＄＄＄＄, please give this Tyr Lamellar to your hero.{wait}{clear}It is light armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.10C2	＄＄＄＄＄＄, please give this Mirage Mail to your hero.{wait}{clear}It is standard armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.115A	＄＄＄＄＄＄, please give this Vendigeit to your hero.{wait}{clear}It is standard armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.11F2	＄＄＄＄＄＄, please give this Ragna Armor to your hero.{wait}{clear}It is standard armor, so give it to whichever hero you think needs it most.
+HVN_Msg00.1288	＄＄＄＄＄＄, please give these Hermes Boots to your hero.{wait}{clear}They are boots, so give them to whichever hero you think needs them most.
+HVN_Msg00.131E	＄＄＄＄＄＄, please give these Kval Boots to your hero.{wait}{clear}They are boots, so give them to whichever hero you think needs them most.
+HVN_Msg00.13B4	＄＄＄＄＄＄, please give these Nemgran Boots to your hero.{wait}{clear}They are boots, so give them to whichever hero you think needs them most.
+HVN_Msg00.144C	＄＄＄＄＄＄, please give this Bolidiwez to your hero.{wait}{clear}It is a pendant, so give it to whichever hero you think needs it most.
+HVN_Msg00.14E6	＄＄＄＄＄＄, please give this Valdarges to your hero.{wait}{clear}It is a pendant, so give it to whichever hero you think needs it most.
+HVN_Msg00.1580	＄＄＄＄＄＄, please give this Brising to your hero.{wait}{clear}It is a pendant, so give it to whichever hero you think needs it most.
+HVN_Msg00.1618	＄＄＄＄＄＄, please give this Dyr Bracelet to your hero.{wait}{clear}It is a bracelet, so give it to whichever hero you think needs it most.
+HVN_Msg00.16B4	＄＄＄＄＄＄, please give this Rheinpfalz to your hero.{wait}{clear}It is a bracelet, so give it to whichever hero you think needs it most.

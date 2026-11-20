@@ -1,68 +1,68 @@
 id	jp	en	notes
-HVN_Msg00.0088	アルカヤの勇者とともに経験を積んだようですね。{n}＄＄＄＄＄＄のレベルが上がりました。		
-HVN_Msg00.00DE	そしてあなたは大回復の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。		
-HVN_Msg00.013C	そしてあなたは透明の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。		
-HVN_Msg00.0198	そしてあなたは連撃の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。		
-HVN_Msg00.01F4	＄＄＄＄＄＄の勇者に、{n}このエリヴァーガルを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0286	＄＄＄＄＄＄の勇者に、{n}このカラズボルグを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0316	＄＄＄＄＄＄の勇者に、{n}このルグナサズを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。		
-HVN_Msg00.03A4	＄＄＄＄＄＄の勇者に、{n}このファブスレイヤーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0434	＄＄＄＄＄＄の勇者に、{n}このバルドゥーダーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。		
-HVN_Msg00.04C2	＄＄＄＄＄＄の勇者に、{n}このスクルドパラーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0550	＄＄＄＄＄＄の勇者に、{n}このクリスフォルセスを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。		
-HVN_Msg00.05DE	＄＄＄＄＄＄の勇者に、{n}このスコルブレイカーを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。		
-HVN_Msg00.066C	＄＄＄＄＄＄の勇者に、{n}このリーグクリスを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。		
-HVN_Msg00.06F6	＄＄＄＄＄＄の勇者に、{n}このホーリースタッフを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0780	＄＄＄＄＄＄の勇者に、{n}このボロディメイスを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0808	＄＄＄＄＄＄の勇者に、{n}このカドゥケウスを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。		
-HVN_Msg00.088E	＄＄＄＄＄＄の勇者に、{n}このワンドフギンを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0916	＄＄＄＄＄＄の勇者に、{n}このレーラズロッドを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。		
-HVN_Msg00.09A0	＄＄＄＄＄＄の勇者に、{n}このセフィロートを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0A28	＄＄＄＄＄＄の勇者に、{n}このチュールフレールを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0AB0	＄＄＄＄＄＄の勇者に、{n}このウルディピアを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0B34	＄＄＄＄＄＄の勇者に、{n}このティルレイピアを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0BBA	＄＄＄＄＄＄の勇者に、{n}このロギズアローを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0C3A	＄＄＄＄＄＄の勇者に、{n}このケイロンボウを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0CBA	＄＄＄＄＄＄の勇者に、{n}このスカディアローを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。		
-HVN_Msg00.0D3C	＄＄＄＄＄＄の勇者に、{n}このグロアローブを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.0DD0	＄＄＄＄＄＄の勇者に、{n}このパーテルノステルを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.0E68	＄＄＄＄＄＄の勇者に、{n}このヴェンディゲイドを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.0F00	＄＄＄＄＄＄の勇者に、{n}このグロルメイルを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.0F94	＄＄＄＄＄＄の勇者に、{n}このシグルドメイルを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.102A	＄＄＄＄＄＄の勇者に、{n}このチュールラメラーを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.10C2	＄＄＄＄＄＄の勇者に、{n}このミラージュメイルを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.115A	＄＄＄＄＄＄の勇者に、{n}このヴェンディゲイトを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.11F2	＄＄＄＄＄＄の勇者に、{n}このラグナアーマーを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1288	＄＄＄＄＄＄の勇者に、{n}このヘルメスブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.131E	＄＄＄＄＄＄の勇者に、{n}このクヴァルブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.13B4	＄＄＄＄＄＄の勇者に、{n}このネムグランブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.144C	＄＄＄＄＄＄の勇者に、{n}このボリディウェズを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.14E6	＄＄＄＄＄＄の勇者に、{n}このヴァルダルゲスを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1580	＄＄＄＄＄＄の勇者に、{n}このブリーシングを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1618	＄＄＄＄＄＄の勇者に、{n}このディールブレスを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.16B4	＄＄＄＄＄＄の勇者に、{n}このラインファルツを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1750	＄＄＄＄＄＄の勇者に、{n}このドラウプニルを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.17EA	＄＄＄＄＄＄の勇者に、{n}このラインリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.187E	＄＄＄＄＄＄の勇者に、{n}このフェイスリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1914	＄＄＄＄＄＄の勇者に、{n}このエタナリィリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.19AC	＄＄＄＄＄＄の勇者に、{n}このトールズクロスを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1A42	＄＄＄＄＄＄の勇者に、{n}このエリュティアを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1AD6	＄＄＄＄＄＄の勇者に、{n}このリーヴクロイツを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。		
-HVN_Msg00.1B6C	＄＄＄＄＄＄の勇者に、{n}このカリスを渡してください。{wait}{clear}これは聖杯といわれるもので、{n}お守りとしての効果があります。{wait}{clear}あなたの勇者に渡せば、{n}きっと役に立つことでしょう。		
-HVN_Msg00.1C1A	＄＄＄＄＄＄の勇者に、{n}このグラールを渡してください。{wait}{clear}これは聖杯といわれるもので、{n}お守りとしての効果があります。{wait}{clear}あなたの勇者に渡せば、{n}きっと役に立つことでしょう。		
-HVN_Msg00.1CCA	まだ、あなたに協力してくれる人間は{n}見つかっていないようですね。{wait}{clear}あなたが人を正しい方向へ導いたとき、{n}きっと彼らは勇者となるでしょう。{wait}{clear}アルカヤの混乱の原因を探るためにも{n}妖精と協力してつとめにあたってください。		
-HVN_Msg00.1DA6	あなたに協力してくれる人間たちがいるようですね。{wait}{clear}彼らが未熟なうちは、{n}できるだけいっしょに行動した方がいいですよ。{n}また、妖精を同行させるのもいいでしょう。		
-HVN_Msg00.1E48	＄＄＄＄＄＄、アルカヤの彼らのことは{n}少しずつわかってきていますか？{wait}{clear}彼らの心を開くには時間がかかるものです。{n}あせらずに、会いにいくようになさい。		
-HVN_Msg00.1EE0	＄＄＄＄＄＄、アルカヤの混乱度には{n}注意するようにしなさい。{wait}{clear}混乱度は、敵の強さに関係していますから、{n}勇者に任務を依頼するときには{n}気をつけないといけませんよ。		
-HVN_Msg00.1F86	アルカヤの様子はどうですか？{wait}{clear}さまざまな混乱が起こっているとは思いますが、{n}どうか一刻も早くその原因を突き止めてください。{wait}{clear}大変なつとめですが、{n}あなたと勇者のはたらきに期待しています。		
-HVN_Msg00.2046	あなたのはたらきをここから見守っています。{n}困ったことがあればいつでも戻って来なさい。		
-HVN_Msg00.209E	＄＄＄＄＄＄……あなたは、{n}きっと勇者たちを理解することが出来るでしょう。{wait}{clear}あなたと勇者が信じあえたとき、{n}その力が世界を救うのです。		
-HVN_Msg00.2128	アルカヤにある魔石が{n}すべての災いの原因なのですね……。{wait}{clear}魔石が心悪しき者の手に渡ったことによって、{n}いまの混乱を招いているのです。{wait}{clear}石の力を利用しようとする者を止めるのですよ……{n}＄＄＄＄＄＄……。		
-HVN_Msg00.21F6	魔石を集めているのは人間ですが、{n}その裏にはなにかありそうですね……。{wait}{clear}＄＄＄＄＄＄、気をつけるのですよ。		
-HVN_Msg00.2264	＄＄＄＄＄＄、わかっているとは思いますが、{n}堕天使はあらゆる手を使って、{n}アルカヤを破滅させようとするでしょう。{wait}{clear}人々の悲しみが{n}彼らの望む虚無への一歩となるのです。{wait}{clear}あなたや勇者の身が{n}いま以上の危険にさらされるかもしれません。{n}どうか、十分に注意してください。		
-HVN_Msg00.2372	もう、残された時間はわずかです。{wait}{clear}あなたが私たちの最後の希望です。{n}頼みます……＄＄＄＄＄＄……。{wait}{clear}勇者たちとともに{n}アルカヤを崩壊の危機から救ってください。		
-HVN_Msg00.2416	地上界でのつとめは、大変なものです。{n}ですが、くじけることなく、がんばりなさい。{wait}{clear}あなたのことは、いつも見守っていますよ。		
-HVN_Msg00.2494	あなたが天使である意味を、{n}けっして忘れないようにしなさい。{wait}{clear}そうすれば、{n}おのずと向かうべき場所が見えてくるはずです。		
-HVN_Msg00.2510	天と地の祝福が、{n}つねにあなたとともにありますように……。		
-HVN_Msg00.254C	おや？　アイテムが持ちきれないようですね。{n}残念ですが、またの機会にしましょう。		
-HVN_Msg00.259E	＄＄＄＄＄＄、ボーナスＡＰ＜ボーナスＡＰ＞です。{n}アルカヤでのあなたの行動に役立ててください。		
+HVN_Msg00.0088	アルカヤの勇者とともに経験を積んだようですね。{n}＄＄＄＄＄＄のレベルが上がりました。	It seems you have gained experience{n}alongside the heroes of Arcaya.{n}＄＄＄＄＄＄'s level has gone up.	
+HVN_Msg00.00DE	そしてあなたは大回復の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。	And you can now use the magic of Great Heal.{wait}{clear}Use it to help the heroes.	
+HVN_Msg00.013C	そしてあなたは透明の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。	And you can now use the magic of{n}Invisibility.{wait}{clear}Use it to help the heroes.	
+HVN_Msg00.0198	そしてあなたは連撃の魔法が{n}使えるようになりました。{wait}{clear}これで勇者を助けてあげてください。	And you can now use the magic of Flurry.{wait}{clear}Use it to help the heroes.	
+HVN_Msg00.01F4	＄＄＄＄＄＄の勇者に、{n}このエリヴァーガルを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Elivagar to{n}your hero.{wait}{clear}It is a large double-edged two-handed sword,{n}so I am sure it will serve Fein well.	
+HVN_Msg00.0286	＄＄＄＄＄＄の勇者に、{n}このカラズボルグを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Caladbolg to{n}your hero.{wait}{clear}It is a large double-edged two-handed sword,{n}so I am sure it will serve Fein well.	
+HVN_Msg00.0316	＄＄＄＄＄＄の勇者に、{n}このルグナサズを渡してください。{wait}{clear}これは、大型の両刃両手剣ですから、{n}フェインのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Lughnasadh to{n}your hero.{wait}{clear}It is a large double-edged two-handed sword,{n}so I am sure it will serve Fein well.	
+HVN_Msg00.03A4	＄＄＄＄＄＄の勇者に、{n}このファブスレイヤーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Fafslayer to{n}your hero.{wait}{clear}It is a single-edged two-handed sword, so I{n}am sure it will serve Clive well.	
+HVN_Msg00.0434	＄＄＄＄＄＄の勇者に、{n}このバルドゥーダーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Baldudar to{n}your hero.{wait}{clear}It is a single-edged two-handed sword, so I{n}am sure it will serve Clive well.	
+HVN_Msg00.04C2	＄＄＄＄＄＄の勇者に、{n}このスクルドパラーを渡してください。{wait}{clear}これは、片刃の両手剣ですから、{n}クライヴのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Skuldparer to{n}your hero.{wait}{clear}It is a single-edged two-handed sword, so I{n}am sure it will serve Clive well.	
+HVN_Msg00.0550	＄＄＄＄＄＄の勇者に、{n}このクリスフォルセスを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Krisforses to{n}your hero.{wait}{clear}It is a curved sword, so I am sure it will{n}serve Rudiere well.	
+HVN_Msg00.05DE	＄＄＄＄＄＄の勇者に、{n}このスコルブレイカーを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Skollbreaker{n}to your hero.{wait}{clear}It is a curved sword, so I am sure it will{n}serve Rudiere well.	
+HVN_Msg00.066C	＄＄＄＄＄＄の勇者に、{n}このリーグクリスを渡してください。{wait}{clear}これは、湾曲剣ですから、{n}ルディエールのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Rigkris to{n}your hero.{wait}{clear}It is a curved sword, so I am sure it will{n}serve Rudiere well.	
+HVN_Msg00.06F6	＄＄＄＄＄＄の勇者に、{n}このホーリースタッフを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Holy Staff to{n}your hero.{wait}{clear}It is a staff, so I am sure it will serve{n}Rocus well.	
+HVN_Msg00.0780	＄＄＄＄＄＄の勇者に、{n}このボロディメイスを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Borodi Mace{n}to your hero.{wait}{clear}It is a staff, so I am sure it will serve{n}Rocus well.	
+HVN_Msg00.0808	＄＄＄＄＄＄の勇者に、{n}このカドゥケウスを渡してください。{wait}{clear}これは、スタッフですから、{n}ロクスのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Caduceus to{n}your hero.{wait}{clear}It is a staff, so I am sure it will serve{n}Rocus well.	
+HVN_Msg00.088E	＄＄＄＄＄＄の勇者に、{n}このワンドフギンを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Wand Huginn{n}to your hero.{wait}{clear}It is a rod, so I am sure it will serve{n}Irene well.	
+HVN_Msg00.0916	＄＄＄＄＄＄の勇者に、{n}このレーラズロッドを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Laerad Rod to{n}your hero.{wait}{clear}It is a rod, so I am sure it will serve{n}Irene well.	
+HVN_Msg00.09A0	＄＄＄＄＄＄の勇者に、{n}このセフィロートを渡してください。{wait}{clear}これは、ロッドですから、{n}アイリーンのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Sephiroth to{n}your hero.{wait}{clear}It is a rod, so I am sure it will serve{n}Irene well.	
+HVN_Msg00.0A28	＄＄＄＄＄＄の勇者に、{n}このチュールフレールを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Tyr Fleuret{n}to your hero.{wait}{clear}It is a one-handed sword, so I am sure it{n}will serve Leyla well.	
+HVN_Msg00.0AB0	＄＄＄＄＄＄の勇者に、{n}このウルディピアを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Urdipia to{n}your hero.{wait}{clear}It is a one-handed sword, so I am sure it{n}will serve Leyla well.	
+HVN_Msg00.0B34	＄＄＄＄＄＄の勇者に、{n}このティルレイピアを渡してください。{wait}{clear}これは、片手剣ですから、{n}レイラのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Tir Rapier to{n}your hero.{wait}{clear}It is a one-handed sword, so I am sure it{n}will serve Leyla well.	
+HVN_Msg00.0BBA	＄＄＄＄＄＄の勇者に、{n}このロギズアローを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Logiz Arrow{n}to your hero.{wait}{clear}It is a bow, so I am sure it will serve{n}Cecia well.	
+HVN_Msg00.0C3A	＄＄＄＄＄＄の勇者に、{n}このケイロンボウを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Chiron Bow to{n}your hero.{wait}{clear}It is a bow, so I am sure it will serve{n}Cecia well.	
+HVN_Msg00.0CBA	＄＄＄＄＄＄の勇者に、{n}このスカディアローを渡してください。{wait}{clear}これは、弓ですから、{n}セシアのためにきっと役に立つと思いますよ。	＄＄＄＄＄＄, please give this Skadi Arrow{n}to your hero.{wait}{clear}It is a bow, so I am sure it will serve{n}Cecia well.	
+HVN_Msg00.0D3C	＄＄＄＄＄＄の勇者に、{n}このグロアローブを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Groa Robe to{n}your hero.{wait}{clear}It is a robe, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.0DD0	＄＄＄＄＄＄の勇者に、{n}このパーテルノステルを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Paternoster{n}to your hero.{wait}{clear}It is a robe, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.0E68	＄＄＄＄＄＄の勇者に、{n}このヴェンディゲイドを渡してください。{wait}{clear}これはローブですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Vendigeid to{n}your hero.{wait}{clear}It is a robe, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.0F00	＄＄＄＄＄＄の勇者に、{n}このグロルメイルを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Groll Mail to{n}your hero.{wait}{clear}It is light armor, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.0F94	＄＄＄＄＄＄の勇者に、{n}このシグルドメイルを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Sigurd Mail{n}to your hero.{wait}{clear}It is light armor, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.102A	＄＄＄＄＄＄の勇者に、{n}このチュールラメラーを渡してください。{wait}{clear}これは軽装鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Tyr Lamellar{n}to your hero.{wait}{clear}It is light armor, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.10C2	＄＄＄＄＄＄の勇者に、{n}このミラージュメイルを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Mirage Mail{n}to your hero.{wait}{clear}It is standard armor, so give it to{n}whichever hero you think needs it most.	
+HVN_Msg00.115A	＄＄＄＄＄＄の勇者に、{n}このヴェンディゲイトを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Vendigeit to{n}your hero.{wait}{clear}It is standard armor, so give it to{n}whichever hero you think needs it most.	
+HVN_Msg00.11F2	＄＄＄＄＄＄の勇者に、{n}このラグナアーマーを渡してください。{wait}{clear}これは通常鎧ですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Ragna Armor{n}to your hero.{wait}{clear}It is standard armor, so give it to{n}whichever hero you think needs it most.	
+HVN_Msg00.1288	＄＄＄＄＄＄の勇者に、{n}このヘルメスブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give these Hermes Boots{n}to your hero.{wait}{clear}They are boots, so give them to whichever{n}hero you think needs them most.	
+HVN_Msg00.131E	＄＄＄＄＄＄の勇者に、{n}このクヴァルブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give these Kval Boots{n}to your hero.{wait}{clear}They are boots, so give them to whichever{n}hero you think needs them most.	
+HVN_Msg00.13B4	＄＄＄＄＄＄の勇者に、{n}このネムグランブーツを渡してください。{wait}{clear}これはブーツですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give these Nemgran{n}Boots to your hero.{wait}{clear}They are boots, so give them to whichever{n}hero you think needs them most.	
+HVN_Msg00.144C	＄＄＄＄＄＄の勇者に、{n}このボリディウェズを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Bolidiwez to{n}your hero.{wait}{clear}It is a pendant, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.14E6	＄＄＄＄＄＄の勇者に、{n}このヴァルダルゲスを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Valdarges to{n}your hero.{wait}{clear}It is a pendant, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.1580	＄＄＄＄＄＄の勇者に、{n}このブリーシングを渡してください。{wait}{clear}これはペンダントですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Brising to{n}your hero.{wait}{clear}It is a pendant, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.1618	＄＄＄＄＄＄の勇者に、{n}このディールブレスを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Dyr Bracelet{n}to your hero.{wait}{clear}It is a bracelet, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.16B4	＄＄＄＄＄＄の勇者に、{n}このラインファルツを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Rheinpfalz to{n}your hero.{wait}{clear}It is a bracelet, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.1750	＄＄＄＄＄＄の勇者に、{n}このドラウプニルを渡してください。{wait}{clear}これはブレスレットですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Draupnir to{n}your hero.{wait}{clear}It is a bracelet, so give it to whichever{n}hero you think needs it most.	
+HVN_Msg00.17EA	＄＄＄＄＄＄の勇者に、{n}このラインリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Rhein Ring to{n}your hero.{wait}{clear}It is a ring, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.187E	＄＄＄＄＄＄の勇者に、{n}このフェイスリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Faith Ring to{n}your hero.{wait}{clear}It is a ring, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.1914	＄＄＄＄＄＄の勇者に、{n}このエタナリィリングを渡してください。{wait}{clear}これはリングですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Eternity Ring{n}to your hero.{wait}{clear}It is a ring, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.19AC	＄＄＄＄＄＄の勇者に、{n}このトールズクロスを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Thor's Cross{n}to your hero.{wait}{clear}It is a charm, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.1A42	＄＄＄＄＄＄の勇者に、{n}このエリュティアを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Erythia to{n}your hero.{wait}{clear}It is a charm, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.1AD6	＄＄＄＄＄＄の勇者に、{n}このリーヴクロイツを渡してください。{wait}{clear}これはお守りですから、あなたが考えて{n}いちばん必要だと思う勇者に渡すといいでしょう。	＄＄＄＄＄＄, please give this Lif Kreuz to{n}your hero.{wait}{clear}It is a charm, so give it to whichever hero{n}you think needs it most.	
+HVN_Msg00.1B6C	＄＄＄＄＄＄の勇者に、{n}このカリスを渡してください。{wait}{clear}これは聖杯といわれるもので、{n}お守りとしての効果があります。{wait}{clear}あなたの勇者に渡せば、{n}きっと役に立つことでしょう。	＄＄＄＄＄＄, please give this Chalice to{n}your hero.{wait}{clear}It is what is called a holy grail, and it{n}works as a charm.{wait}{clear}If you give it to your hero, I am sure it{n}will be of use.	
+HVN_Msg00.1C1A	＄＄＄＄＄＄の勇者に、{n}このグラールを渡してください。{wait}{clear}これは聖杯といわれるもので、{n}お守りとしての効果があります。{wait}{clear}あなたの勇者に渡せば、{n}きっと役に立つことでしょう。	＄＄＄＄＄＄, please give this Graal to your{n}hero.{wait}{clear}It is what is called a holy grail, and it{n}works as a charm.{wait}{clear}If you give it to your hero, I am sure it{n}will be of use.	
+HVN_Msg00.1CCA	まだ、あなたに協力してくれる人間は{n}見つかっていないようですね。{wait}{clear}あなたが人を正しい方向へ導いたとき、{n}きっと彼らは勇者となるでしょう。{wait}{clear}アルカヤの混乱の原因を探るためにも{n}妖精と協力してつとめにあたってください。	It seems you have not yet found any humans{n}willing to help you.{wait}{clear}When you guide people in the right{n}direction, they will surely become heroes.{wait}{clear}Work together with the fairies in your{n}duties, so that you may also uncover the{n}cause of Arcaya's chaos.	
+HVN_Msg00.1DA6	あなたに協力してくれる人間たちがいるようですね。{wait}{clear}彼らが未熟なうちは、{n}できるだけいっしょに行動した方がいいですよ。{n}また、妖精を同行させるのもいいでしょう。	It seems there are humans willing to help{n}you.{wait}{clear}While they are still inexperienced, it is{n}best to act together with them as much as{n}you can. Sending a fairy along with them is{wait}{clear}also a good idea.	
+HVN_Msg00.1E48	＄＄＄＄＄＄、アルカヤの彼らのことは{n}少しずつわかってきていますか？{wait}{clear}彼らの心を開くには時間がかかるものです。{n}あせらずに、会いにいくようになさい。	＄＄＄＄＄＄, are you coming to understand{n}the people of Arcaya little by little?{wait}{clear}Opening their hearts takes time. Do not{n}rush; keep going to see them.	
+HVN_Msg00.1EE0	＄＄＄＄＄＄、アルカヤの混乱度には{n}注意するようにしなさい。{wait}{clear}混乱度は、敵の強さに関係していますから、{n}勇者に任務を依頼するときには{n}気をつけないといけませんよ。	＄＄＄＄＄＄, be sure to watch Arcaya's{n}chaos level.{wait}{clear}The chaos level is tied to the enemies'{n}strength, so you must be careful when you{n}ask a hero to take on a mission.	
+HVN_Msg00.1F86	アルカヤの様子はどうですか？{wait}{clear}さまざまな混乱が起こっているとは思いますが、{n}どうか一刻も早くその原因を突き止めてください。{wait}{clear}大変なつとめですが、{n}あなたと勇者のはたらきに期待しています。	How are things in Arcaya?{wait}{clear}I imagine all manner of chaos is breaking{n}out, but please find its cause as quickly as{n}you can.{wait}{clear}It is a hard duty, but I am counting on you{n}and the heroes.	
+HVN_Msg00.2046	あなたのはたらきをここから見守っています。{n}困ったことがあればいつでも戻って来なさい。	I am watching over your work from here. If{n}you are ever troubled, come back at any{n}time.	
+HVN_Msg00.209E	＄＄＄＄＄＄……あなたは、{n}きっと勇者たちを理解することが出来るでしょう。{wait}{clear}あなたと勇者が信じあえたとき、{n}その力が世界を救うのです。	＄＄＄＄＄＄... I am sure you will be able{n}to understand the heroes.{wait}{clear}When you and the heroes come to trust each{n}other, that power will save the world.	
+HVN_Msg00.2128	アルカヤにある魔石が{n}すべての災いの原因なのですね……。{wait}{clear}魔石が心悪しき者の手に渡ったことによって、{n}いまの混乱を招いているのです。{wait}{clear}石の力を利用しようとする者を止めるのですよ……{n}＄＄＄＄＄＄……。	So the Demon Stone in Arcaya is the cause of{n}every calamity...{wait}{clear}The Demon Stone fell into the hands of the{n}wicked, and that has brought about the{n}present chaos.{wait}{clear}Stop those who would use the stone's{n}power... ＄＄＄＄＄＄...	
+HVN_Msg00.21F6	魔石を集めているのは人間ですが、{n}その裏にはなにかありそうですね……。{wait}{clear}＄＄＄＄＄＄、気をつけるのですよ。	It is humans who are gathering the Demon{n}Stone, but something seems to lie behind{n}them...{wait}{clear}＄＄＄＄＄＄, be careful.	
+HVN_Msg00.2264	＄＄＄＄＄＄、わかっているとは思いますが、{n}堕天使はあらゆる手を使って、{n}アルカヤを破滅させようとするでしょう。{wait}{clear}人々の悲しみが{n}彼らの望む虚無への一歩となるのです。{wait}{clear}あなたや勇者の身が{n}いま以上の危険にさらされるかもしれません。{n}どうか、十分に注意してください。	＄＄＄＄＄＄, I think you already know, but{n}the fallen angels will use every means to{n}bring Arcaya to ruin.{wait}{clear}People's sorrow is a step toward the void{n}they desire.{wait}{clear}You and the heroes may be exposed to even{n}greater danger than now. Please, be very{n}careful.	
+HVN_Msg00.2372	もう、残された時間はわずかです。{wait}{clear}あなたが私たちの最後の希望です。{n}頼みます……＄＄＄＄＄＄……。{wait}{clear}勇者たちとともに{n}アルカヤを崩壊の危機から救ってください。	Only a little time remains.{wait}{clear}You are our last hope. I am counting on{n}you... ＄＄＄＄＄＄...{wait}{clear}Save Arcaya from ruin, together with the{n}heroes.	
+HVN_Msg00.2416	地上界でのつとめは、大変なものです。{n}ですが、くじけることなく、がんばりなさい。{wait}{clear}あなたのことは、いつも見守っていますよ。	The duty in the world below is a hard one.{n}But do not lose heart; keep at it.{wait}{clear}I am always watching over you.	
+HVN_Msg00.2494	あなたが天使である意味を、{n}けっして忘れないようにしなさい。{wait}{clear}そうすれば、{n}おのずと向かうべき場所が見えてくるはずです。	Never forget what it means that you are an{n}angel.{wait}{clear}Then the place you must go should become{n}clear of itself.	
+HVN_Msg00.2510	天と地の祝福が、{n}つねにあなたとともにありますように……。	May the blessings of Heaven and earth always{n}be with you...	
+HVN_Msg00.254C	おや？　アイテムが持ちきれないようですね。{n}残念ですが、またの機会にしましょう。	Oh? It seems you cannot carry any more{n}items. A pity, but let us leave it for{n}another time.	
+HVN_Msg00.259E	＄＄＄＄＄＄、ボーナスＡＰ＜ボーナスＡＰ＞です。{n}アルカヤでのあなたの行動に役立ててください。	＄＄＄＄＄＄, here is a bonus of ＜ボーナスＡＰ＞{n}AP. Put it to use in your work in Arcaya.	

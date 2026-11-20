@@ -72,8 +72,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b056 (`batches.py todo`; Florinda's FryMsg1 continues at Irene's intro, then
-  FryMsg2-7 for the other fairies: same rows, each fairy's voice; keep the ＜...＞ placeholders). Budgets above; BTL_EVT banks have a 64 KB cap
+  2026-11-21 (10th worker): **b056-b069** done (fairy reports FryMsg1 end, FryMsg2 Shelly, 3 Lily, 4 Lynx, 5 Aquila
+  (shy "Um,"), 6 Cetus, 7 Lepus (very formal); GenAnsw/GenNG incident yes/no replies for heroes 0-6; HVN_Msg00
+  Raphael's level-up, gift and advice lines; MssAns0-6 mission replies; b069 ends at MssAns6.066C). Build +
+  check.py green; `warp.py map_fairy heaven --cue <abs>/build/fd2_en.cue` both OK with English (heaven tag
+  ラファエル still JP: name-tag table, phase 7). New `tools/similar.py bNNN [first last]` prints each row with the
+  closest translated row of the same file family (FryMsgN/GenAnswN/MssAnsN are parallel files: translate from the
+  parallel, in the speaker's voice; read its output via a code runner in 10-20-row chunks). `batches.py check`: a
+  glossary term inside a longer matched term is skipped (ルディ in ウルディピア); ＜ボーナスＡＰ＞ kept as a tag.
+  Glossary gained Raphael's equipment list (Elivagar ... Graal: the EXE item names at SLPS.80020A04-0BF8 must
+  match), 混乱度 "chaos level", and MssAns places (Karnal, Cadiz, Salem, Larissa, Lanas, Erlanges/Jotun, Seriphos,
+  Dilolo, Ragwort, Zarha, Rooak, Kaluga); クラン "Kran" (MssAns2, not in the table: it matches クランク etc.).
+  Angel magic: 大回復 "Great Heal", 透明 "Invisibility", 連撃 "Flurry".
+- **Next (phase 6):** continue at b070 (`batches.py todo`; MssAns6 continues, then the remaining msg/evx/end/misc/ovl/exe
+  batches through b092). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

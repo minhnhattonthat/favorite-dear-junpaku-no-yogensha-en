@@ -1,7 +1,7 @@
 id	jp	en	notes
-GenAnsw6.000E	それを解決すればいいのですね？{n}わかりました、私、行きます。		
-GenAnsw6.004C	それは大変です！{n}天使様、私、すぐに行きます。		
-GenAnsw6.007C	その事件には私が向かいます。{n}ほうってはおけませんから。		
-GenAnsw6.00B6	そんな事件が起こるなんて……{wait}{clear}わかりました、天使様、{n}私が行きます。		
-GenAnsw6.00FE	わかりました、天使様。{n}その事件なら、すぐに解決できると思います。		
-GenAnsw6.0142	その事件には私が行きます。{wait}{clear}間に合えばいいのですが……。		
+GenAnsw6.000E	それを解決すればいいのですね？{n}わかりました、私、行きます。	So I just need to resolve that? I{n}understand. I'll go.	
+GenAnsw6.004C	それは大変です！{n}天使様、私、すぐに行きます。	That's terrible! Angel, I'll go right away.	
+GenAnsw6.007C	その事件には私が向かいます。{n}ほうってはおけませんから。	I'll head for that incident. I can't leave{n}it alone.	
+GenAnsw6.00B6	そんな事件が起こるなんて……{wait}{clear}わかりました、天使様、{n}私が行きます。	To think something like that would happen...{wait}{clear}I understand, Angel. I'll go.	
+GenAnsw6.00FE	わかりました、天使様。{n}その事件なら、すぐに解決できると思います。	I understand, Angel. I think I can resolve{n}that incident quickly.	
+GenAnsw6.0142	その事件には私が行きます。{wait}{clear}間に合えばいいのですが……。	I'll go to that incident.{wait}{clear}I hope I make it in time...	

@@ -1,90 +1,90 @@
 id	jp	en	notes
-MssAns1.016A	なし		
-MssAns1.0170	ゾンビか……。{n}ならば、俺の仕事だ。{wait}{clear}行こう。		
-MssAns1.01A2	なし		
-MssAns1.01A8	わかった。{n}やつらが出てきたのなら、俺が行く。		
-MssAns1.01D8	なし		
-MssAns1.01DE	なし		
-MssAns1.01E4	なし		
-MssAns1.01EA	なし		
-MssAns1.01F0	なし		
-MssAns1.01F6	なし		
-MssAns1.01FC	なし		
-MssAns1.0202	なし		
-MssAns1.0208	なし		
-MssAns1.020E	ああ、わかった……。		
-MssAns1.0224	なし		
-MssAns1.022A	エクレシアにまで現れたのか……。{n}わかった……俺が行く……。		
-MssAns1.0268	なし		
-MssAns1.026E	なし		
-MssAns1.0274	なし		
-MssAns1.027A	わかった……行こう。		
-MssAns1.0290	なし		
-MssAns1.0296	なし		
-MssAns1.029C	なし		
-MssAns1.02A2	なし		
-MssAns1.02A8	なし		
-MssAns1.02AE	ああ、わかった……。		
-MssAns1.02C4	なし		
-MssAns1.02CA	魔石……天竜……。{n}わかった……行かねばならないな……。		
-MssAns1.0304	なし		
-MssAns1.030A	なし		
-MssAns1.0310	なし		
-MssAns1.0316	とうとうこの日が来たんだな……。{n}やつは俺が倒す……絶対にだ！		
-MssAns1.0356	とうとう姿を見せたか……{n}この機を逃すわけにはいかない……行こう……。		
-MssAns1.039E	わかった……行こう……。{wait}{clear}俺にとってこの世界などどうでもいいものだったが、{n}お前に出会って、なにかが変わった……。{wait}{clear}暗い虚無の中に落ち込んでいくような……{n}やつらの望むままになるのだけは、許さない……。{wait}{clear}きっと、天竜は俺が倒してみせる。		
-MssAns1.0492	なし		
-MssAns1.0498	スラティナだと？　俺が行こう……。		
-MssAns1.04BC	なし		
-MssAns1.04C2	なし		
-MssAns1.04C8	なし		
-MssAns1.04CE	なし		
-MssAns1.04D4	なし		
-MssAns1.04DA	なし		
-MssAns1.04E0	なし		
-MssAns1.04E6	なし		
-MssAns1.04EC	なし		
-MssAns1.04F2	なし		
-MssAns1.04F8	なし		
-MssAns1.04FE	なし		
-MssAns1.0504	そのモンスターは、お前の予想通り、{n}たぶん、アンデッドだろう……。{wait}{clear}俺の仕事だ。		
-MssAns1.0558	それは、バンシーだ……。{n}俺が行こう……。		
-MssAns1.0584	なし		
-MssAns1.058A	なし		
-MssAns1.0590	なし		
-MssAns1.0596	なし		
-MssAns1.059C	なし		
-MssAns1.05A2	なし		
-MssAns1.05A8	なし		
-MssAns1.05AE	なし		
-MssAns1.05B4	なし		
-MssAns1.05BA	なし		
-MssAns1.05C0	なし		
-MssAns1.05C6	なし		
-MssAns1.05CC	なし		
-MssAns1.05D2	それは、やつらの仕業だ……。{n}俺が行く。		
-MssAns1.05FC	なし		
-MssAns1.0602	なし		
-MssAns1.0608	なし		
-MssAns1.060E	なし		
-MssAns1.0614	なし		
-MssAns1.061A	なし		
-MssAns1.0620	なし		
-MssAns1.0626	また……やつらだろう……。{n}俺に行かせてくれ。		
-MssAns1.0656	なし		
-MssAns1.065C	なし		
-MssAns1.0662	なし		
-MssAns1.0668	なし		
-MssAns1.066E	なし		
-MssAns1.0674	なし		
-MssAns1.067A	なし		
-MssAns1.0680	やつら、そんなところにまで……。{wait}{clear}俺が行く……{n}やつらは、俺が倒す……。		
-MssAns1.06CC	わかった……。		
-MssAns1.06DC	なし		
-MssAns1.06E2	なし		
-MssAns1.06E8	なし		
-MssAns1.06EE	なし		
-MssAns1.06F4	わかった……。		
-MssAns1.0704	なし		
-MssAns1.070A	わかった……。		
-MssAns1.071A	なし		
+MssAns1.016A	なし	None	
+MssAns1.0170	ゾンビか……。{n}ならば、俺の仕事だ。{wait}{clear}行こう。	Zombies... Then it's my job.{wait}{clear}I'll go.	
+MssAns1.01A2	なし	None	
+MssAns1.01A8	わかった。{n}やつらが出てきたのなら、俺が行く。	Fine. If they've come out, I'll go.	
+MssAns1.01D8	なし	None	
+MssAns1.01DE	なし	None	
+MssAns1.01E4	なし	None	
+MssAns1.01EA	なし	None	
+MssAns1.01F0	なし	None	
+MssAns1.01F6	なし	None	
+MssAns1.01FC	なし	None	
+MssAns1.0202	なし	None	
+MssAns1.0208	なし	None	
+MssAns1.020E	ああ、わかった……。	Yeah, fine...	
+MssAns1.0224	なし	None	
+MssAns1.022A	エクレシアにまで現れたのか……。{n}わかった……俺が行く……。	They've appeared even in Ecclesia... Fine...{n}I'll go...	
+MssAns1.0268	なし	None	
+MssAns1.026E	なし	None	
+MssAns1.0274	なし	None	
+MssAns1.027A	わかった……行こう。	Fine... I'll go.	
+MssAns1.0290	なし	None	
+MssAns1.0296	なし	None	
+MssAns1.029C	なし	None	
+MssAns1.02A2	なし	None	
+MssAns1.02A8	なし	None	
+MssAns1.02AE	ああ、わかった……。	Yeah, fine...	
+MssAns1.02C4	なし	None	
+MssAns1.02CA	魔石……天竜……。{n}わかった……行かねばならないな……。	The Demon Stone... the Heavenly Dragon...{n}Fine... I have to go...	
+MssAns1.0304	なし	None	
+MssAns1.030A	なし	None	
+MssAns1.0310	なし	None	
+MssAns1.0316	とうとうこの日が来たんだな……。{n}やつは俺が倒す……絶対にだ！	So this day has finally come... I'll take{n}him down myself... No matter what!	
+MssAns1.0356	とうとう姿を見せたか……{n}この機を逃すわけにはいかない……行こう……。	So he's finally shown himself... I can't let{n}this chance slip... Let's go...	
+MssAns1.039E	わかった……行こう……。{wait}{clear}俺にとってこの世界などどうでもいいものだったが、{n}お前に出会って、なにかが変わった……。{wait}{clear}暗い虚無の中に落ち込んでいくような……{n}やつらの望むままになるのだけは、許さない……。{wait}{clear}きっと、天竜は俺が倒してみせる。	Fine... I'll go...{wait}{clear}This world never meant anything to me, but{n}since I met you, something has changed...{wait}{clear}Like sinking into a dark void... I won't let{n}things go the way they want...{wait}{clear}I'll defeat the Heavenly Dragon. I swear it.	
+MssAns1.0492	なし	None	
+MssAns1.0498	スラティナだと？　俺が行こう……。	Slatina, you say? I'll go...	
+MssAns1.04BC	なし	None	
+MssAns1.04C2	なし	None	
+MssAns1.04C8	なし	None	
+MssAns1.04CE	なし	None	
+MssAns1.04D4	なし	None	
+MssAns1.04DA	なし	None	
+MssAns1.04E0	なし	None	
+MssAns1.04E6	なし	None	
+MssAns1.04EC	なし	None	
+MssAns1.04F2	なし	None	
+MssAns1.04F8	なし	None	
+MssAns1.04FE	なし	None	
+MssAns1.0504	そのモンスターは、お前の予想通り、{n}たぶん、アンデッドだろう……。{wait}{clear}俺の仕事だ。	That monster is probably undead, just as you{n}thought...{wait}{clear}It's my job.	
+MssAns1.0558	それは、バンシーだ……。{n}俺が行こう……。	That's a banshee... I'll go...	
+MssAns1.0584	なし	None	
+MssAns1.058A	なし	None	
+MssAns1.0590	なし	None	
+MssAns1.0596	なし	None	
+MssAns1.059C	なし	None	
+MssAns1.05A2	なし	None	
+MssAns1.05A8	なし	None	
+MssAns1.05AE	なし	None	
+MssAns1.05B4	なし	None	
+MssAns1.05BA	なし	None	
+MssAns1.05C0	なし	None	
+MssAns1.05C6	なし	None	
+MssAns1.05CC	なし	None	
+MssAns1.05D2	それは、やつらの仕業だ……。{n}俺が行く。	That's their doing... I'll go.	
+MssAns1.05FC	なし	None	
+MssAns1.0602	なし	None	
+MssAns1.0608	なし	None	
+MssAns1.060E	なし	None	
+MssAns1.0614	なし	None	
+MssAns1.061A	なし	None	
+MssAns1.0620	なし	None	
+MssAns1.0626	また……やつらだろう……。{n}俺に行かせてくれ。	Them again... most likely... Let me go.	
+MssAns1.0656	なし	None	
+MssAns1.065C	なし	None	
+MssAns1.0662	なし	None	
+MssAns1.0668	なし	None	
+MssAns1.066E	なし	None	
+MssAns1.0674	なし	None	
+MssAns1.067A	なし	None	
+MssAns1.0680	やつら、そんなところにまで……。{wait}{clear}俺が行く……{n}やつらは、俺が倒す……。	They've gotten even that far...{wait}{clear}I'll go... I'll take them down myself...	
+MssAns1.06CC	わかった……。	Fine...	
+MssAns1.06DC	なし	None	
+MssAns1.06E2	なし	None	
+MssAns1.06E8	なし	None	
+MssAns1.06EE	なし	None	
+MssAns1.06F4	わかった……。	Fine...	
+MssAns1.0704	なし	None	
+MssAns1.070A	わかった……。	Fine...	
+MssAns1.071A	なし	None	
