@@ -30,9 +30,9 @@ BTL_EVT5.0568	お前たちが我々帝国軍にかなうはずなどない！{n}
 BTL_EVT5.05D0S	レイラ	Leyla	speaker
 BTL_EVT5.05D7	不気味な魔物……あれはいったい……。		
 BTL_EVT5.05FFS	ファントム		speaker
-BTL_EVT5.060A	…………。		
+BTL_EVT5.060A	…………。	.....	
 BTL_EVT5.0618S	ファントム		speaker
-BTL_EVT5.0623	…………。		
+BTL_EVT5.0623	…………。	.....	
 BTL_EVT5.0655S	イオン	Ion	speaker
 BTL_EVT5.065C	ぼくの邪魔をするから……。		
 BTL_EVT5.067AS	イオン	Ion	speaker
@@ -110,7 +110,7 @@ BTL_EVT5.0E3A	ヴヴヴ……。
 BTL_EVT5.0E4AS	レイラ	Leyla	speaker
 BTL_EVT5.0E51	アンデッドね……かかってきなさい！		
 BTL_EVT5.0E77S	レイラ	Leyla	speaker
-BTL_EVT5.0E7E	…………。		
+BTL_EVT5.0E7E	…………。	.....	
 BTL_EVT5.0E8CS	ゾンビ		speaker
 BTL_EVT5.0E93	ウウヴッッ……。		
 BTL_EVT5.0EA7S	ゾンビ		speaker
@@ -120,7 +120,7 @@ BTL_EVT5.0EED	なんだ貴様は？
 BTL_EVT5.0EFFS	レイラ	Leyla	speaker
 BTL_EVT5.0F06	あなたに名乗る必要は感じないわ。{n}覚悟なさい！		
 BTL_EVT5.0F38S	レイラ	Leyla	speaker
-BTL_EVT5.0F3F	…………。		
+BTL_EVT5.0F3F	…………。	.....	
 BTL_EVT5.0F4DS	吸血鬼		speaker
 BTL_EVT5.0F54	人間ごときが、我らにかなうはずなかろう！		
 BTL_EVT5.0F80S	吸血鬼		speaker
@@ -382,7 +382,7 @@ BTL_EVT5.2E06	村を襲うのはやめなさい！
 BTL_EVT5.2E22S	オーク		speaker
 BTL_EVT5.2E29	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
 BTL_EVT5.2E5BS	レイラ	Leyla	speaker
-BTL_EVT5.2E62	…………。		
+BTL_EVT5.2E62	…………。	.....	
 BTL_EVT5.2E70S	オーク		speaker
 BTL_EVT5.2E77	ニンゲン　ジャマ……！		
 BTL_EVT5.2E91S	オーク		speaker
@@ -604,7 +604,7 @@ BTL_EVT5.44DD	これ以上、村人の命を狙うなら、{n}私が相手にな
 BTL_EVT5.4513S	ノスフェラトゥ		speaker
 BTL_EVT5.4522	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
 BTL_EVT5.457AS	レイラ	Leyla	speaker
-BTL_EVT5.4581	…………。		
+BTL_EVT5.4581	…………。	.....	
 BTL_EVT5.458FS	ノスフェラトゥ		speaker
 BTL_EVT5.459E	人間はすべて我らにひざまずくがいい！		
 BTL_EVT5.45C6S	ノスフェラトゥ		speaker
@@ -772,7 +772,7 @@ BTL_EVT5.59CF	逃げましたわよ……。{n}ホホホホ……
 BTL_EVT5.5A61S	ノスフェラトゥ		speaker
 BTL_EVT5.5A70	人間ごときに、我らの邪魔などさせるものか！		
 BTL_EVT5.5A9ES	レイラ	Leyla	speaker
-BTL_EVT5.5AA5	…………。		
+BTL_EVT5.5AA5	…………。	.....	
 BTL_EVT5.5AB3S	ノスフェラトゥ		speaker
 BTL_EVT5.5AC2	人間など、我らの敵ではない！		
 BTL_EVT5.5AE2S	ノスフェラトゥ		speaker
@@ -780,15 +780,15 @@ BTL_EVT5.5AF1	逃げていきおったわ！
 BTL_EVT5.5B75S	レイラ	Leyla	speaker
 BTL_EVT5.5B7C	あなたがなぜ、吸血鬼になったかは知らないわ……{wait}{clear}でも、もう正気でないのなら斬るしかない……。		
 BTL_EVT5.5BDES	クライヴ	Clive	speaker
-BTL_EVT5.5BE7	…………。		
+BTL_EVT5.5BE7	…………。	.....	
 BTL_EVT5.5BF5S	レイラ	Leyla	speaker
 BTL_EVT5.5BFC	その目……もう人ではないのね……。		
 BTL_EVT5.5C22S	レイラ	Leyla	speaker
 BTL_EVT5.5C29	…………。{wait}{clear}こんなことになるなんて……。{n}ひどすぎる……。		
 BTL_EVT5.5C69S	クライヴ	Clive	speaker
-BTL_EVT5.5C72	…………。		
+BTL_EVT5.5C72	…………。	.....	
 BTL_EVT5.5C80S	クライヴ	Clive	speaker
-BTL_EVT5.5C89	…………。		
+BTL_EVT5.5C89	…………。	.....	
 BTL_EVT5.5CDFS	レイラ	Leyla	speaker
 BTL_EVT5.5CE6	くっ……きりがない……これじゃ……。		
 BTL_EVT5.5D0ES	レイラ	Leyla	speaker
@@ -824,7 +824,7 @@ BTL_EVT5.6013	あははは！{n}情けない勇者だこと！
 BTL_EVT5.605BS	レイラ	Leyla	speaker
 BTL_EVT5.6062	かかってくるなら、倒すだけよ！		
 BTL_EVT5.6084S	レイラ	Leyla	speaker
-BTL_EVT5.608B	…………。		
+BTL_EVT5.608B	…………。	.....	
 BTL_EVT5.6099S	ティンダロス		speaker
 BTL_EVT5.60A6	ウオォ～ン！！		
 BTL_EVT5.60B8S	ティンダロス		speaker

@@ -25,6 +25,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   laev10.ssb --event Feev24.ssb --cue <abs>/build/fd2_en.cue` both OK with English (`work/qa/warp/ev_laev10`,
   `ev_Feev24`; event names are case-sensitive). Glossary gained Kreutzfeld, Kaiser, Seneca (Rudiere's elephant),
   Serenis notes (Fein's wife, Irene's sister).
+  2026-11-21 (5th worker): **b023-b028** done (Rudiere loev01_01-loev27_01 incl. his brother Hugues's assassination
+  and ending, Michael's Demon Stone talk maseki, then the call-the-angel scenes men1_* for every hero and men2_Ce01-02;
+  b028 ends at men2_Ce02.0210). Build + check.py green; `warp.py --event loev05_02.ssb --event loev10_02.ssb --event
+  men1_Ro01.ssb --cue <abs>/build/fd2_en.cue` all OK with English. Glossary gained Hugues, Seneca "she", Rudiere-route
+  rulings (Grand Duke, Chancellor, Endymion = Grosain's emperor, "Rudi's Mom", chapter labels over 12 letters
+  shortened: "Regicide").
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -39,7 +45,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b023 (`batches.py todo`; Rudiere's loev01 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b029 (`batches.py todo`; the men2_* call scenes continue there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

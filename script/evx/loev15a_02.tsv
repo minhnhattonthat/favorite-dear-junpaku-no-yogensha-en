@@ -1,27 +1,27 @@
 id	jp	en	notes
-loev15a_02.0002	サヴィア		dev label (guess: not shown)
+loev15a_02.0002	サヴィア	Savia	dev label (guess: not shown)
 loev15a_02.00A2	ルディ		unit name (32-byte field)
-loev15a_02.00DE	サヴィア		unit name (32-byte field)
-loev15a_02.04FC	サヴィア		speaker
+loev15a_02.00DE	サヴィア	Savia	unit name (32-byte field)
+loev15a_02.04FC	サヴィア	Savia	speaker
 loev15a_02.0513	ルディ……{n}サヴィオが次に戦いに向かう場所が{n}決まったわ……。		text
 loev15a_02.0560	これ以上、{n}弟を暴走させるわけにはいかない……。		text
 loev15a_02.05EF	ルディエール	Rudiere	speaker
 loev15a_02.060A	どこなんだ？　教えてくれ。		text
-loev15a_02.0633	サヴィア		speaker
+loev15a_02.0633	サヴィア	Savia	speaker
 loev15a_02.064A	エローラのファロという町よ……。		text
 loev15a_02.0679	今度、怒りにまかせて貴族に向かったら……{n}本当に鎧に取り込まれてしまう……。		text
 loev15a_02.06D4	ルディエール	Rudiere	speaker
 loev15a_02.06EF	わかった、心配しないでいい。{n}おれがサヴィオを止める……。		text
-loev15a_02.0738	サヴィア		speaker
+loev15a_02.0738	サヴィア	Savia	speaker
 loev15a_02.074F	ありがとう……ルディ……。{n}私、あなたをだましたのに……。		text
 loev15a_02.0798	ルディエール	Rudiere	speaker
 loev15a_02.07B3	いや、そんなこともういいんだ。{n}おれにはいまやらなければならないことがあるから。		text
-loev15a_02.0812	サヴィア		speaker
+loev15a_02.0812	サヴィア	Savia	speaker
 loev15a_02.0829	ルディ……。		text
 loev15a_02.0844	私、王宮で一度だけお兄さんとお話したの……。		text
 loev15a_02.087F	ルディエール	Rudiere	speaker
 loev15a_02.089A	そうなのか？{n}兄さんは、何か言ってたか？		text
-loev15a_02.08D1	サヴィア		speaker
+loev15a_02.08D1	サヴィア	Savia	speaker
 loev15a_02.08E8	お兄さんはルディのことを自分の誇れる弟だって。{n}とてもうれしそうに話をしてくれた。		text
 loev15a_02.0949	王様って感じじゃなかった……		text
 loev15a_02.0974	ああ、ルディのお兄さんなんだなって{n}その時思ったの……。		text
@@ -29,5 +29,5 @@ loev15a_02.09BB	普通の表情で……。{n}弟を想う、お兄さんの顔�
 loev15a_02.0A02	だから、私、ルディのお兄さんを……{n}王を……手にかけることなんてできなかった……。		text
 loev15a_02.0A63	ルディエール	Rudiere	speaker
 loev15a_02.0A7E	そうだったんだ……。		text
-loev15a_02.0AA1	サヴィア		speaker
+loev15a_02.0AA1	サヴィア	Savia	speaker
 loev15a_02.0AB8	ルディ……{n}その胸のペンダント、お兄さんのと一緒？		text

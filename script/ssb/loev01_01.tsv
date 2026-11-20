@@ -45,47 +45,47 @@ loev01_01.05F4	ありがとう。ルディエール。{wait}{clear}	Thank you, R
 loev01_01.0612	ルディエール	Rudiere	speaker
 loev01_01.0626	ああ、いいって……。{wait}{clear}	Yeah, don't mention it...{wait}{clear}	
 loev01_01.063E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.064E	では、あなたにお願いがあるときまた来ます。{wait}{clear}		
+loev01_01.064E	では、あなたにお願いがあるときまた来ます。{wait}{clear}	Then I will come again when I have a favor{n}to ask of you.{wait}{clear}	
 loev01_01.067C	ルディエール	Rudiere	speaker
-loev01_01.0690	ああ、了解。{wait}{clear}		
-loev01_01.06A4	とっとと行ってくれ。{n}おれはまだ眠いんだ……。{wait}{clear}		
+loev01_01.0690	ああ、了解。{wait}{clear}	Yeah, got it.{wait}{clear}	
+loev01_01.06A4	とっとと行ってくれ。{n}おれはまだ眠いんだ……。{wait}{clear}	Just get going already. I'm still sleepy...{wait}{clear}	
 loev01_01.0704	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0714	さよなら、また会いましょう。{wait}{clear}		
+loev01_01.0714	さよなら、また会いましょう。{wait}{clear}	Goodbye. Let's meet again.{wait}{clear}	
 loev01_01.0734	ルディエール	Rudiere	speaker
-loev01_01.0748	ああ、じゃあな。{wait}{clear}		
+loev01_01.0748	ああ、じゃあな。{wait}{clear}	Yeah, see ya.{wait}{clear}	
 loev01_01.075C	ルディエール	Rudiere	speaker
-loev01_01.0770	たく……。手の込んだ冗談だぜ……{wait}{clear}		
-loev01_01.0798	ふわあ……。{wait}{clear}		
+loev01_01.0770	たく……。手の込んだ冗談だぜ……{wait}{clear}	Geez... What an elaborate joke...{wait}{clear}	
+loev01_01.0798	ふわあ……。{wait}{clear}	*Yawn*...{wait}{clear}	
 loev01_01.07B8	ルディエール	Rudiere	speaker
-loev01_01.07C8	はあ？{wait}{clear}……なあ、またにしようぜ、冗談は。{wait}{clear}おれは寝るぜ……。{wait}{clear}		
+loev01_01.07C8	はあ？{wait}{clear}……なあ、またにしようぜ、冗談は。{wait}{clear}おれは寝るぜ……。{wait}{clear}	Huh?{wait}{clear}...Look, let's save the jokes for another{n}time.{wait}{clear}I'm going back to sleep...{wait}{clear}	
 loev01_01.0836	ＮＵＬＬ	NULL	speaker
-loev01_01.0846	《もう一度起こす》{n}		
-loev01_01.0860	《また今度にする》		
+loev01_01.0846	《もう一度起こす》{n}	Wake him again{n}	
+loev01_01.0860	《また今度にする》	Try another time	
 loev01_01.0898	ルディエール	Rudiere	speaker
-loev01_01.08A8	……しつこいぞ！{wait}{clear}		
+loev01_01.08A8	……しつこいぞ！{wait}{clear}	...You don't give up, do you?!{wait}{clear}	
 loev01_01.08BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.08CC	ルディエール、話を聞いて欲しいのです。{wait}{clear}		
+loev01_01.08CC	ルディエール、話を聞いて欲しいのです。{wait}{clear}	Rudiere, I need you to hear me out.{wait}{clear}	
 loev01_01.0902	ルディエール	Rudiere	speaker
-loev01_01.0912	……ふう、言ってみな。{wait}{clear}もう目が覚めちまったよ。{wait}{clear}		
+loev01_01.0912	……ふう、言ってみな。{wait}{clear}もう目が覚めちまったよ。{wait}{clear}	...Phew. Fine, say it.{wait}{clear}I'm wide awake now anyway.{wait}{clear}	
 loev01_01.0948	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev01_01.0958	今この地上には様々な混乱が起きています。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}	Right now, all kinds of turmoil are arising{n}in the surface world.{wait}{clear}I want you to set that turmoil right,{n}together with me.{wait}{clear}	
 loev01_01.09C0	ルディエール	Rudiere	speaker
-loev01_01.09D0	おいおい、唐突だな……。{n}本物なのかお前？{wait}{clear}		
+loev01_01.09D0	おいおい、唐突だな……。{n}本物なのかお前？{wait}{clear}	Whoa, whoa, that's out of nowhere... Are you{n}for real?{wait}{clear}	
 loev01_01.09FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0A0E	急なお願いだというのはわかっています。{n}ただ、あなたにどうしても協力して欲しいのです。{wait}{clear}		
+loev01_01.0A0E	急なお願いだというのはわかっています。{n}ただ、あなたにどうしても協力して欲しいのです。{wait}{clear}	I know this is a sudden request. But I truly{n}need your help.{wait}{clear}	
 loev01_01.0A70	ルディエール	Rudiere	speaker
-loev01_01.0A80	…………。{wait}{clear}わかった。協力するよ。{wait}{clear}なんだか、わからないけど{n}真剣な頼みだってことは本当らしいからな。{wait}{clear}		
+loev01_01.0A80	…………。{wait}{clear}わかった。協力するよ。{wait}{clear}なんだか、わからないけど{n}真剣な頼みだってことは本当らしいからな。{wait}{clear}	.....{wait}{clear}All right. I'll help.{wait}{clear}I don't really get it, but it looks like{n}you're asking in earnest, at least.{wait}{clear}	
 loev01_01.0AEE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0AFE	ありがとう。{n}あなたに頼むべき事ができたときにまた来ます。{wait}{clear}		
+loev01_01.0AFE	ありがとう。{n}あなたに頼むべき事ができたときにまた来ます。{wait}{clear}	Thank you. I will come again when there is{n}something I must ask of you.{wait}{clear}	
 loev01_01.0B3C	ルディエール	Rudiere	speaker
 loev01_01.0B4C	ああ。{wait}{clear}	Yeah.{wait}{clear}	
 loev01_01.0B60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0B70	本当にありがとうございます。{wait}{clear}		
+loev01_01.0B70	本当にありがとうございます。{wait}{clear}	Thank you, truly.{wait}{clear}	
 loev01_01.0BA0	ルディエール	Rudiere	speaker
-loev01_01.0BB0	……悪いけど、また今度にしてくれないか。{wait}{clear}おれにはよくわからないよ。{n}夢みたいな感じだしさ。{wait}{clear}		
+loev01_01.0BB0	……悪いけど、また今度にしてくれないか。{wait}{clear}おれにはよくわからないよ。{n}夢みたいな感じだしさ。{wait}{clear}	...Sorry, but could we do this some other{n}time?{wait}{clear}I don't really get any of it. It feels like{n}a dream.{wait}{clear}	
 loev01_01.0C12	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_01.0C22	……わかりました。{n}日をおいてまた来ます。{wait}{clear}		
+loev01_01.0C22	……わかりました。{n}日をおいてまた来ます。{wait}{clear}	...I understand. I will come back another{n}day.{wait}{clear}	
 loev01_01.0C50	ルディエール	Rudiere	speaker
-loev01_01.0C60	……ま、考えとくよ。{wait}{clear}		
+loev01_01.0C60	……ま、考えとくよ。{wait}{clear}	...Well, I'll think about it.{wait}{clear}	
 loev01_01.0C88	ルディエール	Rudiere	speaker
-loev01_01.0C98	……ちっ、たく。{n}静かに寝させてくれよ……。{wait}{clear}		
+loev01_01.0C98	……ちっ、たく。{n}静かに寝させてくれよ……。{wait}{clear}	...Tch, geez. Just let me sleep in peace...{wait}{clear}	

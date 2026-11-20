@@ -1,6 +1,6 @@
 id	jp	en	notes
 men2_Cl01.0052	クライヴ	Clive	speaker
-men2_Cl01.005E	すまない……呼び出して。{wait}{clear}		
+men2_Cl01.005E	すまない……呼び出して。{wait}{clear}	Sorry... for calling you out.{wait}{clear}	
 men2_Cl01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl01.008A	いえ、べつに大丈夫です……。{n}あの、なにかお話でも？{wait}{clear}		
 men2_Cl01.00C2	クライヴ	Clive	speaker
@@ -13,7 +13,7 @@ men2_Cl01.0148	ええ……。{n}クライヴが呼んでくれたのですか�
 men2_Cl01.018A	クライヴ	Clive	speaker
 men2_Cl01.0196	…………。{wait}{clear}そうか……たいしたことではないのだが、{n}少し、話をしようか……。{wait}{clear}		
 men2_Cl01.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl01.01F8	ええ、よろこんで。{wait}{clear}		
+men2_Cl01.01F8	ええ、よろこんで。{wait}{clear}	Yes, gladly.{wait}{clear}	
 men2_Cl01.020E	クライヴ	Clive	speaker
 men2_Cl01.021A	……すまない……。{wait}{clear}		
 men2_Cl01.0234	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

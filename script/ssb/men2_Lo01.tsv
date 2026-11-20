@@ -1,12 +1,12 @@
 id	jp	en	notes
 men2_Lo01.0052	ルディエール	Rudiere	speaker
-men2_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
+men2_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men2_Lo01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.008A	ルディ、どうしたのですか？{n}なにか大変なことでも？{wait}{clear}		
 men2_Lo01.00C0	ルディエール	Rudiere	speaker
 men2_Lo01.00D0	そんなに慌てて来なくてもいいよ。{n}ただ、ちょっと話したいと思っただけなんだ。{wait}{clear}		
 men2_Lo01.0120	ＮＵＬＬ	NULL	speaker
-men2_Lo01.0130	《そうだったのですね。》{n}		
+men2_Lo01.0130	《そうだったのですね。》{n}	So that was it.{n}	
 men2_Lo01.0150	《すみません……。》{n}	I'm sorry...{n}	
 men2_Lo01.016C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.017C	そうだったのですね。{n}なにかあったのかと思って……。{wait}{clear}		

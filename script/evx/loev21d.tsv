@@ -2,7 +2,7 @@ id	jp	en	notes
 loev21d.0002	celeniss		dev label (guess: not shown)
 loev21d.00A2	ルディエール	Rudiere	unit name (32-byte field)
 loev21d.00DE	セレニス	Serenis	unit name (32-byte field)
-loev21d.011A	エンディミオン		unit name (32-byte field)
+loev21d.011A	エンディミオン	Endymion	unit name (32-byte field)
 loev21d.0156	覚醒エンディミオン		unit name (32-byte field)
 loev21d.0192	椅子		unit name (32-byte field)
 loev21d.01CE	魔石の台		unit name (32-byte field)

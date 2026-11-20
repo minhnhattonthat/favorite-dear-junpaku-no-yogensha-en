@@ -1,30 +1,30 @@
 id	jp	en	notes
 loev13.0054	ルディエール	Rudiere	speaker
-loev13.0068	なんだ……＄＄＄＄＄＄……。{wait}{clear}		
+loev13.0068	なんだ……＄＄＄＄＄＄……。{wait}{clear}	Oh... ＄＄＄＄＄＄...{wait}{clear}	
 loev13.0088	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev13.0098	ルディ……{wait}{clear}		
+loev13.0098	ルディ……{wait}{clear}	Rudi...{wait}{clear}	
 loev13.00B4	ルディエール	Rudiere	speaker
-loev13.00C8	おれは……自分が情けない、＄＄＄＄＄＄{wait}{clear}		
-loev13.00F6	自分の甘さが……頭に来るよ……。{wait}{clear}		
-loev13.011E	あの貴族は{n}この国も民衆もなんとも思っていない……。{wait}{clear}		
-loev13.015A	あんなやつらに……{n}おれは国を奪われてしまった……。{wait}{clear}		
-loev13.0196	兄さんに顔向けできない……{wait}{clear}		
-loev13.01C4	もう、何を信じればいいんだ……{wait}{clear}		
-loev13.01EA	おれは……。{wait}{clear}		
+loev13.00C8	おれは……自分が情けない、＄＄＄＄＄＄{wait}{clear}	I'm... ashamed of myself, ＄＄＄＄＄＄.{wait}{clear}	
+loev13.00F6	自分の甘さが……頭に来るよ……。{wait}{clear}	My own naivety... it makes me so mad...{wait}{clear}	
+loev13.011E	あの貴族は{n}この国も民衆もなんとも思っていない……。{wait}{clear}	Those nobles don't care one bit about this{n}country or its people...{wait}{clear}	
+loev13.015A	あんなやつらに……{n}おれは国を奪われてしまった……。{wait}{clear}	And I let people like that... steal the{n}country from me...{wait}{clear}	
+loev13.0196	兄さんに顔向けできない……{wait}{clear}	I can't face my brother...{wait}{clear}	
+loev13.01C4	もう、何を信じればいいんだ……{wait}{clear}	What am I supposed to believe in anymore...{wait}{clear}	
+loev13.01EA	おれは……。{wait}{clear}	I...{wait}{clear}	
 loev13.01FA	ＮＵＬＬ	NULL	speaker
-loev13.020A	《自分を信じて……》{n}		
-loev13.0226	《今は立ち止まらず……》{n}		
+loev13.020A	《自分を信じて……》{n}	Believe in yourself...{n}	
+loev13.0226	《今は立ち止まらず……》{n}	Don't stop now...{n}	
 loev13.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev13.0260	今は自分を信じて……{wait}{clear}必ず、これから光を見つけることが{n}できるはずです。{wait}{clear}あなたならきっと……。{wait}{clear}		
+loev13.0260	今は自分を信じて……{wait}{clear}必ず、これから光を見つけることが{n}できるはずです。{wait}{clear}あなたならきっと……。{wait}{clear}	For now, believe in yourself...{wait}{clear}I'm sure you will find a light from here on.{wait}{clear}I know you can...{wait}{clear}	
 loev13.02D6	ルディエール	Rudiere	speaker
-loev13.02EA	ありがとう……。＄＄＄＄＄＄。{wait}{clear}		
-loev13.0312	今、立ち止まるわけにはいかないよな……。{wait}{clear}		
-loev13.0342	おれを信じてくれた人のためにも……。{wait}{clear}		
-loev13.036E	進むしかない……前に…。{wait}{clear}		
+loev13.02EA	ありがとう……。＄＄＄＄＄＄。{wait}{clear}	Thank you... ＄＄＄＄＄＄.{wait}{clear}	
+loev13.0312	今、立ち止まるわけにはいかないよな……。{wait}{clear}	I can't afford to stop now, can I...{wait}{clear}	
+loev13.0342	おれを信じてくれた人のためにも……。{wait}{clear}	For the sake of the people who believed in{n}me, too...{wait}{clear}	
+loev13.036E	進むしかない……前に…。{wait}{clear}	I can only keep going... forward...{wait}{clear}	
 loev13.03A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev13.03B0	今、私たちは立ち止まることはできません。{wait}{clear}混乱は進んでいます。{n}つらいかもしれませんが、{n}前を向き、進みましょう……。{wait}{clear}		
+loev13.03B0	今、私たちは立ち止まることはできません。{wait}{clear}混乱は進んでいます。{n}つらいかもしれませんが、{n}前を向き、進みましょう……。{wait}{clear}	We cannot stop now.{wait}{clear}The turmoil is spreading. It may be hard,{n}but let's look ahead and keep going...{wait}{clear}	
 loev13.043A	ルディエール	Rudiere	speaker
-loev13.044E	そうだな……{wait}{clear}		
-loev13.0462	世界には兄さんが心配したように{n}混乱が迫っている……{wait}{clear}		
-loev13.049E	おれは戦わなきゃいけないよな……。{wait}{clear}		
-loev13.04CA	すまない……{n}泣き言を聞かせちまったな……。{wait}{clear}		
+loev13.044E	そうだな……{wait}{clear}	Perhaps...{wait}{clear}	
+loev13.0462	世界には兄さんが心配したように{n}混乱が迫っている……{wait}{clear}	Turmoil is closing in on the world, just{n}like my brother feared...{wait}{clear}	
+loev13.049E	おれは戦わなきゃいけないよな……。{wait}{clear}	I've got to fight, don't I...{wait}{clear}	
+loev13.04CA	すまない……{n}泣き言を聞かせちまったな……。{wait}{clear}	Sorry... I made you listen to me whine...{wait}{clear}	

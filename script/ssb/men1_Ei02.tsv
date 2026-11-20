@@ -1,28 +1,28 @@
 id	jp	en	notes
 men1_Ei02.0052	アイリーン	Irene	speaker
-men1_Ei02.0060	ごめん、急に呼んで。{wait}{clear}		
+men1_Ei02.0060	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men1_Ei02.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ei02.0088	どうしたのです？{n}なにか気になることでもあったのですか？{wait}{clear}		
+men1_Ei02.0088	どうしたのです？{n}なにか気になることでもあったのですか？{wait}{clear}	What is it? Is something on your mind?{wait}{clear}	
 men1_Ei02.00C4	アイリーン	Irene	speaker
-men1_Ei02.00D2	そんな、大げさなことじゃないの。{n}ただ、ちょっと＄＄＄＄＄＄と話がしたかったんだ。{n}そんなことで呼んで、迷惑だった？{wait}{clear}		
+men1_Ei02.00D2	そんな、大げさなことじゃないの。{n}ただ、ちょっと＄＄＄＄＄＄と話がしたかったんだ。{n}そんなことで呼んで、迷惑だった？{wait}{clear}	It's nothing that serious. I just wanted to{n}talk with you a little, ＄＄＄＄＄＄. Was it{n}a bother, calling you for that?{wait}{clear}	
 men1_Ei02.014A	ＮＵＬＬ	NULL	speaker
-men1_Ei02.015A	《いつでも呼んでください。》{n}		
-men1_Ei02.017E	《すみません……今は……。》{n}		
+men1_Ei02.015A	《いつでも呼んでください。》{n}	Call me anytime.{n}	
+men1_Ei02.017E	《すみません……今は……。》{n}	I'm sorry... right now...{n}	
 men1_Ei02.01A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ei02.01B2	いいえ、とんでもないです。{n}いつでも呼んでください。{wait}{clear}		
+men1_Ei02.01B2	いいえ、とんでもないです。{n}いつでも呼んでください。{wait}{clear}	No, not at all. Call me anytime.{wait}{clear}	
 men1_Ei02.01EA	アイリーン	Irene	speaker
-men1_Ei02.01F8	そう言ってもらえて、ほっとした。{n}あなた、いつも忙しそうだから……。{n}どうかなって思ってたんだ。{wait}{clear}でも、こうやって来てもらって、{n}＄＄＄＄＄＄のこと、少しわかった気がするよ。{wait}{clear}		
+men1_Ei02.01F8	そう言ってもらえて、ほっとした。{n}あなた、いつも忙しそうだから……。{n}どうかなって思ってたんだ。{wait}{clear}でも、こうやって来てもらって、{n}＄＄＄＄＄＄のこと、少しわかった気がするよ。{wait}{clear}	That's a relief to hear. You always look so{n}busy... I wasn't sure.{wait}{clear}But having you come like this, I feel like I{n}understand you a little, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Ei02.02AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ei02.02BC	そうですか？{n}それは、私もうれしいです。{wait}{clear}		
+men1_Ei02.02BC	そうですか？{n}それは、私もうれしいです。{wait}{clear}	Really? Then I'm glad too.{wait}{clear}	
 men1_Ei02.02E8	アイリーン	Irene	speaker
-men1_Ei02.02F6	そうなの？{n}だったらよかった、妖精に呼んでもらって。{n}じゃあ、少しつきあってくれる？{wait}{clear}		
+men1_Ei02.02F6	そうなの？{n}だったらよかった、妖精に呼んでもらって。{n}じゃあ、少しつきあってくれる？{wait}{clear}	You are? Then I'm glad I had the fairy call{n}you. So, will you keep me company for a bit?{wait}{clear}	
 men1_Ei02.034E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei02.035E	はい。{wait}{clear}	Yes.{wait}{clear}	
 men1_Ei02.036C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ei02.037C	すみません……今は、ちょっと時間が……。{wait}{clear}		
+men1_Ei02.037C	すみません……今は、ちょっと時間が……。{wait}{clear}	I'm sorry... I don't really have time right{n}now...{wait}{clear}	
 men1_Ei02.03B4	アイリーン	Irene	speaker
-men1_Ei02.03C2	あっそ……やっぱり忙しいんだ。{wait}{clear}無理につきあわせても悪いし、{n}たいした話でもなかったから、また今度にする。{wait}{clear}		
+men1_Ei02.03C2	あっそ……やっぱり忙しいんだ。{wait}{clear}無理につきあわせても悪いし、{n}たいした話でもなかったから、また今度にする。{wait}{clear}	Oh, fine... So you are busy.{wait}{clear}It'd be wrong to make you stay, and it{n}wasn't anything important, so maybe next{n}time.{wait}{clear}	
 men1_Ei02.0432	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ei02.0442	すみません……アイリーン……。{wait}{clear}		
+men1_Ei02.0442	すみません……アイリーン……。{wait}{clear}	I'm sorry... Irene...{wait}{clear}	
 men1_Ei02.0470	アイリーン	Irene	speaker
-men1_Ei02.047E	気にしないで。{n}あなた真面目だし、しかたがないわ。{wait}{clear}じゃあ、またね。{wait}{clear}		
+men1_Ei02.047E	気にしないで。{n}あなた真面目だし、しかたがないわ。{wait}{clear}じゃあ、またね。{wait}{clear}	Don't worry about it. You're the serious{n}type, so it can't be helped.{wait}{clear}See you.{wait}{clear}	

@@ -1,50 +1,50 @@
 id	jp	en	notes
 loev19.0054	ルディエール	Rudiere	speaker
-loev19.0064	ハハハハ、セネカ！{n}やめろよ。{wait}{clear}		
+loev19.0064	ハハハハ、セネカ！{n}やめろよ。{wait}{clear}	Ha ha ha ha, Seneca! Cut it out.{wait}{clear}	
 loev19.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.0096	こんにちは、ルディ。{n}なんだか、とても楽しそうですね。{wait}{clear}でも、ルディと一緒にいる、その象は？{wait}{clear}		
+loev19.0096	こんにちは、ルディ。{n}なんだか、とても楽しそうですね。{wait}{clear}でも、ルディと一緒にいる、その象は？{wait}{clear}	Hello, Rudi. You seem to be having a lot of{n}fun.{wait}{clear}But that elephant with you, Rudi...?{wait}{clear}	
 loev19.00F8	ルディエール	Rudiere	speaker
-loev19.0108	ん？　＄＄＄＄＄＄か。{n}こいつは、おれの幼なじみのセネカさ。{wait}{clear}		
+loev19.0108	ん？　＄＄＄＄＄＄か。{n}こいつは、おれの幼なじみのセネカさ。{wait}{clear}	Hm? Oh, ＄＄＄＄＄＄. This is Seneca, my{n}childhood friend.{wait}{clear}	
 loev19.0148	セネカ	Seneca	speaker
-loev19.0156	パオー{wait}{clear}		
+loev19.0156	パオー{wait}{clear}	Pawooo!{wait}{clear}	
 loev19.0160	ＮＵＬＬ	NULL	speaker
-loev19.0170	《幼なじみ？》{n}		
-loev19.0186	《かわいいですね》{n}		
+loev19.0170	《幼なじみ？》{n}	Childhood friend?{n}	
+loev19.0186	《かわいいですね》{n}	How cute{n}	
 loev19.01A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.01B4	幼なじみ……ですか？{wait}{clear}		
+loev19.01B4	幼なじみ……ですか？{wait}{clear}	Your childhood... friend?{wait}{clear}	
 loev19.01CC	ルディエール	Rudiere	speaker
-loev19.01DC	そうさ。{wait}{clear}おれがこの王宮に来たときに{n}子象のセネカに会ったんだ。{wait}{clear}久しぶりにここに戻ったんだし、{n}あんまり暑いから一緒に水浴びしてんのさ。{wait}{clear}ほら、セネカ{n}＄＄＄＄＄＄にも水かけてやれよ。{wait}{clear}		
+loev19.01DC	そうさ。{wait}{clear}おれがこの王宮に来たときに{n}子象のセネカに会ったんだ。{wait}{clear}久しぶりにここに戻ったんだし、{n}あんまり暑いから一緒に水浴びしてんのさ。{wait}{clear}ほら、セネカ{n}＄＄＄＄＄＄にも水かけてやれよ。{wait}{clear}	That's right.{wait}{clear}I met Seneca when she was a calf, back when{n}I came to live at this palace.{wait}{clear}It's been a while since I came back here,{n}and it's so hot that we're bathing together.{wait}{clear}Come on, Seneca, splash ＄＄＄＄＄＄ too.{wait}{clear}	
 loev19.02A0	セネカ	Seneca	speaker
-loev19.02AE	パオー！{wait}{clear}		
+loev19.02AE	パオー！{wait}{clear}	Pawooo!{wait}{clear}	
 loev19.02C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.02D2	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}		
+loev19.02D2	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}	W-wait... don't...! Eek!!{wait}{clear}	
 loev19.0300	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.0310	ちょ、ちょっと……それは！{n}うわっ！！{wait}{clear}		
+loev19.0310	ちょ、ちょっと……それは！{n}うわっ！！{wait}{clear}	W-wait... don't...! Whoa!!{wait}{clear}	
 loev19.033E	ルディエール	Rudiere	speaker
-loev19.034E	アハハハッ……！{wait}{clear}		
+loev19.034E	アハハハッ……！{wait}{clear}	Ahahaha...!{wait}{clear}	
 loev19.0366	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.0376	とても、かわいいですね。{wait}{clear}		
+loev19.0376	とても、かわいいですね。{wait}{clear}	She's very cute.{wait}{clear}	
 loev19.0392	ルディエール	Rudiere	speaker
-loev19.03A2	かわいい？{n}ほめられたぞ、セネカ。{wait}{clear}なんか言ってやれよ。{wait}{clear}		
+loev19.03A2	かわいい？{n}ほめられたぞ、セネカ。{wait}{clear}なんか言ってやれよ。{wait}{clear}	Cute? You got a compliment, Seneca.{wait}{clear}Say something back.{wait}{clear}	
 loev19.03E0	セネカ	Seneca	speaker
-loev19.03EE	パオパオパオー{wait}{clear}		
+loev19.03EE	パオパオパオー{wait}{clear}	Pa-pa-pawooo!{wait}{clear}	
 loev19.0400	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0410	え？{wait}{clear}	What?{wait}{clear}	
 loev19.0418	ルディエール	Rudiere	speaker
-loev19.0428	ハハハ、{n}「あたりまえだ」だってさ。{wait}{clear}		
+loev19.0428	ハハハ、{n}「あたりまえだ」だってさ。{wait}{clear}	Ha ha ha, she says "Well, obviously."{wait}{clear}	
 loev19.0450	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev19.0460	…………。{wait}{clear}	.........{wait}{clear}	
 loev19.046E	ルディエール	Rudiere	speaker
-loev19.047E	こいつ、口が悪いんだ。{n}言い忘れてた。{wait}{clear}		
+loev19.047E	こいつ、口が悪いんだ。{n}言い忘れてた。{wait}{clear}	She's got a mouth on her. Forgot to mention.{wait}{clear}	
 loev19.04A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.04B8	口が悪いって……？{wait}{clear}		
+loev19.04B8	口が悪いって……？{wait}{clear}	A mouth on her...?{wait}{clear}	
 loev19.04CE	ルディエール	Rudiere	speaker
-loev19.04DE	さ、セネカ。{n}ほめてもらったお礼に{n}＄＄＄＄＄＄も涼しくしてやれよ！{wait}{clear}ほらっ！{wait}{clear}		
+loev19.04DE	さ、セネカ。{n}ほめてもらったお礼に{n}＄＄＄＄＄＄も涼しくしてやれよ！{wait}{clear}ほらっ！{wait}{clear}	Come on, Seneca. To thank ＄＄＄＄＄＄ for{n}the compliment, cool them off too!{wait}{clear}There!{wait}{clear}	
 loev19.0532	セネカ	Seneca	speaker
-loev19.0540	パオー！{wait}{clear}		
+loev19.0540	パオー！{wait}{clear}	Pawooo!{wait}{clear}	
 loev19.0554	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.0564	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}		
+loev19.0564	ちょ、ちょっと……それは！{n}きゃっ！！{wait}{clear}	W-wait... don't...! Eek!!{wait}{clear}	
 loev19.0592	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev19.05A2	ちょ、ちょっと……それは！{n}うわっ！！{wait}{clear}		
+loev19.05A2	ちょ、ちょっと……それは！{n}うわっ！！{wait}{clear}	W-wait... don't...! Whoa!!{wait}{clear}	
 loev19.05D0	ルディエール	Rudiere	speaker
-loev19.05E0	アハハハッ……！{wait}{clear}		
+loev19.05E0	アハハハッ……！{wait}{clear}	Ahahaha...!{wait}{clear}	

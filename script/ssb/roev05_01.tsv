@@ -6,7 +6,7 @@ roev05_01.00B6	ＮＵＬＬ	NULL	speaker
 roev05_01.00C6	《ええ、かまいません。》{n}	Yes, that's fine.{n}	
 roev05_01.00E6	《ちょっと、いまは……》{n}		
 roev05_01.010C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.011C	ええ、かまいませんよ。{wait}{clear}		
+roev05_01.011C	ええ、かまいませんよ。{wait}{clear}	Yes, I don't mind at all.{wait}{clear}	
 roev05_01.0136	ロクス	Rocus	speaker
 roev05_01.0140	すまないな……。{wait}{clear}副教皇がなにか話があるらしい。{n}面倒だがしかたない。{wait}{clear}		
 roev05_01.0192	ＮＵＬＬ	NULL	speaker

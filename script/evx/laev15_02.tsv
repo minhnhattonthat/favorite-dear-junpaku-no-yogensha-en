@@ -6,7 +6,7 @@ laev15_02.011A	イオン	Ion	unit name (32-byte field)
 laev15_02.04D8	レイラ	Leyla	speaker
 laev15_02.04ED	あなたは！		text
 laev15_02.051A	イオン	Ion	speaker
-laev15_02.052F	…………。		text
+laev15_02.052F	…………。	.....	text
 laev15_02.05E8	レイラ	Leyla	speaker
 laev15_02.05FD	聖母様！		text
 laev15_02.0634	聖母	Holy Mother	speaker

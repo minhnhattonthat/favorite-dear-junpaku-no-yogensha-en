@@ -22,9 +22,9 @@ BTL_EVT6.0430	て、テイコクが……ググ……。
 BTL_EVT6.0450S	セシア	Cecia	speaker
 BTL_EVT6.0457	帝国？{n}まさか……帝国が魔物を利用しているの？{wait}{clear}こんなところまで帝国の魔物が入り込むなんて……{n}聖母様のお力が……。		
 BTL_EVT6.04D1S	ファントム		speaker
-BTL_EVT6.04DC	…………。		
+BTL_EVT6.04DC	…………。	.....	
 BTL_EVT6.04EAS	ファントム		speaker
-BTL_EVT6.04F5	…………。		
+BTL_EVT6.04F5	…………。	.....	
 BTL_EVT6.0527S	イオン	Ion	speaker
 BTL_EVT6.052E	ぼくの邪魔をするから……。		
 BTL_EVT6.054CS	イオン	Ion	speaker
@@ -58,7 +58,7 @@ BTL_EVT6.08B0	レイラという帝国騎士に会ったら、{n}彼女の部下
 BTL_EVT6.090ES	カイゼル		speaker
 BTL_EVT6.0917	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT6.0943S	カイゼル		speaker
-BTL_EVT6.094C	…………。		
+BTL_EVT6.094C	…………。	.....	
 BTL_EVT6.097ES	アルベリック	Alberic	speaker
 BTL_EVT6.098B	天使の勇者か……		
 BTL_EVT6.099FS	アルベリック	Alberic	speaker
@@ -100,7 +100,7 @@ BTL_EVT6.0D77	てめえ、やっちまうぞ。
 BTL_EVT6.0D91S	セシア	Cecia	speaker
 BTL_EVT6.0D98	そんな脅し、私には通用しません！		
 BTL_EVT6.0DBCS	セシア	Cecia	speaker
-BTL_EVT6.0DC3	…………。		
+BTL_EVT6.0DC3	…………。	.....	
 BTL_EVT6.0DD1S	盗賊		speaker
 BTL_EVT6.0DD6	はん！　オレたちにかなうわけねえんだよ！		
 BTL_EVT6.0E02S	盗賊		speaker
@@ -120,7 +120,7 @@ BTL_EVT6.0F3B	ヴヴヴ……。
 BTL_EVT6.0F4BS	セシア	Cecia	speaker
 BTL_EVT6.0F52	あなたたち、静かに眠りなさい！！		
 BTL_EVT6.0F76S	セシア	Cecia	speaker
-BTL_EVT6.0F7D	…………。		
+BTL_EVT6.0F7D	…………。	.....	
 BTL_EVT6.0F8BS	ゾンビ		speaker
 BTL_EVT6.0F92	ウウヴッッ……。		
 BTL_EVT6.0FA6S	ゾンビ		speaker
@@ -614,7 +614,7 @@ BTL_EVT6.484A	村の人たちの命を狙うなら、{n}私が許しません！
 BTL_EVT6.487AS	ノスフェラトゥ		speaker
 BTL_EVT6.4889	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
 BTL_EVT6.48E1S	セシア	Cecia	speaker
-BTL_EVT6.48E8	…………。		
+BTL_EVT6.48E8	…………。	.....	
 BTL_EVT6.48F6S	ノスフェラトゥ		speaker
 BTL_EVT6.4905	人間はすべて我らにひざまずくがいい！		
 BTL_EVT6.492DS	ノスフェラトゥ		speaker
@@ -782,9 +782,9 @@ BTL_EVT6.5E34	逃げていきおったわ！
 BTL_EVT6.5EB8S	セシア	Cecia	speaker
 BTL_EVT6.5EBF	…………。{wait}{clear}こんなことって……。		
 BTL_EVT6.5EE5S	クライヴ	Clive	speaker
-BTL_EVT6.5EEE	…………。		
+BTL_EVT6.5EEE	…………。	.....	
 BTL_EVT6.5EFCS	クライヴ	Clive	speaker
-BTL_EVT6.5F05	…………。		
+BTL_EVT6.5F05	…………。	.....	
 BTL_EVT6.5F5BS	セシア	Cecia	speaker
 BTL_EVT6.5F62	これじゃ、いくら戦ってもキリが……。		
 BTL_EVT6.5F8AS	セシア	Cecia	speaker

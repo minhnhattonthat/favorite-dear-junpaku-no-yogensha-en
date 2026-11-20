@@ -1,27 +1,27 @@
 id	jp	en	notes
 loev11.0054	ルディエール	Rudiere	speaker
 loev11.0064	母さん……。{wait}{clear}	Mom...{wait}{clear}	
-loev11.0074	ルディの母		speaker
-loev11.0082	ユーグの……{n}いえ、王のことはしかたのないことです。{n}ルディ。{wait}{clear}とても悲しいのは私もあなたと同じです。{wait}{clear}ですが、常にこういう事が起こるかもしれないと{n}私は覚悟していました。{wait}{clear}		
+loev11.0074	ルディの母	Rudi's Mom	speaker
+loev11.0082	ユーグの……{n}いえ、王のことはしかたのないことです。{n}ルディ。{wait}{clear}とても悲しいのは私もあなたと同じです。{wait}{clear}ですが、常にこういう事が起こるかもしれないと{n}私は覚悟していました。{wait}{clear}	What happened to Hugues... no, to the king,{n}could not be helped, Rudi.{wait}{clear}I am just as grief-stricken as you are.{wait}{clear}But I had always been prepared for something{n}like this to happen.{wait}{clear}	
 loev11.0136	ルディエール	Rudiere	speaker
-loev11.0146	おれは……しかたないなんて思えない。{n}誰かが兄さんを陥れたんだし、{n}何かの理由で死んだんだ……。{wait}{clear}		
-loev11.01AA	ルディの母		speaker
-loev11.01B8	それは、確かにルディの言う通りだと思います……。{wait}{clear}しかし、王道を行くということは{n}常に困難と危険がつきまとうものなのです。{wait}{clear}進む道が正しく、志が高ければ{n}障害も多く立ちはだかります。{wait}{clear}それでも前へと進み続けることが王の……{n}国を率いる者として、{n}最初から覚悟しなければならないことです。{wait}{clear}王の死はその中で起きたことです。{n}志半ばであったとしても、{n}その意志は残ったと信じています……。{wait}{clear}		
+loev11.0146	おれは……しかたないなんて思えない。{n}誰かが兄さんを陥れたんだし、{n}何かの理由で死んだんだ……。{wait}{clear}	I... can't think of it as something that{n}couldn't be helped. Someone set my brother{n}up, and he died for some reason...{wait}{clear}	
+loev11.01AA	ルディの母	Rudi's Mom	speaker
+loev11.01B8	それは、確かにルディの言う通りだと思います……。{wait}{clear}しかし、王道を行くということは{n}常に困難と危険がつきまとうものなのです。{wait}{clear}進む道が正しく、志が高ければ{n}障害も多く立ちはだかります。{wait}{clear}それでも前へと進み続けることが王の……{n}国を率いる者として、{n}最初から覚悟しなければならないことです。{wait}{clear}王の死はその中で起きたことです。{n}志半ばであったとしても、{n}その意志は残ったと信じています……。{wait}{clear}	You are certainly right about that, Rudi...{wait}{clear}But walking the path of a true king always{n}brings hardship and danger with it.{wait}{clear}The more just the path and the higher the{n}ideals, the more obstacles stand in the way.{wait}{clear}To keep moving forward regardless is what a{n}king... one who leads a nation, must be{n}resolved to from the start.{wait}{clear}The king's death came about on that path.{n}Even if he fell short of his goals, I{n}believe his will lives on...{wait}{clear}	
 loev11.0344	ルディエール	Rudiere	speaker
-loev11.0354	母さん……{wait}{clear}……おれは、これからどうしたらいいと思う？{wait}{clear}		
-loev11.0390	ルディの母		speaker
-loev11.039E	ルディ……{n}あなたはもう立派な青年です。{wait}{clear}ユーグもよくそう話していました。{wait}{clear}これからも、自分の信じることをなさい。{n}きっとそれが最善であるはずです。{wait}{clear}		
+loev11.0354	母さん……{wait}{clear}……おれは、これからどうしたらいいと思う？{wait}{clear}	Mom...{wait}{clear}...What do you think I should do now?{wait}{clear}	
+loev11.0390	ルディの母	Rudi's Mom	speaker
+loev11.039E	ルディ……{n}あなたはもう立派な青年です。{wait}{clear}ユーグもよくそう話していました。{wait}{clear}これからも、自分の信じることをなさい。{n}きっとそれが最善であるはずです。{wait}{clear}	Rudi... you are a fine young man now.{wait}{clear}Hugues often said so too.{wait}{clear}Keep doing what you believe in. I am sure{n}that will be for the best.{wait}{clear}	
 loev11.043A	ルディエール	Rudiere	speaker
-loev11.044A	信じること……{wait}{clear}		
-loev11.045C	ルディの母		speaker
-loev11.046A	ええ……。あなたが兄の跡を継ごうと継ぐまいと{n}私はかまいません。{wait}{clear}あなたには、{n}あなたにしかできないことがあるはずです。{wait}{clear}あなたはあなたらしく、生きていくことを{n}ユーグもきっと望んでいると思いますよ。{wait}{clear}		
+loev11.044A	信じること……{wait}{clear}	What I believe in...{wait}{clear}	
+loev11.045C	ルディの母	Rudi's Mom	speaker
+loev11.046A	ええ……。あなたが兄の跡を継ごうと継ぐまいと{n}私はかまいません。{wait}{clear}あなたには、{n}あなたにしかできないことがあるはずです。{wait}{clear}あなたはあなたらしく、生きていくことを{n}ユーグもきっと望んでいると思いますよ。{wait}{clear}	Yes... Whether or not you succeed your{n}brother, I don't mind.{wait}{clear}There must be things that only you can do.{wait}{clear}I'm sure Hugues would want you to live your{n}life as yourself.{wait}{clear}	
 loev11.053A	ルディエール	Rudiere	speaker
-loev11.054A	母さん……おれ……{n}{wait}{clear}		
-loev11.0562	ルディの母		speaker
-loev11.0570	ルディ、そういつまでも沈んでいては{n}ユーグが悲しみますよ。{wait}{clear}		
+loev11.054A	母さん……おれ……{n}{wait}{clear}	Mom... I...{n}{wait}{clear}	
+loev11.0562	ルディの母	Rudi's Mom	speaker
+loev11.0570	ルディ、そういつまでも沈んでいては{n}ユーグが悲しみますよ。{wait}{clear}	Rudi, if you stay so downhearted forever,{n}Hugues will be sad.{wait}{clear}	
 loev11.05AE	ルディエール	Rudiere	speaker
-loev11.05BE	兄さんが……悲しむ……{n}そうだよな……{wait}{clear}おれは兄さんの夢をいままでたくさん聞いていた。{n}国をどうしたいか……どうすべきか……{wait}{clear}自分にどこまでできるかわからないけど{n}兄さんの遺志を継ぎたい……。{wait}{clear}		
-loev11.0686	ルディの母		speaker
-loev11.0694	あなたが心から兄さんのことを想うのなら、{n}きっとユーグもよろこびますよ。{wait}{clear}私はいつでもあなたを見守っています、ルディ。{wait}{clear}		
+loev11.05BE	兄さんが……悲しむ……{n}そうだよな……{wait}{clear}おれは兄さんの夢をいままでたくさん聞いていた。{n}国をどうしたいか……どうすべきか……{wait}{clear}自分にどこまでできるかわからないけど{n}兄さんの遺志を継ぎたい……。{wait}{clear}	My brother... would be sad... Yeah, you're{n}right...{wait}{clear}I listened to so many of my brother's{n}dreams. What he wanted for the country...{n}what it should be...{wait}{clear}I don't know how much I can do, but I want{n}to carry on my brother's will...{wait}{clear}	
+loev11.0686	ルディの母	Rudi's Mom	speaker
+loev11.0694	あなたが心から兄さんのことを想うのなら、{n}きっとユーグもよろこびますよ。{wait}{clear}私はいつでもあなたを見守っています、ルディ。{wait}{clear}	If you truly cherish your brother in your{n}heart, I'm sure Hugues will be glad.{wait}{clear}I will always be watching over you, Rudi.{wait}{clear}	
 loev11.0710	ルディエール	Rudiere	speaker
-loev11.0720	ありがとう、母さん……。{wait}{clear}		
+loev11.0720	ありがとう、母さん……。{wait}{clear}	Thanks, Mom...{wait}{clear}	

@@ -3,7 +3,7 @@ ceev20b.0002	セレニスとの戦い		dev label (guess: not shown)
 ceev20b.00A2	セシア	Cecia	unit name (32-byte field)
 ceev20b.00DE	セレニス	Serenis	unit name (32-byte field)
 ceev20b.011A	魔法		unit name (32-byte field)
-ceev20b.0156	エンディミオン		unit name (32-byte field)
+ceev20b.0156	エンディミオン	Endymion	unit name (32-byte field)
 ceev20b.0192	魔石（初期）		unit name (32-byte field)
 ceev20b.01CE	魔石（点滅）		unit name (32-byte field)
 ceev20b.020A	魔石（赤）		unit name (32-byte field)
@@ -23,10 +23,10 @@ ceev20b.071F	そこでじっとしていなさい。{n}天使の勇者よ。		te
 ceev20b.0758	偉大な力がよみがえるのを見せてあげるわ。		text
 ceev20b.07B3	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 ceev20b.07FA	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-ceev20b.08AF	エンディミオン		speaker
+ceev20b.08AF	エンディミオン	Endymion	speaker
 ceev20b.08CC	セレニス……お前はなにを……。		text
 ceev20b.0909	セレニス	Serenis	speaker
 ceev20b.0920	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 ceev20b.0989	さあ……始めましょう……。		text
-ceev20b.0A3E	エンディミオン		speaker
+ceev20b.0A3E	エンディミオン	Endymion	speaker
 ceev20b.0A5B	ああ……。		text

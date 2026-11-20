@@ -1,23 +1,23 @@
 id	jp	en	notes
 loev12.0054	ルディエール	Rudiere	speaker
-loev12.0064	そんな、ばかな……。{n}それは本当なのか？{wait}{clear}		
-loev12.0090	貴族		speaker
-loev12.0098	ええ。{n}どなたかがこの王宮に招き入れた娘が、{n}王の死後消えました……。{wait}{clear}これは事件に関与していたからに違いないでしょう。{wait}{clear}		
+loev12.0064	そんな、ばかな……。{n}それは本当なのか？{wait}{clear}	No, that's crazy... Is that really true?{wait}{clear}	
+loev12.0090	貴族	Noble	speaker
+loev12.0098	ええ。{n}どなたかがこの王宮に招き入れた娘が、{n}王の死後消えました……。{wait}{clear}これは事件に関与していたからに違いないでしょう。{wait}{clear}	Yes. A girl whom someone invited into the{n}palace vanished after the king's death...{wait}{clear}She must surely have been involved in the{n}crime.{wait}{clear}	
 loev12.0116	ルディエール	Rudiere	speaker
-loev12.0126	まさか……。{wait}{clear}		
-loev12.0136	貴族		speaker
-loev12.013E	まあ、ルディエール様の意図を{n}ここで追求するつもりはありません。{wait}{clear}しかし、犯行を行った者が見つかるまで、{n}我々はあなたに従うことはできません。{wait}{clear}		
+loev12.0126	まさか……。{wait}{clear}	It can't be...{wait}{clear}	
+loev12.0136	貴族	Noble	speaker
+loev12.013E	まあ、ルディエール様の意図を{n}ここで追求するつもりはありません。{wait}{clear}しかし、犯行を行った者が見つかるまで、{n}我々はあなたに従うことはできません。{wait}{clear}	Well, I have no intention of questioning{n}your motives here, Lord Rudiere.{wait}{clear}However, until the culprit is found, we{n}cannot follow you.{wait}{clear}	
 loev12.01D2	ルディエール	Rudiere	speaker
-loev12.01E2	待って欲しい。{n}自分の嫌疑がはれるまで王位を継げないことは{n}認める……。{wait}{clear}だが、帝国の脅威は現実なんだ……。{n}ここは協力して、備えをしておかなければ……{wait}{clear}		
-loev12.0280	貴族		speaker
-loev12.0288	わかりました。ルディエール様。{n}たしかに先王もよくそう言っていましたな。{wait}{clear}しかし、あんな遠方の国家の脅威を語るより、{n}我々にはやることがたくさんあるのです。{wait}{clear}まだ、あなたはお若い、{n}今はあせらず、私たちにおまかせください。{wait}{clear}		
+loev12.01E2	待って欲しい。{n}自分の嫌疑がはれるまで王位を継げないことは{n}認める……。{wait}{clear}だが、帝国の脅威は現実なんだ……。{n}ここは協力して、備えをしておかなければ……{wait}{clear}	Wait. I accept that I can't take the throne{n}until I'm cleared of suspicion...{wait}{clear}But the threat from the Empire is real... We{n}have to work together and prepare...{wait}{clear}	
+loev12.0280	貴族	Noble	speaker
+loev12.0288	わかりました。ルディエール様。{n}たしかに先王もよくそう言っていましたな。{wait}{clear}しかし、あんな遠方の国家の脅威を語るより、{n}我々にはやることがたくさんあるのです。{wait}{clear}まだ、あなたはお若い、{n}今はあせらず、私たちにおまかせください。{wait}{clear}	I understand, Lord Rudiere. Indeed, the late{n}king often said the same.{wait}{clear}But rather than talk of threats from some{n}distant nation, we have a great deal to do.{wait}{clear}You are still young. Don't be hasty; leave{n}matters to us for now.{wait}{clear}	
 loev12.036E	ルディエール	Rudiere	speaker
-loev12.037E	……自分の意見に同意してくれる者はいないのか？{wait}{clear}		
-loev12.03B0	貴族		speaker
-loev12.03B8	……おりませんな。残念ながら。{wait}{clear}		
+loev12.037E	……自分の意見に同意してくれる者はいないのか？{wait}{clear}	...Is there no one who agrees with me?{wait}{clear}	
+loev12.03B0	貴族	Noble	speaker
+loev12.03B8	……おりませんな。残念ながら。{wait}{clear}	...There is not, I'm afraid.{wait}{clear}	
 loev12.03DA	ルディエール	Rudiere	speaker
-loev12.03EA	…………。{wait}{clear}自分はどうすればいい……。{wait}{clear}		
-loev12.0416	貴族		speaker
-loev12.041E	ルディエール様が王位を継ぐべきか、{n}我々が寡頭制をしくべきか{n}すでに答えは出ております。{wait}{clear}今まで通り、好きになさればいい。{wait}{clear}		
+loev12.03EA	…………。{wait}{clear}自分はどうすればいい……。{wait}{clear}	.....{wait}{clear}What am I supposed to do...{wait}{clear}	
+loev12.0416	貴族	Noble	speaker
+loev12.041E	ルディエール様が王位を継ぐべきか、{n}我々が寡頭制をしくべきか{n}すでに答えは出ております。{wait}{clear}今まで通り、好きになさればいい。{wait}{clear}	Whether you should take the throne, Lord{n}Rudiere, or we should form a council of{n}nobles, the answer is already clear.{wait}{clear}Do as you please, as you always have.{wait}{clear}	
 loev12.049E	ルディエール	Rudiere	speaker
 loev12.04AE	…………。{wait}{clear}	.........{wait}{clear}	

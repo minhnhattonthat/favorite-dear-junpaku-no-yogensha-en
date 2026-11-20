@@ -1,13 +1,13 @@
 id	jp	en	notes
 men2_Ei01.0052	アイリーン	Irene	speaker
-men2_Ei01.0060	ごめん、急に呼んで。{wait}{clear}		
+men2_Ei01.0060	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men2_Ei01.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.0088	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}		
+men2_Ei01.0088	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}	No, please don't worry about that. By the{n}way, has something happened?{wait}{clear}	
 men2_Ei01.00DE	アイリーン	Irene	speaker
 men2_Ei01.00EC	ううん、違う……そんなことじゃないの。{n}ただ、ちょっと話したいと思っただけ……。{wait}{clear}		
 men2_Ei01.0140	ＮＵＬＬ	NULL	speaker
 men2_Ei01.0150	《アイリーンも……。》{n}		
-men2_Ei01.016E	《そうだったのですね。》{n}		
+men2_Ei01.016E	《そうだったのですね。》{n}	So that was it.{n}	
 men2_Ei01.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.019E	アイリーンも、{n}私に会いたいと思っていてくれたんですね。{wait}{clear}		
 men2_Ei01.01DA	アイリーン	Irene	speaker

@@ -1,47 +1,47 @@
 id	jp	en	notes
-loev06.004E	ユーグ		speaker
-loev06.0058	無事に戻ったか、ルディ。{wait}{clear}		
+loev06.004E	ユーグ	Hugues	speaker
+loev06.0058	無事に戻ったか、ルディ。{wait}{clear}	You made it back safely, Rudi.{wait}{clear}	
 loev06.0074	ルディエール	Rudiere	speaker
-loev06.0084	ああ、別に平気さ。{wait}{clear}		
-loev06.009A	ユーグ		speaker
-loev06.00A4	で、帝国と皇帝の様子はどうだった？{wait}{clear}		
+loev06.0084	ああ、別に平気さ。{wait}{clear}	Yeah, it was no big deal.{wait}{clear}	
+loev06.009A	ユーグ	Hugues	speaker
+loev06.00A4	で、帝国と皇帝の様子はどうだった？{wait}{clear}	So, how were the Empire and the emperor?{wait}{clear}	
 loev06.00CA	ルディエール	Rudiere	speaker
-loev06.00DA	皇帝と話した印象だけど……{wait}{clear}彼があの伝説の紅月王の生まれ変わりというのは{n}人々を従わせるための嘘だと感じた……。{wait}{clear}今の帝国は皇帝でなく宰相が操ってると思う。{wait}{clear}クロイツフェルドという男で、{n}なにか腹黒いことを考えているようだった。{wait}{clear}きっと伝説を利用して{n}自分の欲望を果たそうとしているに違いない。{wait}{clear}		
-loev06.020C	ユーグ		speaker
-loev06.0216	そうか……。{n}帝国の脅威は事実だったわけだな。{wait}{clear}		
+loev06.00DA	皇帝と話した印象だけど……{wait}{clear}彼があの伝説の紅月王の生まれ変わりというのは{n}人々を従わせるための嘘だと感じた……。{wait}{clear}今の帝国は皇帝でなく宰相が操ってると思う。{wait}{clear}クロイツフェルドという男で、{n}なにか腹黒いことを考えているようだった。{wait}{clear}きっと伝説を利用して{n}自分の欲望を果たそうとしているに違いない。{wait}{clear}	This is just my impression from talking with{n}the emperor, but...{wait}{clear}I felt that him being the reincarnation of{n}the legendary Crimson Moon King is a lie to{n}make the people obey...{wait}{clear}I think it's the chancellor, not the{n}emperor, who's running the Empire now.{wait}{clear}A man named Kreutzfeld. He seemed to be{n}plotting something dark.{wait}{clear}He's got to be using the legend to get what{n}he wants.{wait}{clear}	
+loev06.020C	ユーグ	Hugues	speaker
+loev06.0216	そうか……。{n}帝国の脅威は事実だったわけだな。{wait}{clear}	I see... So the Empire's threat is real.{wait}{clear}	
 loev06.0248	ルディエール	Rudiere	speaker
-loev06.0258	そう思う。{n}あの男は何をしでかすかわからないよ。{wait}{clear}		
-loev06.028C	ユーグ		speaker
-loev06.0296	しかし……{n}現状では、帝国の侵攻の危機を訴えるのは{n}難しいな……。{wait}{clear}		
+loev06.0258	そう思う。{n}あの男は何をしでかすかわからないよ。{wait}{clear}	I think so. There's no telling what that man{n}will do.{wait}{clear}	
+loev06.028C	ユーグ	Hugues	speaker
+loev06.0296	しかし……{n}現状では、帝国の侵攻の危機を訴えるのは{n}難しいな……。{wait}{clear}	But... as things stand, it will be hard to{n}warn of an imperial invasion...{wait}{clear}	
 loev06.02DC	ルディエール	Rudiere	speaker
-loev06.02EC	どうして？{wait}{clear}		
-loev06.02FA	ユーグ		speaker
-loev06.0304	大貴族たちがな……{n}国外のことになど、興味のない連中だ。{wait}{clear}自国の、いや自分の権益だけを守ろうと{n}きゅうきゅうとしている。{wait}{clear}泣き言のように聞こえるかもしれんが、{n}今のやつらには少し手を焼いているんだ……。{wait}{clear}だが、こんなことを言うのは俺の主義じゃないな。{wait}{clear}なんとかするさ……。{wait}{clear}いずれ、俺は今のような{n}貴族たちの思惑にからめられた王としてでなく、{n}自分の王道をつらぬけるようにする。{wait}{clear}そのときはルディ、お前の協力が必要だ……。{n}頼りにしているぞ。{wait}{clear}		
+loev06.02EC	どうして？{wait}{clear}	Why?{wait}{clear}	
+loev06.02FA	ユーグ	Hugues	speaker
+loev06.0304	大貴族たちがな……{n}国外のことになど、興味のない連中だ。{wait}{clear}自国の、いや自分の権益だけを守ろうと{n}きゅうきゅうとしている。{wait}{clear}泣き言のように聞こえるかもしれんが、{n}今のやつらには少し手を焼いているんだ……。{wait}{clear}だが、こんなことを言うのは俺の主義じゃないな。{wait}{clear}なんとかするさ……。{wait}{clear}いずれ、俺は今のような{n}貴族たちの思惑にからめられた王としてでなく、{n}自分の王道をつらぬけるようにする。{wait}{clear}そのときはルディ、お前の協力が必要だ……。{n}頼りにしているぞ。{wait}{clear}	The great nobles... they have no interest in{n}anything beyond our borders.{wait}{clear}They're desperate to protect their own{n}country... no, their own interests and{n}nothing else.{wait}{clear}It may sound like whining, but they're{n}giving me some trouble these days...{wait}{clear}Still, complaining like this isn't my way.{wait}{clear}I'll manage somehow...{wait}{clear}Someday I'll be able to follow my own path{n}as king, not as one tangled up in the{n}nobles' schemes as I am now.{wait}{clear}When that day comes, Rudi, I'll need your{n}help... I'm counting on you.{wait}{clear}	
 loev06.04CE	ルディエール	Rudiere	speaker
-loev06.04DE	ああ、協力するよ、必ず。{wait}{clear}		
-loev06.04FA	ユーグ		speaker
-loev06.0504	そうだ、母さんがお前に会いたがっていたぞ。{wait}{clear}顔が見られなくて心配しているようだ。{n}時間があったら寄っていってくれ。{wait}{clear}		
+loev06.04DE	ああ、協力するよ、必ず。{wait}{clear}	Yeah, I'll help. I promise.{wait}{clear}	
+loev06.04FA	ユーグ	Hugues	speaker
+loev06.0504	そうだ、母さんがお前に会いたがっていたぞ。{wait}{clear}顔が見られなくて心配しているようだ。{n}時間があったら寄っていってくれ。{wait}{clear}	Oh yes, Mother wanted to see you.{wait}{clear}She seems worried since she hasn't seen your{n}face. Stop by if you have the time.{wait}{clear}	
 loev06.057C	ルディエール	Rudiere	speaker
-loev06.058C	わかった。{wait}{clear}		
+loev06.058C	わかった。{wait}{clear}	Got it.{wait}{clear}	
 loev06.05B8	ルディエール	Rudiere	speaker
 loev06.05C8	ふう……。{wait}{clear}	Phew...{wait}{clear}	
 loev06.05D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev06.05E6	お疲れのようですね。{wait}{clear}		
+loev06.05E6	お疲れのようですね。{wait}{clear}	You seem tired.{wait}{clear}	
 loev06.060C	ルディエール	Rudiere	speaker
-loev06.061C	まあね。{n}どたばたとなれないことをやったからな。{wait}{clear}		
+loev06.061C	まあね。{n}どたばたとなれないことをやったからな。{wait}{clear}	Well, yeah. I was rushing around doing stuff{n}I'm not used to.{wait}{clear}	
 loev06.0650	ＮＵＬＬ	NULL	speaker
-loev06.0660	《また、依頼を……》{n}		
-loev06.067C	《心配ですか？》{n}		
+loev06.0660	《また、依頼を……》{n}	Take my requests again...{n}	
+loev06.067C	《心配ですか？》{n}	Are you worried?{n}	
 loev06.069E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev06.06AE	また、依頼を受けてくれますか？{wait}{clear}		
+loev06.06AE	また、依頼を受けてくれますか？{wait}{clear}	Will you take my requests again?{wait}{clear}	
 loev06.06E4	ルディエール	Rudiere	speaker
-loev06.06F4	ああ、心配するな。{n}約束どおり、またやるよ。{wait}{clear}		
-loev06.0732	今日ぐらい休ませてくれ。{wait}{clear}		
+loev06.06F4	ああ、心配するな。{n}約束どおり、またやるよ。{wait}{clear}	Yeah, don't worry. Like I promised, I'll get{n}back to it.{wait}{clear}	
+loev06.0732	今日ぐらい休ませてくれ。{wait}{clear}	Just let me rest today, at least.{wait}{clear}	
 loev06.0764	ルディエール	Rudiere	speaker
-loev06.0774	人使いが荒いな……{n}約束は約束だ。守るさ。{wait}{clear}ただ、今日ぐらい休ませてくれ。{wait}{clear}		
+loev06.0774	人使いが荒いな……{n}約束は約束だ。守るさ。{wait}{clear}ただ、今日ぐらい休ませてくれ。{wait}{clear}	You sure are a slave driver... A promise is{n}a promise. I'll keep it.{wait}{clear}Just let me rest today, at least.{wait}{clear}	
 loev06.07D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev06.07E4	心配なのですか？{wait}{clear}		
+loev06.07E4	心配なのですか？{wait}{clear}	Are you worried?{wait}{clear}	
 loev06.0806	ルディエール	Rudiere	speaker
-loev06.0816	なにがだ？{n}兄さんのことか？{wait}{clear}		
-loev06.0842	……心配ってわけじゃない。{n}ただ、珍しいからさ。{wait}{clear}あんな弱気な言葉、初めて聞いた。{wait}{clear}		
-loev06.08A6	たぶん、忙しくて参ってるんだろうけど。{n}きっと、兄さんなら切り抜けるさ……。{wait}{clear}		
+loev06.0816	なにがだ？{n}兄さんのことか？{wait}{clear}	About what? My brother?{wait}{clear}	
+loev06.0842	……心配ってわけじゃない。{n}ただ、珍しいからさ。{wait}{clear}あんな弱気な言葉、初めて聞いた。{wait}{clear}	...It's not that I'm worried. It's just{n}unusual.{wait}{clear}That's the first time I've heard him say{n}something so weak.{wait}{clear}	
+loev06.08A6	たぶん、忙しくて参ってるんだろうけど。{n}きっと、兄さんなら切り抜けるさ……。{wait}{clear}	He's probably just worn out from being so{n}busy. I'm sure my brother will pull{n}through...{wait}{clear}	

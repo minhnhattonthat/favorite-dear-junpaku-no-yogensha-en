@@ -3,7 +3,7 @@ roev21.0002	セレニスとの戦い		dev label (guess: not shown)
 roev21.00A2	ロクス	Rocus	unit name (32-byte field)
 roev21.00DE	セレニス	Serenis	unit name (32-byte field)
 roev21.011A	魔法		unit name (32-byte field)
-roev21.0156	エンディミオン		unit name (32-byte field)
+roev21.0156	エンディミオン	Endymion	unit name (32-byte field)
 roev21.0192	魔石（初期）		unit name (32-byte field)
 roev21.01CE	魔石（点滅）		unit name (32-byte field)
 roev21.020A	魔石（赤）		unit name (32-byte field)
@@ -20,10 +20,10 @@ roev21.06A8	そこでじっとしていなさい。{n}天使の勇者よ。		tex
 roev21.06E1	偉大な力がよみがえるのを見せてあげるわ。		text
 roev21.073C	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 roev21.0783	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-roev21.082C	エンディミオン		speaker
+roev21.082C	エンディミオン	Endymion	speaker
 roev21.0849	セレニス……お前はなにを……。		text
 roev21.0886	セレニス	Serenis	speaker
 roev21.089D	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 roev21.0906	さあ……始めましょう……。		text
-roev21.09BB	エンディミオン		speaker
+roev21.09BB	エンディミオン	Endymion	speaker
 roev21.09D8	ああ……。		text

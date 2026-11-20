@@ -5,7 +5,7 @@ clev13.00DE	聖母	Holy Mother	unit name (32-byte field)
 clev13.04D8	聖母	Holy Mother	speaker
 clev13.04EB	戦士よ、よくここまで来ました。		text
 clev13.0518	クライヴ	Clive	speaker
-clev13.052F	…………。		text
+clev13.052F	…………。	.....	text
 clev13.0548	聖母	Holy Mother	speaker
 clev13.055B	あなたは……{n}ヴァスティール……ですか？		text
 clev13.0592	クライヴ	Clive	speaker
@@ -14,7 +14,7 @@ clev13.05E2	聖母	Holy Mother	speaker
 clev13.05F5	そうですね……{n}そんなはずはありませんね……。		text
 clev13.0632	ですが、あなたは、あまりにも似ています……{n}ヴァスティールに……。		text
 clev13.0683	クライヴ	Clive	speaker
-clev13.069A	…………。		text
+clev13.069A	…………。	.....	text
 clev13.06B3	聖母	Holy Mother	speaker
 clev13.06C6	この場所へ入ることができるのは、{n}ごく限られたひとだけです。{n}たとえば、天使様に導かれた者のように……。		text
 clev13.073D	あなたは、どこから来たのですか？		text
@@ -47,13 +47,13 @@ clev13.0DB3	……ああ……。		text
 clev13.0DD0	聖母	Holy Mother	speaker
 clev13.0DE3	では、あなたも血の恐怖を感じているのですね……。		text
 clev13.0E22	クライヴ	Clive	speaker
-clev13.0E39	…………。		text
+clev13.0E39	…………。	.....	text
 clev13.0E52	聖母	Holy Mother	speaker
 clev13.0E65	あの頃、彼の気持ちがわからなかったように、{n}あなたのつらさをすべて理解することは{n}私にはできません。		text
 clev13.0ED8	ですが、どうかたえてください。{n}その血の狂気に屈してはいけません……。		text
 clev13.0F2D	あなたのことは、そこにいっしょにいらっしゃる{n}天使様が、必ず正しい方へと{n}導いてくださるでしょう……。		text
 clev13.0FA2	どうか……信じてください。		text
 clev13.0FCB	クライヴ	Clive	speaker
-clev13.0FE2	…………。		text
+clev13.0FE2	…………。	.....	text
 clev13.1047	聖母	Holy Mother	speaker
 clev13.105A	彼に天の祝福がありますように……。		text

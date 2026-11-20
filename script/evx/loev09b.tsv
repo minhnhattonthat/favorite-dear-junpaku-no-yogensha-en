@@ -1,17 +1,17 @@
 id	jp	en	notes
 loev09b.0002	密会		dev label (guess: not shown)
 loev09b.00A2	ルディ		unit name (32-byte field)
-loev09b.00DE	サヴィア		unit name (32-byte field)
+loev09b.00DE	サヴィア	Savia	unit name (32-byte field)
 loev09b.0554	ルディエール	Rudiere	speaker
 loev09b.056F	君は……あのときの？		text
-loev09b.0592	サヴィア		speaker
+loev09b.0592	サヴィア	Savia	speaker
 loev09b.05A9	ええ、無事に逃げられたのね、よかった。		text
 loev09b.05DE	あの時は名前も告げずに、ごめんなさい。{n}私は、サヴィア。{n}あなたは？		text
 loev09b.0631	ルディエール	Rudiere	speaker
 loev09b.064C	おれは、ルディ……ルディ・トライア……。{n}あのときは本当にありがとう、助かった。		text
 loev09b.06FB	ルディエール	Rudiere	speaker
 loev09b.0716	あれから君を探してたんだ、{n}礼を言いたくて……。		text
-loev09b.0755	サヴィア		speaker
+loev09b.0755	サヴィア	Savia	speaker
 loev09b.076C	あの……こんなことを頼むのは悪いけど、{n}そのことで助けて欲しいの。		text
 loev09b.07BD	ルディエール	Rudiere	speaker
 loev09b.07D8	え？　なにがあったんだ？		text
@@ -19,36 +19,36 @@ loev09b.07FF	私、あなたをつかまえた鎧の男たちに追われてる�
 loev09b.083E	ずっと逃げ回っていたのだけど、{n}もう、行く場所がなくて……。		text
 loev09b.0889	ルディエール	Rudiere	speaker
 loev09b.08A4	どうしてあの場所に君が……？		text
-loev09b.08CF	サヴィア		speaker
+loev09b.08CF	サヴィア	Savia	speaker
 loev09b.08E6	私は、あそこに出入りしていたの。{n}あそこは、あなたを襲った暗殺団のアジトで、{n}私の弟も仲間だったから……。		text
 loev09b.095F	彼らは東国の貧しい人間を集めて{n}金持ちの貴族たちを襲ったり{n}脅したりしている連中なの。		text
 loev09b.09C4	あの鎧の男が首領よ……。		text
 loev09b.09EB	ルディエール	Rudiere	speaker
 loev09b.0A06	そうなのか……。{n}それで、君もあいつらの仲間なのか？		text
-loev09b.0A49	サヴィア		speaker
+loev09b.0A49	サヴィア	Savia	speaker
 loev09b.0A60	そうじゃないわ……！{n}ただ、疑われてもしかたがないわね……。{n}でも、信じて。		text
 loev09b.0ABB	あなたを逃がしたことで、{n}あいつらから裏切り者扱いされてしまったわ……。{n}私は弟に会いに行っただけなのに……。		text
 loev09b.0B38	もう逃げ切れない……。		text
 loev09b.0B5D	ルディエール	Rudiere	speaker
 loev09b.0B78	おれのせいで……君がそんな目に……。		text
 loev09b.0BAB	そうだ、いい考えがある。{n}西へ逃げるんだ。		text
-loev09b.0BE4	サヴィア		speaker
+loev09b.0BE4	サヴィア	Savia	speaker
 loev09b.0BFB	え？		text
 loev09b.0C0E	ルディエール	Rudiere	speaker
 loev09b.0C29	王宮さ。{n}おれ、実は王家の特使みたいなことをしてるから、{n}少しだけど、自由がきくんだ。		text
-loev09b.0C8E	サヴィア		speaker
+loev09b.0C8E	サヴィア	Savia	speaker
 loev09b.0CA5	ルディ、あなたいったい……。		text
 loev09b.0CD0	ルディエール	Rudiere	speaker
 loev09b.0CEB	詳しい話はあとだ。{n}まずは、君の身を守らないとな。		text
 loev09b.0D2C	いますぐ手紙を書く。{n}それを持って、{n}王宮の誰にでもいいから見せるといい。		text
 loev09b.0D85	きっと、君を雇ってくれる。		text
 loev09b.0DAE	やつらも西方の大王宮までは追って来れないだろう？		text
-loev09b.0DED	サヴィア		speaker
+loev09b.0DED	サヴィア	Savia	speaker
 loev09b.0E04	でも、いいの？		text
 loev09b.0E21	ルディエール	Rudiere	speaker
 loev09b.0E3C	ああ、かまわないさ。{n}助けてもらったのはおれのほうなんだ。		text
 loev09b.0E85	今度は、おれが君を助ける番さ。		text
-loev09b.0EF6	サヴィア		speaker
+loev09b.0EF6	サヴィア	Savia	speaker
 loev09b.0F0D	ありがとう。ルディ。		text
 loev09b.0F30	ルディエール	Rudiere	speaker
 loev09b.0F4B	じゃあ、気をつけて。		text

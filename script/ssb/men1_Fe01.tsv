@@ -1,28 +1,28 @@
 id	jp	en	notes
 men1_Fe01.0052	フェイン	Fein	speaker
-men1_Fe01.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
+men1_Fe01.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sorry to call you out, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Fe01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe01.0092	ええ……{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
+men1_Fe01.0092	ええ……{n}妖精からなにか話があると聞いたのですが。{wait}{clear}	Yes... the fairy said you had something to{n}tell me.{wait}{clear}	
 men1_Fe01.00C8	フェイン	Fein	speaker
-men1_Fe01.00D4	いや……{n}実は天使としての君の心構えを知りたくて{n}呼んでもらったのだ。{wait}{clear}		
+men1_Fe01.00D4	いや……{n}実は天使としての君の心構えを知りたくて{n}呼んでもらったのだ。{wait}{clear}	Not exactly... In truth, I had you called{n}because I wanted to know your resolve as an{n}angel.{wait}{clear}	
 men1_Fe01.011E	ＮＵＬＬ	NULL	speaker
-men1_Fe01.012E	《そうだったのですか……。》{n}		
-men1_Fe01.0152	《これでなにかわかりましたか？》{n}		
+men1_Fe01.012E	《そうだったのですか……。》{n}	So that was it...{n}	
+men1_Fe01.0152	《これでなにかわかりましたか？》{n}	Did this tell you anything?{n}	
 men1_Fe01.017A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe01.018A	そうだったのですか……。{wait}{clear}やはり人間のフェインにとって、{n}天使という存在は異質なものなのでしょうか……。{wait}{clear}		
+men1_Fe01.018A	そうだったのですか……。{wait}{clear}やはり人間のフェインにとって、{n}天使という存在は異質なものなのでしょうか……。{wait}{clear}	So that was it...{wait}{clear}For a human like you, Fein, I suppose an{n}angel is something alien...{wait}{clear}	
 men1_Fe01.01F8	フェイン	Fein	speaker
-men1_Fe01.0204	いや……{n}確かに俺たちとは違うと思うが、{n}理解し合えると思っている。{wait}{clear}君の気持ちを疑うようなことをして、{n}すまなかった……。{wait}{clear}		
+men1_Fe01.0204	いや……{n}確かに俺たちとは違うと思うが、{n}理解し合えると思っている。{wait}{clear}君の気持ちを疑うようなことをして、{n}すまなかった……。{wait}{clear}	No... I do think you are different from us,{n}but I believe we can understand each other.{wait}{clear}I'm sorry for doubting your sincerity...{wait}{clear}	
 men1_Fe01.0286	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe01.0296	いいえ。{n}これでフェインに私たちのことが{n}少しでもわかってもらえたら、それでいいです。{wait}{clear}		
+men1_Fe01.0296	いいえ。{n}これでフェインに私たちのことが{n}少しでもわかってもらえたら、それでいいです。{wait}{clear}	Not at all. If this helps you understand us{n}even a little, Fein, that is enough.{wait}{clear}	
 men1_Fe01.02F0	フェイン	Fein	speaker
-men1_Fe01.02FC	そうか……。		
+men1_Fe01.02FC	そうか……。	I see...	
 men1_Fe01.030C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe01.031C	これでなにかわかってもらえましたか？{wait}{clear}		
+men1_Fe01.031C	これでなにかわかってもらえましたか？{wait}{clear}	Did this tell you anything?{wait}{clear}	
 men1_Fe01.0344	フェイン	Fein	speaker
-men1_Fe01.0350	気分を害させるようなことをして、すまなかった。{n}ただ、そういうふうに感情が表れるのを知って、{n}かえって安心した。{wait}{clear}		
+men1_Fe01.0350	気分を害させるようなことをして、すまなかった。{n}ただ、そういうふうに感情が表れるのを知って、{n}かえって安心した。{wait}{clear}	I'm sorry for offending you. But seeing your{n}feelings show like that actually puts me at{n}ease.{wait}{clear}	
 men1_Fe01.03C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.03D4	え？{wait}{clear}	What?{wait}{clear}	
 men1_Fe01.03DC	フェイン	Fein	speaker
-men1_Fe01.03E8	君も俺たちと気持ちは変わらないということが{n}はっきりわかったからな。{n}これからは、もっとお互いを理解し合えるだろう。{wait}{clear}		
+men1_Fe01.03E8	君も俺たちと気持ちは変わらないということが{n}はっきりわかったからな。{n}これからは、もっとお互いを理解し合えるだろう。{wait}{clear}	Now I know for certain that your heart is no{n}different from ours. From here on, we should{n}understand each other better.{wait}{clear}	
 men1_Fe01.0460	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe01.0470	そうですね……そう思っていただけるなら、{n}私もフェインに会いに来てよかったです。{wait}{clear}		
+men1_Fe01.0470	そうですね……そう思っていただけるなら、{n}私もフェインに会いに来てよかったです。{wait}{clear}	Yes... If you feel that way, then I'm glad I{n}came to see you, Fein.{wait}{clear}	

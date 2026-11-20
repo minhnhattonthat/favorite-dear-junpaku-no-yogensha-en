@@ -3,7 +3,7 @@ laev20c.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
 laev20c.00A2	レイラ	Leyla	unit name (32-byte field)
 laev20c.00DE	セレニス	Serenis	unit name (32-byte field)
 laev20c.011A	覚醒エンディミオン		unit name (32-byte field)
-laev20c.0156	エンディミオン		unit name (32-byte field)
+laev20c.0156	エンディミオン	Endymion	unit name (32-byte field)
 laev20c.0192	椅子		unit name (32-byte field)
 laev20c.01CE	魔石の台		unit name (32-byte field)
 laev20c.04AC	レイラ	Leyla	speaker

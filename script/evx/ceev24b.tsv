@@ -5,7 +5,7 @@ ceev24b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 ceev24b.011A	天竜		unit name (32-byte field)
 ceev24b.04A8	セシア	Cecia	speaker
 ceev24b.04BD	きゃあ…………		text
-ceev24b.04EA	エンディミオン		speaker
+ceev24b.04EA	エンディミオン	Endymion	speaker
 ceev24b.0507	どうだ、わかったか？		text
 ceev24b.053A	これが、支配者の力だ。		text
 ceev24b.056F	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
@@ -24,12 +24,12 @@ ceev24b.0921	《いいえ……》		choice
 ceev24b.0942	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev24b.095D	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
 ceev24b.09AC	どうか……彼女の魂を、{n}彼女の命を救ってください……		text
-ceev24b.09FF	エンディミオン		speaker
+ceev24b.09FF	エンディミオン	Endymion	speaker
 ceev24b.0A1C	ふふ、すばらしい。{n}いい心ばえだ……		text
 ceev24b.0A5F	では……この勇者を救ってやろう……。		text
 ceev24b.0AE6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev24b.0B01	セシア！！！		text
-ceev24b.0B2C	エンディミオン		speaker
+ceev24b.0B2C	エンディミオン	Endymion	speaker
 ceev24b.0B49	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
 ceev24b.0BA2	すべてを失ったその顔が見たかったのだ！		text
 ceev24b.0BE7	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
@@ -38,13 +38,13 @@ ceev24b.0C8D	死ね。		text
 ceev24b.0D02	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev24b.0D1D	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
 ceev24b.0D6E	彼女は天使の私を信じ、戦ってくれたのです。{n}彼女の魂も私の魂もあなた方に利用などさせません。		text
-ceev24b.0DE9	エンディミオン		speaker
+ceev24b.0DE9	エンディミオン	Endymion	speaker
 ceev24b.0E06	ふん、小賢しいことを……。		text
 ceev24b.0E3F	いいだろう。		text
 ceev24b.0E6A	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
 ceev24b.0EB3	男の声		speaker
 ceev24b.0EC8	待て、ベルゼバブ……		text
-ceev24b.0F23	エンディミオン		speaker
+ceev24b.0F23	エンディミオン	Endymion	speaker
 ceev24b.0F40	私の真の名を呼ぶとは……		text
 ceev24b.0F77	男の声		speaker
 ceev24b.0F8C	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text

@@ -30,9 +30,9 @@ BTL_EVT2.053A	お前たちが我々帝国軍にかなうはずなどない！{n}
 BTL_EVT2.05A2S	ルディ		speaker
 BTL_EVT2.05A9	気味の悪いやつだったな。		
 BTL_EVT2.05C5S	ファントム		speaker
-BTL_EVT2.05D0	…………。		
+BTL_EVT2.05D0	…………。	.....	
 BTL_EVT2.05DES	ファントム		speaker
-BTL_EVT2.05E9	…………。		
+BTL_EVT2.05E9	…………。	.....	
 BTL_EVT2.061BS	イオン	Ion	speaker
 BTL_EVT2.0622	ぼくの邪魔をするから……。		
 BTL_EVT2.0640S	イオン	Ion	speaker
@@ -66,7 +66,7 @@ BTL_EVT2.096C	レイラという帝国騎士に会ったら、{n}彼女の部下
 BTL_EVT2.09CAS	カイゼル		speaker
 BTL_EVT2.09D3	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT2.09FFS	カイゼル		speaker
-BTL_EVT2.0A08	…………。		
+BTL_EVT2.0A08	…………。	.....	
 BTL_EVT2.0A3AS	アルベリック	Alberic	speaker
 BTL_EVT2.0A47	天使の勇者か……		
 BTL_EVT2.0A5BS	アルベリック	Alberic	speaker
@@ -138,7 +138,7 @@ BTL_EVT2.1092	なんだ貴様は？
 BTL_EVT2.10A4S	ルディ		speaker
 BTL_EVT2.10AB	お前に名乗る名前なんてない！{n}行くぜ！		
 BTL_EVT2.10D5S	ルディ		speaker
-BTL_EVT2.10DC	…………。		
+BTL_EVT2.10DC	…………。	.....	
 BTL_EVT2.10EAS	吸血鬼		speaker
 BTL_EVT2.10F1	人間ごときが、我らにかなうはずなかろう！		
 BTL_EVT2.111DS	吸血鬼		speaker
@@ -728,7 +728,7 @@ BTL_EVT2.56C5	ぼくの邪魔をするから……。
 BTL_EVT2.5707S	ルディ		speaker
 BTL_EVT2.570E	クッ……なんてばか力だ……。		
 BTL_EVT2.5752S	ルディ		speaker
-BTL_EVT2.5759	…………。		
+BTL_EVT2.5759	…………。	.....	
 BTL_EVT2.5767S	サヴィオ		speaker
 BTL_EVT2.5770	グハハハハハ。		
 BTL_EVT2.5782S	サヴィオ		speaker
@@ -788,15 +788,15 @@ BTL_EVT2.605D	逃げていきおったわ！
 BTL_EVT2.60E1S	ルディエール	Rudiere	speaker
 BTL_EVT2.60EE	あんた、勇者だったんだろ？{n}なんで吸血鬼になんか……。		
 BTL_EVT2.6128S	クライヴ	Clive	speaker
-BTL_EVT2.6131	…………。		
+BTL_EVT2.6131	…………。	.....	
 BTL_EVT2.613FS	ルディエール	Rudiere	speaker
 BTL_EVT2.614C	もう言葉も通じないのか？		
 BTL_EVT2.6168S	ルディエール	Rudiere	speaker
 BTL_EVT2.6175	こんなの……。{wait}{clear}なんだか……やりきれない……。		
 BTL_EVT2.61A9S	クライヴ	Clive	speaker
-BTL_EVT2.61B2	…………。		
+BTL_EVT2.61B2	…………。	.....	
 BTL_EVT2.61C0S	クライヴ	Clive	speaker
-BTL_EVT2.61C9	…………。		
+BTL_EVT2.61C9	…………。	.....	
 BTL_EVT2.621FS	ルディ		speaker
 BTL_EVT2.6226	くそ……きりがないぜ……。		
 BTL_EVT2.6244S	ルディ		speaker

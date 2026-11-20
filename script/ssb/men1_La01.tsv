@@ -1,32 +1,32 @@
 id	jp	en	notes
 men1_La01.0052	レイラ	Leyla	speaker
-men1_La01.005C	呼び出して悪いわね。{wait}{clear}		
+men1_La01.005C	呼び出して悪いわね。{wait}{clear}	Sorry to call you out.{wait}{clear}	
 men1_La01.0074	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.0084	いいえ、それは気にしないでください。{n}妖精からなにか話があると聞いたので……。{wait}{clear}		
+men1_La01.0084	いいえ、それは気にしないでください。{n}妖精からなにか話があると聞いたので……。{wait}{clear}	No, please don't worry about that. The fairy{n}said you had something to tell me...{wait}{clear}	
 men1_La01.00E2	レイラ	Leyla	speaker
-men1_La01.00EC	ええ……話というか……{wait}{clear}妖精から、＄＄＄＄＄＄は{n}呼んだら来るって聞いたから、{n}試してみたかったの……。{wait}{clear}		
+men1_La01.00EC	ええ……話というか……{wait}{clear}妖精から、＄＄＄＄＄＄は{n}呼んだら来るって聞いたから、{n}試してみたかったの……。{wait}{clear}	Yes... It's not really something to tell...{wait}{clear}The fairy said you would come if I called,{n}＄＄＄＄＄＄, so I wanted to try it...{wait}{clear}	
 men1_La01.015A	ＮＵＬＬ	NULL	speaker
-men1_La01.016A	《そんなことだったのですね……。》{n}		
-men1_La01.0194	《これで信じてもらえましたか？》{n}		
+men1_La01.016A	《そんなことだったのですね……。》{n}	So that's all it was...{n}	
+men1_La01.0194	《これで信じてもらえましたか？》{n}	Do you believe me now?{n}	
 men1_La01.01BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.01CC	そんなことだったのですね……。{wait}{clear}でも、よかったです。{n}なにかあったのかと思ってましたから。{wait}{clear}		
+men1_La01.01CC	そんなことだったのですね……。{wait}{clear}でも、よかったです。{n}なにかあったのかと思ってましたから。{wait}{clear}	So that's all it was...{wait}{clear}Still, I'm glad. I thought something had{n}happened.{wait}{clear}	
 men1_La01.022C	レイラ	Leyla	speaker
-men1_La01.0236	怒らないの？{wait}{clear}		
+men1_La01.0236	怒らないの？{wait}{clear}	You're not angry?{wait}{clear}	
 men1_La01.0246	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.0256	ええ、怒りません。{wait}{clear}人間と天使は、異質な存在です。{n}いろいろ考えることもあるでしょう……。{wait}{clear}それに、呼ばれれば、{n}勇者のもとへ向かうのが、私のつとめです。{wait}{clear}		
+men1_La01.0256	ええ、怒りません。{wait}{clear}人間と天使は、異質な存在です。{n}いろいろ考えることもあるでしょう……。{wait}{clear}それに、呼ばれれば、{n}勇者のもとへ向かうのが、私のつとめです。{wait}{clear}	No, I'm not angry.{wait}{clear}Humans and angels are different kinds of{n}beings. I'm sure you have a lot to think{n}about...{wait}{clear}Besides, when called, going to the hero is{n}my duty.{wait}{clear}	
 men1_La01.02F8	レイラ	Leyla	speaker
-men1_La01.0302	ごめんなさい。{n}確かに、あなたのことはまだよくわからないわ。{n}でも、こんな試し方は卑怯よね。{wait}{clear}		
+men1_La01.0302	ごめんなさい。{n}確かに、あなたのことはまだよくわからないわ。{n}でも、こんな試し方は卑怯よね。{wait}{clear}	I'm sorry. It's true I still don't{n}understand you very well. But testing you{n}like this was underhanded.{wait}{clear}	
 men1_La01.0362	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.0372	いいえ、そんなに気にしないでください。{n}こうやって、少しずつわかり合えればいいと、{n}私は思っています。{wait}{clear}		
+men1_La01.0372	いいえ、そんなに気にしないでください。{n}こうやって、少しずつわかり合えればいいと、{n}私は思っています。{wait}{clear}	No, please don't let it bother you so. I{n}think it's good if we can understand each{n}other little by little like this.{wait}{clear}	
 men1_La01.03E8	レイラ	Leyla	speaker
-men1_La01.03F2	ありがとう、＄＄＄＄＄＄。{n}これで、少しあなたのことがわかった気がするわ。{wait}{clear}		
+men1_La01.03F2	ありがとう、＄＄＄＄＄＄。{n}これで、少しあなたのことがわかった気がするわ。{wait}{clear}	Thank you, ＄＄＄＄＄＄. I feel like I{n}understand you a little better now.{wait}{clear}	
 men1_La01.0444	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.0454	これで信じてもらえましたか？{wait}{clear}		
+men1_La01.0454	これで信じてもらえましたか？{wait}{clear}	Do you believe me now?{wait}{clear}	
 men1_La01.0474	レイラ	Leyla	speaker
-men1_La01.047E	ええ、ごめんなさいね、＄＄＄＄＄＄。{n}なんだか、子供っぽいことをしてしまって……。{wait}{clear}		
+men1_La01.047E	ええ、ごめんなさいね、＄＄＄＄＄＄。{n}なんだか、子供っぽいことをしてしまって……。{wait}{clear}	Yes. I'm sorry, ＄＄＄＄＄＄. That was{n}rather childish of me...{wait}{clear}	
 men1_La01.04D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.04E4	いえ、気にしないでください。{n}最初はいつもこういうものですから。{wait}{clear}		
+men1_La01.04E4	いえ、気にしないでください。{n}最初はいつもこういうものですから。{wait}{clear}	No, please don't worry. It's always like{n}this at first.{wait}{clear}	
 men1_La01.0534	レイラ	Leyla	speaker
-men1_La01.053E	そうなの？{n}でも、そう言ってもらえると助かるわ。{wait}{clear}今度は、ちゃんと用事があるときに呼ぶから。{wait}{clear}		
+men1_La01.053E	そうなの？{n}でも、そう言ってもらえると助かるわ。{wait}{clear}今度は、ちゃんと用事があるときに呼ぶから。{wait}{clear}	Is it? Well, it helps to hear you say that.{wait}{clear}Next time, I'll call you when I really need{n}something.{wait}{clear}	
 men1_La01.05A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_La01.05B0	はい、そうしてください。{wait}{clear}		
+men1_La01.05B0	はい、そうしてください。{wait}{clear}	Yes, please do.{wait}{clear}	

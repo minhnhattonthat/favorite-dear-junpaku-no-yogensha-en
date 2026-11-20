@@ -1,76 +1,76 @@
 id	jp	en	notes
 loev04_02.004E	ルディエール	Rudiere	speaker
-loev04_02.005E	王よ、ルディエールただいま参りました。{n}何のご用でしょうか。{wait}{clear}		
-loev04_02.009E	ユーグ		speaker
-loev04_02.00A8	ハハ、冗談はやめろ。{n}誰もいない、普段通りに話せばいい。{wait}{clear}		
+loev04_02.005E	王よ、ルディエールただいま参りました。{n}何のご用でしょうか。{wait}{clear}	Your Majesty, Rudiere has arrived. How may I{n}serve you?{wait}{clear}	
+loev04_02.009E	ユーグ	Hugues	speaker
+loev04_02.00A8	ハハ、冗談はやめろ。{n}誰もいない、普段通りに話せばいい。{wait}{clear}	Ha ha, enough joking. There's no one else{n}here. Talk to me as you always do.{wait}{clear}	
 loev04_02.00E4	ルディエール	Rudiere	speaker
-loev04_02.00F4	……わかった、そうさせてもらうよ。{wait}{clear}それにしても兄さん、なんの用だい？{n}おれを呼ぶなんて、なにかあったのか？{wait}{clear}		
-loev04_02.0166	ユーグ		speaker
-loev04_02.0170	まあ、そうあわてるな。{n}話はゆっくりしよう、久しぶりに会ったんだ。{wait}{clear}それより、ルディは今、旅をしているそうだな？{wait}{clear}		
+loev04_02.00F4	……わかった、そうさせてもらうよ。{wait}{clear}それにしても兄さん、なんの用だい？{n}おれを呼ぶなんて、なにかあったのか？{wait}{clear}	...All right, I'll do that.{wait}{clear}So, brother, what's this about? Calling for{n}me like this... did something happen?{wait}{clear}	
+loev04_02.0166	ユーグ	Hugues	speaker
+loev04_02.0170	まあ、そうあわてるな。{n}話はゆっくりしよう、久しぶりに会ったんだ。{wait}{clear}それより、ルディは今、旅をしているそうだな？{wait}{clear}	Now, don't be so hasty. Let's take our time.{n}It's been a while since we've seen each{n}other.{wait}{clear}More to the point, I hear you're traveling{n}these days, Rudi?{wait}{clear}	
 loev04_02.01E6	ルディエール	Rudiere	speaker
-loev04_02.01F6	ああ……友達と一緒にね。{n}誘われたんだ……。{wait}{clear}		
-loev04_02.0226	ユーグ		speaker
-loev04_02.0230	ずいぶんといろいろな所に{n}足をのばしているようだな。{n}使者が困っていたぞ。{wait}{clear}		
+loev04_02.01F6	ああ……友達と一緒にね。{n}誘われたんだ……。{wait}{clear}	Yeah... with a friend. I got invited{n}along...{wait}{clear}	
+loev04_02.0226	ユーグ	Hugues	speaker
+loev04_02.0230	ずいぶんといろいろな所に{n}足をのばしているようだな。{n}使者が困っていたぞ。{wait}{clear}	You certainly seem to be getting around. My{n}messengers were at their wits' end.{wait}{clear}	
 loev04_02.027E	ルディエール	Rudiere	speaker
-loev04_02.028E	ああ、いろんな所に行ってる。{n}友達がいろいろと注文、多くてさ。{wait}{clear}どこへ行け、そこがいい、{n}やっぱり北だ、いや南だって感じで{n}振り回されてるよ。{wait}{clear}		
-loev04_02.0322	ユーグ		speaker
-loev04_02.032C	そうか。{n}でも、楽しそうじゃないか。{wait}{clear}		
+loev04_02.028E	ああ、いろんな所に行ってる。{n}友達がいろいろと注文、多くてさ。{wait}{clear}どこへ行け、そこがいい、{n}やっぱり北だ、いや南だって感じで{n}振り回されてるよ。{wait}{clear}	Yeah, I go all over. My friend's got a lot{n}of demands.{wait}{clear}Go here, that place is good, no, north,{n}wait, south... I'm getting dragged all over.{wait}{clear}	
+loev04_02.0322	ユーグ	Hugues	speaker
+loev04_02.032C	そうか。{n}でも、楽しそうじゃないか。{wait}{clear}	I see. But it sounds like fun, doesn't it?{wait}{clear}	
 loev04_02.0354	ルディエール	Rudiere	speaker
-loev04_02.0364	まあね、退屈はしてない。{wait}{clear}		
-loev04_02.0380	ユーグ		speaker
-loev04_02.038A	俺は公務で、{n}最近はこの王宮を出ることもできん。{wait}{clear}お前がうらやましいよ。{wait}{clear}		
+loev04_02.0364	まあね、退屈はしてない。{wait}{clear}	Well, I'm not bored, anyway.{wait}{clear}	
+loev04_02.0380	ユーグ	Hugues	speaker
+loev04_02.038A	俺は公務で、{n}最近はこの王宮を出ることもできん。{wait}{clear}お前がうらやましいよ。{wait}{clear}	With my royal duties, I can't even leave the{n}palace lately.{wait}{clear}I envy you.{wait}{clear}	
 loev04_02.03D8	ルディエール	Rudiere	speaker
-loev04_02.03E8	そんな……兄さん……。{wait}{clear}		
-loev04_02.0402	ユーグ		speaker
-loev04_02.040C	それで、本題なんだが、ルディ……。{n}お前、グローサイン帝国は知っているな。{wait}{clear}		
+loev04_02.03E8	そんな……兄さん……。{wait}{clear}	Come on... brother...{wait}{clear}	
+loev04_02.0402	ユーグ	Hugues	speaker
+loev04_02.040C	それで、本題なんだが、ルディ……。{n}お前、グローサイン帝国は知っているな。{wait}{clear}	Now, to the matter at hand, Rudi... You know{n}of the Grosain Empire, I trust.{wait}{clear}	
 loev04_02.045A	ルディエール	Rudiere	speaker
-loev04_02.046A	ああ、もちろん。{n}皇帝が変わったばかりだっけ……確か。{wait}{clear}		
-loev04_02.04A4	ユーグ		speaker
-loev04_02.04AE	そうだ。{wait}{clear}その帝国が、近頃国境近くに兵を集め、{n}南進をはじめようとしているらしい。{wait}{clear}		
+loev04_02.046A	ああ、もちろん。{n}皇帝が変わったばかりだっけ……確か。{wait}{clear}	Yeah, of course. They just got a new{n}emperor... I think.{wait}{clear}	
+loev04_02.04A4	ユーグ	Hugues	speaker
+loev04_02.04AE	そうだ。{wait}{clear}その帝国が、近頃国境近くに兵を集め、{n}南進をはじめようとしているらしい。{wait}{clear}	That's right.{wait}{clear}And that Empire has lately been massing{n}troops near its border. It seems ready to{n}start marching south.{wait}{clear}	
 loev04_02.0506	ルディエール	Rudiere	speaker
-loev04_02.0516	ああ……。{n}それも噂で聞いた……。{wait}{clear}		
-loev04_02.053C	ユーグ		speaker
-loev04_02.0546	そうか。{n}お前の耳にも入るくらい、噂が広がっているのか。{wait}{clear}レグランスとしては一度、帝国の真意を{n}確かめなければならないと思っている。{wait}{clear}帝国とは国境を接してはいないが{n}あの国が戦争を本格的におこせば{n}我が国も混乱は免れんからな。{wait}{clear}そこで、お前に帝国へ、{n}特使として行ってもらいたい。{wait}{clear}グローサイン皇帝も{n}王族の面会を拒否することはできないはずだからな。{wait}{clear}そしてなにより、俺は、お前の目で{n}確かめてもらいたいことがあるのだ。{wait}{clear}		
+loev04_02.0516	ああ……。{n}それも噂で聞いた……。{wait}{clear}	Yeah... I heard rumors about that too...{wait}{clear}	
+loev04_02.053C	ユーグ	Hugues	speaker
+loev04_02.0546	そうか。{n}お前の耳にも入るくらい、噂が広がっているのか。{wait}{clear}レグランスとしては一度、帝国の真意を{n}確かめなければならないと思っている。{wait}{clear}帝国とは国境を接してはいないが{n}あの国が戦争を本格的におこせば{n}我が国も混乱は免れんからな。{wait}{clear}そこで、お前に帝国へ、{n}特使として行ってもらいたい。{wait}{clear}グローサイン皇帝も{n}王族の面会を拒否することはできないはずだからな。{wait}{clear}そしてなにより、俺は、お前の目で{n}確かめてもらいたいことがあるのだ。{wait}{clear}	I see. So the rumors have spread far enough{n}to reach even your ears.{wait}{clear}Legrance must find out the Empire's true{n}intentions.{wait}{clear}We don't share a border with them, but if{n}that country goes to war in earnest, our{n}kingdom won't escape the turmoil either.{wait}{clear}So I want you to go to the Empire as our{n}envoy.{wait}{clear}Even the Emperor of Grosain can't refuse an{n}audience with royalty.{wait}{clear}And above all, there is something I want you{n}to see with your own eyes.{wait}{clear}	
 loev04_02.06F8	ルディエール	Rudiere	speaker
-loev04_02.0708	なんだい？　それは？{wait}{clear}		
-loev04_02.0720	ユーグ		speaker
-loev04_02.072A	新しい皇帝は帝国の中で{n}初代皇帝である紅月王の生まれ変わりと{n}呼ばれているらしい。{wait}{clear}即位したのも、{n}その不思議な力によると言われている……。{wait}{clear}もし、それが事実なら、{n}帝国は古代の伝説の復活を{n}もくろんでいるのかもしれない……。{wait}{clear}そうなれば、事は対岸の火事ではすまなくなる。{wait}{clear}だからこそ、{n}お前の目で、真実を確かめて欲しいのだ。{n}{wait}{clear}行ってくれるか？{wait}{clear}		
+loev04_02.0708	なんだい？　それは？{wait}{clear}	What's that?{wait}{clear}	
+loev04_02.0720	ユーグ	Hugues	speaker
+loev04_02.072A	新しい皇帝は帝国の中で{n}初代皇帝である紅月王の生まれ変わりと{n}呼ばれているらしい。{wait}{clear}即位したのも、{n}その不思議な力によると言われている……。{wait}{clear}もし、それが事実なら、{n}帝国は古代の伝説の復活を{n}もくろんでいるのかもしれない……。{wait}{clear}そうなれば、事は対岸の火事ではすまなくなる。{wait}{clear}だからこそ、{n}お前の目で、真実を確かめて欲しいのだ。{n}{wait}{clear}行ってくれるか？{wait}{clear}	Within the Empire, the new emperor is said{n}to be the reincarnation of the first{n}emperor, the Crimson Moon King.{wait}{clear}They say it was that strange power that put{n}him on the throne...{wait}{clear}If that's true, the Empire may be scheming{n}to revive the ancient legend...{wait}{clear}Then it would no longer be a fire on a{n}distant shore.{wait}{clear}That is why I want you to see the truth with{n}your own eyes.{n}{wait}{clear}Will you go?{wait}{clear}	
 loev04_02.0892	ルディエール	Rudiere	speaker
-loev04_02.08A2	ああ、もちろん。{n}兄さんの頼みを断るわけにはいかない。{wait}{clear}		
-loev04_02.08DC	ユーグ		speaker
-loev04_02.08E6	そうか……すまんな。{n}頼んだぞ。{wait}{clear}		
+loev04_02.08A2	ああ、もちろん。{n}兄さんの頼みを断るわけにはいかない。{wait}{clear}	Yeah, of course. I can't turn down my{n}brother.{wait}{clear}	
+loev04_02.08DC	ユーグ	Hugues	speaker
+loev04_02.08E6	そうか……すまんな。{n}頼んだぞ。{wait}{clear}	I see... Thank you. I'm counting on you.{wait}{clear}	
 loev04_02.0936	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.0946	ルディ……{n}あなたを振り回している友達というのは、{n}私のことですか？{wait}{clear}		
+loev04_02.0946	ルディ……{n}あなたを振り回している友達というのは、{n}私のことですか？{wait}{clear}	Rudi... That friend who drags you all{n}over... is that me?{wait}{clear}	
 loev04_02.099A	ルディエール	Rudiere	speaker
-loev04_02.09AA	え！？{wait}{clear}いたのか？　＄＄＄＄＄＄！？{wait}{clear}		
+loev04_02.09AA	え！？{wait}{clear}いたのか？　＄＄＄＄＄＄！？{wait}{clear}	Huh?!{wait}{clear}You were here, ＄＄＄＄＄＄?!{wait}{clear}	
 loev04_02.09D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.09E4	ええ、ずっと。{n}気がつきませんでしたか？{wait}{clear}		
+loev04_02.09E4	ええ、ずっと。{n}気がつきませんでしたか？{wait}{clear}	Yes, the whole time. You didn't notice?{wait}{clear}	
 loev04_02.0A1C	ルディエール	Rudiere	speaker
-loev04_02.0A2C	ああ……。{wait}{clear}それにしても性格、悪いな。{n}天使が立ち聞きか？{wait}{clear}		
+loev04_02.0A2C	ああ……。{wait}{clear}それにしても性格、悪いな。{n}天使が立ち聞きか？{wait}{clear}	Yeah...{wait}{clear}Still, that's pretty nasty of you. An angel{n}eavesdropping?{wait}{clear}	
 loev04_02.0A6C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.0A7C	立ち聞きと言われれば、そうかもしれませんが……。{n}それにしても、あの言い訳のしかたは……。{wait}{clear}		
+loev04_02.0A7C	立ち聞きと言われれば、そうかもしれませんが……。{n}それにしても、あの言い訳のしかたは……。{wait}{clear}	If you call it eavesdropping, perhaps it{n}was... But still, that excuse of yours...{wait}{clear}	
 loev04_02.0ADA	ルディエール	Rudiere	speaker
-loev04_02.0AF6	気にさわったんだったら、謝るよ。{n}ただ、兄さんに天使と一緒にいるなんて、{n}説明できないからさ……悪かった。		
-loev04_02.0B70	それより、兄さんを見たの、初めてだろ？{wait}{clear}		
+loev04_02.0AF6	気にさわったんだったら、謝るよ。{n}ただ、兄さんに天使と一緒にいるなんて、{n}説明できないからさ……悪かった。	If it bugged you, I'm sorry. I just can't{n}exactly explain to my brother that I'm{n}traveling with an angel... My bad.	
+loev04_02.0B70	それより、兄さんを見たの、初めてだろ？{wait}{clear}	More importantly, that's the first time{n}you've seen my brother, right?{wait}{clear}	
 loev04_02.0B9A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_02.0BAA	ええ。{wait}{clear}	Of course.{wait}{clear}	
 loev04_02.0BB4	ＮＵＬＬ	NULL	speaker
-loev04_02.0BC4	《立派な方ですね。》{n}		
-loev04_02.0BE0	《帝国に行くのですか？》{n}		
+loev04_02.0BC4	《立派な方ですね。》{n}	He is a fine man.{n}	
+loev04_02.0BE0	《帝国に行くのですか？》{n}	Are you going to the Empire?{n}	
 loev04_02.0C0A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.0C1A	立派な方ですね。{wait}{clear}		
+loev04_02.0C1A	立派な方ですね。{wait}{clear}	He is a fine man.{wait}{clear}	
 loev04_02.0C3A	ルディエール	Rudiere	speaker
-loev04_02.0C4A	はは、当たり前のこと言うなよ。{wait}{clear}兄さんは王としてこの国を動かしてるんだ。{wait}{clear}		
-loev04_02.0CA4	おれなんかとはくらべものになんないよ。{wait}{clear}		
+loev04_02.0C4A	はは、当たり前のこと言うなよ。{wait}{clear}兄さんは王としてこの国を動かしてるんだ。{wait}{clear}	Ha ha, don't state the obvious.{wait}{clear}My brother runs this country as its king.{wait}{clear}	
+loev04_02.0CA4	おれなんかとはくらべものになんないよ。{wait}{clear}	There's no comparing him to someone like me.{wait}{clear}	
 loev04_02.0CDE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.0CEE	それよりも……{n}ルディ、あなたは帝国へ行くのですか？{wait}{clear}		
+loev04_02.0CEE	それよりも……{n}ルディ、あなたは帝国へ行くのですか？{wait}{clear}	More importantly... Rudi, are you going to{n}the Empire?{wait}{clear}	
 loev04_02.0D26	ルディエール	Rudiere	speaker
-loev04_02.0D36	ああ。{n}断る理由もない。{wait}{clear}それに兄さんがおれを頼りにしてくれてるんだ。{n}行くさ。{wait}{clear}		
+loev04_02.0D36	ああ。{n}断る理由もない。{wait}{clear}それに兄さんがおれを頼りにしてくれてるんだ。{n}行くさ。{wait}{clear}	Yeah. I've got no reason to refuse.{wait}{clear}Besides, my brother's relying on me. I'm{n}going.{wait}{clear}	
 loev04_02.0D98	ルディエール	Rudiere	speaker
-loev04_02.0DA8	悪いけど、しばらくは{n}＄＄＄＄＄＄の頼みは聞けなくなる。{wait}{clear}皇帝に会って、{n}その後、兄さんへの報告が終わったら、{n}また来てくれ。{wait}{clear}		
+loev04_02.0DA8	悪いけど、しばらくは{n}＄＄＄＄＄＄の頼みは聞けなくなる。{wait}{clear}皇帝に会って、{n}その後、兄さんへの報告が終わったら、{n}また来てくれ。{wait}{clear}	Sorry, but I won't be able to take your{n}requests for a while, ＄＄＄＄＄＄.{wait}{clear}Once I've met the emperor and reported back{n}to my brother, come see me again.{wait}{clear}	
 loev04_02.0E2C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_02.0E3C	ルディ……。{wait}{clear}		
+loev04_02.0E3C	ルディ……。{wait}{clear}	Rudi...{wait}{clear}	
 loev04_02.0E58	ルディエール	Rudiere	speaker
-loev04_02.0E68	じゃあ、支度があるから、もう、行くぜ。{wait}{clear}		
+loev04_02.0E68	じゃあ、支度があるから、もう、行くぜ。{wait}{clear}	Well, I've got to get ready, so I'm off.{wait}{clear}	
 loev04_02.0E9A	ルディエール	Rudiere	speaker
-loev04_02.0EAA	突然ですまないな。{wait}{clear}		
+loev04_02.0EAA	突然ですまないな。{wait}{clear}	Sorry this is so sudden.{wait}{clear}	

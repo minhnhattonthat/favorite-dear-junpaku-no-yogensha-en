@@ -1,6 +1,6 @@
 id	jp	en	notes
 men2_Lo02.0052	ルディエール	Rudiere	speaker
-men2_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
+men2_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men2_Lo02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo02.008A	あ、ルディ……！{n}なにかお話しでもあるのですか？{wait}{clear}		
 men2_Lo02.00BE	ルディエール	Rudiere	speaker
@@ -26,7 +26,7 @@ men2_Lo02.0392	ルディエール	Rudiere	speaker
 men2_Lo02.03A2	なんだ、そうだったのか。{n}＄＄＄＄＄＄の邪魔になったら、{n}どうしようと思って気になってたんだよ。{wait}{clear}		
 men2_Lo02.0412	よかった……。{wait}{clear}	Thank goodness...{wait}{clear}	
 men2_Lo02.0424	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo02.0434	ルディ……。{wait}{clear}		
+men2_Lo02.0434	ルディ……。{wait}{clear}	Rudi...{wait}{clear}	
 men2_Lo02.0450	ルディエール	Rudiere	speaker
 men2_Lo02.0460	じゃあ、せっかくだから、{n}おれにつきあってくれないか？{n}話をするのにちょうどいい場所を見つけたんだ。{wait}{clear}		
 men2_Lo02.04C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

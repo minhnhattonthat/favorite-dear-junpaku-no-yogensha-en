@@ -1,17 +1,17 @@
 id	jp	en	notes
 men2_Ce02.0052	セシア	Cecia	speaker
-men2_Ce02.005C	急にお呼びしてすみません。{wait}{clear}		
+men2_Ce02.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry for calling you so suddenly.{wait}{clear}	
 men2_Ce02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ce02.008A	どうしました、セシア？{n}なにか話でもあるのですか？{wait}{clear}		
+men2_Ce02.008A	どうしました、セシア？{n}なにか話でもあるのですか？{wait}{clear}	What is it, Cecia? Is there something you{n}want to talk about?{wait}{clear}	
 men2_Ce02.00CC	セシア	Cecia	speaker
-men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}		
+men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}	Yes... I'm sorry to bother you at such a{n}difficult time, but there's something I'd{n}like to talk about...{wait}{clear}That's why I called you, Angel. Do you have{n}time?{wait}{clear}	
 men2_Ce02.016E	ＮＵＬＬ	NULL	speaker
-men2_Ce02.017E	《なにか困ったことでも？》{n}		
-men2_Ce02.01A0	《ええ、もちろん大丈夫！》{n}		
+men2_Ce02.017E	《なにか困ったことでも？》{n}	Is something troubling you?{n}	
+men2_Ce02.01A0	《ええ、もちろん大丈夫！》{n}	Yes, of course I do!{n}	
 men2_Ce02.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ce02.01D2	なにか困ったことでもあったのですか？{wait}{clear}		
+men2_Ce02.01D2	なにか困ったことでもあったのですか？{wait}{clear}	Is something troubling you?{wait}{clear}	
 men2_Ce02.0206	セシア	Cecia	speaker
-men2_Ce02.0210	いえ、そういうわけじゃないんです。{n}かえって心配をかけてしまったのでしょうか……？{wait}{clear}		
+men2_Ce02.0210	いえ、そういうわけじゃないんです。{n}かえって心配をかけてしまったのでしょうか……？{wait}{clear}	No, it's not like that. Did I only make you{n}worry again...?{wait}{clear}	
 men2_Ce02.0266	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.0276	いいえ、私が勝手にそう思っただけです。{n}なにもなければ、それでいいのですから、{n}セシアは気にしないでください。{wait}{clear}それで、お話とはなんですか？{wait}{clear}		
 men2_Ce02.0308	セシア	Cecia	speaker
@@ -19,7 +19,7 @@ men2_Ce02.0312	あの……{n}天使様に見ていただきたいものがあ�
 men2_Ce02.037A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.038A	ええ、もちろんです。{n}さあ、行きましょうか。{wait}{clear}		
 men2_Ce02.03C6	セシア	Cecia	speaker
-men2_Ce02.03D0	はい！{wait}{clear}		
+men2_Ce02.03D0	はい！{wait}{clear}	Yes!{wait}{clear}	
 men2_Ce02.03DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.03EE	ええ、もちろん大丈夫です！{n}私もセシアと話したいと思ってましたから……。{wait}{clear}		
 men2_Ce02.0446	セシア	Cecia	speaker

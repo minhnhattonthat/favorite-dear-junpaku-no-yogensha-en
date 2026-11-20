@@ -1,39 +1,39 @@
 id	jp	en	notes
 men1_Ro01.0052	ロクス	Rocus	speaker
-men1_Ro01.005C	やっと来たか。{wait}{clear}		
+men1_Ro01.005C	やっと来たか。{wait}{clear}	Finally showed up, huh.{wait}{clear}	
 men1_Ro01.006E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.007E	ロクス、なにかあったのですか？{n}妖精から話があると聞いてきたのですが。{wait}{clear}		
+men1_Ro01.007E	ロクス、なにかあったのですか？{n}妖精から話があると聞いてきたのですが。{wait}{clear}	Rocus, has something happened? The fairy{n}told me you had something to say.{wait}{clear}	
 men1_Ro01.00C8	ロクス	Rocus	speaker
-men1_Ro01.00D2	ああ、たいしたことじゃない。{n}君を試させてもらったんだ。{wait}{clear}		
+men1_Ro01.00D2	ああ、たいしたことじゃない。{n}君を試させてもらったんだ。{wait}{clear}	Oh, nothing much. I was testing you.{wait}{clear}	
 men1_Ro01.010E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ro01.011E	え？{wait}{clear}	What?{wait}{clear}	
 men1_Ro01.0126	ロクス	Rocus	speaker
-men1_Ro01.0130	妖精が、天使様は呼べば来るって言ってたから{n}本当なのかと思ってさ。{wait}{clear}		
+men1_Ro01.0130	妖精が、天使様は呼べば来るって言ってたから{n}本当なのかと思ってさ。{wait}{clear}	The fairy said the Angel comes when called,{n}so I wondered if it was true.{wait}{clear}	
 men1_Ro01.0176	ＮＵＬＬ	NULL	speaker
-men1_Ro01.0186	《それで？》{n}		
-men1_Ro01.019A	《これで信じてもらえましたか？》{n}		
+men1_Ro01.0186	《それで？》{n}	And?{n}	
+men1_Ro01.019A	《これで信じてもらえましたか？》{n}	Do you believe me now?{n}	
 men1_Ro01.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.01D2	それで呼んだのですか？{n}ああ、よかったです。{wait}{clear}なにか起こったのじゃないかと心配だったので、{n}たいしたことではなくて……。{wait}{clear}		
+men1_Ro01.01D2	それで呼んだのですか？{n}ああ、よかったです。{wait}{clear}なにか起こったのじゃないかと心配だったので、{n}たいしたことではなくて……。{wait}{clear}	So that's why you called me? Oh, I'm{n}relieved.{wait}{clear}I was worried something had happened, so I'm{n}glad it was nothing serious...{wait}{clear}	
 men1_Ro01.0250	ロクス	Rocus	speaker
-men1_Ro01.025A	ふん。{n}やっぱり、僕には信用できないな。{n}ふつうは怒ったりするんじゃないのか？{wait}{clear}		
+men1_Ro01.025A	ふん。{n}やっぱり、僕には信用できないな。{n}ふつうは怒ったりするんじゃないのか？{wait}{clear}	Hmph. I still can't trust you. Wouldn't a{n}normal person get angry?{wait}{clear}	
 men1_Ro01.02AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.02BC	え？{n}でも……私は本当に……。{wait}{clear}		
+men1_Ro01.02BC	え？{n}でも……私は本当に……。{wait}{clear}	Huh? But... I really am...{wait}{clear}	
 men1_Ro01.02DE	ロクス	Rocus	speaker
-men1_Ro01.02E8	まったく、つまらないやつだ……。{n}わかったよ、もういいよ、帰って。{wait}{clear}		
+men1_Ro01.02E8	まったく、つまらないやつだ……。{n}わかったよ、もういいよ、帰って。{wait}{clear}	Honestly, what a bore... Fine, never mind.{n}Go home.{wait}{clear}	
 men1_Ro01.032E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.033E	はあ……。		
+men1_Ro01.033E	はあ……。	Um...	
 men1_Ro01.034C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.035C	これで信じてもらえましたか？{wait}{clear}		
+men1_Ro01.035C	これで信じてもらえましたか？{wait}{clear}	Do you believe me now?{wait}{clear}	
 men1_Ro01.037C	ロクス	Rocus	speaker
-men1_Ro01.0386	ああ、いちおうはな。{n}それに、その怒った顔。{wait}{clear}		
+men1_Ro01.0386	ああ、いちおうはな。{n}それに、その怒った顔。{wait}{clear}	Yeah, more or less. Plus, that angry face.{wait}{clear}	
 men1_Ro01.03B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ro01.03C6	え？{wait}{clear}	What?{wait}{clear}	
 men1_Ro01.03DA	ロクス	Rocus	speaker
-men1_Ro01.03E4	それは、確かに少しは信用できそうだ。{n}こんなことをされてにこにこしているやつの方が{n}信用できないからな。{wait}{clear}		
+men1_Ro01.03E4	それは、確かに少しは信用できそうだ。{n}こんなことをされてにこにこしているやつの方が{n}信用できないからな。{wait}{clear}	That, at least, I think I can trust a{n}little. Someone who keeps smiling after{n}being treated like this is harder to trust.{wait}{clear}	
 men1_Ro01.0450	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.0460	そういうものですか？{wait}{clear}		
+men1_Ro01.0460	そういうものですか？{wait}{clear}	Is that how it works?{wait}{clear}	
 men1_Ro01.0478	ロクス	Rocus	speaker
-men1_Ro01.0482	ああ、僕にとってはね。{wait}{clear}		
-men1_Ro01.04A8	じゃあ、今度はなにか話があるときにでも呼ぶよ。{wait}{clear}		
+men1_Ro01.0482	ああ、僕にとってはね。{wait}{clear}	Yeah, for me it is.{wait}{clear}	
+men1_Ro01.04A8	じゃあ、今度はなにか話があるときにでも呼ぶよ。{wait}{clear}	Well, next time I'll call you when I{n}actually have something to say.{wait}{clear}	
 men1_Ro01.04DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro01.04EA	ええ、わかりました。{n}では、また、ロクス……。{wait}{clear}		
+men1_Ro01.04EA	ええ、わかりました。{n}では、また、ロクス……。{wait}{clear}	Yes, all right. Until next time, Rocus...{wait}{clear}	

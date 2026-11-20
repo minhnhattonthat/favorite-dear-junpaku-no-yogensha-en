@@ -2,7 +2,7 @@ id	jp	en	notes
 loev16.0002	兄妹		dev label (guess: not shown)
 loev16.00A2	ルディ		unit name (32-byte field)
 loev16.00DE	サヴィオ通常		unit name (32-byte field)
-loev16.011A	サヴィア		unit name (32-byte field)
+loev16.011A	サヴィア	Savia	unit name (32-byte field)
 loev16.0156	サヴィオ変身		unit name (32-byte field)
 loev16.0550	ルディエール	Rudiere	speaker
 loev16.056B	やめろ！　サヴィオ！		text
@@ -17,25 +17,25 @@ loev16.07D1	おれはお前を止めなくちゃならないんだ。{n}その�
 loev16.0832	鎧の呪いなんだ。{n}その痛みは。		text
 loev16.086F	サヴィオ		speaker
 loev16.0886	う、うるさい、お前など……死ね。		text
-loev16.0A45	サヴィア		speaker
+loev16.0A45	サヴィア	Savia	speaker
 loev16.0A5C	待ってサヴィオ！！		text
-loev16.0AF9	サヴィア		speaker
+loev16.0AF9	サヴィア	Savia	speaker
 loev16.0B10	お願い、もうやめましょう……。{n}こんな戦いは誰も救いはしない……		text
 loev16.0B6F	サヴィオ		speaker
 loev16.0B86	どけ……サヴィア。		text
-loev16.0BB7	サヴィア		speaker
+loev16.0BB7	サヴィア	Savia	speaker
 loev16.0BCE	お願い鎧を……鎧をとって……{n}その鎧があなたを狂わせてるの……		text
 loev16.0CBF	サヴィオ		speaker
 loev16.0CD6	……ダメだ……この鎧は俺の命だ……		text
-loev16.0D67	サヴィア		speaker
+loev16.0D67	サヴィア	Savia	speaker
 loev16.0D7E	お願い……		text
 loev16.0DA7	サヴィオ		speaker
 loev16.0DBE	……どけ……		text
-loev16.0EDD	サヴィア		speaker
+loev16.0EDD	サヴィア	Savia	speaker
 loev16.0EF4	きゃあ！！		text
 loev16.0F8D	ルディエール	Rudiere	speaker
 loev16.0FA8	お前！！		text
-loev16.0FCF	サヴィア		speaker
+loev16.0FCF	サヴィア	Savia	speaker
 loev16.0FE6	……ルディ、サヴィオを……止めて……		text
 loev16.103D	ルディエール	Rudiere	speaker
 loev16.1058	サヴィア！！！		text

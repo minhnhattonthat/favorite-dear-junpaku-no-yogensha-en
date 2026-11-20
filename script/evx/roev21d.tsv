@@ -5,7 +5,7 @@ roev21d.00DE	セレニス	Serenis	unit name (32-byte field)
 roev21d.011A	覚醒エンディミオン		unit name (32-byte field)
 roev21d.0156	椅子		unit name (32-byte field)
 roev21d.0192	魔石の台		unit name (32-byte field)
-roev21d.04A8	エンディミオン		speaker
+roev21d.04A8	エンディミオン	Endymion	speaker
 roev21d.04C5	ふむ……なかなかいいぞ。		text
 roev21d.04FC	天使ども！{n}天竜がよみがえった今、何をしてももう無駄だ！		text
 roev21d.0553	この天竜……サタン様の魂の化身とともに、{n}私はコキュートスへ戻るのだ……。		text

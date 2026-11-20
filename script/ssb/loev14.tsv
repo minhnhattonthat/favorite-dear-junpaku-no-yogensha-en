@@ -1,24 +1,24 @@
 id	jp	en	notes
 loev14.0142	ルディエール	Rudiere	speaker
-loev14.0152	なんだ、あの化け物は……{wait}{clear}		
+loev14.0152	なんだ、あの化け物は……{wait}{clear}	What are those monsters...{wait}{clear}	
 loev14.016E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev14.017E	この世のものではありません……。{n}おそらく帝国の魔導士が呼び出した魔族でしょう。{wait}{clear}		
+loev14.017E	この世のものではありません……。{n}おそらく帝国の魔導士が呼び出した魔族でしょう。{wait}{clear}	They are not of this world... Most likely{n}demons summoned by the Empire's mages.{wait}{clear}	
 loev14.01D2	ルディエール	Rudiere	speaker
-loev14.01E2	……魔族。{wait}{clear}こいつらの手にかかれば{n}まともな人間はかないっこない。{wait}{clear}		
-loev14.0238	くっ、また来たな……{wait}{clear}		
+loev14.01E2	……魔族。{wait}{clear}こいつらの手にかかれば{n}まともな人間はかないっこない。{wait}{clear}	...Demons.{wait}{clear}Against things like these, ordinary people{n}don't stand a chance.{wait}{clear}	
+loev14.0238	くっ、また来たな……{wait}{clear}	Ngh, here they come again...{wait}{clear}	
 loev14.0292	ルディエール	Rudiere	speaker
-loev14.02A2	だめだ……おれ一人じゃ、どうにもならない……{n}ここは退いた方がいい、＄＄＄＄＄＄、行こう！{wait}{clear}		
+loev14.02A2	だめだ……おれ一人じゃ、どうにもならない……{n}ここは退いた方がいい、＄＄＄＄＄＄、行こう！{wait}{clear}	It's no good... I can't handle this alone...{n}We'd better fall back. ＄＄＄＄＄＄, let's{n}go!{wait}{clear}	
 loev14.0328	ルディエール	Rudiere	speaker
-loev14.0338	……結局なにもできなかった。{wait}{clear}今の王国の軍隊は役に立たない……。{n}兄さんが心配していた通りになっちまった。{wait}{clear}どうしたらいいんだ……。{wait}{clear}		
+loev14.0338	……結局なにもできなかった。{wait}{clear}今の王国の軍隊は役に立たない……。{n}兄さんが心配していた通りになっちまった。{wait}{clear}どうしたらいいんだ……。{wait}{clear}	...In the end, I couldn't do a thing.{wait}{clear}The kingdom's army is useless as it is{n}now... It's turned out just like my brother{n}feared.{wait}{clear}What should I do...{wait}{clear}	
 loev14.03C4	ＮＵＬＬ	NULL	speaker
-loev14.03D4	《本当の敵を探しましょう。》{n}		
-loev14.03F8	《なにか方法を考えましょう。》{n}		
+loev14.03D4	《本当の敵を探しましょう。》{n}	Let's find the real enemy.{n}	
+loev14.03F8	《なにか方法を考えましょう。》{n}	Let's think of something.{n}	
 loev14.0428	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev14.0438	本当の敵を探しましょう。{wait}{clear}きっと、この混乱を引き起こしている{n}元凶があるはずです。{wait}{clear}		
+loev14.0438	本当の敵を探しましょう。{wait}{clear}きっと、この混乱を引き起こしている{n}元凶があるはずです。{wait}{clear}	Let's find the real enemy.{wait}{clear}There must be a root cause behind this{n}turmoil.{wait}{clear}	
 loev14.049E	ルディエール	Rudiere	speaker
-loev14.04AE	ああ、わかった……{wait}{clear}そうでもしないと、{n}あいつらを止められないよな。{wait}{clear}		
+loev14.04AE	ああ、わかった……{wait}{clear}そうでもしないと、{n}あいつらを止められないよな。{wait}{clear}	Yeah, got it...{wait}{clear}Otherwise we'll never stop them, will we?{wait}{clear}	
 loev14.0508	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev14.0518	なにか方法を考えましょう。{n}きっといつか現れる、本当の敵のために……。{wait}{clear}		
+loev14.0518	なにか方法を考えましょう。{n}きっといつか現れる、本当の敵のために……。{wait}{clear}	Let's think of something. For the real enemy{n}who is sure to appear someday...{wait}{clear}	
 loev14.0570	ルディエール	Rudiere	speaker
-loev14.0580	そうか……おれはもっと強くならないといけないな。{wait}{clear}		
-loev14.05C0	そのために戦い続けないと……{n}いや、生き残り続けなきゃな。{wait}{clear}		
+loev14.0580	そうか……おれはもっと強くならないといけないな。{wait}{clear}	I see... I need to get a lot stronger.{wait}{clear}	
+loev14.05C0	そのために戦い続けないと……{n}いや、生き残り続けなきゃな。{wait}{clear}	And for that I have to keep fighting... no,{n}keep surviving.{wait}{clear}	

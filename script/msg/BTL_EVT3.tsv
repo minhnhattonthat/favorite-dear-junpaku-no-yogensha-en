@@ -30,9 +30,9 @@ BTL_EVT3.0582	お前たちが我々帝国軍にかなうはずなどない！{n}
 BTL_EVT3.05EAS	ロクス	Rocus	speaker
 BTL_EVT3.05F1	ああいうのは、勘弁して欲しいものだ。		
 BTL_EVT3.0619S	ファントム		speaker
-BTL_EVT3.0624	…………。		
+BTL_EVT3.0624	…………。	.....	
 BTL_EVT3.0632S	ファントム		speaker
-BTL_EVT3.063D	…………。		
+BTL_EVT3.063D	…………。	.....	
 BTL_EVT3.066FS	イオン	Ion	speaker
 BTL_EVT3.0676	ぼくの邪魔をするから……。		
 BTL_EVT3.0694S	イオン	Ion	speaker
@@ -66,7 +66,7 @@ BTL_EVT3.09D0	レイラという帝国騎士に会ったら、{n}彼女の部下
 BTL_EVT3.0A2ES	カイゼル		speaker
 BTL_EVT3.0A37	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT3.0A63S	カイゼル		speaker
-BTL_EVT3.0A6C	…………。		
+BTL_EVT3.0A6C	…………。	.....	
 BTL_EVT3.0A9ES	アルベリック	Alberic	speaker
 BTL_EVT3.0AAB	天使の勇者か……		
 BTL_EVT3.0ABFS	アルベリック	Alberic	speaker
@@ -788,15 +788,15 @@ BTL_EVT3.5F3F	逃げていきおったわ！
 BTL_EVT3.5FC3S	ロクス	Rocus	speaker
 BTL_EVT3.5FCA	お前が元勇者だったとしても、{n}僕は容赦しないぞ。		
 BTL_EVT3.5FFES	クライヴ	Clive	speaker
-BTL_EVT3.6007	…………。		
+BTL_EVT3.6007	…………。	.....	
 BTL_EVT3.6015S	ロクス	Rocus	speaker
 BTL_EVT3.601C	もう、何を話しても無駄のようだな。		
 BTL_EVT3.6042S	ロクス	Rocus	speaker
 BTL_EVT3.6049	…………。{wait}{clear}くそ……。{n}むなしいだけだ……こんな戦い……。		
 BTL_EVT3.6089S	クライヴ	Clive	speaker
-BTL_EVT3.6092	…………。		
+BTL_EVT3.6092	…………。	.....	
 BTL_EVT3.60A0S	クライヴ	Clive	speaker
-BTL_EVT3.60A9	…………。		
+BTL_EVT3.60A9	…………。	.....	
 BTL_EVT3.6123S	ロクス	Rocus	speaker
 BTL_EVT3.612A	村から出ていく気がないなら、退治するしかないな。		
 BTL_EVT3.615ES	ロクス	Rocus	speaker

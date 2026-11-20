@@ -1,26 +1,26 @@
 id	jp	en	notes
 loev04_03.0046	ルディエール	Rudiere	speaker
-loev04_03.0056	ああ、＄＄＄＄＄＄、やっと来たか。{wait}{clear}		
+loev04_03.0056	ああ、＄＄＄＄＄＄、やっと来たか。{wait}{clear}	Ah, ＄＄＄＄＄＄, you're finally here.{wait}{clear}	
 loev04_03.007C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_03.008C	どうしたのですか、ルディ？{wait}{clear}		
+loev04_03.008C	どうしたのですか、ルディ？{wait}{clear}	What is it, Rudi?{wait}{clear}	
 loev04_03.00AA	ルディエール	Rudiere	speaker
-loev04_03.00BA	これからレグランスの特使として{n}帝国へ行くことになった。{wait}{clear}		
+loev04_03.00BA	これからレグランスの特使として{n}帝国へ行くことになった。{wait}{clear}	I'm going to the Empire as Legrance's envoy.{wait}{clear}	
 loev04_03.00F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_03.0106	特使として、帝国へですか？{wait}{clear}		
+loev04_03.0106	特使として、帝国へですか？{wait}{clear}	To the Empire, as an envoy?{wait}{clear}	
 loev04_03.0124	ルディエール	Rudiere	speaker
-loev04_03.0134	ああ、兄さんに頼まれたんだ。{n}帝国の侵攻に対する真意を確かめろって。{wait}{clear}それから、今の皇帝のことも知るために……。{wait}{clear}だから、当分のあいだ、{n}＄＄＄＄＄＄の依頼は聞けなくなる。{wait}{clear}帝国で皇帝に会って、兄さんに報告するまでは、{n}悪いけど、おれの自由にさせてくれ。{wait}{clear}		
+loev04_03.0134	ああ、兄さんに頼まれたんだ。{n}帝国の侵攻に対する真意を確かめろって。{wait}{clear}それから、今の皇帝のことも知るために……。{wait}{clear}だから、当分のあいだ、{n}＄＄＄＄＄＄の依頼は聞けなくなる。{wait}{clear}帝国で皇帝に会って、兄さんに報告するまでは、{n}悪いけど、おれの自由にさせてくれ。{wait}{clear}	Yeah, my brother asked me. To find out what{n}the Empire really means by its invasion.{wait}{clear}And to learn about the current emperor...{wait}{clear}So for a while, I won't be able to take your{n}requests, ＄＄＄＄＄＄.{wait}{clear}Until I've met the emperor in the Empire and{n}reported to my brother, sorry, but let me do{n}things my way.{wait}{clear}	
 loev04_03.023C	ＮＵＬＬ	NULL	speaker
-loev04_03.024C	《それは困ります。》{n}		
-loev04_03.0268	《大切なつとめですね。》{n}		
+loev04_03.024C	《それは困ります。》{n}	That is a problem.{n}	
+loev04_03.0268	《大切なつとめですね。》{n}	It is an important duty.{n}	
 loev04_03.028E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_03.029E	ルディの事情もわかりますが、それは困ります。{wait}{clear}		
+loev04_03.029E	ルディの事情もわかりますが、それは困ります。{wait}{clear}	I understand your situation, Rudi, but that{n}is a problem.{wait}{clear}	
 loev04_03.02DA	ルディエール	Rudiere	speaker
-loev04_03.02EA	なんだよ……！{wait}{clear}確かに、世界の混乱を正すっていう{n}＄＄＄＄＄＄に協力するのは大切だとわかってる。{wait}{clear}でも、おれは兄さんが守ろうとしている国のことも{n}大事なんだ。{wait}{clear}今回は＄＄＄＄＄＄の言うことは聞けない。{n}じゃあな！{wait}{clear}		
+loev04_03.02EA	なんだよ……！{wait}{clear}確かに、世界の混乱を正すっていう{n}＄＄＄＄＄＄に協力するのは大切だとわかってる。{wait}{clear}でも、おれは兄さんが守ろうとしている国のことも{n}大事なんだ。{wait}{clear}今回は＄＄＄＄＄＄の言うことは聞けない。{n}じゃあな！{wait}{clear}	What the heck...!{wait}{clear}Sure, I know helping you set the world's{n}turmoil right is important, ＄＄＄＄＄＄.{wait}{clear}But the country my brother's trying to{n}protect matters to me too.{wait}{clear}This time I'm not listening to you. See ya!{wait}{clear}	
 loev04_03.03D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_03.03E2	それは、とても大切なつとめだと私も思います。{n}私のことは気にせず、帝国へ行ってください。{wait}{clear}		
+loev04_03.03E2	それは、とても大切なつとめだと私も思います。{n}私のことは気にせず、帝国へ行ってください。{wait}{clear}	I also think it is a very important duty.{n}Don't worry about me. Go to the Empire.{wait}{clear}	
 loev04_03.044A	ルディエール	Rudiere	speaker
-loev04_03.045A	ありがとう、＄＄＄＄＄＄。{n}そう言ってもらって、ほっとしたよ。{wait}{clear}じゃあ、おれ、支度があるから。{wait}{clear}		
+loev04_03.045A	ありがとう、＄＄＄＄＄＄。{n}そう言ってもらって、ほっとしたよ。{wait}{clear}じゃあ、おれ、支度があるから。{wait}{clear}	Thanks, ＄＄＄＄＄＄. I'm relieved to hear{n}you say that.{wait}{clear}Well, I've got to get ready.{wait}{clear}	
 loev04_03.04BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_03.04CE	ええ、気をつけて、ルディ。{wait}{clear}		
+loev04_03.04CE	ええ、気をつけて、ルディ。{wait}{clear}	Yes. Take care, Rudi.{wait}{clear}	
 loev04_03.04EC	ルディエール	Rudiere	speaker
 loev04_03.04FC	ああ、わかった。{wait}{clear}	Yeah, understood.{wait}{clear}	

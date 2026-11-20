@@ -1,26 +1,26 @@
 id	jp	en	notes
 men1_Ce01.0052	セシア	Cecia	speaker
-men1_Ce01.005C	急にお呼びしてすみません。{wait}{clear}		
+men1_Ce01.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry for calling you so suddenly.{wait}{clear}	
 men1_Ce01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ce01.008A	いいえ、それは気にしないでください。{wait}{clear}妖精から話があると聞いて来たのですが、{n}なにかあったのですか？{wait}{clear}		
+men1_Ce01.008A	いいえ、それは気にしないでください。{wait}{clear}妖精から話があると聞いて来たのですが、{n}なにかあったのですか？{wait}{clear}	No, please don't worry about that.{wait}{clear}The fairy told me you wanted to talk. Has{n}something happened?{wait}{clear}	
 men1_Ce01.00F4	セシア	Cecia	speaker
-men1_Ce01.00FE	いいえ……あの……お話というか……{n}ごめんなさい、天使様。{wait}{clear}妖精さんから、天使様は呼んだら来てくださると{n}聞いたものですから……。{n}少し、お話しがしたくて……。{wait}{clear}		
+men1_Ce01.00FE	いいえ……あの……お話というか……{n}ごめんなさい、天使様。{wait}{clear}妖精さんから、天使様は呼んだら来てくださると{n}聞いたものですから……。{n}少し、お話しがしたくて……。{wait}{clear}	No... um... it's not really... I'm sorry,{n}Angel.{wait}{clear}The fairy told me you would come if I{n}called... I just wanted to talk with you a{n}little...{wait}{clear}	
 men1_Ce01.01A4	ＮＵＬＬ	NULL	speaker
-men1_Ce01.01B4	《そうだったのですね……。》{n}		
-men1_Ce01.01D8	《いつでも呼んでください。》{n}		
+men1_Ce01.01B4	《そうだったのですね……。》{n}	So that's what it was...{n}	
+men1_Ce01.01D8	《いつでも呼んでください。》{n}	Call me anytime.{n}	
 men1_Ce01.01FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ce01.020C	そうだったのですね……。{n}それで、ぜんぜんかまいませんよ。{wait}{clear}でも、よかった……。{n}セシアになにかあったのかと思ってましたから。{wait}{clear}		
+men1_Ce01.020C	そうだったのですね……。{n}それで、ぜんぜんかまいませんよ。{wait}{clear}でも、よかった……。{n}セシアになにかあったのかと思ってましたから。{wait}{clear}	So that's what it was... That's perfectly{n}fine.{wait}{clear}But I'm glad... I thought something had{n}happened to you, Cecia.{wait}{clear}	
 men1_Ce01.029C	セシア	Cecia	speaker
-men1_Ce01.02A6	すみません、天使様……。{n}かえって心配をかけてしまったみたいで。{wait}{clear}		
+men1_Ce01.02A6	すみません、天使様……。{n}かえって心配をかけてしまったみたいで。{wait}{clear}	I'm sorry, Angel... It seems I only made you{n}worry.{wait}{clear}	
 men1_Ce01.02EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ce01.02FA	気にしないでください、セシア。{n}これからもなにかあれば、{n}気がねなく呼んでくださいね。{wait}{clear}		
+men1_Ce01.02FA	気にしないでください、セシア。{n}これからもなにかあれば、{n}気がねなく呼んでくださいね。{wait}{clear}	Don't worry about it, Cecia. If anything{n}comes up, please don't hesitate to call me.{wait}{clear}	
 men1_Ce01.0360	セシア	Cecia	speaker
-men1_Ce01.036A	はい、ありがとうございます、天使様{wait}{clear}		
+men1_Ce01.036A	はい、ありがとうございます、天使様{wait}{clear}	Yes, thank you, Angel.{wait}{clear}	
 men1_Ce01.0394	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ce01.03A4	いつでも呼んでください。{n}これが、私のつとめでもあるのですから。{wait}{clear}		
+men1_Ce01.03A4	いつでも呼んでください。{n}これが、私のつとめでもあるのですから。{wait}{clear}	Call me anytime. That is part of my duty,{n}after all.{wait}{clear}	
 men1_Ce01.03E8	セシア	Cecia	speaker
-men1_Ce01.03F2	天使様……。{n}そう言っていただいて、安心しました。{wait}{clear}		
+men1_Ce01.03F2	天使様……。{n}そう言っていただいて、安心しました。{wait}{clear}	Angel... I'm relieved to hear you say that.{wait}{clear}	
 men1_Ce01.0428	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ce01.0438	あんまり気を張らないでくださいね、セシア。{wait}{clear}		
+men1_Ce01.0438	あんまり気を張らないでくださいね、セシア。{wait}{clear}	Try not to be so tense, Cecia.{wait}{clear}	
 men1_Ce01.0472	セシア	Cecia	speaker
-men1_Ce01.047C	はい、わかりました。{n}ありがとうございます、天使様。{wait}{clear}		
+men1_Ce01.047C	はい、わかりました。{n}ありがとうございます、天使様。{wait}{clear}	Yes, I will. Thank you, Angel.{wait}{clear}	

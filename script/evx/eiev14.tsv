@@ -3,7 +3,7 @@ eiev14.0002	セレニスとの戦い		dev label (guess: not shown)
 eiev14.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev14.00DE	セレニス	Serenis	unit name (32-byte field)
 eiev14.011A	魔法		unit name (32-byte field)
-eiev14.0156	エンディミオン		unit name (32-byte field)
+eiev14.0156	エンディミオン	Endymion	unit name (32-byte field)
 eiev14.0192	魔石（初期）		unit name (32-byte field)
 eiev14.01CE	魔石（点滅）		unit name (32-byte field)
 eiev14.020A	魔石（赤）		unit name (32-byte field)
@@ -22,10 +22,10 @@ eiev14.0728	セレニス	Serenis	speaker
 eiev14.073F	そこでだまって見ていなさい。{n}アイリーン。		text
 eiev14.079C	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 eiev14.07E3	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-eiev14.088C	エンディミオン		speaker
+eiev14.088C	エンディミオン	Endymion	speaker
 eiev14.08A9	セレニス……お前はなにを……。		text
 eiev14.08E6	セレニス	Serenis	speaker
 eiev14.08FD	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 eiev14.0966	さあ……始めましょう……。		text
-eiev14.0A1B	エンディミオン		speaker
+eiev14.0A1B	エンディミオン	Endymion	speaker
 eiev14.0A38	ああ……。		text

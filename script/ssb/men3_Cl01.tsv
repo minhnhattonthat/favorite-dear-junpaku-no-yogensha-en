@@ -1,8 +1,8 @@
 id	jp	en	notes
 men3_Cl01.0052	クライヴ	Clive	speaker
-men3_Cl01.005E	すまない……呼び出して。{wait}{clear}		
+men3_Cl01.005E	すまない……呼び出して。{wait}{clear}	Sorry... for calling you out.{wait}{clear}	
 men3_Cl01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl01.008A	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
+men3_Cl01.008A	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}	What is it? Is something on your mind?{wait}{clear}	
 men3_Cl01.00C8	クライヴ	Clive	speaker
 men3_Cl01.00D4	いや……これを……{n}銀のナイフをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
 men3_Cl01.012E	ＮＵＬＬ	NULL	speaker

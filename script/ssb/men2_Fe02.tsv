@@ -1,6 +1,6 @@
 id	jp	en	notes
 men2_Fe02.0052	フェイン	Fein	speaker
-men2_Fe02.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
+men2_Fe02.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sorry to call you out, ＄＄＄＄＄＄.{wait}{clear}	
 men2_Fe02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.0092	いいえ……それはかまいません……。{n}なにかお話があるのでしょう？{wait}{clear}		
 men2_Fe02.00D6	フェイン	Fein	speaker
@@ -23,4 +23,4 @@ men2_Fe02.02FC	ええ、私でよければ……。{wait}{clear}
 men2_Fe02.0318	フェイン	Fein	speaker
 men2_Fe02.0324	そうか……。{n}忙しいと思うが、少し話につきあってもらえないか？{wait}{clear}		
 men2_Fe02.0366	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Fe02.0376	ええ、よろこんで。{wait}{clear}		
+men2_Fe02.0376	ええ、よろこんで。{wait}{clear}	Yes, gladly.{wait}{clear}	

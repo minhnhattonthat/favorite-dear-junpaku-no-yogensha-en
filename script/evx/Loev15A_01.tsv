@@ -1,20 +1,20 @@
 id	jp	en	notes
-Loev15A_01.0002	サヴィア		dev label (guess: not shown)
+Loev15A_01.0002	サヴィア	Savia	dev label (guess: not shown)
 Loev15A_01.00A2	ルディ		unit name (32-byte field)
-Loev15A_01.00DE	サヴィア		unit name (32-byte field)
+Loev15A_01.00DE	サヴィア	Savia	unit name (32-byte field)
 Loev15A_01.04FC	ルディエール	Rudiere	speaker
 Loev15A_01.0517	サヴィア……		text
-Loev15A_01.0532	サヴィア		speaker
+Loev15A_01.0532	サヴィア	Savia	speaker
 Loev15A_01.0549	ルディ……あなたにお願いがあるの……		text
 Loev15A_01.05CC	弟を止めて……		text
 Loev15A_01.05E9	ルディエール	Rudiere	speaker
 Loev15A_01.0604	弟？　君の？		text
-Loev15A_01.061F	サヴィア		speaker
+Loev15A_01.061F	サヴィア	Savia	speaker
 Loev15A_01.0636	……あの鎧の男が私の弟、サヴィオなの……。		text
 Loev15A_01.066F	鎧が……鎧がサヴィオをむしばんで……。{n}怖い……あなたにしか私は……		text
 Loev15A_01.0712	ルディエール	Rudiere	speaker
 Loev15A_01.072D	話してくれ……よく。		text
-Loev15A_01.0750	サヴィア		speaker
+Loev15A_01.0750	サヴィア	Savia	speaker
 Loev15A_01.0767	……私たち二人の姉弟はもともと、{n}カディスの貧民街で生まれたの。{n}あなたと出会ったあのあたりよ……。		text
 Loev15A_01.07DA	幼いころ、食いぶちをへらすために、{n}私たちは貴族に売られたの。		text
 Loev15A_01.0827	そこの貴族は子供をあつめて暗殺者を育てていた。{n}自分の道具として……		text
@@ -34,12 +34,12 @@ Loev15A_01.0C8A	あの鎧が怖い……{n}弟を弟じゃなくしてしまっ�
 Loev15A_01.0D1F	ルディエール	Rudiere	speaker
 Loev15A_01.0D3A	わかった。{n}おれがサヴィオを止めれるかどうかは{n}わからないけど……。		text
 Loev15A_01.0D8D	やってみる。		text
-Loev15A_01.0DA8	サヴィア		speaker
+Loev15A_01.0DA8	サヴィア	Savia	speaker
 Loev15A_01.0DBF	ありがとう……ルディ。{n}ごめんなさい。私はあなたをだまして…、		text
 Loev15A_01.0E0C	ルディエール	Rudiere	speaker
 Loev15A_01.0E27	いや、もうそんなことはいいんだ……。{n}自分の甘さがよくわかった……。		text
 Loev15A_01.0E7A	悔しいけどさ……		text
-Loev15A_01.0E99	サヴィア		speaker
+Loev15A_01.0E99	サヴィア	Savia	speaker
 Loev15A_01.0EB0	お兄さんのこと……まだ……{n}本当にごめんなさい。		text
 Loev15A_01.0EEF	ルディエール	Rudiere	speaker
 Loev15A_01.0F0A	君のせいで兄さんが死んだわけじゃない。{n}貴族院の連中がやったのはおれもわかった……。		text

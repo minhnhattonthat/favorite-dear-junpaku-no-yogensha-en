@@ -1,25 +1,25 @@
 id	jp	en	notes
-loev03.0012	第03節「貧民窟」		speaker
+loev03.0012	第03節「貧民窟」	The Slums	speaker
 loev03.0064	ルディエール	Rudiere	speaker
-loev03.0074	このあたり、変わらないな……。{wait}{clear}		
+loev03.0074	このあたり、変わらないな……。{wait}{clear}	This area hasn't changed...{wait}{clear}	
 loev03.0096	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev03.00A6	ここは？{wait}{clear}		
+loev03.00A6	ここは？{wait}{clear}	Where are we?{wait}{clear}	
 loev03.00B2	ルディエール	Rudiere	speaker
-loev03.00C2	貧しい人たちが集まっている場所さ。{n}スラムとも呼ばれている。{wait}{clear}ここは旧東方王国の中では栄えている街だけど……{wait}{clear}その富を求めて、貧しい周りの地方から{n}多くの人がここに移ってきて、{n}こんな場所ができてしまったんだ。{wait}{clear}……うん？{wait}{clear}なんだ？　子供の声だ。{wait}{clear}		
+loev03.00C2	貧しい人たちが集まっている場所さ。{n}スラムとも呼ばれている。{wait}{clear}ここは旧東方王国の中では栄えている街だけど……{wait}{clear}その富を求めて、貧しい周りの地方から{n}多くの人がここに移ってきて、{n}こんな場所ができてしまったんだ。{wait}{clear}……うん？{wait}{clear}なんだ？　子供の声だ。{wait}{clear}	It's where the poor gather. People call it{n}the slums.{wait}{clear}This is one of the more prosperous cities in{n}the old Eastern Kingdom, but...{wait}{clear}lots of people from the poor regions around{n}here moved in chasing its wealth, and a{n}place like this was the result.{wait}{clear}...Hm?{wait}{clear}What's that? A child's voice.{wait}{clear}	
 loev03.01EA	ルディエール	Rudiere	speaker
-loev03.01FA	……あの子供、よっぽど貴族が憎いらしい。{n}おれに口をきくのも嫌がってた。{wait}{clear}		
+loev03.01FA	……あの子供、よっぽど貴族が憎いらしい。{n}おれに口をきくのも嫌がってた。{wait}{clear}	...That kid must really hate nobles. He{n}didn't even want to talk to me.{wait}{clear}	
 loev03.0254	ルディエール	Rudiere	speaker
-loev03.0264	旧東方王国はこんなところが多いんだ。{wait}{clear}西方は歴史もあって栄えているけど、{n}この東方はまだ皆、貧しくて、{n}多くのひとが少数の貴族に支配されている。{wait}{clear}皆、貴族なんてろくなもんじゃないって思ってる。{wait}{clear}おれはさ、母親が東方出身で{n}ほんとに小さな頃はこっちで暮らしてたんだ。{wait}{clear}だから、ここの人たちの貴族や王族を憎む気持ちが、{n}いつか、なくなってくれればいいと思うよ。{wait}{clear}		
+loev03.0264	旧東方王国はこんなところが多いんだ。{wait}{clear}西方は歴史もあって栄えているけど、{n}この東方はまだ皆、貧しくて、{n}多くのひとが少数の貴族に支配されている。{wait}{clear}皆、貴族なんてろくなもんじゃないって思ってる。{wait}{clear}おれはさ、母親が東方出身で{n}ほんとに小さな頃はこっちで暮らしてたんだ。{wait}{clear}だから、ここの人たちの貴族や王族を憎む気持ちが、{n}いつか、なくなってくれればいいと思うよ。{wait}{clear}	There are a lot of places like this in the{n}old Eastern Kingdom.{wait}{clear}The west has history and it's prosperous,{n}but here in the east everyone's still poor,{n}and most people are ruled by a handful of{wait}{clear}nobles.{wait}{clear}Everyone thinks nobles are good for nothing.{wait}{clear}See, my mother came from the east, and when{n}I was really little I lived out here.{wait}{clear}So I hope someday the people here can stop{n}hating nobles and royals.{wait}{clear}	
 loev03.03D4	ＮＵＬＬ	NULL	speaker
-loev03.03E4	《いつか、そうなる……。》{n}		
-loev03.0406	《ルディならできる。》{n}		
+loev03.03E4	《いつか、そうなる……。》{n}	Someday, it will be...{n}	
+loev03.0406	《ルディならできる。》{n}	You can do it, Rudi.{n}	
 loev03.042E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev03.043E	いつか、そうなるといいですね。{wait}{clear}		
+loev03.043E	いつか、そうなるといいですね。{wait}{clear}	I hope that day comes.{wait}{clear}	
 loev03.0460	ルディエール	Rudiere	speaker
-loev03.0470	ああ、いつかな……。{wait}{clear}ずいぶん時間はかかるよ。{n}きっと。{wait}{clear}		
+loev03.0470	ああ、いつかな……。{wait}{clear}ずいぶん時間はかかるよ。{n}きっと。{wait}{clear}	Yeah, someday...{wait}{clear}It'll take a long time, though. I'm sure of{n}it.{wait}{clear}	
 loev03.04BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev03.04CE	ルディならきっとできます。{wait}{clear}		
+loev03.04CE	ルディならきっとできます。{wait}{clear}	I'm sure you can do it, Rudi.{wait}{clear}	
 loev03.04FA	ルディエール	Rudiere	speaker
-loev03.050A	そうか？{wait}{clear}おれになんかは無理さ……{wait}{clear}		
+loev03.050A	そうか？{wait}{clear}おれになんかは無理さ……{wait}{clear}	You think?{wait}{clear}Someone like me could never pull it off...{wait}{clear}	
 loev03.0540	ルディエール	Rudiere	speaker
-loev03.0550	まあ、でも少しでもなにかできれば{n}いいとは思うよ。{wait}{clear}		
+loev03.0550	まあ、でも少しでもなにかできれば{n}いいとは思うよ。{wait}{clear}	Well, still, I'd like to do something, even{n}if it's just a little.{wait}{clear}	

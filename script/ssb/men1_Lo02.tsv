@@ -1,24 +1,24 @@
 id	jp	en	notes
 men1_Lo02.0052	ルディエール	Rudiere	speaker
-men1_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
+men1_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Lo02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo02.008A	どうしたのです？{n}なにか気になることでもあるのですか、ルディ？{wait}{clear}		
+men1_Lo02.008A	どうしたのです？{n}なにか気になることでもあるのですか、ルディ？{wait}{clear}	What is it? Is something on your mind, Rudi?{wait}{clear}	
 men1_Lo02.00CC	ルディエール	Rudiere	speaker
-men1_Lo02.00DC	ちょっと＄＄＄＄＄＄と話がしたいと思ったんだ。{n}迷惑だったかな？{wait}{clear}		
+men1_Lo02.00DC	ちょっと＄＄＄＄＄＄と話がしたいと思ったんだ。{n}迷惑だったかな？{wait}{clear}	I just felt like talking with you a little,{n}＄＄＄＄＄＄. Was that a bother?{wait}{clear}	
 men1_Lo02.0120	ＮＵＬＬ	NULL	speaker
-men1_Lo02.0130	《いいえ、とんでもない。》{n}		
-men1_Lo02.0152	《ええ、ちょっと……。》{n}		
+men1_Lo02.0130	《いいえ、とんでもない。》{n}	No, not at all.{n}	
+men1_Lo02.0152	《ええ、ちょっと……。》{n}	Well, a little...{n}	
 men1_Lo02.0172	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo02.0182	いいえ、とんでもないです。{wait}{clear}こうして呼んでいただけると、{n}いろいろお話しできて{n}私もうれしいですよ。{wait}{clear}		
+men1_Lo02.0182	いいえ、とんでもないです。{wait}{clear}こうして呼んでいただけると、{n}いろいろお話しできて{n}私もうれしいですよ。{wait}{clear}	No, not at all.{wait}{clear}When you call me like this, we can talk{n}about all sorts of things, and that makes me{n}happy too.{wait}{clear}	
 men1_Lo02.01F8	ルディエール	Rudiere	speaker
-men1_Lo02.0208	そう言ってもらえると助かるよ。{n}＄＄＄＄＄＄は、いつも忙しそうだからな。{wait}{clear}じゃあ、悪いけど、少しだけつきあってくれよ。{wait}{clear}		
+men1_Lo02.0208	そう言ってもらえると助かるよ。{n}＄＄＄＄＄＄は、いつも忙しそうだからな。{wait}{clear}じゃあ、悪いけど、少しだけつきあってくれよ。{wait}{clear}	Good to hear. You always look so busy,{n}＄＄＄＄＄＄.{wait}{clear}Then, sorry, but hang out with me for a bit.{wait}{clear}	
 men1_Lo02.0284	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo02.0294	はい。{wait}{clear}	Yes.{wait}{clear}	
 men1_Lo02.02A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo02.02B2	ええ、ちょっと……{n}ルディには申し訳ないのですが、{n}あまり時間がなくて……。{wait}{clear}		
+men1_Lo02.02B2	ええ、ちょっと……{n}ルディには申し訳ないのですが、{n}あまり時間がなくて……。{wait}{clear}	Well, a little... I'm sorry, Rudi, but I{n}don't have much time...{wait}{clear}	
 men1_Lo02.0302	ルディエール	Rudiere	speaker
-men1_Lo02.0312	そうか……やっぱり忙しいんだ。{wait}{clear}そんな＄＄＄＄＄＄を{n}無理につきあわせるわけにはいかないな。{wait}{clear}		
+men1_Lo02.0312	そうか……やっぱり忙しいんだ。{wait}{clear}そんな＄＄＄＄＄＄を{n}無理につきあわせるわけにはいかないな。{wait}{clear}	I see... You're busy after all.{wait}{clear}I can't make you stick around when you're{n}that busy, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Lo02.0374	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo02.0384	すみません……。{wait}{clear}		
+men1_Lo02.0384	すみません……。{wait}{clear}	I'm sorry...{wait}{clear}	
 men1_Lo02.03A4	ルディエール	Rudiere	speaker
-men1_Lo02.03B4	いや、そんなたいした話じゃないし。{n}いいよ、またの機会にしよう。{wait}{clear}じゃあな。{wait}{clear}		
+men1_Lo02.03B4	いや、そんなたいした話じゃないし。{n}いいよ、またの機会にしよう。{wait}{clear}じゃあな。{wait}{clear}	Nah, it's nothing that important. It's fine,{n}let's do it another time.{wait}{clear}See ya.{wait}{clear}	

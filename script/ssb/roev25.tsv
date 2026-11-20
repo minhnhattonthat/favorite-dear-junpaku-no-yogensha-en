@@ -25,7 +25,7 @@ roev25.0334	天界へ帰るのか？{wait}{clear}
 roev25.0348	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.0358	はい……{wait}{clear}でも必ずあなたの元に戻ります。{wait}{clear}……私は人としてここに残ります。{wait}{clear}		
 roev25.03AA	ロクス	Rocus	speaker
-roev25.03B4	……＄＄＄＄＄＄。{wait}{clear}		
+roev25.03B4	……＄＄＄＄＄＄。{wait}{clear}	...＄＄＄＄＄＄.{wait}{clear}	
 roev25.03CE	もし、戻れないのなら……{n}いいんだ……{wait}{clear}		
 roev25.03FC	僕なんかのために、{n}なにかを捨てることなどない……{wait}{clear}		
 roev25.0436	僕のことなど忘れてしまってくれ。{wait}{clear}		

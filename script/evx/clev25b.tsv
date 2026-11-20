@@ -3,7 +3,7 @@ clev25b.0002	ラストバトル		dev label (guess: not shown)
 clev25b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev25b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 clev25b.011A	天竜		unit name (32-byte field)
-clev25b.04A8	エンディミオン		speaker
+clev25b.04A8	エンディミオン	Endymion	speaker
 clev25b.04C5	どうだ、わかったか？		text
 clev25b.04F8	これが、支配者の力だ。		text
 clev25b.052D	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
@@ -22,12 +22,12 @@ clev25b.08DF	《いいえ……》		choice
 clev25b.0900	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev25b.091B	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
 clev25b.096A	どうか……彼の魂を、{n}彼の命を救ってください……		text
-clev25b.09B9	エンディミオン		speaker
+clev25b.09B9	エンディミオン	Endymion	speaker
 clev25b.09D6	ふふ、すばらしい。{n}いい心ばえだ……		text
 clev25b.0A19	では……この勇者を救ってやろう……。		text
 clev25b.0AA0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev25b.0ABB	クライヴ！！		text
-clev25b.0AE6	エンディミオン		speaker
+clev25b.0AE6	エンディミオン	Endymion	speaker
 clev25b.0B03	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
 clev25b.0B5C	すべてを失ったその顔が見たかったのだ！		text
 clev25b.0BA1	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
@@ -36,13 +36,13 @@ clev25b.0C47	死ね。		text
 clev25b.0CBC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev25b.0CD7	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
 clev25b.0D28	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
-clev25b.0D9F	エンディミオン		speaker
+clev25b.0D9F	エンディミオン	Endymion	speaker
 clev25b.0DBC	ふん、小賢しいことを……。		text
 clev25b.0DF5	いいだろう。		text
 clev25b.0E20	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
 clev25b.0E69	男の声		speaker
 clev25b.0E7E	待て、ベルゼバブ……		text
-clev25b.0ED9	エンディミオン		speaker
+clev25b.0ED9	エンディミオン	Endymion	speaker
 clev25b.0EF6	私の真の名を呼ぶとは……		text
 clev25b.0F2D	男の声		speaker
 clev25b.0F42	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text

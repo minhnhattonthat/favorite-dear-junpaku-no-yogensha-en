@@ -1,42 +1,42 @@
 id	jp	en	notes
 loev18.003A	ルディエール	Rudiere	speaker
-loev18.004E	天竜だ……＄＄＄＄＄＄……{n}ここからも見える……。{wait}{clear}		
+loev18.004E	天竜だ……＄＄＄＄＄＄……{n}ここからも見える……。{wait}{clear}	It's the Heavenly Dragon... ＄＄＄＄＄＄...{n}You can see it from here too...{wait}{clear}	
 loev18.00A6	ルディエール	Rudiere	speaker
-loev18.00BA	世界の混乱は……もう止められないのか？{wait}{clear}		
+loev18.00BA	世界の混乱は……もう止められないのか？{wait}{clear}	Is there no stopping the world's turmoil{n}now...?{wait}{clear}	
 loev18.00E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev18.00F4	いいえ……天竜を……{n}それを操る悪魔をたおせば……光明はあります。{wait}{clear}		
+loev18.00F4	いいえ……天竜を……{n}それを操る悪魔をたおせば……光明はあります。{wait}{clear}	No... If we defeat the Heavenly Dragon...{n}and the devil who controls it... there is{n}still hope.{wait}{clear}	
 loev18.0160	ルディエール	Rudiere	speaker
-loev18.0174	天竜を倒すこと……{wait}{clear}		
-loev18.018E	おれにできるのかな……。{wait}{clear}		
-loev18.01AE	……いや、{n}おれがやらなくちゃいけないんだな。{n}＄＄＄＄＄＄。{wait}{clear}		
-loev18.0200	おれは兄さんたちのために……{wait}{clear}		
-loev18.0224	いや……信じてくれた人たちが{n}大切に思っていたこの世界のために……{wait}{clear}		
-loev18.026E	天竜を必ず倒すよ……。{wait}{clear}		
-loev18.0294	……＄＄＄＄＄＄。{wait}{clear}		
-loev18.02AE	すべての戦いが終わったとき{n}君は天界へ帰ってしまうのか？{wait}{clear}		
+loev18.0174	天竜を倒すこと……{wait}{clear}	Defeat the Heavenly Dragon...{wait}{clear}	
+loev18.018E	おれにできるのかな……。{wait}{clear}	Can I really do that...?{wait}{clear}	
+loev18.01AE	……いや、{n}おれがやらなくちゃいけないんだな。{n}＄＄＄＄＄＄。{wait}{clear}	...No, I'm the one who has to do it, right,{n}＄＄＄＄＄＄?{wait}{clear}	
+loev18.0200	おれは兄さんたちのために……{wait}{clear}	For my brother and the others...{wait}{clear}	
+loev18.0224	いや……信じてくれた人たちが{n}大切に思っていたこの世界のために……{wait}{clear}	No... for this world that the people who{n}believed in me held so dear...{wait}{clear}	
+loev18.026E	天竜を必ず倒すよ……。{wait}{clear}	I'll defeat the Heavenly Dragon. I swear...{wait}{clear}	
+loev18.0294	……＄＄＄＄＄＄。{wait}{clear}	...＄＄＄＄＄＄.{wait}{clear}	
+loev18.02AE	すべての戦いが終わったとき{n}君は天界へ帰ってしまうのか？{wait}{clear}	When all the fighting's over, will you go{n}back to the Heavens?{wait}{clear}	
 loev18.02EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev18.02FA	はい……それがつとめです。{wait}{clear}	Yes... that is my duty.{wait}{clear}	
 loev18.0318	ルディエール	Rudiere	speaker
-loev18.032C	おれにはさ……君がとても大切な人なんだ……。{wait}{clear}		
-loev18.0360	それにはっきりと気づいた……。{wait}{clear}		
-loev18.0386	ずっとともに戦ってきて……{n}おれは……君がいてくれたことに{n}どれだけ助けられたか……{wait}{clear}		
-loev18.03EE	お願いだ……地上に残ってくれないか……{wait}{clear}		
-loev18.041C	おれのそばにこれからもずっと……いて欲しいんだ。{wait}{clear}		
+loev18.032C	おれにはさ……君がとても大切な人なんだ……。{wait}{clear}	To me... you're someone really precious...{wait}{clear}	
+loev18.0360	それにはっきりと気づいた……。{wait}{clear}	I've realized that clearly now...{wait}{clear}	
+loev18.0386	ずっとともに戦ってきて……{n}おれは……君がいてくれたことに{n}どれだけ助けられたか……{wait}{clear}	We've fought together all this time... and{n}I... can't say how much it helped me, having{n}you there...{wait}{clear}	
+loev18.03EE	お願いだ……地上に残ってくれないか……{wait}{clear}	Please... won't you stay in this world...?{wait}{clear}	
+loev18.041C	おれのそばにこれからもずっと……いて欲しいんだ。{wait}{clear}	I want you by my side... from now on,{n}always.{wait}{clear}	
 loev18.0450	ＮＵＬＬ	NULL	speaker
 loev18.0460	《はい……》{n}	Yes...{n}	
 loev18.0474	《すみません……》{n}	I'm sorry...{n}	
 loev18.048E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev18.049E	はい……わかりました。{n}この地上に残ります。{wait}{clear}		
+loev18.049E	はい……わかりました。{n}この地上に残ります。{wait}{clear}	Yes... All right. I will stay in this world.{wait}{clear}	
 loev18.04FA	ルディエール	Rudiere	speaker
 loev18.050E	ありがとう、＄＄＄＄＄＄。{wait}{clear}	Thank you, ＄＄＄＄＄＄.{wait}{clear}	
-loev18.0530	君がそう言ってくれることを願っていた……。{wait}{clear}		
-loev18.0562	おれは君にふさわしい男になるよ。{n}必ず……。{wait}{clear}		
+loev18.0530	君がそう言ってくれることを願っていた……。{wait}{clear}	I was hoping you'd say that...{wait}{clear}	
+loev18.0562	おれは君にふさわしい男になるよ。{n}必ず……。{wait}{clear}	I'll become a man worthy of you. I{n}promise...{wait}{clear}	
 loev18.0648	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev18.0658	すみません……ルディ……{wait}{clear}私は、天使として、{n}天界のために働かなくてはならないのです。{n}これからもずっと……。{wait}{clear}地上に残ることはできません……。{wait}{clear}		
+loev18.0658	すみません……ルディ……{wait}{clear}私は、天使として、{n}天界のために働かなくてはならないのです。{n}これからもずっと……。{wait}{clear}地上に残ることはできません……。{wait}{clear}	I'm sorry... Rudi...{wait}{clear}As an angel, I must work for the Heavens.{n}Now and always...{wait}{clear}I cannot stay in this world...{wait}{clear}	
 loev18.06FC	ルディエール	Rudiere	speaker
 loev18.0710	そうか……。{wait}{clear}	I see...{wait}{clear}	
-loev18.0724	そうだよな……。{wait}{clear}		
-loev18.073C	君にはたくさんやらなきゃ{n}いけないことがあるんだな……。{wait}{clear}		
-loev18.077C	おれだけの君じゃない……。{wait}{clear}		
-loev18.07AA	ごめんな。{n}こんな無理を君に願ったりして。{wait}{clear}		
-loev18.07DC	悪かった……。{wait}{clear}		
+loev18.0724	そうだよな……。{wait}{clear}	Yeah, of course...{wait}{clear}	
+loev18.073C	君にはたくさんやらなきゃ{n}いけないことがあるんだな……。{wait}{clear}	You've got so many things you need to do...{wait}{clear}	
+loev18.077C	おれだけの君じゃない……。{wait}{clear}	You don't belong to just me...{wait}{clear}	
+loev18.07AA	ごめんな。{n}こんな無理を君に願ったりして。{wait}{clear}	Sorry. For asking something so impossible of{n}you.{wait}{clear}	
+loev18.07DC	悪かった……。{wait}{clear}	My bad...{wait}{clear}	

@@ -1,12 +1,12 @@
 id	jp	en	notes
 men2_La02.0052	レイラ	Leyla	speaker
-men2_La02.005C	呼び出して悪いわね。{wait}{clear}		
+men2_La02.005C	呼び出して悪いわね。{wait}{clear}	Sorry to call you out.{wait}{clear}	
 men2_La02.0074	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La02.0084	なにかお話しでもあるのですか？　レイラ？{wait}{clear}		
 men2_La02.00B0	レイラ	Leyla	speaker
 men2_La02.00BA	ええ、用がなかったら呼んだりはしないわ。{n}＄＄＄＄＄＄はいつも忙しそうだもの。{wait}{clear}少しつきあってもらってもいいかしら？{wait}{clear}		
 men2_La02.0134	ＮＵＬＬ	NULL	speaker
-men2_La02.0144	《なにか困ったことでも？》{n}		
+men2_La02.0144	《なにか困ったことでも？》{n}	Is something troubling you?{n}	
 men2_La02.0166	《私も……。》{n}		
 men2_La02.017C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La02.018C	なにか困ったことでもあるのですか？{wait}{clear}		

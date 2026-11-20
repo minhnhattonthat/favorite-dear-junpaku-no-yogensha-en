@@ -5,7 +5,7 @@ ceev20e.00DE	セレニス	Serenis	unit name (32-byte field)
 ceev20e.011A	覚醒エンディミオン		unit name (32-byte field)
 ceev20e.0156	椅子		unit name (32-byte field)
 ceev20e.0192	魔石の台		unit name (32-byte field)
-ceev20e.04A8	エンディミオン		speaker
+ceev20e.04A8	エンディミオン	Endymion	speaker
 ceev20e.04C5	ふむ……なかなかいいぞ。		text
 ceev20e.04FC	天使ども！{n}天竜がよみがえった今、何をしてももう無駄だ！		text
 ceev20e.0553	この天竜……サタン様の魂の化身とともに、{n}私はコキュートスへ戻るのだ……。		text

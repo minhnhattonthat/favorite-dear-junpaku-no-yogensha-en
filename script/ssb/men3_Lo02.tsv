@@ -1,8 +1,8 @@
 id	jp	en	notes
 men3_Lo02.005C	ルディエール	Rudiere	speaker
-men3_Lo02.006C	よう、＄＄＄＄＄＄。{wait}{clear}		
+men3_Lo02.006C	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men3_Lo02.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo02.0094	どうしたのですか、ルディ？{wait}{clear}		
+men3_Lo02.0094	どうしたのですか、ルディ？{wait}{clear}	What is it, Rudi?{wait}{clear}	
 men3_Lo02.00B2	ルディエール	Rudiere	speaker
 men3_Lo02.00C2	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
 men3_Lo02.0112	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

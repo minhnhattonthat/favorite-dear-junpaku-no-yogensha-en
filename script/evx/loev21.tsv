@@ -3,7 +3,7 @@ loev21.0002	セレニスとの戦い		dev label (guess: not shown)
 loev21.00A2	ルディエール	Rudiere	unit name (32-byte field)
 loev21.00DE	セレニス	Serenis	unit name (32-byte field)
 loev21.011A	魔法		unit name (32-byte field)
-loev21.0156	エンディミオン		unit name (32-byte field)
+loev21.0156	エンディミオン	Endymion	unit name (32-byte field)
 loev21.0192	魔石（初期）		unit name (32-byte field)
 loev21.01CE	魔石（点滅）		unit name (32-byte field)
 loev21.020A	魔石（赤）		unit name (32-byte field)
@@ -18,10 +18,10 @@ loev21.0636	そこでじっとしていなさい。{n}天使の勇者よ。		tex
 loev21.066F	偉大な力がよみがえるのを見せてあげるわ。		text
 loev21.06CA	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 loev21.0711	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-loev21.07BA	エンディミオン		speaker
+loev21.07BA	エンディミオン	Endymion	speaker
 loev21.07D7	セレニス……お前はなにを……。		text
 loev21.0814	セレニス	Serenis	speaker
 loev21.082B	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 loev21.0894	さあ……始めましょう……。		text
-loev21.0949	エンディミオン		speaker
+loev21.0949	エンディミオン	Endymion	speaker
 loev21.0966	ああ……。		text

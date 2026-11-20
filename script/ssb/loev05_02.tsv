@@ -1,110 +1,110 @@
 id	jp	en	notes
 loev05_02.002A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.003A	こんばんは、ルディ。{wait}{clear}		
+loev05_02.003A	こんばんは、ルディ。{wait}{clear}	Good evening, Rudi.{wait}{clear}	
 loev05_02.005C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.006C	変ですね……{n}部屋でじっとしていると言っていたのに……。{wait}{clear}あ……！{n}外にいるようですね。{n}行ってみましょう。{wait}{clear}		
+loev05_02.006C	変ですね……{n}部屋でじっとしていると言っていたのに……。{wait}{clear}あ……！{n}外にいるようですね。{n}行ってみましょう。{wait}{clear}	That's strange... He said he would stay put{n}in his room...{wait}{clear}Ah...! It seems he's outside. Let's go and{n}see.{wait}{clear}	
 loev05_02.00EE	ルディエール	Rudiere	speaker
-loev05_02.0102	なんだ……。{n}どうした？{wait}{clear}		
+loev05_02.0102	なんだ……。{n}どうした？{wait}{clear}	What... What's up?{wait}{clear}	
 loev05_02.011E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.012E	いえ、ちょっとルディのことが気になって……。{wait}{clear}ルディこそ、こんな時間にこんなところで、{n}どうしたのですか？{wait}{clear}		
+loev05_02.012E	いえ、ちょっとルディのことが気になって……。{wait}{clear}ルディこそ、こんな時間にこんなところで、{n}どうしたのですか？{wait}{clear}	Nothing, I was just a little worried about{n}you...{wait}{clear}What about you, Rudi? What are you doing out{n}here at this hour?{wait}{clear}	
 loev05_02.019E	ルディエール	Rudiere	speaker
-loev05_02.01B2	あ、うん……なんだか眠れなくてさ。{wait}{clear}		
-loev05_02.01DC	部屋を抜け出して、ここで景色を見てた……。{wait}{clear}		
-loev05_02.020E	ふう……なんだかんだ言って、{n}あの宰相の言ってた通りだ……{wait}{clear}		
-loev05_02.0250	おれたちの国は若くて歴史もない……。{wait}{clear}		
-loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{wait}{clear}		
+loev05_02.01B2	あ、うん……なんだか眠れなくてさ。{wait}{clear}	Oh, yeah... I just couldn't sleep.{wait}{clear}	
+loev05_02.01DC	部屋を抜け出して、ここで景色を見てた……。{wait}{clear}	I snuck out of my room and was looking at{n}the view here...{wait}{clear}	
+loev05_02.020E	ふう……なんだかんだ言って、{n}あの宰相の言ってた通りだ……{wait}{clear}	Phew... Say what you will, that chancellor{n}had a point...{wait}{clear}	
+loev05_02.0250	おれたちの国は若くて歴史もない……。{wait}{clear}	Our country is young and has no history...{wait}{clear}	
+loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{wait}{clear}	Maybe it's only natural they look down on{n}me.{wait}{clear}	
 loev05_02.02AA	ＮＵＬＬ	NULL	speaker
-loev05_02.02BA	《そんなことはない》{n}		
-loev05_02.02D6	《気を落とすことはない》{n}		
+loev05_02.02BA	《そんなことはない》{n}	That isn't true{n}	
+loev05_02.02D6	《気を落とすことはない》{n}	Don't lose heart{n}	
 loev05_02.0300	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.0310	そんなことはありません。{n}あなたの国は立派な国です。{wait}{clear}それぞれの国に事情はあります。{n}でも、そこに優劣はないはずです。{wait}{clear}		
+loev05_02.0310	そんなことはありません。{n}あなたの国は立派な国です。{wait}{clear}それぞれの国に事情はあります。{n}でも、そこに優劣はないはずです。{wait}{clear}	That isn't true. Your country is a fine one.{wait}{clear}Every country has its own circumstances. But{n}none of them should be better or worse for{n}it.{wait}{clear}	
 loev05_02.038C	ルディエール	Rudiere	speaker
 loev05_02.03A0	そうだな……。{wait}{clear}	Yeah...{wait}{clear}	
-loev05_02.03B6	おれたちの国はこれからだ……{wait}{clear}		
-loev05_02.03DA	これから、{n}自分たちのできることをするしかないな……。{wait}{clear}		
+loev05_02.03B6	おれたちの国はこれからだ……{wait}{clear}	Our country's just getting started...{wait}{clear}	
+loev05_02.03DA	これから、{n}自分たちのできることをするしかないな……。{wait}{clear}	From here on, all we can do is what we're{n}able to...{wait}{clear}	
 loev05_02.041E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.042E	人の言葉に気を落とす必要はありません。{wait}{clear}ルディはレグランスを誇りに思っているんでしょう。{n}その想いを信じてください。{wait}{clear}		
+loev05_02.042E	人の言葉に気を落とす必要はありません。{wait}{clear}ルディはレグランスを誇りに思っているんでしょう。{n}その想いを信じてください。{wait}{clear}	You don't need to lose heart over what{n}others say.{wait}{clear}You're proud of Legrance, aren't you, Rudi?{n}Believe in that feeling.{wait}{clear}	
 loev05_02.04A8	ルディエール	Rudiere	speaker
-loev05_02.04BC	ああ……そうだな。{wait}{clear}		
-loev05_02.04D6	これからだもんな……おれたちの国は。{wait}{clear}		
-loev05_02.0502	おれはおれのできることをするしかない……。{wait}{clear}		
+loev05_02.04BC	ああ……そうだな。{wait}{clear}	Yeah... You're right.{wait}{clear}	
+loev05_02.04D6	これからだもんな……おれたちの国は。{wait}{clear}	It's just getting started... our country.{wait}{clear}	
+loev05_02.0502	おれはおれのできることをするしかない……。{wait}{clear}	All I can do is what I'm able to...{wait}{clear}	
 loev05_02.0530	ルディエール	Rudiere	speaker
-loev05_02.0544	……うん？{wait}{clear}		
-loev05_02.0556	あそこにいるの、皇帝じゃないか？{wait}{clear}		
-loev05_02.057E	夜中に一人……変だな……。{wait}{clear}		
-loev05_02.05A0	声をかけてくる。{wait}{clear}		
+loev05_02.0544	……うん？{wait}{clear}	...Hm?{wait}{clear}	
+loev05_02.0556	あそこにいるの、皇帝じゃないか？{wait}{clear}	Isn't that the emperor over there?{wait}{clear}	
+loev05_02.057E	夜中に一人……変だな……。{wait}{clear}	Alone in the middle of the night... That's{n}odd...{wait}{clear}	
+loev05_02.05A0	声をかけてくる。{wait}{clear}	I'll go talk to him.{wait}{clear}	
 loev05_02.05D8	ルディエール	Rudiere	speaker
-loev05_02.05EC	陛下、どうなさったのですか？{wait}{clear}		
-loev05_02.060C	エンディミオン		speaker
-loev05_02.0622	貴公はレグランスの……{wait}{clear}		
+loev05_02.05EC	陛下、どうなさったのですか？{wait}{clear}	Your Majesty, is something the matter?{wait}{clear}	
+loev05_02.060C	エンディミオン	Endymion	speaker
+loev05_02.0622	貴公はレグランスの……{wait}{clear}	You are Legrance's...{wait}{clear}	
 loev05_02.063C	ルディエール	Rudiere	speaker
-loev05_02.0650	ルディエールです。{wait}{clear}		
-loev05_02.0666	エンディミオン		speaker
-loev05_02.067C	ルディエール……あなたこそ、何を？{wait}{clear}		
+loev05_02.0650	ルディエールです。{wait}{clear}	Rudiere.{wait}{clear}	
+loev05_02.0666	エンディミオン	Endymion	speaker
+loev05_02.067C	ルディエール……あなたこそ、何を？{wait}{clear}	Rudiere... And what are you doing here?{wait}{clear}	
 loev05_02.06A2	ルディエール	Rudiere	speaker
-loev05_02.06B6	寝つけなかったので{n}ここから帝都の景色を眺めていました。{wait}{clear}		
-loev05_02.06F6	美しい都ですね。{wait}{clear}		
-loev05_02.070E	こんな夜中だというのに{n}あんなにたくさん明かりがともっていて。{wait}{clear}		
-loev05_02.0754	正直、我が国との国力の差を感じます。{wait}{clear}		
-loev05_02.077C	エンディミオン		speaker
+loev05_02.06B6	寝つけなかったので{n}ここから帝都の景色を眺めていました。{wait}{clear}	I couldn't sleep, so I was looking out over{n}the capital from here.{wait}{clear}	
+loev05_02.06F6	美しい都ですね。{wait}{clear}	It's a beautiful city.{wait}{clear}	
+loev05_02.070E	こんな夜中だというのに{n}あんなにたくさん明かりがともっていて。{wait}{clear}	So many lights still burning, even this late{n}at night.{wait}{clear}	
+loev05_02.0754	正直、我が国との国力の差を感じます。{wait}{clear}	Honestly, it makes me feel the gap between{n}your power and my country's.{wait}{clear}	
+loev05_02.077C	エンディミオン	Endymion	speaker
 loev05_02.0792	そうか……。{wait}{clear}	I see...{wait}{clear}	
-loev05_02.07A6	私にとって……いつも見ている{n}あたりまえの光景でも、{n}あなたにはそう映るのだな……。{wait}{clear}		
+loev05_02.07A6	私にとって……いつも見ている{n}あたりまえの光景でも、{n}あなたにはそう映るのだな……。{wait}{clear}	To me it is a sight I see every day... yet{n}that is how it looks to you...{wait}{clear}	
 loev05_02.07FE	ルディエール	Rudiere	speaker
-loev05_02.0812	なんだかお疲れのようですね。{wait}{clear}		
-loev05_02.0832	エンディミオン		speaker
-loev05_02.0848	そうでもない……{wait}{clear}		
-loev05_02.0860	私を必要とする宰相やセレニスが{n}いろいろとやってくれている。{wait}{clear}		
+loev05_02.0812	なんだかお疲れのようですね。{wait}{clear}	You seem rather tired.{wait}{clear}	
+loev05_02.0832	エンディミオン	Endymion	speaker
+loev05_02.0848	そうでもない……{wait}{clear}	Not really...{wait}{clear}	
+loev05_02.0860	私を必要とする宰相やセレニスが{n}いろいろとやってくれている。{wait}{clear}	The chancellor and Serenis, who need me,{n}take care of a great deal.{wait}{clear}	
 loev05_02.08A0	ルディエール	Rudiere	speaker
-loev05_02.08B4	ここにはよく来られるのですか？{wait}{clear}		
-loev05_02.08D6	エンディミオン		speaker
-loev05_02.08EC	自由な時間ができたときにはよく来る……。{wait}{clear}		
-loev05_02.091C	ここから外の世界を眺めていると、気分が落ち着く。{wait}{clear}		
-loev05_02.0954	人があの小さな明かり{n}一つ一つで、それぞれの日々を暮らしている……。{wait}{clear}		
-loev05_02.09A0	そんな想像をしていると……{n}なにか……今の自分を忘れられる……。{wait}{clear}		
+loev05_02.08B4	ここにはよく来られるのですか？{wait}{clear}	Do you come here often?{wait}{clear}	
+loev05_02.08D6	エンディミオン	Endymion	speaker
+loev05_02.08EC	自由な時間ができたときにはよく来る……。{wait}{clear}	I often come when I have some free time...{wait}{clear}	
+loev05_02.091C	ここから外の世界を眺めていると、気分が落ち着く。{wait}{clear}	Looking out at the world from here calms me.{wait}{clear}	
+loev05_02.0954	人があの小さな明かり{n}一つ一つで、それぞれの日々を暮らしている……。{wait}{clear}	Under each of those little lights, people{n}are living out their own days...{wait}{clear}	
+loev05_02.09A0	そんな想像をしていると……{n}なにか……今の自分を忘れられる……。{wait}{clear}	When I imagine that... somehow... I can{n}forget who I am now...{wait}{clear}	
 loev05_02.09E4	ルディエール	Rudiere	speaker
-loev05_02.09F8	あなたは、{n}本当はおやさしい方なのですね。{wait}{clear}		
-loev05_02.0A26	エンディミオン		speaker
-loev05_02.0A3C	なぜ……そんなことを？{wait}{clear}		
+loev05_02.09F8	あなたは、{n}本当はおやさしい方なのですね。{wait}{clear}	You're truly a kind person at heart, aren't{n}you?{wait}{clear}	
+loev05_02.0A26	エンディミオン	Endymion	speaker
+loev05_02.0A3C	なぜ……そんなことを？{wait}{clear}	Why... would you say that?{wait}{clear}	
 loev05_02.0A56	ルディエール	Rudiere	speaker
-loev05_02.0A6A	失礼な物言いをお許しください。{wait}{clear}		
-loev05_02.0A90	ただ、今のお話を聞いていて、そう思ったのです。{wait}{clear}		
-loev05_02.0AC2	エンディミオン		speaker
+loev05_02.0A6A	失礼な物言いをお許しください。{wait}{clear}	Please forgive my rudeness.{wait}{clear}	
+loev05_02.0A90	ただ、今のお話を聞いていて、そう思ったのです。{wait}{clear}	It's just what I thought, listening to you{n}just now.{wait}{clear}	
+loev05_02.0AC2	エンディミオン	Endymion	speaker
 loev05_02.0AD4	…………。{wait}{clear}	.........{wait}{clear}	
 loev05_02.0AE2	ルディエール	Rudiere	speaker
-loev05_02.0AF6	今度は、ぜひ我がレグランスに{n}お越しください、陛下。{wait}{clear}		
-loev05_02.0B32	帝国ほど豊かではありませんが{n}季候はよく、食べ物も豊富で皆、美味です。{wait}{clear}		
-loev05_02.0B80	人々は少々、のんびりとしていますが、{n}とてもいい国だと思います。{wait}{clear}		
-loev05_02.0BC8	きっと、楽しく時間を過ごせるはずです。{wait}{clear}		
-loev05_02.0BF2	エンディミオン		speaker
-loev05_02.0C08	……そんな誘いを受けるのは初めてだ。{wait}{clear}		
+loev05_02.0AF6	今度は、ぜひ我がレグランスに{n}お越しください、陛下。{wait}{clear}	Next time, please do visit our Legrance,{n}Your Majesty.{wait}{clear}	
+loev05_02.0B32	帝国ほど豊かではありませんが{n}季候はよく、食べ物も豊富で皆、美味です。{wait}{clear}	It isn't as rich as the Empire, but the{n}climate is mild and the food is plentiful{n}and all delicious.{wait}{clear}	
+loev05_02.0B80	人々は少々、のんびりとしていますが、{n}とてもいい国だと思います。{wait}{clear}	The people are a bit laid-back, but I think{n}it's a very good country.{wait}{clear}	
+loev05_02.0BC8	きっと、楽しく時間を過ごせるはずです。{wait}{clear}	I'm sure you would have a wonderful time.{wait}{clear}	
+loev05_02.0BF2	エンディミオン	Endymion	speaker
+loev05_02.0C08	……そんな誘いを受けるのは初めてだ。{wait}{clear}	...That is the first time I have received{n}such an invitation.{wait}{clear}	
 loev05_02.0C30	ルディエール	Rudiere	speaker
-loev05_02.0C44	ここにずっとこもっておらず、{n}外の世界を感じてください。{wait}{clear}		
-loev05_02.0C84	いろいろ考えや、心持ちも変わるはずです。{wait}{clear}		
-loev05_02.0CB0	エンディミオン		speaker
-loev05_02.0CC6	そうだな……{wait}{clear}		
-loev05_02.0CDA	そんなことができればいいのだろうな……。{wait}{clear}		
+loev05_02.0C44	ここにずっとこもっておらず、{n}外の世界を感じてください。{wait}{clear}	Don't stay shut away in here forever. Go out{n}and feel the world.{wait}{clear}	
+loev05_02.0C84	いろいろ考えや、心持ちも変わるはずです。{wait}{clear}	I'm sure your thoughts and your heart would{n}change in many ways.{wait}{clear}	
+loev05_02.0CB0	エンディミオン	Endymion	speaker
+loev05_02.0CC6	そうだな……{wait}{clear}	Perhaps...{wait}{clear}	
+loev05_02.0CDA	そんなことができればいいのだろうな……。{wait}{clear}	It would be good if I could do such a{n}thing...{wait}{clear}	
 loev05_02.0D06	ルディエール	Rudiere	speaker
-loev05_02.0D1A	お待ちしています。{wait}{clear}		
-loev05_02.0D30	エンディミオン		speaker
-loev05_02.0D46	ありがとう、ルディエール大公。{wait}{clear}		
+loev05_02.0D1A	お待ちしています。{wait}{clear}	I'll be waiting.{wait}{clear}	
+loev05_02.0D30	エンディミオン	Endymion	speaker
+loev05_02.0D46	ありがとう、ルディエール大公。{wait}{clear}	Thank you, Grand Duke Rudiere.{wait}{clear}	
 loev05_02.0D68	ルディエール	Rudiere	speaker
-loev05_02.0D7C	ルディでかまいません、陛下。{wait}{clear}		
-loev05_02.0D9C	エンディミオン		speaker
-loev05_02.0DB2	……ずいぶん話し込んでしまった。{n}セレニスが気づくといけない。{wait}{clear}		
+loev05_02.0D7C	ルディでかまいません、陛下。{wait}{clear}	Rudi is fine, Your Majesty.{wait}{clear}	
+loev05_02.0D9C	エンディミオン	Endymion	speaker
+loev05_02.0DB2	……ずいぶん話し込んでしまった。{n}セレニスが気づくといけない。{wait}{clear}	...We have talked a long while. It would not{n}do for Serenis to notice.{wait}{clear}	
 loev05_02.0DF4	ルディエール	Rudiere	speaker
-loev05_02.0E08	そうですね。{n}私も部屋に戻りましょう。{wait}{clear}		
-loev05_02.0E32	エンディミオン		speaker
-loev05_02.0E48	また会えるといいな……ルディ。{wait}{clear}		
+loev05_02.0E08	そうですね。{n}私も部屋に戻りましょう。{wait}{clear}	True. I should return to my room as well.{wait}{clear}	
+loev05_02.0E32	エンディミオン	Endymion	speaker
+loev05_02.0E48	また会えるといいな……ルディ。{wait}{clear}	I hope we meet again... Rudi.{wait}{clear}	
 loev05_02.0E6A	ルディエール	Rudiere	speaker
-loev05_02.0E7E	ええ、そうですね、陛下。{wait}{clear}		
-loev05_02.0E9A	エンディミオン		speaker
-loev05_02.0EB0	私の名はエンディミオンだ……。{n}人がいなければ……名でかまわない。{wait}{clear}		
+loev05_02.0E7E	ええ、そうですね、陛下。{wait}{clear}	Yes, so do I, Your Majesty.{wait}{clear}	
+loev05_02.0E9A	エンディミオン	Endymion	speaker
+loev05_02.0EB0	私の名はエンディミオンだ……。{n}人がいなければ……名でかまわない。{wait}{clear}	My name is Endymion... When no one else is{n}around... you may use it.{wait}{clear}	
 loev05_02.0EF6	ルディエール	Rudiere	speaker
-loev05_02.0F0A	わかりました、エンディミオン。{n}また会いましょう。{wait}{clear}		
-loev05_02.0F40	エンディミオン		speaker
-loev05_02.0F56	また会おう、ルディ。{wait}{clear}		
+loev05_02.0F0A	わかりました、エンディミオン。{n}また会いましょう。{wait}{clear}	All right, Endymion. Let's meet again.{wait}{clear}	
+loev05_02.0F40	エンディミオン	Endymion	speaker
+loev05_02.0F56	また会おう、ルディ。{wait}{clear}	Until we meet again, Rudi.{wait}{clear}	
 loev05_02.0F90	ルディエール	Rudiere	speaker
-loev05_02.0FA4	皇帝、昼間とは別人のようだった……。{wait}{clear}		
-loev05_02.0FDC	つらいのだろうな……{n}あの若さで祭り上げられて。{wait}{clear}		
-loev05_02.1014	でもこれで誰が、この国を操っているのか{n}よくわかったよ。{wait}{clear}		
-loev05_02.1054	……伝説の紅月王の生まれ変わりか。{n}ばかげた話だ……。{wait}{clear}		
+loev05_02.0FA4	皇帝、昼間とは別人のようだった……。{wait}{clear}	The emperor seemed like a different person{n}from this afternoon...{wait}{clear}	
+loev05_02.0FDC	つらいのだろうな……{n}あの若さで祭り上げられて。{wait}{clear}	It must be hard on him... being put on a{n}pedestal so young.{wait}{clear}	
+loev05_02.1014	でもこれで誰が、この国を操っているのか{n}よくわかったよ。{wait}{clear}	But now I know exactly who's pulling this{n}country's strings.{wait}{clear}	
+loev05_02.1054	……伝説の紅月王の生まれ変わりか。{n}ばかげた話だ……。{wait}{clear}	...The reincarnation of the legendary{n}Crimson Moon King, huh. What nonsense...{wait}{clear}	

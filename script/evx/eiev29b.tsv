@@ -5,7 +5,7 @@ eiev29b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 eiev29b.011A	天竜		unit name (32-byte field)
 eiev29b.04A8	アイリーン	Irene	speaker
 eiev29b.04C1	うあっ……		text
-eiev29b.04EA	エンディミオン		speaker
+eiev29b.04EA	エンディミオン	Endymion	speaker
 eiev29b.0507	どうだ、わかったか？		text
 eiev29b.053A	これが、支配者の力だ。		text
 eiev29b.056F	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
@@ -24,12 +24,12 @@ eiev29b.0921	《いいえ……》		choice
 eiev29b.0942	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.095D	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
 eiev29b.09AC	どうか……彼女の魂を、{n}彼女の命を救ってください……		text
-eiev29b.09FF	エンディミオン		speaker
+eiev29b.09FF	エンディミオン	Endymion	speaker
 eiev29b.0A1C	ふふ、すばらしい。{n}いい心ばえだ……		text
 eiev29b.0A5F	では……この勇者を救ってやろう……。		text
 eiev29b.0AE6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.0B01	アイリーン！！！		text
-eiev29b.0B30	エンディミオン		speaker
+eiev29b.0B30	エンディミオン	Endymion	speaker
 eiev29b.0B4D	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
 eiev29b.0BA6	すべてを失ったその顔が見たかったのだ！		text
 eiev29b.0BEB	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
@@ -38,13 +38,13 @@ eiev29b.0C91	死ね。		text
 eiev29b.0D06	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.0D21	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
 eiev29b.0D72	彼女は天使の私を信じ、戦ってくれたのです。{n}彼女の魂も私の魂もあなた方に利用などさせません。		text
-eiev29b.0DED	エンディミオン		speaker
+eiev29b.0DED	エンディミオン	Endymion	speaker
 eiev29b.0E0A	ふん、小賢しいことを……。		text
 eiev29b.0E43	いいだろう。		text
 eiev29b.0E6E	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
 eiev29b.0EB7	男の声		speaker
 eiev29b.0ECC	待て、ベルゼバブ……		text
-eiev29b.0F27	エンディミオン		speaker
+eiev29b.0F27	エンディミオン	Endymion	speaker
 eiev29b.0F44	私の真の名を呼ぶとは……		text
 eiev29b.0F7B	男の声		speaker
 eiev29b.0F90	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text

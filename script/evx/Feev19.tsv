@@ -3,7 +3,7 @@ Feev19.0002	セレニスとの戦い		dev label (guess: not shown)
 Feev19.00A2	フェイン	Fein	unit name (32-byte field)
 Feev19.00DE	セレニス	Serenis	unit name (32-byte field)
 Feev19.011A	魔法		unit name (32-byte field)
-Feev19.0156	エンディミオン		unit name (32-byte field)
+Feev19.0156	エンディミオン	Endymion	unit name (32-byte field)
 Feev19.0192	魔石（初期）		unit name (32-byte field)
 Feev19.01CE	魔石（点滅）		unit name (32-byte field)
 Feev19.020A	魔石（赤）		unit name (32-byte field)
@@ -26,10 +26,10 @@ Feev19.0761	そこでじっとしていなさい、フェイン。		text
 Feev19.07A4	偉大な力がよみがえるのを見せてあげるわ。		text
 Feev19.07FF	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 Feev19.0846	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-Feev19.08EF	エンディミオン		speaker
+Feev19.08EF	エンディミオン	Endymion	speaker
 Feev19.090C	セレニス……お前はなにを……。		text
 Feev19.0949	セレニス	Serenis	speaker
 Feev19.0960	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 Feev19.09C9	さあ……始めましょう……。		text
-Feev19.0A7E	エンディミオン		speaker
+Feev19.0A7E	エンディミオン	Endymion	speaker
 Feev19.0A9B	ああ……。		text

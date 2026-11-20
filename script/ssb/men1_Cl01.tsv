@@ -1,26 +1,26 @@
 id	jp	en	notes
 men1_Cl01.0052	クライヴ	Clive	speaker
-men1_Cl01.005E	すまない……呼び出して。{wait}{clear}		
+men1_Cl01.005E	すまない……呼び出して。{wait}{clear}	Sorry... for calling you out.{wait}{clear}	
 men1_Cl01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl01.008A	いえ……大丈夫です。{n}あの、妖精からなにか話があると聞いたので……。{wait}{clear}		
+men1_Cl01.008A	いえ……大丈夫です。{n}あの、妖精からなにか話があると聞いたので……。{wait}{clear}	No... it's all right. Um, the fairy said you{n}had something to tell me...{wait}{clear}	
 men1_Cl01.00D2	クライヴ	Clive	speaker
-men1_Cl01.00DE	いや……{n}天使というものがどういうものなのか、{n}悪いが試させてもらった……。{wait}{clear}		
+men1_Cl01.00DE	いや……{n}天使というものがどういうものなのか、{n}悪いが試させてもらった……。{wait}{clear}	No... Sorry, but I wanted to test what an{n}angel really is...{wait}{clear}	
 men1_Cl01.012E	ＮＵＬＬ	NULL	speaker
-men1_Cl01.013E	《しかたがないですね……。》{n}		
-men1_Cl01.0162	《そうだったのですか……。》{n}		
+men1_Cl01.013E	《しかたがないですね……。》{n}	It can't be helped...{n}	
+men1_Cl01.0162	《そうだったのですか……。》{n}	So that was it...{n}	
 men1_Cl01.0186	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl01.0196	クライヴがそう思うのは、{n}きっとしかたがないことでしょう。{wait}{clear}私たちの存在をそのまま信じてもらうということは{n}むずかしいことだと思いますから。{wait}{clear}		
+men1_Cl01.0196	クライヴがそう思うのは、{n}きっとしかたがないことでしょう。{wait}{clear}私たちの存在をそのまま信じてもらうということは{n}むずかしいことだと思いますから。{wait}{clear}	I'm sure it can't be helped that you'd think{n}that way, Clive.{wait}{clear}I think it's hard for anyone to simply{n}believe in beings like us.{wait}{clear}	
 men1_Cl01.0228	クライヴ	Clive	speaker
-men1_Cl01.0234	すまなかった……。{n}だが、少しはお前のことが{n}わかったような気がする。{wait}{clear}		
+men1_Cl01.0234	すまなかった……。{n}だが、少しはお前のことが{n}わかったような気がする。{wait}{clear}	I'm sorry... But I feel like I understand{n}you a little better now.{wait}{clear}	
 men1_Cl01.027E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl01.028E	そうですか。{n}そう言っていただけるとうれしいです。{wait}{clear}		
+men1_Cl01.028E	そうですか。{n}そう言っていただけるとうれしいです。{wait}{clear}	I see. I'm glad to hear you say that.{wait}{clear}	
 men1_Cl01.02C4	クライヴ	Clive	speaker
 men1_Cl01.02D0	…………。{wait}{clear}	.........{wait}{clear}	
 men1_Cl01.02E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl01.02F2	そうだったのですか……。{wait}{clear}やはり人間のクライヴにとっては、{n}天使という存在はなかなか受け入れにくい{n}ものなのでしょうね……。{wait}{clear}		
+men1_Cl01.02F2	そうだったのですか……。{wait}{clear}やはり人間のクライヴにとっては、{n}天使という存在はなかなか受け入れにくい{n}ものなのでしょうね……。{wait}{clear}	So that was it...{wait}{clear}For a human like you, Clive, the existence{n}of angels must be hard to accept...{wait}{clear}	
 men1_Cl01.0374	クライヴ	Clive	speaker
-men1_Cl01.0380	いや……{n}確かにそうだが……。{wait}{clear}悪かったな……。{wait}{clear}		
+men1_Cl01.0380	いや……{n}確かにそうだが……。{wait}{clear}悪かったな……。{wait}{clear}	No... It's true, but...{wait}{clear}My fault...{wait}{clear}	
 men1_Cl01.03B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl01.03C6	いいえ、気にしないでください。{n}これから、理解し合えると思っていますから。{wait}{clear}		
+men1_Cl01.03C6	いいえ、気にしないでください。{n}これから、理解し合えると思っていますから。{wait}{clear}	No, please don't worry. I believe we'll come{n}to understand each other from here on.{wait}{clear}	
 men1_Cl01.0414	クライヴ	Clive	speaker
-men1_Cl01.0420	…………。		
+men1_Cl01.0420	…………。	.....	

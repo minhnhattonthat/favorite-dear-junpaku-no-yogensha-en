@@ -1,15 +1,15 @@
 id	jp	en	notes
 loev16.023A	ルディエール	Rudiere	speaker
-loev16.024A	……おれは、彼女との約束を{n}果たせなかった。{wait}{clear}おれは……{n}自分が情けない……{wait}{clear}		
+loev16.024A	……おれは、彼女との約束を{n}果たせなかった。{wait}{clear}おれは……{n}自分が情けない……{wait}{clear}	...I couldn't keep my promise to her.{wait}{clear}I'm... so pathetic...{wait}{clear}	
 loev16.029C	ＮＵＬＬ	NULL	speaker
-loev16.02AC	《最善はつくした》{n}		
-loev16.02C6	《鎧の呪いは……》{n}		
+loev16.02AC	《最善はつくした》{n}	You did your best{n}	
+loev16.02C6	《鎧の呪いは……》{n}	The armor's curse...{n}	
 loev16.02E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev16.02F6	最善はつくしたと思います{n}ルディ……。{wait}{clear}ただ、サヴィオの力とあの呪いが……{n}悲劇を生んだのです……{wait}{clear}		
+loev16.02F6	最善はつくしたと思います{n}ルディ……。{wait}{clear}ただ、サヴィオの力とあの呪いが……{n}悲劇を生んだのです……{wait}{clear}	I think you did your best, Rudi...{wait}{clear}It was Savio's power and that curse... that{n}brought about the tragedy...{wait}{clear}	
 loev16.035E	ルディエール	Rudiere	speaker
-loev16.036E	これ以上……{n}こんな風に人が……死んでいくなんて{wait}{clear}おれは……{wait}{clear}		
-loev16.03BC	くっ……{n}戦い続けなきゃいけないんだよな。{wait}{clear}おれにできることは{n}それしかないんだから……{wait}{clear}		
+loev16.036E	これ以上……{n}こんな風に人が……死んでいくなんて{wait}{clear}おれは……{wait}{clear}	If any more... people die like this...{wait}{clear}I...{wait}{clear}	
+loev16.03BC	くっ……{n}戦い続けなきゃいけないんだよな。{wait}{clear}おれにできることは{n}それしかないんだから……{wait}{clear}	Ngh... I have to keep fighting, don't I?{wait}{clear}Because that's the only thing I can do...{wait}{clear}	
 loev16.0436	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev16.0446	鎧の呪いは強力でした……{wait}{clear}悲劇の原因はどこかにいる{n}魔をあやつる人物です。{wait}{clear}		
+loev16.0446	鎧の呪いは強力でした……{wait}{clear}悲劇の原因はどこかにいる{n}魔をあやつる人物です。{wait}{clear}	The armor's curse was powerful...{wait}{clear}The cause of this tragedy is someone,{n}somewhere, who controls evil.{wait}{clear}	
 loev16.0496	ルディエール	Rudiere	speaker
-loev16.04A6	おれは……{n}ここで逃げるわけにはいけない……{wait}{clear}敵はまだ同じようなことをして{n}多くの人を苦しめてるんだ。{wait}{clear}それはわかってる……{wait}{clear}でも、おれは……。{wait}{clear}…………。{wait}{clear}		
+loev16.04A6	おれは……{n}ここで逃げるわけにはいけない……{wait}{clear}敵はまだ同じようなことをして{n}多くの人を苦しめてるんだ。{wait}{clear}それはわかってる……{wait}{clear}でも、おれは……。{wait}{clear}…………。{wait}{clear}	I... can't run away now...{wait}{clear}The enemy's still doing the same kind of{n}thing, making lots of people suffer.{wait}{clear}I know that...{wait}{clear}But I...{wait}{clear}.....{wait}{clear}	

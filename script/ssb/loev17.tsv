@@ -1,45 +1,45 @@
 id	jp	en	notes
 loev17.004C	ルディエール	Rudiere	speaker
-loev17.005C	＄＄＄＄＄＄、いるのか？{wait}{clear}今、平気か？{n}いや、時間がなかったらいいんだけどさ……。{wait}{clear}		
+loev17.005C	＄＄＄＄＄＄、いるのか？{wait}{clear}今、平気か？{n}いや、時間がなかったらいいんだけどさ……。{wait}{clear}	＄＄＄＄＄＄, are you there?{wait}{clear}Are you free right now? I mean, if you don't{n}have time, that's fine...{wait}{clear}	
 loev17.00B4	ＮＵＬＬ	NULL	speaker
 loev17.00C4	《ええ……》{n}	Yes...{n}	
 loev17.00D8	《今は……》{n}	Not now...{n}	
 loev17.00F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.0106	ええ、いいですよ……。{wait}{clear}		
+loev17.0106	ええ、いいですよ……。{wait}{clear}	Yes, that's fine...{wait}{clear}	
 loev17.0120	ルディエール	Rudiere	speaker
-loev17.0130	ちょっと話ししないか……。{wait}{clear}		
-loev17.015A	……なあ……もう、こうして旅を始めて、{n}ずいぶんたつよな。{wait}{clear}＄＄＄＄＄＄……おれは……{n}今までなにやって来たんだろうな……。{wait}{clear}誰も……助けられなかった……おれは……{wait}{clear}おれは自分が……{n}何もできない人間じゃないのかって……{n}そう……思うんだ……{wait}{clear}		
+loev17.0130	ちょっと話ししないか……。{wait}{clear}	Want to talk for a bit...?{wait}{clear}	
+loev17.015A	……なあ……もう、こうして旅を始めて、{n}ずいぶんたつよな。{wait}{clear}＄＄＄＄＄＄……おれは……{n}今までなにやって来たんだろうな……。{wait}{clear}誰も……助けられなかった……おれは……{wait}{clear}おれは自分が……{n}何もできない人間じゃないのかって……{n}そう……思うんだ……{wait}{clear}	...Hey... It's been a long time since we{n}started traveling like this, huh?{wait}{clear}＄＄＄＄＄＄... What have I even been doing{n}all this time...?{wait}{clear}I couldn't... save anyone... I...{wait}{clear}I keep thinking... maybe I'm someone who{n}can't do anything at all...{wait}{clear}	
 loev17.0256	ＮＵＬＬ	NULL	speaker
-loev17.0266	《そんなことはない……》{n}		
-loev17.0286	《後悔しているのですか？》{n}		
+loev17.0266	《そんなことはない……》{n}	That isn't true...{n}	
+loev17.0286	《後悔しているのですか？》{n}	Do you regret it?{n}	
 loev17.02B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.02C2	そんなことはありません……ルディ……{wait}{clear}今まであなたのやってきたことは……{n}無駄でも、無力だったとも私は思いません……。{wait}{clear}		
+loev17.02C2	そんなことはありません……ルディ……{wait}{clear}今まであなたのやってきたことは……{n}無駄でも、無力だったとも私は思いません……。{wait}{clear}	That isn't true... Rudi...{wait}{clear}I don't think anything you've done so far{n}was in vain, or that you were powerless...{wait}{clear}	
 loev17.033E	ルディエール	Rudiere	speaker
-loev17.034E	＄＄＄＄＄＄がいくらそう言ってくれても、{n}おれには、自信がないよ……。{wait}{clear}結局、おれは大切な人をすべて失ってしまった……。{wait}{clear}		
+loev17.034E	＄＄＄＄＄＄がいくらそう言ってくれても、{n}おれには、自信がないよ……。{wait}{clear}結局、おれは大切な人をすべて失ってしまった……。{wait}{clear}	No matter how much you tell me that,{n}＄＄＄＄＄＄, I just don't have the{n}confidence...{wait}{clear}In the end, I lost everyone who mattered to{n}me...{wait}{clear}	
 loev17.03CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.03DC	ルディ……あなたは、その時その時で、{n}できる限りのことをしたではないですか。{wait}{clear}そしてまだ……{n}私たちにはしなければならないことがあります……。{wait}{clear}あなたの気持ちはわかります。{n}過去を簡単に忘れることはできませんから……。{wait}{clear}でも、まだ……守らなくてはならない{n}未来があるのです……。{wait}{clear}		
+loev17.03DC	ルディ……あなたは、その時その時で、{n}できる限りのことをしたではないですか。{wait}{clear}そしてまだ……{n}私たちにはしなければならないことがあります……。{wait}{clear}あなたの気持ちはわかります。{n}過去を簡単に忘れることはできませんから……。{wait}{clear}でも、まだ……守らなくてはならない{n}未来があるのです……。{wait}{clear}	Rudi... Didn't you do everything you could,{n}each and every time?{wait}{clear}And there are still... things we must do...{wait}{clear}I understand how you feel. The past is not{n}easy to forget...{wait}{clear}But there is still... a future we must{n}protect...{wait}{clear}	
 loev17.050A	ルディエール	Rudiere	speaker
 loev17.051A	そうだな……。{wait}{clear}	Yeah...{wait}{clear}	
 loev17.0536	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.0546	今までやってきたことを{n}後悔しているのですか？{wait}{clear}		
+loev17.0546	今までやってきたことを{n}後悔しているのですか？{wait}{clear}	Do you regret what you've done so far?{wait}{clear}	
 loev17.0586	ルディエール	Rudiere	speaker
-loev17.0596	そうじゃない……。{n}悔しさより……{wait}{clear}		
-loev17.05C8	……ただ、やりきれないんだ。{wait}{clear}自分の力のなさに……{wait}{clear}…………。{wait}{clear}		
-loev17.061A	……雨だ。{wait}{clear}		
+loev17.0596	そうじゃない……。{n}悔しさより……{wait}{clear}	It's not that... More than regret...{wait}{clear}	
+loev17.05C8	……ただ、やりきれないんだ。{wait}{clear}自分の力のなさに……{wait}{clear}…………。{wait}{clear}	...I just can't bear it.{wait}{clear}How powerless I am...{wait}{clear}.....{wait}{clear}	
+loev17.061A	……雨だ。{wait}{clear}	...It's raining.{wait}{clear}	
 loev17.0656	ルディエール	Rudiere	speaker
-loev17.0666	泣き言に雨か……{wait}{clear}兄さんが怒ってるのかもな……。{n}情けないこと言うなって。{wait}{clear}兄さんは弱音を吐くことなんてなかった。{wait}{clear}最後に会ったときに初めて聞いたんだ……。{wait}{clear}おれにとって兄さんは完ぺきな人だったんだ……{n}それが……。{wait}{clear}…………。{wait}{clear}兄さんと幼い頃に遊んだことをよく思い出すんだ。{wait}{clear}なんでも良くできてさ……{n}おれは兄さんについて行くのが楽しかった。{wait}{clear}もう、おれは兄さんについて……{n}歩くことはできない……。{wait}{clear}		
+loev17.0666	泣き言に雨か……{wait}{clear}兄さんが怒ってるのかもな……。{n}情けないこと言うなって。{wait}{clear}兄さんは弱音を吐くことなんてなかった。{wait}{clear}最後に会ったときに初めて聞いたんだ……。{wait}{clear}おれにとって兄さんは完ぺきな人だったんだ……{n}それが……。{wait}{clear}…………。{wait}{clear}兄さんと幼い頃に遊んだことをよく思い出すんだ。{wait}{clear}なんでも良くできてさ……{n}おれは兄さんについて行くのが楽しかった。{wait}{clear}もう、おれは兄さんについて……{n}歩くことはできない……。{wait}{clear}	Whining in the rain, huh...{wait}{clear}Maybe my brother's angry... Telling me to{n}quit saying pathetic things.{wait}{clear}My brother never once complained.{wait}{clear}The last time I saw him was the first time I{n}heard it...{wait}{clear}To me, my brother was perfect... and yet...{wait}{clear}.....{wait}{clear}I often remember playing with him when we{n}were little.{wait}{clear}He was good at everything... I loved tagging{n}along after him.{wait}{clear}I can't... follow after my brother{n}anymore...{wait}{clear}	
 loev17.080C	ＮＵＬＬ	NULL	speaker
-loev17.081C	《お兄さんの気持ちを……》{n}		
-loev17.083E	《つらくとも……》{n}		
+loev17.081C	《お兄さんの気持ちを……》{n}	Your brother's feelings...{n}	
+loev17.083E	《つらくとも……》{n}	Even if it's painful...{n}	
 loev17.085E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.086E	お兄さんの気持ちを……{n}国と人々を救おうとした、その気持ちを、{n}ルディも大切にしてください。{wait}{clear}		
+loev17.086E	お兄さんの気持ちを……{n}国と人々を救おうとした、その気持ちを、{n}ルディも大切にしてください。{wait}{clear}	Your brother's feelings... his wish to save{n}his country and its people... please cherish{n}them too, Rudi.{wait}{clear}	
 loev17.08CE	ルディエール	Rudiere	speaker
-loev17.08DE	ああ、わかってる。{wait}{clear}……もう、一人で行かなきゃいけない。{n}男として。{wait}{clear}目をつぶることも、逃げることも、{n}もうしちゃいけない……。{wait}{clear}兄さんはそんなことをしなかったんだから……。{wait}{clear}ありがとう……＄＄＄＄＄＄。{n}こうして話を聞いてくれて。{wait}{clear}やっと気持ちの整理がついた……。{wait}{clear}		
+loev17.08DE	ああ、わかってる。{wait}{clear}……もう、一人で行かなきゃいけない。{n}男として。{wait}{clear}目をつぶることも、逃げることも、{n}もうしちゃいけない……。{wait}{clear}兄さんはそんなことをしなかったんだから……。{wait}{clear}ありがとう……＄＄＄＄＄＄。{n}こうして話を聞いてくれて。{wait}{clear}やっと気持ちの整理がついた……。{wait}{clear}	Yeah, I know.{wait}{clear}...I have to go on alone now. As a man.{wait}{clear}I can't close my eyes or run away anymore...{wait}{clear}Because my brother never did...{wait}{clear}Thank you... ＄＄＄＄＄＄. For listening to{n}me like this.{wait}{clear}I've finally sorted out how I feel...{wait}{clear}	
 loev17.0A00	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.0A10	つらくとも、時は進んでいきます。{n}希望は未来にしかないのです……。{wait}{clear}		
+loev17.0A10	つらくとも、時は進んでいきます。{n}希望は未来にしかないのです……。{wait}{clear}	Even if it's painful, time moves on. Hope{n}lies only in the future...{wait}{clear}	
 loev17.0A56	ルディエール	Rudiere	speaker
-loev17.0A66	ああ……そうだな。{wait}{clear}兄さんが守ろうとしていたものを{n}おれが守らなきゃいけない。{wait}{clear}それがおれのやるべきことなんだ……。{wait}{clear}すまないな……{n}こんな泣き言、聞かせて……。{wait}{clear}でも気持ちの整理はついたよ。{n}前に進むよ……守るものの為に。{wait}{clear}		
+loev17.0A66	ああ……そうだな。{wait}{clear}兄さんが守ろうとしていたものを{n}おれが守らなきゃいけない。{wait}{clear}それがおれのやるべきことなんだ……。{wait}{clear}すまないな……{n}こんな泣き言、聞かせて……。{wait}{clear}でも気持ちの整理はついたよ。{n}前に進むよ……守るものの為に。{wait}{clear}	Yeah... You're right.{wait}{clear}I have to protect what my brother was trying{n}to protect.{wait}{clear}That's what I have to do...{wait}{clear}Sorry... for making you listen to me whine{n}like this...{wait}{clear}But I've sorted out how I feel. I'll move{n}forward... for the things I have to protect.{wait}{clear}	
 loev17.0B5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev17.0B6C	今はちょっと……{wait}{clear}		
+loev17.0B6C	今はちょっと……{wait}{clear}	Not right now...{wait}{clear}	
 loev17.0B80	ルディエール	Rudiere	speaker
-loev17.0B90	そうか、じゃ、しかたないな……。{n}……またにするよ。{wait}{clear}		
+loev17.0B90	そうか、じゃ、しかたないな……。{n}……またにするよ。{wait}{clear}	I see. Well, can't be helped... Some other{n}time, then.{wait}{clear}	

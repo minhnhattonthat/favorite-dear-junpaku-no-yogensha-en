@@ -1,22 +1,22 @@
 id	jp	en	notes
 men1_Cl02.0052	クライヴ	Clive	speaker
-men1_Cl02.005E	すまない……呼び出して。{wait}{clear}		
+men1_Cl02.005E	すまない……呼び出して。{wait}{clear}	Sorry... for calling you out.{wait}{clear}	
 men1_Cl02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl02.008A	いいえ。{n}なにか用ですか、クライヴ？{wait}{clear}		
+men1_Cl02.008A	いいえ。{n}なにか用ですか、クライヴ？{wait}{clear}	Not at all. Do you need something, Clive?{wait}{clear}	
 men1_Cl02.00B2	クライヴ	Clive	speaker
-men1_Cl02.00BE	いや、少し……話したかったのだが……。{n}{wait}{clear}		
+men1_Cl02.00BE	いや、少し……話したかったのだが……。{n}{wait}{clear}	No, I just... wanted to talk a little...{n}{wait}{clear}	
 men1_Cl02.00EA	ＮＵＬＬ	NULL	speaker
 men1_Cl02.00FA	《ええ、かまいません。》{n}	Yes, that's fine.{n}	
-men1_Cl02.011A	《ちょっと時間が……。》{n}		
+men1_Cl02.011A	《ちょっと時間が……。》{n}	I don't have much time...{n}	
 men1_Cl02.013A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl02.014A	ええ、もちろんかまいません。{n}こうやって、いつでも呼んでください。{wait}{clear}		
+men1_Cl02.014A	ええ、もちろんかまいません。{n}こうやって、いつでも呼んでください。{wait}{clear}	Yes, of course I don't mind. Call me like{n}this anytime.{wait}{clear}	
 men1_Cl02.0190	クライヴ	Clive	speaker
-men1_Cl02.019C	そうか……そう言ってもらえると助かる。{wait}{clear}悪いが……少しつきあってくれ。{wait}{clear}		
+men1_Cl02.019C	そうか……そう言ってもらえると助かる。{wait}{clear}悪いが……少しつきあってくれ。{wait}{clear}	I see... That helps, hearing that.{wait}{clear}Sorry, but... keep me company for a bit.{wait}{clear}	
 men1_Cl02.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Cl02.01F8	はい。{wait}{clear}	Yes.{wait}{clear}	
 men1_Cl02.0206	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl02.0216	すみません、ちょっと時間がなくて……。{n}ゆっくりはできませんが、それでもいいですか？{wait}{clear}		
+men1_Cl02.0216	すみません、ちょっと時間がなくて……。{n}ゆっくりはできませんが、それでもいいですか？{wait}{clear}	I'm sorry, I don't have much time... I can't{n}stay long. Is that all right?{wait}{clear}	
 men1_Cl02.026E	クライヴ	Clive	speaker
-men1_Cl02.027A	そうか……忙しいのだな……。{wait}{clear}たいした話でもない……。{n}呼び出して悪かったな、帰ってくれ。{wait}{clear}		
+men1_Cl02.027A	そうか……忙しいのだな……。{wait}{clear}たいした話でもない……。{n}呼び出して悪かったな、帰ってくれ。{wait}{clear}	I see... You're busy...{wait}{clear}It's nothing important... Sorry for calling{n}you. Go on back.{wait}{clear}	
 men1_Cl02.02DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Cl02.02EA	すみません、クライヴ……。{wait}{clear}		
+men1_Cl02.02EA	すみません、クライヴ……。{wait}{clear}	I'm sorry, Clive...{wait}{clear}	

@@ -2,74 +2,74 @@ id	jp	en	notes
 maseki.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.0044	ラファエル様、いらっしゃいますか？{wait}{clear}	Lord Raphael, are you there?{wait}{clear}	
 maseki.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0088	すみません、お聞きしたいことがあるのですが……。{wait}{clear}		
+maseki.0088	すみません、お聞きしたいことがあるのですが……。{wait}{clear}	Excuse me, there is something I would like{n}to ask...{wait}{clear}	
 maseki.00BC	ミカエル	Michael	speaker
-maseki.00C8	ああ、やつならいないぞ。{wait}{clear}		
+maseki.00C8	ああ、やつならいないぞ。{wait}{clear}	Ah, if you're looking for him, he's not{n}here.{wait}{clear}	
 maseki.00E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.00F4	！？{wait}{clear}	?!{wait}{clear}	
 maseki.0114	ミカエル	Michael	speaker
-maseki.0120	俺もやつに用があったんだがな……{n}どこかへ出かけているらしい。{wait}{clear}		
+maseki.0120	俺もやつに用があったんだがな……{n}どこかへ出かけているらしい。{wait}{clear}	I had business with him too... Seems he's{n}gone off somewhere.{wait}{clear}	
 maseki.0162	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.0172	そうですか……。{wait}{clear}	I see...{wait}{clear}	
 maseki.0186	ミカエル	Michael	speaker
-maseki.0192	どうしたんだ、深刻そうな顔をして。{n}なにかあったのなら俺が話を聞くぞ。{wait}{clear}		
+maseki.0192	どうしたんだ、深刻そうな顔をして。{n}なにかあったのなら俺が話を聞くぞ。{wait}{clear}	What's wrong? You look serious. If something{n}happened, I'll hear you out.{wait}{clear}	
 maseki.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.01EC	え？　ミカエル様がですか！？{wait}{clear}		
+maseki.01EC	え？　ミカエル様がですか！？{wait}{clear}	What? You, Lord Michael?!{wait}{clear}	
 maseki.020C	ミカエル	Michael	speaker
-maseki.0218	なにもそんなに驚くことはないだろう？{n}それとも俺では不服なのか？{wait}{clear}		
+maseki.0218	なにもそんなに驚くことはないだろう？{n}それとも俺では不服なのか？{wait}{clear}	No need to look so surprised, is there? Or{n}am I not good enough for you?{wait}{clear}	
 maseki.0268	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0278	い、いえ！　そんな、とんでもないです！！{wait}{clear}		
+maseki.0278	い、いえ！　そんな、とんでもないです！！{wait}{clear}	N-no! Not at all, not in the least!!{wait}{clear}	
 maseki.02A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.02B8	い、いえ！　そんな……とんでもありません。{wait}{clear}		
+maseki.02B8	い、いえ！　そんな……とんでもありません。{wait}{clear}	N-no! Not... not at all.{wait}{clear}	
 maseki.02E6	ミカエル	Michael	speaker
-maseki.02F2	それなら話してみないか？{wait}{clear}		
+maseki.02F2	それなら話してみないか？{wait}{clear}	Then why not tell me about it?{wait}{clear}	
 maseki.031A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.032A	はい……。{wait}{clear}あの……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのでしょうか？{wait}{clear}		
+maseki.032A	はい……。{wait}{clear}あの……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのでしょうか？{wait}{clear}	Yes...{wait}{clear}Um... In Arcaya, the world below that I am{n}guarding, there are stones called Demon{n}Stones. What are they?{wait}{clear}	
 maseki.03B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.03C2	はい……。{wait}{clear}……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのですか？{wait}{clear}		
+maseki.03C2	はい……。{wait}{clear}……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのですか？{wait}{clear}	Yes...{wait}{clear}...In Arcaya, the world below that I am{n}guarding, there are stones called Demon{n}Stones. What exactly are they?{wait}{clear}	
 maseki.043E	ミカエル	Michael	speaker
-maseki.044A	あの石のことで、なにかあったのだな？{wait}{clear}		
+maseki.044A	あの石のことで、なにかあったのだな？{wait}{clear}	Something happened involving that stone,{n}didn't it?{wait}{clear}	
 maseki.0472	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.0482	はい……。{wait}{clear}	Yes...{wait}{clear}	
 maseki.0490	ミカエル	Michael	speaker
-maseki.049C	そうか……悪かったな……。{wait}{clear}		
+maseki.049C	そうか……悪かったな……。{wait}{clear}	I see... I'm sorry...{wait}{clear}	
 maseki.04BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.04CA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}		
+maseki.04CA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}	Sorry...? What do you mean, Lord Michael?{wait}{clear}	
 maseki.0506	ミカエル	Michael	speaker
-maseki.0512	あれは……{n}あの石は俺が砕いたサタンの魂の一部だ……。{wait}{clear}		
+maseki.0512	あれは……{n}あの石は俺が砕いたサタンの魂の一部だ……。{wait}{clear}	That... that stone is a fragment of Satan's{n}soul, which I shattered...{wait}{clear}	
 maseki.054C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.055C	え……？{wait}{clear}	Huh...?{wait}{clear}	
 maseki.0568	ミカエル	Michael	speaker
-maseki.0574	堕天使たちとの戦いで、{n}俺はサタンの存在を完全に消すことはできなかった。{wait}{clear}俺が倒したサタンの魂は砕け、{n}そのかけらはいろいろな世界へと{n}飛び散っていったのだ。{wait}{clear}		
+maseki.0574	堕天使たちとの戦いで、{n}俺はサタンの存在を完全に消すことはできなかった。{wait}{clear}俺が倒したサタンの魂は砕け、{n}そのかけらはいろいろな世界へと{n}飛び散っていったのだ。{wait}{clear}	In the war with the fallen angels, I{n}couldn't wipe out Satan's existence{n}completely.{wait}{clear}The soul of the Satan I defeated shattered,{n}and its fragments scattered across many{n}worlds.{wait}{clear}	
 maseki.0618	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0628	そのかけらは危険なものではないのですか？{n}それをそのままにしておくなんて……。{wait}{clear}		
+maseki.0628	そのかけらは危険なものではないのですか？{n}それをそのままにしておくなんて……。{wait}{clear}	Aren't those fragments dangerous? To just{n}leave them as they are...{wait}{clear}	
 maseki.067A	ミカエル	Michael	speaker
-maseki.0686	確かに危険なのはわかっていた。{n}ただ、我々はあの石に触れることはできないのだ。{wait}{clear}あの石に触れると我々は大きな傷を受ける……。{n}まあ、その痛みだけが{n}石に触れない理由ではないのだがな……。{wait}{clear}		
+maseki.0686	確かに危険なのはわかっていた。{n}ただ、我々はあの石に触れることはできないのだ。{wait}{clear}あの石に触れると我々は大きな傷を受ける……。{n}まあ、その痛みだけが{n}石に触れない理由ではないのだがな……。{wait}{clear}	I knew they were dangerous, of course. But{n}we cannot touch those stones.{wait}{clear}Touching them wounds us gravely... Though{n}the pain isn't the only reason we keep our{n}hands off them...{wait}{clear}	
 maseki.0746	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0756	ですが、それでは地上界は……。{wait}{clear}		
+maseki.0756	ですが、それでは地上界は……。{wait}{clear}	But then the world below would...{wait}{clear}	
 maseki.0778	ミカエル	Michael	speaker
-maseki.0784	いや……{n}我々は人間にすべてを任せるしかないのだ。{n}たとえそれが無責任だと思われてもな。{wait}{clear}心正しい人間が魔石を守っていくことこそ、{n}我々が望むこと……。{wait}{clear}それに、天使と堕天使、人間との関係は、{n}簡単にわりきれるような単純なものではない。{wait}{clear}悲しいことだがな……。{wait}{clear}天使であっても、いや、天使であるからこそ{n}我々は堕天使にも人間にもなり得るのだ……。{n}それがどういうことなのか……わかるか？{wait}{clear}		
+maseki.0784	いや……{n}我々は人間にすべてを任せるしかないのだ。{n}たとえそれが無責任だと思われてもな。{wait}{clear}心正しい人間が魔石を守っていくことこそ、{n}我々が望むこと……。{wait}{clear}それに、天使と堕天使、人間との関係は、{n}簡単にわりきれるような単純なものではない。{wait}{clear}悲しいことだがな……。{wait}{clear}天使であっても、いや、天使であるからこそ{n}我々は堕天使にも人間にもなり得るのだ……。{n}それがどういうことなのか……わかるか？{wait}{clear}	No... we have no choice but to leave it all{n}to humans. Even if that seems irresponsible.{wait}{clear}What we hope for is that humans of righteous{n}heart will guard the Demon Stones...{wait}{clear}Besides, the bonds between angels, fallen{n}angels and humans aren't so simple that you{n}can neatly divide them.{wait}{clear}Sad as that is...{wait}{clear}Even as angels... no, precisely because we{n}are angels, we can become fallen angels, or{n}even humans... Do you understand what that{wait}{clear}means?{wait}{clear}	
 maseki.0912	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.0922	…………。{wait}{clear}	.........{wait}{clear}	
 maseki.0930	ミカエル	Michael	speaker
-maseki.093C	お前も、悩むだろう？{n}地上界の守護をしているときは、特にな……。{wait}{clear}		
+maseki.093C	お前も、悩むだろう？{n}地上界の守護をしているときは、特にな……。{wait}{clear}	You struggle with it too, don't you?{n}Especially while guarding the world below...{wait}{clear}	
 maseki.0980	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0990	ミカエル様……？{wait}{clear}		
+maseki.0990	ミカエル様……？{wait}{clear}	Lord Michael...?{wait}{clear}	
 maseki.09A4	ミカエル	Michael	speaker
-maseki.09B0	ああ、なんだか関係ないことまで話しているな。{wait}{clear}それにしても地上界アルカヤでその石が見つかり、{n}お前がそれと出会ったとすると、{n}邪悪な意志を感じずにはいられないな……。{wait}{clear}		
+maseki.09B0	ああ、なんだか関係ないことまで話しているな。{wait}{clear}それにしても地上界アルカヤでその石が見つかり、{n}お前がそれと出会ったとすると、{n}邪悪な意志を感じずにはいられないな……。{wait}{clear}	Ah, I'm rambling about things that have{n}nothing to do with this.{wait}{clear}Still, if that stone turned up in Arcaya and{n}you came across it, I can't help sensing an{n}evil will behind it...{wait}{clear}	
 maseki.0A5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0A6C	はい……。{n}魔石を集めている者がいるようです。{wait}{clear}		
+maseki.0A6C	はい……。{n}魔石を集めている者がいるようです。{wait}{clear}	Yes... It seems someone is gathering the{n}Demon Stones.{wait}{clear}	
 maseki.0A9E	ミカエル	Michael	speaker
-maseki.0AAA	そうか……。{n}堕天使の誰かが後ろで……{n}いったい誰だ……。{wait}{clear}		
+maseki.0AAA	そうか……。{n}堕天使の誰かが後ろで……{n}いったい誰だ……。{wait}{clear}	I see... One of the fallen angels is behind{n}it... but who...{wait}{clear}	
 maseki.0AE8	ミカエル	Michael	speaker
-maseki.0AF4	お前たちには、本当にすまないことをしている……。{n}地上界で危険な目にあわせているというのに、{n}俺は、こうして言葉しかかけてやれない……。{wait}{clear}		
+maseki.0AF4	お前たちには、本当にすまないことをしている……。{n}地上界で危険な目にあわせているというのに、{n}俺は、こうして言葉しかかけてやれない……。{wait}{clear}	I'm truly sorry for what I'm putting you all{n}through... You face danger in the world{n}below, and all I can give you is words...{wait}{clear}	
 maseki.0B80	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0B90	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}		
+maseki.0B90	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}	No, Lord Michael. Being able to talk with{n}you like this is more than enough.{wait}{clear}	
 maseki.0BCE	ミカエル	Michael	speaker
-maseki.0BDA	そうか……そう言ってもらえるだけで、ありがたい。{n}また、こうして話ができるといいな。{wait}{clear}魔石のことはラファエルに話しておこう。{n}お前は早く地上界へ戻った方がいい。{n}そんなことが起こっているなら、なおさらだ。{wait}{clear}		
+maseki.0BDA	そうか……そう言ってもらえるだけで、ありがたい。{n}また、こうして話ができるといいな。{wait}{clear}魔石のことはラファエルに話しておこう。{n}お前は早く地上界へ戻った方がいい。{n}そんなことが起こっているなら、なおさらだ。{wait}{clear}	I see... Just hearing you say that means a{n}lot. I hope we can talk like this again.{wait}{clear}I'll tell Raphael about the Demon Stones.{n}You'd best hurry back to the world below.{n}All the more so if that's what's happening.{wait}{clear}	
 maseki.0CAC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0CBC	はい、わかりました。{wait}{clear}本当にありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}		
+maseki.0CBC	はい、わかりました。{wait}{clear}本当にありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}	Yes, I understand.{wait}{clear}Thank you so much, Lord Michael. Please{n}excuse me.{wait}{clear}	
 maseki.0D10	ミカエル	Michael	speaker
-maseki.0D1C	くれぐれも気をつけろ。{n}堕天使のやり方は、いつも汚いからな。{wait}{clear}		
+maseki.0D1C	くれぐれも気をつけろ。{n}堕天使のやり方は、いつも汚いからな。{wait}{clear}	Be very careful. The fallen angels always{n}fight dirty.{wait}{clear}	
 maseki.0D5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0D6C	はい！{wait}{clear}		
+maseki.0D6C	はい！{wait}{clear}	Yes!{wait}{clear}	

@@ -70,7 +70,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | ラビエル | Raviel | | default angel name in the preview version (game 1 spelling) | |
 | クロイツフェルド | Kreutzfeld | | great noble house; the father is chancellor, Alberic is the son | |
 | カイゼル | Kaiser | | General Kaiser (将軍), imperial officer (laev05) | |
-| セネカ | Seneca | | Rudiere's elephant (パオーン "Pawoooo!") | |
+| セネカ | Seneca | | Rudiere's elephant, "she" (パオーン "Pawoooo!", パオー "Pawooo!") | |
+| ユーグ | Hugues | | King of Legrance, Rudiere's elder brother (Hugues Legrance), assassinated loev10 | |
 | リンクス | Lynx | | fairy, boyish (僕) | |
 | ローザ | Rosa | | fairy (formal, composed) | |
 | フロリンダ | Florinda | | fairy; calls herself フロリン "Florin" | |
@@ -119,4 +120,9 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 - A source row with five ＄ (eiev11.079A, eiev12.1530) is written with the full six.
 - ギルド is "the Guild" (capitalised, the mages' association); ロッジ "lodge" ("Guild lodge", "the Grand Lodge").
   ディアナ様 is "Diana-sama" (D1), never "Lady Diana". 老師 (Fein to Raynor) is "Elder". 聖都 "the Holy City".
+- Rudiere's route (b023-b026): 大公 "Grand Duke" (Rudiere's title), 宰相 "Chancellor" (Kreutzfeld, Grosain's),
+  エンディミオン = Endymion, the young Grosain emperor (余 "we" in audience, "I" in private); 旧東方王国 "the old
+  Eastern Kingdom"; ルディの母 tag "Rudi's Mom" (he calls her "Mom"); 王の側近 "King's Aide"; Savio = the armored man
+  in cursed armor, Savia = the girl who frees Rudiere. Chapter labels over 12 letters get a shorter title
+  (第10節「王暗殺」 "Regicide").
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

@@ -1,18 +1,18 @@
 id	jp	en	notes
 loev02.013E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev02.014E	あくどい貴族がいなくなって、{n}村人もとても感謝していましたね。{wait}{clear}		
+loev02.014E	あくどい貴族がいなくなって、{n}村人もとても感謝していましたね。{wait}{clear}	With that crooked noble gone, the villagers{n}were very grateful, weren't they?{wait}{clear}	
 loev02.0190	ルディエール	Rudiere	speaker
-loev02.01A0	ああ、でもな……{n}あんなやつがこんなところで{n}のさばるのを許した、王族……{wait}{clear}つまりおれにも……責任があるんだ。{wait}{clear}		
+loev02.01A0	ああ、でもな……{n}あんなやつがこんなところで{n}のさばるのを許した、王族……{wait}{clear}つまりおれにも……責任があるんだ。{wait}{clear}	Yeah, but... the royal family let a guy like{n}that run wild out here...{wait}{clear}Which means I... share the blame too.{wait}{clear}	
 loev02.0222	ルディエール	Rudiere	speaker
-loev02.0232	感謝されるのはすこしバツが悪いよ……。{wait}{clear}		
+loev02.0232	感謝されるのはすこしバツが悪いよ……。{wait}{clear}	Being thanked for it feels kind of{n}awkward...{wait}{clear}	
 loev02.025C	ＮＵＬＬ	NULL	speaker
-loev02.026C	《正しいことをした……》{n}		
-loev02.028C	《そうですか……》{n}		
+loev02.026C	《正しいことをした……》{n}	You did the right thing...{n}	
+loev02.028C	《そうですか……》{n}	I see...{n}	
 loev02.02B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev02.02C0	いいえ、ルディ自身は正しいことをしたのです。{n}それは認めていいのではないですか？{wait}{clear}		
+loev02.02C0	いいえ、ルディ自身は正しいことをしたのです。{n}それは認めていいのではないですか？{wait}{clear}	No, you yourself did the right thing, Rudi.{n}Can't you at least accept that?{wait}{clear}	
 loev02.0322	ルディエール	Rudiere	speaker
-loev02.0332	ま、そうだな……。{n}そう思った方が気分がいいな……。{wait}{clear}		
+loev02.0332	ま、そうだな……。{n}そう思った方が気分がいいな……。{wait}{clear}	Well, I guess... Thinking that way does feel{n}better...{wait}{clear}	
 loev02.0380	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev02.0390	そうですか……。{wait}{clear}ルディは王族としての{n}責任を感じているのですね。{wait}{clear}		
+loev02.0390	そうですか……。{wait}{clear}ルディは王族としての{n}責任を感じているのですね。{wait}{clear}	I see...{wait}{clear}You feel responsible as a member of the{n}royal family, Rudi.{wait}{clear}	
 loev02.03E6	ルディエール	Rudiere	speaker
-loev02.03F6	責任……？{n}そんなおおげさなもんじゃないけどな。{wait}{clear}ただ、なんかさ、逆の立場だったら{n}納得いかないんじゃないかって思うから……。{wait}{clear}ただ、それだけさ……。{wait}{clear}		
+loev02.03F6	責任……？{n}そんなおおげさなもんじゃないけどな。{wait}{clear}ただ、なんかさ、逆の立場だったら{n}納得いかないんじゃないかって思うから……。{wait}{clear}ただ、それだけさ……。{wait}{clear}	Responsible...? It's nothing that grand.{wait}{clear}It's just... I figure if I were in their{n}shoes, I wouldn't stand for it...{wait}{clear}That's all...{wait}{clear}	

@@ -1,39 +1,39 @@
 id	jp	en	notes
 loev04_01.0052	ルディエール	Rudiere	speaker
-loev04_01.0066	よう、＄＄＄＄＄＄。{n}急に呼び出して悪いな。{wait}{clear}		
-loev04_01.009A	あのさ、兄さんから手紙が届いて、{n}呼び出されたんだ。{n}王宮に。{wait}{clear}		
-loev04_01.00E0	行ってもいいか？{wait}{clear}		
+loev04_01.0066	よう、＄＄＄＄＄＄。{n}急に呼び出して悪いな。{wait}{clear}	Hey, ＄＄＄＄＄＄. Sorry for calling you out{n}of the blue.{wait}{clear}	
+loev04_01.009A	あのさ、兄さんから手紙が届いて、{n}呼び出されたんだ。{n}王宮に。{wait}{clear}	So, I got a letter from my brother. He's{n}summoned me. To the palace.{wait}{clear}	
+loev04_01.00E0	行ってもいいか？{wait}{clear}	Mind if I go?{wait}{clear}	
 loev04_01.00F4	ＮＵＬＬ	NULL	speaker
-loev04_01.0104	《かまわない》{n}		
+loev04_01.0104	《かまわない》{n}	I don't mind{n}	
 loev04_01.011A	《今は……》{n}	Not now...{n}	
 loev04_01.012E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_01.013E	ええ、かまいませんよ。{wait}{clear}		
+loev04_01.013E	ええ、かまいませんよ。{wait}{clear}	Yes, I don't mind at all.{wait}{clear}	
 loev04_01.0164	ルディエール	Rudiere	speaker
-loev04_01.0178	いいのか？　悪いな。{wait}{clear}		
+loev04_01.0178	いいのか？　悪いな。{wait}{clear}	Really? Thanks.{wait}{clear}	
 loev04_01.0190	ＮＵＬＬ	NULL	speaker
-loev04_01.01A0	《なんと仰っているのですか？》{n}		
-loev04_01.01C6	《どんな方です？》{n}		
+loev04_01.01A0	《なんと仰っているのですか？》{n}	What does he say?{n}	
+loev04_01.01C6	《どんな方です？》{n}	What is he like?{n}	
 loev04_01.01E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_01.01F4	お兄さんは、なんと仰っているのです？{wait}{clear}		
+loev04_01.01F4	お兄さんは、なんと仰っているのです？{wait}{clear}	What does your brother say?{wait}{clear}	
 loev04_01.0228	ルディエール	Rudiere	speaker
-loev04_01.023C	うん……？{n}ああ、なんかおれに頼みたいことが{n}あるんだと……。{wait}{clear}		
-loev04_01.0282	詳しい話は会ってから聞くよ。{wait}{clear}		
+loev04_01.023C	うん……？{n}ああ、なんかおれに頼みたいことが{n}あるんだと……。{wait}{clear}	Hm...? Oh, just that there's something he{n}wants me to do for him...{wait}{clear}	
+loev04_01.0282	詳しい話は会ってから聞くよ。{wait}{clear}	I'll hear the details when I see him.{wait}{clear}	
 loev04_01.02AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_01.02BC	お兄さんはどんな方なのです？{wait}{clear}		
+loev04_01.02BC	お兄さんはどんな方なのです？{wait}{clear}	What is your brother like?{wait}{clear}	
 loev04_01.02E8	ルディエール	Rudiere	speaker
-loev04_01.02FC	ええ？{n}お前、おれの兄さんのこと全然知らないのか？{wait}{clear}		
-loev04_01.0336	レグランスの次代を担う若き王、{n}ユーグ・レグランスだぜ。{wait}{clear}		
+loev04_01.02FC	ええ？{n}お前、おれの兄さんのこと全然知らないのか？{wait}{clear}	Huh? You don't know anything about my{n}brother?{wait}{clear}	
+loev04_01.0336	レグランスの次代を担う若き王、{n}ユーグ・レグランスだぜ。{wait}{clear}	He's Hugues Legrance, the young king who'll{n}carry Legrance into the next age.{wait}{clear}	
 loev04_01.037E	ルディエール	Rudiere	speaker
-loev04_01.0392	おれよかよっぽど、{n}お前の言う、世界を救う勇者に向いてるよ。{wait}{clear}		
+loev04_01.0392	おれよかよっぽど、{n}お前の言う、世界を救う勇者に向いてるよ。{wait}{clear}	He'd make a far better world-saving hero, as{n}you put it, than I ever would.{wait}{clear}	
 loev04_01.03DE	ルディエール	Rudiere	speaker
-loev04_01.03F2	まあ、王である兄さんが{n}お前についていくわけないけどな……。{wait}{clear}		
-loev04_01.0436	とにかく、すごい人さ。{n}おれなんか何ひとつかなわない。{wait}{clear}		
-loev04_01.0474	一度、会えばわかるよ。{n}お前も。{wait}{clear}		
+loev04_01.03F2	まあ、王である兄さんが{n}お前についていくわけないけどな……。{wait}{clear}	Not that my brother the king would ever go{n}off with you, though...{wait}{clear}	
+loev04_01.0436	とにかく、すごい人さ。{n}おれなんか何ひとつかなわない。{wait}{clear}	Anyway, he's amazing. I can't hold a candle{n}to him at anything.{wait}{clear}	
+loev04_01.0474	一度、会えばわかるよ。{n}お前も。{wait}{clear}	Meet him once and you'll see. You too.{wait}{clear}	
 loev04_01.04BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev04_01.04CC	……今は依頼を優先してもらえませんか？{wait}{clear}		
+loev04_01.04CC	……今は依頼を優先してもらえませんか？{wait}{clear}	...Could you put the mission first for now?{wait}{clear}	
 loev04_01.04FA	ルディエール	Rudiere	speaker
-loev04_01.050A	なにか急に事件があるかもしれません……{n}今はこちらを優先してもらえませんか？{wait}{clear}		
+loev04_01.050A	なにか急に事件があるかもしれません……{n}今はこちらを優先してもらえませんか？{wait}{clear}	Something could happen at any moment...{n}Could you put this first for now?{wait}{clear}	
 loev04_01.0566	ルディエール	Rudiere	speaker
-loev04_01.057A	なんだよ。{wait}{clear}		
-loev04_01.058C	黙って行ったら悪いと思って教えたのに……。{wait}{clear}		
-loev04_01.05CA	悪いけど、おれは行くぜ。{n}兄さんの頼みなんだ、ほっとけない。{wait}{clear}		
+loev04_01.057A	なんだよ。{wait}{clear}	What the heck?{wait}{clear}	
+loev04_01.058C	黙って行ったら悪いと思って教えたのに……。{wait}{clear}	I told you because I thought it'd be rude to{n}just leave without a word...{wait}{clear}	
+loev04_01.05CA	悪いけど、おれは行くぜ。{n}兄さんの頼みなんだ、ほっとけない。{wait}{clear}	Sorry, but I'm going. It's my brother{n}asking. I can't just ignore him.{wait}{clear}	

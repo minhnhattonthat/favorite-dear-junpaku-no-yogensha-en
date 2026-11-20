@@ -3,15 +3,15 @@ eiev29.0002	ラストバトル(能書き)		dev label (guess: not shown)
 eiev29.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev29.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 eiev29.011A	天竜		unit name (32-byte field)
-eiev29.04A8	エンディミオン		speaker
+eiev29.04A8	エンディミオン	Endymion	speaker
 eiev29.04C5	何の用だ？　天使とその勇者よ……。		text
 eiev29.0506	慈悲でも請いに来たか。		text
 eiev29.053B	アイリーン	Irene	speaker
 eiev29.0554	違う。{n}悪魔を倒しに来たのよ。		text
-eiev29.05A9	エンディミオン		speaker
+eiev29.05A9	エンディミオン	Endymion	speaker
 eiev29.05C6	なかなか面白いことを言う……		text
 eiev29.0601	私と天竜を倒すと？{n}フハハハハハ！		text
-eiev29.065A	エンディミオン		speaker
+eiev29.065A	エンディミオン	Endymion	speaker
 eiev29.0677	サタン様と私の力を見くびるな！！		text
 eiev29.06B6	お前ら人間とその守護天使など{n}天竜にとっては滋養にすぎん……		text
 eiev29.0711	存在する次元が違うのだ……。		text
@@ -19,9 +19,9 @@ eiev29.074C	アイリーン	Irene	speaker
 eiev29.0765	悪魔がいうことはいつも同じね……		text
 eiev29.07A4	自分は強いと口先だけでしつこく語る……。		text
 eiev29.07FB	そんな言葉もう聞き飽きたわよ！		text
-eiev29.0848	エンディミオン		speaker
+eiev29.0848	エンディミオン	Endymion	speaker
 eiev29.0865	愚かな……しかしその愚かさが、{n}人間なのだろうな……		text
 eiev29.08B8	よかろう、その違いを見せてやろう……		text
-eiev29.0947	エンディミオン		speaker
+eiev29.0947	エンディミオン	Endymion	speaker
 eiev29.0964	フハハハ！！！{n}お前らに私が滅ぼせるか？		text
 eiev29.09AB	ガープのようにはいかんぞ！		text

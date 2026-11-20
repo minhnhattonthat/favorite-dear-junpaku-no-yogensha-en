@@ -3,7 +3,7 @@ clev21b.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
 clev21b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev21b.00DE	セレニス	Serenis	unit name (32-byte field)
 clev21b.011A	覚醒エンディミオン		unit name (32-byte field)
-clev21b.0156	エンディミオン		unit name (32-byte field)
+clev21b.0156	エンディミオン	Endymion	unit name (32-byte field)
 clev21b.0192	椅子		unit name (32-byte field)
 clev21b.01CE	魔石の台		unit name (32-byte field)
 clev21b.04AC	クライヴ	Clive	speaker

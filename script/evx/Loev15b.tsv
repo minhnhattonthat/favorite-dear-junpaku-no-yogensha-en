@@ -4,17 +4,17 @@ Loev15b.00A2	ルディ		unit name (32-byte field)
 Loev15b.00DE	ミリシア		unit name (32-byte field)
 Loev15b.011A	ミリシア		unit name (32-byte field)
 Loev15b.0156	ミリシア		unit name (32-byte field)
-Loev15b.0192	サヴィア		unit name (32-byte field)
-Loev15b.0524	サヴィア		speaker
+Loev15b.0192	サヴィア	Savia	unit name (32-byte field)
+Loev15b.0524	サヴィア	Savia	speaker
 Loev15b.053B	ルディね……。		text
 Loev15b.059C	ルディエール	Rudiere	speaker
 Loev15b.05B7	サヴィア……君は……{n}暗殺団の一人だったのか……		text
-Loev15b.05F6	サヴィア		speaker
-Loev15b.060D	…………。		text
+Loev15b.05F6	サヴィア	Savia	speaker
+Loev15b.060D	…………。	.....	text
 Loev15b.0626	ルディエール	Rudiere	speaker
 Loev15b.0641	聞きたいことがある……君に。		text
 Loev15b.066C	兄さんを……兄さんを殺したのは君か……。		text
-Loev15b.06E7	サヴィア		speaker
+Loev15b.06E7	サヴィア	Savia	speaker
 Loev15b.06FE	……ちがうわ。ルディ。		text
 Loev15b.0723	私があなたをだまして、王を手にかけようとしたのは{n}本当よ……。		text
 Loev15b.0770	でも、私はやってない……。{n}やったのは貴族たちよ……		text
@@ -24,7 +24,7 @@ Loev15b.0839	あなたには私の言葉など{n}信じられないかもしれ�
 Loev15b.0882	あの貴族たちは王権を奪い取ろうとして{n}あなたたち兄弟をわなにかけたのよ……。		text
 Loev15b.0921	ルディエール	Rudiere	speaker
 Loev15b.093C	そんな……		text
-Loev15b.0955	サヴィア		speaker
+Loev15b.0955	サヴィア	Savia	speaker
 Loev15b.096C	本当よ……やつらのやり口だわ……。		text
 Loev15b.099D	西方の貴族も東方の貴族もいかにして自分たちの{n}私腹をこやすか……それしか考えていないの。		text
 Loev15b.0A04	あなたのお兄さんは貴族たちととても対立してたわ……		text
@@ -33,27 +33,27 @@ Loev15b.0AA2	あなたに罪をかぶせて、{n}王権を自分たちの手中�
 Loev15b.0AEB	私たちが裏で王族の暗殺をくわだてていることを{n}知ってね……。		text
 Loev15b.0B36	ルディエール	Rudiere	speaker
 Loev15b.0B51	ばかげてる……兄さんは帝国の脅威を真剣に{n}考えていたから、国をまとめようとしていたのに……。		text
-Loev15b.0C00	サヴィア		speaker
+Loev15b.0C00	サヴィア	Savia	speaker
 Loev15b.0C17	西の貴族も東の貴族もやっていることは{n}皆一緒よ……。{n}己の保身のためにどんな手も使う……汚いやつら……		text
 Loev15b.0C8C	ルディエール	Rudiere	speaker
 Loev15b.0CA7	こんなことをしていたら……{n}ますます帝国の思うつぼなのに……。		text
 Loev15b.0D08	帝国のデーモンはそこまで迫ってるのに……{n}クソッ！！		text
-Loev15b.0D4B	サヴィア		speaker
+Loev15b.0D4B	サヴィア	Savia	speaker
 Loev15b.0D62	だから私たちはあの愚かな貴族たちを{n}始末するのよ……国を滅ぼす病だもの……。		text
 Loev15b.0DD1	ルディエール	Rudiere	speaker
 Loev15b.0DEC	いや、君たちのやってることは間違ってる……。{n}今すぐ争いをやめて、帝国の軍勢にそなえるんだ。		text
-Loev15b.0E57	サヴィア		speaker
+Loev15b.0E57	サヴィア	Savia	speaker
 Loev15b.0E6E	ルディ、あなたは甘いわ……{n}行動を起こさないといけないの……。		text
 Loev15b.0EBB	今の貴族たちが生きている限りなにをしても{n}ムダよ。		text
 Loev15b.0F40	ルディエール	Rudiere	speaker
 Loev15b.0F5B	そんなの無意味だ！{n}自分たちの国で殺し合って、{n}こんなことをしていたら……		text
-Loev15b.0FF8	サヴィア		speaker
+Loev15b.0FF8	サヴィア	Savia	speaker
 Loev15b.100F	だからってやつらの思うままにされるのがいいの？		text
 Loev15b.104C	ルディエール	Rudiere	speaker
 Loev15b.1067	違う……ただ……		text
-Loev15b.10CA	サヴィア		speaker
+Loev15b.10CA	サヴィア	Savia	speaker
 Loev15b.10E1	所詮王族であるあなたに、こんなことを語っても{n}わかってはくれないわね……。		text
-Loev15b.118E	サヴィア		speaker
+Loev15b.118E	サヴィア	Savia	speaker
 Loev15b.11A5	さよなら、ルディ。		text
 Loev15b.127A	ルディエール	Rudiere	speaker
 Loev15b.1295	待つんだ、サヴィア！		text

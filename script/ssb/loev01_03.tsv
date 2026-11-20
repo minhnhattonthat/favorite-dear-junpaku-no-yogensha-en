@@ -1,8 +1,8 @@
 id	jp	en	notes
 loev01_03.0032	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_03.0042	彼はここにいるはずですよね……。{n}ルディエール……いらっしゃいますか？{wait}{clear}		
+loev01_03.0042	彼はここにいるはずですよね……。{n}ルディエール……いらっしゃいますか？{wait}{clear}	He should be here... Rudiere... are you{n}there?{wait}{clear}	
 loev01_03.00A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_03.00B6	ルディ……？{wait}{clear}あれ？　いない……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}		
+loev01_03.00B6	ルディ……？{wait}{clear}あれ？　いない……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}	Rudi...?{wait}{clear}Huh? He's not here... I wonder if he went{n}out somewhere...{wait}{clear}	
 loev01_03.010E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev01_03.011E	ルディ……？{wait}{clear}あら？　いないみたいですね……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}		
+loev01_03.011E	ルディ……？{wait}{clear}あら？　いないみたいですね……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}	Rudi...?{wait}{clear}Oh? It seems he isn't here... I wonder if he{n}went out somewhere...{wait}{clear}	
 loev01_03.017E	しかたがないですね。{n}また、時間をあらためて来てみましょう。{wait}{clear}	It can't be helped. I'll try coming back{n}another time.{wait}{clear}	

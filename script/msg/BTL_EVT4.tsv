@@ -30,9 +30,9 @@ BTL_EVT4.0594	お前たちが我々帝国軍にかなうはずなどない！{n}
 BTL_EVT4.05FCS	アイリーン	Irene	speaker
 BTL_EVT4.0607	ああ、気持ち悪かった！！		
 BTL_EVT4.0623S	ファントム		speaker
-BTL_EVT4.062E	…………。		
+BTL_EVT4.062E	…………。	.....	
 BTL_EVT4.063CS	ファントム		speaker
-BTL_EVT4.0647	…………。		
+BTL_EVT4.0647	…………。	.....	
 BTL_EVT4.0679S	イオン	Ion	speaker
 BTL_EVT4.0680	ぼくの邪魔をするから……。		
 BTL_EVT4.069ES	イオン	Ion	speaker
@@ -66,7 +66,7 @@ BTL_EVT4.09E0	レイラという帝国騎士に会ったら、{n}彼女の部下
 BTL_EVT4.0A3ES	カイゼル		speaker
 BTL_EVT4.0A47	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT4.0A73S	カイゼル		speaker
-BTL_EVT4.0A7C	…………。		
+BTL_EVT4.0A7C	…………。	.....	
 BTL_EVT4.0AAES	アイリーン	Irene	speaker
 BTL_EVT4.0AB9	あの剣……強力な魔法で作られてた……。{wait}{clear}それに魂を奪われたのね……。		
 BTL_EVT4.0B03S	アルベリック	Alberic	speaker
@@ -794,19 +794,19 @@ BTL_EVT4.60F8	逃げていきおったわ！
 BTL_EVT4.617CS	アイリーン	Irene	speaker
 BTL_EVT4.6187	なんで、勇者だった人が吸血鬼なんかに……。		
 BTL_EVT4.61B5S	クライヴ	Clive	speaker
-BTL_EVT4.61BE	…………。		
+BTL_EVT4.61BE	…………。	.....	
 BTL_EVT4.61CCS	アイリーン	Irene	speaker
 BTL_EVT4.61D7	なにも答えてくれないの？		
 BTL_EVT4.61F3S	クライヴ	Clive	speaker
-BTL_EVT4.61FC	…………。		
+BTL_EVT4.61FC	…………。	.....	
 BTL_EVT4.620AS	アイリーン	Irene	speaker
 BTL_EVT4.6215	もう……しかたないのね……。		
 BTL_EVT4.6235S	アイリーン	Irene	speaker
 BTL_EVT4.6240	…………。{wait}{clear}こんなの……悲しすぎるよ……。		
 BTL_EVT4.6270S	クライヴ	Clive	speaker
-BTL_EVT4.6279	…………。		
+BTL_EVT4.6279	…………。	.....	
 BTL_EVT4.6287S	クライヴ	Clive	speaker
-BTL_EVT4.6290	…………。		
+BTL_EVT4.6290	…………。	.....	
 BTL_EVT4.630AS	アイリーン	Irene	speaker
 BTL_EVT4.6315	村から出ていかないんなら、{n}やっつけるしかないわね。		
 BTL_EVT4.634DS	アイリーン	Irene	speaker
@@ -834,7 +834,7 @@ BTL_EVT4.6582	あははは！{n}情けない勇者だこと！
 BTL_EVT4.65CAS	アイリーン	Irene	speaker
 BTL_EVT4.65D5	あんたたちなんて、私が倒してあげるわ！		
 BTL_EVT4.65FFS	アイリーン	Irene	speaker
-BTL_EVT4.660A	…………。		
+BTL_EVT4.660A	…………。	.....	
 BTL_EVT4.6618S	ティンダロス		speaker
 BTL_EVT4.6625	ウオォ～ン！！		
 BTL_EVT4.6637S	ティンダロス		speaker

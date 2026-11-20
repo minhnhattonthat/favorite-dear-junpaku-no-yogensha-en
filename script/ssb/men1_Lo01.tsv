@@ -1,29 +1,29 @@
 id	jp	en	notes
 men1_Lo01.0052	ルディエール	Rudiere	speaker
-men1_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
+men1_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Lo01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.008A	ルディ、どうしたのですか？{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
+men1_Lo01.008A	ルディ、どうしたのですか？{n}妖精からなにか話があると聞いたのですが。{wait}{clear}	Rudi, what is it? The fairy said you had{n}something to tell me.{wait}{clear}	
 men1_Lo01.00D2	ルディエール	Rudiere	speaker
-men1_Lo01.00E2	いや……ごめん。{n}妖精が＄＄＄＄＄＄は呼べば来るって言ってたから、{n}本当かどうか、試してみたんだ。{wait}{clear}		
+men1_Lo01.00E2	いや……ごめん。{n}妖精が＄＄＄＄＄＄は呼べば来るって言ってたから、{n}本当かどうか、試してみたんだ。{wait}{clear}	Well... sorry. The fairy said you'd come if{n}I called, ＄＄＄＄＄＄, so I tested it to{n}see if it was true.{wait}{clear}	
 men1_Lo01.0148	ＮＵＬＬ	NULL	speaker
-men1_Lo01.0158	《これで信じてもらえましたか？》{n}		
-men1_Lo01.0180	《用のあるときだけにしてもらえませんか？》{n}		
+men1_Lo01.0158	《これで信じてもらえましたか？》{n}	Do you believe me now?{n}	
+men1_Lo01.0180	《用のあるときだけにしてもらえませんか？》{n}	Could you only call when you need me?{n}	
 men1_Lo01.01B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.01C2	これで信じてもらえましたか？{wait}{clear}		
+men1_Lo01.01C2	これで信じてもらえましたか？{wait}{clear}	Do you believe me now?{wait}{clear}	
 men1_Lo01.01E2	ルディエール	Rudiere	speaker
-men1_Lo01.01F2	ああ、本当に来てくれるなんて、{n}天使ってすごく真面目なんだな。{wait}{clear}		
+men1_Lo01.01F2	ああ、本当に来てくれるなんて、{n}天使ってすごく真面目なんだな。{wait}{clear}	Wow, you actually came. Angels sure are{n}serious.{wait}{clear}	
 men1_Lo01.0234	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.0244	いえ……真面目というか……{n}これが私たちのつとめですから。{wait}{clear}		
+men1_Lo01.0244	いえ……真面目というか……{n}これが私たちのつとめですから。{wait}{clear}	No... It's not about being serious... This{n}is our duty.{wait}{clear}	
 men1_Lo01.028E	ルディエール	Rudiere	speaker
-men1_Lo01.029E	そうか、＄＄＄＄＄＄のこと、{n}少しわかった気がするよ。{wait}{clear}本当に悪かったな。{wait}{clear}		
+men1_Lo01.029E	そうか、＄＄＄＄＄＄のこと、{n}少しわかった気がするよ。{wait}{clear}本当に悪かったな。{wait}{clear}	I see. I feel like I understand you a{n}little, ＄＄＄＄＄＄.{wait}{clear}Really, my bad.{wait}{clear}	
 men1_Lo01.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.0302	ルディ……すみませんが{n}用のあるときにだけ、呼んでいただけませんか。{wait}{clear}		
+men1_Lo01.0302	ルディ……すみませんが{n}用のあるときにだけ、呼んでいただけませんか。{wait}{clear}	Rudi... I'm sorry, but could you only call{n}me when you need me?{wait}{clear}	
 men1_Lo01.034A	ルディエール	Rudiere	speaker
-men1_Lo01.035A	ごめん、ごめん。{n}怒らせるつもりはなかったんだ。{wait}{clear}ただ、やっぱりさ、{n}天使っておれたちとは違うだろ？{n}だから、どういうものなのかって気になって……。{wait}{clear}		
+men1_Lo01.035A	ごめん、ごめん。{n}怒らせるつもりはなかったんだ。{wait}{clear}ただ、やっぱりさ、{n}天使っておれたちとは違うだろ？{n}だから、どういうものなのかって気になって……。{wait}{clear}	Sorry, sorry. I didn't mean to make you mad.{wait}{clear}It's just, angels are different from us,{n}right? So I got curious what you're really{n}like...{wait}{clear}	
 men1_Lo01.03F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.0404	え？　そうだったのですか……。{wait}{clear}		
+men1_Lo01.0404	え？　そうだったのですか……。{wait}{clear}	Oh? So that was it...{wait}{clear}	
 men1_Lo01.0426	ルディエール	Rudiere	speaker
-men1_Lo01.0436	でも、こうやって来てもらって、{n}なにかがわかった気がするよ。{wait}{clear}		
-men1_Lo01.0482	これからは、もっと理解し合えると思う。{wait}{clear}		
+men1_Lo01.0436	でも、こうやって来てもらって、{n}なにかがわかった気がするよ。{wait}{clear}	But having you come like this, I feel like I{n}figured something out.{wait}{clear}	
+men1_Lo01.0482	これからは、もっと理解し合えると思う。{wait}{clear}	From now on, I think we'll understand each{n}other better.{wait}{clear}	
 men1_Lo01.04AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo01.04BC	そうですね……{n}そう思ってもらえるのだったら、{n}ルディに会いに来て、よかったです。{wait}{clear}		
+men1_Lo01.04BC	そうですね……{n}そう思ってもらえるのだったら、{n}ルディに会いに来て、よかったです。{wait}{clear}	Yes... If you feel that way, then I'm glad I{n}came to see you, Rudi.{wait}{clear}	

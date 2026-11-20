@@ -3,7 +3,7 @@ laev20.0002	セレニスとの戦い		dev label (guess: not shown)
 laev20.00A2	レイラ	Leyla	unit name (32-byte field)
 laev20.00DE	セレニス	Serenis	unit name (32-byte field)
 laev20.011A	魔法		unit name (32-byte field)
-laev20.0156	エンディミオン		unit name (32-byte field)
+laev20.0156	エンディミオン	Endymion	unit name (32-byte field)
 laev20.0192	魔石（初期）		unit name (32-byte field)
 laev20.01CE	魔石（点滅）		unit name (32-byte field)
 laev20.020A	魔石（赤）		unit name (32-byte field)
@@ -20,10 +20,10 @@ laev20.06D0	そこでじっとしていなさい。{n}天使の勇者よ。		tex
 laev20.0709	偉大な力がよみがえるのを見せてあげるわ。		text
 laev20.0764	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 laev20.07AB	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
-laev20.0854	エンディミオン		speaker
+laev20.0854	エンディミオン	Endymion	speaker
 laev20.0871	セレニス……お前はなにを……。		text
 laev20.08AE	セレニス	Serenis	speaker
 laev20.08C5	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 laev20.092E	さあ……始めましょう……。		text
-laev20.09E3	エンディミオン		speaker
+laev20.09E3	エンディミオン	Endymion	speaker
 laev20.0A00	ああ……。		text

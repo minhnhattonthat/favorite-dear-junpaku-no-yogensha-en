@@ -1,24 +1,24 @@
 id	jp	en	notes
 men1_Fe02.0052	フェイン	Fein	speaker
-men1_Fe02.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
+men1_Fe02.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sorry to call you out, ＄＄＄＄＄＄.{wait}{clear}	
 men1_Fe02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe02.0092	いいえ。{n}なにか用ですか、フェイン？{wait}{clear}		
+men1_Fe02.0092	いいえ。{n}なにか用ですか、フェイン？{wait}{clear}	Not at all. Do you need something, Fein?{wait}{clear}	
 men1_Fe02.00BA	フェイン	Fein	speaker
-men1_Fe02.00C6	いや、少し話がしたいと思ったのだが、{n}迷惑だったか？{wait}{clear}		
+men1_Fe02.00C6	いや、少し話がしたいと思ったのだが、{n}迷惑だったか？{wait}{clear}	No, I just thought I'd like to talk a{n}little. Was it a bother?{wait}{clear}	
 men1_Fe02.00FE	ＮＵＬＬ	NULL	speaker
-men1_Fe02.010E	《いいえ。》{n}		
-men1_Fe02.0122	《あまり時間が……。》{n}		
+men1_Fe02.010E	《いいえ。》{n}	Not at all.{n}	
+men1_Fe02.0122	《あまり時間が……。》{n}	I don't have much time...{n}	
 men1_Fe02.0140	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe02.0150	いいえ、迷惑だなんて思っていません。{n}こうしてフェインと話せるのは、{n}私にとってもうれしいことです。{wait}{clear}		
+men1_Fe02.0150	いいえ、迷惑だなんて思っていません。{n}こうしてフェインと話せるのは、{n}私にとってもうれしいことです。{wait}{clear}	No, I don't think of it as a bother. Being{n}able to talk with you like this makes me{n}happy too, Fein.{wait}{clear}	
 men1_Fe02.01B8	フェイン	Fein	speaker
-men1_Fe02.01C4	そうか……そう言ってもらえると俺も助かる。{n}＄＄＄＄＄＄は忙しそうだからな……。{wait}{clear}じゃあ、悪いが少しだけつきあってくれ。{wait}{clear}		
+men1_Fe02.01C4	そうか……そう言ってもらえると俺も助かる。{n}＄＄＄＄＄＄は忙しそうだからな……。{wait}{clear}じゃあ、悪いが少しだけつきあってくれ。{wait}{clear}	I see... That's good to hear. You always{n}seem busy, ＄＄＄＄＄＄...{wait}{clear}Then, sorry, but keep me company for just a{n}little while.{wait}{clear}	
 men1_Fe02.0242	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe02.0252	はい。{wait}{clear}	Yes.{wait}{clear}	
 men1_Fe02.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe02.0270	すみません、あまり時間がなくて……。{wait}{clear}		
+men1_Fe02.0270	すみません、あまり時間がなくて……。{wait}{clear}	I'm sorry, I don't have much time...{wait}{clear}	
 men1_Fe02.0298	フェイン	Fein	speaker
-men1_Fe02.02A4	そうか……。{n}やっぱり忙しいのだな、＄＄＄＄＄＄は。{n}では、無理につきあわせるのもなんだな。{wait}{clear}		
+men1_Fe02.02A4	そうか……。{n}やっぱり忙しいのだな、＄＄＄＄＄＄は。{n}では、無理につきあわせるのもなんだな。{wait}{clear}	I see... You really are busy, ＄＄＄＄＄＄.{n}Then I shouldn't force you to stay.{wait}{clear}	
 men1_Fe02.0304	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Fe02.0314	すみません……。{wait}{clear}		
+men1_Fe02.0314	すみません……。{wait}{clear}	I'm sorry...{wait}{clear}	
 men1_Fe02.0328	フェイン	Fein	speaker
-men1_Fe02.0334	いや、たいした話でもなかったのだ。{n}またの機会にしよう。{wait}{clear}		
+men1_Fe02.0334	いや、たいした話でもなかったのだ。{n}またの機会にしよう。{wait}{clear}	No, it was nothing important. Let's save it{n}for another time.{wait}{clear}	
