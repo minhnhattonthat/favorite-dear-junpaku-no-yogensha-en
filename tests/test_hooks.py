@@ -13,7 +13,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 EXE = ROOT / "work" / "disc" / "tree" / "SLPS_027.54"
 # (first address, words overwritten) for every .org in asm/font.asm except FREE
 HOOKS = [(0x8002C500, 4), (0x8002C548, 1), (0x8002C5EC, 2), (0x8002CCD8, 1), (0x8002CCEC, 1), (0x8002CDF0, 1),
-         (0x8002CE00, 1), (0x8002BF50, 6), (0x8002C118, 5), (0x8002C358, 5)]
+         (0x8002CE00, 1), (0x8002BF50, 6), (0x8002C118, 5), (0x8002C358, 5), (0x8002C218, 2)]
 
 
 def test_hook_list_matches_asm():

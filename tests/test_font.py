@@ -80,7 +80,7 @@ def test_patch_exe_prepends_block_and_hooks():
 
     def word(data, va, base):
         return struct.unpack_from("<I", data, va - base + 0x800)[0]
-    hooked = {0x8002C500, 0x8002C504, 0x8002C508, 0x8002C50C, 0x8002C548, 0x8002C5EC, 0x8002C5F0, 0x8002CCD8, 0x8002CCEC, 0x8002CDF0, 0x8002CE00}
+    hooked = {0x8002C500, 0x8002C504, 0x8002C508, 0x8002C50C, 0x8002C548, 0x8002C5EC, 0x8002C5F0, 0x8002CCD8, 0x8002CCEC, 0x8002CDF0, 0x8002CE00, 0x8002C218, 0x8002C21C}
     hooked |= {a + 4 * k for a in (0x8002BF50, 0x8002C118, 0x8002C358) for k in range(6)}
     for va in range(0x80020000, 0x80020000 + len(orig) - 0x800, 4):
         if va not in hooked:

@@ -70,6 +70,13 @@ CELLBUF   equ 0x80084578
     j       0x8002C3D8
     move    a0, v0
 
+; --- string renderer 1 width: 0x8002C25C stores text w = cell * strlen (s2) * 2 at +0x18, which the button code
+;     centres on (0x8002FF7C, 0x8003009C: x = box x + (box w - text w) / 2). An odd English label ends in a pair
+;     whose right half is a space, so it sat 3 px left; trim_hook drops that blank half from the width.
+.org 0x8002C218
+    jal     trim_hook
+    addiu   a3, zero, 0xE               ; replaced: move v1,zero (done in the hook) / addiu a3,zero,0xE
+
 .org FREE
 pair_lookup:                            ; v1 = code; return v0 = 0x8000 | n, or -1
     srl     t1, v1, 8
@@ -157,6 +164,28 @@ glyph_hook:                             ; a0 = glyph index
     addiu   t6, t6, 6
     jr      ra
     nop
+
+trim_hook:                              ; s2 = strlen (even), s3 = string; s2 -= 1 if the last pair is "x "
+    move    t9, ra                      ; returns v1 = 0 (the replaced instruction); s2 is only read for the width
+    slti    t0, s2, 2
+    bnez    t0, @@done
+    addu    t0, s3, s2
+    lbu     v1, -2(t0)
+    lbu     t0, -1(t0)
+    sll     v1, v1, 8
+    jal     pair_lookup                 ; uses v1, t1-t3
+    or      v1, v1, t0
+    bltz    v0, @@done
+    andi    v0, v0, 0x7FFF
+    li      t0, PAIR_G
+    divu    v0, t0
+    mfhi    t0
+    bnez    t0, @@done
+    nop
+    addiu   s2, s2, -1
+@@done:
+    jr      t9
+    move    v1, zero
 
 .include "font_data.inc"
 font_end:

@@ -7,3 +7,16 @@ work/qa/tour/map_heaven/post.png	29,81,86,14	Rest	31	34	ok	3 px is glyph ink: th
 work/qa/tour/map_heaven/post.png	29,107,86,14	heaven button 4	31	33	ok
 work/qa/tour/map_heaven/post.png	29,133,86,14	heaven button 5	7	8	ok
 work/qa/tour/map_heaven/post.png	69,193,198,10	bottom help pill	63	65	ok
+work/qa/p8/w27/map_menu/post.png	125,97,70,14	Fairies (map menu)	14	16	ok	build 2401529b, trim_hook (asm/font.asm): was 11/19; --ink 255,255,255 --diff 50
+work/qa/p8/w27/map_menu/post.png	125,125,70,10	Status (map menu)	17	19	ok	--ink 156,156,156 --diff 30
+work/qa/p8/w27/map_menu/post.png	125,153,70,10	To Heaven (map menu)	8	10	ok	was 5/13
+work/qa/p8/w27/heaven_status/post.png	125,101,70,14	Fairies (heaven status)	14	16	ok	was 11/19
+work/qa/p8/w27/heaven_status/post.png	125,133,70,10	Angel	20	24	ok	the half pair is trimmed; the rest is glyph ink: l is 1 px wide in its 6 px half (same as Rest, 31/34)
+work/qa/p8/w27/heaven_move/post.png	29,29,86,14	Azaria Palace	4	6	ok	was 1/9
+work/qa/p8/w27/heaven_move/post.png	29,81,86,10	Emilia Palace	4	6	ok	was 1/9
+work/qa/p8/w27/heaven_move/post.png	29,55,86,10	Flo Palace	13	15	ok	
+work/qa/p8/w27/heaven_move/post.png	29,107,86,10	Fota Villa	13	15	ok	
+work/qa/p8/w27/heaven_move/post.png	29,133,86,10	Raqia Palace	7	9	ok	
+work/qa/p8/w27/heaven_move/post.png	29,159,86,10	Return Below	7	8	ok	
+work/qa/p8/w27/heaven_rest/post.png	69,193,198,10	help bar: Spend a day to recover AP	24	26	ok	odd help-bar text centred too
+work/qa/p8/choice2/choice_menx/f010430.png	-	menX Yes/No choice	-	-	ok	left-aligned list indented one cell under the question as in the JP (work/qa/jp/choice/z2.png); not a centred box
