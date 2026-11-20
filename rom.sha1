@@ -1,2 +1,3 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+b948c46436cb2290c5a87903336e0d404705c73d  rom/Favorite Dear - Junpaku no Yogensha (Japan).bin
+ae891b47cba820959bf4c8585ee134b171f97711  rom/Favorite Dear - Junpaku no Yogensha (Japan).cue

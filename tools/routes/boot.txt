@@ -1,0 +1,7 @@
+# Cold boot past the logos and the opening movie (Start does not skip it) to the title screen
+# ("PRESS START BUTTON" by ~f6000), then Start twice: the title menu (NEW GAME / LOAD GAME / OPTION). 60 Hz frames.
+6000 -
+6 start
+600 -
+6 start
+600 -
