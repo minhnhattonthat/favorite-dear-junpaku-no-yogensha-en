@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (24th worker: G14 opening captions done, G15 staff roll next; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -262,7 +262,30 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Same class, not fixed (polish.md, needs a re-pairing hook after rfd2 0x800BF280): odd hero names "Cecia -sama has
   resolved", odd town names before "." Battle black boxes over sprites (battle_h1) predate the plates (tour_da353c51):
   not ours. **Build 68d392eb**, check.py 65 passed + lint 0.
-- **Next (phase 8):** remaining done-when items: (1) G14/G15 FMV: English captions for DEMO.STR (3 caption cards in
+- **Phase 8 progress (2026-11-21, 24th worker):** **G14 done:** the 7 DEMO.STR captions are English, re-encoded
+  in place. `tools/mdec.py` is a PS1 STR v2 codec (2336-byte sectors, chunk headers, MPEG-1 B.14 VLC, column-major
+  macroblocks Cr Cb Y0-3): parse + reassemble is byte-identical (`tests/test_mdec.py`), and `rebuild` re-encodes
+  only the touched macroblocks (the other blocks keep their original bits). **Gotcha:** every frame ends with a
+  10-bit 0x1FF end code; without it the game's player quits the movie (first build went black, then straight to
+  the title). `tools/fmv.py` + `gfx/fmv.tsv` (movie, frame span, sharp ref frame, region, size, mode, line anchors
+  `at`, clean frames, jp, en): per frame the JP layer is fitted as alpha x blur(ref) (joint fit where captions
+  overlap) and the English is drawn with the same alpha/blur, so it fades and smears like the original. Modes:
+  black (warm R-B signal, inpaint), scene (box rebuilt from caption-free frames moved by a local phase-correlation
+  shift, gain-matched; stained-glass pan), box (inpaint the whole tight box; morphing clouds). Font Crimson Text
+  SemiBold Italic (OFL, `fonts/crimson/`, docs/fonts.md). `build.py` adds `fmv.changes()` (cached in build/fmv/,
+  ~3 min to re-encode DEMO). Emulator cold boot shows every caption (`work/qa/p8/demo/`, `work/qa/p8/demo_emu.png`;
+  movie frames f1830-f4000). Minor: the feather is clipped for 2-3 frames where it crosses an old caption (polish).
+  **Build 6376499a**, check.py 68 passed + lint 0. Movie frame numbers: `python tools/mdec.py info X.STR`; all
+  frames as PNG: `python tools/str2352.py X.STR work/fmv/X.raw; ffmpeg -f psxstr -i work/fmv/X.raw dir/f%04d.png`.
+  **G15 plan (next worker):** ENDING.STR = 4218 frames (`work/fmv/ending/t01.png` overview). (a) caption
+  悲しみはよろこびに場所を譲り / 勇者は希望の礎となる── on black near the start: one `gfx/fmv.tsv` row (black mode).
+  (b) the 純白の預言者 logo: leave (D-style: the title logo stays JP everywhere). (c) the staff roll scrolls on the
+  black right half beside a gold ornament panel on the left: measure the scroll speed and the black text column,
+  transcribe every credit (role + name), romanize (cast names: check spellings of the well-known voice actors;
+  staff: Hepburn, note uncertain readings in docs/polish.md), and add a "roll" mode to fmv.py that paints the
+  column black and draws one tall English strip offset by the scroll per frame (no fit needed). Read the frames in
+  chunks (decode once to work/fmv/ending_all/, sheets of ~10 frames), not one by one.
+- **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
   choice / centred menu boxes (menX_* Yes/No, heaven buttons); (3) stress saves (longest names, full lists, max
