@@ -108,6 +108,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | グローサイン | Grosain | | the Grosain Empire (帝国) | |
 | 六王国 | Six Kingdoms | | | |
 | バーゼル | Basel | | country; Alkmaar is in Basel | |
+| スゥオレ | Suore | | port town in Labirk (also spelled スウォレ in the EXE) | Suole |
+| スウォレ | Suore | | | Suole |
 | レフカス | Lefkas | | where the Demon Stone was kept before Alkmaar | |
 | バレーゼ | Valese | | country; its church in Ilyus shelters the clergy after the Holy City falls | |
 | イリュウス | Ilyus | | town in Valese | |

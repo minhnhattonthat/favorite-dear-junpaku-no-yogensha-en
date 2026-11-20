@@ -2,8 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate: all 92 batches translated (2026-11-21); the reviewer pass is what's left (phase 5 done
+- **Phase:** 7. Insert, fit, check (phase 6 done 2026-11-21: all 92 batches translated and reviewed; phase 5 done
   2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase 6 reviewer pass (2026-11-21, 14th worker; codex out of credits, so done in-session):** all 92 batches
+  `check` OK; whole-script scans with the new `tools/review_scan.py` (near-miss names, katakana -> English
+  consistency, the angel gendered, EN/JP length outliers for omissions; median EN/JP 2.06, no gutted rows), voice
+  checks (Florinda's 18 "Florin" self-references kept; quirk endings ですぅ/だぜ/のじゃ by speaker) and a manual
+  read of ~90 rows sampled across every route, EVX, BTL_EVT, men*, Raph_end, BMsgQ and FryMsg. Fixed (Important):
+  スゥオレ written "Suole" in 8 alkaya rows (EXE/MssReq say "Suore"; glossary now enforces it), op.8009C928 gendered
+  the angel as "it". No Critical/Important left; 6 Minors in `docs/polish.md`. `docs/synopsis.md` written (premise,
+  routes, chapter list for the phase 9 story pass). Build + check.py + smoke green (build sha1 703fb02c...).
 - **Phase 5 result:** width gate complete in `docs/re/text.md` §Width gate: dialogue / MSG / exam / battle boxes 44
   letters per line (3 lines; battle 2; last line 43 for the page gem), name tags 12 letters, .end narration 42,
   menu buttons ~12-14, help bar ~40. Glyph torture line renders all 84 glyphs (`work/qa/p5/torture/zoom.png`).
@@ -116,10 +124,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `これは N 個持っているわね。`): English fragments were written to read in JP order (", accompany " + "?",
   "Of these, you have " + "."), check them in game; rfd2.8009D958 (Titania on a fairy, 彼女) written neutral;
   SLPS パレーゼ treated as Valese (バレーゼ). Glossary gained the EXE town table, heaven palaces, Holy Nation.
-- **Next (phase 6):** the reviewer pass (done-when: no Critical/Important issues). No codex until 2026-11-26: do it as
-  fresh read-only passes over `trans/en/` vs `trans/batches/` per route (names vs glossary, the angel's gender,
-  voices, honorifics), fix in `trans/parts/`, re-join, `check`, `merge`, build. Then write `docs/synopsis.md` and
-  move to phase 7 (relocate the 451 held EXE/overlay rows, rebalance orphan pages, name-tag table).
+- **Next (phase 7):** done-when: build green with the width/overflow lint clean, control codes matched, `romdiff.py`
+  shows no writes outside allowed ranges. Work: relocate the 451 EXE/overlay rows `merge` holds back (English longer
+  than the JP; sites known via `codetext.strings()` refs), the name-tag table (heaven tag ラファエル still JP), the
+  runtime placeholder value tables (hero/fairy names, EvName titles, regions), rebalance one-word orphan pages from
+  the wrap, find the script buffer size before more scripts grow, check rfd2 sentence fragments in game.
   Budgets: BTL_EVT banks 64 KB cap, EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**
