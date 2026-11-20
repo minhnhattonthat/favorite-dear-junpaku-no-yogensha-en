@@ -4,19 +4,19 @@ men3_Cl03.0068	すまない……呼び出して。{wait}{clear}	Sorry... for ca
 men3_Cl03.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}	What is it? Is something on your mind?{wait}{clear}	
 men3_Cl03.00D2	クライヴ	Clive	speaker
-men3_Cl03.00DE	いや……これを……{n}ゾンビパウダーをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
+men3_Cl03.00DE	いや……これを……{n}ゾンビパウダーをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}	No... I thought I'd give you this... zombie{n}powder.{wait}{clear}Will you take it?{wait}{clear}	
 men3_Cl03.013C	ＮＵＬＬ	NULL	speaker
-men3_Cl03.014C	《ありがとうございます。》{n}		
-men3_Cl03.016E	《戒律があるので……。》{n}		
+men3_Cl03.014C	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Cl03.016E	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Cl03.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl03.019E	ありがとうございます。{wait}{clear}えっと、これはなにに使うものなのですか？{wait}{clear}		
+men3_Cl03.019E	ありがとうございます。{wait}{clear}えっと、これはなにに使うものなのですか？{wait}{clear}	Thank you very much.{wait}{clear}Um, what is this used for?{wait}{clear}	
 men3_Cl03.01E4	クライヴ	Clive	speaker
-men3_Cl03.01F0	これは……薬みたいなものだ。{n}体力が少し回復すると思うが……。{wait}{clear}		
+men3_Cl03.01F0	これは……薬みたいなものだ。{n}体力が少し回復すると思うが……。{wait}{clear}	This is... a kind of medicine. It should{n}restore a little stamina...{wait}{clear}	
 men3_Cl03.0232	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl03.0242	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
+men3_Cl03.0242	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}	I see. Then I'll take it with me.{wait}{clear}Thank you so much.{wait}{clear}	
 men3_Cl03.0298	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl03.02A8	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるのです……。{wait}{clear}		
+men3_Cl03.02A8	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるのです……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world...{wait}{clear}	
 men3_Cl03.02FE	クライヴ	Clive	speaker
-men3_Cl03.030A	そうか……。{n}なら、しかたがない。{wait}{clear}		
+men3_Cl03.030A	そうか……。{n}なら、しかたがない。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_Cl03.0330	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl03.0340	本当にすみません。{wait}{clear}		
+men3_Cl03.0340	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

@@ -13,7 +13,7 @@ roev05_01.0192	ＮＵＬＬ	NULL	speaker
 roev05_01.01A2	《なにかあったのですか？》{n}		
 roev05_01.01C4	《副教皇という方は……》{n}		
 roev05_01.01EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.01FA	なにかあったのですか？{wait}{clear}		
+roev05_01.01FA	なにかあったのですか？{wait}{clear}	Did something happen?{wait}{clear}	
 roev05_01.021C	ロクス	Rocus	speaker
 roev05_01.0226	べつに、たいしたことじゃない……。{wait}{clear}		
 roev05_01.0250	ロクス	Rocus	speaker

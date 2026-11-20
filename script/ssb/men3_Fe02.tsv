@@ -2,21 +2,21 @@ id	jp	en	notes
 men3_Fe02.005C	フェイン	Fein	speaker
 men3_Fe02.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sorry to call you out, ＄＄＄＄＄＄.{wait}{clear}	
 men3_Fe02.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe02.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
+men3_Fe02.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}	What is it? Did you need something?{wait}{clear}	
 men3_Fe02.00C2	フェイン	Fein	speaker
-men3_Fe02.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの麦わら帽子を渡そうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
+men3_Fe02.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの麦わら帽子を渡そうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}	No, I'm sorry it's nothing much, but I{n}thought I'd give you this straw hat.{wait}{clear}I hope it'll be of some use. Will you accept{n}it?{wait}{clear}	
 men3_Fe02.0162	ＮＵＬＬ	NULL	speaker
-men3_Fe02.0172	《ありがとうございます。》{n}		
-men3_Fe02.0194	《戒律があるので……。》{n}		
+men3_Fe02.0172	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Fe02.0194	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Fe02.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe02.01C4	ありがとうございます。{wait}{clear}えっと、これは防具として使えるのですか？{wait}{clear}		
+men3_Fe02.01C4	ありがとうございます。{wait}{clear}えっと、これは防具として使えるのですか？{wait}{clear}	Thank you very much.{wait}{clear}Um, can this be used as armor?{wait}{clear}	
 men3_Fe02.020A	フェイン	Fein	speaker
-men3_Fe02.0216	ああ、効果はほんの少しだがな……。{wait}{clear}		
+men3_Fe02.0216	ああ、効果はほんの少しだがな……。{wait}{clear}	Yes, though the effect is very slight...{wait}{clear}	
 men3_Fe02.023C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe02.024C	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}		
+men3_Fe02.024C	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}	Please don't trouble yourself so much over{n}me. But thank you so much.{wait}{clear}	
 men3_Fe02.029E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe02.02AE	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Fe02.02AE	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Fe02.0312	フェイン	Fein	speaker
-men3_Fe02.031E	そうか……。{n}それならばしかたがない。{wait}{clear}		
+men3_Fe02.031E	そうか……。{n}それならばしかたがない。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_Fe02.0348	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe02.0358	本当にすみません。{wait}{clear}		
+men3_Fe02.0358	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

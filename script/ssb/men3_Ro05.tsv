@@ -1,23 +1,23 @@
 id	jp	en	notes
 men3_Ro05.005C	ロクス	Rocus	speaker
-men3_Ro05.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
+men3_Ro05.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}	You finally came.{wait}{clear}I was just starting to think you weren't{n}coming.{wait}{clear}	
 men3_Ro05.00A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro05.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
+men3_Ro05.00B4	なにかあったのですか？　ロクス？{wait}{clear}	Did something happen, Rocus?{wait}{clear}	
 men3_Ro05.00D8	ロクス	Rocus	speaker
-men3_Ro05.00E2	いや、べつになにもないよ。{n}ただ、この金のメダイユを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
+men3_Ro05.00E2	いや、べつになにもないよ。{n}ただ、この金のメダイユを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}	Nah, nothing in particular. I just wanted to{n}give you this gold medallion.{wait}{clear}Will you take it?{wait}{clear}	
 men3_Ro05.0148	ＮＵＬＬ	NULL	speaker
-men3_Ro05.0158	《ありがとうございます。》{n}		
-men3_Ro05.017A	《戒律があるので……。》{n}		
+men3_Ro05.0158	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ro05.017A	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ro05.019A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro05.01AA	ありがとうございます。{n}これはお守りですね。{wait}{clear}		
+men3_Ro05.01AA	ありがとうございます。{n}これはお守りですね。{wait}{clear}	Thank you very much. This is a charm, isn't{n}it?{wait}{clear}	
 men3_Ro05.01E6	ロクス	Rocus	speaker
-men3_Ro05.01F0	ああ、そうだ。{n}大聖堂に巡礼に来た信徒たちに、{n}とても気に入られているものらしい。{wait}{clear}		
-men3_Ro05.0252	こんなものでも、少しはなにかの役に立つか？{wait}{clear}		
+men3_Ro05.01F0	ああ、そうだ。{n}大聖堂に巡礼に来た信徒たちに、{n}とても気に入られているものらしい。{wait}{clear}	Yeah, that's right. Apparently the faithful{n}who make pilgrimages to the cathedral love{n}them.{wait}{clear}	
+men3_Ro05.0252	こんなものでも、少しはなにかの役に立つか？{wait}{clear}	Will even something like this be of any use?{wait}{clear}	
 men3_Ro05.0280	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro05.0290	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ro05.0290	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}	Yes, of course. Thank you so much.{wait}{clear}	
 men3_Ro05.02CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro05.02DA	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ro05.02DA	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ro05.034A	ロクス	Rocus	speaker
-men3_Ro05.0354	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
+men3_Ro05.0354	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}	Precepts? Geez, being an angel sure is a{n}hassle.{wait}{clear}	
 men3_Ro05.0386	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro05.0396	本当にすみません……。{wait}{clear}		
+men3_Ro05.0396	本当にすみません……。{wait}{clear}	I'm truly sorry...{wait}{clear}	

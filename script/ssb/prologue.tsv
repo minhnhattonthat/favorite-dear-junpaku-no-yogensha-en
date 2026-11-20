@@ -1,81 +1,81 @@
 id	jp	en	notes
 prologue.006A	ラファエル	Raphael	speaker
-prologue.0084	よく来ました、＄＄＄＄＄＄。{wait}{clear}		
-prologue.00A8	今日はあなたに新しい任務を与えるため、{n}ここへ呼びました。{wait}{clear}		
-prologue.00EA	ある地上界の混乱の原因を{n}あなたに探ってきて欲しいのです。{wait}{clear}		
-prologue.012C	私たちはその背後に{n}とても邪な影を感じています。{wait}{clear}		
-prologue.0164	その正体は天界にとって、{n}巨大な厄災の前触れかもしれません。{wait}{clear}		
-prologue.01A8	天界の関与できる多くの世界では{n}似たような混乱の種を抱えているところが{n}数多く存在します。{wait}{clear}		
-prologue.020A	しかし、堕天使たちの行動のすべてを{n}我々が知ることはできません。{wait}{clear}		
-prologue.0252	そこであなたに直接、地上へ降りてもらい、{n}混乱の真の理由を探ってきて欲しいのです。{wait}{clear}		
-prologue.02AC	もちろん世界を混乱と破滅から守ることも{n}あなたの重要な任務です。{wait}{clear}		
-prologue.02F4	わかっているかと思いますが、{n}あなたは天使として、{n}地上に直接、介入してはなりません。{wait}{clear}		
-prologue.0352	必ず、人を通して、{n}彼ら自身に世界の混乱を正させなさい。{wait}{clear}		
-prologue.0392	地上へはあなたを助けてくれる{n}妖精界の協力者を連れて行くといいでしょう。{wait}{clear}		
-prologue.03E6	＄＄＄＄＄＄、よく来ました。{wait}{clear}		
-prologue.040A	今日はあなたに天使としての新しい任務を与えるため{n}ここへ呼びました。{wait}{clear}		
-prologue.0456	以前のあなたの働きについては{n}よくガブリエルから聞いています。{wait}{clear}		
-prologue.049C	あなたには、もう一度新しい地上界に下って、{n}その地上界をめぐる混乱から{n}堕天使の正体を突き止めて欲しいのです。{wait}{clear}		
-prologue.0512	もちろん、地上界の混乱、破滅を防ぐことも{n}重要な目的です。{wait}{clear}		
-prologue.0554	その点において、あなたは信頼がおけるようなので{n}心配はしていません。{wait}{clear}		
-prologue.05A0	ただ、今度の地上界の混乱には{n}とても邪悪な予兆を感じるのです。{wait}{clear}		
-prologue.05E6	その理由をまだ私たちはつかめていないのです。{wait}{clear}		
-prologue.061A	ほかにも多くの地上が様々な混乱を抱えています。{n}{wait}{clear}		
-prologue.0652	それらをすべて我々、{n}大天使が詳細に調べることは不可能なのです。{wait}{clear}		
-prologue.069A	そこで優秀なあなたに{n}私たちの代わりをつとめて欲しいのです。{wait}{clear}		
-prologue.06DE	地上で起こる混乱から{n}堕天使の存在を突き止めたのなら、{n}私にそれを報告してください。{wait}{clear}		
-prologue.073A	あと、ひとつ注意しなければならないことが{n}あります。{wait}{clear}		
-prologue.0776	今回あなたが降りる世界「アルカヤ」は{n}あなたが過去に降りた「インフォス」ほど{n}天界との結びつきが強くありません。{wait}{clear}		
-prologue.07EE	なので天使としての力もより限られてしまいます。{n}あなたはその点を心に留めて行動しなさい。{wait}{clear}		
-prologue.084E	今回も妖精界から協力を仰いでいます。{wait}{clear}		
+prologue.0084	よく来ました、＄＄＄＄＄＄。{wait}{clear}	Welcome, ＄＄＄＄＄＄.{wait}{clear}	
+prologue.00A8	今日はあなたに新しい任務を与えるため、{n}ここへ呼びました。{wait}{clear}	I have called you here today to give you a{n}new mission.{wait}{clear}	
+prologue.00EA	ある地上界の混乱の原因を{n}あなたに探ってきて欲しいのです。{wait}{clear}	I want you to investigate the cause of the{n}turmoil in a certain world below.{wait}{clear}	
+prologue.012C	私たちはその背後に{n}とても邪な影を感じています。{wait}{clear}	We sense a most wicked shadow behind it.{wait}{clear}	
+prologue.0164	その正体は天界にとって、{n}巨大な厄災の前触れかもしれません。{wait}{clear}	What it truly is may herald a great calamity{n}for the Heavens.{wait}{clear}	
+prologue.01A8	天界の関与できる多くの世界では{n}似たような混乱の種を抱えているところが{n}数多く存在します。{wait}{clear}	Among the many worlds the Heavens can reach,{n}a great many harbor similar seeds of{n}turmoil.{wait}{clear}	
+prologue.020A	しかし、堕天使たちの行動のすべてを{n}我々が知ることはできません。{wait}{clear}	However, we cannot know everything the{n}fallen angels do.{wait}{clear}	
+prologue.0252	そこであなたに直接、地上へ降りてもらい、{n}混乱の真の理由を探ってきて欲しいのです。{wait}{clear}	And so I want you to descend to the surface{n}yourself and find the true reason for the{n}turmoil.{wait}{clear}	
+prologue.02AC	もちろん世界を混乱と破滅から守ることも{n}あなたの重要な任務です。{wait}{clear}	Protecting the world from turmoil and ruin{n}is, of course, also an important part of{n}your mission.{wait}{clear}	
+prologue.02F4	わかっているかと思いますが、{n}あなたは天使として、{n}地上に直接、介入してはなりません。{wait}{clear}	As I am sure you know, as an angel, you must{n}not intervene directly in the world below.{wait}{clear}	
+prologue.0352	必ず、人を通して、{n}彼ら自身に世界の混乱を正させなさい。{wait}{clear}	Always work through people, and let them set{n}right the turmoil of their world themselves.{wait}{clear}	
+prologue.0392	地上へはあなたを助けてくれる{n}妖精界の協力者を連れて行くといいでしょう。{wait}{clear}	It would be wise to take a helper from the{n}fairy realm with you to the surface.{wait}{clear}	
+prologue.03E6	＄＄＄＄＄＄、よく来ました。{wait}{clear}	＄＄＄＄＄＄, welcome.{wait}{clear}	
+prologue.040A	今日はあなたに天使としての新しい任務を与えるため{n}ここへ呼びました。{wait}{clear}	I have called you here today to give you a{n}new mission as an angel.{wait}{clear}	
+prologue.0456	以前のあなたの働きについては{n}よくガブリエルから聞いています。{wait}{clear}	I have heard much from Gabriel about your{n}past work.{wait}{clear}	
+prologue.049C	あなたには、もう一度新しい地上界に下って、{n}その地上界をめぐる混乱から{n}堕天使の正体を突き止めて欲しいのです。{wait}{clear}	I want you to descend once more to a new{n}world below and, through the turmoil{n}surrounding it, discover who the fallen{wait}{clear}angel is.{wait}{clear}	
+prologue.0512	もちろん、地上界の混乱、破滅を防ぐことも{n}重要な目的です。{wait}{clear}	Of course, preventing turmoil and ruin in{n}that world is also an important goal.{wait}{clear}	
+prologue.0554	その点において、あなたは信頼がおけるようなので{n}心配はしていません。{wait}{clear}	In that regard you seem trustworthy, so I am{n}not worried.{wait}{clear}	
+prologue.05A0	ただ、今度の地上界の混乱には{n}とても邪悪な予兆を感じるのです。{wait}{clear}	However, I sense a most evil omen in the{n}turmoil of this world.{wait}{clear}	
+prologue.05E6	その理由をまだ私たちはつかめていないのです。{wait}{clear}	We have not yet grasped the reason for it.{wait}{clear}	
+prologue.061A	ほかにも多くの地上が様々な混乱を抱えています。{n}{wait}{clear}	Many other worlds below are beset by turmoil{n}of all kinds.{n}{wait}{clear}	
+prologue.0652	それらをすべて我々、{n}大天使が詳細に調べることは不可能なのです。{wait}{clear}	It is impossible for us archangels to{n}examine every one of them in detail.{wait}{clear}	
+prologue.069A	そこで優秀なあなたに{n}私たちの代わりをつとめて欲しいのです。{wait}{clear}	And so I want you, with your excellence, to{n}act in our stead.{wait}{clear}	
+prologue.06DE	地上で起こる混乱から{n}堕天使の存在を突き止めたのなら、{n}私にそれを報告してください。{wait}{clear}	When you have traced the fallen angel{n}through the turmoil on the surface, report{n}it to me.{wait}{clear}	
+prologue.073A	あと、ひとつ注意しなければならないことが{n}あります。{wait}{clear}	There is one more thing you must be careful{n}of.{wait}{clear}	
+prologue.0776	今回あなたが降りる世界「アルカヤ」は{n}あなたが過去に降りた「インフォス」ほど{n}天界との結びつきが強くありません。{wait}{clear}	The world you will descend to this time,{n}"Arcaya," is not as strongly bound to the{n}Heavens as "Infos," where you descended{wait}{clear}before.{wait}{clear}	
+prologue.07EE	なので天使としての力もより限られてしまいます。{n}あなたはその点を心に留めて行動しなさい。{wait}{clear}	So your powers as an angel will be more{n}limited. Keep that in mind as you act.{wait}{clear}	
+prologue.084E	今回も妖精界から協力を仰いでいます。{wait}{clear}	Once again, we have asked the fairy realm{n}for help.{wait}{clear}	
 prologue.0876	ＮＵＬＬ	NULL	speaker
-prologue.08CA	変数に間違った値が入っています！！！		
+prologue.08CA	変数に間違った値が入っています！！！	A variable holds an invalid value!!!	
 prologue.0904	ローザ	Rosa	speaker
-prologue.091A	はじめまして、天使様、ローザと申します。{wait}{clear}		
-prologue.094A	天使様のお役に立てるよう、{n}一生懸命がんばりますので、{n}よろしくお願いいたします。{wait}{clear}		
-prologue.09A8	お久しぶりです、天使様。{n}また一緒にお仕事ができるなんて光栄です。{wait}{clear}		
-prologue.09F2	今度もがんばりますので、{n}よろしくお願いいたします。{wait}{clear}		
+prologue.091A	はじめまして、天使様、ローザと申します。{wait}{clear}	How do you do, Angel. My name is Rosa.{wait}{clear}	
+prologue.094A	天使様のお役に立てるよう、{n}一生懸命がんばりますので、{n}よろしくお願いいたします。{wait}{clear}	I will do my very best to be of help to you,{n}Angel. I look forward to working with you.{wait}{clear}	
+prologue.09A8	お久しぶりです、天使様。{n}また一緒にお仕事ができるなんて光栄です。{wait}{clear}	It has been a long time, Angel. It is an{n}honor to work with you once again.{wait}{clear}	
+prologue.09F2	今度もがんばりますので、{n}よろしくお願いいたします。{wait}{clear}	I will do my best this time as well. I look{n}forward to working with you.{wait}{clear}	
 prologue.0A2A	ＮＵＬＬ	NULL	speaker
 prologue.0A54	フロリンダ	Florinda	speaker
-prologue.0A6E	天使様ぁ、はじめまして。フロリンダですぅ。{wait}{clear}		
-prologue.0AA0	フロリン、一生懸命がんばりますので、{n}よろしくお願いします！{wait}{clear}		
-prologue.0AE8	わぁい！　天使様、会いたかったですぅ。{wait}{clear}		
-prologue.0B16	また一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}		
-prologue.0B54	フロリン、天使様のために、{n}いっぱい、いっぱい、がんばります！{wait}{clear}		
+prologue.0A6E	天使様ぁ、はじめまして。フロリンダですぅ。{wait}{clear}	Angeeel, nice to meet you! I'm Florinda!{wait}{clear}	
+prologue.0AA0	フロリン、一生懸命がんばりますので、{n}よろしくお願いします！{wait}{clear}	Florin's gonna try super hard, so please{n}take care of me!{wait}{clear}	
+prologue.0AE8	わぁい！　天使様、会いたかったですぅ。{wait}{clear}	Yaaay! Angel, I missed you sooo much!{wait}{clear}	
+prologue.0B16	また一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}	Florin's super happy we get to work together{n}again!{wait}{clear}	
+prologue.0B54	フロリン、天使様のために、{n}いっぱい、いっぱい、がんばります！{wait}{clear}	Florin's gonna try really, really, really{n}hard for you, Angel!{wait}{clear}	
 prologue.0B96	ＮＵＬＬ	NULL	speaker
 prologue.0BC0	シェリー	Shelly	speaker
-prologue.0BD8	はじめまして、天使様。シェリーです。{wait}{clear}		
-prologue.0C04	天使様と勇者様のサポートとして{n}がんばりますので、よろしくお願いします。{wait}{clear}		
-prologue.0C58	天使様！　お久しぶりです！　お元気でした？{wait}{clear}		
-prologue.0C8A	また一緒にお仕事できるなんて、{n}すっごくうれしいです。{wait}{clear}		
-prologue.0CC8	よろしくお願いしますね！{wait}{clear}		
+prologue.0BD8	はじめまして、天使様。シェリーです。{wait}{clear}	Nice to meet you, Angel. I'm Shelly.{wait}{clear}	
+prologue.0C04	天使様と勇者様のサポートとして{n}がんばりますので、よろしくお願いします。{wait}{clear}	I'll do my best to support you and the{n}heroes, so I'm looking forward to working{n}with you.{wait}{clear}	
+prologue.0C58	天使様！　お久しぶりです！　お元気でした？{wait}{clear}	Angel! It's been so long! Have you been{n}well?{wait}{clear}	
+prologue.0C8A	また一緒にお仕事できるなんて、{n}すっごくうれしいです。{wait}{clear}	I'm so, so happy we get to work together{n}again.{wait}{clear}	
+prologue.0CC8	よろしくお願いしますね！{wait}{clear}	Let's do our best!{wait}{clear}	
 prologue.0CE4	ＮＵＬＬ	NULL	speaker
 prologue.0D0E	リリィ	Lily	speaker
-prologue.0D24	天使様、はじめまして。リリィと申します。{wait}{clear}		
-prologue.0D54	一生懸命、天使様のサポートを{n}させていただきたいと思いますので、{n}よろしくお願いいたします。{wait}{clear}		
-prologue.0DBC	天使様、お久しぶりです。{wait}{clear}		
-prologue.0DDC	また、一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}		
-prologue.0E1C	天使様のために、一生懸命がんばりますね。{wait}{clear}		
+prologue.0D24	天使様、はじめまして。リリィと申します。{wait}{clear}	How do you do, Angel. My name is Lily.{wait}{clear}	
+prologue.0D54	一生懸命、天使様のサポートを{n}させていただきたいと思いますので、{n}よろしくお願いいたします。{wait}{clear}	I'll do my very best to support you, Angel,{n}so I look forward to working with you.{wait}{clear}	
+prologue.0DBC	天使様、お久しぶりです。{wait}{clear}	It's been a long time, Angel.{wait}{clear}	
+prologue.0DDC	また、一緒にお仕事できるなんて、{n}とってもうれしいです。{wait}{clear}	I'm so happy we get to work together again.{wait}{clear}	
+prologue.0E1C	天使様のために、一生懸命がんばりますね。{wait}{clear}	I'll do my very best for you, Angel.{wait}{clear}	
 prologue.0E48	ＮＵＬＬ	NULL	speaker
 prologue.0E72	リンクス	Lynx	speaker
-prologue.0E82	はじめまして！　天使様。{n}ボク、リンクスです。{wait}{clear}		
-prologue.0EB8	絶対に天使様のお役に立てるよう、がんばります！{n}よろしくお願いします！{wait}{clear}		
+prologue.0E82	はじめまして！　天使様。{n}ボク、リンクスです。{wait}{clear}	Nice to meet you, Angel! I'm Lynx.{wait}{clear}	
+prologue.0EB8	絶対に天使様のお役に立てるよう、がんばります！{n}よろしくお願いします！{wait}{clear}	I'll work hard so I can definitely be a help{n}to you, Angel! Let's do this!{wait}{clear}	
 prologue.0F02	ＮＵＬＬ	NULL	speaker
 prologue.0F2C	アクイラ	Aquila	speaker
-prologue.0F3C	あの、天使様、はじめまして。{n}私、アクイラといいます。{wait}{clear}		
-prologue.0F7A	天使様と勇者様のためにがんばりますので、{n}よろしくお願いします。{wait}{clear}		
+prologue.0F3C	あの、天使様、はじめまして。{n}私、アクイラといいます。{wait}{clear}	Um, Angel, nice to meet you. My name is{n}Aquila.{wait}{clear}	
+prologue.0F7A	天使様と勇者様のためにがんばりますので、{n}よろしくお願いします。{wait}{clear}	I'll do my best for you and the heroes, so I{n}look forward to working with you.{wait}{clear}	
 prologue.0FBE	ＮＵＬＬ	NULL	speaker
 prologue.0FE8	シータス	Cetus	speaker
-prologue.0FF8	天使様、はじめまして。シータスです。{wait}{clear}		
-prologue.1024	天使様のお手伝いができるなんて光栄です。{n}はりきって、がんばらせてもらいます。{wait}{clear}		
+prologue.0FF8	天使様、はじめまして。シータスです。{wait}{clear}	Nice to meet you, Angel. I'm Cetus.{wait}{clear}	
+prologue.1024	天使様のお手伝いができるなんて光栄です。{n}はりきって、がんばらせてもらいます。{wait}{clear}	It's an honor to get to help you, Angel. I'm{n}all fired up to do my best.{wait}{clear}	
 prologue.1076	ＮＵＬＬ	NULL	speaker
 prologue.10A0	レーパス	Lepus	speaker
-prologue.10B0	はじめまして、天使様。レーパスと申します。{wait}{clear}		
-prologue.10E2	天使様と勇者様のサポートができるなんて、{n}大変、光栄に思います。{wait}{clear}		
-prologue.112A	しっかりつとめさせていただきたいと{n}思いますので、よろしくお願いいたします。{wait}{clear}		
+prologue.10B0	はじめまして、天使様。レーパスと申します。{wait}{clear}	How do you do, Angel. My name is Lepus.{wait}{clear}	
+prologue.10E2	天使様と勇者様のサポートができるなんて、{n}大変、光栄に思います。{wait}{clear}	It is a great honor to be able to support{n}you and the heroes.{wait}{clear}	
+prologue.112A	しっかりつとめさせていただきたいと{n}思いますので、よろしくお願いいたします。{wait}{clear}	I intend to carry out my duties diligently,{n}so I look forward to working with you.{wait}{clear}	
 prologue.117A	ＮＵＬＬ	NULL	speaker
 prologue.11A4	ラファエル	Raphael	speaker
-prologue.11C6	彼女はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		
-prologue.1212	彼はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		
-prologue.1258	さあ、お行きなさい、＄＄＄＄＄＄よ。{wait}{clear}		
-prologue.1284	その翼で地上の暗闇に光を届けなさい。{wait}{clear}		
+prologue.11C6	彼女はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}	She will give you all sorts of advice about{n}your mission.{wait}{clear}	
+prologue.1212	彼はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}	He will give you all sorts of advice about{n}your mission.{wait}{clear}	
+prologue.1258	さあ、お行きなさい、＄＄＄＄＄＄よ。{wait}{clear}	Now go forth, ＄＄＄＄＄＄.{wait}{clear}	
+prologue.1284	その翼で地上の暗闇に光を届けなさい。{wait}{clear}	Carry light on your wings to the darkness of{n}the world below.{wait}{clear}	

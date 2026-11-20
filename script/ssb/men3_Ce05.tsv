@@ -2,23 +2,23 @@ id	jp	en	notes
 men3_Ce05.0052	セシア	Cecia	speaker
 men3_Ce05.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry for calling you so suddenly.{wait}{clear}	
 men3_Ce05.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce05.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}		
+men3_Ce05.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}	What is it? Is there something you wanted to{n}talk about, Cecia?{wait}{clear}	
 men3_Ce05.00C4	セシア	Cecia	speaker
-men3_Ce05.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}森のしずくなんですけど、{n}受け取っていただけますか？{wait}{clear}		
+men3_Ce05.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}森のしずくなんですけど、{n}受け取っていただけますか？{wait}{clear}	No, it's not a talk. There's something I{n}wanted to give you, Angel.{wait}{clear}It's Forest Dew. Will you accept it?{wait}{clear}	
 men3_Ce05.014C	ＮＵＬＬ	NULL	speaker
-men3_Ce05.015C	《ありがとうございます。》{n}		
-men3_Ce05.017E	《戒律があるので……。》{n}		
+men3_Ce05.015C	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ce05.017E	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ce05.019E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce05.01AE	ありがとうございます。{n}えっと、これはなんですか？{wait}{clear}		
+men3_Ce05.01AE	ありがとうございます。{n}えっと、これはなんですか？{wait}{clear}	Thank you very much. Um, what is this?{wait}{clear}	
 men3_Ce05.01F0	セシア	Cecia	speaker
-men3_Ce05.01FA	あの、レイフォリアの森にわいている{n}清水を集めたものです。{n}とてもおいしい水ですよ。{wait}{clear}		
+men3_Ce05.01FA	あの、レイフォリアの森にわいている{n}清水を集めたものです。{n}とてもおいしい水ですよ。{wait}{clear}	Um, it's spring water gathered from the{n}springs of Reyforia Forest. It tastes{n}wonderful.{wait}{clear}	
 men3_Ce05.025E	セシア	Cecia	speaker
-men3_Ce05.0268	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}		
+men3_Ce05.0268	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}	But this is all I can give you, Angel...{wait}{clear}	
 men3_Ce05.02A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce05.02B8	そんな、とんでもないです！{n}その気持ちが、とてもうれしいですよ。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ce05.02B8	そんな、とんでもないです！{n}その気持ちが、とてもうれしいですよ。{n}本当にありがとうございます。{wait}{clear}	Oh no, not at all! The thought makes me very{n}happy. Thank you so much.{wait}{clear}	
 men3_Ce05.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce05.032E	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ce05.032E	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ce05.039E	セシア	Cecia	speaker
-men3_Ce05.03A8	そうなんですか？{n}私、知らなくて……。{wait}{clear}		
+men3_Ce05.03A8	そうなんですか？{n}私、知らなくて……。{wait}{clear}	Is that so? I didn't know...{wait}{clear}	
 men3_Ce05.03D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce05.03E2	いえ、私の方こそ、本当にすみません……。{wait}{clear}		
+men3_Ce05.03E2	いえ、私の方こそ、本当にすみません……。{wait}{clear}	No, I'm the one who's truly sorry...{wait}{clear}	

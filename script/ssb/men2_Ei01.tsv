@@ -4,28 +4,28 @@ men2_Ei01.0060	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you
 men2_Ei01.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0088	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}	No, please don't worry about that. By the{n}way, has something happened?{wait}{clear}	
 men2_Ei01.00DE	アイリーン	Irene	speaker
-men2_Ei01.00EC	ううん、違う……そんなことじゃないの。{n}ただ、ちょっと話したいと思っただけ……。{wait}{clear}		
+men2_Ei01.00EC	ううん、違う……そんなことじゃないの。{n}ただ、ちょっと話したいと思っただけ……。{wait}{clear}	No, that's not it... it's nothing like that.{n}I just felt like talking a little...{wait}{clear}	
 men2_Ei01.0140	ＮＵＬＬ	NULL	speaker
-men2_Ei01.0150	《アイリーンも……。》{n}		
+men2_Ei01.0150	《アイリーンも……。》{n}	You too, Irene...{n}	
 men2_Ei01.016E	《そうだったのですね。》{n}	So that was it.{n}	
 men2_Ei01.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.019E	アイリーンも、{n}私に会いたいと思っていてくれたんですね。{wait}{clear}		
+men2_Ei01.019E	アイリーンも、{n}私に会いたいと思っていてくれたんですね。{wait}{clear}	So you wanted to see me too, Irene.{wait}{clear}	
 men2_Ei01.01DA	アイリーン	Irene	speaker
-men2_Ei01.01E8	ち、違うよ、そんなんじゃ……！{n}だって、こんなときに、{n}そんなのんきなこと言ってられないでしょ？{wait}{clear}		
+men2_Ei01.01E8	ち、違うよ、そんなんじゃ……！{n}だって、こんなときに、{n}そんなのんきなこと言ってられないでしょ？{wait}{clear}	N-no, it's not like that...! I mean, we{n}can't go around saying carefree stuff like{n}that at a time like this, right?{wait}{clear}	
 men2_Ei01.024C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.025C	はあ……そうですね……。{wait}{clear}		
+men2_Ei01.025C	はあ……そうですね……。{wait}{clear}	Oh... I suppose you're right...{wait}{clear}	
 men2_Ei01.0278	アイリーン	Irene	speaker
-men2_Ei01.0286	もう、＄＄＄＄＄＄ったら！{wait}{clear}		
-men2_Ei01.02B0	でも、せっかく来てくれたんだから、{n}お話、しようか……。{wait}{clear}		
+men2_Ei01.0286	もう、＄＄＄＄＄＄ったら！{wait}{clear}	Geez, ＄＄＄＄＄＄!{wait}{clear}	
+men2_Ei01.02B0	でも、せっかく来てくれたんだから、{n}お話、しようか……。{wait}{clear}	But since you came all this way, let's talk{n}for a bit...{wait}{clear}	
 men2_Ei01.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.02FC	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 men2_Ei01.0316	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.0326	そうだったのですね。{n}なにかあったのかと思って、{n}ひとりで勝手に慌ててしまったみたいです。{wait}{clear}		
+men2_Ei01.0326	そうだったのですね。{n}なにかあったのかと思って、{n}ひとりで勝手に慌ててしまったみたいです。{wait}{clear}	So that's what it was. I thought something{n}had happened, and it seems I panicked all on{n}my own.{wait}{clear}	
 men2_Ei01.0390	アイリーン	Irene	speaker
-men2_Ei01.039E	そんなに……私のこと心配だったの？{wait}{clear}		
+men2_Ei01.039E	そんなに……私のこと心配だったの？{wait}{clear}	You were... that worried about me?{wait}{clear}	
 men2_Ei01.03C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.03D4	え？　え？{n}あの……それは……もちろん……。{wait}{clear}		
+men2_Ei01.03D4	え？　え？{n}あの……それは……もちろん……。{wait}{clear}	Huh? Huh? Um... well... of course...{wait}{clear}	
 men2_Ei01.0410	アイリーン	Irene	speaker
-men2_Ei01.041E	そっか……。{n}ありがとね、＄＄＄＄＄＄。{wait}{clear}じゃあ、せっかく来てくれたんだから、{n}お話しようか。{wait}{clear}		
+men2_Ei01.041E	そっか……。{n}ありがとね、＄＄＄＄＄＄。{wait}{clear}じゃあ、せっかく来てくれたんだから、{n}お話しようか。{wait}{clear}	I see... Thanks, ＄＄＄＄＄＄.{wait}{clear}Well, since you came all this way, let's{n}talk.{wait}{clear}	
 men2_Ei01.0482	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0492	はい。{wait}{clear}	Yes.{wait}{clear}	

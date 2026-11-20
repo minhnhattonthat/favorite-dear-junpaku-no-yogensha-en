@@ -2,31 +2,31 @@ id	jp	en	notes
 men2_La02.0052	レイラ	Leyla	speaker
 men2_La02.005C	呼び出して悪いわね。{wait}{clear}	Sorry to call you out.{wait}{clear}	
 men2_La02.0074	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.0084	なにかお話しでもあるのですか？　レイラ？{wait}{clear}		
+men2_La02.0084	なにかお話しでもあるのですか？　レイラ？{wait}{clear}	Is there something you wanted to talk about,{n}Leyla?{wait}{clear}	
 men2_La02.00B0	レイラ	Leyla	speaker
-men2_La02.00BA	ええ、用がなかったら呼んだりはしないわ。{n}＄＄＄＄＄＄はいつも忙しそうだもの。{wait}{clear}少しつきあってもらってもいいかしら？{wait}{clear}		
+men2_La02.00BA	ええ、用がなかったら呼んだりはしないわ。{n}＄＄＄＄＄＄はいつも忙しそうだもの。{wait}{clear}少しつきあってもらってもいいかしら？{wait}{clear}	Yes. I wouldn't call you without a reason.{n}You always seem so busy, ＄＄＄＄＄＄.{wait}{clear}Would you keep me company for a while?{wait}{clear}	
 men2_La02.0134	ＮＵＬＬ	NULL	speaker
 men2_La02.0144	《なにか困ったことでも？》{n}	Is something troubling you?{n}	
-men2_La02.0166	《私も……。》{n}		
+men2_La02.0166	《私も……。》{n}	I wanted to as well...{n}	
 men2_La02.017C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.018C	なにか困ったことでもあるのですか？{wait}{clear}		
+men2_La02.018C	なにか困ったことでもあるのですか？{wait}{clear}	Is something troubling you?{wait}{clear}	
 men2_La02.01B2	レイラ	Leyla	speaker
-men2_La02.01BC	そんなんじゃないわ。{n}本当に、＄＄＄＄＄＄は心配性ね。{wait}{clear}とても景色のいい場所をみつけたから、{n}一緒に行こうと思って。{wait}{clear}		
-men2_La02.0242	今は大変なときだってわかっているけど、{n}あの景色は＄＄＄＄＄＄にも見て欲しくて……。{wait}{clear}		
+men2_La02.01BC	そんなんじゃないわ。{n}本当に、＄＄＄＄＄＄は心配性ね。{wait}{clear}とても景色のいい場所をみつけたから、{n}一緒に行こうと思って。{wait}{clear}	It's nothing like that. Honestly, you worry{n}too much, ＄＄＄＄＄＄.{wait}{clear}I found a place with a beautiful view, so I{n}thought we could go together.{wait}{clear}	
+men2_La02.0242	今は大変なときだってわかっているけど、{n}あの景色は＄＄＄＄＄＄にも見て欲しくて……。{wait}{clear}	I know things are hard right now, but I{n}wanted you to see that view too,{n}＄＄＄＄＄＄...{wait}{clear}	
 men2_La02.029A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.02AA	そうですか……。{n}私をそこへ連れて行ってもらえますか？{n}こんなときだからこそ、見に行きましょう。{wait}{clear}		
+men2_La02.02AA	そうですか……。{n}私をそこへ連れて行ってもらえますか？{n}こんなときだからこそ、見に行きましょう。{wait}{clear}	I see... Will you take me there? It's{n}precisely because of times like these that{n}we should go see it.{wait}{clear}	
 men2_La02.030E	レイラ	Leyla	speaker
-men2_La02.0318	そう……そうね……。{n}その景色を守らなくちゃいけないのだから……。{wait}{clear}		
+men2_La02.0318	そう……そうね……。{n}その景色を守らなくちゃいけないのだから……。{wait}{clear}	Yes... you're right... After all, that view{n}is something we have to protect...{wait}{clear}	
 men2_La02.035E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.036E	さあ、レイラ、どこですか？{wait}{clear}		
+men2_La02.036E	さあ、レイラ、どこですか？{wait}{clear}	Come, Leyla, where is it?{wait}{clear}	
 men2_La02.0398	レイラ	Leyla	speaker
-men2_La02.03A2	え？　ええ、こっちよ。{wait}{clear}		
+men2_La02.03A2	え？　ええ、こっちよ。{wait}{clear}	Huh? Oh, yes, this way.{wait}{clear}	
 men2_La02.03C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.03D0	私も……{n}レイラと話したいと思ってましたから……。{wait}{clear}		
+men2_La02.03D0	私も……{n}レイラと話したいと思ってましたから……。{wait}{clear}	I... wanted to talk with you too, Leyla...{wait}{clear}	
 men2_La02.0412	レイラ	Leyla	speaker
-men2_La02.041C	そうだったの……うれしいわ……。{wait}{clear}		
-men2_La02.044C	ねえ、＄＄＄＄＄＄、{n}あなたに見せたい景色があるの。{wait}{clear}こんなときだからこそ、{n}あなたと一緒に見たくて……。{wait}{clear}		
+men2_La02.041C	そうだったの……うれしいわ……。{wait}{clear}	You did... I'm glad...{wait}{clear}	
+men2_La02.044C	ねえ、＄＄＄＄＄＄、{n}あなたに見せたい景色があるの。{wait}{clear}こんなときだからこそ、{n}あなたと一緒に見たくて……。{wait}{clear}	Say, ＄＄＄＄＄＄, there's a view I want to{n}show you.{wait}{clear}It's because of times like these that I want{n}to see it with you...{wait}{clear}	
 men2_La02.04BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La02.04CC	もちろんです。{wait}{clear}レイラがそう言うのですから、{n}私もその景色が見てみたいです。{wait}{clear}		
+men2_La02.04CC	もちろんです。{wait}{clear}レイラがそう言うのですから、{n}私もその景色が見てみたいです。{wait}{clear}	Of course.{wait}{clear}If you say so, Leyla, then I'd like to see{n}that view too.{wait}{clear}	
 men2_La02.051E	レイラ	Leyla	speaker
-men2_La02.0528	本当？{n}じゃあ、行きましょう。{wait}{clear}		
+men2_La02.0528	本当？{n}じゃあ、行きましょう。{wait}{clear}	Really? Then let's go.{wait}{clear}	

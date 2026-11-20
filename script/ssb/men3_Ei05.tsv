@@ -2,25 +2,25 @@ id	jp	en	notes
 men3_Ei05.005C	アイリーン	Irene	speaker
 men3_Ei05.006A	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men3_Ei05.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
+men3_Ei05.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is something troubling{n}you?{wait}{clear}	
 men3_Ei05.00CC	アイリーン	Irene	speaker
-men3_Ei05.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この魔導書をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
+men3_Ei05.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この魔導書をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}	Nope, nothing like that, so don't worry. I{n}wanted to give you this grimoire,{n}＄＄＄＄＄＄.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Ei05.016C	ＮＵＬＬ	NULL	speaker
-men3_Ei05.017C	《ありがとうございます。》{n}		
-men3_Ei05.019E	《戒律があるので……。》{n}		
+men3_Ei05.017C	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ei05.019E	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ei05.01BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.01CE	ありがとうございます。{n}この魔導書には、なにかいわれがあるのですか？{wait}{clear}		
+men3_Ei05.01CE	ありがとうございます。{n}この魔導書には、なにかいわれがあるのですか？{wait}{clear}	Thank you very much. Is there some story{n}behind this grimoire?{wait}{clear}	
 men3_Ei05.0216	アイリーン	Irene	speaker
-men3_Ei05.0224	それ、おじいちゃんが書いた本だよ。{wait}{clear}		
+men3_Ei05.0224	それ、おじいちゃんが書いた本だよ。{wait}{clear}	That's a book Grandpa wrote.{wait}{clear}	
 men3_Ei05.024A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.025A	そんな大切なものをいただいてもいいのですか？{wait}{clear}		
+men3_Ei05.025A	そんな大切なものをいただいてもいいのですか？{wait}{clear}	Are you sure I can have something so{n}precious?{wait}{clear}	
 men3_Ei05.0296	アイリーン	Irene	speaker
-men3_Ei05.02A4	うん。{wait}{clear}その本に書いてあることは、ぜんぶ覚えてるし、{n}だったら、誰かの役に立ててもらった方が、{n}ぜったいにいいと思って……。{wait}{clear}		
+men3_Ei05.02A4	うん。{wait}{clear}その本に書いてあることは、ぜんぶ覚えてるし、{n}だったら、誰かの役に立ててもらった方が、{n}ぜったいにいいと思って……。{wait}{clear}	Yeah.{wait}{clear}I've memorized everything in that book{n}anyway, so I figured it'd be way better if{n}it helped someone else...{wait}{clear}	
 men3_Ei05.0326	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.0336	そんな大切なものを……。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ei05.0336	そんな大切なものを……。{n}本当にありがとうございます。{wait}{clear}	Something so precious... Thank you so much.{wait}{clear}	
 men3_Ei05.0374	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.0384	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ei05.0384	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ei05.03F4	アイリーン	Irene	speaker
-men3_Ei05.0402	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}		
+men3_Ei05.0402	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}	Really? Aww, well, I guess it can't be{n}helped. I'm a little disappointed, though...{wait}{clear}	
 men3_Ei05.0456	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei05.0466	本当にすみません。{wait}{clear}		
+men3_Ei05.0466	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

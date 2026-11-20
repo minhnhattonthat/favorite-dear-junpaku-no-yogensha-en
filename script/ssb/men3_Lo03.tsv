@@ -4,27 +4,27 @@ men3_Lo03.006C	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄�
 men3_Lo03.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo03.0094	どうしたのですか、ルディ？{wait}{clear}	What is it, Rudi?{wait}{clear}	
 men3_Lo03.00B2	ルディエール	Rudiere	speaker
-men3_Lo03.00C2	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
+men3_Lo03.00C2	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}	Ah, you finally came. I was just starting to{n}think you weren't coming.{wait}{clear}	
 men3_Lo03.0112	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo03.0122	なにかあったのですか？{wait}{clear}		
+men3_Lo03.0122	なにかあったのですか？{wait}{clear}	Did something happen?{wait}{clear}	
 men3_Lo03.013C	ルディエール	Rudiere	speaker
-men3_Lo03.014C	いや、そうじゃないよ。{n}この象牙のナイフを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
+men3_Lo03.014C	いや、そうじゃないよ。{n}この象牙のナイフを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}	Nah, nothing like that. I wanted to give you{n}this ivory knife.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Lo03.01CA	ＮＵＬＬ	NULL	speaker
-men3_Lo03.01DA	《ありがとうございます。》{n}		
-men3_Lo03.01FC	《戒律があるので……。》{n}		
+men3_Lo03.01DA	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Lo03.01FC	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Lo03.021C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo03.022C	ありがとうございます。{wait}{clear}	Thank you.{wait}{clear}	
 men3_Lo03.0246	ルディエール	Rudiere	speaker
-men3_Lo03.0256	これも、レグランスで作ってるものなんだ。{n}象牙って貴重だからさ、{n}かなり貿易で役に立ってるんだ。{wait}{clear}どうだい？{n}＄＄＄＄＄＄も気に入ってくれればいいけど。{wait}{clear}		
+men3_Lo03.0256	これも、レグランスで作ってるものなんだ。{n}象牙って貴重だからさ、{n}かなり貿易で役に立ってるんだ。{wait}{clear}どうだい？{n}＄＄＄＄＄＄も気に入ってくれればいいけど。{wait}{clear}	This is made in Legrance too. Ivory's{n}precious, so it's a big help in trade.{wait}{clear}What do you think? I hope you like it too,{n}＄＄＄＄＄＄.{wait}{clear}	
 men3_Lo03.02F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo03.0304	そんな貴重なものなのですね。{wait}{clear}		
+men3_Lo03.0304	そんな貴重なものなのですね。{wait}{clear}	So it's something that precious.{wait}{clear}	
 men3_Lo03.0330	ルディエール	Rudiere	speaker
-men3_Lo03.0340	いや、あんまり気にしないでくれよ。{n}なにかに役立ててくれれば、おれもうれしいからさ。{wait}{clear}		
+men3_Lo03.0340	いや、あんまり気にしないでくれよ。{n}なにかに役立ててくれれば、おれもうれしいからさ。{wait}{clear}	Nah, don't worry about it. If it's of some{n}use to you, that makes me happy too.{wait}{clear}	
 men3_Lo03.0398	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo03.03A8	本当にありがとうございます、ルディ。{wait}{clear}		
+men3_Lo03.03A8	本当にありがとうございます、ルディ。{wait}{clear}	Thank you so much, Rudi.{wait}{clear}	
 men3_Lo03.03D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo03.03E4	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Lo03.03E4	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Lo03.0454	ルディエール	Rudiere	speaker
-men3_Lo03.0464	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}		
+men3_Lo03.0464	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}	I see... Then I guess it can't be helped...{n}I wanted to be of some use, so I'm a little{n}disappointed, though.{wait}{clear}	
 men3_Lo03.04CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo03.04DC	本当にすみません。{wait}{clear}		
+men3_Lo03.04DC	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

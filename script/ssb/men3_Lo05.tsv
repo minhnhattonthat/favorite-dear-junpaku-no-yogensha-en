@@ -2,29 +2,29 @@ id	jp	en	notes
 men3_Lo05.005C	ルディエール	Rudiere	speaker
 men3_Lo05.006C	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men3_Lo05.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0094	どうしたのですか、ルディ？{n}{wait}{clear}		
+men3_Lo05.0094	どうしたのですか、ルディ？{n}{wait}{clear}	What is it, Rudi?{n}{wait}{clear}	
 men3_Lo05.00B4	ルディエール	Rudiere	speaker
-men3_Lo05.00C4	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
+men3_Lo05.00C4	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}	Ah, you finally came. I was just starting to{n}think you weren't coming.{wait}{clear}	
 men3_Lo05.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0124	なにかあったのですか？{wait}{clear}		
+men3_Lo05.0124	なにかあったのですか？{wait}{clear}	Did something happen?{wait}{clear}	
 men3_Lo05.013E	ルディエール	Rudiere	speaker
-men3_Lo05.014E	いや、そうじゃないよ。{n}この魔除けのクリスを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
+men3_Lo05.014E	いや、そうじゃないよ。{n}この魔除けのクリスを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}	Nah, nothing like that. I wanted to give you{n}this warding kris.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Lo05.01CE	ＮＵＬＬ	NULL	speaker
-men3_Lo05.01DE	《ありがとうございます。》{n}		
-men3_Lo05.0200	《戒律があるので……。》{n}		
+men3_Lo05.01DE	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Lo05.0200	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Lo05.0220	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0230	ありがとうございます。{n}魔除けということは、お守りですか？{wait}{clear}		
+men3_Lo05.0230	ありがとうございます。{n}魔除けということは、お守りですか？{wait}{clear}	Thank you very much. Warding... so it's a{n}charm?{wait}{clear}	
 men3_Lo05.027A	ルディエール	Rudiere	speaker
-men3_Lo05.028A	ああ、そうさ。{n}クリスという短剣をお守りにしたものだ。{n}これもレグランスにしかないものなんだぜ。{wait}{clear}どうだい？{n}＄＄＄＄＄＄も気に入ってくれればいいけど。{wait}{clear}		
+men3_Lo05.028A	ああ、そうさ。{n}クリスという短剣をお守りにしたものだ。{n}これもレグランスにしかないものなんだぜ。{wait}{clear}どうだい？{n}＄＄＄＄＄＄も気に入ってくれればいいけど。{wait}{clear}	Yeah, that's right. It's a dagger called a{n}kris, made into a charm. This is something{n}you only find in Legrance too, you know.{wait}{clear}What do you think? I hope you like it too,{n}＄＄＄＄＄＄.{wait}{clear}	
 men3_Lo05.0328	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0338	ルディは自分の国を誇りにしているのですね。{wait}{clear}		
+men3_Lo05.0338	ルディは自分の国を誇りにしているのですね。{wait}{clear}	You're proud of your country, aren't you,{n}Rudi?{wait}{clear}	
 men3_Lo05.0372	ルディエール	Rudiere	speaker
-men3_Lo05.0382	いや、そんな大げさなことじゃない。{n}ただ、なにかに役立てばと思っただけだよ。{wait}{clear}		
+men3_Lo05.0382	いや、そんな大げさなことじゃない。{n}ただ、なにかに役立てばと思っただけだよ。{wait}{clear}	Nah, it's nothing that grand. I just thought{n}it might be of some use, that's all.{wait}{clear}	
 men3_Lo05.03D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.03E2	そうですか……。{n}本当にありがとうございます、ルディ。{wait}{clear}		
+men3_Lo05.03E2	そうですか……。{n}本当にありがとうございます、ルディ。{wait}{clear}	I see... Thank you so much, Rudi.{wait}{clear}	
 men3_Lo05.0420	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0430	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Lo05.0430	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Lo05.04A0	ルディエール	Rudiere	speaker
-men3_Lo05.04B0	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}		
+men3_Lo05.04B0	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}	I see... Then I guess it can't be helped...{n}I wanted to be of some use, so I'm a little{n}disappointed, though.{wait}{clear}	
 men3_Lo05.0518	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo05.0528	本当にすみません。{wait}{clear}		
+men3_Lo05.0528	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

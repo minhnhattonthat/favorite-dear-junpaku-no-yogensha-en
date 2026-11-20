@@ -2,21 +2,21 @@ id	jp	en	notes
 men3_Fe01.005C	フェイン	Fein	speaker
 men3_Fe01.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sorry to call you out, ＄＄＄＄＄＄.{wait}{clear}	
 men3_Fe01.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe01.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
+men3_Fe01.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}	What is it? Did you need something?{wait}{clear}	
 men3_Fe01.00C2	フェイン	Fein	speaker
-men3_Fe01.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこのギルドの護符を渡そうと思ってな。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
+men3_Fe01.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこのギルドの護符を渡そうと思ってな。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}	No, I'm sorry it's nothing much, but I{n}thought I'd give you this Guild amulet.{wait}{clear}I hope it'll be of some use. Will you accept{n}it?{wait}{clear}	
 men3_Fe01.0162	ＮＵＬＬ	NULL	speaker
-men3_Fe01.0172	《ありがとうございます。》{n}		
-men3_Fe01.0194	《戒律があるので……。》{n}		
+men3_Fe01.0172	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Fe01.0194	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Fe01.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe01.01C4	ありがとうございます。{wait}{clear}えっと、これはお守りですね？{wait}{clear}		
+men3_Fe01.01C4	ありがとうございます。{wait}{clear}えっと、これはお守りですね？{wait}{clear}	Thank you very much.{wait}{clear}Um, this is a charm, isn't it?{wait}{clear}	
 men3_Fe01.01FE	フェイン	Fein	speaker
-men3_Fe01.020A	ああ、そうだ。{n}少しでも役に立てばいいのだが……。{wait}{clear}		
+men3_Fe01.020A	ああ、そうだ。{n}少しでも役に立てばいいのだが……。{wait}{clear}	Yes, that's right. I hope it helps, even a{n}little...{wait}{clear}	
 men3_Fe01.0240	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe01.0250	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}		
+men3_Fe01.0250	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}	Please don't trouble yourself so much over{n}me. But thank you so much.{wait}{clear}	
 men3_Fe01.02A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe01.02B2	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Fe01.02B2	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Fe01.0316	フェイン	Fein	speaker
-men3_Fe01.0322	そうか……。{n}それならばしかたがない。{wait}{clear}		
+men3_Fe01.0322	そうか……。{n}それならばしかたがない。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_Fe01.034C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Fe01.035C	本当にすみません。{wait}{clear}		
+men3_Fe01.035C	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

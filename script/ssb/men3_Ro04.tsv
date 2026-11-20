@@ -1,23 +1,23 @@
 id	jp	en	notes
 men3_Ro04.005C	ロクス	Rocus	speaker
-men3_Ro04.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
+men3_Ro04.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}	You finally came.{wait}{clear}I was just starting to think you weren't{n}coming.{wait}{clear}	
 men3_Ro04.00A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro04.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
+men3_Ro04.00B4	なにかあったのですか？　ロクス？{wait}{clear}	Did something happen, Rocus?{wait}{clear}	
 men3_Ro04.00D8	ロクス	Rocus	speaker
-men3_Ro04.00E2	いや、べつになにもないよ。{n}ただ、このタローカードを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
+men3_Ro04.00E2	いや、べつになにもないよ。{n}ただ、このタローカードを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}	Nah, nothing in particular. I just wanted to{n}give you these tarot cards.{wait}{clear}Will you take them?{wait}{clear}	
 men3_Ro04.0148	ＮＵＬＬ	NULL	speaker
-men3_Ro04.0158	《ありがとうございます。》{n}		
-men3_Ro04.017A	《戒律があるので……。》{n}		
+men3_Ro04.0158	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ro04.017A	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ro04.019A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro04.01AA	ありがとうございます。{n}えっと、これはなにに使うカードなのですか？{wait}{clear}		
+men3_Ro04.01AA	ありがとうございます。{n}えっと、これはなにに使うカードなのですか？{wait}{clear}	Thank you very much. Um, what are these{n}cards used for?{wait}{clear}	
 men3_Ro04.01FC	ロクス	Rocus	speaker
-men3_Ro04.0206	これか？{n}このカードは占いに使うものらしいな。{n}僕にもよくわからないが……。{wait}{clear}		
-men3_Ro04.0262	こんなものでも、少しはなにかの役に立ちそうか？{wait}{clear}		
+men3_Ro04.0206	これか？{n}このカードは占いに使うものらしいな。{n}僕にもよくわからないが……。{wait}{clear}	These? Apparently they're used for{n}fortune-telling. I don't really get it{n}myself, though...{wait}{clear}	
+men3_Ro04.0262	こんなものでも、少しはなにかの役に立ちそうか？{wait}{clear}	Think even something like this will be of{n}any use?{wait}{clear}	
 men3_Ro04.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro04.02A4	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ro04.02A4	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}	Yes, of course. Thank you so much.{wait}{clear}	
 men3_Ro04.02DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro04.02EE	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ro04.02EE	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ro04.035E	ロクス	Rocus	speaker
-men3_Ro04.0368	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
+men3_Ro04.0368	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}	Precepts? Geez, being an angel sure is a{n}hassle.{wait}{clear}	
 men3_Ro04.039A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ro04.03AA	本当にすみません……。{wait}{clear}		
+men3_Ro04.03AA	本当にすみません……。{wait}{clear}	I'm truly sorry...{wait}{clear}	

@@ -78,6 +78,12 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | フロリン | Florin | | | |
 | シェリー | Shelly | | fairy | |
 | リリィ | Lily | | | |
+| アクイラ | Aquila | | fairy | |
+| シータス | Cetus | | fairy, オレ, casual | |
+| レーパス | Lepus | | fairy, very formal | |
+| ティタニア | Titania | | fairy queen; "Titania-sama" | |
+| ガブリエル | Gabriel | | archangel (game 1's superior) | |
+| 副教皇 | Vice Pope | | Ecclesia, Rocus's superior (name tag roev01_01) | |
 | サタン | Satan | | | |
 | ベルゼバブ | Beelzebub | | | |
 | ノスフェラトゥ | Nosferatu | | | |
@@ -125,4 +131,16 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   Eastern Kingdom"; ルディの母 tag "Rudi's Mom" (he calls her "Mom"); 王の側近 "King's Aide"; Savio = the armored man
   in cursed armor, Savia = the girl who frees Rudiere. Chapter labels over 12 letters get a shorter title
   (第10節「王暗殺」 "Regicide").
+- Gift items (men3_*, b030-b031; the EXE item list at SLPS.80020Cxx/800212xx must match in phase 7): ハシバミの実
+  hazelnuts, サンザシの実 hawthorn berries, オリーブの実 olives, 花束 bouquet, 森のしずく Forest Dew, 銀のナイフ silver
+  knife, 銀のてい鉄 silver horseshoe, ゾンビパウダー zombie powder, 銀のロザリオ silver rosary, 銘刀のつば guard of a
+  famous sword, ヤドリギの枝 mistletoe sprig, 羽ペン quill pen, クマのぬいぐるみ teddy bear, 古い腕輪 old bracelet,
+  魔導書 grimoire, ギルドの護符 Guild amulet, 麦わら帽子 straw hat, 命の水 Water of Life (it's liquor), 魔導士のローブ
+  mage's robe, 銀の指輪 silver ring, タラブローチ Tara brooch, 決闘用の手袋 dueling gloves, 騎士道の教本 manual of
+  chivalry, クラダーリング Claddagh ring, 銀のレイピア silver rapier, シルクのハンカチ silk handkerchief, 象の置物
+  elephant figurine, 象牙のナイフ ivory knife, 珍しいスパイス rare spices, 魔除けのクリス warding kris, 聖水 holy water,
+  聖者のローブ saint's robe, 年代物のワイン vintage wine, タローカード tarot cards, 金のメダイユ gold medallion.
+  戒律 "precept(s)". menX 同行しますか？ "Accompany <name>?" with "  Yes" / "  No" (full-width space -> two spaces).
+- Name tags: 柄の悪い男 "Thug", 酒場の女達 "Tavern Girls". Rocus to the angel early on: formal and flirty ("my
+  beautiful angel"), crude when angry (俺, てめえ). ミカエル様 "Lord Michael" like "Lord Raphael".
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

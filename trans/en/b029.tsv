@@ -1,0 +1,128 @@
+id	en
+men2_Ce02.0276	No, I just assumed that on my own. If nothing's wrong, then that's fine, so please don't worry about it, Cecia.{wait}{clear}So, what did you want to talk about?{wait}{clear}
+men2_Ce02.0312	Um... there's something I'd like you to see, Angel.{wait}{clear}It's very close by. Will you come with me?{wait}{clear}
+men2_Ce02.038A	Yes, of course. Well then, shall we go?{wait}{clear}
+men2_Ce02.03EE	Yes, of course I do! I was hoping to talk with you too, Cecia...{wait}{clear}
+men2_Ce02.0450	You were? That makes me so happy... Angel...{wait}{clear}
+men2_Ce02.049E	Um... what did you want to talk about?{wait}{clear}
+men2_Ce02.04CE	Huh? Oh, um, there's something I'd like to show you, Angel... Will you come with me?{wait}{clear}
+men2_Ce02.0538	Yes, all right. Where is it?{wait}{clear}
+men2_Ce02.0566	It's very close by. Well then, let's go, Angel.{wait}{clear}
+men2_Cl01.008A	No, I'm fine, really... Um, did you want to talk?{wait}{clear}
+men2_Cl01.00CE	Yeah... Could you spare me a little time...?{wait}{clear}
+men2_Cl01.011E	Of course.{n}
+men2_Cl01.0148	Yes... You called me, Clive, after all...{wait}{clear}
+men2_Cl01.0196	......{wait}{clear}I see... It's nothing important, but... let's talk a little...{wait}{clear}
+men2_Cl01.021A	...Sorry...{wait}{clear}
+men2_Cl01.0244	Of course. Is something on your mind?{wait}{clear}
+men2_Cl01.028A	No, it's not that...{wait}{clear}I just thought I'd like to talk a little... All right?{wait}{clear}
+men2_Cl01.030A	I see... Sorry...{wait}{clear}
+men2_Cl02.008A	No... I don't mind at all... You called me, Clive, after all...{wait}{clear}You have something to talk about, don't you?{wait}{clear}
+men2_Cl02.0104	Yeah... It's nothing much, but... do you have a moment?{wait}{clear}
+men2_Cl02.014C	Yes, if I'll do...{n}
+men2_Cl02.0170	Is something troubling you?{n}
+men2_Cl02.01A4	Yes, if I'll do...{wait}{clear}
+men2_Cl02.01D8	I see... I know you're busy, but would you keep me company?{wait}{clear}
+men2_Cl02.0226	Yes, gladly. I'm happy to get to see you like this too, Clive.{wait}{clear}
+men2_Cl02.02A4	Is something troubling you?{wait}{clear}
+men2_Cl02.02D2	No, nothing like that.{wait}{clear}I just... thought we could talk about nothing much...{wait}{clear}
+men2_Cl02.0326	I see... I'm sorry, I was overthinking things.{wait}{clear}
+men2_Cl02.0372	No... I don't mind that at all.{wait}{clear}Will you keep me company?{wait}{clear}
+men2_Ei01.00EC	No, that's not it... it's nothing like that. I just felt like talking a little...{wait}{clear}
+men2_Ei01.0150	You too, Irene...{n}
+men2_Ei01.019E	So you wanted to see me too, Irene.{wait}{clear}
+men2_Ei01.01E8	N-no, it's not like that...! I mean, we can't go around saying carefree stuff like that at a time like this, right?{wait}{clear}
+men2_Ei01.025C	Oh... I suppose you're right...{wait}{clear}
+men2_Ei01.0286	Geez, ＄＄＄＄＄＄!{wait}{clear}
+men2_Ei01.02B0	But since you came all this way, let's talk for a bit...{wait}{clear}
+men2_Ei01.0326	So that's what it was. I thought something had happened, and it seems I panicked all on my own.{wait}{clear}
+men2_Ei01.039E	You were... that worried about me?{wait}{clear}
+men2_Ei01.03D4	Huh? Huh? Um... well... of course...{wait}{clear}
+men2_Ei01.041E	I see... Thanks, ＄＄＄＄＄＄.{wait}{clear}Well, since you came all this way, let's talk.{wait}{clear}
+men2_Ei02.0088	Please don't worry about that. Is there something you wanted to talk about?{wait}{clear}
+men2_Ei02.00DA	Yeah, there's something I wanted to ask of you... But you always look so busy, ＄＄＄＄＄＄. Is it okay...?{wait}{clear}
+men2_Ei02.0156	What did you want to ask?{n}
+men2_Ei02.01A2	What did you want to ask?{wait}{clear}
+men2_Ei02.01CA	It's nothing big. I'm looking something up, but I just can't find the part I need.{wait}{clear}
+men2_Ei02.0244	If that's all, leave it to me. I'll help you.{wait}{clear}
+men2_Ei02.0298	Really? Yaaay! Okay then, here, take this!{wait}{clear}
+men2_Ei02.02D6	Huh?! Wh-what is this thick book...?{wait}{clear}
+men2_Ei02.0320	Oh, this? What I want to look up is written in here. Come on, hurry up and help me.{wait}{clear}
+men2_Ei02.03A2	It's fine. If it's to help you, Irene, I'm happy to!{wait}{clear}
+men2_Ei02.03F6	Huh? Really? Really really? Yaaay! That's ＄＄＄＄＄＄ for you, so reliable.{wait}{clear}Okay then, here, take this!{wait}{clear}
+men2_Ei02.046C	Irene... what is this thick book...?{wait}{clear}
+men2_Ei02.04BA	That? That's a grimoire. There's something I want to look up, but I just can't find it on my own.{wait}{clear}Thanks a bunch, ＄＄＄＄＄＄!{wait}{clear}
+men2_Ei02.0548	Uh...{wait}{clear}
+men2_Fe01.0092	No, I'm fine, really... Did you want to talk?{wait}{clear}
+men2_Fe01.00D0	Yes, could you spare me a little time?{n}{wait}{clear}
+men2_Fe01.0102	What's the matter?{n}
+men2_Fe01.0120	Yes, I don't mind, but...{n}
+men2_Fe01.0156	What's the matter? You seem so formal...{wait}{clear}
+men2_Fe01.018E	No, it's nothing in particular, but if you could keep me company a while...{wait}{clear}
+men2_Fe01.020A	I see. Thank you.{wait}{clear}
+men2_Fe01.0236	Yes, I don't mind, but... Is something on your mind?{wait}{clear}
+men2_Fe01.028A	No, it's not that. I just thought I'd like to talk a little... Would you keep me company for a while?{wait}{clear}
+men2_Fe01.0306	Of course.{wait}{clear}
+men2_Fe02.0092	No... I don't mind that... You have something to talk about, don't you?{wait}{clear}
+men2_Fe02.00E2	Well, yes... It's not much of a talk, really... Do you have a moment?{wait}{clear}
+men2_Fe02.013C	Is something troubling you?{n}
+men2_Fe02.01BC	No, nothing so serious. It seems I only made you worry instead.{wait}{clear}
+men2_Fe02.021E	No, if nothing's wrong, then that's fine.{wait}{clear}
+men2_Fe02.0264	I see... Sorry about that...{wait}{clear}Since you came all this way, would you keep me company for a little talk?{wait}{clear}
+men2_Fe02.0324	I see... I know you're busy, but would you keep me company for a little talk?{wait}{clear}
+men2_La01.0084	No, please don't worry about that. By the way, did something happen, Leyla?{wait}{clear}
+men2_La01.00F4	No, nothing happened. I just wanted to talk with you, ＄＄＄＄＄＄...{wait}{clear}
+men2_La01.015E	I see...{n}
+men2_La01.017A	I'll keep you company.{n}
+men2_La01.01AA	I see... I don't mind that at all.{wait}{clear}Getting to see you like this makes me very happy too, Leyla.{wait}{clear}
+men2_La01.022A	Really...? But calling you here at a time like this just because I wanted to talk...{wait}{clear}
+men2_La01.0296	It's fine, for a little while.{wait}{clear}
+men2_La01.02CE	I see...{wait}{clear}Then shall we talk a little... all right, ＄＄＄＄＄＄?{wait}{clear}
+men2_La01.0342	Of course, I'll keep you company.{wait}{clear}
+men2_La01.037A	Are you sure?{wait}{clear}
+men2_La01.0396	Yes, of course. A little time to talk with you, Leyla, is no trouble at all.{wait}{clear}
+men2_La02.0084	Is there something you wanted to talk about, Leyla?{wait}{clear}
+men2_La02.00BA	Yes. I wouldn't call you without a reason. You always seem so busy, ＄＄＄＄＄＄.{wait}{clear}Would you keep me company for a while?{wait}{clear}
+men2_La02.0166	I wanted to as well...{n}
+men2_La02.018C	Is something troubling you?{wait}{clear}
+men2_La02.01BC	It's nothing like that. Honestly, you worry too much, ＄＄＄＄＄＄.{wait}{clear}I found a place with a beautiful view, so I thought we could go together.{wait}{clear}
+men2_La02.0242	I know things are hard right now, but I wanted you to see that view too, ＄＄＄＄＄＄...{wait}{clear}
+men2_La02.02AA	I see... Will you take me there? It's precisely because of times like these that we should go see it.{wait}{clear}
+men2_La02.0318	Yes... you're right... After all, that view is something we have to protect...{wait}{clear}
+men2_La02.036E	Come, Leyla, where is it?{wait}{clear}
+men2_La02.03A2	Huh? Oh, yes, this way.{wait}{clear}
+men2_La02.03D0	I... wanted to talk with you too, Leyla...{wait}{clear}
+men2_La02.041C	You did... I'm glad...{wait}{clear}
+men2_La02.044C	Say, ＄＄＄＄＄＄, there's a view I want to show you.{wait}{clear}It's because of times like these that I want to see it with you...{wait}{clear}
+men2_La02.04CC	Of course.{wait}{clear}If you say so, Leyla, then I'd like to see that view too.{wait}{clear}
+men2_La02.0528	Really? Then let's go.{wait}{clear}
+men2_Lo01.008A	Rudi, what's wrong? Has something terrible happened?{wait}{clear}
+men2_Lo01.00D0	You didn't have to rush over like that. I just felt like talking a bit, that's all.{wait}{clear}
+men2_Lo01.017C	So that's what it was. I thought something had happened...{wait}{clear}
+men2_Lo01.01D0	You really are a worrier, ＄＄＄＄＄＄. At this rate, I can't call you even when I want to see you.{wait}{clear}
+men2_Lo01.0230	No, please do call me.{wait}{clear}I... want to see you too, Rudi...{wait}{clear}
+men2_Lo01.0290	Huh? Oh, is that so...?{wait}{clear}W-well, um, let's talk a bit. Since you came all this way and all.{wait}{clear}
+men2_Lo01.0324	I'm sorry... What was I panicking about...?{wait}{clear}
+men2_Lo01.037E	Come on, you don't have to look so down, do you? Don't worry about it so much.{wait}{clear}Hey, you're here now, so let's talk.{wait}{clear}
+men2_Lo02.008A	Ah, Rudi...! Is there something you wanted to talk about?{wait}{clear}
+men2_Lo02.00CE	Yeah, I wouldn't call you without a reason. You always seem so busy, ＄＄＄＄＄＄.{wait}{clear}Would you keep me company for a bit?{wait}{clear}
+men2_Lo02.0178	Yes, I wanted to as well...{n}
+men2_Lo02.01D6	Nah, nothing like that. Did I end up making you worry instead?{wait}{clear}
+men2_Lo02.0226	No. I just assumed that on my own... I'm sorry.{n}{wait}{clear}
+men2_Lo02.027C	You really are a worrier, ＄＄＄＄＄＄.{wait}{clear}Hey, will you come along with me? I found a perfect spot for talking.{wait}{clear}
+men2_Lo02.0320	Well then, let's go.{wait}{clear}
+men2_Lo02.034A	Yes, I... wanted to talk with you too, Rudi.{wait}{clear}
+men2_Lo02.03A2	Oh, so that's how it was. I was worried about what to do if I got in your way, ＄＄＄＄＄＄.{wait}{clear}
+men2_Lo02.0460	Well, since you're here, will you come along with me? I found a perfect spot for talking.{wait}{clear}
+men2_Ro01.007E	I'm sorry! I came as soon as the fairy told me, but was I too late?{wait}{clear}
+men2_Ro01.00DA	Geez, you can't even take a joke, can you?{wait}{clear}
+men2_Ro01.010E	A joke...?{wait}{clear}
+men2_Ro01.0132	Hahaha... Still, I'm glad you hurried over that fast.{wait}{clear}
+men2_Ro01.017C	Hey, ＄＄＄＄＄＄, do you have some time?{wait}{clear}
+men2_Ro01.01B4	Yes, I'm free.{n}
+men2_Ro01.01D2	Well... I'm a little...{n}
+men2_Ro01.020A	Yes, of course I'm free.{wait}{clear}
+men2_Ro01.0232	I see. Then we can have a nice long talk.{wait}{clear}I know things are hard right now, but it's okay to relax a little, right?{wait}{clear}
+men2_Ro01.02D6	I see... Good...{wait}{clear}
+men2_Ro01.0306	Well... actually, I have something to take care of...{wait}{clear}
+men2_Ro01.034E	I see... So you can't stay for a while?{wait}{clear}

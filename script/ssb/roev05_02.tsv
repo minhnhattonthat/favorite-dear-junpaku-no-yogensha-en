@@ -1,37 +1,37 @@
 id	jp	en	notes
-roev05_02.0052	副教皇		speaker
+roev05_02.0052	副教皇	Vice Pope	speaker
 roev05_02.005C	ロクス……{n}これは大事なことだ、真面目に答えて欲しい。{wait}{clear}先日、教会の宝玉が何者かによって盗まれた……。{n}心当たりはないか？{wait}{clear}		
 roev05_02.00DC	ロクス	Rocus	speaker
 roev05_02.00E6	……僕が盗んだとでも？{wait}{clear}		
-roev05_02.0100	副教皇		speaker
+roev05_02.0100	副教皇	Vice Pope	speaker
 roev05_02.010A	そうは思っておらん。{n}もしそうなら、私の元に戻っては来まい。{wait}{clear}ただ、あの秘宝の在処を知っているのは{n}私とお前しかいないのだ。{wait}{clear}手がかりはなにもない。{n}少しでも何か聞けたらと思って呼んだのだ。{wait}{clear}		
 roev05_02.01D0	ロクス	Rocus	speaker
 roev05_02.01DA	心当たりはあります……。{n}ある男に秘宝の在処を教えました……。{wait}{clear}		
-roev05_02.021C	副教皇		speaker
+roev05_02.021C	副教皇	Vice Pope	speaker
 roev05_02.0226	どういう意味だ？{wait}{clear}		
 roev05_02.023A	ロクス	Rocus	speaker
 roev05_02.0244	……賭けです。{wait}{clear}賭けに負け、{n}その男に秘宝の隠し場所を話したのです。{wait}{clear}		
-roev05_02.028E	副教皇		speaker
+roev05_02.028E	副教皇	Vice Pope	speaker
 roev05_02.0298	宝玉の在処を賭けの代償としたのか？{n}ロクス！{wait}{clear}なんということだ！　お前は……{wait}{clear}		
 roev05_02.02EA	ロクス	Rocus	speaker
 roev05_02.02F4	…………。{wait}{clear}	.........{wait}{clear}	
-roev05_02.0302	副教皇		speaker
+roev05_02.0302	副教皇	Vice Pope	speaker
 roev05_02.030C	それで、その男の名は？{wait}{clear}		
 roev05_02.0326	ロクス	Rocus	speaker
 roev05_02.0330	本名はクラレンス……確かランゲラック。{wait}{clear}仲間からはあだ名の{n}ヴァイパーと呼ばれていました。{wait}{clear}		
-roev05_02.0390	副教皇		speaker
+roev05_02.0390	副教皇	Vice Pope	speaker
 roev05_02.039A	一刻も早くその男を探し出さねば……。{wait}{clear}しかしロクス……{n}お前には心底失望した……。{wait}{clear}		
 roev05_02.03F2	ロクス	Rocus	speaker
 roev05_02.03FC	…………。{wait}{clear}	.........{wait}{clear}	
-roev05_02.040A	副教皇		speaker
+roev05_02.040A	副教皇	Vice Pope	speaker
 roev05_02.0414	金と教皇としての責任を{n}取り引きしてしまうとはな……。{wait}{clear}お前に分別を期待していた{n}私が愚かだったようだ……。{wait}{clear}		
 roev05_02.0486	ロクス	Rocus	speaker
 roev05_02.0490	僕は……{wait}{clear}		
-roev05_02.049C	副教皇		speaker
+roev05_02.049C	副教皇	Vice Pope	speaker
 roev05_02.04A6	言い訳はもう聞き飽きた……。{n}なぜ聖なる力がお前のような男に……。{wait}{clear}		
 roev05_02.04EC	ロクス	Rocus	speaker
 roev05_02.04F6	僕は……{n}好きでここにいたんじゃない！{wait}{clear}誰がこんな力を望むものか！{wait}{clear}あんたらが勝手に{n}僕を教皇に祭り上げようとしたんじゃないか！{wait}{clear}		
-roev05_02.057E	副教皇		speaker
+roev05_02.057E	副教皇	Vice Pope	speaker
 roev05_02.0588	ロクス……{wait}{clear}お前は二度と聖都に戻って来るな。{wait}{clear}これは命令だ。{wait}{clear}		
 roev05_02.05CC	ロクス	Rocus	speaker
 roev05_02.05D6	言われなくとも、{n}二度と戻るつもりなどない！{wait}{clear}		

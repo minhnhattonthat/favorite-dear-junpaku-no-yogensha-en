@@ -2,32 +2,32 @@ id	jp	en	notes
 men2_Lo02.0052	ルディエール	Rudiere	speaker
 men2_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄＄.{wait}{clear}	
 men2_Lo02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo02.008A	あ、ルディ……！{n}なにかお話しでもあるのですか？{wait}{clear}		
+men2_Lo02.008A	あ、ルディ……！{n}なにかお話しでもあるのですか？{wait}{clear}	Ah, Rudi...! Is there something you wanted{n}to talk about?{wait}{clear}	
 men2_Lo02.00BE	ルディエール	Rudiere	speaker
-men2_Lo02.00CE	ああ、用がなかったら呼ばないさ。{n}＄＄＄＄＄＄は、いつも忙しそうだろうからな。{wait}{clear}少しつきあってもらってもいいか？{wait}{clear}		
+men2_Lo02.00CE	ああ、用がなかったら呼ばないさ。{n}＄＄＄＄＄＄は、いつも忙しそうだろうからな。{wait}{clear}少しつきあってもらってもいいか？{wait}{clear}	Yeah, I wouldn't call you without a reason.{n}You always seem so busy, ＄＄＄＄＄＄.{wait}{clear}Would you keep me company for a bit?{wait}{clear}	
 men2_Lo02.0144	ＮＵＬＬ	NULL	speaker
-men2_Lo02.0154	《悩み事でもあるのですか？》{n}		
-men2_Lo02.0178	《ええ、私も……。》{n}		
+men2_Lo02.0154	《悩み事でもあるのですか？》{n}	Is something troubling you?{n}	
+men2_Lo02.0178	《ええ、私も……。》{n}	Yes, I wanted to as well...{n}	
 men2_Lo02.0194	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo02.01A4	なにか悩み事でもあるのですか？{wait}{clear}		
+men2_Lo02.01A4	なにか悩み事でもあるのですか？{wait}{clear}	Is something troubling you?{wait}{clear}	
 men2_Lo02.01C6	ルディエール	Rudiere	speaker
-men2_Lo02.01D6	いや、そんなことないよ。{n}なんだか、かえって心配かけてたか？{wait}{clear}		
+men2_Lo02.01D6	いや、そんなことないよ。{n}なんだか、かえって心配かけてたか？{wait}{clear}	Nah, nothing like that. Did I end up making{n}you worry instead?{wait}{clear}	
 men2_Lo02.0216	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo02.0226	いいえ。{n}私が勝手に思っただけです……ごめんなさい。{n}{wait}{clear}		
+men2_Lo02.0226	いいえ。{n}私が勝手に思っただけです……ごめんなさい。{n}{wait}{clear}	No. I just assumed that on my own... I'm{n}sorry.{n}{wait}{clear}	
 men2_Lo02.026C	ルディエール	Rudiere	speaker
-men2_Lo02.027C	ほんとに心配性だな、＄＄＄＄＄は。{wait}{clear}なあ、おれにつきあってくれないか？{n}話をするのにちょうどいい場所を見つけたんだ。{wait}{clear}		
+men2_Lo02.027C	ほんとに心配性だな、＄＄＄＄＄は。{wait}{clear}なあ、おれにつきあってくれないか？{n}話をするのにちょうどいい場所を見つけたんだ。{wait}{clear}	You really are a worrier, ＄＄＄＄＄＄.{wait}{clear}Hey, will you come along with me? I found a{n}perfect spot for talking.{wait}{clear}	
 men2_Lo02.02F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo02.0306	ええ。{wait}{clear}	Of course.{wait}{clear}	
 men2_Lo02.0310	ルディエール	Rudiere	speaker
-men2_Lo02.0320	じゃあ、行こうぜ。{wait}{clear}		
+men2_Lo02.0320	じゃあ、行こうぜ。{wait}{clear}	Well then, let's go.{wait}{clear}	
 men2_Lo02.033A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo02.034A	ええ、私も……{n}ルディとお話ししたいと思ってましたから。{wait}{clear}		
+men2_Lo02.034A	ええ、私も……{n}ルディとお話ししたいと思ってましたから。{wait}{clear}	Yes, I... wanted to talk with you too, Rudi.{wait}{clear}	
 men2_Lo02.0392	ルディエール	Rudiere	speaker
-men2_Lo02.03A2	なんだ、そうだったのか。{n}＄＄＄＄＄＄の邪魔になったら、{n}どうしようと思って気になってたんだよ。{wait}{clear}		
+men2_Lo02.03A2	なんだ、そうだったのか。{n}＄＄＄＄＄＄の邪魔になったら、{n}どうしようと思って気になってたんだよ。{wait}{clear}	Oh, so that's how it was. I was worried{n}about what to do if I got in your way,{n}＄＄＄＄＄＄.{wait}{clear}	
 men2_Lo02.0412	よかった……。{wait}{clear}	Thank goodness...{wait}{clear}	
 men2_Lo02.0424	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo02.0434	ルディ……。{wait}{clear}	Rudi...{wait}{clear}	
 men2_Lo02.0450	ルディエール	Rudiere	speaker
-men2_Lo02.0460	じゃあ、せっかくだから、{n}おれにつきあってくれないか？{n}話をするのにちょうどいい場所を見つけたんだ。{wait}{clear}		
+men2_Lo02.0460	じゃあ、せっかくだから、{n}おれにつきあってくれないか？{n}話をするのにちょうどいい場所を見つけたんだ。{wait}{clear}	Well, since you're here, will you come along{n}with me? I found a perfect spot for talking.{wait}{clear}	
 men2_Lo02.04C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo02.04D8	ええ。{wait}{clear}	Of course.{wait}{clear}	

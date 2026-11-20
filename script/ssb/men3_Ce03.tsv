@@ -2,23 +2,23 @@ id	jp	en	notes
 men3_Ce03.0052	セシア	Cecia	speaker
 men3_Ce03.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry for calling you so suddenly.{wait}{clear}	
 men3_Ce03.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce03.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}		
+men3_Ce03.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}	What is it? Is there something you wanted to{n}talk about, Cecia?{wait}{clear}	
 men3_Ce03.00C4	セシア	Cecia	speaker
-men3_Ce03.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}オリーブの実なんですけど、{n}受け取っていただけますか？{wait}{clear}		
+men3_Ce03.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}オリーブの実なんですけど、{n}受け取っていただけますか？{wait}{clear}	No, it's not a talk. There's something I{n}wanted to give you, Angel.{wait}{clear}They're olives. Will you accept them?{wait}{clear}	
 men3_Ce03.014E	ＮＵＬＬ	NULL	speaker
-men3_Ce03.015E	《ありがとうございます。》{n}		
-men3_Ce03.0180	《戒律があるので……。》{n}		
+men3_Ce03.015E	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ce03.0180	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ce03.01A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce03.01B0	ありがとうございます。{n}えっと、この実は食べられるのですか？{wait}{clear}		
+men3_Ce03.01B0	ありがとうございます。{n}えっと、この実は食べられるのですか？{wait}{clear}	Thank you very much. Um, can these nuts be{n}eaten?{wait}{clear}	
 men3_Ce03.01FC	セシア	Cecia	speaker
-men3_Ce03.0206	ええ、もちろん。{n}この実は食べられますし、油もとれるので、{n}森ではとても大切なものなんです。{wait}{clear}		
+men3_Ce03.0206	ええ、もちろん。{n}この実は食べられますし、油もとれるので、{n}森ではとても大切なものなんです。{wait}{clear}	Yes, of course. You can eat them, and they{n}give oil too, so they're very precious in{n}the forest.{wait}{clear}	
 men3_Ce03.0272	セシア	Cecia	speaker
-men3_Ce03.027C	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}		
+men3_Ce03.027C	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}	But this is all I can give you, Angel...{wait}{clear}	
 men3_Ce03.02BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce03.02CC	そんな、とんでもないです！{n}その気持ちが、とてもうれしいですよ。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ce03.02CC	そんな、とんでもないです！{n}その気持ちが、とてもうれしいですよ。{n}本当にありがとうございます。{wait}{clear}	Oh no, not at all! The thought makes me very{n}happy. Thank you so much.{wait}{clear}	
 men3_Ce03.0332	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce03.0342	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ce03.0342	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ce03.03B2	セシア	Cecia	speaker
-men3_Ce03.03BC	そうなんですか？{n}私、知らなくて……。{wait}{clear}		
+men3_Ce03.03BC	そうなんですか？{n}私、知らなくて……。{wait}{clear}	Is that so? I didn't know...{wait}{clear}	
 men3_Ce03.03E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ce03.03F6	いえ、私の方こそ、本当にすみません……。{wait}{clear}		
+men3_Ce03.03F6	いえ、私の方こそ、本当にすみません……。{wait}{clear}	No, I'm the one who's truly sorry...{wait}{clear}	

@@ -1,138 +1,138 @@
 id	jp	en	notes
 roev01_01.006E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.007E	あなたは{n}ロクス・ラス・フロレスですか？{wait}{clear}		
+roev01_01.007E	あなたは{n}ロクス・ラス・フロレスですか？{wait}{clear}	Are you Rocus Las Flores?{wait}{clear}	
 roev01_01.00AA	ロクス	Rocus	speaker
-roev01_01.00B8	はい、そうですが？{wait}{clear}		
-roev01_01.00D2	あなたは……？{wait}{clear}		
+roev01_01.00B8	はい、そうですが？{wait}{clear}	Yes, I am. Why?{wait}{clear}	
+roev01_01.00D2	あなたは……？{wait}{clear}	And you are...?{wait}{clear}	
 roev01_01.00E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.00F4	天使＄＄＄＄＄＄というものです。{n}天界から、あなたに頼みたいことがあって、{n}ここへ来ました。{wait}{clear}		
+roev01_01.00F4	天使＄＄＄＄＄＄というものです。{n}天界から、あなたに頼みたいことがあって、{n}ここへ来ました。{wait}{clear}	I am the angel ＄＄＄＄＄＄. I have come{n}from the Heavens because there is something{n}I would like to ask of you.{wait}{clear}	
 roev01_01.0154	ロクス	Rocus	speaker
-roev01_01.0162	天使様ですか！{n}これは……感激です。{wait}{clear}		
-roev01_01.018E	僕のような者に……天使様が……{wait}{clear}		
-roev01_01.01B0	柄の悪い男		speaker
-roev01_01.01BE	おい、ロクス！{n}てめえ、話がある！{wait}{clear}		
+roev01_01.0162	天使様ですか！{n}これは……感激です。{wait}{clear}	An angel! Why... this is an honor.{wait}{clear}	
+roev01_01.018E	僕のような者に……天使様が……{wait}{clear}	To someone like me... an angel...{wait}{clear}	
+roev01_01.01B0	柄の悪い男	Thug	speaker
+roev01_01.01BE	おい、ロクス！{n}てめえ、話がある！{wait}{clear}	Hey, Rocus! You and me need to talk!{wait}{clear}	
 roev01_01.01E4	ロクス	Rocus	speaker
-roev01_01.01F2	……失礼、天使様。{n}向こうで友人が僕を呼んでいます。{n}少し待っていてくださいますか？{wait}{clear}		
+roev01_01.01F2	……失礼、天使様。{n}向こうで友人が僕を呼んでいます。{n}少し待っていてくださいますか？{wait}{clear}	...Excuse me, Angel. A friend of mine is{n}calling me over there. Would you wait a{n}moment?{wait}{clear}	
 roev01_01.024A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_01.025A	ええ……。{wait}{clear}	Yes...{wait}{clear}	
 roev01_01.027C	ロクス	Rocus	speaker
-roev01_01.0286	君か。{n}まあ、もう少しその話は待ってくれないか？{wait}{clear}今は副教皇に呼ばれているんだ。{wait}{clear}		
+roev01_01.0286	君か。{n}まあ、もう少しその話は待ってくれないか？{wait}{clear}今は副教皇に呼ばれているんだ。{wait}{clear}	Oh, it's you. Say, could that talk wait a{n}little longer?{wait}{clear}The Vice Pope has summoned me just now.{wait}{clear}	
 roev01_01.02DC	ロクス	Rocus	speaker
-roev01_01.02E6	……まあ……それは……待って……。{wait}{clear}		
+roev01_01.02E6	……まあ……それは……待って……。{wait}{clear}	...Well... about that... just wait...{wait}{clear}	
 roev01_01.030C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_01.031C	…………。{wait}{clear}	.........{wait}{clear}	
 roev01_01.032A	ロクス	Rocus	speaker
-roev01_01.0338	……ったく！{n}うるせえな、返すもんは返すって言ってんだろ？{wait}{clear}		
-roev01_01.037A	これ以上、がたがた抜かすな！{wait}{clear}		
+roev01_01.0338	……ったく！{n}うるせえな、返すもんは返すって言ってんだろ？{wait}{clear}	...Geez! Shut up already, I said I'll pay{n}back what I owe, didn't I?{wait}{clear}	
+roev01_01.037A	これ以上、がたがた抜かすな！{wait}{clear}	Quit your yapping!{wait}{clear}	
 roev01_01.03BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_01.03CC	…………。{wait}{clear}	.........{wait}{clear}	
 roev01_01.03DA	ロクス	Rocus	speaker
-roev01_01.03E8	申し訳ありません、天使様。{wait}{clear}		
-roev01_01.040A	お話のほう、あとにしてもらえますか？{wait}{clear}		
-roev01_01.0436	もう、なかで副教皇が待っていると思うので。{wait}{clear}		
-roev01_01.0468	そんなに時間はかからないと思います。{wait}{clear}		
-roev01_01.0494	では。{wait}{clear}		
-roev01_01.04C8	副教皇		speaker
-roev01_01.04D6	ロクス……ここまで聞こえたぞ。{n}お前の大声が。{wait}{clear}		
+roev01_01.03E8	申し訳ありません、天使様。{wait}{clear}	My apologies, Angel.{wait}{clear}	
+roev01_01.040A	お話のほう、あとにしてもらえますか？{wait}{clear}	Could our talk wait until later?{wait}{clear}	
+roev01_01.0436	もう、なかで副教皇が待っていると思うので。{wait}{clear}	I believe the Vice Pope is already waiting{n}inside.{wait}{clear}	
+roev01_01.0468	そんなに時間はかからないと思います。{wait}{clear}	I don't think it will take very long.{wait}{clear}	
+roev01_01.0494	では。{wait}{clear}	If you'll excuse me.{wait}{clear}	
+roev01_01.04C8	副教皇	Vice Pope	speaker
+roev01_01.04D6	ロクス……ここまで聞こえたぞ。{n}お前の大声が。{wait}{clear}	Rocus... I could hear it all the way in{n}here. Your shouting.{wait}{clear}	
 roev01_01.0508	ロクス	Rocus	speaker
-roev01_01.0516	これは失礼しました。{n}ちょっと友人がしつこかったもので。{wait}{clear}		
-roev01_01.0552	副教皇		speaker
-roev01_01.0560	この教会にも、お前の借金の取り立てが{n}ずいぶんと来ている。{wait}{clear}		
+roev01_01.0516	これは失礼しました。{n}ちょっと友人がしつこかったもので。{wait}{clear}	My apologies. A friend of mine was being a{n}little persistent.{wait}{clear}	
+roev01_01.0552	副教皇	Vice Pope	speaker
+roev01_01.0560	この教会にも、お前の借金の取り立てが{n}ずいぶんと来ている。{wait}{clear}	Collectors for your debts have been coming{n}to this church in droves, too.{wait}{clear}	
 roev01_01.059E	ロクス	Rocus	speaker
 roev01_01.05A8	…………。{wait}{clear}	.........{wait}{clear}	
-roev01_01.05B6	副教皇		speaker
-roev01_01.05C4	君の親しい大司教のうち何人かは評判を気にして{n}払ってしまうのがいい、と言ってるが。{wait}{clear}		
-roev01_01.061E	私はそうは思わない。{wait}{clear}		
-roev01_01.063A	もしお前が、{n}教会にとって重要な人物であったとしても、{wait}{clear}		
-roev01_01.0678	放蕩に使う金を信徒の布施から出す訳にはいかない。{wait}{clear}		
+roev01_01.05B6	副教皇	Vice Pope	speaker
+roev01_01.05C4	君の親しい大司教のうち何人かは評判を気にして{n}払ってしまうのがいい、と言ってるが。{wait}{clear}	Some of the archbishops you're close to say{n}it would be best to just pay them, for the{n}sake of our reputation.{wait}{clear}	
+roev01_01.061E	私はそうは思わない。{wait}{clear}	I do not agree.{wait}{clear}	
+roev01_01.063A	もしお前が、{n}教会にとって重要な人物であったとしても、{wait}{clear}	Even if you are someone important to the{n}Church,{wait}{clear}	
+roev01_01.0678	放蕩に使う金を信徒の布施から出す訳にはいかない。{wait}{clear}	we cannot pay for your debauchery out of the{n}offerings of the faithful.{wait}{clear}	
 roev01_01.06AC	ロクス	Rocus	speaker
-roev01_01.06BA	……金は返します、必ず。{wait}{clear}		
-roev01_01.06D6	副教皇		speaker
-roev01_01.06E4	そんな言葉はずいぶん前から聞いている。{wait}{clear}		
-roev01_01.0712	お前にこれ以上振り回されるわけにはいかん。{wait}{clear}		
-roev01_01.0744	ロクス、この聖都から出ていけ。{wait}{clear}		
-roev01_01.076A	すこし旅をして頭を冷やせ。{wait}{clear}		
-roev01_01.078C	お前の借金など教会は払わん。{n}自分の手でなんとかしろ。{wait}{clear}		
-roev01_01.07CA	大司教たちにも{n}お前に金を工面することは禁止した。{wait}{clear}		
+roev01_01.06BA	……金は返します、必ず。{wait}{clear}	...I'll pay the money back. I promise.{wait}{clear}	
+roev01_01.06D6	副教皇	Vice Pope	speaker
+roev01_01.06E4	そんな言葉はずいぶん前から聞いている。{wait}{clear}	I've been hearing those words for a long{n}time now.{wait}{clear}	
+roev01_01.0712	お前にこれ以上振り回されるわけにはいかん。{wait}{clear}	I can't let you drag us around any longer.{wait}{clear}	
+roev01_01.0744	ロクス、この聖都から出ていけ。{wait}{clear}	Rocus, leave this Holy City.{wait}{clear}	
+roev01_01.076A	すこし旅をして頭を冷やせ。{wait}{clear}	Travel a while and cool your head.{wait}{clear}	
+roev01_01.078C	お前の借金など教会は払わん。{n}自分の手でなんとかしろ。{wait}{clear}	The Church will not pay your debts. Deal{n}with them yourself.{wait}{clear}	
+roev01_01.07CA	大司教たちにも{n}お前に金を工面することは禁止した。{wait}{clear}	I have also forbidden the archbishops from{n}raising money for you.{wait}{clear}	
 roev01_01.0800	ロクス	Rocus	speaker
-roev01_01.080E	副教皇……しかし僕は……。{wait}{clear}		
-roev01_01.082C	副教皇		speaker
-roev01_01.083A	黙れ。これは命令だ。{wait}{clear}		
-roev01_01.0856	背くならば、お前からその法衣を取り上げる。{wait}{clear}		
-roev01_01.0888	いいな。{wait}{clear}		
+roev01_01.080E	副教皇……しかし僕は……。{wait}{clear}	Vice Pope... But I...{wait}{clear}	
+roev01_01.082C	副教皇	Vice Pope	speaker
+roev01_01.083A	黙れ。これは命令だ。{wait}{clear}	Silence. That is an order.{wait}{clear}	
+roev01_01.0856	背くならば、お前からその法衣を取り上げる。{wait}{clear}	If you defy it, I will strip you of those{n}vestments.{wait}{clear}	
+roev01_01.0888	いいな。{wait}{clear}	Understood?{wait}{clear}	
 roev01_01.08C6	ロクス	Rocus	speaker
-roev01_01.08D4	ちっ、あのジジイ……。{wait}{clear}		
+roev01_01.08D4	ちっ、あのジジイ……。{wait}{clear}	Tch, that old geezer...{wait}{clear}	
 roev01_01.08EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.08FE	ロクス……{wait}{clear}		
+roev01_01.08FE	ロクス……{wait}{clear}	Rocus...{wait}{clear}	
 roev01_01.090C	ロクス	Rocus	speaker
-roev01_01.091A	おっと、これは天使様。{n}いらっしゃったのですね。{wait}{clear}		
-roev01_01.0952	で、お話はなんですか？{wait}{clear}		
+roev01_01.091A	おっと、これは天使様。{n}いらっしゃったのですね。{wait}{clear}	Oh my, Angel. So you were here.{wait}{clear}	
+roev01_01.0952	で、お話はなんですか？{wait}{clear}	So, what is it you wanted to talk about?{wait}{clear}	
 roev01_01.096C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.097C	はい、ロクス……{n}私はあなたにこの世界に起きている{n}混乱を正して欲しいのです。{wait}{clear}私とともに現在起きている混乱や戦乱を{n}止める役目を負って欲しいのです。{wait}{clear}		
+roev01_01.097C	はい、ロクス……{n}私はあなたにこの世界に起きている{n}混乱を正して欲しいのです。{wait}{clear}私とともに現在起きている混乱や戦乱を{n}止める役目を負って欲しいのです。{wait}{clear}	Yes, Rocus... I want you to set right the{n}turmoil that is happening in this world.{wait}{clear}I want you to take on the role of stopping{n}the turmoil and wars happening now, together{n}with me.{wait}{clear}	
 roev01_01.0A18	ロクス	Rocus	speaker
-roev01_01.0A26	それはずいぶん、唐突なお話ですね……。{wait}{clear}		
+roev01_01.0A26	それはずいぶん、唐突なお話ですね……。{wait}{clear}	That's rather sudden...{wait}{clear}	
 roev01_01.0A50	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_01.0A60	お願いします。{wait}{clear}	Please.{wait}{clear}	
 roev01_01.0A82	ロクス	Rocus	speaker
-roev01_01.0A90	……ふーむ、わかりました。{wait}{clear}		
-roev01_01.0AB2	あなたのその顔を見ているうちに{n}やらねばならないと思いました。{wait}{clear}		
-roev01_01.0AF8	美しいあなたの顔がくもるのを{n}これ以上見るのは忍びない。{wait}{clear}		
-roev01_01.0B38	僕になんでもお申し付けください。{wait}{clear}		
+roev01_01.0A90	……ふーむ、わかりました。{wait}{clear}	...Hmm, very well.{wait}{clear}	
+roev01_01.0AB2	あなたのその顔を見ているうちに{n}やらねばならないと思いました。{wait}{clear}	Looking at that face of yours, I felt I had{n}to do it.{wait}{clear}	
+roev01_01.0AF8	美しいあなたの顔がくもるのを{n}これ以上見るのは忍びない。{wait}{clear}	I can't bear to see that beautiful face of{n}yours clouded any longer.{wait}{clear}	
+roev01_01.0B38	僕になんでもお申し付けください。{wait}{clear}	Command me as you wish.{wait}{clear}	
 roev01_01.0B5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0B6C	では、またあなたに頼むべき{n}ことができたときやってきます。{wait}{clear}		
+roev01_01.0B6C	では、またあなたに頼むべき{n}ことができたときやってきます。{wait}{clear}	Then I will come again when there is{n}something I need to ask of you.{wait}{clear}	
 roev01_01.0BAA	ロクス	Rocus	speaker
-roev01_01.0BB8	わかりました。ではまた。{n}お待ちしていますよ、美しい天使様。{wait}{clear}		
+roev01_01.0BB8	わかりました。ではまた。{n}お待ちしていますよ、美しい天使様。{wait}{clear}	Understood. Until then. I'll be waiting, my{n}beautiful angel.{wait}{clear}	
 roev01_01.0C08	ロクス	Rocus	speaker
-roev01_01.0C16	……ふーむ、わかりました。{wait}{clear}		
-roev01_01.0C38	お受けしましょう。{wait}{clear}		
-roev01_01.0C52	私も、今、{n}聖都を旅立たねばならなくなってしまったのです。{wait}{clear}		
-roev01_01.0C94	天使様とご一緒というのは心強い。{wait}{clear}		
+roev01_01.0C16	……ふーむ、わかりました。{wait}{clear}	...Hmm, very well.{wait}{clear}	
+roev01_01.0C38	お受けしましょう。{wait}{clear}	I accept.{wait}{clear}	
+roev01_01.0C52	私も、今、{n}聖都を旅立たねばならなくなってしまったのです。{wait}{clear}	As it happens, I've just been made to leave{n}the Holy City myself.{wait}{clear}	
+roev01_01.0C94	天使様とご一緒というのは心強い。{wait}{clear}	Having an angel by my side is reassuring.{wait}{clear}	
 roev01_01.0CB8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0CC8	では、またあなたに頼むべきことができたとき{n}やってきます。{wait}{clear}		
+roev01_01.0CC8	では、またあなたに頼むべきことができたとき{n}やってきます。{wait}{clear}	Then I will come again when there is{n}something I need to ask of you.{wait}{clear}	
 roev01_01.0D06	ロクス	Rocus	speaker
-roev01_01.0D14	わかりました、ではまた。{wait}{clear}		
+roev01_01.0D14	わかりました、ではまた。{wait}{clear}	Understood. Until then.{wait}{clear}	
 roev01_01.0D40	ロクス	Rocus	speaker
-roev01_01.0D4A	天使様の頼みをお断りするのは{n}非常に申し訳ないのですが……{n}今はおつき合いできません。{wait}{clear}自分には少々込み入った事情があるのです。{n}すみません。{wait}{clear}		
+roev01_01.0D4A	天使様の頼みをお断りするのは{n}非常に申し訳ないのですが……{n}今はおつき合いできません。{wait}{clear}自分には少々込み入った事情があるのです。{n}すみません。{wait}{clear}	I'm terribly sorry to refuse an angel's{n}request, but... I can't go along with it{n}right now.{wait}{clear}I have some rather complicated circumstances{n}of my own. My apologies.{wait}{clear}	
 roev01_01.0DDE	ＮＵＬＬ	NULL	speaker
-roev01_01.0DEE	《どうしてもお願いしたい》{n}		
-roev01_01.0E10	《今はあきらめる》{n}		
+roev01_01.0DEE	《どうしてもお願いしたい》{n}	I must insist{n}	
+roev01_01.0E10	《今はあきらめる》{n}	Give up for now{n}	
 roev01_01.0E32	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0E42	どうしてもあなたにお願いしたいのです。{n}協力してもらえませんか？{wait}{clear}		
+roev01_01.0E42	どうしてもあなたにお願いしたいのです。{n}協力してもらえませんか？{wait}{clear}	I truly need to ask this of you. Won't you{n}help me?{wait}{clear}	
 roev01_01.0E8C	ロクス	Rocus	speaker
-roev01_01.0E96	うーむ……。{wait}{clear}わかりました。{n}そんな真剣な顔で頼まれればいやとは言えません。{wait}{clear}私にできることがあればなんなりと。{wait}{clear}		
+roev01_01.0E96	うーむ……。{wait}{clear}わかりました。{n}そんな真剣な顔で頼まれればいやとは言えません。{wait}{clear}私にできることがあればなんなりと。{wait}{clear}	Hmm...{wait}{clear}Very well. When you ask me with such a{n}serious face, I can't say no.{wait}{clear}If there's anything I can do, just name it.{wait}{clear}	
 roev01_01.0F0E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0F1E	ありがとう、ロクス。{wait}{clear}		
+roev01_01.0F1E	ありがとう、ロクス。{wait}{clear}	Thank you, Rocus.{wait}{clear}	
 roev01_01.0F36	ロクス	Rocus	speaker
-roev01_01.0F40	いいえ、一瞬でもそのお美しい顔を{n}くもらせてしまった自分に礼などいりません。{wait}{clear}なんなりと、お申し付けください。{wait}{clear}		
+roev01_01.0F40	いいえ、一瞬でもそのお美しい顔を{n}くもらせてしまった自分に礼などいりません。{wait}{clear}なんなりと、お申し付けください。{wait}{clear}	No, I deserve no thanks for clouding that{n}lovely face of yours, even for a moment.{wait}{clear}Command me as you wish.{wait}{clear}	
 roev01_01.0FD2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0FE2	わかりました。{n}では、また日をあらためておうかがいします。{wait}{clear}		
+roev01_01.0FE2	わかりました。{n}では、また日をあらためておうかがいします。{wait}{clear}	I understand. Then I will call on you again{n}another day.{wait}{clear}	
 roev01_01.1020	ロクス	Rocus	speaker
-roev01_01.102A	すみません、美しい天使様。{n}また、お会いできる日を楽しみにしていますよ。{wait}{clear}		
+roev01_01.102A	すみません、美しい天使様。{n}また、お会いできる日を楽しみにしていますよ。{wait}{clear}	My apologies, my beautiful angel. I look{n}forward to the day we meet again.{wait}{clear}	
 roev01_01.1086	ロクス	Rocus	speaker
-roev01_01.1090	私にも事情があるのです。{n}失礼してもいいですか？{wait}{clear}		
+roev01_01.1090	私にも事情があるのです。{n}失礼してもいいですか？{wait}{clear}	I have my own circumstances too. May I take{n}my leave?{wait}{clear}	
 roev01_01.10C4	ＮＵＬＬ	NULL	speaker
-roev01_01.10D4	《どうしてもお願いしたい》{n}		
-roev01_01.10F6	《あきらめる》{n}		
+roev01_01.10D4	《どうしてもお願いしたい》{n}	I must insist{n}	
+roev01_01.10F6	《あきらめる》{n}	Give up{n}	
 roev01_01.1112	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.1122	お願いできませんか？{wait}{clear}		
+roev01_01.1122	お願いできませんか？{wait}{clear}	Won't you please help?{wait}{clear}	
 roev01_01.113A	ロクス	Rocus	speaker
-roev01_01.1144	協力はできません。{wait}{clear}		
+roev01_01.1144	協力はできません。{wait}{clear}	I can't help you.{wait}{clear}	
 roev01_01.115A	ＮＵＬＬ	NULL	speaker
-roev01_01.116A	《どうしてもお願いしたい》{n}		
-roev01_01.118C	《あきらめる》{n}		
+roev01_01.116A	《どうしてもお願いしたい》{n}	I must insist{n}	
+roev01_01.118C	《あきらめる》{n}	Give up{n}	
 roev01_01.11A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.11B8	お願いできませんか？{wait}{clear}		
+roev01_01.11B8	お願いできませんか？{wait}{clear}	Won't you please help?{wait}{clear}	
 roev01_01.11DC	ロクス	Rocus	speaker
-roev01_01.11E6	しつこいな……{wait}{clear}協力はできません。{wait}{clear}		
+roev01_01.11E6	しつこいな……{wait}{clear}協力はできません。{wait}{clear}	You're persistent...{wait}{clear}I can't help you.{wait}{clear}	
 roev01_01.120E	ＮＵＬＬ	NULL	speaker
-roev01_01.121E	《どうしてもお願いしたい》{n}		
-roev01_01.1240	《あきらめる》{n}		
+roev01_01.121E	《どうしてもお願いしたい》{n}	I must insist{n}	
+roev01_01.1240	《あきらめる》{n}	Give up{n}	
 roev01_01.125C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.126C	お願いできませんか？{wait}{clear}		
+roev01_01.126C	お願いできませんか？{wait}{clear}	Won't you please help?{wait}{clear}	
 roev01_01.1284	ロクス	Rocus	speaker
 roev01_01.128E	…………。{wait}{clear}	.........{wait}{clear}	
-roev01_01.12A8	いいかげんにしろ！{n}下手に出りゃ、つけあがりやがって！{wait}{clear}駄目だといったら駄目なんだよ。{n}失せろ！{wait}{clear}		
+roev01_01.12A8	いいかげんにしろ！{n}下手に出りゃ、つけあがりやがって！{wait}{clear}駄目だといったら駄目なんだよ。{n}失せろ！{wait}{clear}	That's enough! I'm nice to you and you take{n}advantage!{wait}{clear}When I say no, I mean no. Get lost!{wait}{clear}	
 roev01_01.1324	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.1334	わかりました。{n}また日をあらためておうかがいします。{wait}{clear}		
+roev01_01.1334	わかりました。{n}また日をあらためておうかがいします。{wait}{clear}	I understand. I will call on you again{n}another day.{wait}{clear}	
 roev01_01.136C	ロクス	Rocus	speaker
-roev01_01.1376	そうしてください。{n}そのとき協力できるかはわかりませんが。{wait}{clear}では、また。{wait}{clear}		
+roev01_01.1376	そうしてください。{n}そのとき協力できるかはわかりませんが。{wait}{clear}では、また。{wait}{clear}	Please do. Though I can't say whether I'll{n}be able to help you then.{wait}{clear}Until then.{wait}{clear}	

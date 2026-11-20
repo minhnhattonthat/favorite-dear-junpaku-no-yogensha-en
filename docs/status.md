@@ -31,6 +31,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   men1_Ro01.ssb --cue <abs>/build/fd2_en.cue` all OK with English. Glossary gained Hugues, Seneca "she", Rudiere-route
   rulings (Grand Duke, Chancellor, Endymion = Grosain's emperor, "Rudi's Mom", chapter labels over 12 letters
   shortened: "Regicide").
+  2026-11-21 (6th worker): **b029-b033** done (men2_* call scenes for every hero, men3_* gift scenes, menX_* refusals,
+  prologue with Raphael and every fairy's intro, Raph_end ending in the Heavens incl. the stay-human branch, roed01,
+  Rocus roev01_01-roev02; b033 ends at roev02.046C). Build + check.py green; `warp.py --event roev01_01.ssb --event
+  men3_Ei02.ssb --cue <abs>/build/fd2_en.cue` both OK with English (Vice Pope tag fits). Glossary gained Aquila, Cetus,
+  Lepus, Titania, Gabriel, Vice Pope, the gift item list (EXE item names must match it in phase 7), Thug / Tavern Girls.
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -45,7 +50,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b029 (`batches.py todo`; the men2_* call scenes continue there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b034 (`batches.py todo`; Rocus's roev02 tavern scene continues there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

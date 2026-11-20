@@ -4,19 +4,19 @@ men3_Cl04.0068	すまない……呼び出して。{wait}{clear}	Sorry... for ca
 men3_Cl04.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}	What is it? Is something on your mind?{wait}{clear}	
 men3_Cl04.00D2	クライヴ	Clive	speaker
-men3_Cl04.00DE	いや……これを……{n}銀のロザリオをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
+men3_Cl04.00DE	いや……これを……{n}銀のロザリオをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}	No... I thought I'd give you this... a{n}silver rosary.{wait}{clear}Will you take it?{wait}{clear}	
 men3_Cl04.013A	ＮＵＬＬ	NULL	speaker
-men3_Cl04.014A	《ありがとうございます。》{n}		
-men3_Cl04.016C	《戒律があるので……。》{n}		
+men3_Cl04.014A	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Cl04.016C	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Cl04.018C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl04.019C	ありがとうございます。{wait}{clear}えっと、これはお守りですね。{wait}{clear}		
+men3_Cl04.019C	ありがとうございます。{wait}{clear}えっと、これはお守りですね。{wait}{clear}	Thank you very much.{wait}{clear}Um, this is a charm, isn't it?{wait}{clear}	
 men3_Cl04.01D6	クライヴ	Clive	speaker
-men3_Cl04.01E2	ああ、そうだ……。{wait}{clear}		
+men3_Cl04.01E2	ああ、そうだ……。{wait}{clear}	Yeah, that's right...{wait}{clear}	
 men3_Cl04.01F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl04.0208	いただいていきますね、クライヴ。{n}本当にありがとうございました。{wait}{clear}		
+men3_Cl04.0208	いただいていきますね、クライヴ。{n}本当にありがとうございました。{wait}{clear}	I'll take it with me, Clive. Thank you so{n}much.{wait}{clear}	
 men3_Cl04.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl04.0260	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Cl04.0260	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Cl04.02D0	クライヴ	Clive	speaker
-men3_Cl04.02DC	そうか……。{n}なら、しかたがない。{wait}{clear}		
+men3_Cl04.02DC	そうか……。{n}なら、しかたがない。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_Cl04.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl04.0312	本当にすみません。{wait}{clear}		
+men3_Cl04.0312	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

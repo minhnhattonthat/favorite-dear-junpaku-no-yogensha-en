@@ -2,21 +2,21 @@ id	jp	en	notes
 men3_Ei04.005C	アイリーン	Irene	speaker
 men3_Ei04.006A	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men3_Ei04.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
+men3_Ei04.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is something troubling{n}you?{wait}{clear}	
 men3_Ei04.00CC	アイリーン	Irene	speaker
-men3_Ei04.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、{n}この古い腕輪をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
+men3_Ei04.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、{n}この古い腕輪をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}	Nope, nothing like that, so don't worry. I{n}wanted to give you this old bracelet,{n}＄＄＄＄＄＄.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Ei04.0170	ＮＵＬＬ	NULL	speaker
-men3_Ei04.0180	《ありがとうございます。》{n}		
-men3_Ei04.01A2	《戒律があるので……。》{n}		
+men3_Ei04.0180	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Ei04.01A2	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ei04.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.01D2	ありがとうございます。{n}これにはなにか由来があったりするのですか？{wait}{clear}		
+men3_Ei04.01D2	ありがとうございます。{n}これにはなにか由来があったりするのですか？{wait}{clear}	Thank you very much. Does this have some{n}kind of history?{wait}{clear}	
 men3_Ei04.0218	アイリーン	Irene	speaker
-men3_Ei04.0226	う～ん、私もよくわからないんだけど、{n}きっとあったんだと思うよ。{wait}{clear}		
+men3_Ei04.0226	う～ん、私もよくわからないんだけど、{n}きっとあったんだと思うよ。{wait}{clear}	Hmmm, I don't really know either, but I bet{n}it did.{wait}{clear}	
 men3_Ei04.026A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.027A	そうですか……。{n}では、いただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
+men3_Ei04.027A	そうですか……。{n}では、いただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}	I see... Then I'll take it with me.{wait}{clear}Thank you so much.{wait}{clear}	
 men3_Ei04.02D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.02E2	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ei04.02E2	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ei04.0352	アイリーン	Irene	speaker
-men3_Ei04.0360	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}		
+men3_Ei04.0360	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}	Really? Aww, well, I guess it can't be{n}helped. I'm a little disappointed, though...{wait}{clear}	
 men3_Ei04.03B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.03C4	本当にすみません。{wait}{clear}		
+men3_Ei04.03C4	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

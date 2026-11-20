@@ -1,13 +1,13 @@
 id	jp	en	notes
 menX_fe01.005E	フェイン	Fein	speaker
-menX_fe01.006A	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}		
+menX_fe01.006A	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right now... Please go{n}back.{wait}{clear}	
 menX_fe01.009C	フェイン	Fein	speaker
-menX_fe01.00A8	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}		
+menX_fe01.00A8	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right now... Please go{n}back.{wait}{clear}	
 menX_fe01.00E2	フェイン	Fein	speaker
-menX_fe01.00EE	しつこいな……君は……。{n}俺にかまわないでくれ。{wait}{clear}		
+menX_fe01.00EE	しつこいな……君は……。{n}俺にかまわないでくれ。{wait}{clear}	You're persistent... Leave me be.{wait}{clear}	
 menX_fe01.0126	フェイン	Fein	speaker
-menX_fe01.0132	君の立場はわかるが……{n}今は俺にかまわないでくれ。{wait}{clear}		
+menX_fe01.0132	君の立場はわかるが……{n}今は俺にかまわないでくれ。{wait}{clear}	I understand your position, but... leave me{n}be for now.{wait}{clear}	
 menX_fe01.0172	ＮＵＬＬ	NULL	speaker
-menX_fe01.017E	フェインに同行しますか？{n}		
-menX_fe01.019C	　《はい》{n}		
-menX_fe01.01AE	　《いいえ》		
+menX_fe01.017E	フェインに同行しますか？{n}	Accompany Fein?{n}	
+menX_fe01.019C	　《はい》{n}	Yes{n}	
+menX_fe01.01AE	　《いいえ》	No	

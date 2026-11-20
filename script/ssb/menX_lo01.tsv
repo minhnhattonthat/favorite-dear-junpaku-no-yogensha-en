@@ -1,13 +1,13 @@
 id	jp	en	notes
 menX_lo01.005E	ルディエール	Rudiere	speaker
-menX_lo01.006E	悪いけど帰ってくれないか。{n}今、他のことで大変なんだ。{wait}{clear}		
+menX_lo01.006E	悪いけど帰ってくれないか。{n}今、他のことで大変なんだ。{wait}{clear}	Sorry, but could you go back? I've got my{n}hands full with something else right now.{wait}{clear}	
 menX_lo01.00AC	ルディエール	Rudiere	speaker
-menX_lo01.00BC	悪いけど帰ってくれないか。{n}＄＄＄＄＄＄につきあってる時間ないんだ。{wait}{clear}		
+menX_lo01.00BC	悪いけど帰ってくれないか。{n}＄＄＄＄＄＄につきあってる時間ないんだ。{wait}{clear}	Sorry, but could you go back? I don't have{n}time to deal with you, ＄＄＄＄＄＄.{wait}{clear}	
 menX_lo01.0110	ルディエール	Rudiere	speaker
-menX_lo01.0120	しつこいな……。{n}おれにかまわないでくれよ。{wait}{clear}		
+menX_lo01.0120	しつこいな……。{n}おれにかまわないでくれよ。{wait}{clear}	You're persistent... Just leave me be, okay?{wait}{clear}	
 menX_lo01.0154	ルディエール	Rudiere	speaker
-menX_lo01.0164	＄＄＄＄＄＄の気持ちもわかるけど……{n}おれの好きにさせておいてくれないか？{wait}{clear}悪いな……。{wait}{clear}		
+menX_lo01.0164	＄＄＄＄＄＄の気持ちもわかるけど……{n}おれの好きにさせておいてくれないか？{wait}{clear}悪いな……。{wait}{clear}	I know how you feel, ＄＄＄＄＄＄, but...{n}could you just let me do what I want?{wait}{clear}Sorry...{wait}{clear}	
 menX_lo01.01CC	ＮＵＬＬ	NULL	speaker
-menX_lo01.01D8	ルディに同行しますか？{n}		
-menX_lo01.01F4	　《はい》{n}		
-menX_lo01.0206	　《いいえ》		
+menX_lo01.01D8	ルディに同行しますか？{n}	Accompany Rudi?{n}	
+menX_lo01.01F4	　《はい》{n}	Yes{n}	
+menX_lo01.0206	　《いいえ》	No	

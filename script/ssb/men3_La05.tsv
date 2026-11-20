@@ -2,21 +2,21 @@ id	jp	en	notes
 men3_La05.005C	レイラ	Leyla	speaker
 men3_La05.0066	呼び出して悪いわね。{wait}{clear}	Sorry to call you out.{wait}{clear}	
 men3_La05.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La05.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
+men3_La05.008E	どうしたのですか、レイラ？{n}{wait}{clear}	What is it, Leyla?{n}{wait}{clear}	
 men3_La05.00AE	レイラ	Leyla	speaker
-men3_La05.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}銀のレイピアなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
+men3_La05.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}銀のレイピアなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like to give{n}you. It's a silver rapier. Will you accept{n}it?{wait}{clear}	
 men3_La05.011E	ＮＵＬＬ	NULL	speaker
-men3_La05.012E	《ありがとうございます。》{n}		
-men3_La05.0150	《戒律があるので……。》{n}		
+men3_La05.012E	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_La05.0150	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_La05.0170	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La05.0180	ありがとうございます。{n}えっと、これは武器ですよね？{wait}{clear}		
+men3_La05.0180	ありがとうございます。{n}えっと、これは武器ですよね？{wait}{clear}	Thank you very much. Um, this is a weapon,{n}isn't it?{wait}{clear}	
 men3_La05.01C4	レイラ	Leyla	speaker
-men3_La05.01CE	ええ、もちろんよ。{n}それに、銀は魔除けの力も持つそうだから、{n}なにかの役に立てばと思って……。{wait}{clear}		
+men3_La05.01CE	ええ、もちろんよ。{n}それに、銀は魔除けの力も持つそうだから、{n}なにかの役に立てばと思って……。{wait}{clear}	Yes, of course. And they say silver has the{n}power to ward off evil too, so I hoped it{n}might be of use...{wait}{clear}	
 men3_La05.0230	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La05.0240	そうですか……すみません。{n}本当にありがとうございます。{wait}{clear}		
+men3_La05.0240	そうですか……すみません。{n}本当にありがとうございます。{wait}{clear}	I see... I'm sorry for the trouble. Thank{n}you so much.{wait}{clear}	
 men3_La05.0280	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La05.0290	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_La05.0290	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_La05.0300	レイラ	Leyla	speaker
-men3_La05.030A	そう……{n}じゃあ、しかたがないね。{wait}{clear}		
+men3_La05.030A	そう……{n}じゃあ、しかたがないね。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_La05.0330	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La05.0340	本当にすみません。{wait}{clear}		
+men3_La05.0340	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

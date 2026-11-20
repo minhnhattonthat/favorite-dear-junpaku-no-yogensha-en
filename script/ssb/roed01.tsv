@@ -1,8 +1,8 @@
 id	jp	en	notes
 roed01.0058	ロクス	Rocus	speaker
-roed01.0066	本当に残ったのか？{wait}{clear}		
-roed01.0080	君はばかだな……。{wait}{clear}		
-roed01.009A	こっちにこいよ。{wait}{clear}		
-roed01.00D8	僕なんかのために……{n}本当にばかだ……。{wait}{clear}		
+roed01.0066	本当に残ったのか？{wait}{clear}	You really stayed?{wait}{clear}	
+roed01.0080	君はばかだな……。{wait}{clear}	You're a fool...{wait}{clear}	
+roed01.009A	こっちにこいよ。{wait}{clear}	Come over here.{wait}{clear}	
+roed01.00D8	僕なんかのために……{n}本当にばかだ……。{wait}{clear}	For the likes of me... You really are a{n}fool...{wait}{clear}	
 roed01.0108	でも……{wait}{clear}	But...{wait}{clear}	
-roed01.0118	ありがとう……。{n}こんなに嬉しいことはない。{wait}{clear}		
+roed01.0118	ありがとう……。{n}こんなに嬉しいことはない。{wait}{clear}	Thank you... Nothing could make me happier.{wait}{clear}	

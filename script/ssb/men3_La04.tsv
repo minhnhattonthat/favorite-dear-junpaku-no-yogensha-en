@@ -2,21 +2,21 @@ id	jp	en	notes
 men3_La04.005C	レイラ	Leyla	speaker
 men3_La04.0066	呼び出して悪いわね。{wait}{clear}	Sorry to call you out.{wait}{clear}	
 men3_La04.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La04.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
+men3_La04.008E	どうしたのですか、レイラ？{n}{wait}{clear}	What is it, Leyla?{n}{wait}{clear}	
 men3_La04.00AE	レイラ	Leyla	speaker
-men3_La04.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}クラダーリングなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
+men3_La04.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}クラダーリングなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like to give{n}you. It's a Claddagh ring. Will you accept{n}it?{wait}{clear}	
 men3_La04.0120	ＮＵＬＬ	NULL	speaker
-men3_La04.0130	《ありがとうございます。》{n}		
-men3_La04.0152	《戒律があるので……。》{n}		
+men3_La04.0130	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_La04.0152	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_La04.0172	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La04.0182	ありがとうございます。{n}えっと、この指輪にはなにかいわれがあるのですか？{wait}{clear}		
+men3_La04.0182	ありがとうございます。{n}えっと、この指輪にはなにかいわれがあるのですか？{wait}{clear}	Thank you very much. Um, is there some story{n}behind this ring?{wait}{clear}	
 men3_La04.01DA	レイラ	Leyla	speaker
-men3_La04.01E4	ええ……。{n}この指輪は、友愛の証だと言われているの……。{wait}{clear}		
+men3_La04.01E4	ええ……。{n}この指輪は、友愛の証だと言われているの……。{wait}{clear}	Yes... They say this ring is a token of{n}friendship...{wait}{clear}	
 men3_La04.0220	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La04.0230	そうですか……それを私に……。{n}本当にありがとうございます。{wait}{clear}		
+men3_La04.0230	そうですか……それを私に……。{n}本当にありがとうございます。{wait}{clear}	I see... And you're giving it to me... Thank{n}you so much.{wait}{clear}	
 men3_La04.0274	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La04.0284	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_La04.0284	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_La04.02F4	レイラ	Leyla	speaker
-men3_La04.02FE	そう……{n}じゃあ、しかたがないね。{wait}{clear}		
+men3_La04.02FE	そう……{n}じゃあ、しかたがないね。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_La04.0324	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_La04.0334	本当にすみません。{wait}{clear}		
+men3_La04.0334	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

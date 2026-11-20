@@ -1,161 +1,161 @@
 id	jp	en	notes
 Raph_end.004C	ミカエル	Michael	speaker
-Raph_end.0058	おう、＄＄＄＄＄＄。{n}もう、戻ってこないのかと思っていたぞ。{wait}{clear}		
+Raph_end.0058	おう、＄＄＄＄＄＄。{n}もう、戻ってこないのかと思っていたぞ。{wait}{clear}	Oh, ＄＄＄＄＄＄. I was starting to think{n}you'd never come back.{wait}{clear}	
 Raph_end.0098	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.00A8	え！？{n}そんな、あの……ミカエル様……。{wait}{clear}		
+Raph_end.00A8	え！？{n}そんな、あの……ミカエル様……。{wait}{clear}	Huh?! Oh no, um... Lord Michael...{wait}{clear}	
 Raph_end.00D4	ミカエル	Michael	speaker
-Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}		
+Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}	Hahaha! Just a joke. No need to look so{n}worried, is there?{wait}{clear}But, ＄＄＄＄＄＄... You did hard work in{n}Arcaya.{wait}{clear}Against Beelzebub and Satan's dragon, no{n}less... You truly did well. Let me thank you{n}too.{wait}{clear}	
 Raph_end.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.01D0	お礼を言われるなんて……とんでもありません。{n}私は、私のできることをしただけですし、{n}アルカヤを救ったのはなによりも勇者たちの力です。{wait}{clear}		
+Raph_end.01D0	お礼を言われるなんて……とんでもありません。{n}私は、私のできることをしただけですし、{n}アルカヤを救ったのはなによりも勇者たちの力です。{wait}{clear}	Thanking me... Oh, not at all. I only did{n}what I could, and above all, it was the{n}heroes' strength that saved Arcaya.{wait}{clear}	
 Raph_end.025A	ミカエル	Michael	speaker
-Raph_end.0266	そうか……そうだな……。{n}まっすぐにそう言うお前が俺は好きだぞ。{wait}{clear}		
+Raph_end.0266	そうか……そうだな……。{n}まっすぐにそう言うお前が俺は好きだぞ。{wait}{clear}	I see... I suppose so... I like that you can{n}say that so plainly.{wait}{clear}	
 Raph_end.02AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.02BA	え！？　ミ、ミカエル様……！？{wait}{clear}		
+Raph_end.02BA	え！？　ミ、ミカエル様……！？{wait}{clear}	Huh?! L-Lord Michael...?!{wait}{clear}	
 Raph_end.02DC	ミカエル	Michael	speaker
-Raph_end.02E8	ははは……！{n}これからは、お前もこの天界にいるのだ。{n}また、いつでも話をしよう。{wait}{clear}ラファエルやガブリエルのところだけではなく、{n}俺のところにもたまには来てくれよ。{n}じゃあな。{wait}{clear}		
+Raph_end.02E8	ははは……！{n}これからは、お前もこの天界にいるのだ。{n}また、いつでも話をしよう。{wait}{clear}ラファエルやガブリエルのところだけではなく、{n}俺のところにもたまには来てくれよ。{n}じゃあな。{wait}{clear}	Hahaha...! From now on, you'll be here in{n}the Heavens too. Let's talk again anytime.{wait}{clear}Don't just visit Raphael and Gabriel. Come{n}see me once in a while too. See you.{wait}{clear}	
 Raph_end.03A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.03B2	あ、あの……ミカエル様っ！{wait}{clear}		
+Raph_end.03B2	あ、あの……ミカエル様っ！{wait}{clear}	Oh, um... Lord Michael!{wait}{clear}	
 Raph_end.03E4	ラファエル	Raphael	speaker
-Raph_end.03F2	ふふふ……すみませんね、＄＄＄＄＄＄。{n}ミカエルがどうしてもあなたに会いたいと言って、{n}ずっとここで待っていたのですよ。{wait}{clear}		
+Raph_end.03F2	ふふふ……すみませんね、＄＄＄＄＄＄。{n}ミカエルがどうしてもあなたに会いたいと言って、{n}ずっとここで待っていたのですよ。{wait}{clear}	Hehe... Forgive him, ＄＄＄＄＄＄. Michael{n}insisted that he had to see you, so he has{n}been waiting here all this time.{wait}{clear}	
 Raph_end.046E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.047E	ミカエル様に待っていていただけるなんて、{n}とてもうれしいです。{wait}{clear}		
+Raph_end.047E	ミカエル様に待っていていただけるなんて、{n}とてもうれしいです。{wait}{clear}	I'm very happy that Lord Michael would wait{n}for me.{wait}{clear}	
 Raph_end.04C0	ラファエル	Raphael	speaker
-Raph_end.04CE	そうですか……ありがとう、＄＄＄＄＄＄。{wait}{clear}そして、本当によくここまでやり遂げましたね。{n}これもあなたと勇者たちが信頼し合い、{n}すべての力を合わせたからでしょう。{wait}{clear}あなたが彼らの持つ可能性と、{n}運命に立ち向かう力を引き出したのです。{wait}{clear}そして、彼らを希望へと導くことができたからこそ、{n}アルカヤに平穏が訪れたのです。{wait}{clear}私からも心から礼を言わせてください。{n}ありがとう、＄＄＄＄＄＄。{wait}{clear}		
+Raph_end.04CE	そうですか……ありがとう、＄＄＄＄＄＄。{wait}{clear}そして、本当によくここまでやり遂げましたね。{n}これもあなたと勇者たちが信頼し合い、{n}すべての力を合わせたからでしょう。{wait}{clear}あなたが彼らの持つ可能性と、{n}運命に立ち向かう力を引き出したのです。{wait}{clear}そして、彼らを希望へと導くことができたからこそ、{n}アルカヤに平穏が訪れたのです。{wait}{clear}私からも心から礼を言わせてください。{n}ありがとう、＄＄＄＄＄＄。{wait}{clear}	I see... Thank you, ＄＄＄＄＄＄.{wait}{clear}And you truly saw it through to the end.{n}Surely it is because you and the heroes{n}trusted one another and joined all your{wait}{clear}strength together.{wait}{clear}You drew out their potential and their{n}strength to stand against fate.{wait}{clear}And it is because you could lead them toward{n}hope that peace has come to Arcaya.{wait}{clear}Let me thank you too, from the bottom of my{n}heart. Thank you, ＄＄＄＄＄＄.{wait}{clear}	
 Raph_end.0654	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0664	ラファエル様……。{wait}{clear}	Lord Raphael...{wait}{clear}	
 Raph_end.067A	ラファエル	Raphael	speaker
-Raph_end.0688	あなたは、これからは天界に戻って、{n}また新しいつとめを果たしてもらうことになります。{wait}{clear}あの勇者たちと会えなくなるのは{n}とても残念なことだと思いますが、{n}もう、アルカヤの地へは降りることができませんよ。{wait}{clear}		
+Raph_end.0688	あなたは、これからは天界に戻って、{n}また新しいつとめを果たしてもらうことになります。{wait}{clear}あの勇者たちと会えなくなるのは{n}とても残念なことだと思いますが、{n}もう、アルカヤの地へは降りることができませんよ。{wait}{clear}	From now on, you will return to the Heavens{n}and take up new duties.{wait}{clear}I am sure it is very sad not to see those{n}heroes again, but you can no longer descend{n}to the land of Arcaya.{wait}{clear}	
 Raph_end.0792	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.07A2	あの、すみません、ラファエル様、{n}その件についてですが……。{wait}{clear}		
+Raph_end.07A2	あの、すみません、ラファエル様、{n}その件についてですが……。{wait}{clear}	Um, excuse me, Lord Raphael, about that...{wait}{clear}	
 Raph_end.07E2	ラファエル	Raphael	speaker
-Raph_end.07F0	なんですか？　＄＄＄＄＄＄。{wait}{clear}		
+Raph_end.07F0	なんですか？　＄＄＄＄＄＄。{wait}{clear}	What is it, ＄＄＄＄＄＄?{wait}{clear}	
 Raph_end.0810	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0820	あの……。{wait}{clear}	Um...{wait}{clear}	
 Raph_end.082E	ＮＵＬＬ	NULL	speaker
-Raph_end.083E	《地上に降りたい。》{n}		
-Raph_end.085A	《いえ……。》{n}		
+Raph_end.083E	《地上に降りたい。》{n}	I want to go to the surface.{n}	
+Raph_end.085A	《いえ……。》{n}	No...{n}	
 Raph_end.0870	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0880	地上に……アルカヤに戻りたいのです。{n}そこで一人の人間としての生を全うしたいのです。{wait}{clear}……ある人とともに……。{wait}{clear}		
+Raph_end.0880	地上に……アルカヤに戻りたいのです。{n}そこで一人の人間としての生を全うしたいのです。{wait}{clear}……ある人とともに……。{wait}{clear}	I want to go back to the surface... to{n}Arcaya. I want to live out my life there as{n}a human being.{wait}{clear}...Together with someone...{wait}{clear}	
 Raph_end.08F4	ラファエル	Raphael	speaker
-Raph_end.0902	…………。{wait}{clear}地上界へ降りた天使は、{n}その決断に悩むものです……。{n}やはり、あなたもその道を選ぶのですか……。{wait}{clear}		
+Raph_end.0902	…………。{wait}{clear}地上界へ降りた天使は、{n}その決断に悩むものです……。{n}やはり、あなたもその道を選ぶのですか……。{wait}{clear}	......{wait}{clear}Angels who descend to the world below are{n}troubled by that decision... So you, too,{n}choose that path...{wait}{clear}	
 Raph_end.0974	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0984	お願いします、ラファエル様！{wait}{clear}		
+Raph_end.0984	お願いします、ラファエル様！{wait}{clear}	Please, Lord Raphael!{wait}{clear}	
 Raph_end.09A4	ラファエル	Raphael	speaker
-Raph_end.09B2	わかりました……。{n}アルカヤで生きることを許しましょう。{wait}{clear}ただ、忘れないでください。{n}人間となる以上あの血も受け継ぐということを……。{n}それは、とてもつらいことですよ。{wait}{clear}		
+Raph_end.09B2	わかりました……。{n}アルカヤで生きることを許しましょう。{wait}{clear}ただ、忘れないでください。{n}人間となる以上あの血も受け継ぐということを……。{n}それは、とてもつらいことですよ。{wait}{clear}	Very well... I will allow you to live in{n}Arcaya.{wait}{clear}But do not forget: becoming human means you{n}will inherit that blood as well... It is a{n}very painful thing.{wait}{clear}	
 Raph_end.0A60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0A70	はい……わかっています。{n}私は決してあの血に屈服したりしません。{wait}{clear}		
+Raph_end.0A70	はい……わかっています。{n}私は決してあの血に屈服したりしません。{wait}{clear}	Yes... I understand. I will never give in to{n}that blood.{wait}{clear}	
 Raph_end.0AB4	ラファエル	Raphael	speaker
-Raph_end.0AC2	そうですね……。{n}あなたなら、きっと大丈夫でしょう。{wait}{clear}＄＄＄＄＄＄……{n}どうか、その純白の翼とともに、{n}あなたの大切なものまで、なくさないように……。{wait}{clear}		
+Raph_end.0AC2	そうですね……。{n}あなたなら、きっと大丈夫でしょう。{wait}{clear}＄＄＄＄＄＄……{n}どうか、その純白の翼とともに、{n}あなたの大切なものまで、なくさないように……。{wait}{clear}	Indeed... I am sure you will be all right.{wait}{clear}＄＄＄＄＄＄... Along with your pure white{n}wings, please do not lose what is precious{n}to you as well...{wait}{clear}	
 Raph_end.0B5E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0B6E	はい……。{n}ありがとうございました、ラファエル様。{wait}{clear}		
+Raph_end.0B6E	はい……。{n}ありがとうございました、ラファエル様。{wait}{clear}	Yes... Thank you very much, Lord Raphael.{wait}{clear}	
 Raph_end.0BA4	ラファエル	Raphael	speaker
-Raph_end.0BB2	さあ、アルカヤへ行く前に、{n}会っていかなければならない子たちがいますよ。{wait}{clear}		
+Raph_end.0BB2	さあ、アルカヤへ行く前に、{n}会っていかなければならない子たちがいますよ。{wait}{clear}	Now, before you go to Arcaya, there are some{n}little ones you must see.{wait}{clear}	
 Raph_end.0C56	ローザ	Rosa	speaker
-Raph_end.0C64	人間として地上で生きられることに決めたのですね。{wait}{clear}		
-Raph_end.0C9C	お会いできなくなると思うと、{n}少しさびしいですが……。{wait}{clear}		
-Raph_end.0CDA	天使様がお決めになったことですからね、{n}私はお見送りするだけです。{wait}{clear}		
-Raph_end.0D24	いつまでも{n}そのお優しい心を忘れずにいてくださいね。{n}お元気で……。{wait}{clear}		
+Raph_end.0C64	人間として地上で生きられることに決めたのですね。{wait}{clear}	So you have decided to live on the surface{n}as a human.{wait}{clear}	
+Raph_end.0C9C	お会いできなくなると思うと、{n}少しさびしいですが……。{wait}{clear}	I am a little lonely, thinking I will not{n}see you again...{wait}{clear}	
+Raph_end.0CDA	天使様がお決めになったことですからね、{n}私はお見送りするだけです。{wait}{clear}	But it is your decision, Angel, so all I can{n}do is see you off.{wait}{clear}	
+Raph_end.0D24	いつまでも{n}そのお優しい心を忘れずにいてくださいね。{n}お元気で……。{wait}{clear}	Please never forget that kind heart of{n}yours. Farewell...{wait}{clear}	
 Raph_end.0D88	フロリンダ	Florinda	speaker
-Raph_end.0D9A	天使様ぁ、地上に降りちゃうんですか？{n}とっても、さびしくなっちゃいます……。{wait}{clear}		
-Raph_end.0DEE	でも、でも、天使様、決めちゃったんですよね……？{wait}{clear}		
-Raph_end.0E26	だったら、天使様が地上でも幸せになるように{n}ずっと、ずっと祈ってます。{wait}{clear}		
-Raph_end.0E74	あと、フロリンたちのこと、{n}絶対に忘れないでくださいね！{wait}{clear}		
+Raph_end.0D9A	天使様ぁ、地上に降りちゃうんですか？{n}とっても、さびしくなっちゃいます……。{wait}{clear}	Angeeel, you're going down to the surface?{n}Florin's gonna be super lonely...{wait}{clear}	
+Raph_end.0DEE	でも、でも、天使様、決めちゃったんですよね……？{wait}{clear}	But, but, you already decided, right,{n}Angel...?{wait}{clear}	
+Raph_end.0E26	だったら、天使様が地上でも幸せになるように{n}ずっと、ずっと祈ってます。{wait}{clear}	Then Florin will pray forever and ever that{n}you'll be happy down there, Angel.{wait}{clear}	
+Raph_end.0E74	あと、フロリンたちのこと、{n}絶対に忘れないでくださいね！{wait}{clear}	And don't you ever forget Florin and{n}everybody, okay?!{wait}{clear}	
 Raph_end.0ECC	シェリー	Shelly	speaker
-Raph_end.0EDC	天使様、人間になるなんて、{n}大変な道を選んだんですね……。{wait}{clear}		
-Raph_end.0F1E	でも、天使様なら、きっと大丈夫ですよね？{n}私はそう信じてます！{wait}{clear}		
-Raph_end.0F64	もうお会いすることもできなくなっちゃうんで、{n}さびしいですけど{n}天使様のことずっと応援してます。{wait}{clear}		
-Raph_end.0FCC	がんばってくださいね！{wait}{clear}		
+Raph_end.0EDC	天使様、人間になるなんて、{n}大変な道を選んだんですね……。{wait}{clear}	Angel, becoming human... You've chosen a{n}hard road...{wait}{clear}	
+Raph_end.0F1E	でも、天使様なら、きっと大丈夫ですよね？{n}私はそう信じてます！{wait}{clear}	But you'll be fine, Angel, won't you? I{n}believe it!{wait}{clear}	
+Raph_end.0F64	もうお会いすることもできなくなっちゃうんで、{n}さびしいですけど{n}天使様のことずっと応援してます。{wait}{clear}	I won't get to see you anymore, so I'll be{n}lonely, but I'll always be cheering for you,{n}Angel.{wait}{clear}	
+Raph_end.0FCC	がんばってくださいね！{wait}{clear}	Good luck!{wait}{clear}	
 Raph_end.1002	リリィ	Lily	speaker
-Raph_end.1010	……そうですか。{n}人間として地上で生きられることに決めたのですね。{wait}{clear}		
-Raph_end.105A	お会いできなくなるのは、{n}とてもさびしいですが……。{wait}{clear}		
-Raph_end.1096	今までの天使様のお心を忘れずに、{n}がんばってください。{wait}{clear}		
-Raph_end.10D4	それから……{n}私たちのことも忘れないでくださいね。{wait}{clear}		
+Raph_end.1010	……そうですか。{n}人間として地上で生きられることに決めたのですね。{wait}{clear}	...I see. So you have decided to live on the{n}surface as a human.{wait}{clear}	
+Raph_end.105A	お会いできなくなるのは、{n}とてもさびしいですが……。{wait}{clear}	It's very lonely not getting to see you{n}anymore, but...{wait}{clear}	
+Raph_end.1096	今までの天使様のお心を忘れずに、{n}がんばってください。{wait}{clear}	Please don't forget the heart you've had all{n}this time, Angel, and do your best.{wait}{clear}	
+Raph_end.10D4	それから……{n}私たちのことも忘れないでくださいね。{wait}{clear}	And... please don't forget us, either.{wait}{clear}	
 Raph_end.1126	リンクス	Lynx	speaker
-Raph_end.1136	え？　天使様、人間になるんですか？{wait}{clear}		
-Raph_end.1160	そんなぁ、人間の方がすっごく大変だと思うけど……{n}いいんですか？{wait}{clear}		
-Raph_end.11A8	でも、天使様、決めちゃったんですよね……う～ん。{wait}{clear}		
-Raph_end.11E0	会えなくなっちゃうから、さびしいなぁ。{wait}{clear}		
-Raph_end.120E	人間になっても、ボクのこと忘れないでね！{wait}{clear}		
+Raph_end.1136	え？　天使様、人間になるんですか？{wait}{clear}	Huh? Angel, you're becoming human?{wait}{clear}	
+Raph_end.1160	そんなぁ、人間の方がすっごく大変だと思うけど……{n}いいんですか？{wait}{clear}	No way, I think being human is way harder...{n}Are you sure?{wait}{clear}	
+Raph_end.11A8	でも、天使様、決めちゃったんですよね……う～ん。{wait}{clear}	But you already decided, right, Angel...{n}Hmmm.{wait}{clear}	
+Raph_end.11E0	会えなくなっちゃうから、さびしいなぁ。{wait}{clear}	I won't get to see you anymore, so I'll be{n}lonely.{wait}{clear}	
+Raph_end.120E	人間になっても、ボクのこと忘れないでね！{wait}{clear}	Even after you're human, don't forget me,{n}okay?!{wait}{clear}	
 Raph_end.1256	アクイラ	Aquila	speaker
-Raph_end.1266	あの……天使様、{n}人間になられるって本当ですか？{wait}{clear}		
-Raph_end.129E	いいんですか？{n}人間の方が大変だと思うんですけど……。{wait}{clear}		
-Raph_end.12DC	あ、あ、でも、天使様ですから、{n}きっと大丈夫ですよね？{wait}{clear}		
-Raph_end.131A	あの、私、祈ってますね……{n}天使様がいつまでもお元気で暮らせるように……。{wait}{clear}		
+Raph_end.1266	あの……天使様、{n}人間になられるって本当ですか？{wait}{clear}	Um... Angel, is it true you're becoming{n}human?{wait}{clear}	
+Raph_end.129E	いいんですか？{n}人間の方が大変だと思うんですけど……。{wait}{clear}	Are you sure? I think being human is{n}harder...{wait}{clear}	
+Raph_end.12DC	あ、あ、でも、天使様ですから、{n}きっと大丈夫ですよね？{wait}{clear}	Oh, oh, but you're the Angel, so I'm sure{n}you'll be fine, right?{wait}{clear}	
+Raph_end.131A	あの、私、祈ってますね……{n}天使様がいつまでもお元気で暮らせるように……。{wait}{clear}	Um, I'll pray... that you'll always live in{n}good health, Angel...{wait}{clear}	
 Raph_end.1384	シータス	Cetus	speaker
-Raph_end.1394	人間として、{n}地上で生きることに決めたんですか？{wait}{clear}		
-Raph_end.13CC	天使様らしいといえば、{n}天使様らしい選択ですが……。{wait}{clear}		
-Raph_end.1408	そうですね……{n}いつまでもその優しい心を忘れずにいてください。{wait}{clear}		
-Raph_end.144E	会えなくなるのは残念ですが、お元気で。{wait}{clear}		
+Raph_end.1394	人間として、{n}地上で生きることに決めたんですか？{wait}{clear}	You've decided to live on the surface as a{n}human?{wait}{clear}	
+Raph_end.13CC	天使様らしいといえば、{n}天使様らしい選択ですが……。{wait}{clear}	I suppose it's a very you choice, Angel...{wait}{clear}	
+Raph_end.1408	そうですね……{n}いつまでもその優しい心を忘れずにいてください。{wait}{clear}	Well... please never forget that kind heart{n}of yours.{wait}{clear}	
+Raph_end.144E	会えなくなるのは残念ですが、お元気で。{wait}{clear}	It's a shame I won't see you again, but take{n}care.{wait}{clear}	
 Raph_end.1494	レーパス	Lepus	speaker
-Raph_end.14A4	天使様が人間として生きる道をお選びになるとは{n}思いませんでした。{wait}{clear}		
-Raph_end.14EC	でも、お考えがあってのことと思います。{wait}{clear}		
-Raph_end.151A	これから、ご苦労も多いかと思いますが、{n}きっと乗り越えていかれると信じています。{wait}{clear}		
-Raph_end.1572	いつまでもお元気で、がんばってくださいね。{wait}{clear}		
+Raph_end.14A4	天使様が人間として生きる道をお選びになるとは{n}思いませんでした。{wait}{clear}	I never thought you would choose the path of{n}living as a human, Angel.{wait}{clear}	
+Raph_end.14EC	でも、お考えがあってのことと思います。{wait}{clear}	But I am sure you have your reasons.{wait}{clear}	
+Raph_end.151A	これから、ご苦労も多いかと思いますが、{n}きっと乗り越えていかれると信じています。{wait}{clear}	I expect you will face many hardships from{n}now on, but I believe you will surely{n}overcome them.{wait}{clear}	
+Raph_end.1572	いつまでもお元気で、がんばってくださいね。{wait}{clear}	Please stay well always, and do your best.{wait}{clear}	
 Raph_end.15A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.15B8	……ありがとう……。{wait}{clear}		
+Raph_end.15B8	……ありがとう……。{wait}{clear}	...Thank you...{wait}{clear}	
 Raph_end.15DE	ラファエル	Raphael	speaker
-Raph_end.15EC	では、気をつけておいきなさい。{n}誰かのために生きるという決意も、{n}とても大切な想いです……。{wait}{clear}		
+Raph_end.15EC	では、気をつけておいきなさい。{n}誰かのために生きるという決意も、{n}とても大切な想いです……。{wait}{clear}	Then go, and take care. The resolve to live{n}for someone else is also a most precious{n}feeling...{wait}{clear}	
 Raph_end.164C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.165C	はい……。{n}本当にありがとうございます……ラファエル様。{wait}{clear}		
+Raph_end.165C	はい……。{n}本当にありがとうございます……ラファエル様。{wait}{clear}	Yes... Thank you so much... Lord Raphael.{wait}{clear}	
 Raph_end.16A8	ラファエル	Raphael	speaker
-Raph_end.16BA	お別れですね、我が愛しい弟よ。{wait}{clear}		
+Raph_end.16BA	お別れですね、我が愛しい弟よ。{wait}{clear}	So this is farewell, my beloved brother.{wait}{clear}	
 Raph_end.16E0	ラファエル	Raphael	speaker
-Raph_end.16F2	お別れですね、我が愛しい妹よ。{wait}{clear}		
+Raph_end.16F2	お別れですね、我が愛しい妹よ。{wait}{clear}	So this is farewell, my beloved sister.{wait}{clear}	
 Raph_end.1718	ラファエル	Raphael	speaker
-Raph_end.172A	慈しみは永久に……。{wait}{clear}		
+Raph_end.172A	慈しみは永久に……。{wait}{clear}	May grace be with you forever...{wait}{clear}	
 Raph_end.1818	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.1828	いえ……なんでもありません……。{wait}{clear}		
+Raph_end.1828	いえ……なんでもありません……。{wait}{clear}	No... it's nothing...{wait}{clear}	
 Raph_end.184C	ラファエル	Raphael	speaker
-Raph_end.185A	＄＄＄＄＄＄……。{n}本当にいいのですね？{wait}{clear}		
+Raph_end.185A	＄＄＄＄＄＄……。{n}本当にいいのですね？{wait}{clear}	＄＄＄＄＄＄... Are you truly sure?{wait}{clear}	
 Raph_end.1886	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.1896	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Raph_end.18A4	ラファエル	Raphael	speaker
-Raph_end.18B2	さあ、妖精もあなたに会いたがっていますよ。{wait}{clear}		
+Raph_end.18B2	さあ、妖精もあなたに会いたがっていますよ。{wait}{clear}	Now, the fairies want to see you too.{wait}{clear}	
 Raph_end.1938	ローザ	Rosa	speaker
-Raph_end.1946	地上界でのお仕事、本当にお疲れさまでした。{wait}{clear}		
-Raph_end.1978	これからは、また天界での生活に戻られるのですね。{wait}{clear}		
-Raph_end.19B0	天使様と一緒にお仕事できたこと、{n}私、誇りに思っています。{wait}{clear}		
-Raph_end.19F2	これからも、いつまでもお元気で、{n}がんばってくださいね。{wait}{clear}		
+Raph_end.1946	地上界でのお仕事、本当にお疲れさまでした。{wait}{clear}	Thank you for all your hard work in the{n}world below.{wait}{clear}	
+Raph_end.1978	これからは、また天界での生活に戻られるのですね。{wait}{clear}	From now on, you will return to life in the{n}Heavens, then.{wait}{clear}	
+Raph_end.19B0	天使様と一緒にお仕事できたこと、{n}私、誇りに思っています。{wait}{clear}	I am proud to have worked with you, Angel.{wait}{clear}	
+Raph_end.19F2	これからも、いつまでもお元気で、{n}がんばってくださいね。{wait}{clear}	Please stay well always, and keep up your{n}good work.{wait}{clear}	
 Raph_end.1A4A	フロリンダ	Florinda	speaker
-Raph_end.1A5C	天界でのお仕事に戻るんですね？{wait}{clear}		
-Raph_end.1A82	天使様、地上界では、{n}すーっごく一生懸命だったらか、{n}天界では少しのんびりできるといいですね。{wait}{clear}		
-Raph_end.1AE8	それと……フロリン、{n}天使様に会いに行ってもいいですか？{n}お仕事の邪魔しないようにしますから！{wait}{clear}		
-Raph_end.1B4E	天使様、本当にお疲れさまでした！{wait}{clear}		
+Raph_end.1A5C	天界でのお仕事に戻るんですね？{wait}{clear}	You're going back to work in the Heavens?{wait}{clear}	
+Raph_end.1A82	天使様、地上界では、{n}すーっごく一生懸命だったらか、{n}天界では少しのんびりできるといいですね。{wait}{clear}	Angel, you worked suuuper hard down there,{n}so Florin hopes you can relax a little in{n}the Heavens!{wait}{clear}	
+Raph_end.1AE8	それと……フロリン、{n}天使様に会いに行ってもいいですか？{n}お仕事の邪魔しないようにしますから！{wait}{clear}	And also... can Florin come visit you,{n}Angel? Florin promises not to get in the way{n}of your work!{wait}{clear}	
+Raph_end.1B4E	天使様、本当にお疲れさまでした！{wait}{clear}	Angel, thank you super much for all your{n}hard work!{wait}{clear}	
 Raph_end.1B8E	シェリー	Shelly	speaker
-Raph_end.1B9E	天使様、天界のお仕事に戻られるんですね？{wait}{clear}		
-Raph_end.1BCE	地上界では、本当にお疲れさまでした！{n}少しはのんびりしようと思ってます？{wait}{clear}		
-Raph_end.1C1E	えへへへ、そうですよね。{n}ゆっくり休んで、またがんばってくださいね！{wait}{clear}		
+Raph_end.1B9E	天使様、天界のお仕事に戻られるんですね？{wait}{clear}	Angel, you're going back to your work in the{n}Heavens?{wait}{clear}	
+Raph_end.1BCE	地上界では、本当にお疲れさまでした！{n}少しはのんびりしようと思ってます？{wait}{clear}	Thank you so much for all your hard work{n}down there! Are you planning to take it easy{n}for a bit?{wait}{clear}	
+Raph_end.1C1E	えへへへ、そうですよね。{n}ゆっくり休んで、またがんばってくださいね！{wait}{clear}	Ehehe, of course you are. Get plenty of{n}rest, and then keep up the good work!{wait}{clear}	
 Raph_end.1C82	リリィ	Lily	speaker
-Raph_end.1C90	地上界でのお仕事、本当にお疲れさまでした。{wait}{clear}		
-Raph_end.1CC2	これから、天界に戻られるんですね。{wait}{clear}		
-Raph_end.1CEC	私、天使様のサポートができたことを、{n}誇りに思います。{wait}{clear}		
-Raph_end.1D2A	これからも、ますますご活躍くださいね！{wait}{clear}		
+Raph_end.1C90	地上界でのお仕事、本当にお疲れさまでした。{wait}{clear}	Thank you for all your hard work in the{n}world below.{wait}{clear}	
+Raph_end.1CC2	これから、天界に戻られるんですね。{wait}{clear}	So you'll be returning to the Heavens now.{wait}{clear}	
+Raph_end.1CEC	私、天使様のサポートができたことを、{n}誇りに思います。{wait}{clear}	I'm proud that I could support you, Angel.{wait}{clear}	
+Raph_end.1D2A	これからも、ますますご活躍くださいね！{wait}{clear}	I wish you even greater success from now on!{wait}{clear}	
 Raph_end.1D70	リンクス	Lynx	speaker
-Raph_end.1D80	天使様、お疲れさまでした！{wait}{clear}		
-Raph_end.1DA2	地上界って、大変なとこだったけど、{n}天使様と一緒にお仕事できて、{n}ボク、楽しかったです！{wait}{clear}		
-Raph_end.1E02	天界のお仕事も大変だと思うけど、{n}たまには、ボクと遊んでね！{wait}{clear}		
+Raph_end.1D80	天使様、お疲れさまでした！{wait}{clear}	Angel, great work!{wait}{clear}	
+Raph_end.1DA2	地上界って、大変なとこだったけど、{n}天使様と一緒にお仕事できて、{n}ボク、楽しかったです！{wait}{clear}	The world below was a tough place, but{n}working with you was fun, Angel!{wait}{clear}	
+Raph_end.1E02	天界のお仕事も大変だと思うけど、{n}たまには、ボクと遊んでね！{wait}{clear}	I bet work in the Heavens is tough too, but{n}play with me once in a while, okay?!{wait}{clear}	
 Raph_end.1E5E	アクイラ	Aquila	speaker
-Raph_end.1E6E	天使様、地上界でのお仕事、お疲れさまでした。{wait}{clear}		
-Raph_end.1EA2	また天界での生活に戻られるんですね。{n}あの、天使様？{wait}{clear}		
-Raph_end.1EDE	私、一緒にお仕事できて、本当によかったです。{n}これからもお元気でがんばってくださいね。{wait}{clear}		
+Raph_end.1E6E	天使様、地上界でのお仕事、お疲れさまでした。{wait}{clear}	Angel, thank you for your hard work in the{n}world below.{wait}{clear}	
+Raph_end.1EA2	また天界での生活に戻られるんですね。{n}あの、天使様？{wait}{clear}	You're going back to life in the Heavens{n}again, then. Um, Angel?{wait}{clear}	
+Raph_end.1EDE	私、一緒にお仕事できて、本当によかったです。{n}これからもお元気でがんばってくださいね。{wait}{clear}	I'm really glad I got to work with you.{n}Please stay well and keep doing your best.{wait}{clear}	
 Raph_end.1F54	シータス	Cetus	speaker
-Raph_end.1F64	地上界での仕事、お疲れさまでした。{wait}{clear}		
-Raph_end.1F8E	これからは、また天界での生活に戻られるんですね。{wait}{clear}		
-Raph_end.1FC6	オレ、天使様と一緒に仕事できたこと、{n}誇りに思ってます。{wait}{clear}		
-Raph_end.2006	これからも、いつまでもお元気で、{n}がんばってください！{wait}{clear}		
+Raph_end.1F64	地上界での仕事、お疲れさまでした。{wait}{clear}	Thanks for all your hard work in the world{n}below.{wait}{clear}	
+Raph_end.1F8E	これからは、また天界での生活に戻られるんですね。{wait}{clear}	So from now on, you'll be going back to life{n}in the Heavens.{wait}{clear}	
+Raph_end.1FC6	オレ、天使様と一緒に仕事できたこと、{n}誇りに思ってます。{wait}{clear}	I'm proud I got to work with you, Angel.{wait}{clear}	
+Raph_end.2006	これからも、いつまでもお元気で、{n}がんばってください！{wait}{clear}	Stay well always, and keep at it!{wait}{clear}	
 Raph_end.205C	レーパス	Lepus	speaker
-Raph_end.206C	地上界でのお仕事、お疲れさまでした。{wait}{clear}		
-Raph_end.2098	これからは、また天界での生活に戻られるのですね。{wait}{clear}		
-Raph_end.20D0	私、天使様とご一緒できたこと、{n}誇りに思います。{wait}{clear}		
-Raph_end.2108	これからも、私でお役に立てるなら、{n}いつでも呼んでください。{wait}{clear}		
-Raph_end.214C	ティタニア様には内緒で飛んできますから。{wait}{clear}		
+Raph_end.206C	地上界でのお仕事、お疲れさまでした。{wait}{clear}	Thank you for your hard work in the world{n}below.{wait}{clear}	
+Raph_end.2098	これからは、また天界での生活に戻られるのですね。{wait}{clear}	From now on, you will return to life in the{n}Heavens, then.{wait}{clear}	
+Raph_end.20D0	私、天使様とご一緒できたこと、{n}誇りに思います。{wait}{clear}	I am proud to have been at your side, Angel.{wait}{clear}	
+Raph_end.2108	これからも、私でお役に立てるなら、{n}いつでも呼んでください。{wait}{clear}	If I can ever be of help to you again,{n}please call me anytime.{wait}{clear}	
+Raph_end.214C	ティタニア様には内緒で飛んできますから。{wait}{clear}	I will fly to you without telling{n}Titania-sama.{wait}{clear}	
 Raph_end.2180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.2190	……ありがとう……。{wait}{clear}		
+Raph_end.2190	……ありがとう……。{wait}{clear}	...Thank you...{wait}{clear}	
 Raph_end.21BA	ラファエル	Raphael	speaker
-Raph_end.21C8	あなたは、みんなに好かれているのですね。{wait}{clear}その心を忘れることがなければ、{n}あなたを必要としている者のところへ{n}また、いつか訪れることになるでしょう……。{wait}{clear}		
+Raph_end.21C8	あなたは、みんなに好かれているのですね。{wait}{clear}その心を忘れることがなければ、{n}あなたを必要としている者のところへ{n}また、いつか訪れることになるでしょう……。{wait}{clear}	Everyone is fond of you, it seems.{wait}{clear}As long as you never forget that heart,{n}someday you will again visit those who need{n}you...{wait}{clear}	
 Raph_end.2266	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.2276	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Raph_end.2284	ラファエル	Raphael	speaker
-Raph_end.2292	これからも、あなたの純白の翼とともに、{n}人と世界を見守ってゆきましょう……。{wait}{clear}		
+Raph_end.2292	これからも、あなたの純白の翼とともに、{n}人と世界を見守ってゆきましょう……。{wait}{clear}	From now on as well, let us watch over{n}people and their worlds, together with your{n}pure white wings...{wait}{clear}	
 Raph_end.22E2	ラファエル	Raphael	speaker
-Raph_end.22F4	慈しみは永久に……。{wait}{clear}		
+Raph_end.22F4	慈しみは永久に……。{wait}{clear}	May grace be with you forever...{wait}{clear}	

@@ -2,27 +2,27 @@ id	jp	en	notes
 men2_Cl02.0052	クライヴ	Clive	speaker
 men2_Cl02.005E	すまない……呼び出して。{wait}{clear}	Sorry... for calling you out.{wait}{clear}	
 men2_Cl02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.008A	いいえ……それはかまいません……。{n}クライヴが呼んでくれたのですから……。{wait}{clear}なにかお話があるのでしょう？{wait}{clear}		
+men2_Cl02.008A	いいえ……それはかまいません……。{n}クライヴが呼んでくれたのですから……。{wait}{clear}なにかお話があるのでしょう？{wait}{clear}	No... I don't mind at all... You called me,{n}Clive, after all...{wait}{clear}You have something to talk about, don't you?{wait}{clear}	
 men2_Cl02.00F8	クライヴ	Clive	speaker
-men2_Cl02.0104	ああ……{n}たいした話じゃないんだが……{n}少しいいか？{wait}{clear}		
+men2_Cl02.0104	ああ……{n}たいした話じゃないんだが……{n}少しいいか？{wait}{clear}	Yeah... It's nothing much, but... do you{n}have a moment?{wait}{clear}	
 men2_Cl02.013C	ＮＵＬＬ	NULL	speaker
-men2_Cl02.014C	《ええ、私でよければ……。》{n}		
-men2_Cl02.0170	《悩み事でもあるのですか？》{n}		
+men2_Cl02.014C	《ええ、私でよければ……。》{n}	Yes, if I'll do...{n}	
+men2_Cl02.0170	《悩み事でもあるのですか？》{n}	Is something troubling you?{n}	
 men2_Cl02.0194	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.01A4	ええ、私でよければ……。{wait}{clear}		
+men2_Cl02.01A4	ええ、私でよければ……。{wait}{clear}	Yes, if I'll do...{wait}{clear}	
 men2_Cl02.01CC	クライヴ	Clive	speaker
-men2_Cl02.01D8	そうか……。{n}忙しいと思うが、つきあってもらってもいいか？{wait}{clear}		
+men2_Cl02.01D8	そうか……。{n}忙しいと思うが、つきあってもらってもいいか？{wait}{clear}	I see... I know you're busy, but would you{n}keep me company?{wait}{clear}	
 men2_Cl02.0216	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.0226	ええ、よろこんで。{n}クライヴとこうして会えるのは、{n}私もうれしいですから。{wait}{clear}		
+men2_Cl02.0226	ええ、よろこんで。{n}クライヴとこうして会えるのは、{n}私もうれしいですから。{wait}{clear}	Yes, gladly. I'm happy to get to see you{n}like this too, Clive.{wait}{clear}	
 men2_Cl02.0274	クライヴ	Clive	speaker
 men2_Cl02.0280	そうか……。{wait}{clear}	I see...{wait}{clear}	
 men2_Cl02.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.02A4	なにか悩み事でもあるのですか？{wait}{clear}		
+men2_Cl02.02A4	なにか悩み事でもあるのですか？{wait}{clear}	Is something troubling you?{wait}{clear}	
 men2_Cl02.02C6	クライヴ	Clive	speaker
-men2_Cl02.02D2	いや、そんなことはない。{wait}{clear}ただ……他愛もない話をしようと……。{wait}{clear}		
+men2_Cl02.02D2	いや、そんなことはない。{wait}{clear}ただ……他愛もない話をしようと……。{wait}{clear}	No, nothing like that.{wait}{clear}I just... thought we could talk about{n}nothing much...{wait}{clear}	
 men2_Cl02.0316	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.0326	そうですか……。{n}すみません、よけいなことを考えてしまって。{wait}{clear}		
+men2_Cl02.0326	そうですか……。{n}すみません、よけいなことを考えてしまって。{wait}{clear}	I see... I'm sorry, I was overthinking{n}things.{wait}{clear}	
 men2_Cl02.0366	クライヴ	Clive	speaker
-men2_Cl02.0372	いや……べつに、それは気にしていない。{wait}{clear}つきあってもらえるか？{wait}{clear}		
+men2_Cl02.0372	いや……べつに、それは気にしていない。{wait}{clear}つきあってもらえるか？{wait}{clear}	No... I don't mind that at all.{wait}{clear}Will you keep me company?{wait}{clear}	
 men2_Cl02.03B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl02.03C6	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	

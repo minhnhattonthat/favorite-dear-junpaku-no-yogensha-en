@@ -1,0 +1,56 @@
+men3_Ro01.01F2	Yeah, that's right. Think it'll be of any use?{wait}{clear}
+men3_Ro01.02F8	Precepts? Geez, being an angel sure is a hassle.{wait}{clear}
+men3_Ro01.033A	I'm truly sorry...{wait}{clear}
+men3_Ro02.00E2	Nah, nothing in particular. I just wanted to give you this saint's robe.{wait}{clear}Will you take it?{wait}{clear}
+men3_Ro02.01AA	Thank you very much. Is this what the people of the church wear?{wait}{clear}
+men3_Ro03.00E2	Nah, nothing in particular. I just wanted to give you this vintage wine.{wait}{clear}Will you take it?{wait}{clear}
+men3_Ro03.01AC	Thank you very much. But where is this wine from?{wait}{clear}
+men3_Ro03.01F8	Oh, this is what everybody drinks in Ecclesia. It tastes pretty good, too.{wait}{clear}So? Think it'll be of any use?{wait}{clear}
+men3_Ro04.00E2	Nah, nothing in particular. I just wanted to give you these tarot cards.{wait}{clear}Will you take them?{wait}{clear}
+men3_Ro04.01AA	Thank you very much. Um, what are these cards used for?{wait}{clear}
+men3_Ro04.0206	These? Apparently they're used for fortune-telling. I don't really get it myself, though...{wait}{clear}
+men3_Ro04.0262	Think even something like this will be of any use?{wait}{clear}
+men3_Ro05.00E2	Nah, nothing in particular. I just wanted to give you this gold medallion.{wait}{clear}Will you take it?{wait}{clear}
+men3_Ro05.01AA	Thank you very much. This is a charm, isn't it?{wait}{clear}
+men3_Ro05.01F0	Yeah, that's right. Apparently the faithful who make pilgrimages to the cathedral love them.{wait}{clear}
+men3_Ro05.0252	Will even something like this be of any use?{wait}{clear}
+menX_Ce01.0068	Angel... I'm sorry... Could you leave me alone...?{wait}{clear}
+menX_Ce01.0114	I'm sorry, please leave me alone...{wait}{clear}
+menX_Ce01.0152	I think I understand your position, Angel. But please, I beg you, leave me alone for now.{wait}{clear}
+menX_Ce01.01CA	Accompany Cecia?{n}
+menX_Ce01.01E6	  Yes{n}
+menX_Ce01.01F8	  No
+menX_Cl01.006A	Leave me be...{wait}{clear}
+menX_Cl01.00BE	That's enough...! Don't you understand when I tell you to go back?!{wait}{clear}
+menX_Cl01.0108	Go back...!{wait}{clear}
+menX_Cl01.0126	Accompany Clive?{n}
+menX_ei01.006C	I don't want to see anyone... Go away...{wait}{clear}
+menX_ei01.00E8	I told you I don't want to see anyone! Stay away!{wait}{clear}
+menX_ei01.0134	＄＄＄＄＄＄... Please, just leave me alone...{wait}{clear}
+menX_ei01.0180	Accompany Irene?{n}
+menX_fe01.006A	I don't want to talk right now... Please go back.{wait}{clear}
+menX_fe01.00EE	You're persistent... Leave me be.{wait}{clear}
+menX_fe01.0132	I understand your position, but... leave me be for now.{wait}{clear}
+menX_fe01.017E	Accompany Fein?{n}
+menX_la01.0068	＄＄＄＄＄＄... I don't want to see anyone right now... Go back...{wait}{clear}
+menX_la01.010C	Sorry, but leave me alone...{wait}{clear}
+menX_la01.0140	＄＄＄＄＄＄... I understand your position, but please, leave me alone...{wait}{clear}
+menX_la01.01A8	Accompany Leyla?{n}
+menX_lo01.006E	Sorry, but could you go back? I've got my hands full with something else right now.{wait}{clear}
+menX_lo01.00BC	Sorry, but could you go back? I don't have time to deal with you, ＄＄＄＄＄＄.{wait}{clear}
+menX_lo01.0120	You're persistent... Just leave me be, okay?{wait}{clear}
+menX_lo01.0164	I know how you feel, ＄＄＄＄＄＄, but... could you just let me do what I want?{wait}{clear}Sorry...{wait}{clear}
+menX_lo01.01D8	Accompany Rudi?{n}
+menX_ro01.0068	I don't know what you came for, but go back. I don't want to see anyone right now.{wait}{clear}
+menX_ro01.011C	You're persistent! I told you to leave me alone!!{wait}{clear}
+menX_ro01.015E	Sorry, but... could you just leave me be? Everybody wants to be alone sometimes, right?{wait}{clear}Go back...{wait}{clear}
+menX_ro01.01E4	Accompany Rocus?{n}
+prologue.0084	Welcome, ＄＄＄＄＄＄.{wait}{clear}
+prologue.00A8	I have called you here today to give you a new mission.{wait}{clear}
+prologue.00EA	I want you to investigate the cause of the turmoil in a certain world below.{wait}{clear}
+prologue.012C	We sense a most wicked shadow behind it.{wait}{clear}
+prologue.0164	What it truly is may herald a great calamity for the Heavens.{wait}{clear}
+prologue.01A8	Among the many worlds the Heavens can reach, a great many harbor similar seeds of turmoil.{wait}{clear}
+prologue.020A	However, we cannot know everything the fallen angels do.{wait}{clear}
+prologue.0252	And so I want you to descend to the surface yourself and find the true reason for the turmoil.{wait}{clear}
+prologue.02AC	Protecting the world from turmoil and ruin is, of course, also an important part of your mission.{wait}{clear}

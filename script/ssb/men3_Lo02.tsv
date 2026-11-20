@@ -4,23 +4,23 @@ men3_Lo02.006C	よう、＄＄＄＄＄＄。{wait}{clear}	Hey, ＄＄＄＄＄�
 men3_Lo02.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo02.0094	どうしたのですか、ルディ？{wait}{clear}	What is it, Rudi?{wait}{clear}	
 men3_Lo02.00B2	ルディエール	Rudiere	speaker
-men3_Lo02.00C2	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
+men3_Lo02.00C2	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}	Ah, you finally came. I was just starting to{n}think you weren't coming.{wait}{clear}	
 men3_Lo02.0112	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo02.0122	なにかあったのですか？{wait}{clear}		
+men3_Lo02.0122	なにかあったのですか？{wait}{clear}	Did something happen?{wait}{clear}	
 men3_Lo02.013C	ルディエール	Rudiere	speaker
-men3_Lo02.014C	いや、そうじゃないよ。{n}この象の置物を渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
+men3_Lo02.014C	いや、そうじゃないよ。{n}この象の置物を渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}	Nah, nothing like that. I wanted to give you{n}this elephant figurine.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Lo02.01C6	ＮＵＬＬ	NULL	speaker
-men3_Lo02.01D6	《ありがとうございます。》{n}		
-men3_Lo02.01F8	《戒律があるので……。》{n}		
+men3_Lo02.01D6	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Lo02.01F8	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Lo02.0218	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo02.0228	ありがとうございます。{wait}{clear}	Thank you.{wait}{clear}	
 men3_Lo02.0242	ルディエール	Rudiere	speaker
-men3_Lo02.0252	これは、レグランスで作ってるものなんだ。{n}象はレグランスにしかいない生き物だからね。{n}気に入ってくれればいいけど。{wait}{clear}		
+men3_Lo02.0252	これは、レグランスで作ってるものなんだ。{n}象はレグランスにしかいない生き物だからね。{n}気に入ってくれればいいけど。{wait}{clear}	They make these in Legrance. Elephants don't{n}live anywhere but Legrance, you know. I hope{n}you like it.{wait}{clear}	
 men3_Lo02.02C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo02.02D8	ええ、もちろんです。{n}本当にありがとうございました。{wait}{clear}		
+men3_Lo02.02D8	ええ、もちろんです。{n}本当にありがとうございました。{wait}{clear}	Yes, of course. Thank you so much.{wait}{clear}	
 men3_Lo02.0314	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo02.0324	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Lo02.0324	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Lo02.0394	ルディエール	Rudiere	speaker
-men3_Lo02.03A4	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}		
+men3_Lo02.03A4	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}	I see... Then I guess it can't be helped...{n}I wanted to be of some use, so I'm a little{n}disappointed, though.{wait}{clear}	
 men3_Lo02.040C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Lo02.041C	本当にすみません。{wait}{clear}		
+men3_Lo02.041C	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	

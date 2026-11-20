@@ -4,19 +4,19 @@ men3_Cl02.0068	すまない……呼び出して。{wait}{clear}	Sorry... for ca
 men3_Cl02.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl02.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}	What is it? Is something on your mind?{wait}{clear}	
 men3_Cl02.00D2	クライヴ	Clive	speaker
-men3_Cl02.00DE	いや……これを……{n}銀のてい鉄をお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
+men3_Cl02.00DE	いや……これを……{n}銀のてい鉄をお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}	No... I thought I'd give you this... a{n}silver horseshoe.{wait}{clear}Will you take it?{wait}{clear}	
 men3_Cl02.0138	ＮＵＬＬ	NULL	speaker
-men3_Cl02.0148	《ありがとうございます。》{n}		
-men3_Cl02.016A	《戒律があるので……。》{n}		
+men3_Cl02.0148	《ありがとうございます。》{n}	Thank you very much.{n}	
+men3_Cl02.016A	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Cl02.018A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl02.019A	ありがとうございます。{wait}{clear}えっと、これはお守りですか？{wait}{clear}		
+men3_Cl02.019A	ありがとうございます。{wait}{clear}えっと、これはお守りですか？{wait}{clear}	Thank you very much.{wait}{clear}Um, is this a charm?{wait}{clear}	
 men3_Cl02.01D4	クライヴ	Clive	speaker
-men3_Cl02.01E0	ああ、そうだ。{n}銀のてい鉄には魔除けの力があると言われている。{wait}{clear}		
+men3_Cl02.01E0	ああ、そうだ。{n}銀のてい鉄には魔除けの力があると言われている。{wait}{clear}	Yeah, that's right. They say a silver{n}horseshoe has the power to ward off evil.{wait}{clear}	
 men3_Cl02.0222	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl02.0232	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
+men3_Cl02.0232	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}	I see. Then I'll take it with me.{wait}{clear}Thank you so much.{wait}{clear}	
 men3_Cl02.0288	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl02.0298	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Cl02.0298	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Cl02.02FC	クライヴ	Clive	speaker
-men3_Cl02.0308	そうか……。{n}なら、しかたがない。{wait}{clear}		
+men3_Cl02.0308	そうか……。{n}なら、しかたがない。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}	
 men3_Cl02.032E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Cl02.033E	本当にすみません。{wait}{clear}		
+men3_Cl02.033E	本当にすみません。{wait}{clear}	I'm truly sorry.{wait}{clear}	
