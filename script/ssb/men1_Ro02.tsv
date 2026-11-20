@@ -2,7 +2,7 @@ id	jp	en	notes
 men1_Ro02.0052	ロクス	Rocus	speaker
 men1_Ro02.005C	やっと来たか。{wait}{clear}	Finally showed up, huh.{wait}{clear}	
 men1_Ro02.006E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Ro02.007E	どうしたのですか、ロクス？{n}なにか気になることでも？{wait}{clear}	What is it, Rocus? Is something on your{n}mind?{wait}{clear}	
+men1_Ro02.007E	どうしたのですか、ロクス？{n}なにか気になることでも？{wait}{clear}	What is it, Rocus? Is{n}something on your mind?{wait}{clear}	
 men1_Ro02.00B6	ロクス	Rocus	speaker
 men1_Ro02.00C0	いや、そんなんじゃない。{n}ちょっと話がしたいと思ったんだが……{n}いいか？{wait}{clear}	No, nothing like that. I just thought I'd{n}like to talk a bit... Is that all right?{wait}{clear}	
 men1_Ro02.010C	ＮＵＬＬ	NULL	speaker

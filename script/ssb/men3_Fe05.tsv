@@ -4,7 +4,7 @@ men3_Fe05.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}	Sor
 men3_Fe05.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}	What is it? Did you need something?{wait}{clear}	
 men3_Fe05.00C2	フェイン	Fein	speaker
-men3_Fe05.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの銀の指輪をわたそうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}	No, I'm sorry it's nothing much, but I{n}thought I'd give you this silver ring.{wait}{clear}I hope it'll be of some use. Will you accept{n}it?{wait}{clear}	
+men3_Fe05.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの銀の指輪をわたそうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}	No, I'm sorry it's nothing much, but I{n}thought I'd give you this silver ring.{wait}{clear}I hope it'll be of some{n}use. Will you accept it?{wait}{clear}	
 men3_Fe05.0162	ＮＵＬＬ	NULL	speaker
 men3_Fe05.0172	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_Fe05.0194	《戒律があるので……。》{n}	There are precepts...{n}	

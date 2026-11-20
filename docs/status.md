@@ -5,6 +5,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 8. QA in the emulator (phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
+  across script/ (19 ssb/ vs evx/), so `merge` keyed by id put EVX unit name "The Boy" on the ssb line roev07.0156;
+  `merge` now keys by (id, batch JP), `check` fails a batch with a repeated id (`tests/test_merge.py`). Important 1:
+  new `tools/lint.py` over the merged script/ (codes, widths, lines/page, stub last lines, leftover JP, empty `en`
+  vs `script/keep_jp.txt` (58 rows with reasons), label padding, box budgets in `tools/widths.tsv`) runs in
+  `check.py`: 0 errors. Important 2: `batches.wrap_lines` re-breaks a segment whose last line is under 6 letters
+  over the same line count, balanced (685 rows rewrapped, page counts unchanged). Important 3: 7 lines over 44
+  shortened (BMsgQ002/006.0190 + their rfd2 copies, rfd2 D760/D7DC/D8DC, SLPS D260/D288); budgets for rfd2 talk,
+  memory-card and ed boxes. OMAKE captions NOT measured yet: they are (place, title, caption) triplets in a
+  pointer table at op 0x800A68D0 with no direct code reference found; not shown on the album grid or the CG view
+  (phase 8: find the screen, measure, add the budget). Important 4: rfd2.8009D9E4 ね。 is appended by rfd2
+  0x800CF14C after it strcpys the hero name over the LAST 14 BYTES of T_Msg01 messages 8-23 (fairy compatibility):
+  the English ended `is ＜勇者名＞.` (12 bytes), so the name would have eaten two letters; now `is...{n}＜勇者名＞....`
+  (10 + 4 bytes overwritten) and ね。 = " " (odd-length names end in a space; a "." would read "Cecia ."); test
+  in `tests/test_merge.py`, check in game in phase 8 (heaven, Titania, compatibility). Fixed-field labels padded to
+  the JP width (`tools/padlabels.py`: rfd2 status/item types, right-aligned region suffixes). Minors: unit names
+  are `name` kind now (wrap_spec), PH_WIDTH comment, `tests/test_hooks.py` (no branch into a font hook),
+  `tests/test_lkf_leaves.py` (rebuilt LKFs: same entries, only insert's entries differ). Build sha1 da353c51...,
+  check.py 54 passed + lint 0, smoke OK. New `tools/refs.py` disassembles every reference to a string.
 - **Phase 7 result (2026-11-21, 16th worker):** build green (sha1 423a5f2f...), every batch `check` OK (width, pages, control codes,
   placeholders, glossary), 47 tests, smoke + 13 warps OK (`work/qa/p7`, `p7b`: map menus, fairy list, heaven,
   OMAKE CG, prologue, exam, battle x2, game over, title load, Rocus ending). **EXE/overlay relocation:** all 451
@@ -166,7 +185,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   warp scene that shows a fairy report with placeholders (FryMsg: ＜イベント名＞ / ＜目的地名＞ lines) and check the
   substituted English fits; check the rfd2 sentence fragments in game (fairy command confirmations "Stop search and
   stand by?", "[fairy], accompany [hero]?", item counts); measure the OMAKE gallery caption width (op captions
-  are up to 73 letters, never measured); name entry Latin page + the default name ラビエル (kana grid). Polish
+  are up to 73 letters, never measured); name entry Latin page + the default name ラビエル (kana grid). From the
+  phase 7 review: inkbox the menX_* `Yes`/`No` choices (JP indents one cell, maybe for the cursor) and the
+  right-aligned region suffixes; find out whether EVX unit names (151 over 12 letters, e.g. ceev20.0192) are ever
+  drawn (battle plates are PIX graphics) and apply the 12-letter budget if so, else record it in text.md. Polish
   list gained the 12-letter name-tag / chapter-label cuts and the fixed-copy labels (engine work first, D4).
   Earlier (15th worker): orphan pages:
   `batches.wrap` breaks an overflowing page at the latest sentence end that fills 2+ lines, else joins a lone short

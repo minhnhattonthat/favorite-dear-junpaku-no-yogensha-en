@@ -263,8 +263,8 @@ SLPS.8008CF00	-
 SLPS.8008CF24	-
 SLPS.8008D22C	Not formatted.
 SLPS.8008D248	Format it?
-SLPS.8008D260	The Memory Card was removed during processing.
-SLPS.8008D288	Do not remove the Memory Card during processing.
+SLPS.8008D260	The Memory Card was removed during access.
+SLPS.8008D288	Do not remove the Memory Card during access.
 SLPS.8008D2B4	Formatting
 SLPS.8008D2C4	Do not insert or remove the Memory Card.
 SLPS.8008D2F0	Formatted.

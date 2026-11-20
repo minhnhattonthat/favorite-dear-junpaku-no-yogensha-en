@@ -4,7 +4,7 @@ men3_Ce02.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry fo
 men3_Ce02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce02.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}	What is it? Is there something you wanted to{n}talk about, Cecia?{wait}{clear}	
 men3_Ce02.00C4	セシア	Cecia	speaker
-men3_Ce02.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}サンザシの実なんですけど、{n}受け取っていただけますか？{wait}{clear}	No, it's not a talk. There's something I{n}wanted to give you, Angel.{wait}{clear}They're hawthorn berries. Will you accept{n}them?{wait}{clear}	
+men3_Ce02.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}サンザシの実なんですけど、{n}受け取っていただけますか？{wait}{clear}	No, it's not a talk. There's something I{n}wanted to give you, Angel.{wait}{clear}They're hawthorn berries.{n}Will you accept them?{wait}{clear}	
 men3_Ce02.014E	ＮＵＬＬ	NULL	speaker
 men3_Ce02.015E	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_Ce02.0180	《戒律があるので……。》{n}	There are precepts...{n}	

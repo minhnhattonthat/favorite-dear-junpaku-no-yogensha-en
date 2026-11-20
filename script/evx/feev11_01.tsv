@@ -3,7 +3,7 @@ feev11_01.0002	1		dev label (guess: not shown)
 feev11_01.00A2	フェイン	Fein	unit name (32-byte field)
 feev11_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 feev11_01.04D8	聖母	Holy Mother	speaker
-feev11_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
+feev11_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done{n}well to come this far.	text
 feev11_01.0518	フェイン	Fein	speaker
 feev11_01.052F	あなたは……。	You are...	text
 feev11_01.054C	聖母	Holy Mother	speaker
@@ -29,7 +29,7 @@ feev11_01.08D3	…………。	.....	text
 feev11_01.08EC	聖母	Holy Mother	speaker
 feev11_01.08FF	フェイン……あなたのこれからの戦いは{n}きっと困難を極めるでしょう……。{n}	Fein... the battles ahead of you will surely{n}be extremely hard...{n}	text
 feev11_01.0956	それは、あなただけでなく、{n}天使様に導かれる者、すべてに言えることですが、{n}邪悪な力と戦うためには強い意志が必要となります。	That is true not only of you but of all whom{n}the Angel guides: to fight evil powers, you{n}will need a strong will.	text
-feev11_01.09E1	敵は人の心の弱さをねらってくるからです。{n}ですが、それに屈してはなりませんよ。	For the enemy targets the weakness in{n}people's hearts. But you must not give in to{n}it.	text
+feev11_01.09E1	敵は人の心の弱さをねらってくるからです。{n}ですが、それに屈してはなりませんよ。	For the enemy targets the{n}weakness in people's hearts.{n}But you must not give in to it.	text
 feev11_01.0A3E	フェイン	Fein	speaker
 feev11_01.0A55	ディアナ様……{n}邪悪な力の正体をあなたは知っているのですか？	Diana-sama... do you know the true nature of{n}this evil power?	text
 feev11_01.0AA0	聖母	Holy Mother	speaker

@@ -2,7 +2,7 @@ id	jp	en	notes
 roev20_09.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_09.00DE	レイラ	Leyla	unit name (32-byte field)
 roev20_09.04C8	ロクス	Rocus	speaker
-roev20_09.04DD	あなたは天使の勇者ですね？	You're one of the angel's heroes, aren't{n}you?	text
+roev20_09.04DD	あなたは天使の勇者ですね？	You're one of the angel's{n}heroes, aren't you?	text
 roev20_09.0506	レイラ	Leyla	speaker
 roev20_09.051B	……誰？	...Who are you?	text
 roev20_09.0532	ロクス	Rocus	speaker

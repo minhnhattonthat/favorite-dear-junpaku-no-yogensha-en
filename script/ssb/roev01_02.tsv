@@ -8,7 +8,7 @@ roev01_02.00B2	あれからあなたのことが気になって{n}しかたな�
 roev01_02.0104	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_02.0114	ありがとう、ロクス。{wait}{clear}	Thank you, Rocus.{wait}{clear}	
 roev01_02.0138	ロクス	Rocus	speaker
-roev01_02.0142	いいえ、あなたのような美しい方の願いを{n}むげに断った自分がいけないのです。{wait}{clear}礼などおよびません。{wait}{clear}なにかあったときには、{n}なんなりとお申し付けください。{wait}{clear}	No, I was the one at fault, for flatly{n}refusing the wish of someone as beautiful as{n}you.{wait}{clear}There's no need to thank me.{wait}{clear}Whenever something comes up, command me as{n}you wish.{wait}{clear}	
+roev01_02.0142	いいえ、あなたのような美しい方の願いを{n}むげに断った自分がいけないのです。{wait}{clear}礼などおよびません。{wait}{clear}なにかあったときには、{n}なんなりとお申し付けください。{wait}{clear}	No, I was the one at fault,{n}for flatly refusing the wish{n}of someone as beautiful as you.{wait}{clear}There's no need to thank me.{wait}{clear}Whenever something comes up, command me as{n}you wish.{wait}{clear}	
 roev01_02.0200	ロクス	Rocus	speaker
 roev01_02.020A	これは天使様。{wait}{clear}	Why, it's the Angel.{wait}{clear}	
 roev01_02.021C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -20,7 +20,7 @@ roev01_02.0326	わかりました。お願いします。{wait}{clear}	I underst
 roev01_02.0346	ロクス	Rocus	speaker
 roev01_02.0350	ならば、お受けしましょう。{wait}{clear}なにかあればまた来てください。{n}天使様。{wait}{clear}	Then I accept.{wait}{clear}If anything comes up, come see me again,{n}Angel.{wait}{clear}	
 roev01_02.03B8	ロクス	Rocus	speaker
-roev01_02.03C2	お前か……。{n}まだ僕に用があるのか？{wait}{clear}	You again... You still want something from{n}me?{wait}{clear}	
+roev01_02.03C2	お前か……。{n}まだ僕に用があるのか？{wait}{clear}	You again... You still{n}want something from me?{wait}{clear}	
 roev01_02.03EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev01_02.03FA	はい……{n}この前は失礼しました。{wait}{clear}もう一度考えなおしてもらえませんか？{wait}{clear}	Yes... I'm sorry about the other day.{wait}{clear}Won't you reconsider once more?{wait}{clear}	
 roev01_02.0446	ロクス	Rocus	speaker

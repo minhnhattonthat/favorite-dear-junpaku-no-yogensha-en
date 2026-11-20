@@ -4,7 +4,7 @@ men2_Ce02.005C	急にお呼びしてすみません。{wait}{clear}	I'm sorry fo
 men2_Ce02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.008A	どうしました、セシア？{n}なにか話でもあるのですか？{wait}{clear}	What is it, Cecia? Is there something you{n}want to talk about?{wait}{clear}	
 men2_Ce02.00CC	セシア	Cecia	speaker
-men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}	Yes... I'm sorry to bother you at such a{n}difficult time, but there's something I'd{n}like to talk about...{wait}{clear}That's why I called you, Angel. Do you have{n}time?{wait}{clear}	
+men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}	Yes... I'm sorry to bother you at such a{n}difficult time, but there's something I'd{n}like to talk about...{wait}{clear}That's why I called you,{n}Angel. Do you have time?{wait}{clear}	
 men2_Ce02.016E	ＮＵＬＬ	NULL	speaker
 men2_Ce02.017E	《なにか困ったことでも？》{n}	Is something troubling you?{n}	
 men2_Ce02.01A0	《ええ、もちろん大丈夫！》{n}	Yes, of course I do!{n}	

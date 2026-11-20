@@ -4,7 +4,7 @@ men3_La02.0066	呼び出して悪いわね。{wait}{clear}	Sorry to call you out
 men3_La02.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La02.008E	どうしたのですか、レイラ？{n}{wait}{clear}	What is it, Leyla?{n}{wait}{clear}	
 men3_La02.00AE	レイラ	Leyla	speaker
-men3_La02.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}決闘用の手袋なんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like to give{n}you. They're dueling gloves. Will you accept{n}them?{wait}{clear}	
+men3_La02.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}決闘用の手袋なんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like{n}to give you. They're dueling{n}gloves. Will you accept them?{wait}{clear}	
 men3_La02.011E	ＮＵＬＬ	NULL	speaker
 men3_La02.012E	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_La02.0150	《戒律があるので……。》{n}	There are precepts...{n}	

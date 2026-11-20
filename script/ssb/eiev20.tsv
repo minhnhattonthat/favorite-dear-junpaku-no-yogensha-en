@@ -1,6 +1,6 @@
 id	jp	en	notes
 eiev20.005C	アイリーン	Irene	speaker
-eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to die... together with{n}her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
+eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to{n}die... together with her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
 eiev20.0172	ＮＵＬＬ	NULL	speaker
 eiev20.0182	《わかりました……。》{n}	I understand...{n}	
 eiev20.01A0	《なぜ……？》{n}	Why...?{n}	
@@ -19,7 +19,7 @@ eiev20.033C	アイリーン	Irene	speaker
 eiev20.034A	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}	Words won't stop him...{wait}{clear}I have to free my sister from the curse{n}myself...{wait}{clear}	
 eiev20.03A0	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}	So please. Make sure my sister and I meet.{wait}{clear}	
 eiev20.03F6	アイリーン	Irene	speaker
-eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to die... together with{n}her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
+eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to{n}die... together with her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
 eiev20.050C	ＮＵＬＬ	NULL	speaker
 eiev20.051C	《詳しく教えて欲しい。》{n}	Tell me everything.{n}	
 eiev20.053C	《なぜ……？》{n}	Why...?{n}	

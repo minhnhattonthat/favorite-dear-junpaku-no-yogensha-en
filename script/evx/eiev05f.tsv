@@ -13,7 +13,7 @@ eiev05f.05B1	いや……魔に魅入られたセレニスは、{n}それを実�
 eiev05f.0690	アイリーン	Irene	speaker
 eiev05f.06A9	姉さんが……！？	My sister...?!	text
 eiev05f.06C8	マスター	Master	speaker
-eiev05f.06DF	セレニスは帝国に渡って宮廷にいる……{n}これはギルドが確認したのだ……。	Serenis has crossed into the Empire and is{n}at its court... The Guild has confirmed{n}it...	text
+eiev05f.06DF	セレニスは帝国に渡って宮廷にいる……{n}これはギルドが確認したのだ……。	Serenis has crossed into the{n}Empire and is at its court...{n}The Guild has confirmed it...	text
 eiev05f.0734	あの悲劇が、こんなことを引き起こすとは……。	To think that tragedy would lead to this...	text
 eiev05f.0783	アイリーン	Irene	speaker
 eiev05f.079C	そんな……。	No...	text
@@ -25,7 +25,7 @@ eiev05f.0891	……私は姉を止めます。	...I'll stop my sister.	text
 eiev05f.08B6	マスター	Master	speaker
 eiev05f.08CD	無理だ、アイリーン。{n}あの秘術は……人の体を抜けがらにしてしまうもの。	You can't, Irene. That secret art... turns a{n}person's body into an empty shell.	text
 eiev05f.0922	だから、古くから禁じられているのだ。	That is why it has been forbidden since{n}ancient times.	text
-eiev05f.0955	もう、彼女は、お前の姉でもフェインの妻でもない。	She is no longer your sister, nor Fein's{n}wife.	text
+eiev05f.0955	もう、彼女は、お前の姉でもフェインの妻でもない。	She is no longer your{n}sister, nor Fein's wife.	text
 eiev05f.0994	アイリーン	Irene	speaker
 eiev05f.09AD	私は……あきらめることはできません。{n}セレニスは、私の姉です……。	I... I can't give up. Serenis is my{n}sister...	text
 eiev05f.09FE	マスター	Master	speaker

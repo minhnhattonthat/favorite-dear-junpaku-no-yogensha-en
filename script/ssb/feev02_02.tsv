@@ -4,7 +4,7 @@ feev02_02.0062	＄＄＄＄＄＄、この町にもギルドのロッジがあ�
 feev02_02.00A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_02.00B6	ええ、どうぞ。{wait}{clear}	Yes, go ahead.{wait}{clear}	
 feev02_02.00C8	フェイン	Fein	speaker
-feev02_02.00D4	もちろん、一緒に来たいのだろう？{wait}{clear}	Of course, you want to come along, don't{n}you?{wait}{clear}	
+feev02_02.00D4	もちろん、一緒に来たいのだろう？{wait}{clear}	Of course, you want to{n}come along, don't you?{wait}{clear}	
 feev02_02.00F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_02.0108	そうですね……できれば……。{wait}{clear}	Well... if possible...{wait}{clear}	
 feev02_02.0128	フェイン	Fein	speaker
@@ -18,7 +18,7 @@ feev02_02.01CC	ああ……＄＄＄＄＄＄か。{n}いたのだったな…�
 feev02_02.01FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_02.020E	すみません、フェイン、聞いてもいいですか？{wait}{clear}	Excuse me, Fein, may I ask you something?{wait}{clear}	
 feev02_02.0248	フェイン	Fein	speaker
-feev02_02.0254	君の聞きたいは、いつもだな。{n}なんだ？{wait}{clear}	You and your questions, as always. What is{n}it?{wait}{clear}	
+feev02_02.0254	君の聞きたいは、いつもだな。{n}なんだ？{wait}{clear}	You and your questions,{n}as always. What is it?{wait}{clear}	
 feev02_02.027E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_02.028E	マスター・レーアンとのお話しの中で出た、{n}ジグとは誰ですか？{wait}{clear}	Who is this Zig that came up when you were{n}talking with Master Lehan?{wait}{clear}	
 feev02_02.02CE	フェイン	Fein	speaker

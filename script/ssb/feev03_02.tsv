@@ -30,7 +30,7 @@ feev03_02.08A8	＄＄＄＄＄＄、いるのか？{wait}{clear}	＄＄＄＄＄
 feev03_02.08C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_02.08D4	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev03_02.08DE	フェイン	Fein	speaker
-feev03_02.08EA	久しぶりに旧友と会ったので、話し込んでしまった。{n}悪かったな。{wait}{clear}	I met an old friend for the first time in{n}ages, and we got to talking. Sorry about{n}that.{wait}{clear}	
+feev03_02.08EA	久しぶりに旧友と会ったので、話し込んでしまった。{n}悪かったな。{wait}{clear}	I met an old friend for the{n}first time in ages, and we got{n}to talking. Sorry about that.{wait}{clear}	
 feev03_02.092C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_02.093C	いいえ、そんなこと気にしないでください。{n}フェインにはフェインの生活があるのですから。{wait}{clear}	No, please don't worry about that. You have{n}your own life, Fein.{wait}{clear}	
 feev03_02.0996	フェイン	Fein	speaker

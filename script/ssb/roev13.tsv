@@ -22,7 +22,7 @@ roev13.032E	ラファエル様、いらっしゃいますか？{wait}{clear}	Rap
 roev13.0362	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0372	すみません、お聞きしたいことがあるのですが……。{wait}{clear}	Excuse me, there is something I would like{n}to ask...{wait}{clear}	
 roev13.03A6	ミカエル	Michael	speaker
-roev13.03B2	ああ、やつならいないぞ。{wait}{clear}	Ah, if you're looking for him, he's not{n}here.{wait}{clear}	
+roev13.03B2	ああ、やつならいないぞ。{wait}{clear}	Ah, if you're looking{n}for him, he's not here.{wait}{clear}	
 roev13.03CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.03DE	！？{wait}{clear}	?!{wait}{clear}	
 roev13.03FE	ミカエル	Michael	speaker

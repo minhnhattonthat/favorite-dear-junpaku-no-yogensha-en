@@ -19,7 +19,7 @@ men1_Fe01.02FC	そうか……。	I see...
 men1_Fe01.030C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.031C	これでなにかわかってもらえましたか？{wait}{clear}	Did this tell you anything?{wait}{clear}	
 men1_Fe01.0344	フェイン	Fein	speaker
-men1_Fe01.0350	気分を害させるようなことをして、すまなかった。{n}ただ、そういうふうに感情が表れるのを知って、{n}かえって安心した。{wait}{clear}	I'm sorry for offending you. But seeing your{n}feelings show like that actually puts me at{n}ease.{wait}{clear}	
+men1_Fe01.0350	気分を害させるようなことをして、すまなかった。{n}ただ、そういうふうに感情が表れるのを知って、{n}かえって安心した。{wait}{clear}	I'm sorry for offending you. But{n}seeing your feelings show like{n}that actually puts me at ease.{wait}{clear}	
 men1_Fe01.03C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.03D4	え？{wait}{clear}	What?{wait}{clear}	
 men1_Fe01.03DC	フェイン	Fein	speaker

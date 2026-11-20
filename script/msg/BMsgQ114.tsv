@@ -2,7 +2,7 @@ id	jp	en	notes
 BMsgQ114.0190	まだなにかあるの？	Is there something else?	
 BMsgQ114.01A4	体調は？	Your health?	
 BMsgQ114.01AE	疲れていませんか？	Aren't you tired?	
-BMsgQ114.01C4	疲れてないって言ったらウソね。{n}こんな風に{n}旅に出るなんて考えたこともなかったから。{wait}{clear}でも、いいね、こうやって外を歩くのも。	I'd be lying if I said I wasn't tired. I{n}never imagined I'd go out traveling like{n}this.{wait}{clear}But it's nice, walking around outside like{n}this.	
+BMsgQ114.01C4	疲れてないって言ったらウソね。{n}こんな風に{n}旅に出るなんて考えたこともなかったから。{wait}{clear}でも、いいね、こうやって外を歩くのも。	I'd be lying if I said I wasn't{n}tired. I never imagined I'd{n}go out traveling like this.{wait}{clear}But it's nice, walking{n}around outside like this.	
 BMsgQ114.0244	一緒に歩く	Walk together	
 BMsgQ114.0250	一緒に歩いてもいいですか？	May I walk with you?	
 BMsgQ114.026E	たまにはそうしなさいよ！{wait}{clear}いっつもふわふわしてるなんて、{n}ちょっとずるいと思うよ。	You should do that once in a while!{wait}{clear}Floating around all the time is kind of{n}unfair, you know.	
@@ -19,7 +19,7 @@ BMsgQ114.0536	青い空	Blue sky
 BMsgQ114.053E	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ114.0612	うん……そうだね……。{n}塔から見える夕焼けはね、とってもきれいなんだ。{wait}{clear}ブレメース島の南の海岸線が真っ赤に染まって、{n}それから、ゆっくり紫色になって……。{n}いろんな顔が見えるよね、空って。	Yeah... You're right... The sunset you can{n}see from the tower is so beautiful.{wait}{clear}The southern coast of Bremes Isle turns{n}bright red, and then slowly turns purple...{n}The sky has so many faces, doesn't it?	
 BMsgQ114.06D2	素敵な景色	Lovely views	
-BMsgQ114.06DE	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BMsgQ114.06DE	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
 BMsgQ114.0716	そうだね。{n}ブレメース島からあんまり出たことがなかったから{n}なんだか、すごく新鮮に感じるな。	Yeah. I'd hardly ever left Bremes Isle, so{n}it all feels so fresh.	
 BMsgQ114.0774	妖精は役に立つ？	Fairies useful?	
 BMsgQ114.0786	妖精たちは助けになっていますか？	Are the fairies a help to you?	
@@ -28,7 +28,7 @@ BMsgQ114.0842	旅先で思うこと	On the road
 BMsgQ114.0852	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BMsgQ114.0894	そうだね、いろいろね、考えるよ。{n}塔にいたときは、感じなかったこととか、{n}知らなかったこととか、どんどんわかってきて……。{wait}{clear}なんだか気がつくと、{n}ぼーっとしたりしちゃう……。	Yeah, I think about all kinds of things.{n}Things I never felt or never knew back in{wait}{clear}the tower, I'm understanding more and{n}more...{wait}{clear}Before I know it, I'm just spacing out...	
 BMsgQ114.0946	旅で出会う人	People met	
-BMsgQ114.0954	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ114.0954	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BMsgQ114.097A	悪いけど、あんまり人に会うのは好きじゃないんだ。{n}いろいろ面倒くさいでしょ？	Sorry, but I don't really like meeting{n}people. It's such a hassle, isn't it?	
 BMsgQ114.09C8	いい夢が……	Sweet dreams	
 BMsgQ114.09D6	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -38,7 +38,7 @@ BMsgQ114.0A5A	お疲れさまでした。	Thank you for your hard work.
 BMsgQ114.0A70	わざわざそれを言いに来たの？{n}天使って、ホント、気をつかうのね。{wait}{clear}でも、ありがと。	You came all the way here to say that? You{n}angels really are considerate.{wait}{clear}But thanks.	
 BMsgQ114.0AC6	眠るのは好き？	Like sleeping?	
 BMsgQ114.0AD6	眠ることは好きですか？	Do you like sleeping?	
-BMsgQ114.0AF0	あいかわらず、へんなこと聞くのね。{wait}{clear}まあ、好きでも嫌いでもないかな……。{n}寝ないで魔導書を読んでたりもするし、{n}ウエスタは夜行性だしね。{wait}{clear}でも、ぽかぽかしたところでのお昼寝は好きかな。	You ask weird things, as always.{wait}{clear}Well, I don't like it or dislike it, I{n}guess... Sometimes I stay up reading{n}grimoires, and Vesta's nocturnal, too.{wait}{clear}But I do like napping somewhere nice and{n}warm.	
+BMsgQ114.0AF0	あいかわらず、へんなこと聞くのね。{wait}{clear}まあ、好きでも嫌いでもないかな……。{n}寝ないで魔導書を読んでたりもするし、{n}ウエスタは夜行性だしね。{wait}{clear}でも、ぽかぽかしたところでのお昼寝は好きかな。	You ask weird things, as always.{wait}{clear}Well, I don't like it or dislike it, I{n}guess... Sometimes I stay up reading{n}grimoires, and Vesta's nocturnal, too.{wait}{clear}But I do like napping{n}somewhere nice and warm.	
 BMsgQ114.0BAE	出来事	Events	
 BMsgQ114.0BB6	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。	I'm sure a lot has happened, but please get{n}some good rest.	
 BMsgQ114.0BFA	ありがと。{wait}{clear}ホント、毎日いろんなことがあって、{n}ちょっと大変だもんね……。	Thanks.{wait}{clear}Really, so much happens every day, it's kind{n}of a lot...	
@@ -50,7 +50,7 @@ BMsgQ114.0D10	いつもと違う場所でも{n}しっかり眠ることができ
 BMsgQ114.0D48	う～ん、得意じゃないけど、{n}そんなことを言ってられないでしょ？{wait}{clear}でも、ずいぶんなれたと思うよ。	Hmm, I'm not good at it, but I can't{n}complain, can I?{wait}{clear}But I think I've gotten pretty used to it.	
 BMsgQ114.0DAA	眠れないときは	Can't sleep?	
 BMsgQ114.0DBA	眠れないときはどうしていますか。	What do you do when you can't sleep?	
-BMsgQ114.0DDE	ぼーっとしてるか、本を読んでるか……。{n}晴れてたら、星を見ているとか、かな。{wait}{clear}あんまり眠れないからとか、気にしないよ。{n}夜に効果のある魔法もあるし、{n}いろんな勉強になるからね。	I space out, or read a book... If it's{n}clear, I look at the stars, I guess.{wait}{clear}I don't worry about not sleeping much. Some{n}magic works best at night, and I learn a{n}lot.	
+BMsgQ114.0DDE	ぼーっとしてるか、本を読んでるか……。{n}晴れてたら、星を見ているとか、かな。{wait}{clear}あんまり眠れないからとか、気にしないよ。{n}夜に効果のある魔法もあるし、{n}いろんな勉強になるからね。	I space out, or read a book... If it's{n}clear, I look at the stars, I guess.{wait}{clear}I don't worry about not sleeping{n}much. Some magic works best{n}at night, and I learn a lot.	
 BMsgQ114.0E92	故郷のこと	Your home	
 BMsgQ114.0E9E	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？	Traveling the world like this, don't you{n}ever think about your home?	
 BMsgQ114.0EEE	うん……{n}やっぱり、ときどき思い出すと、{n}ちょっとつらくなったりするかな……。{wait}{clear}なんて、私らしくないでしょ？{n}気にしないでね。	Yeah... When I remember it sometimes, it{n}does get a little hard...{wait}{clear}That's not like me, huh? Don't mind it.	
@@ -91,7 +91,7 @@ BMsgQ114.166E	修行の成果	Results
 BMsgQ114.167A	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BMsgQ114.16B4	うん、そうだね。{n}やっぱり魔法が成功したときの方がうれしいよね。	Yeah, that's right. It's way more fun when a{n}spell works.	
 BMsgQ114.16F6	邪魔でしょうか？	Am I a bother?	
-BMsgQ114.1708	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BMsgQ114.1708	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
 BMsgQ114.1736	そう思うんだったら、来ないでよね。{wait}{clear}そんなに気をつかわれると、{n}こっちが疲れちゃうから。	If you think that, don't come.{wait}{clear}Being fussed over like that wears ME out.	
 BMsgQ114.1792	好きなことは？	Favorite thing?	
 BMsgQ114.17A2	なにか好きなことはありますか？	Is there anything you like to do?	
@@ -146,7 +146,7 @@ BMsgQ114.205C	アイリーンなら、きっと大丈夫です。	I'm sure you'l
 BMsgQ114.2082	え？　ああ……うん……。{n}ありがと……。	Huh? Oh... yeah... Thanks...	
 BMsgQ114.20AC	どうか無事で……	Stay safe...	
 BMsgQ114.20BE	どうか、無事に戻ってきてください。	Please come back safe and sound.	
-BMsgQ114.20E4	そんな心配そうな顔で言われたら、{n}イヤな感じじゃない？　縁起でもないからやめて。	If you say it with such a worried face, it{n}feels creepy, right? It's a bad omen, so{n}stop.	
+BMsgQ114.20E4	そんな心配そうな顔で言われたら、{n}イヤな感じじゃない？　縁起でもないからやめて。	If you say it with such a{n}worried face, it feels creepy,{n}right? It's a bad omen, so stop.	
 BMsgQ114.2136	どきどき	Heart pounding	
 BMsgQ114.2140	どきどきしてきました……。	My heart's starting to pound...	
 BMsgQ114.215E	大丈夫だったら！{n}もう、そんなに心配なら、{n}来ない方がよかったんじゃない？	I told you I'm fine! Geez, if you're that{n}worried, maybe you shouldn't have come.	
@@ -155,7 +155,7 @@ BMsgQ114.21B8	すみません！{n}私がちゃんと考えてなくて……。
 BMsgQ114.21E8	ううん……私の力不足のせいだよ。{n}ごめん、失敗しちゃって……。	No... It's because I wasn't strong enough.{n}Sorry I messed up...	
 BMsgQ114.2228	大丈夫ですか？	Are you okay?	
 BMsgQ114.2238	大丈夫ですか？{n}しっかりしてください。	Are you all right? Hang in there.	
-BMsgQ114.2262	そんなに大げさに言わないで。{n}よけいに痛くなっちゃうから。	Don't make such a fuss. It'll only hurt{n}more.	
+BMsgQ114.2262	そんなに大げさに言わないで。{n}よけいに痛くなっちゃうから。	Don't make such a fuss.{n}It'll only hurt more.	
 BMsgQ114.229E	ありがとう	Thank you	
 BMsgQ114.22AA	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
 BMsgQ114.22FA	気にしてくれるのは、うれしいけど、{n}負けてケガしたら、どうしようもないよ……。{wait}{clear}あんまりいろいろ言われると{n}もっと情けなくなるから、やめてよ！	I'm glad you care, but if I lose and get{n}hurt, there's nothing to be done...{wait}{clear}If you go on about it, I'll feel even more{n}pathetic, so stop!	

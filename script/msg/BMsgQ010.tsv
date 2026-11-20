@@ -19,16 +19,16 @@ BMsgQ010.0548	青い空	Blue sky
 BMsgQ010.0550	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ010.0624	そうか……{n}君はそういうふうにこの世界を見てくれるのだな。{wait}{clear}天使というのは、もっと高みにいて、{n}自分たちとは理解できない存在のように考えていたが{n}そんなことはないのだな。	I see... So that's how you see this world.{wait}{clear}I thought angels were beings high above,{n}beyond our understanding, but that's not so,{n}is it?	
 BMsgQ010.06D2	素敵な景色	Lovely views	
-BMsgQ010.06DE	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BMsgQ010.06DE	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
 BMsgQ010.0716	ああ、俺もそう思う……。{n}ただ、いちばん好きなのは、{n}ブレメース島の夕暮れかもな……。	Yeah, I think so too... But my favorite{n}might be dusk on Bremes Isle...	
 BMsgQ010.076E	妖精は役に立つ？	Fairies useful?	
 BMsgQ010.0780	妖精たちは助けになっていますか？	Are the fairies a help to you?	
 BMsgQ010.07A4	ああ、よくやってくれている。{n}あんなに、一生懸命に働いてくれると{n}自分もしっかりしないといけないと思う。	Yes, they do good work. When they work that{n}hard, it makes me feel I have to pull my own{n}weight.	
 BMsgQ010.080E	旅先で思うこと	On the road	
 BMsgQ010.081E	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
-BMsgQ010.0860	ああ、そうだな……。{n}いろいろなことを考える……。{wait}{clear}歩いているときには、時間はたくさんある。{n}考えても考えても堂々めぐりをしているような{n}そんな気にもなるがな……。	Yes, I suppose so... I think about a lot of{n}things...{wait}{clear}When you're walking, you have plenty of{n}time.{wait}{clear}Though sometimes it feels like no matter how{n}much I think, I just go around in circles...	
+BMsgQ010.0860	ああ、そうだな……。{n}いろいろなことを考える……。{wait}{clear}歩いているときには、時間はたくさんある。{n}考えても考えても堂々めぐりをしているような{n}そんな気にもなるがな……。	Yes, I suppose so... I think about a lot of{n}things...{wait}{clear}When you're walking,{n}you have plenty of time.{wait}{clear}Though sometimes it feels like no matter how{n}much I think, I just go around in circles...	
 BMsgQ010.0908	旅で出会う人	People met	
-BMsgQ010.0916	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ010.0916	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BMsgQ010.093C	そうだな。{n}人に会って話をすると、いろいろな情報も聞ける。{n}それがなにかにつながっていくんだ……。	It is. When you meet people and talk, you{n}hear all sorts of news. And that leads to{n}something...	
 BMsgQ010.09A0	いい夢が……	Sweet dreams	
 BMsgQ010.09AE	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -91,7 +91,7 @@ BMsgQ010.1694	修行の成果	Results
 BMsgQ010.16A0	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BMsgQ010.16DA	ああ、そうだな……。{wait}{clear}それにしても、天使の君から{n}そういう言葉を聞くとは思わなかった。{wait}{clear}君も修行みたいなこととかしたことがあるのか？	Yeah, it does...{wait}{clear}Still, I never expected to hear that from an{n}angel.{wait}{clear}Have you ever done anything like training{n}yourself?	
 BMsgQ010.1764	邪魔でしょうか？	Am I a bother?	
-BMsgQ010.1776	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BMsgQ010.1776	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
 BMsgQ010.17A4	いや、いまは休息中だし、{n}邪魔だとは思わない。{wait}{clear}あまり気をつかわないでくれないか。	No, I'm taking a break, so you're no bother.{wait}{clear}Could you not worry so much?	
 BMsgQ010.17FA	好きなことは？	Favorite thing?	
 BMsgQ010.180A	なにか好きなことはありますか？	Is there anything you like to do?	

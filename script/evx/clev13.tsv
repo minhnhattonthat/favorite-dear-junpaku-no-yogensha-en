@@ -3,7 +3,7 @@ clev13.0002	1		dev label (guess: not shown)
 clev13.00A2	クライヴ	Clive	unit name (32-byte field)
 clev13.00DE	聖母	Holy Mother	unit name (32-byte field)
 clev13.04D8	聖母	Holy Mother	speaker
-clev13.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
+clev13.04EB	戦士よ、よくここまで来ました。	Warrior, you have done{n}well to come this far.	text
 clev13.0518	クライヴ	Clive	speaker
 clev13.052F	…………。	.....	text
 clev13.0548	聖母	Holy Mother	speaker
@@ -49,7 +49,7 @@ clev13.0DE3	では、あなたも血の恐怖を感じているのですね…�
 clev13.0E22	クライヴ	Clive	speaker
 clev13.0E39	…………。	.....	text
 clev13.0E52	聖母	Holy Mother	speaker
-clev13.0E65	あの頃、彼の気持ちがわからなかったように、{n}あなたのつらさをすべて理解することは{n}私にはできません。	Just as I could not understand his feelings{n}back then, I cannot fully understand your{n}pain.	text
+clev13.0E65	あの頃、彼の気持ちがわからなかったように、{n}あなたのつらさをすべて理解することは{n}私にはできません。	Just as I could not understand{n}his feelings back then, I cannot{n}fully understand your pain.	text
 clev13.0ED8	ですが、どうかたえてください。{n}その血の狂気に屈してはいけません……。	But please, endure it. You must not give in{n}to the madness of the blood...	text
 clev13.0F2D	あなたのことは、そこにいっしょにいらっしゃる{n}天使様が、必ず正しい方へと{n}導いてくださるでしょう……。	The angel who is there with you will surely{n}guide you down the right path...	text
 clev13.0FA2	どうか……信じてください。	Please... believe that.	text

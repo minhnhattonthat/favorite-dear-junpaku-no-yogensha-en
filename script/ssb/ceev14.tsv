@@ -12,7 +12,7 @@ ceev14.02D8	そんな天竜と私たち３人は戦ったのです。{n}大天�
 ceev14.031C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.032C	大天使……。{wait}{clear}	An archangel...{wait}{clear}	
 ceev14.033C	セシア	Cecia	speaker
-ceev14.0346	死闘の末、私たち３人はここで天竜を倒しました。{n}そして死んだ天竜からこの湖は生まれたのです。{n}そして、３つに砕かれた魔石が私たちの手の中に。{wait}{clear}大天使様は、{n}私たちに魔石を守るよう言い残されて、{n}天界へと戻られました。{wait}{clear}私たちは魔石をひとつずつ持ち、{n}それを守ることを誓い合いました。{wait}{clear}その後、ひとりは聖者として国をおこし、{n}ひとりは、不幸にもはるか北方の地で{n}魔にとらわれてしまいました……。{wait}{clear}	After a deadly struggle, the three of us{n}defeated the Heavenly Dragon here. This lake{n}was born from the dragon's corpse.{wait}{clear}And the Demon Stone, shattered into three,{n}was left in our hands.{wait}{clear}The archangel told us to guard the Demon{n}Stones, and returned to the Heavens.{wait}{clear}We each took one stone, and swore to protect{n}them.{wait}{clear}Afterwards, one of us founded a nation as a{n}saint, and one, sadly, was taken by darkness{n}in a land far to the north...{wait}{clear}	
+ceev14.0346	死闘の末、私たち３人はここで天竜を倒しました。{n}そして死んだ天竜からこの湖は生まれたのです。{n}そして、３つに砕かれた魔石が私たちの手の中に。{wait}{clear}大天使様は、{n}私たちに魔石を守るよう言い残されて、{n}天界へと戻られました。{wait}{clear}私たちは魔石をひとつずつ持ち、{n}それを守ることを誓い合いました。{wait}{clear}その後、ひとりは聖者として国をおこし、{n}ひとりは、不幸にもはるか北方の地で{n}魔にとらわれてしまいました……。{wait}{clear}	After a deadly struggle, the three of us{n}defeated the Heavenly Dragon here. This lake{n}was born from the dragon's corpse.{wait}{clear}And the Demon Stone, shattered into three,{n}was left in our hands.{wait}{clear}The archangel told us to guard the Demon{n}Stones, and returned to the Heavens.{wait}{clear}We each took one stone,{n}and swore to protect them.{wait}{clear}Afterwards, one of us founded a nation as a{n}saint, and one, sadly, was taken by darkness{n}in a land far to the north...{wait}{clear}	
 ceev14.04F4	セシア	Cecia	speaker
 ceev14.04FE	それなのに、魔石は奪われてしまいました。{n}もし、魔石が３つ集まったとしたら、{n}天竜が復活し、恐ろしいことが起こります……。{wait}{clear}あのときは、世界のため、人々のため、{n}私たちは必死に戦いました。{n}そして、魔石をあずかりました。{wait}{clear}ですが、私たちに魔石を託し、{n}世界の平和を望んだ{n}大天使様のお心が、今の私にはわかりません……。{wait}{clear}	And yet the Demon Stone has been stolen. If{n}all three stones are brought together, the{n}Heavenly Dragon will revive, and something{wait}{clear}terrible will happen...{wait}{clear}Back then, we fought desperately for the{n}world and for its people. And we were{n}entrusted with the Demon Stones.{wait}{clear}But now I can't understand the heart of the{n}archangel who left the stones to us and{n}wished for peace in the world...{wait}{clear}	
 ceev14.0644	ＮＵＬＬ	NULL	speaker
@@ -47,7 +47,7 @@ ceev14.0E7C	…………。{wait}{clear}そうですか……ディアナは、�
 ceev14.0EF0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0F00	ラファエル様……まさか……？{wait}{clear}	Raphael-sama... it can't be...?{wait}{clear}	
 ceev14.0F24	ラファエル	Raphael	speaker
-ceev14.0F32	＄＄＄＄＄＄、黙っていて悪かったと思っています。{n}私が、千年前のアルカヤを守護した天使です。{wait}{clear}	＄＄＄＄＄＄, I'm sorry I kept silent. It{n}was I who protected Arcaya a thousand years{n}ago.{wait}{clear}	
+ceev14.0F32	＄＄＄＄＄＄、黙っていて悪かったと思っています。{n}私が、千年前のアルカヤを守護した天使です。{wait}{clear}	＄＄＄＄＄＄, I'm sorry I kept{n}silent. It was I who protected{n}Arcaya a thousand years ago.{wait}{clear}	
 ceev14.0F92	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0FA2	私にアルカヤの守護を命じてくださったとき、{n}どうしてなにも言ってくださらなかったのですか！？{wait}{clear}	When you ordered me to protect Arcaya, why{n}didn't you tell me anything?!{wait}{clear}	
 ceev14.1002	ラファエル	Raphael	speaker
@@ -55,7 +55,7 @@ ceev14.1010	いつか時期が来たら話そうと思っていました。{n}�
 ceev14.10B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.10C2	ラファエル様……。{wait}{clear}	Raphael-sama...{wait}{clear}	
 ceev14.10D8	ラファエル	Raphael	speaker
-ceev14.10E6	確かに私はアルカヤを守護し、彼らを導きました。{n}そして、彼らの手で天竜を倒し、アルカヤに暮らす{n}彼らと、すべての人々に未来を託したのです……。{wait}{clear}私たち天使は決して万能ではありません。{n}地上界は、あくまでも人間たちの世界です。{n}本来、我々天使が介入すべき世界ではないのです。{wait}{clear}	It is true that I protected Arcaya and{n}guided them.{wait}{clear}They defeated the Heavenly Dragon with their{n}own hands, and I entrusted the future to{n}them and to all the people of Arcaya...{wait}{clear}We angels are by no means all-powerful. The{n}world below belongs to humans, first and{n}last.{wait}{clear}It is not a world we angels should rightly{n}meddle in.{wait}{clear}	
+ceev14.10E6	確かに私はアルカヤを守護し、彼らを導きました。{n}そして、彼らの手で天竜を倒し、アルカヤに暮らす{n}彼らと、すべての人々に未来を託したのです……。{wait}{clear}私たち天使は決して万能ではありません。{n}地上界は、あくまでも人間たちの世界です。{n}本来、我々天使が介入すべき世界ではないのです。{wait}{clear}	It is true that I protected Arcaya and{n}guided them.{wait}{clear}They defeated the Heavenly Dragon with their{n}own hands, and I entrusted the future to{n}them and to all the people of Arcaya...{wait}{clear}We angels are by no means{n}all-powerful. The world below{n}belongs to humans, first and last.{wait}{clear}It is not a world we angels should rightly{n}meddle in.{wait}{clear}	
 ceev14.11FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.120C	ですが、魔石を彼らにあずけたのは……。{wait}{clear}	But leaving the Demon Stones with them...{wait}{clear}	
 ceev14.1236	ラファエル	Raphael	speaker

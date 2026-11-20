@@ -22,7 +22,7 @@ MssAns2.032C	ああ、わかった……行こう。	Yeah, all right... I'll go.
 MssAns2.0348	ああ……ついに、やつらが来たんだな……。{wait}{clear}レグランスはおれの国だ……急いで向かおう。	Yeah... So they've finally come...{wait}{clear}Legrance is my country... I'll hurry there.	
 MssAns2.03A0	なし	None	
 MssAns2.03A6	なし	None	
-MssAns2.03AC	クランか……ちょうど、西と東のはざまだ……。{n}こんな時になにかあったら、{n}レグランスは混乱するだけだ。{wait}{clear}おれが行くよ。{n}自分の国のことだ……おれが行かなくちゃ……。	Kran, huh... Right on the line between west{n}and east...{wait}{clear}If something happens there at a time like{n}this, Legrance will just fall into chaos.{wait}{clear}I'll go. It's my own country... I have to{n}go...	
+MssAns2.03AC	クランか……ちょうど、西と東のはざまだ……。{n}こんな時になにかあったら、{n}レグランスは混乱するだけだ。{wait}{clear}おれが行くよ。{n}自分の国のことだ……おれが行かなくちゃ……。	Kran, huh... Right on the line between west{n}and east...{wait}{clear}If something happens there at a time like{n}this, Legrance will just fall into chaos.{wait}{clear}I'll go. It's my own{n}country... I have to go...	
 MssAns2.0454	なし	None	
 MssAns2.045A	なし	None	
 MssAns2.0460	赤い鎧……{n}わかった、おれが行く！	Red armor... All right, I'll go!	
@@ -32,7 +32,7 @@ MssAns2.04DE	なし	None
 MssAns2.04E4	わかった……{n}おれが行って、できる限りのことはやってみる。{n}ただ、＄＄＄＄＄＄も覚悟だけはしておいてくれ。	All right... I'll go and do everything I{n}can. But be ready for the worst too,{n}＄＄＄＄＄＄.	
 MssAns2.0550	なし	None	
 MssAns2.0556	なし	None	
-MssAns2.055C	とうとう、来たんだな……。{wait}{clear}おれ、みんなのために行くよ。{n}国を守ろうとした兄さんのためにも……。{n}それに……。{wait}{clear}なにが起こるかわからないけれど、{n}きっと天竜を倒してみせる。{n}そして、おれは自分の道を歩き出したいんだ。	So it's finally come...{wait}{clear}I'll go, for everyone's sake. And for my{n}brother, who tried to protect our country...{n}And besides...{wait}{clear}I don't know what's going to happen, but{n}I'll beat the Heavenly Dragon, I promise.{wait}{clear}And then I want to start walking my own{n}path.	
+MssAns2.055C	とうとう、来たんだな……。{wait}{clear}おれ、みんなのために行くよ。{n}国を守ろうとした兄さんのためにも……。{n}それに……。{wait}{clear}なにが起こるかわからないけれど、{n}きっと天竜を倒してみせる。{n}そして、おれは自分の道を歩き出したいんだ。	So it's finally come...{wait}{clear}I'll go, for everyone's sake. And for my{n}brother, who tried to protect our country...{n}And besides...{wait}{clear}I don't know what's going to happen, but{n}I'll beat the Heavenly Dragon, I promise.{wait}{clear}And then I want to start{n}walking my own path.	
 MssAns2.063A	なし	None	
 MssAns2.0640	なし	None	
 MssAns2.0646	なし	None	

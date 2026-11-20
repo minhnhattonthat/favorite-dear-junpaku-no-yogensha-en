@@ -1,7 +1,7 @@
 id	jp	en	notes
 NASI_NG3.000E	悪いな、ちょっと手が放せないんだ。{n}他のやつに頼んでもらえないか？	Sorry, I'm a bit tied up. Could you ask{n}someone else?	
 NASI_NG3.0052	悪いが、今はそこへ行けない。{wait}{clear}誰か他のやつに頼んでもらえないか？	Sorry, but I can't go there right now.{wait}{clear}Could you ask someone else?	
-NASI_NG3.0096	わけのわからない依頼はごめんだ。{n}僕はそんなにひまじゃないんだ。{wait}{clear}そんなことなら、他のやつに頼んだらどうだい？	No thanks to a request that makes no sense.{n}I'm not that idle.{wait}{clear}If that's all it is, why not ask somebody{n}else?	
+NASI_NG3.0096	わけのわからない依頼はごめんだ。{n}僕はそんなにひまじゃないんだ。{wait}{clear}そんなことなら、他のやつに頼んだらどうだい？	No thanks to a request that makes no sense.{n}I'm not that idle.{wait}{clear}If that's all it is, why{n}not ask somebody else?	
 NASI_NG3.0108	そんな場所へなんか、僕が行く必要は感じないな。{wait}{clear}他のやつに頼んだらどうだ？	I don't see why I'd need to go to a place{n}like that.{wait}{clear}Why not ask somebody else?	
 NASI_NG3.0156	そんなわけのわからないところへ、{n}僕が行くまでもないだろう？{wait}{clear}悪いけど、他の人に頼んでくれ。	There's no need for me to go somewhere that{n}makes no sense, is there?{wait}{clear}Sorry, but ask someone else.	
 NASI_NG3.01B6	悪いけど、気が向かない。{n}たまにはもっとましなお願いをしてくれないか？	Sorry, but I'm not in the mood. Couldn't you{n}make a better request once in a while?	

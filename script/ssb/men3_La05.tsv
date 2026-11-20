@@ -4,7 +4,7 @@ men3_La05.0066	呼び出して悪いわね。{wait}{clear}	Sorry to call you out
 men3_La05.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La05.008E	どうしたのですか、レイラ？{n}{wait}{clear}	What is it, Leyla?{n}{wait}{clear}	
 men3_La05.00AE	レイラ	Leyla	speaker
-men3_La05.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}銀のレイピアなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like to give{n}you. It's a silver rapier. Will you accept{n}it?{wait}{clear}	
+men3_La05.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}銀のレイピアなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd{n}like to give you. It's a silver{n}rapier. Will you accept it?{wait}{clear}	
 men3_La05.011E	ＮＵＬＬ	NULL	speaker
 men3_La05.012E	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_La05.0150	《戒律があるので……。》{n}	There are precepts...{n}	

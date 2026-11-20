@@ -21,4 +21,4 @@ loev07_02.028A	なにをですか？{wait}{clear}	Watching what?{wait}{clear}
 loev07_02.02A8	ルディエール	Rudiere	speaker
 loev07_02.02B8	なんだ……{wait}{clear}	Oh...{wait}{clear}	
 loev07_02.02D2	いや、別になんでもないよ。{wait}{clear}	No, it's nothing.{wait}{clear}	
-loev07_02.02FC	今日は疲れたんだ……。{n}もう寝たいんだ、じゃあな！{wait}{clear}	I'm tired today... I just want to sleep. See{n}ya!{wait}{clear}	
+loev07_02.02FC	今日は疲れたんだ……。{n}もう寝たいんだ、じゃあな！{wait}{clear}	I'm tired today... I just{n}want to sleep. See ya!{wait}{clear}	

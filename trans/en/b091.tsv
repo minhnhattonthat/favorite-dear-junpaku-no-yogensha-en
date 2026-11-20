@@ -39,16 +39,16 @@ rfd2.8009B9E0	  No
 rfd2.8009B9EC	Border
 rfd2.8009B9F4	Chaos Level
 rfd2.8009B9FC	Frontier
-rfd2.8009BA04	Kingdom
+rfd2.8009BA04	     Kingdom
 rfd2.8009BA20	Wilds
 rfd2.8009BA28	Six Kingdoms
-rfd2.8009BA34	Holy Nation
+rfd2.8009BA34	 Holy Nation
 rfd2.8009BA44	Ecclesia
 rfd2.8009BA50	Bremes Isle
 rfd2.8009BA64	Zern
-rfd2.8009BA70	Duchy
-rfd2.8009BA80	Courrege
-rfd2.8009BA90	Empire
+rfd2.8009BA70	       Duchy
+rfd2.8009BA80	Courrege    
+rfd2.8009BA90	      Empire
 rfd2.8009BAA0	Grosain
 rfd2.8009BAB0	World Chaos Level
 rfd2.8009BABC	Chaos:
@@ -60,12 +60,12 @@ rfd2.8009BB24	Unknown
 rfd2.8009BB2C	Injured
 rfd2.8009BB34	Dead
 rfd2.8009BB58	Location: %s - %s
-rfd2.8009BB68	%s        Chaos Level
-rfd2.8009BB84	Sleeping
-rfd2.8009BB9C	Training
-rfd2.8009BBB4	Resting
-rfd2.8009BBCC	Moving
-rfd2.8009BBE4	On a Mission
+rfd2.8009BB68	%s        Chaos Level     
+rfd2.8009BB84	Sleeping            
+rfd2.8009BB9C	Training            
+rfd2.8009BBB4	Resting             
+rfd2.8009BBCC	Moving              
+rfd2.8009BBE4	On a Mission        
 rfd2.8009BC14	Mission:
 rfd2.8009BC20	Heading:
 rfd2.8009BC2C	Scout %s. Is this all right?
@@ -96,26 +96,26 @@ rfd2.8009BFD8	End the visit.
 rfd2.8009BFEC	Accompany the hero?
 rfd2.8009C004	  Accompany
 rfd2.8009C010	  Don't Accompany
-rfd2.8009C028	Present
-rfd2.8009C038	Feather
-rfd2.8009C048	Book
-rfd2.8009C058	Herb
-rfd2.8009C068	Potion
-rfd2.8009C078	Charm
-rfd2.8009C088	Ring
-rfd2.8009C098	Bracelet
-rfd2.8009C0A8	Pendant
-rfd2.8009C0B8	Boots
-rfd2.8009C0C8	Armor
-rfd2.8009C0D8	Light Armor
-rfd2.8009C0E8	Robe
-rfd2.8009C0F8	Bow
-rfd2.8009C108	1H Sword
-rfd2.8009C118	Rod
-rfd2.8009C128	Staff
-rfd2.8009C138	Curved Sword
-rfd2.8009C148	1-Edged 2H
-rfd2.8009C158	2-Edged 2H
+rfd2.8009C028	Present       
+rfd2.8009C038	Feather       
+rfd2.8009C048	Book          
+rfd2.8009C058	Herb          
+rfd2.8009C068	Potion        
+rfd2.8009C078	Charm         
+rfd2.8009C088	Ring          
+rfd2.8009C098	Bracelet      
+rfd2.8009C0A8	Pendant       
+rfd2.8009C0B8	Boots         
+rfd2.8009C0C8	Armor         
+rfd2.8009C0D8	Light Armor   
+rfd2.8009C0E8	Robe          
+rfd2.8009C0F8	Bow           
+rfd2.8009C108	1H Sword      
+rfd2.8009C118	Rod           
+rfd2.8009C128	Staff         
+rfd2.8009C138	Curved Sword  
+rfd2.8009C148	1-Edged 2H    
+rfd2.8009C158	2-Edged 2H    
 rfd2.8009C168	Stress:
 rfd2.8009C174	Justice:
 rfd2.8009C180	HP:
@@ -235,21 +235,21 @@ rfd2.8009D6C8	Rosa's way of speaking is a little cold,
 rfd2.8009D6F4	but she's a very kind-hearted, good girl.
 rfd2.8009D714	I'm sure she'll be a help to you.
 rfd2.8009D738	Florinda may dress like that,
-rfd2.8009D760	but she's a good girl who works very seriously.
+rfd2.8009D760	but she's a good girl who works very hard.
 rfd2.8009D788	Shelly can be a little too easygoing,
 rfd2.8009D7B8	but she gets her work done properly.
-rfd2.8009D7DC	Lily goes at her own pace and can handle anything.
+rfd2.8009D7DC	Lily goes at her own pace, and does it all.
 rfd2.8009D808	He may look a little quiet,
 rfd2.8009D830	but Lynx works harder than anyone.
 rfd2.8009D854	He may seem a bit reckless, but he's fine!
 rfd2.8009D880	Aquila may be a little laid-back.
 rfd2.8009D8B4	But she does her work properly, so
-rfd2.8009D8DC	Cetus is very dependable and good at his work.
+rfd2.8009D8DC	Cetus is very reliable, and good at his job.
 rfd2.8009D910	Don't be fooled by appearances.
 rfd2.8009D934	Lepus is very good at looking after others.
 rfd2.8009D958	Someone so earnest and just
 rfd2.8009D99C	Who do you want to hear about?
-rfd2.8009D9E4	-
+rfd2.8009D9E4	 
 rfd2.8009D9F4	-
 rfd2.8009D9F8	-
 rfd2.8009DA04	＄＄＄＄＄＄, you get

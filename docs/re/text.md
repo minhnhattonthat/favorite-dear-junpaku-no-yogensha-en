@@ -151,6 +151,13 @@ entries boots and reaches every scene tried (`disc.md` §Grow test).
 `＄＄＄＄＄＄` (six full-width ＄, SJIS 81 90) in ssb text = the player's angel name (default ラビエル, entered at New
 Game; 4 katakana max seen in the name-entry screen). Verified in ceev01_01.ssb context.
 
+**Code that edits message bytes.** rfd2 0x800CEFD0(fairy) picks the hero whose relationship byte with the fairy is
+largest (|value| > 12), fetches T_Msg01 message fairy+8 (good) or fairy+16 (bad), strcpys the hero's name from the
+EXE table 0x8006F538 over the message's **last 14 bytes** (`＜勇者名＞ね。` in the JP) and strcats rfd2.8009D9E4
+(`ね。`). So those 16 English messages must end in `＜勇者名＞` + exactly 4 bytes of filler, and the appended tail
+is a blank (`tests/test_merge.py::test_compatibility_tail`). Other strings built from fragments: `docs/status.md`
+(rfd2 fragments, phase 7 notes). `python -X utf8 tools/refs.py FILE VA` disassembles every reference to a string.
+
 ## Extraction (phase 4; `tools/extract.py`, tests in `tests/test_text.py`)
 
 `script/` TSVs, columns `id jp en notes`; ids = `<file stem>.<hex offset of the text in the original file>` (ssb rows:

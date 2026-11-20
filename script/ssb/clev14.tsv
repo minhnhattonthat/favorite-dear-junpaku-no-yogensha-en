@@ -51,7 +51,7 @@ clev14.05AE	ＮＵＬＬ	NULL	speaker
 clev14.05BE	《ありがとう……。》{n}	Thank you...{n}	
 clev14.05DA	《私もうれしい……。》{n}	I'm happy too...{n}	
 clev14.0602	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0612	ありがとう。クライヴ{n}あなたにそう言ってもらえて、うれしいです。{wait}{clear}	Thank you. Clive, I'm happy to hear you say{n}that.{wait}{clear}	
+clev14.0612	ありがとう。クライヴ{n}あなたにそう言ってもらえて、うれしいです。{wait}{clear}	Thank you. Clive, I'm{n}happy to hear you say that.{wait}{clear}	
 clev14.0656	クライヴ	Clive	speaker
 clev14.0666	……長い時間、俺は死ぬことだけを考えていた……{n}この痛みから逃れるために。{wait}{clear}	...For a long time, all I thought about was{n}dying... to escape this pain.{wait}{clear}	
 clev14.06B8	今は……少しでも耐えられればと思っている。{wait}{clear}	Now... I think I'd like to endure it, even a{n}little.{wait}{clear}	

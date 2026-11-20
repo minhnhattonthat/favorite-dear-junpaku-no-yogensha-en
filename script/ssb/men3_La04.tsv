@@ -4,7 +4,7 @@ men3_La04.0066	呼び出して悪いわね。{wait}{clear}	Sorry to call you out
 men3_La04.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La04.008E	どうしたのですか、レイラ？{n}{wait}{clear}	What is it, Leyla?{n}{wait}{clear}	
 men3_La04.00AE	レイラ	Leyla	speaker
-men3_La04.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}クラダーリングなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like to give{n}you. It's a Claddagh ring. Will you accept{n}it?{wait}{clear}	
+men3_La04.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}クラダーリングなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}	Well, there's something I'd like{n}to give you. It's a Claddagh{n}ring. Will you accept it?{wait}{clear}	
 men3_La04.0120	ＮＵＬＬ	NULL	speaker
 men3_La04.0130	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_La04.0152	《戒律があるので……。》{n}	There are precepts...{n}	

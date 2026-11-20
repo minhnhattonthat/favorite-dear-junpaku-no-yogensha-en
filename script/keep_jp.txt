@@ -1,0 +1,59 @@
+# Rows left Japanese on purpose (tools/lint.py fails any other empty `en`): id<TAB>reason
+ed.8009E400	blank field (full-width spaces): nothing to translate
+pro.8009B684	blank field (full-width spaces): nothing to translate
+pro.8009B6A8	prologue quiz line-break marker
+pro.800A1864	name-entry kana grid row (full-width Latin, same letters in English; name entry is phase 8)
+rfd2.8009B5F8	debug printf, never drawn
+rfd2.8009B6E0	blank field (full-width spaces): nothing to translate
+rfd2.8009BA60	blank field (full-width spaces): nothing to translate
+rfd2.8009BB08	blank field (full-width spaces): nothing to translate
+rfd2.8009C1A4	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1A8	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1AC	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1B0	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1B4	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1B8	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1BC	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1C0	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1C4	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C1C8	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009C20C	dash shown for an empty value (a full-width bar)
+rfd2.8009C210	blank field (full-width spaces): nothing to translate
+rfd2.8009C3A4	blank field (full-width spaces): nothing to translate
+rfd2.8009C480	blank field (full-width spaces): nothing to translate
+rfd2.8009C570	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C57C	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C590	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C598	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C59C	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C5AC	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C5BC	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C5C8	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009C5D8	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+rfd2.8009CF8C	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CF90	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CF94	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CF98	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CF9C	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CFA0	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CFA4	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CFA8	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CFAC	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009CFB0	digit glyph table: numbers drawn with the font's full-width digits
+rfd2.8009D9F4	full-width slash between two counts (same glyph in English)
+rfd2.8009D9F8	string-match key / number template the substitution code compares against (rfd2 0x800BF280)
+SLPS.80021B9C	debug printf, never drawn
+SLPS.80021BD4	debug printf, never drawn
+SLPS.8008CD74	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CD98	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CDBC	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CDE0	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CE04	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CE28	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CE4C	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CE70	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CE94	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CEB8	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CEDC	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CF00	memory-card save title: the BIOS card manager draws full-width SJIS only
+SLPS.8008CF24	memory-card save title: the BIOS card manager draws full-width SJIS only

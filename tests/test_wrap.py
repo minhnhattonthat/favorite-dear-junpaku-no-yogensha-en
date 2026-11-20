@@ -27,7 +27,21 @@ def test_no_lone_short_last_line():
     text = " ".join(["word"] * 25)          # 6 full lines + 1 word at width 20, no sentence end
     out = pages(B.wrap(text, (20, 3, True)))
     assert all(len(p) <= 3 for p in out)
-    assert len(out[-1]) >= 2
+    assert len(out[-1]) >= 2 or B.width(out[-1][0]) >= 20 // 2     # balanced lines: no short lone last line
+
+
+def test_no_one_word_widow():
+    """greedy leaves 'ago.' alone on the last line; the balanced wrap keeps 2 lines and fills the last one"""
+    text = " ".join(["word"] * 9) + " ago."       # 9 words fill 44 letters exactly; greedy: "ago." alone
+    g = B.greedy(text, 44)
+    assert len(g) == 2 and B.width(g[-1]) < B.STUB
+    out = B.wrap_lines(text, 44)
+    assert len(out) == 2 and B.width(out[-1]) >= B.STUB and all(B.width(x) <= 44 for x in out)
+    assert " ".join(out) == text
+
+
+def test_forced_short_line_kept():
+    assert B.wrap_lines("Hey!{n}You.", 44) == ["Hey!", "You."]
 
 
 def test_every_word_kept():

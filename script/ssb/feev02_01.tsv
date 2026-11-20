@@ -30,7 +30,7 @@ feev02_01.04EC	どうも、君に助けられたあの一件が{n}噂になっ�
 feev02_01.057A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.058A	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	
 feev02_01.05A2	フェイン	Fein	speaker
-feev02_01.05AE	悪いな……。{n}じゃあ、先を急ごう……。{wait}{clear}	Sorry about this... Well then, let's press{n}on...{wait}{clear}	
+feev02_01.05AE	悪いな……。{n}じゃあ、先を急ごう……。{wait}{clear}	Sorry about this... Well{n}then, let's press on...{wait}{clear}	
 feev02_01.060A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.061A	あの、フェイン、聞いてもいいですか？{wait}{clear}	Um, Fein, may I ask you something?{wait}{clear}	
 feev02_01.0642	フェイン	Fein	speaker

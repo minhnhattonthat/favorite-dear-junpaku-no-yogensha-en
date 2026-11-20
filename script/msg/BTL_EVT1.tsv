@@ -168,7 +168,7 @@ BTL_EVT1.1245	に、二度とくるな！！	D-don't ever come back!!
 BTL_EVT1.125DS	ティタン	Titan	speaker
 BTL_EVT1.1266	に、二度とくるな！！	D-don't ever come back!!	
 BTL_EVT1.12A2S	サヴィオ	Savio	speaker
-BTL_EVT1.12AB	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's hero Serenis spoke{n}of...	
+BTL_EVT1.12AB	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's{n}hero Serenis spoke of...	
 BTL_EVT1.12E3S	サヴィオ	Savio	speaker
 BTL_EVT1.12EC	殺す。	I'll kill you.	
 BTL_EVT1.12F6S	クライヴ	Clive	speaker
@@ -250,7 +250,7 @@ BTL_EVT1.1AC8	我が戦いは、皇帝のため！	I fight for the Emperor!
 BTL_EVT1.1B08S	クライヴ	Clive	speaker
 BTL_EVT1.1B11	魔族など、この世界には必要ない……。	This world has no need for demons...	
 BTL_EVT1.1B39S	融合兵	Fused Troop	speaker
-BTL_EVT1.1B40	愚かな人間どもこそ、この世界には不要だ！	It's foolish humans this world has no need{n}for!	
+BTL_EVT1.1B40	愚かな人間どもこそ、この世界には不要だ！	It's foolish humans this{n}world has no need for!	
 BTL_EVT1.1B6CS	クライヴ	Clive	speaker
 BTL_EVT1.1B75	……魔族どもめ……。{n}俺はやつらを倒す……。	...Demons... I'll destroy them...	
 BTL_EVT1.1BA5S	融合兵	Fused Troop	speaker
@@ -362,7 +362,7 @@ BTL_EVT1.2640	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT1.269CS	クライヴ	Clive	speaker
 BTL_EVT1.26A5	お前は……魔族……。	You're... a demon...	
 BTL_EVT1.26BDS	リベザル	Ribezal	speaker
-BTL_EVT1.26C6	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
+BTL_EVT1.26C6	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is{n}finally about to be born.{wait}{clear}You pests will have to disappear!	
 BTL_EVT1.2726S	クライヴ	Clive	speaker
 BTL_EVT1.272F	…………。	.....	
 BTL_EVT1.273DS	リベザル	Ribezal	speaker
@@ -412,7 +412,7 @@ BTL_EVT1.2B43	キシシシシシ！	Kishishishishi!
 BTL_EVT1.2B79S	クライヴ	Clive	speaker
 BTL_EVT1.2B82	貴様ら……	You lot...	
 BTL_EVT1.2B90S	ゴーゴン	Gorgon	speaker
-BTL_EVT1.2B99	あら……？{n}私のところに来てくれるなんて光栄だわ。{n}一生ここにいてもいいのよ？	Oh my...? I'm honored you came to see me.{wait}{clear}You're welcome to stay here forever, you{n}know?	
+BTL_EVT1.2B99	あら……？{n}私のところに来てくれるなんて光栄だわ。{n}一生ここにいてもいいのよ？	Oh my...? I'm honored you came{n}to see me. You're welcome to{wait}{clear}stay here forever, you know?	
 BTL_EVT1.2BEBS	クライヴ	Clive	speaker
 BTL_EVT1.2BF4	……俺はお前を倒す……。	...I'm going to destroy you...	
 BTL_EVT1.2C10S	クライヴ	Clive	speaker
@@ -616,11 +616,11 @@ BTL_EVT1.3F3F	テンシノ　ユウシャナド{n}タイシタコト　ナイ！
 BTL_EVT1.3F95S	クライヴ	Clive	speaker
 BTL_EVT1.3F9E	お前らを倒す！	I'll defeat you all!	
 BTL_EVT1.3FB0S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT1.3FBF	ふふふ……{n}では、あなたを私は王にささげましょう！	Hehehe... Then I shall offer you to the{n}king!	
+BTL_EVT1.3FBF	ふふふ……{n}では、あなたを私は王にささげましょう！	Hehehe... Then I shall{n}offer you to the king!	
 BTL_EVT1.3FF5S	クライヴ	Clive	speaker
 BTL_EVT1.3FFE	地獄へ堕ちろ……。	Go to hell...	
 BTL_EVT1.4014S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT1.4023	ふふふふ……まだまだ王にはおよばぬな！	Hehehehe... You're still no match for the{n}king!	
+BTL_EVT1.4023	ふふふふ……まだまだ王にはおよばぬな！	Hehehehe... You're still{n}no match for the king!	
 BTL_EVT1.404DS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT1.405C	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
 BTL_EVT1.40A8S	ウィザード	Wizard	speaker
@@ -748,7 +748,7 @@ BTL_EVT1.4D35	…………。	.....
 BTL_EVT1.4D43S	モラクス	Morax	speaker
 BTL_EVT1.4D4C	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT1.4D76S	モラクス	Morax	speaker
-BTL_EVT1.4D7F	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero is like a babe in{n}arms!	
+BTL_EVT1.4D7F	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero{n}is like a babe in arms!	
 BTL_EVT1.4DD1S	ラルヴァ	Larva	speaker
 BTL_EVT1.4DDA	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT1.4E6CS	クライヴ	Clive	speaker

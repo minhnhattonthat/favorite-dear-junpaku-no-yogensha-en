@@ -8,7 +8,7 @@ feev02_01.04D8	フェイン	Fein	speaker
 feev02_01.04EF	お久しぶりです、マスター・レイジハー。{n}近くにきたので寄らせてもらいました。	It's been a long time, Master Reijiher. I{n}was nearby, so I thought I'd drop in.	text
 feev02_01.054A	レイジハー	Reijiher	speaker
 feev02_01.0563	フェインか……無事だったのだな。	Fein... so you're safe.	text
-feev02_01.0592	君についての悪い噂を聞いていたので{n}心配していたのだ。	I was worried, having heard bad rumors about{n}you.	text
+feev02_01.0592	君についての悪い噂を聞いていたので{n}心配していたのだ。	I was worried, having{n}heard bad rumors about you.	text
 feev02_01.05D7	フェイン	Fein	speaker
 feev02_01.05EE	自分についての悪い噂？{n}いったいどんな話が？	Bad rumors about me? What sort of story?	text
 feev02_01.0629	レイジハ－	Reijiher	speaker
@@ -17,14 +17,14 @@ feev02_01.0685	素性のわからぬウォーロックたちが{n}近頃、暗�
 feev02_01.06DA	それで、もしやと思っていたのだが、{n}噂がうそでよかった……。	So I feared the worst, but I'm glad the{n}rumor was false...	text
 feev02_01.0725	フェイン	Fein	speaker
 feev02_01.073C	いえ……{n}その噂はすべてがうそではありません。{n}自分が黒衣の魔導士たちに襲われたのは事実です。	No... the rumor isn't entirely false. It's{n}true that I was attacked by the Black Mages.	text
-feev02_01.07A9	幸運が重ならなければ、{n}噂通りに自分は死んでいたでしょう。	If luck hadn't been on my side again and{n}again, I would have died, just as the rumor{n}says.	text
+feev02_01.07A9	幸運が重ならなければ、{n}噂通りに自分は死んでいたでしょう。	If luck hadn't been on my side{n}again and again, I would have{n}died, just as the rumor says.	text
 feev02_01.07F2	レイジハー	Reijiher	speaker
 feev02_01.080B	そうだったのか……。{n}それで、そのウォーロックたちは{n}何者かわかったのか？	I see... And did you find out who those{n}Warlocks are?	text
 feev02_01.0864	フェイン	Fein	speaker
 feev02_01.087B	いいえ、はっきりしたことは……。{n}ただ、自分の考えでは帝国の手の者かと……。	No, nothing certain... But I believe they're{n}the Empire's agents...	text
 feev02_01.08D6	自分がグローサイン帝国へ向かうことを知って{n}襲ってきたのではないかと考えています……。	I think they attacked me because they knew I{n}was heading for the Grosain Empire...	text
 feev02_01.093B	レイジハー	Reijiher	speaker
-feev02_01.0954	帝国に魔導士が残っていたとは……。{n}これは他のロッジにも伝えなければなるまい。	To think mages still remained in the{n}Empire... I must tell the other lodges of{n}this.	text
+feev02_01.0954	帝国に魔導士が残っていたとは……。{n}これは他のロッジにも伝えなければなるまい。	To think mages still remained{n}in the Empire... I must tell{n}the other lodges of this.	text
 feev02_01.09B1	君が生きていたのは吉報だが{n}帝国にかしずく魔導士の存在は、きわめて悪い話だ。	Your survival is good news, but mages{n}serving the Empire is very bad news indeed.	text
 feev02_01.0A0C	いずれ、ギルドマスターが集まって、{n}協議せねばなるまいな……。	Sooner or later the Guild Masters will have{n}to gather and confer...	text
 feev02_01.0A59	そうだ、フェイン、老師も君のことを心配していた。{n}バーゼルへ行ったらグランドロッジへ寄るといい。	Oh yes, Fein, the Elder was worried about{n}you as well. When you reach Basel, call at{n}the Grand Lodge.	text

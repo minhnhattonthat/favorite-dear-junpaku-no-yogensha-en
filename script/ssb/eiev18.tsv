@@ -25,7 +25,7 @@ eiev18.0270	やめておきます。{wait}{clear}	I'll pass.{wait}{clear}
 eiev18.0290	アイリーン	Irene	speaker
 eiev18.029E	なんでよ、つまんない。{wait}{clear}あーあ。{n}じゃ、ウェスタ、私たちだけで行こ。{wait}{clear}	Why not? You're no fun.{wait}{clear}Ahh, fine. Vesta, let's go by ourselves.{wait}{clear}	
 eiev18.0304	アイリーン	Irene	speaker
-eiev18.0312	知らないの？{n}雪をぶつけるのよ。{n}まるめて、手に持って、どかって。{wait}{clear}	You don't know? You throw snow at each{n}other. You pack it into a ball, hold it, and{n}WHAM.{wait}{clear}	
+eiev18.0312	知らないの？{n}雪をぶつけるのよ。{n}まるめて、手に持って、どかって。{wait}{clear}	You don't know? You throw snow{n}at each other. You pack it{n}into a ball, hold it, and WHAM.{wait}{clear}	
 eiev18.0358	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0368	どかっ、ですか？{wait}{clear}	Wham?{wait}{clear}	
 eiev18.037C	アイリーン	Irene	speaker
@@ -74,7 +74,7 @@ eiev18.09F2	いつでもまた、声をかけてください。{n}つき合い�
 eiev18.0A38	アイリーン	Irene	speaker
 eiev18.0A46	そんなこと言っていいの？{n}いつも、忙しそうにしてるのに。{wait}{clear}	Are you sure you should say that? You always{n}look so busy.{wait}{clear}	
 eiev18.0A82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0A92	アイリーンが元気になるのだったらかまいませんよ。{wait}{clear}	If it cheers you up, Irene, I don't mind at{n}all.{wait}{clear}	
+eiev18.0A92	アイリーンが元気になるのだったらかまいませんよ。{wait}{clear}	If it cheers you up,{n}Irene, I don't mind at all.{wait}{clear}	
 eiev18.0AD4	アイリーン	Irene	speaker
 eiev18.0AE2	そう……ありがと。{n}もう、いつまでも情けない顔してられないもんね。{wait}{clear}	I see... thanks. I can't keep wearing such a{n}pathetic face forever, can I?{wait}{clear}	
 eiev18.0B54	アイリーン	Irene	speaker

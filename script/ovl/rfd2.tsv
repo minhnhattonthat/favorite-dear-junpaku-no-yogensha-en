@@ -13,18 +13,18 @@ rfd2.8009B9E0	　いいえ	  No	luix1
 rfd2.8009B9EC	国　境	Border	ptrx1
 rfd2.8009B9F4	混乱度	Chaos Level	ptrx1
 rfd2.8009B9FC	辺境	Frontier	ptrx1
-rfd2.8009BA04	　　　　王国	Kingdom	ptrx1
+rfd2.8009BA04	　　　　王国	     Kingdom	ptrx1
 rfd2.8009BA14	レグランス	Legrance	ptrx1
 rfd2.8009BA20	未開地	Wilds	ptrx1
 rfd2.8009BA28	六王国連合	Six Kingdoms	ptrx1
-rfd2.8009BA34	　　　　教国	Holy Nation	ptrx1
+rfd2.8009BA34	　　　　教国	 Holy Nation	ptrx1
 rfd2.8009BA44	エクレシア	Ecclesia	ptrx1
 rfd2.8009BA50	ブレメース島	Bremes Isle	ptrx1
 rfd2.8009BA60	　		ptrx7
 rfd2.8009BA64	ゼルン公国	Zern	ptrx1
-rfd2.8009BA70	　　　　公国	Duchy	ptrx1
-rfd2.8009BA80	クレージュ　	Courrege	ptrx1
-rfd2.8009BA90	　　　　帝国	Empire	ptrx1
+rfd2.8009BA70	　　　　公国	       Duchy	ptrx1
+rfd2.8009BA80	クレージュ　	Courrege    	ptrx1
+rfd2.8009BA90	　　　　帝国	      Empire	ptrx1
 rfd2.8009BAA0	グローサイン	Grosain	ptrx1
 rfd2.8009BAB0	世界混乱度	World Chaos Level	luix1
 rfd2.8009BABC	混乱度：	Chaos:	luix2
@@ -37,12 +37,12 @@ rfd2.8009BB24	不明	Unknown	luix1
 rfd2.8009BB2C	負傷	Injured	luix1
 rfd2.8009BB34	死亡	Dead	luix1
 rfd2.8009BB58	現在地：%s－%s	Location: %s - %s	luix1
-rfd2.8009BB68	%s　　　　　　　　混乱度　	%s        Chaos Level	luix1
-rfd2.8009BB84	睡眠中　　　　　　　	Sleeping	luix1
-rfd2.8009BB9C	修行中　　　　　　　	Training	luix1
-rfd2.8009BBB4	休息中　　　　　　　	Resting	luix1
-rfd2.8009BBCC	移動中　　　　　　　	Moving	luix1
-rfd2.8009BBE4	任務遂行中　　　　　	On a Mission	luix1
+rfd2.8009BB68	%s　　　　　　　　混乱度　	%s        Chaos Level     	luix1
+rfd2.8009BB84	睡眠中　　　　　　　	Sleeping            	luix1
+rfd2.8009BB9C	修行中　　　　　　　	Training            	luix1
+rfd2.8009BBB4	休息中　　　　　　　	Resting             	luix1
+rfd2.8009BBCC	移動中　　　　　　　	Moving              	luix1
+rfd2.8009BBE4	任務遂行中　　　　　	On a Mission        	luix1
 rfd2.8009BC14	任務　：	Mission:	luix1
 rfd2.8009BC20	移動先：	Heading:	luix1
 rfd2.8009BC2C	%sをスカウトします。よろしいですか？	Scout %s. Is this all right?	luix1
@@ -66,11 +66,11 @@ rfd2.8009BDC4	任　務	Mission	ptrx1
 rfd2.8009BDCC	会　話	Talk	ptrx1
 rfd2.8009BE24	まだ話があるのか？	Something else to talk about?	luix1
 rfd2.8009BE38	まだ、あるのか……。	More...?	luix1
-rfd2.8009BE50	まだなにか話したいことでもあるのか？	Is there something else you want to talk about?	luix1
+rfd2.8009BE50	まだなにか話したいことでもあるのか？	Is there anything else you want to discuss?	luix1
 rfd2.8009BE78	まだなにかあるのか？	Is there something else?	luix1
 rfd2.8009BE90	まだなにかあるの？	Is there something else?	luix1
 rfd2.8009BEA4	他にはなにかある？	Is there anything else?	luix1
-rfd2.8009BEB8	天使様、まだなにかお話がありますか？	Angel, is there something else you wanted to talk about?	luix1
+rfd2.8009BEB8	天使様、まだなにかお話がありますか？	Angel, is there anything else to discuss?	luix1
 rfd2.8009BEE0	何の御用でしょう	How may I help you?	luix1
 rfd2.8009BF14	目的地はどこだ？	Where's the destination?	luix1
 rfd2.8009BF28	どこへ行けばいいんだ。	Where should I go.	luix1
@@ -84,26 +84,26 @@ rfd2.8009BFD8	訪問を終了します。	End the visit.	luix1
 rfd2.8009BFEC	勇者に同行しますか？	Accompany the hero?	luix1
 rfd2.8009C004	　同行する	  Accompany	luix1
 rfd2.8009C010	　同行しない	  Don't Accompany	luix1
-rfd2.8009C028	プレゼント　　	Present	ptrx1
-rfd2.8009C038	羽　　　　　　	Feather	ptrx1
-rfd2.8009C048	本　　　　　　	Book	ptrx1
-rfd2.8009C058	薬草　　　　　	Herb	ptrx1
-rfd2.8009C068	ポーション　　	Potion	ptrx1
-rfd2.8009C078	お守り　　　　	Charm	ptrx1
-rfd2.8009C088	リング　　　　	Ring	ptrx1
-rfd2.8009C098	ブレスレット　	Bracelet	ptrx1
-rfd2.8009C0A8	ペンダント　　	Pendant	ptrx1
-rfd2.8009C0B8	ブーツ　　　　	Boots	ptrx1
-rfd2.8009C0C8	通常鎧　　　　	Armor	ptrx1
-rfd2.8009C0D8	軽装鎧　　　　	Light Armor	ptrx1
-rfd2.8009C0E8	ローブ　　　　	Robe	ptrx1
-rfd2.8009C0F8	弓　　　　　　	Bow	ptrx1
-rfd2.8009C108	片手剣　　　　	1H Sword	ptrx1
-rfd2.8009C118	ロッド　　　　	Rod	ptrx1
-rfd2.8009C128	スタッフ　　　	Staff	ptrx1
-rfd2.8009C138	湾曲刀　　　　	Curved Sword	ptrx1
-rfd2.8009C148	片刃両手剣　　	1-Edged 2H	ptrx1
-rfd2.8009C158	両刃両手剣　　	2-Edged 2H	ptrx1
+rfd2.8009C028	プレゼント　　	Present       	ptrx1
+rfd2.8009C038	羽　　　　　　	Feather       	ptrx1
+rfd2.8009C048	本　　　　　　	Book          	ptrx1
+rfd2.8009C058	薬草　　　　　	Herb          	ptrx1
+rfd2.8009C068	ポーション　　	Potion        	ptrx1
+rfd2.8009C078	お守り　　　　	Charm         	ptrx1
+rfd2.8009C088	リング　　　　	Ring          	ptrx1
+rfd2.8009C098	ブレスレット　	Bracelet      	ptrx1
+rfd2.8009C0A8	ペンダント　　	Pendant       	ptrx1
+rfd2.8009C0B8	ブーツ　　　　	Boots         	ptrx1
+rfd2.8009C0C8	通常鎧　　　　	Armor         	ptrx1
+rfd2.8009C0D8	軽装鎧　　　　	Light Armor   	ptrx1
+rfd2.8009C0E8	ローブ　　　　	Robe          	ptrx1
+rfd2.8009C0F8	弓　　　　　　	Bow           	ptrx1
+rfd2.8009C108	片手剣　　　　	1H Sword      	ptrx1
+rfd2.8009C118	ロッド　　　　	Rod           	ptrx1
+rfd2.8009C128	スタッフ　　　	Staff         	ptrx1
+rfd2.8009C138	湾曲刀　　　　	Curved Sword  	ptrx1
+rfd2.8009C148	片刃両手剣　　	1-Edged 2H    	ptrx1
+rfd2.8009C158	両刃両手剣　　	2-Edged 2H    	ptrx1
 rfd2.8009C168	ストレス：	Stress:	ptrx1
 rfd2.8009C174	正義感：	Justice:	ptrx1
 rfd2.8009C180	ＨＰ：	HP:	ptrx1
@@ -250,21 +250,21 @@ rfd2.8009D6C8	ローザはちょっと言葉づかいは冷たいけれど、	Ro
 rfd2.8009D6F4	とても心のやさしい、いい子よ。	but she's a very kind-hearted, good girl.	luix1
 rfd2.8009D714	きっと、あなたの役に立つと思うわ。	I'm sure she'll be a help to you.	luix1
 rfd2.8009D738	フロリンダはあんな格好をしているけど、	Florinda may dress like that,	luix1
-rfd2.8009D760	とっても真面目に仕事をするいい子よ。	but she's a good girl who works very seriously.	luix1
+rfd2.8009D760	とっても真面目に仕事をするいい子よ。	but she's a good girl who works very hard.	luix1
 rfd2.8009D788	シェリーは調子のいいところがちょっとあるけど、	Shelly can be a little too easygoing,	luix1
 rfd2.8009D7B8	仕事はしっかりこなしてくれる子よ。	but she gets her work done properly.	luix1
-rfd2.8009D7DC	リリィはなんでもこなせるマイペースな子よ。	Lily goes at her own pace and can handle anything.	luix1
+rfd2.8009D7DC	リリィはなんでもこなせるマイペースな子よ。	Lily goes at her own pace, and does it all.	luix1
 rfd2.8009D808	少しおとなしく見えるかもしれないけど、	He may look a little quiet,	luix1
 rfd2.8009D830	リンクスは人一倍のがんばり屋よ。	but Lynx works harder than anyone.	luix1
 rfd2.8009D854	ちょっと危なっかしく見えるけど、大丈夫！	He may seem a bit reckless, but he's fine!	luix1
 rfd2.8009D880	アクイラは少しおっとりしているかもしれないわね。	Aquila may be a little laid-back.	luix1
 rfd2.8009D8B4	でも、仕事はしっかりしてくれるから、	But she does her work properly, so	luix1
-rfd2.8009D8DC	シータスとてもしっかり者で、仕事はよくできるわ。	Cetus is very dependable and good at his work.	luix1
+rfd2.8009D8DC	シータスとてもしっかり者で、仕事はよくできるわ。	Cetus is very reliable, and good at his job.	luix1
 rfd2.8009D910	見かけに惑わされたりしないでね。	Don't be fooled by appearances.	luix1
 rfd2.8009D934	レーパスはとても面倒見のいい子よ。	Lepus is very good at looking after others.	luix1
 rfd2.8009D958	真面目で正義感の強い彼女なら	Someone so earnest and just	luix1
 rfd2.8009D99C	誰のことが聞きたいの？	Who do you want to hear about?	luix1
-rfd2.8009D9E4	ね。		luix1
+rfd2.8009D9E4	ね。	 	luix1
 rfd2.8009D9F4	／		luix1
 rfd2.8009D9F8	００００		luix1
 rfd2.8009DA04	＄＄＄＄＄＄、ボーナスＡＰ	＄＄＄＄＄＄, you get	luix1

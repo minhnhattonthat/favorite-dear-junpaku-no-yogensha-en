@@ -2,7 +2,7 @@ id	jp	en	notes
 loev05_02.002A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.003A	こんばんは、ルディ。{wait}{clear}	Good evening, Rudi.{wait}{clear}	
 loev05_02.005C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.006C	変ですね……{n}部屋でじっとしていると言っていたのに……。{wait}{clear}あ……！{n}外にいるようですね。{n}行ってみましょう。{wait}{clear}	That's strange... He said he would stay put{n}in his room...{wait}{clear}Ah...! It seems he's outside. Let's go and{n}see.{wait}{clear}	
+loev05_02.006C	変ですね……{n}部屋でじっとしていると言っていたのに……。{wait}{clear}あ……！{n}外にいるようですね。{n}行ってみましょう。{wait}{clear}	That's strange... He said he would stay put{n}in his room...{wait}{clear}Ah...! It seems he's{n}outside. Let's go and see.{wait}{clear}	
 loev05_02.00EE	ルディエール	Rudiere	speaker
 loev05_02.0102	なんだ……。{n}どうした？{wait}{clear}	What... What's up?{wait}{clear}	
 loev05_02.011E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -12,12 +12,12 @@ loev05_02.01B2	あ、うん……なんだか眠れなくてさ。{wait}{clear}	
 loev05_02.01DC	部屋を抜け出して、ここで景色を見てた……。{wait}{clear}	I snuck out of my room and was looking at{n}the view here...{wait}{clear}	
 loev05_02.020E	ふう……なんだかんだ言って、{n}あの宰相の言ってた通りだ……{wait}{clear}	Phew... Say what you will, that chancellor{n}had a point...{wait}{clear}	
 loev05_02.0250	おれたちの国は若くて歴史もない……。{wait}{clear}	Our country is young and has no history...{wait}{clear}	
-loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{wait}{clear}	Maybe it's only natural they look down on{n}me.{wait}{clear}	
+loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{wait}{clear}	Maybe it's only natural{n}they look down on me.{wait}{clear}	
 loev05_02.02AA	ＮＵＬＬ	NULL	speaker
 loev05_02.02BA	《そんなことはない》{n}	That isn't true{n}	
 loev05_02.02D6	《気を落とすことはない》{n}	Don't lose heart{n}	
 loev05_02.0300	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_02.0310	そんなことはありません。{n}あなたの国は立派な国です。{wait}{clear}それぞれの国に事情はあります。{n}でも、そこに優劣はないはずです。{wait}{clear}	That isn't true. Your country is a fine one.{wait}{clear}Every country has its own circumstances. But{n}none of them should be better or worse for{n}it.{wait}{clear}	
+loev05_02.0310	そんなことはありません。{n}あなたの国は立派な国です。{wait}{clear}それぞれの国に事情はあります。{n}でも、そこに優劣はないはずです。{wait}{clear}	That isn't true. Your country is a fine one.{wait}{clear}Every country has its own{n}circumstances. But none of them{n}should be better or worse for it.{wait}{clear}	
 loev05_02.038C	ルディエール	Rudiere	speaker
 loev05_02.03A0	そうだな……。{wait}{clear}	Yeah...{wait}{clear}	
 loev05_02.03B6	おれたちの国はこれからだ……{wait}{clear}	Our country's just getting started...{wait}{clear}	
@@ -62,7 +62,7 @@ loev05_02.091C	ここから外の世界を眺めていると、気分が落ち�
 loev05_02.0954	人があの小さな明かり{n}一つ一つで、それぞれの日々を暮らしている……。{wait}{clear}	Under each of those little lights, people{n}are living out their own days...{wait}{clear}	
 loev05_02.09A0	そんな想像をしていると……{n}なにか……今の自分を忘れられる……。{wait}{clear}	When I imagine that... somehow... I can{n}forget who I am now...{wait}{clear}	
 loev05_02.09E4	ルディエール	Rudiere	speaker
-loev05_02.09F8	あなたは、{n}本当はおやさしい方なのですね。{wait}{clear}	You're truly a kind person at heart, aren't{n}you?{wait}{clear}	
+loev05_02.09F8	あなたは、{n}本当はおやさしい方なのですね。{wait}{clear}	You're truly a kind person{n}at heart, aren't you?{wait}{clear}	
 loev05_02.0A26	エンディミオン	Endymion	speaker
 loev05_02.0A3C	なぜ……そんなことを？{wait}{clear}	Why... would you say that?{wait}{clear}	
 loev05_02.0A56	ルディエール	Rudiere	speaker

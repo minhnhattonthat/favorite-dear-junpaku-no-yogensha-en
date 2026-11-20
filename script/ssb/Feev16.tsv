@@ -19,7 +19,7 @@ Feev16.01F0	……ああ、すまない。{n}少し、待ってくれないか�
 Feev16.0222	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.0232	はい。{wait}{clear}	Yes.{wait}{clear}	
 Feev16.0254	フェイン	Fein	speaker
-Feev16.0260	悪かったな、＄＄＄＄＄＄。{n}なにか話か？{wait}{clear}	My apologies, ＄＄＄＄＄＄. Did you want to{n}talk?{wait}{clear}	
+Feev16.0260	悪かったな、＄＄＄＄＄＄。{n}なにか話か？{wait}{clear}	My apologies, ＄＄＄＄＄＄.{n}Did you want to talk?{wait}{clear}	
 Feev16.028C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.029C	すみません、フェイン。{n}読書の邪魔をしてしまって……。{wait}{clear}	I'm sorry, Fein. I interrupted your{n}reading...{wait}{clear}	
 Feev16.02D6	フェイン	Fein	speaker

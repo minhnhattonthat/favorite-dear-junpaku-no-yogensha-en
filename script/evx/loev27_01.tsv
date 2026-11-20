@@ -3,7 +3,7 @@ loev27_01.0002	1		dev label (guess: not shown)
 loev27_01.00A2	ルディ	Rudi	unit name (32-byte field)
 loev27_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 loev27_01.04D8	聖母	Holy Mother	speaker
-loev27_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
+loev27_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done{n}well to come this far.	text
 loev27_01.0518	ルディ	Rudi	speaker
 loev27_01.052D	あなたは……？	Who are you...?	text
 loev27_01.054A	聖母	Holy Mother	speaker
@@ -37,6 +37,6 @@ loev27_01.0BBF	ただ、とても昔の出来事を……{n}いまでは伝説�
 loev27_01.0C22	いずれ、あなたは、もっと悲惨な戦いへと{n}向かうことになるでしょう。	In time, you will face an even more terrible{n}battle.	text
 loev27_01.0C73	ですが、どうか自分を信じて前へと進んでください。{n}きっと、天使様があなたを導いてくださるはずです。	But please, believe in yourself and keep{n}moving forward. I'm sure the angel will{n}guide you.	text
 loev27_01.0CE4	ルディ	Rudi	speaker
-loev27_01.0CF9	わかりました……。{n}お話ししてくださり、ありがとうございました。	I understand... Thank you for speaking with{n}me.	text
+loev27_01.0CF9	わかりました……。{n}お話ししてくださり、ありがとうございました。	I understand... Thank{n}you for speaking with me.	text
 loev27_01.0D48	聖母	Holy Mother	speaker
 loev27_01.0D5B	気をつけて、ルディエール。	Take care, Rudiere.	text

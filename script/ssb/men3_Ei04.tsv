@@ -2,7 +2,7 @@ id	jp	en	notes
 men3_Ei04.005C	アイリーン	Irene	speaker
 men3_Ei04.006A	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men3_Ei04.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei04.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is something troubling{n}you?{wait}{clear}	
+men3_Ei04.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is{n}something troubling you?{wait}{clear}	
 men3_Ei04.00CC	アイリーン	Irene	speaker
 men3_Ei04.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、{n}この古い腕輪をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}	Nope, nothing like that, so don't worry. I{n}wanted to give you this old bracelet,{n}＄＄＄＄＄＄.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Ei04.0170	ＮＵＬＬ	NULL	speaker

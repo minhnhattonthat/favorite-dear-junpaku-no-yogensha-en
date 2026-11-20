@@ -32,7 +32,7 @@ feev03_01.05D4	それから……{n}お前とともにある存在を私は感�
 feev03_01.065A	フェイン	Fein	speaker
 feev03_01.0666	はい……わかっています。{n}ただ、それは特別な存在です……。{wait}{clear}老師にもお話しできる日が{n}いつか来るかもしれません。{wait}{clear}	Yes... I know. But it is a special{n}presence...{wait}{clear}The day may come when I can tell you about{n}it too, Elder.{wait}{clear}	
 feev03_01.06DC	ライノール	Raynor	speaker
-feev03_01.06EA	ふむ……そうか。{n}それは、楽しみにしていよう。{wait}{clear}	Hmm... I see. Then I shall look forward to{n}it.{wait}{clear}	
+feev03_01.06EA	ふむ……そうか。{n}それは、楽しみにしていよう。{wait}{clear}	Hmm... I see. Then I{n}shall look forward to it.{wait}{clear}	
 feev03_01.0742	フェイン	Fein	speaker
 feev03_01.074E	＄＄＄＄＄＄、いるのだろう？{wait}{clear}	＄＄＄＄＄＄, you're there, aren't you?{wait}{clear}	
 feev03_01.076E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -60,7 +60,7 @@ feev03_01.0B6C	ああ、なんだ？{wait}{clear}	Sure, what is it?{wait}{clear}
 feev03_01.0B7E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0B8E	グランドマスターがおっしゃった、{n}セレニスとは……{wait}{clear}	The Serenis the Grand Master mentioned...{wait}{clear}	
 feev03_01.0BD0	フェイン	Fein	speaker
-feev03_01.0BDC	悪いが、その話には今はこたえたくない。{wait}{clear}いつか……話せるときがきたら話す……。{wait}{clear}	Sorry, but I don't want to answer that right{n}now.{wait}{clear}Someday... when I can talk about it, I{n}will...{wait}{clear}	
+feev03_01.0BDC	悪いが、その話には今はこたえたくない。{wait}{clear}いつか……話せるときがきたら話す……。{wait}{clear}	Sorry, but I don't want{n}to answer that right now.{wait}{clear}Someday... when I can talk about it, I{n}will...{wait}{clear}	
 feev03_01.0C30	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0C40	わかりました……。{n}フェインが話したくないことを{n}無理には聞きませんから……。{wait}{clear}	I understand... I won't force you to talk{n}about things you don't want to, Fein...{wait}{clear}	
 feev03_01.0C9E	フェイン	Fein	speaker
@@ -70,6 +70,6 @@ feev03_01.0DA4	はい、そうですね……。{wait}{clear}	Yes, you're right.
 feev03_01.0DBE	フェイン	Fein	speaker
 feev03_01.0DCA	あ、あと、老師にはあんなふうに言ってしまったが、{n}君のことは、あまりおおっぴらに{n}話さない方がいいのだろう？{wait}{clear}	Oh, and I said that much to the Elder, but{n}it's probably better not to talk about you{n}too openly, right?{wait}{clear}	
 feev03_01.0E3A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0E4A	いえ、フェインが話したいと思えば、{n}話してもかまいません。{wait}{clear}ただ、私自身がたくさんの普通の人々の前で{n}姿を見せることはできませんけれど。{wait}{clear}	No, if you want to tell someone, Fein, you{n}may.{wait}{clear}Though I can't show myself in front of many{n}ordinary people.{wait}{clear}	
+feev03_01.0E4A	いえ、フェインが話したいと思えば、{n}話してもかまいません。{wait}{clear}ただ、私自身がたくさんの普通の人々の前で{n}姿を見せることはできませんけれど。{wait}{clear}	No, if you want to tell{n}someone, Fein, you may.{wait}{clear}Though I can't show myself in front of many{n}ordinary people.{wait}{clear}	
 feev03_01.0ED8	フェイン	Fein	speaker
 feev03_01.0EE4	そうか……。{n}じゃあ、いつか話せる機会があれば、{n}老師には君のことを話したい……。{wait}{clear}いつかな……。{wait}{clear}	I see... Then if I ever get the chance, I'd{n}like to tell the Elder about you...{wait}{clear}Someday...{wait}{clear}	

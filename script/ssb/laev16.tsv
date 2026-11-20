@@ -2,7 +2,7 @@ id	jp	en	notes
 laev16.00D0	レイラ	Leyla	speaker
 laev16.00DA	ここは暑いわね……。{n}帝国は寒いところだったらか、ちょっとつらいわね。{wait}{clear}	It's hot here... The Empire is a cold place,{n}so this is a bit hard on me.{wait}{clear}	
 laev16.0124	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev16.0134	この近くに海岸がありますから、{n}涼みに行きましょうか？{wait}{clear}	There's a beach near here. Shall we go cool{n}off?{wait}{clear}	
+laev16.0134	この近くに海岸がありますから、{n}涼みに行きましょうか？{wait}{clear}	There's a beach near here.{n}Shall we go cool off?{wait}{clear}	
 laev16.016E	レイラ	Leyla	speaker
 laev16.0178	そうね。{wait}{clear}	Let's.{wait}{clear}	
 laev16.01A6	レイラ	Leyla	speaker

@@ -13,7 +13,7 @@ roev02.01DC	はい、おつき合いします。{n}でも、どこへ行くの�
 roev02.0222	ロクス	Rocus	speaker
 roev02.022C	楽しいところですよ、きっと天使様にも。{n}さあ、行きましょう。{wait}{clear}	Somewhere fun. I'm sure you'll enjoy it too,{n}Angel. Come, let's go.{wait}{clear}	
 roev02.028E	ロクス	Rocus	speaker
-roev02.0298	ははは、やめろよ……{n}僕はもう、これ以上飲めないよ。{wait}{clear}	Hahaha, cut it out... I can't drink any{n}more.{wait}{clear}	
+roev02.0298	ははは、やめろよ……{n}僕はもう、これ以上飲めないよ。{wait}{clear}	Hahaha, cut it out...{n}I can't drink any more.{wait}{clear}	
 roev02.02D0	酒場の女達	Tavern Girls	speaker
 roev02.02DE	いつものロクスさまなら、そんなこと言わないわ。{n}ほら、いいじゃない、もっと飲んで。{wait}{clear}	The usual Rocus-sama would never say that.{n}Come on, what's the harm? Drink some more.{wait}{clear}	
 roev02.0334	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -35,7 +35,7 @@ roev02.04EC	えー、どこー？{wait}{clear}	Huh? Where?{wait}{clear}
 roev02.04FE	ロクス	Rocus	speaker
 roev02.0508	……あれ？{n}もしかして、天使ってフツーの人には見えないのか？{wait}{clear}	...Huh? Wait, can ordinary people not see{n}angels?{wait}{clear}	
 roev02.0548	酒場の女達	Tavern Girls	speaker
-roev02.0556	嫌ね、誰もいないじゃない。{n}まーた、ここに来る前に飲んでたんでしょ？{wait}{clear}他の店で飲めて、{n}ここで私たちと飲めない理由はないわよね。{wait}{clear}	Oh, stop it, there's nobody there. You were{n}drinking before you came here again, weren't{n}you?{wait}{clear}If you can drink at some other place,{n}there's no reason you can't drink here with{n}us.{wait}{clear}	
+roev02.0556	嫌ね、誰もいないじゃない。{n}まーた、ここに来る前に飲んでたんでしょ？{wait}{clear}他の店で飲めて、{n}ここで私たちと飲めない理由はないわよね。{wait}{clear}	Oh, stop it, there's nobody{n}there. You were drinking before{n}you came here again, weren't you?{wait}{clear}If you can drink at some other{n}place, there's no reason you{n}can't drink here with us.{wait}{clear}	
 roev02.05DC	ロクス	Rocus	speaker
 roev02.05E6	……ま、いいか。{wait}{clear}よし、もっと持ってきてくれ。{n}飲もう。みんな！{wait}{clear}	...Oh, well.{wait}{clear}All right, bring us more. Let's drink,{n}everyone!{wait}{clear}	
 roev02.062C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

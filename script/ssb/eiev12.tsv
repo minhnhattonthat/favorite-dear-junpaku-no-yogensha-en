@@ -13,7 +13,7 @@ eiev12.0190	そうなのですか？{n}私は暑さも寒さも感じないの�
 eiev12.01D4	アイリーン	Irene	speaker
 eiev12.01E2	あ、そ。{n}いいわよね、ほんと。{wait}{clear}いっつも、のほほーんとしてられるもんね。{n}たく……。{wait}{clear}	Oh, is that so. Must be nice, really.{wait}{clear}You can always just float along without a{n}care. Geez...{wait}{clear}	
 eiev12.025E	アイリーン	Irene	speaker
-eiev12.026C	ねえ……{n}このあたり、さっきも通らなかった？{wait}{clear}	Hey... didn't we pass through here a minute{n}ago?{wait}{clear}	
+eiev12.026C	ねえ……{n}このあたり、さっきも通らなかった？{wait}{clear}	Hey... didn't we pass{n}through here a minute ago?{wait}{clear}	
 eiev12.029C	ＮＵＬＬ	NULL	speaker
 eiev12.02AC	《そうですか？》{n}	Did we?{n}	
 eiev12.02C4	《通ったと思う》{n}	I think we did{n}	
@@ -70,7 +70,7 @@ eiev12.0B56	そうだね……。{wait}{clear}でも、つらいじゃない。�
 eiev12.0BE4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev12.0BF4	いつかきっと……{n}忘れることができると思います……。{wait}{clear}時間は流れていきます。{n}残酷なことかもしれませんけど……。{wait}{clear}	I'm sure that someday... you will be able to{n}forget...{wait}{clear}Time keeps flowing. That may be a cruel{n}thing, but...{wait}{clear}	
 eiev12.0C76	アイリーン	Irene	speaker
-eiev12.0C84	そうだね……。{wait}{clear}いつか……{n}そんな日がくればいい……そう思う……。{wait}{clear}	Yeah...{wait}{clear}I hope... that day comes someday... I really{n}do...{wait}{clear}	
+eiev12.0C84	そうだね……。{wait}{clear}いつか……{n}そんな日がくればいい……そう思う……。{wait}{clear}	Yeah...{wait}{clear}I hope... that day comes{n}someday... I really do...{wait}{clear}	
 eiev12.0CD8	アイリーン	Irene	speaker
 eiev12.0CE6	あ！　見て、川！{wait}{clear}	Oh! Look, a river!{wait}{clear}	
 eiev12.0D20	アイリーン	Irene	speaker
@@ -131,8 +131,8 @@ eiev12.16D8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev12.16E8	いえ、そんな人は……。{wait}{clear}	No, there's no one like that...{wait}{clear}	
 eiev12.170E	アイリーン	Irene	speaker
 eiev12.171C	そんなに困らなくてもいいでしょ？{wait}{clear}	You don't have to look so flustered, do you?{wait}{clear}	
-eiev12.174C	ま、いいけど、誰が好きでも。{wait}{clear}でも、ちょっと安心したな。{n}なんか、あなたって真面目で、{n}あんまり感情とか見せなから……。{wait}{clear}人間のこと、どう思ってるのかなって{n}ちょっと気になってたんだ。{wait}{clear}	Well, whatever. It's your business who you{n}like.{wait}{clear}But I'm kinda relieved. You're so serious{n}and you hardly ever show your feelings...{wait}{clear}I was kinda curious what you thought about{n}humans.{wait}{clear}	
-eiev12.1818	結構、人間と変わんないんだね。{wait}{clear}	You're not all that different from humans,{n}huh.{wait}{clear}	
+eiev12.174C	ま、いいけど、誰が好きでも。{wait}{clear}でも、ちょっと安心したな。{n}なんか、あなたって真面目で、{n}あんまり感情とか見せなから……。{wait}{clear}人間のこと、どう思ってるのかなって{n}ちょっと気になってたんだ。{wait}{clear}	Well, whatever. It's your{n}business who you like.{wait}{clear}But I'm kinda relieved. You're so serious{n}and you hardly ever show your feelings...{wait}{clear}I was kinda curious what you thought about{n}humans.{wait}{clear}	
+eiev12.1818	結構、人間と変わんないんだね。{wait}{clear}	You're not all that{n}different from humans, huh.{wait}{clear}	
 eiev12.1844	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev12.1854	なりません。{wait}{clear}	No, never.{wait}{clear}	
 eiev12.1870	アイリーン	Irene	speaker

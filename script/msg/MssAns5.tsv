@@ -6,7 +6,7 @@ MssAns5.017C	なし	None
 MssAns5.0182	なし	None	
 MssAns5.0188	え！？{n}帝国軍がラリッサへ侵攻しているですって……？{wait}{clear}……わかったわ。{n}自分の目でたしかめてくる……{n}いったいなにが起こっているのかを……。	What?! The imperial army is invading{n}Larissa...?{wait}{clear}...All right. I'll go and see with my own{n}eyes... what on earth is happening...	
 MssAns5.0218	なし	None	
-MssAns5.021E	わかった。すぐにラミアへ向かうわ。{n}私がなんとかしなければいけないことなのよ……{n}私が……。	All right. I'll head for Lamia right away.{n}This is something I have to deal with...{n}me...	
+MssAns5.021E	わかった。すぐにラミアへ向かうわ。{n}私がなんとかしなければいけないことなのよ……{n}私が……。	All right. I'll head for Lamia{n}right away. This is something{n}I have to deal with... me...	
 MssAns5.027C	ラナスのイエーナなんて……{n}どんどん六王国の中心へ侵攻しているのね……。{wait}{clear}わかった、すぐに行くわ。	Jena, in Lanas... They're pushing deeper and{n}deeper toward the heart of the Six{n}Kingdoms...{wait}{clear}All right, I'll go right away.	
 MssAns5.02E2	なし	None	
 MssAns5.02E8	カイゼル将軍ですって！？{wait}{clear}わかった……行くわ……。	General Kaiser, you say?!{wait}{clear}All right... I'll go...	
@@ -32,7 +32,7 @@ MssAns5.050C	アルベリックね……わかったわ……。{wait}{clear}決
 MssAns5.059E	わかったわ……行ってくる……。{wait}{clear}あなたの気持ちはわかるけど、{n}なにが起こってもいいように、{n}覚悟だけはしておいて……。	All right... I'll go...{wait}{clear}I understand how you feel, but be ready for{n}anything that might happen...	
 MssAns5.0618	なし	None	
 MssAns5.061E	なし	None	
-MssAns5.0624	＄＄＄＄＄＄、いまになって、{n}やっと、落ち着いてすべてのことについて{n}考えられる気がするわ……。{wait}{clear}いままで起こったたくさんのことは、{n}私への試練だった……。{n}なにも知らなかった私への……。{wait}{clear}私は、もう一度自分を見つめ直して、{n}新しく歩き出したい。{wait}{clear}そのためにも、{n}苦しんでいるみんなのためにも{n}天竜はかならず倒すわ。{wait}{clear}大丈夫……{n}あなたがいてくれたんだもの、きっとうまくいくわ。	＄＄＄＄＄＄, only now do I feel I can{n}calmly think about everything...{wait}{clear}All the things that have happened were{n}trials for me... for the me who knew{n}nothing...{wait}{clear}I want to take another look at myself and{n}start walking anew.{wait}{clear}For that, and for everyone who's suffering,{n}I'll defeat the Heavenly Dragon, no matter{n}what.{wait}{clear}It'll be all right... You were here with me,{n}so I'm sure it'll go well.	
+MssAns5.0624	＄＄＄＄＄＄、いまになって、{n}やっと、落ち着いてすべてのことについて{n}考えられる気がするわ……。{wait}{clear}いままで起こったたくさんのことは、{n}私への試練だった……。{n}なにも知らなかった私への……。{wait}{clear}私は、もう一度自分を見つめ直して、{n}新しく歩き出したい。{wait}{clear}そのためにも、{n}苦しんでいるみんなのためにも{n}天竜はかならず倒すわ。{wait}{clear}大丈夫……{n}あなたがいてくれたんだもの、きっとうまくいくわ。	＄＄＄＄＄＄, only now do I feel I can{n}calmly think about everything...{wait}{clear}All the things that have happened were{n}trials for me... for the me who knew{n}nothing...{wait}{clear}I want to take another look at myself and{n}start walking anew.{wait}{clear}For that, and for everyone{n}who's suffering, I'll defeat the{n}Heavenly Dragon, no matter what.{wait}{clear}It'll be all right... You were here with me,{n}so I'm sure it'll go well.	
 MssAns5.07A8	なし	None	
 MssAns5.07AE	なし	None	
 MssAns5.07B4	なし	None	

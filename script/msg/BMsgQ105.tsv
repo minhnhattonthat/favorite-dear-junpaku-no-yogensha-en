@@ -19,16 +19,16 @@ BMsgQ105.0532	青い空	Blue sky
 BMsgQ105.053A	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ105.060E	あなたにそう言われるまで気がつかなかったわ。{n}さびしいものね……。{wait}{clear}私があなたのように空を飛べたなら、{n}この美しさに気づけたかしら……。	I never noticed until you said so. How{n}sad...{wait}{clear}If I could fly through the sky like you,{n}would I have noticed this beauty...?	
 BMsgQ105.069A	素敵な景色	Lovely views	
-BMsgQ105.06A6	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BMsgQ105.06A6	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
 BMsgQ105.06DE	ええ、そうね。{n}あなたとこうして旅をしながら{n}多くの景色を見てきたわ……。{wait}{clear}まだまだきれいな風景があるわね……。{n}それを守らなければいけないことに、{n}今、気づくなんて……少し遅かったかも……。	Yes. Traveling with you like this, I've seen{n}so many landscapes...{wait}{clear}There's still so much beautiful scenery...{n}To realize only now that I must protect{n}it... perhaps it's a little late...	
 BMsgQ105.07A2	妖精は役に立つ？	Fairies useful?	
 BMsgQ105.07B4	妖精たちは助けになっていますか？	Are the fairies a help to you?	
-BMsgQ105.07D8	ええ、とても。{wait}{clear}困ったときは助けてもらっているわ。{n}あなたと同じね。	Yes, very much.{wait}{clear}They help me when I'm in trouble. Just like{n}you.	
+BMsgQ105.07D8	ええ、とても。{wait}{clear}困ったときは助けてもらっているわ。{n}あなたと同じね。	Yes, very much.{wait}{clear}They help me when I'm in{n}trouble. Just like you.	
 BMsgQ105.0820	旅先で思うこと	On the road	
 BMsgQ105.0830	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BMsgQ105.0872	そうね……。{wait}{clear}帝国からはなれて、町や村で人々に出会うと、{n}自分がなにをしなければいけないのか、{n}やっとわかった気がするわ……。{wait}{clear}まだ、遅いなんてことはないわよね……。	Yes...{wait}{clear}Away from the Empire, meeting people in{n}towns and villages, I feel I finally{n}understand what I must do...{wait}{clear}It isn't too late yet, is it...?	
 BMsgQ105.091E	旅で出会う人	People met	
-BMsgQ105.092C	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ105.092C	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BMsgQ105.0952	そうは思えないわ……。{n}きっとこの服を着ていなければ、{n}もっと楽しかったかもしれない……。{wait}{clear}いまの帝国については、理解して欲しいと言っても{n}無理なのはわかっている……。{n}でも、いつか、かならず……。	I can't think so... If I weren't wearing{n}this uniform, it might have been more fun...{wait}{clear}I know it's impossible to ask people to{n}understand the Empire as it is now... But{n}someday, surely...	
 BMsgQ105.0A1C	いい夢が……	Sweet dreams	
 BMsgQ105.0A2A	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -47,7 +47,7 @@ BMsgQ105.0CA4	寝る前に、なにかすることがあったり、{n}習慣に
 BMsgQ105.0CF0	父と母への感謝の気持ちを込めて{n}寝る前にはかならず祈ることにしているの。{wait}{clear}小さい頃から欠かしたことがないから、{n}本当に習慣になっているわ。	I always pray before going to sleep, to give{n}thanks to my father and mother.{wait}{clear}I've never missed it since I was little, so{n}it's truly a habit.	
 BMsgQ105.0D7E	いつもと違う場所	Strange places	
 BMsgQ105.0D90	いつもと違う場所でも{n}しっかり眠ることができますか？	Can you sleep well even in an unfamiliar{n}place?	
-BMsgQ105.0DC8	最初は苦手だったわ。{n}でも、遠征に行ったりしたら、{n}そんなことも言っていられないでしょう？{wait}{clear}だから、いまは平気よ。{n}それに、眠れなかったら、剣も鈍るし。	At first I wasn't good at it. But on{n}campaigns, you can't afford to say that, can{n}you?{wait}{clear}So now it doesn't bother me. Besides, if I{n}couldn't sleep, my sword would grow dull.	
+BMsgQ105.0DC8	最初は苦手だったわ。{n}でも、遠征に行ったりしたら、{n}そんなことも言っていられないでしょう？{wait}{clear}だから、いまは平気よ。{n}それに、眠れなかったら、剣も鈍るし。	At first I wasn't good at it.{n}But on campaigns, you can't{n}afford to say that, can you?{wait}{clear}So now it doesn't bother me. Besides, if I{n}couldn't sleep, my sword would grow dull.	
 BMsgQ105.0E64	眠れないときは	Can't sleep?	
 BMsgQ105.0E74	眠れないときはどうしていますか。	What do you do when you can't sleep?	
 BMsgQ105.0E98	いまは、いろいろなことを考えているわ。{n}両親の思い出、帝国のこと……{n}そして、これからの戦いのこと……。{wait}{clear}でも、剣の腕が鈍るから、{n}できるだけ無理にでも寝るようにしているわ。	These days I think about many things.{n}Memories of my parents, the Empire... and{n}the battles to come...{wait}{clear}But my swordsmanship would dull, so I make{n}myself sleep as best I can.	
@@ -80,7 +80,7 @@ BMsgQ105.15FA	体力に自信はありますか？	Are you confident in your sta
 BMsgQ105.1616	あなたは、いつもへんなことが気になるみたいね。{wait}{clear}体力に自信がなくて、{n}騎士などつとまるわけがないでしょう？{wait}{clear}それに、女である私が上を目指すのに、{n}体力がなかったら、話にならないわ。	You always seem to wonder about strange{n}things.{wait}{clear}How could anyone serve as a knight without{n}confidence in their stamina?{wait}{clear}Besides, for a woman like me aiming for the{n}top, having no stamina would be out of the{n}question.	
 BMsgQ105.16D0	ケガをしないで	Don't get hurt	
 BMsgQ105.16E0	ケガには気をつけてくださいね。	Please be careful not to get hurt.	
-BMsgQ105.1702	心配性なのね。{n}でも、大丈夫だから、安心していて。{wait}{clear}試合でもない修行でケガなんかするようじゃ、{n}戦いになどいけないわ。	You're such a worrier. But I'm fine, so rest{n}easy.{wait}{clear}If I got hurt in training, not even a real{n}match, I'd have no business going into{n}battle.	
+BMsgQ105.1702	心配性なのね。{n}でも、大丈夫だから、安心していて。{wait}{clear}試合でもない修行でケガなんかするようじゃ、{n}戦いになどいけないわ。	You're such a worrier. But{n}I'm fine, so rest easy.{wait}{clear}If I got hurt in training, not even a real{n}match, I'd have no business going into{n}battle.	
 BMsgQ105.177C	気をつけること	What to watch	
 BMsgQ105.178C	修行の時に{n}なにか気をつけていることはあるのですか？	Is there anything you pay attention to when{n}you train?	
 BMsgQ105.17C4	そうね……どうしたら、{n}自分の技を高められるかを気にかけているわ。{wait}{clear}それから、剣を振るう意味をね……。{wait}{clear}人を殺すためだけに戦っているのではないことを{n}いつも、考えるようにしているわ。	Let me see... I focus on how to refine my{n}technique.{wait}{clear}And on the meaning of wielding a sword...{wait}{clear}I always try to remember that I don't fight{n}just to kill people.	
@@ -91,7 +91,7 @@ BMsgQ105.1906	修行の成果	Results
 BMsgQ105.1912	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BMsgQ105.194C	そうね。{n}結果が出なければ、励みにならないこともあるわ。{wait}{clear}ただ、やみくもに結果だけを求めても{n}だめだと思っているの。{wait}{clear}なにが大切なのかを見失ってしまっては、{n}なんの意味もないわ……。	Yes. Without results, it can be hard to stay{n}motivated.{wait}{clear}But I think blindly chasing results alone is{n}no good.{wait}{clear}If you lose sight of what's important, it{n}means nothing...	
 BMsgQ105.1A08	邪魔でしょうか？	Am I a bother?	
-BMsgQ105.1A1A	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BMsgQ105.1A1A	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
 BMsgQ105.1A48	用があって来たのでしょう？{n}どうしてそんなに気をつかうの？	You came because you needed something,{n}didn't you? Why be so considerate?	
 BMsgQ105.1A84	好きなことは？	Favorite thing?	
 BMsgQ105.1A94	なにか好きなことはありますか？	Is there anything you like to do?	
@@ -143,7 +143,7 @@ BMsgQ105.234C	すみません、{n}私の方が緊張しているかもしれま
 BMsgQ105.2386	そんなに心配しないで。{n}どんな敵にだって、油断はしないから。	Don't worry so much. I won't let my guard{n}down against any enemy.	
 BMsgQ105.23C4	きっと大丈夫です	You'll be fine	
 BMsgQ105.23D6	レイラなら、きっと大丈夫です。	I'm sure you'll be fine, Leyla.	
-BMsgQ105.23F8	ええ……ありがとう。{n}でも、油断しないでいくわ。	Yes... Thank you. But I won't let my guard{n}down.	
+BMsgQ105.23F8	ええ……ありがとう。{n}でも、油断しないでいくわ。	Yes... Thank you. But I{n}won't let my guard down.	
 BMsgQ105.242A	どうか無事で……	Stay safe...	
 BMsgQ105.243C	どうか、無事に戻ってきてください。	Please come back safe and sound.	
 BMsgQ105.2462	そんな心配そうな顔で言わないで。{n}大丈夫だから。	Don't say it with such a worried face. I'll{n}be fine.	
@@ -155,7 +155,7 @@ BMsgQ105.251E	すみません！{n}私がちゃんと考えてなくて……。
 BMsgQ105.254E	いいえ、これは私の力不足のせいよ。{n}ごめんなさい、情けなくて……。	No, this is because I wasn't strong enough.{n}I'm sorry I'm so pathetic...	
 BMsgQ105.2592	大丈夫ですか？	Are you okay?	
 BMsgQ105.25A2	大丈夫ですか？{n}しっかりしてください。	Are you all right? Hang in there.	
-BMsgQ105.25CC	ええ、大丈夫よ。{n}でも、ごめんなさい、こんなことになってしまって。	Yes, I'm fine. But I'm sorry it came to{n}this.	
+BMsgQ105.25CC	ええ、大丈夫よ。{n}でも、ごめんなさい、こんなことになってしまって。	Yes, I'm fine. But I'm{n}sorry it came to this.	
 BMsgQ105.2610	ありがとう	Thank you	
 BMsgQ105.261C	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
 BMsgQ105.266C	あなたの気持ちはわかるけど{n}そう言われると、かえって情けないわね……。{wait}{clear}こんどは期待にこたえてみせるわ……。	I know how you feel, but hearing that only{n}makes me feel more pathetic...{wait}{clear}Next time, I'll live up to your{n}expectations...	
@@ -194,7 +194,7 @@ BMsgQ105.2E4E	どうして騎士に？	Why did you become a knight?
 BMsgQ105.2E62	どうしてと聞かれると困るわね……。{wait}{clear}きっと小さなときから父を見ていたせいだと思うわ。{n}父のそばで自分も戦いたいと思った……。{wait}{clear}それに、お人形やドレスより、{n}剣の方が好きだったから……。	"Why" is a hard question to answer...{wait}{clear}I suppose it's because I watched my father{n}ever since I was little. I wanted to fight{n}at his side...{wait}{clear}Besides, I always liked swords better than{n}dolls and dresses...	
 BMsgQ105.2F20	騎士	Knighthood	
 BMsgQ105.2F26	レイラの強さはどこからくるのでしょうね。	I wonder where your strength comes from,{n}Leyla.	
-BMsgQ105.2F52	私の強さ？{n}そんなこと、考えてもみなかったわ。{wait}{clear}そうね……追いつけないとわかっていても{n}父に追いつきたいからかしら……。{wait}{clear}よくわからないわ。	My strength? I've never even thought about{n}it.{wait}{clear}Let me see... Maybe it's because I want to{n}catch up with my father, even knowing I{n}never can...{wait}{clear}I really don't know.	
+BMsgQ105.2F52	私の強さ？{n}そんなこと、考えてもみなかったわ。{wait}{clear}そうね……追いつけないとわかっていても{n}父に追いつきたいからかしら……。{wait}{clear}よくわからないわ。	My strength? I've never{n}even thought about it.{wait}{clear}Let me see... Maybe it's because I want to{n}catch up with my father, even knowing I{n}never can...{wait}{clear}I really don't know.	
 BMsgQ105.2FE4	騎士	Knighthood	
 BMsgQ105.2FEA	騎士という生き方は……。	Living as a knight...	
 BMsgQ105.3006	あなたがなにを言いたいのか、わかるわ……。{wait}{clear}でも、やめましょう、この話は……。	I know what you're trying to say...{wait}{clear}But let's not talk about this...	

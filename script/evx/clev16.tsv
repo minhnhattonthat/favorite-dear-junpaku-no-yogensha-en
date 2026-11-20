@@ -5,7 +5,7 @@ clev16.011A	ジャイアント	Giant	unit name (32-byte field)
 clev16.0156	ジャイアント	Giant	unit name (32-byte field)
 clev16.04C8	ティタン	Titan	speaker
 clev16.04DF	な、なんのようだ……。	Wh-what do you want...	text
-clev16.0504	こ、ここはもう、俺達の土地。{n}人は寄せつけんぞ。	Th-this is our land now. We let no humans{n}near.	text
+clev16.0504	こ、ここはもう、俺達の土地。{n}人は寄せつけんぞ。	Th-this is our land now.{n}We let no humans near.	text
 clev16.0543	クライヴ	Clive	speaker
 clev16.055A	…………。	.....	text
 clev16.0573	ティタン	Titan	speaker

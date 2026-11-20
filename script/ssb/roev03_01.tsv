@@ -1,6 +1,6 @@
 id	jp	en	notes
 roev03_01.004E	ロクスの知人	Rocus's Pal	speaker
-roev03_01.005E	おうロクス、お前に会いたいってやつが来てるぜ。{wait}{clear}	Hey, Rocus. Somebody's here wanting to see{n}you.{wait}{clear}	
+roev03_01.005E	おうロクス、お前に会いたいってやつが来てるぜ。{wait}{clear}	Hey, Rocus. Somebody's{n}here wanting to see you.{wait}{clear}	
 roev03_01.0090	ロクス	Rocus	speaker
 roev03_01.009E	誰だ？{wait}{clear}	Who?{wait}{clear}	
 roev03_01.00A8	ロクスの知人	Rocus's Pal	speaker
@@ -21,7 +21,7 @@ roev03_01.0268	俺の名はクラレンス・ランゲラック。{n}あだ名�
 roev03_01.02B0	ロクス	Rocus	speaker
 roev03_01.02BE	僕の名は、名乗る必要がないな。{wait}{clear}	I don't suppose I need to give you my name.{wait}{clear}	
 roev03_01.02E0	クラレンス	Clarence	speaker
-roev03_01.02F2	ああ、知ってる。{n}女たらしの不良僧侶で借金王の{n}ロクス・ラス・フロレスだろう。{wait}{clear}	Yeah, I know it. Rocus Las Flores, the{n}womanizing delinquent priest and king of{n}debt.{wait}{clear}	
+roev03_01.02F2	ああ、知ってる。{n}女たらしの不良僧侶で借金王の{n}ロクス・ラス・フロレスだろう。{wait}{clear}	Yeah, I know it. Rocus Las{n}Flores, the womanizing delinquent{n}priest and king of debt.{wait}{clear}	
 roev03_01.0344	ロクス	Rocus	speaker
 roev03_01.0352	ふん、{n}まあ、不良と借金の部分はよけいだがな。{wait}{clear}	Hmph. Well, you can leave out the{n}"delinquent" and "debt" parts.{wait}{clear}	
 roev03_01.0384	クラレンス	Clarence	speaker
@@ -39,7 +39,7 @@ roev03_01.049E	ハハ、僕の借金を知ってそんな申し込みか？{wait
 roev03_01.04CE	ずいぶんと弱い者いじめが好きなのだな。{wait}{clear}	You certainly enjoy picking on the weak.{wait}{clear}	
 roev03_01.04F8	クラレンス	Clarence	speaker
 roev03_01.050A	心配すんな。{n}金なんかいらねえよ。{wait}{clear}	Don't worry. I don't want your money.{wait}{clear}	
-roev03_01.0534	お前が負けても俺は手前からはなんにも取らねえ。{wait}{clear}	Even if you lose, I won't take a thing from{n}you.{wait}{clear}	
+roev03_01.0534	お前が負けても俺は手前からはなんにも取らねえ。{wait}{clear}	Even if you lose, I won't{n}take a thing from you.{wait}{clear}	
 roev03_01.056A	ただ、もし俺が負けたら、{n}借金を帳消しにする金をやるよ。{wait}{clear}	But if I lose, I'll give you enough money to{n}wipe out your debts.{wait}{clear}	
 roev03_01.05A6	ロクス	Rocus	speaker
 roev03_01.05B4	ふん？　話がうますぎるな。{wait}{clear}	Hm? That sounds too good to be true.{wait}{clear}	
@@ -82,7 +82,7 @@ roev03_01.0A32	ＮＵＬＬ	NULL	speaker
 roev03_01.0A42	《ヴァイパーについて》{n}	About Viper{n}	
 roev03_01.0A60	《お酒について》{n}	About drinking{n}	
 roev03_01.0A82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0A92	ヴァイパーという彼は、いったい何者なのですか？{wait}{clear}	That man called Viper... who in the world is{n}he?{wait}{clear}	
+roev03_01.0A92	ヴァイパーという彼は、いったい何者なのですか？{wait}{clear}	That man called Viper...{n}who in the world is he?{wait}{clear}	
 roev03_01.0AD0	ロクス	Rocus	speaker
 roev03_01.0ADE	さあ、よくいる手合いです。{n}僕にからんでくる相手は多い。{wait}{clear}	Who knows? The usual type. Plenty of people{n}pick fights with me.{wait}{clear}	
 roev03_01.0B2A	まあ、有名税みたいなものかな。{wait}{clear}	Call it the price of fame.{wait}{clear}	

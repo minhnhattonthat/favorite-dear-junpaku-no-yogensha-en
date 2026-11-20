@@ -158,7 +158,7 @@ BTL_EVT4.137A	思い知ったか！	That'll teach you!
 BTL_EVT4.13B0S	ティタン	Titan	speaker
 BTL_EVT4.13B9	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！	Wh-what do you want...{wait}{clear}Th-this is our land now. Get out!	
 BTL_EVT4.13FDS	アイリーン	Irene	speaker
-BTL_EVT4.1408	勝手なことして、よく言うわね！	Look who's talking, after doing whatever you{n}like!	
+BTL_EVT4.1408	勝手なことして、よく言うわね！	Look who's talking, after{n}doing whatever you like!	
 BTL_EVT4.142AS	アイリーン	Irene	speaker
 BTL_EVT4.1435	さ、これで村は大丈夫ね。	There, the village is safe now.	
 BTL_EVT4.1451S	ティタン	Titan	speaker
@@ -166,7 +166,7 @@ BTL_EVT4.145A	に、二度とくるな！！	D-don't ever come back!!
 BTL_EVT4.1472S	ティタン	Titan	speaker
 BTL_EVT4.147B	に、二度とくるな！！	D-don't ever come back!!	
 BTL_EVT4.14B7S	サヴィオ	Savio	speaker
-BTL_EVT4.14C0	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's hero Serenis spoke{n}of...	
+BTL_EVT4.14C0	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's{n}hero Serenis spoke of...	
 BTL_EVT4.14F8S	サヴィオ	Savio	speaker
 BTL_EVT4.1501	殺す。	I'll kill you.	
 BTL_EVT4.150BS	アイリーン	Irene	speaker
@@ -274,7 +274,7 @@ BTL_EVT4.21C4	ひゅるひゅる……。	Hyuruhyuru...
 BTL_EVT4.21FES	アイリーン	Irene	speaker
 BTL_EVT4.2209	女の人ばっかり狙うなんて、嫌なやつら！{n}さっさと倒してあげるわ！	Only going after women? You creeps! I'll{n}beat you in no time!	
 BTL_EVT4.224DS	シーフ	Thief	speaker
-BTL_EVT4.2254	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our way? Hah! This'll be{n}fun!	
+BTL_EVT4.2254	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our{n}way? Hah! This'll be fun!	
 BTL_EVT4.228AS	アイリーン	Irene	speaker
 BTL_EVT4.2295	あんたたちみたいなのは、許せないのよね！	I just can't forgive your kind!	
 BTL_EVT4.22C1S	シーフ	Thief	speaker
@@ -308,7 +308,7 @@ BTL_EVT4.25AD	シューシューシュー……	Hsss hsss hsss...
 BTL_EVT4.25EBS	アイリーン	Irene	speaker
 BTL_EVT4.25F6	どうして、人を襲ったりするの？{n}おとなしくする気がないんなら、戦うしかないわ。	Why do you attack people? If you won't{n}behave, I'll just have to fight.	
 BTL_EVT4.2648S	アイリーン	Irene	speaker
-BTL_EVT4.2653	これで村も大丈夫ね……。{n}さ、帰ろっと！	The village is safe now... Okay, time to go{n}home!	
+BTL_EVT4.2653	これで村も大丈夫ね……。{n}さ、帰ろっと！	The village is safe now...{n}Okay, time to go home!	
 BTL_EVT4.267FS	ロック	Roc	speaker
 BTL_EVT4.2686	クワァアアー！	Kwaaaaah!	
 BTL_EVT4.2698S	ロック	Roc	speaker
@@ -360,7 +360,7 @@ BTL_EVT4.2CAD	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT4.2D09S	アイリーン	Irene	speaker
 BTL_EVT4.2D14	魔族……まさか……！？	A demon... Don't tell me...?!	
 BTL_EVT4.2D2ES	リベザル	Ribezal	speaker
-BTL_EVT4.2D37	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
+BTL_EVT4.2D37	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is{n}finally about to be born.{wait}{clear}You pests will have to disappear!	
 BTL_EVT4.2D97S	アイリーン	Irene	speaker
 BTL_EVT4.2DA2	そんな……時間がないの……？	No... We're out of time...?	
 BTL_EVT4.2DC2S	リベザル	Ribezal	speaker
@@ -462,9 +462,9 @@ BTL_EVT4.379A	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT4.37BCS	ミリシア	Militia	speaker
 BTL_EVT4.37C5	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna keep on raiding!	
 BTL_EVT4.380BS	アイリーン	Irene	speaker
-BTL_EVT4.3816	うわ～、ヤダヤダ！{n}やっぱり、アンデッドの仕業だったんだ～！	Ewww, no, no! So it was the undead after{n}all~!	
+BTL_EVT4.3816	うわ～、ヤダヤダ！{n}やっぱり、アンデッドの仕業だったんだ～！	Ewww, no, no! So it was{n}the undead after all~!	
 BTL_EVT4.3856S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT4.3865	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
+BTL_EVT4.3865	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this{n}village is my servant now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT4.38D7S	アイリーン	Irene	speaker
 BTL_EVT4.38E2	もう！　こいつらきらい！	Ugh! I hate these things!	
 BTL_EVT4.38FES	ノスフェラトゥ	Nosferatu	speaker
@@ -502,7 +502,7 @@ BTL_EVT4.3C0E	ギーギーギー	Gee gee gee
 BTL_EVT4.3C42S	アイリーン	Irene	speaker
 BTL_EVT4.3C4D	どうして、人を襲ったりするの？{n}おとなしくする気がないんなら、戦うしかないわ。	Why do you attack people? If you won't{n}behave, I'll just have to fight.	
 BTL_EVT4.3C9FS	アイリーン	Irene	speaker
-BTL_EVT4.3CAA	これで村も大丈夫ね……。{n}さ、帰ろっと！	The village is safe now... Okay, time to go{n}home!	
+BTL_EVT4.3CAA	これで村も大丈夫ね……。{n}さ、帰ろっと！	The village is safe now...{n}Okay, time to go home!	
 BTL_EVT4.3CD6S	ベルクート	Berkut	speaker
 BTL_EVT4.3CE1	クワァアアー！	Kwaaaaah!	
 BTL_EVT4.3CF3S	ベルクート	Berkut	speaker
@@ -734,7 +734,7 @@ BTL_EVT4.5792	やっぱり、誰かに召還されたのね……{n}伝説と同
 BTL_EVT4.57E0S	モラクス	Morax	speaker
 BTL_EVT4.57E9	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT4.5813S	モラクス	Morax	speaker
-BTL_EVT4.581C	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero is like a babe in{n}arms!	
+BTL_EVT4.581C	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero{n}is like a babe in arms!	
 BTL_EVT4.586ES	ラルヴァ	Larva	speaker
 BTL_EVT4.5877	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT4.5909S	アイリーン	Irene	speaker
@@ -768,11 +768,11 @@ BTL_EVT4.5CD3	姉さん……どうして……。	Sister... why...
 BTL_EVT4.5CEFS	セレニス	Serenis	speaker
 BTL_EVT4.5CF8	アハハハハ……！	Ahahahaha...!	
 BTL_EVT4.5D30S	アルベリック	Alberic	speaker
-BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。	That's what you get for a mere mage defying{n}me.	
+BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。	That's what you get for{n}a mere mage defying me.	
 BTL_EVT4.5D65S	アルベリック	Alberic	speaker
 BTL_EVT4.5D72	身のほどを思い知れ！	Learn your place!	
 BTL_EVT4.5DF6S	王の女	King's Lady	speaker
-BTL_EVT4.5DFD	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
+BTL_EVT4.5DFD	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer,{n}your journey ends here.	
 BTL_EVT4.5E4DS	アイリーン	Irene	speaker
 BTL_EVT4.5E58	おばさん！{n}人にものをたずねるときは、{n}自分の名前を先に言うものよ！	Lady! When you ask someone something, you{n}give your own name first!	
 BTL_EVT4.5EA0S	王の女	King's Lady	speaker

@@ -28,7 +28,7 @@ ceev01_01.03DA	ご存じないのですか？{wait}{clear}	You don't know it?{wa
 ceev01_01.03F6	このレイフォリアの森を守護する聖ディアナ様は{n}天使様に祝福され、世界を救ったと語られています。{wait}{clear}	They say Saint Diana-sama, who protects this{n}Reyforia Forest, was blessed by an angel and{n}saved the world.{wait}{clear}	
 ceev01_01.045C	そのディアナ様と同じことが私に起こるなんて……。{wait}{clear}	To think the same thing is happening to me{n}as happened to Diana-sama...{wait}{clear}	
 ceev01_01.0498	セシア	Cecia	speaker
-ceev01_01.04A6	私が天使様に選ばれるなんて……{n}信じられません……{wait}{clear}	Me, chosen by an angel... I can't believe{n}it...{wait}{clear}	
+ceev01_01.04A6	私が天使様に選ばれるなんて……{n}信じられません……{wait}{clear}	Me, chosen by an angel...{n}I can't believe it...{wait}{clear}	
 ceev01_01.04DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev01_01.04EC	ともに戦ってくれますか？{wait}{clear}	Will you fight alongside me?{wait}{clear}	
 ceev01_01.0508	セシア	Cecia	speaker
@@ -58,4 +58,4 @@ ceev01_01.08C6	いいえ、お礼など……{wait}{clear}私、精一杯、で�
 ceev01_01.0922	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev01_01.0932	では、また後日もう一度ここに来ます。{wait}{clear}	Then I will come back here another day.{wait}{clear}	
 ceev01_01.0966	セシア	Cecia	speaker
-ceev01_01.0970	お願いします、天使様。{wait}{clear}必ず天使様に協力できるように話してみます。{wait}{clear}では、また。{wait}{clear}	Please do, Angel.{wait}{clear}I'll talk to them so I can be sure to help{n}you.{wait}{clear}Until then.{wait}{clear}	
+ceev01_01.0970	お願いします、天使様。{wait}{clear}必ず天使様に協力できるように話してみます。{wait}{clear}では、また。{wait}{clear}	Please do, Angel.{wait}{clear}I'll talk to them so I{n}can be sure to help you.{wait}{clear}Until then.{wait}{clear}	

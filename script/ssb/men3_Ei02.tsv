@@ -2,7 +2,7 @@ id	jp	en	notes
 men3_Ei02.005C	アイリーン	Irene	speaker
 men3_Ei02.006A	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men3_Ei02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei02.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is something troubling{n}you?{wait}{clear}	
+men3_Ei02.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is{n}something troubling you?{wait}{clear}	
 men3_Ei02.00CC	アイリーン	Irene	speaker
 men3_Ei02.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この羽ペンをあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}	Nope, nothing like that, so don't worry. I{n}wanted to give you this quill pen,{n}＄＄＄＄＄＄.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Ei02.016C	ＮＵＬＬ	NULL	speaker
@@ -13,7 +13,7 @@ men3_Ei02.01CE	ありがとうございます。{n}でも、まさか、この�
 men3_Ei02.0212	アイリーン	Irene	speaker
 men3_Ei02.0220	なに想像してるのよ！{n}そんなわけないでしょう？{wait}{clear}	What are you imagining?! Of course it isn't!{wait}{clear}	
 men3_Ei02.0252	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei02.0262	そう、ですよね……すみません。{wait}{clear}では、いただいていきますね。{n}本当にありがとうございました。{wait}{clear}	R-right, of course... I'm sorry.{wait}{clear}Then I'll take it with me. Thank you so{n}much.{wait}{clear}	
+men3_Ei02.0262	そう、ですよね……すみません。{wait}{clear}では、いただいていきますね。{n}本当にありがとうございました。{wait}{clear}	R-right, of course... I'm sorry.{wait}{clear}Then I'll take it with{n}me. Thank you so much.{wait}{clear}	
 men3_Ei02.02C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.02D8	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}	I'm sorry. There's a precept that we mustn't{n}interfere too much with the human world, so{n}I can't accept this...{wait}{clear}	
 men3_Ei02.0348	アイリーン	Irene	speaker

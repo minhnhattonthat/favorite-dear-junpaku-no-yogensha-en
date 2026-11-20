@@ -19,7 +19,7 @@ BrvMsgQ1.03E8	青い空	Blue sky
 BrvMsgQ1.03F0	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BrvMsgQ1.04C4	天使らしいな……。{n}というよりも、天使でなければ、{n}わからないことだろうな……。	How like an angel... Or rather, it's{n}something only an angel would understand...	
 BrvMsgQ1.0516	素敵な景色	Lovely views	
-BrvMsgQ1.0522	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BrvMsgQ1.0522	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
 BrvMsgQ1.055A	……らしくないと思われるかもしれないが、{n}そう思うこともある……。	...You might think it's not like me, but I{n}do think that sometimes...	
 BrvMsgQ1.059E	妖精は役に立つ？	Fairies useful?	
 BrvMsgQ1.05B0	妖精たちは助けになっていますか？	Are the fairies a help to you?	
@@ -28,7 +28,7 @@ BrvMsgQ1.05F8	旅先で思うこと	On the road
 BrvMsgQ1.0608	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BrvMsgQ1.064A	そうだな……。{n}そういうときもあるかもしれないな……。	I suppose... There may be times like that...	
 BrvMsgQ1.0682	旅で出会う人	People met	
-BrvMsgQ1.0690	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BrvMsgQ1.0690	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BrvMsgQ1.06B6	それは……苦手だ。	That's... not my thing.	
 BrvMsgQ1.06CA	いい夢が……	Sweet dreams	
 BrvMsgQ1.06D8	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -91,7 +91,7 @@ BrvMsgQ1.0EF6	修行の成果	Results
 BrvMsgQ1.0F02	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BrvMsgQ1.0F3C	そうだな……。{n}そうでなければ修行の意味もない。	I suppose... Otherwise there's no point in{n}training.	
 BrvMsgQ1.0F6E	邪魔でしょうか？	Am I a bother?	
-BrvMsgQ1.0F80	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BrvMsgQ1.0F80	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
 BrvMsgQ1.0FAE	おまえはいつも、{n}そう思っていながら、来るのだな。	You always think that, and you come anyway.	
 BrvMsgQ1.0FE2	好きなことは？	Favorite thing?	
 BrvMsgQ1.0FF2	なにか好きなことはありますか？	Is there anything you like to do?	
@@ -143,7 +143,7 @@ BrvMsgQ1.1510	すみません、{n}私の方が緊張しているかもしれま
 BrvMsgQ1.154A	そんなに心配するな。	Don't worry so much.	
 BrvMsgQ1.1560	きっと大丈夫です	You'll be fine	
 BrvMsgQ1.1572	クライヴなら、きっと大丈夫です。	I'm sure you'll be fine, Clive.	
-BrvMsgQ1.1596	ああ……だが、油断するつもりはない。	Yeah... But I don't intend to let my guard{n}down.	
+BrvMsgQ1.1596	ああ……だが、油断するつもりはない。	Yeah... But I don't intend{n}to let my guard down.	
 BrvMsgQ1.15BC	どうか無事で……	Stay safe...	
 BrvMsgQ1.15CE	どうか、無事に戻ってきてください。	Please come back safe and sound.	
 BrvMsgQ1.15F4	……ああ……わかっている……。	...Yeah... I know...	

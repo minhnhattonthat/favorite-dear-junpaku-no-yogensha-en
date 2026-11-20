@@ -21,7 +21,7 @@ men1_Ei02.035E	はい。{wait}{clear}	Yes.{wait}{clear}
 men1_Ei02.036C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei02.037C	すみません……今は、ちょっと時間が……。{wait}{clear}	I'm sorry... I don't really have time right{n}now...{wait}{clear}	
 men1_Ei02.03B4	アイリーン	Irene	speaker
-men1_Ei02.03C2	あっそ……やっぱり忙しいんだ。{wait}{clear}無理につきあわせても悪いし、{n}たいした話でもなかったから、また今度にする。{wait}{clear}	Oh, fine... So you are busy.{wait}{clear}It'd be wrong to make you stay, and it{n}wasn't anything important, so maybe next{n}time.{wait}{clear}	
+men1_Ei02.03C2	あっそ……やっぱり忙しいんだ。{wait}{clear}無理につきあわせても悪いし、{n}たいした話でもなかったから、また今度にする。{wait}{clear}	Oh, fine... So you are busy.{wait}{clear}It'd be wrong to make you{n}stay, and it wasn't anything{n}important, so maybe next time.{wait}{clear}	
 men1_Ei02.0432	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei02.0442	すみません……アイリーン……。{wait}{clear}	I'm sorry... Irene...{wait}{clear}	
 men1_Ei02.0470	アイリーン	Irene	speaker

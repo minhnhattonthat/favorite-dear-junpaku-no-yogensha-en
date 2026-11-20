@@ -6,7 +6,7 @@ Loev08.011A	ミリシア→反乱兵	Militia/Rebel	unit name (32-byte field)
 Loev08.0156	ミリシア→反乱兵	Militia/Rebel	unit name (32-byte field)
 Loev08.0192	サヴィオ通常	Savio (normal)	unit name (32-byte field)
 Loev08.04A8	ルディエール	Rudiere	speaker
-Loev08.04C3	おい、お前らか、{n}このあたりで物騒なマネしてんのは？	Hey, are you the ones causing trouble around{n}here?	text
+Loev08.04C3	おい、お前らか、{n}このあたりで物騒なマネしてんのは？	Hey, are you the ones{n}causing trouble around here?	text
 Loev08.0506	暗殺者	Assassin	speaker
 Loev08.051B	だとしたらなんだ？	And what if we are?	text
 Loev08.053C	ルディエール	Rudiere	speaker

@@ -190,7 +190,7 @@ BTL_EVT3.1636	に、二度とくるな！！	D-don't ever come back!!
 BTL_EVT3.164ES	ティタン	Titan	speaker
 BTL_EVT3.1657	に、二度とくるな！！	D-don't ever come back!!	
 BTL_EVT3.1693S	サヴィオ	Savio	speaker
-BTL_EVT3.169C	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's hero Serenis spoke{n}of...	
+BTL_EVT3.169C	お前は……{n}セレニスの言っていた天使の勇者だな……。	You're... the angel's{n}hero Serenis spoke of...	
 BTL_EVT3.16D4S	サヴィオ	Savio	speaker
 BTL_EVT3.16DD	殺す。	I'll kill you.	
 BTL_EVT3.16E7S	ロクス	Rocus	speaker
@@ -288,7 +288,7 @@ BTL_EVT3.2245	ひゅるひゅる……。	Hyuruhyuru...
 BTL_EVT3.227FS	ロクス	Rocus	speaker
 BTL_EVT3.2286	女性ばかりを狙うなど卑怯なやつらだ。{n}女性を傷つけたのなら、許さないぞ！	Only going after women, you cowards. If{n}you've hurt any women, I won't forgive you!	
 BTL_EVT3.22D2S	シーフ	Thief	speaker
-BTL_EVT3.22D9	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our way? Hah! This'll be{n}fun!	
+BTL_EVT3.22D9	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our{n}way? Hah! This'll be fun!	
 BTL_EVT3.230FS	ロクス	Rocus	speaker
 BTL_EVT3.2316	ふん！{n}お前らごときが、僕にかなうわけないだろう。	Hmph! The likes of you could never match me.	
 BTL_EVT3.234CS	シーフ	Thief	speaker
@@ -374,7 +374,7 @@ BTL_EVT3.2D22	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT3.2D7ES	ロクス	Rocus	speaker
 BTL_EVT3.2D85	貴様……魔族……。	You... a demon...	
 BTL_EVT3.2D9BS	リベザル	Ribezal	speaker
-BTL_EVT3.2DA4	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
+BTL_EVT3.2DA4	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is{n}finally about to be born.{wait}{clear}You pests will have to disappear!	
 BTL_EVT3.2E04S	ロクス	Rocus	speaker
 BTL_EVT3.2E0B	くっ……。	Ngh...	
 BTL_EVT3.2E19S	リベザル	Ribezal	speaker
@@ -466,7 +466,7 @@ BTL_EVT3.36EC	グギギャア～！	Gugigyaaah~!
 BTL_EVT3.36FES	海竜	Sea Dragon	speaker
 BTL_EVT3.3703	グギギャア～！	Gugigyaaah~!	
 BTL_EVT3.3739S	ロクス	Rocus	speaker
-BTL_EVT3.3740	このへんで暴れてる盗賊って、{n}あんたたちのことか？	Are you the bandits running wild around{n}here?	
+BTL_EVT3.3740	このへんで暴れてる盗賊って、{n}あんたたちのことか？	Are you the bandits{n}running wild around here?	
 BTL_EVT3.3776S	ミリシア	Militia	speaker
 BTL_EVT3.377F	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！	Hmph! So what if we are? You leave your{n}stuff here too!	
 BTL_EVT3.37CFS	ロクス	Rocus	speaker
@@ -478,7 +478,7 @@ BTL_EVT3.3822	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT3.3868S	ロクス	Rocus	speaker
 BTL_EVT3.386F	やはり貴様らアンデッドの仕業だったんだな。	So it was you undead after all.	
 BTL_EVT3.389DS	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT3.38AC	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
+BTL_EVT3.38AC	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this{n}village is my servant now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT3.391ES	ロクス	Rocus	speaker
 BTL_EVT3.3925	地獄へ帰れ……。	Return to hell...	
 BTL_EVT3.3939S	ノスフェラトゥ	Nosferatu	speaker
@@ -506,7 +506,7 @@ BTL_EVT3.3B18	キシー！　キシシシー！	Kishee! Kishishishee!
 BTL_EVT3.3B32S	グレムリン	Gremlin	speaker
 BTL_EVT3.3B3D	キシー！　キシシシー！	Kishee! Kishishishee!	
 BTL_EVT3.3B7BS	ロクス	Rocus	speaker
-BTL_EVT3.3B82	被害が出る前に、片づけさせてもらおう。	Let me clean this up before anyone gets{n}hurt.	
+BTL_EVT3.3B82	被害が出る前に、片づけさせてもらおう。	Let me clean this up{n}before anyone gets hurt.	
 BTL_EVT3.3BACS	ロクス	Rocus	speaker
 BTL_EVT3.3BB3	終わったな……。	It's over...	
 BTL_EVT3.3BC7S	デスウィドウ	Death Widow	speaker
@@ -744,7 +744,7 @@ BTL_EVT3.57C3	帝国軍に魔族なんて……{n}まさか……伝説が？	De
 BTL_EVT3.57F1S	モラクス	Morax	speaker
 BTL_EVT3.57FA	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT3.5824S	モラクス	Morax	speaker
-BTL_EVT3.582D	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero is like a babe in{n}arms!	
+BTL_EVT3.582D	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero{n}is like a babe in arms!	
 BTL_EVT3.587FS	ラルヴァ	Larva	speaker
 BTL_EVT3.5888	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT3.591AS	ロクス	Rocus	speaker
@@ -766,7 +766,7 @@ BTL_EVT3.5B5A	ふふふ……。{n}天使の勇者も所詮この程度なのね
 BTL_EVT3.5B90S	セレニス	Serenis	speaker
 BTL_EVT3.5B99	ふふふ……。{n}天使の勇者も所詮この程度なのね……。	Hehehe... So the angel's hero is no more{n}than this after all...	
 BTL_EVT3.5C83S	王の女	King's Lady	speaker
-BTL_EVT3.5C8A	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
+BTL_EVT3.5C8A	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer,{n}your journey ends here.	
 BTL_EVT3.5CDAS	ロクス	Rocus	speaker
 BTL_EVT3.5CE1	化け物に答える必要はない。	I don't need to answer a monster.	
 BTL_EVT3.5CFFS	王の女	King's Lady	speaker

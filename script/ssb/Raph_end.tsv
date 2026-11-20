@@ -4,7 +4,7 @@ Raph_end.0058	おう、＄＄＄＄＄＄。{n}もう、戻ってこないのか
 Raph_end.0098	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.00A8	え！？{n}そんな、あの……ミカエル様……。{wait}{clear}	Huh?! Oh no, um... Michael-sama...{wait}{clear}	
 Raph_end.00D4	ミカエル	Michael	speaker
-Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}	Hahaha! Just a joke. No need to look so{n}worried, is there?{wait}{clear}But, ＄＄＄＄＄＄... You did hard work in{n}Arcaya.{wait}{clear}Against Beelzebub and Satan's dragon, no{n}less... You truly did well. Let me thank you{n}too.{wait}{clear}	
+Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}	Hahaha! Just a joke. No need to look so{n}worried, is there?{wait}{clear}But, ＄＄＄＄＄＄... You did hard work in{n}Arcaya.{wait}{clear}Against Beelzebub and Satan's{n}dragon, no less... You truly{n}did well. Let me thank you too.{wait}{clear}	
 Raph_end.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.01D0	お礼を言われるなんて……とんでもありません。{n}私は、私のできることをしただけですし、{n}アルカヤを救ったのはなによりも勇者たちの力です。{wait}{clear}	Thanking me... Oh, not at all. I only did{n}what I could, and above all, it was the{n}heroes' strength that saved Arcaya.{wait}{clear}	
 Raph_end.025A	ミカエル	Michael	speaker
@@ -73,7 +73,7 @@ Raph_end.10D4	それから……{n}私たちのことも忘れないでくださ
 Raph_end.1126	リンクス	Lynx	speaker
 Raph_end.1136	え？　天使様、人間になるんですか？{wait}{clear}	Huh? Angel, you're becoming human?{wait}{clear}	
 Raph_end.1160	そんなぁ、人間の方がすっごく大変だと思うけど……{n}いいんですか？{wait}{clear}	No way, I think being human is way harder...{n}Are you sure?{wait}{clear}	
-Raph_end.11A8	でも、天使様、決めちゃったんですよね……う～ん。{wait}{clear}	But you already decided, right, Angel...{n}Hmmm.{wait}{clear}	
+Raph_end.11A8	でも、天使様、決めちゃったんですよね……う～ん。{wait}{clear}	But you already decided,{n}right, Angel... Hmmm.{wait}{clear}	
 Raph_end.11E0	会えなくなっちゃうから、さびしいなぁ。{wait}{clear}	I won't get to see you anymore, so I'll be{n}lonely.{wait}{clear}	
 Raph_end.120E	人間になっても、ボクのこと忘れないでね！{wait}{clear}	Even after you're human, don't forget me,{n}okay?!{wait}{clear}	
 Raph_end.1256	アクイラ	Aquila	speaker
@@ -85,7 +85,7 @@ Raph_end.1384	シータス	Cetus	speaker
 Raph_end.1394	人間として、{n}地上で生きることに決めたんですか？{wait}{clear}	You've decided to live on the surface as a{n}human?{wait}{clear}	
 Raph_end.13CC	天使様らしいといえば、{n}天使様らしい選択ですが……。{wait}{clear}	I suppose it's a very you choice, Angel...{wait}{clear}	
 Raph_end.1408	そうですね……{n}いつまでもその優しい心を忘れずにいてください。{wait}{clear}	Well... please never forget that kind heart{n}of yours.{wait}{clear}	
-Raph_end.144E	会えなくなるのは残念ですが、お元気で。{wait}{clear}	It's a shame I won't see you again, but take{n}care.{wait}{clear}	
+Raph_end.144E	会えなくなるのは残念ですが、お元気で。{wait}{clear}	It's a shame I won't see{n}you again, but take care.{wait}{clear}	
 Raph_end.1494	レーパス	Lepus	speaker
 Raph_end.14A4	天使様が人間として生きる道をお選びになるとは{n}思いませんでした。{wait}{clear}	I never thought you would choose the path of{n}living as a human, Angel.{wait}{clear}	
 Raph_end.14EC	でも、お考えがあってのことと思います。{wait}{clear}	But I am sure you have your reasons.{wait}{clear}	

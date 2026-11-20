@@ -5,7 +5,7 @@ ceev03.011A	ジャイアント	Giant	unit name (32-byte field)
 ceev03.05B8	セシア	Cecia	speaker
 ceev03.05CD	どうして村を襲うの？	Why are you attacking the village?	text
 ceev03.05F0	タイタン	Titan	speaker
-ceev03.0607	ふん！{n}お前は森の一族の者だな。	Hmph! You're one of the forest clan, aren't{n}you?	text
+ceev03.0607	ふん！{n}お前は森の一族の者だな。	Hmph! You're one of the{n}forest clan, aren't you?	text
 ceev03.0636	セシア	Cecia	speaker
 ceev03.064B	村を襲わないと約束したはずでしょう？	You promised you wouldn't attack the{n}village, didn't you?	text
 ceev03.067E	タイタン	Titan	speaker

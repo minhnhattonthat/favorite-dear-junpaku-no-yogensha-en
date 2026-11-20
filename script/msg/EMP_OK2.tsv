@@ -1,7 +1,7 @@
 id	jp	en	notes
 EMP_OK2.000E	帝国がひどいことをしてるのか？{wait}{clear}わかった、おれが行くよ！{n}やつらは許せないからな！	The Empire's doing something awful?{wait}{clear}Got it, I'll go! I can't forgive them!	
 EMP_OK2.0064	帝国か……。{wait}{clear}わかった……{n}おれがどこまで相手できるかわからないけど、{n}行くよ。	The Empire...{wait}{clear}Okay... I don't know how well I can hold{n}them off, but I'll go.	
-EMP_OK2.00B8	帝国のやつら……なに考えてんだよ！　くそっ！{wait}{clear}すぐに向かうよ！　やつらはおれがなんとかする。	Those Imperials... What are they thinking?!{n}Damn it!{wait}{clear}I'm heading there right now! I'll deal with{n}them.	
+EMP_OK2.00B8	帝国のやつら……なに考えてんだよ！　くそっ！{wait}{clear}すぐに向かうよ！　やつらはおれがなんとかする。	Those Imperials... What are they thinking?!{n}Damn it!{wait}{clear}I'm heading there right{n}now! I'll deal with them.	
 EMP_OK2.0118	帝国がひどいことをしてるのか？{wait}{clear}わかった、おれが行くよ！{n}やつらは許せないからな！	The Empire's doing something awful?{wait}{clear}Got it, I'll go! I can't forgive them!	
 EMP_OK2.016E	帝国か……。{wait}{clear}わかった……{n}おれがどこまで相手できるかわからないけど、{n}行くよ。	The Empire...{wait}{clear}Okay... I don't know how well I can hold{n}them off, but I'll go.	
-EMP_OK2.01C2	帝国のやつら……なに考えてんだよ！　くそっ！{wait}{clear}すぐに向かうよ！　やつらはおれがなんとかする。	Those Imperials... What are they thinking?!{n}Damn it!{wait}{clear}I'm heading there right now! I'll deal with{n}them.	
+EMP_OK2.01C2	帝国のやつら……なに考えてんだよ！　くそっ！{wait}{clear}すぐに向かうよ！　やつらはおれがなんとかする。	Those Imperials... What are they thinking?!{n}Damn it!{wait}{clear}I'm heading there right{n}now! I'll deal with them.	

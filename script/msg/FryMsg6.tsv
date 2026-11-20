@@ -6,7 +6,7 @@ FryMsg6.017C	天使様、ＡＰがなくなってしまいました。{n}天界�
 FryMsg6.01C2	天使様、すいません。{n}さすがに疲れがたまってきたんですが……。{wait}{clear}近いうちに休みをいただけるとありがたいです。{n}考えておいてください、天使様。	Sorry, Angel. I'm really starting to get{n}worn out...{wait}{clear}I'd appreciate a day off sometime soon.{n}Think it over, Angel.	
 FryMsg6.0252	天使様、ちょっと、いいですか？{wait}{clear}＜妖精名＞がとても疲れているようです。{n}たまには休ませてあげてはいかがでしょうか。	Angel, got a second?{wait}{clear}＜妖精名＞ looks really tired. Why not let{n}them rest once in a while?	
 FryMsg6.02C8	天使様、申し訳ありません。{wait}{clear}＜妖精名＞が勝手に天界に戻ってしまいました。	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens{n}without permission.	
-FryMsg6.0314	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名＞様にお会いになりますか？	Angel, there's a hero who wants to meet with{n}you.{wait}{clear}Will you see ＜勇者名＞-sama?	
+FryMsg6.0314	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名＞様にお会いになりますか？	Angel, there's a hero who{n}wants to meet with you.{wait}{clear}Will you see ＜勇者名＞-sama?	
 FryMsg6.036E	じゃあ、そのようにお伝えしておきます。	All right, I'll pass that along.	
 FryMsg6.0396	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名１＞様と＜勇者名２＞様の{n}どちらにお会いになられますか？	Angel, there are heroes who want to meet{n}with you.{wait}{clear}Who will you see, ＜勇者名１＞-sama or ＜勇者名２＞-sama?	
 FryMsg6.040E	じゃあ、そのようにお伝えしておきます。	All right, I'll pass that along.	
@@ -14,7 +14,7 @@ FryMsg6.0436	天使様、報告します。{wait}{clear}＜勇者名＞様のレ
 FryMsg6.0474	天使様、報告します。{wait}{clear}＜勇者名＞様のレベルが○○上がりました。	Angel, a report.{wait}{clear}＜勇者名＞-sama's level has gone up by ○○.	
 FryMsg6.04B6	天使様！　＜勇者名＞様が敵と遭遇しました！	Angel! ＜勇者名＞-sama has encountered the enemy!	
 FryMsg6.04E2	じゃあ、急ぎましょう、天使様！{n}それで、戦いのときには＜勇者名＞様を{n}援護してください！	Then let's hurry, Angel! And back ＜勇者名＞-sama{n}up in the fight!	
-FryMsg6.053C	そうなんですか？{n}では、戦いの援護をすることはできませんが、{n}様子だけは見に行きましょう！	Is that so? Then we can't back them up in{n}the fight, but let's at least go have a{n}look!	
+FryMsg6.053C	そうなんですか？{n}では、戦いの援護をすることはできませんが、{n}様子だけは見に行きましょう！	Is that so? Then we can't{n}back them up in the fight, but{n}let's at least go have a look!	
 FryMsg6.0598	天使様！　＜勇者名＞様が敵と遭遇しました！{wait}{clear}戦闘で援護することはできませんが、{n}＜勇者名＞様の様子だけは見に行きましょう！	Angel! ＜勇者名＞-sama has run into the enemy!{wait}{clear}We can't back them up in battle, but let's{n}at least go see how ＜勇者名＞-sama is doing!	
 FryMsg6.0616	大変です！{n}＜勇者名＞様が戦闘で{n}大ケガしてしまったようです。{wait}{clear}＜勇者名＞様のところへ行ってあげてください。{wait}{clear}そして、勇者様のところへ行ったら、{n}回復アイテムを渡すか、{n}同行して祝福してあげてください。	It's bad! Looks like ＜勇者名＞-sama got badly{n}hurt in battle.{wait}{clear}Go to ＜勇者名＞-sama.{wait}{clear}And when you get there, give them a healing{n}item, or go with them and give your{n}blessing.	
 FryMsg6.06E6	天使様、{n}大ケガを負われている＜勇者名＞様のもとへ{n}行かなくてもいいんですか？{wait}{clear}早く行って、回復アイテムを渡すか、{n}同行して祝福してあげてください。	Angel, are you sure you don't want to go to{n}＜勇者名＞-sama? They're badly hurt.{wait}{clear}Hurry and give them a healing item, or go{n}with them and give your blessing.	

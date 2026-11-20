@@ -3,7 +3,7 @@ laev15_01.0002	1		dev label (guess: not shown)
 laev15_01.00A2	レイラ	Leyla	unit name (32-byte field)
 laev15_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 laev15_01.04D8	聖母	Holy Mother	speaker
-laev15_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
+laev15_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done{n}well to come this far.	text
 laev15_01.0518	レイラ	Leyla	speaker
 laev15_01.052D	あなたは……？	Who are you...?	text
 laev15_01.054A	聖母	Holy Mother	speaker

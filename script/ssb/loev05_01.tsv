@@ -8,7 +8,7 @@ loev05_01.00EE	レグランス王の特使ルディエール大公、{n}遠方�
 loev05_01.018E	ルディエール	Rudiere	speaker
 loev05_01.019E	お会いできて光栄です。皇帝陛下。{wait}{clear}	It is an honor to meet you, Your Majesty.{wait}{clear}	
 loev05_01.01C2	エンディミオン	Endymion	speaker
-loev05_01.01D4	余も会えてうれしい。{n}大公。{wait}{clear}	We are pleased to meet you as well, Grand{n}Duke.{wait}{clear}	
+loev05_01.01D4	余も会えてうれしい。{n}大公。{wait}{clear}	We are pleased to meet{n}you as well, Grand Duke.{wait}{clear}	
 loev05_01.0212	宰相	Chancellor	speaker
 loev05_01.021A	いや、大公、わざわざいらして頂いて{n}申し訳ないが我が皇帝は非常に多忙でしてな。{wait}{clear}レグランス王からのお話というのはなんですかな？{n}できれば簡潔にお願いしたい。{wait}{clear}	Now, Grand Duke, forgive us after you've{n}come all this way, but His Majesty is{n}extremely busy.{wait}{clear}What is the King of Legrance's message?{n}Kindly keep it brief.{wait}{clear}	
 loev05_01.02BC	ルディエール	Rudiere	speaker

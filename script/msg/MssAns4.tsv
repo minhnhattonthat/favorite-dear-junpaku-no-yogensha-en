@@ -18,7 +18,7 @@ MssAns4.0296	なし	None
 MssAns4.029C	なし	None	
 MssAns4.02A2	なし	None	
 MssAns4.02A8	聖都まで……そんな……。{wait}{clear}＄＄＄＄＄＄、行かせて。{n}なにもできないかもしれないけど、{n}行かないよりは、ましだわ。	The Holy City too... No way...{wait}{clear}＄＄＄＄＄＄, let me go. I may not be able{n}to do anything, but it's better than not{n}going.	
-MssAns4.031C	魔石が？{n}わかった……興味あるな……。{wait}{clear}行かせて、＄＄＄＄＄＄。	The Demon Stone? All right... That interests{n}me...{wait}{clear}Let me go, ＄＄＄＄＄＄.	
+MssAns4.031C	魔石が？{n}わかった……興味あるな……。{wait}{clear}行かせて、＄＄＄＄＄＄。	The Demon Stone? All{n}right... That interests me...{wait}{clear}Let me go, ＄＄＄＄＄＄.	
 MssAns4.0360	なし	None	
 MssAns4.0366	なし	None	
 MssAns4.036C	なし	None	
@@ -29,10 +29,10 @@ MssAns4.0384	なし	None
 MssAns4.038A	そうね……行かなくちゃ……。{n}私が行かなくちゃいけない……。{wait}{clear}すぐに行くわ、じゃないと大変なことになる！	Right... I have to go... I'm the one who has{n}to go...{wait}{clear}I'll go right away, or something terrible{n}will happen!	
 MssAns4.03F6	なし	None	
 MssAns4.03FC	なし	None	
-MssAns4.0402	そんなことが起こってしまったのね……。{n}わかったわ、行ってくる。{wait}{clear}できる限りのことはしてみるけど、{n}どんなにつらい結果になっても{n}がんばってね……。	So that's what happened... All right, I'll{n}go.{wait}{clear}I'll do everything I can, but however{n}painful the outcome, hang in there...	
+MssAns4.0402	そんなことが起こってしまったのね……。{n}わかったわ、行ってくる。{wait}{clear}できる限りのことはしてみるけど、{n}どんなにつらい結果になっても{n}がんばってね……。	So that's what happened...{n}All right, I'll go.{wait}{clear}I'll do everything I can, but however{n}painful the outcome, hang in there...	
 MssAns4.049A	なし	None	
 MssAns4.04A0	なし	None	
-MssAns4.04A6	行かなくちゃいけないよね……。{wait}{clear}ずっとひとりで……{n}こんな世界のことなんて考えたことなかったけど、{n}気づいたの……。{wait}{clear}この世界のこと大事なんだって。{n}天竜なんかに壊されちゃいけないって。{wait}{clear}だから、行くわ、なにが起ころうと怖くない。{n}きっと、天竜を倒してみせる。	I have to go, don't I...{wait}{clear}I was always alone... I never once thought{n}about this world, but I've realized...{wait}{clear}This world matters to me. I can't let{n}something like the Heavenly Dragon destroy{n}it.{wait}{clear}So I'll go. Whatever happens, I'm not{n}afraid. I'll defeat the Heavenly Dragon, I{n}promise.	
+MssAns4.04A6	行かなくちゃいけないよね……。{wait}{clear}ずっとひとりで……{n}こんな世界のことなんて考えたことなかったけど、{n}気づいたの……。{wait}{clear}この世界のこと大事なんだって。{n}天竜なんかに壊されちゃいけないって。{wait}{clear}だから、行くわ、なにが起ころうと怖くない。{n}きっと、天竜を倒してみせる。	I have to go, don't I...{wait}{clear}I was always alone... I never once thought{n}about this world, but I've realized...{wait}{clear}This world matters to me. I{n}can't let something like the{n}Heavenly Dragon destroy it.{wait}{clear}So I'll go. Whatever happens, I'm not{n}afraid. I'll defeat the Heavenly Dragon, I{n}promise.	
 MssAns4.05B2	なし	None	
 MssAns4.05B8	なし	None	
 MssAns4.05BE	なし	None	

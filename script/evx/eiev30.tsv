@@ -8,11 +8,11 @@ eiev30.01CE	死人	Dead Man	unit name (32-byte field)
 eiev30.020A	死人	Dead Man	unit name (32-byte field)
 eiev30.0498	イオン	Ion	speaker
 eiev30.04AD	魔石はあの人に渡したし、お母さんも……。	I gave the Demon Stone to that man, and{n}Mother too...	text
-eiev30.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。	I beat the villagers who got in my way, and{n}I got food... Sonne, Mond, Stern, let's go{n}home.	text
+eiev30.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。	I beat the villagers who got in{n}my way, and I got food... Sonne,{n}Mond, Stern, let's go home.	text
 eiev30.059D	イオン	Ion	speaker
 eiev30.05B2	なんだ？　お前……。	What? Who are you...?	text
 eiev30.0611	アイリーン	Irene	speaker
 eiev30.062A	酷い……あなたが？	How cruel... You did this?	text
 eiev30.064B	イオン	Ion	speaker
-eiev30.0660	うるさい！{n}僕の邪魔をするから悪いんだ！	Shut up! It's their fault for getting in my{n}way!	text
+eiev30.0660	うるさい！{n}僕の邪魔をするから悪いんだ！	Shut up! It's their fault{n}for getting in my way!	text
 eiev30.0697	ゾネ、モーント、スターン！　こいつを殺せ！！	Sonne, Mond, Stern! Kill him!!	text

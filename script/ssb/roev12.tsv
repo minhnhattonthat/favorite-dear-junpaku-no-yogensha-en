@@ -2,7 +2,7 @@ id	jp	en	notes
 roev12.0048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0058	ロクス、今日もお酒ですか……？{wait}{clear}	Rocus, drinking again today...?{wait}{clear}	
 roev12.007A	ロクス	Rocus	speaker
-roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}	Oh, ＄＄＄＄＄＄. How about it, want a drink{n}too?{wait}{clear}I'm not in the mood for raising a ruckus{n}today. Drinking man to man for once might{n}not be bad.{wait}{clear}	
+roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}	Oh, ＄＄＄＄＄＄. How{n}about it, want a drink too?{wait}{clear}I'm not in the mood for raising a ruckus{n}today. Drinking man to man for once might{n}not be bad.{wait}{clear}	
 roev12.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0124	そうですか……？{wait}{clear}	Is that so...?{wait}{clear}	
 roev12.0138	ＮＵＬＬ	NULL	speaker
@@ -59,7 +59,7 @@ roev12.0AB6	もっと飲んでくださいよ～。{n}私の酒は飲めない�
 roev12.0B04	ロクス	Rocus	speaker
 roev12.0B0E	おい、なんだよ。{n}少し飲み過ぎたんじゃないのか？{wait}{clear}	Hey, what's with you? Haven't you had a bit{n}too much?{wait}{clear}	
 roev12.0B42	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0B52	そんなことないですよ～。{n}なんだか、とっても楽しいです～！{wait}{clear}それに～、大変なんですからね、私だって～。{n}たまにはいいですよね～。{n}少しくらい羽目をはずしても～。{wait}{clear}	Not at all~. Somehow I'm having so much{n}fun~!{wait}{clear}And besides~, I have it tough too, you{n}know~. Once in a while it's fine, right~?{n}Letting loose a little~.{wait}{clear}	
+roev12.0B52	そんなことないですよ～。{n}なんだか、とっても楽しいです～！{wait}{clear}それに～、大変なんですからね、私だって～。{n}たまにはいいですよね～。{n}少しくらい羽目をはずしても～。{wait}{clear}	Not at all~. Somehow{n}I'm having so much fun~!{wait}{clear}And besides~, I have it tough too, you{n}know~. Once in a while it's fine, right~?{n}Letting loose a little~.{wait}{clear}	
 roev12.0C04	まえの任務のときだって、{n}もう、あれはヤダ～、これはヤダ～って{n}ロクスみたいにわがままな人がいて～。{wait}{clear}ここでは、ロクスって人がいて～。{n}も～、大変で大変で～。{wait}{clear}	On my last mission too, there was this{n}selfish person, "I hate this~, I hate{n}that~," just like you, Rocus~.{wait}{clear}And here, there's this person called Rocus~.{n}Ohh~, it's so tough, so tough~.{wait}{clear}	
 roev12.0CA8	ロクス	Rocus	speaker
 roev12.0CB2	＄＄＄＄＄＄、本当に大丈夫か？{n}{wait}{clear}	＄＄＄＄＄＄, are you really all right?{n}{wait}{clear}	
@@ -114,4 +114,4 @@ roev12.13FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.140A	やっぱりお酒はちょっと……。{n}ロクスも少しお酒から離れた方がいいと思いますよ。{wait}{clear}	I'd rather not drink... I think you should{n}stay away from drinking for a while too,{n}Rocus.{wait}{clear}	
 roev12.146A	ロクス	Rocus	speaker
 roev12.1474	ふん……あいかわらず、かたぶつだな。{wait}{clear}	Hmph... Stiff as ever.{wait}{clear}	
-roev12.14A8	ま、いい……{n}たまには一人で静かに飲むさ。{wait}{clear}じゃあな。{wait}{clear}	Oh, well... I'll drink quietly alone for{n}once.{wait}{clear}See you.{wait}{clear}	
+roev12.14A8	ま、いい……{n}たまには一人で静かに飲むさ。{wait}{clear}じゃあな。{wait}{clear}	Oh, well... I'll drink{n}quietly alone for once.{wait}{clear}See you.{wait}{clear}	

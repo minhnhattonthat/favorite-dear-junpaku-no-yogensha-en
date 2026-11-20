@@ -238,7 +238,7 @@ BTL_EVT5.1C74	我が戦いは、皇帝のため！	I fight for the Emperor!
 BTL_EVT5.1CB4S	レイラ	Leyla	speaker
 BTL_EVT5.1CBB	帝国軍に魔物が……？{n}どうしたの？　いったいなにが起こったの？	Monsters in the Imperial Army...? What's{n}going on? What on earth happened?	
 BTL_EVT5.1CFDS	融合兵	Fused Troop	speaker
-BTL_EVT5.1D04	愚かな人間には、なにもわかるまい……死ね！	Foolish humans could never understand...{n}Die!	
+BTL_EVT5.1D04	愚かな人間には、なにもわかるまい……死ね！	Foolish humans could{n}never understand... Die!	
 BTL_EVT5.1D32S	レイラ	Leyla	speaker
 BTL_EVT5.1D39	こんなひどいことが……{n}でも、あきらめないわ……絶対に……。	Something this terrible... But I won't give{n}up... never...	
 BTL_EVT5.1D79S	融合兵	Fused Troop	speaker
@@ -254,7 +254,7 @@ BTL_EVT5.1EC6	ギュルギュルゥ……。	Gyurugyuruu...
 BTL_EVT5.1EDES	カオスジェリー	Chaos Jelly	speaker
 BTL_EVT5.1EED	ギュルギュルゥ……。	Gyurugyuruu...	
 BTL_EVT5.1F29S	レイラ	Leyla	speaker
-BTL_EVT5.1F30	これ以上、人を襲うというなら倒してあげるわ！	If you keep attacking people, I'll defeat{n}you!	
+BTL_EVT5.1F30	これ以上、人を襲うというなら倒してあげるわ！	If you keep attacking{n}people, I'll defeat you!	
 BTL_EVT5.1F60S	レイラ	Leyla	speaker
 BTL_EVT5.1F67	ふう……終わったわね……。	Phew... It's over...	
 BTL_EVT5.1F85S	デッドプラント	Dead Plant	speaker
@@ -264,7 +264,7 @@ BTL_EVT5.1FB9	ひゅるひゅる……。	Hyuruhyuru...
 BTL_EVT5.1FF3S	レイラ	Leyla	speaker
 BTL_EVT5.1FFA	女性ばかり狙うなんて卑劣な……覚悟しなさい！	Only going after women, how despicable...{n}Prepare yourselves!	
 BTL_EVT5.202AS	シーフ	Thief	speaker
-BTL_EVT5.2031	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our way? Hah! This'll be{n}fun!	
+BTL_EVT5.2031	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our{n}way? Hah! This'll be fun!	
 BTL_EVT5.2067S	レイラ	Leyla	speaker
 BTL_EVT5.206E	これにこりて、バカな真似はやめることね。	Let this teach you to stop doing such{n}foolish things.	
 BTL_EVT5.209AS	シーフ	Thief	speaker
@@ -306,7 +306,7 @@ BTL_EVT5.241A	クワァアアー！	Kwaaaaah!
 BTL_EVT5.2450S	レイラ	Leyla	speaker
 BTL_EVT5.2457	これ以上、被害を大きくするわけにはいかないわ。{n}ここで倒してあげる。	I can't let the damage grow any worse. I'll{n}defeat you here.	
 BTL_EVT5.249FS	レイラ	Leyla	speaker
-BTL_EVT5.24A6	終わったわ……。{n}これでこの街道も大丈夫ね。	It's over... This highway should be safe{n}now.	
+BTL_EVT5.24A6	終わったわ……。{n}これでこの街道も大丈夫ね。	It's over... This highway{n}should be safe now.	
 BTL_EVT5.24D6S	ミリピード	Millipede	speaker
 BTL_EVT5.24E1	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT5.2501S	ミリピード	Millipede	speaker
@@ -350,7 +350,7 @@ BTL_EVT5.29EA	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT5.2A46S	レイラ	Leyla	speaker
 BTL_EVT5.2A4D	魔族……どうして……？	Demons... but why...?	
 BTL_EVT5.2A67S	リベザル	Ribezal	speaker
-BTL_EVT5.2A70	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
+BTL_EVT5.2A70	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is{n}finally about to be born.{wait}{clear}You pests will have to disappear!	
 BTL_EVT5.2AD0S	レイラ	Leyla	speaker
 BTL_EVT5.2AD7	そんな……でも……進まなければ……。	No... But... I must go on...	
 BTL_EVT5.2AFFS	リベザル	Ribezal	speaker
@@ -368,7 +368,7 @@ BTL_EVT5.2C77	我々の邪魔などさせん！	We won't let you interfere!
 BTL_EVT5.2C91S	反乱兵	Rebel	speaker
 BTL_EVT5.2C98	我々の邪魔などさせん！	We won't let you interfere!	
 BTL_EVT5.2CD6S	レイラ	Leyla	speaker
-BTL_EVT5.2CDD	これ以上、人を襲うというなら倒してあげるわ！	If you keep attacking people, I'll defeat{n}you!	
+BTL_EVT5.2CDD	これ以上、人を襲うというなら倒してあげるわ！	If you keep attacking{n}people, I'll defeat you!	
 BTL_EVT5.2D0DS	ジャイアント	Giant	speaker
 BTL_EVT5.2D1A	人間ごときがおれに勝てると思うな！	Don't think a mere human can beat me!	
 BTL_EVT5.2D40S	レイラ	Leyla	speaker
@@ -442,7 +442,7 @@ BTL_EVT5.32F8	グギギャア～！	Gugigyaaah~!
 BTL_EVT5.330AS	海竜	Sea Dragon	speaker
 BTL_EVT5.330F	グギギャア～！	Gugigyaaah~!	
 BTL_EVT5.3345S	レイラ	Leyla	speaker
-BTL_EVT5.334C	このあたりで暴れている盗賊たちって{n}あなたたち？	Are you the bandits running wild around{n}here?	
+BTL_EVT5.334C	このあたりで暴れている盗賊たちって{n}あなたたち？	Are you the bandits{n}running wild around here?	
 BTL_EVT5.3380S	ミリシア	Militia	speaker
 BTL_EVT5.3389	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！	Hmph! So what if we are? You leave your{n}stuff here too!	
 BTL_EVT5.33D9S	レイラ	Leyla	speaker
@@ -454,7 +454,7 @@ BTL_EVT5.342C	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT5.3472S	レイラ	Leyla	speaker
 BTL_EVT5.3479	やはり、アンデッドの仕業だったようね……。	So it was the undead's doing after all...	
 BTL_EVT5.34A7S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT5.34B6	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
+BTL_EVT5.34B6	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this{n}village is my servant now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT5.3528S	レイラ	Leyla	speaker
 BTL_EVT5.352F	……不気味ね……やっぱり……。	...Eerie... as I thought...	
 BTL_EVT5.3551S	ノスフェラトゥ	Nosferatu	speaker
@@ -736,11 +736,11 @@ BTL_EVT5.53B5	なんでこんなことが……。{n}いったい誰が……。
 BTL_EVT5.53E5S	モラクス	Morax	speaker
 BTL_EVT5.53EE	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT5.5418S	モラクス	Morax	speaker
-BTL_EVT5.5421	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero is like a babe in{n}arms!	
+BTL_EVT5.5421	ワハハハ！　天使の勇者など、赤子のようだ！	Wahahaha! The angel's hero{n}is like a babe in arms!	
 BTL_EVT5.5473S	ラルヴァ	Larva	speaker
 BTL_EVT5.547C	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT5.550ES	レイラ	Leyla	speaker
-BTL_EVT5.5515	なんてことを……！{n}その言葉を言ったことを後悔させてあげるわ！	How dare you...! I'll make you regret saying{n}that!	
+BTL_EVT5.5515	なんてことを……！{n}その言葉を言ったことを後悔させてあげるわ！	How dare you...! I'll make{n}you regret saying that!	
 BTL_EVT5.5557S	ラルヴァ	Larva	speaker
 BTL_EVT5.5560	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！	Ahahaha! What a funny thing to say! Then{n}let's see what you can do!!	
 BTL_EVT5.55B0S	ラルヴァ	Larva	speaker
@@ -758,7 +758,7 @@ BTL_EVT5.5754	ふふふ……。{n}天使の勇者も所詮この程度なのね
 BTL_EVT5.578AS	セレニス	Serenis	speaker
 BTL_EVT5.5793	ふふふ……。{n}天使の勇者も所詮この程度なのね……。	Hehehe... So the angel's hero is no more{n}than this after all...	
 BTL_EVT5.587DS	王の女	King's Lady	speaker
-BTL_EVT5.5884	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
+BTL_EVT5.5884	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer,{n}your journey ends here.	
 BTL_EVT5.58D4S	レイラ	Leyla	speaker
 BTL_EVT5.58DB	どきなさい……。{n}あなたたちには関係のないことよ。	Step aside... This is none of your concern.	
 BTL_EVT5.5911S	王の女	King's Lady	speaker

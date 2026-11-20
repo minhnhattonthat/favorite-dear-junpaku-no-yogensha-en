@@ -8,9 +8,9 @@ roev07.00D6	他の勇者だっているのだろう？{n}別に僕だけに…�
 roev07.0108	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0118	他の勇者たちは{n}ロクスみたいに文句は言わずに……{wait}{clear}	The other heroes don't complain the way you{n}do, Rocus...{wait}{clear}	
 roev07.014C	ロクス	Rocus	speaker
-roev07.0156	なんだ、あれは？{wait}{clear}	The Boy	
+roev07.0156	なんだ、あれは？{wait}{clear}	What's that?{wait}{clear}	
 roev07.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev07.0190	あれ？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}	Huh? Rocus, where are you going? Please{n}wait!{wait}{clear}	
+roev07.0190	あれ？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}	Huh? Rocus, where are{n}you going? Please wait!{wait}{clear}	
 roev07.01CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.01DE	え？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}	Eh? Rocus, where are you going? Please wait!{wait}{clear}	
 roev07.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -57,7 +57,7 @@ roev07.0978	痛っ……。{wait}{clear}	Ow...{wait}{clear}
 roev07.0986	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0996	ロクス、大丈夫ですか？{wait}{clear}	Rocus, are you all right?{wait}{clear}	
 roev07.09B0	ロクス	Rocus	speaker
-roev07.09BA	ふっ、ばかみたいだな……{n}カッコよく人助けをしたはいいが、{n}やつらからの仕返しをくらうなんて……。{wait}{clear}それにしても……{n}弱い子供をさらって、金を巻き上げようなんて……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}	Heh, how stupid... I play the dashing{n}rescuer, and then I take their revenge for{n}it...{wait}{clear}Even so... kidnapping a helpless child to{n}squeeze out money...{wait}{clear}Do they think money gotten that way will do{n}anything for them?{wait}{clear}	
+roev07.09BA	ふっ、ばかみたいだな……{n}カッコよく人助けをしたはいいが、{n}やつらからの仕返しをくらうなんて……。{wait}{clear}それにしても……{n}弱い子供をさらって、金を巻き上げようなんて……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}	Heh, how stupid... I play the{n}dashing rescuer, and then I{n}take their revenge for it...{wait}{clear}Even so... kidnapping a helpless child to{n}squeeze out money...{wait}{clear}Do they think money gotten that way will do{n}anything for them?{wait}{clear}	
 roev07.0AAC	ＮＵＬＬ	NULL	speaker
 roev07.0ABC	《そういう人ばかりでは……。》{n}	Not everyone is like that...{n}	
 roev07.0AE2	《あなたはやさしい……。》{n}	You're kind...{n}	

@@ -42,7 +42,8 @@ TERM_WAIVE = {
 def wrap_spec(path, row):
     """(letters per line, lines per page, may add pages) or None (no wrapping: menus, code strings, names)"""
     d = path.relative_to(SCRIPT).parts[0]
-    if row["notes"] in ("speaker", "unit", "choice", "dev") or d in ("ovl", "exe.tsv", "misc"):
+    if row["notes"] in ("speaker", "choice", "dev") or row["notes"].startswith("unit") \
+            or d in ("ovl", "exe.tsv", "misc"):
         return None
     if d == "end":
         return (42, 99, False)
@@ -109,7 +110,7 @@ def split():
     for jp, members in families().items():
         p, r, spk = members[0]
         spec = wrap_spec(p, r)
-        kind = "name" if r["notes"] in ("speaker", "unit") else (r["notes"] or "text") if spec is None else \
+        kind = "name" if r["notes"] == "speaker" or r["notes"].startswith("unit") else (r["notes"] or "text") if spec is None else \
             f"wrap{spec[0]}x{spec[1]}"
         text = unwrap(jp) if spec else jp
         g = len(TAG.sub("", text))
@@ -136,7 +137,10 @@ def glossary():
 
 def check(b):
     errs = []
-    inp = {r[0]: r for r in read_tsv(BATCHES / f"{b}.tsv")}
+    rows = read_tsv(BATCHES / f"{b}.tsv")
+    inp = {r[0]: r for r in rows}
+    if len(inp) != len(rows):     # ids repeat across script/ files; within a batch the output could not tell them apart
+        errs.append(f"{b}: an id appears twice in the batch input")
     outp = OUT / f"{b}.tsv"
     if not outp.exists():
         return [f"{b}: no {outp.relative_to(ROOT)}"]
@@ -208,7 +212,7 @@ def check(b):
 
 
 # Widest English each runtime placeholder becomes (rfd2 0x800BF280..: strncmp on the tag, then strcpy from an EXE
-# pointer table indexed by the report's ids): heroes 0x8006F538 (7, "Cecia"), fairies 0x8006FE18 (8, "Florinda"),
+# pointer table indexed by the report's ids): heroes 0x8006F538 (5, "Cecia"), fairies 0x8006FE18 (8, "Florinda"),
 # regions 0x8006F3FC (57 towns, "Frezelecia"); event titles are EvName records (22 bytes); destinations come from a
 # town lookup (0x800A8188), counted as 12 to be safe; ○○ is a level count.
 PH_WIDTH = {"＜勇者名＞": 5, "＜勇者名１＞": 5, "＜勇者名２＞": 5, "＜妖精名＞": 8, "＜イベント名＞": 22, "＜地方名＞": 10,
@@ -225,19 +229,58 @@ def width(s):
 SENTENCE_END = re.compile(r"""(?:[.!?]|\.\.\.)["')]*$""")
 
 
+STUB = 6     # a wrap-made last line narrower than this is a widow ("...a thousand years / ago.")
+
+
+def greedy(seg, w):
+    lines, cur = [], ""
+    for word in seg.split(" "):
+        cand = f"{cur} {word}" if cur else word
+        if cur and width(cand) > w:
+            lines.append(cur)
+            cur = word
+        else:
+            cur = cand
+    lines.append(cur)
+    return lines
+
+
+def balanced(seg, w, n):
+    """the same words on exactly n lines of at most w, breaks chosen to minimise the sum of squared slack (every
+    line, the last one too, so the last line is no stub); None if no such split exists"""
+    words = seg.split(" ")
+    m = len(words)
+    best = {(0, 0): (0, None)}          # (words used, lines made) -> (cost, previous words used)
+    for k in range(1, n + 1):
+        for j in range(1, m + 1):
+            cands = []
+            for i in range(j - 1, -1, -1):
+                lw = width(" ".join(words[i:j]))
+                if lw > w and j - i > 1:
+                    break
+                if (i, k - 1) in best and lw <= w:
+                    cands.append((best[(i, k - 1)][0] + (w - lw) ** 2, i))
+            if cands:
+                best[(j, k)] = min(cands)
+    if (m, n) not in best:
+        return None
+    out, j = [], m
+    for k in range(n, 0, -1):
+        i = best[(j, k)][1]
+        out.append(" ".join(words[i:j]))
+        j = i
+    return out[::-1]
+
+
 def wrap_lines(page, w):
-    """greedy word wrap of one page; keeps forced {n}"""
+    """word wrap of one page; keeps forced {n}. Greedy, except that a segment whose last line would be a stub
+    is re-broken over the same number of lines with balanced line lengths."""
     lines = []
     for seg in page.split("{n}"):
-        cur = ""
-        for word in seg.split(" "):
-            cand = f"{cur} {word}" if cur else word
-            if cur and width(cand) > w:
-                lines.append(cur)
-                cur = word
-            else:
-                cur = cand
-        lines.append(cur)
+        g = greedy(seg, w)
+        if len(g) >= 2 and width(g[-1]) < STUB:
+            g = balanced(seg, w, len(g)) or g
+        lines += g
     return lines
 
 
@@ -281,11 +324,21 @@ def merge():
             bad.append(outp.stem)
             print(f"{outp.stem}: {len(e)} errors (skipped)", *e[:5], sep="\n  ")
             continue
-        trans.update({f[0]: f[1] for f in read_tsv(outp) if f[1] != "-"})
+        # ids are not unique across script/ (19 ssb/ and evx/ files share one, e.g. roev07.0156): key each
+        # translation by (id, the batch's JP), which is unique because a family is one distinct JP
+        inp = {r[0]: r[3] for r in read_tsv(BATCHES / outp.name)}
+        for f in read_tsv(outp):
+            if f[1] != "-":
+                k = (f[0], inp[f[0]])
+                assert k not in trans, f"{outp.stem}: {k} translated twice"
+                trans[k] = f[1]
     rep = {}
-    for members in families().values():
+    for jp, members in families().items():
+        p0, r0, _ = members[0]
+        key = (r0["id"], unwrap(jp) if wrap_spec(p0, r0) else jp)
         for p, r, _ in members:
-            rep[(p, r["id"])] = members[0][1]["id"]
+            assert (p, r["id"]) not in rep, f"{p.name}: id {r['id']} twice in one file"
+            rep[(p, r["id"])] = key
     n = 0
     long_code = []
     code_src = {s.tsv: s for s in extract.sources() if hasattr(s, "code_name")}

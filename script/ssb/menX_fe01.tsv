@@ -1,8 +1,8 @@
 id	jp	en	notes
 menX_fe01.005E	フェイン	Fein	speaker
-menX_fe01.006A	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right now... Please go{n}back.{wait}{clear}	
+menX_fe01.006A	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right{n}now... Please go back.{wait}{clear}	
 menX_fe01.009C	フェイン	Fein	speaker
-menX_fe01.00A8	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right now... Please go{n}back.{wait}{clear}	
+menX_fe01.00A8	今はなにも話したくない……。{n}帰ってくれ。{wait}{clear}	I don't want to talk right{n}now... Please go back.{wait}{clear}	
 menX_fe01.00E2	フェイン	Fein	speaker
 menX_fe01.00EE	しつこいな……君は……。{n}俺にかまわないでくれ。{wait}{clear}	You're persistent... Leave me be.{wait}{clear}	
 menX_fe01.0126	フェイン	Fein	speaker

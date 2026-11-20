@@ -2,7 +2,7 @@ id	jp	en	notes
 BMsgQ003.0190	まだなにかあるのか？	Is there something else?	
 BMsgQ003.01A6	体調は？	Your health?	
 BMsgQ003.01B0	疲れていませんか？	Aren't you tired?	
-BMsgQ003.01C6	疲れたら、勝手に休ませてもらうよ。{n}それに、そんなことを心配するのなら、{n}最初から僕に仕事など頼まないで欲しいな。	If I get tired, I'll rest when I feel like{n}it.{wait}{clear}Besides, if you're going to worry about{n}that, don't ask me to do jobs in the first{n}place.	
+BMsgQ003.01C6	疲れたら、勝手に休ませてもらうよ。{n}それに、そんなことを心配するのなら、{n}最初から僕に仕事など頼まないで欲しいな。	If I get tired, I'll{n}rest when I feel like it.{wait}{clear}Besides, if you're going to worry about{n}that, don't ask me to do jobs in the first{n}place.	
 BMsgQ003.023A	一緒に歩く	Walk together	
 BMsgQ003.0246	一緒に歩いてもいいですか？	May I walk with you?	
 BMsgQ003.0264	べつにかまわないよ。{n}それに、地に足をつけて視点を変えれば、{n}もっとこの世界のことがわかるんじゃないのか。	I don't mind. Besides, if you put your feet{n}on the ground and change your point of view,{n}maybe you'll understand this world better.	
@@ -19,7 +19,7 @@ BMsgQ003.05B0	青い空	Blue sky
 BMsgQ003.05B8	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ003.068C	ふっ……天使らしい感想だな。{wait}{clear}でも、そういうふうにこの世界のことを{n}いろいろ考えてるんだな……。{wait}{clear}それはほめてやるよ。	Heh... Spoken like an angel.{wait}{clear}But I see you think about this world in all{n}sorts of ways...{wait}{clear}I'll give you credit for that.	
 BMsgQ003.0708	素敵な景色	Lovely views	
-BMsgQ003.0714	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BMsgQ003.0714	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
 BMsgQ003.074C	ああ……。{n}らしくないと思われるかもしれないけど、{n}僕もそう思うよ。{wait}{clear}海も山も、森も湖も……美しい場所はたくさんある。	Yeah... You might think it's not like me,{n}but I think so too.{wait}{clear}Seas and mountains, forests and lakes...{n}There are plenty of beautiful places.	
 BMsgQ003.07C6	妖精は役に立つ？	Fairies useful?	
 BMsgQ003.07D8	妖精たちは助けになっていますか？	Are the fairies a help to you?	
@@ -28,7 +28,7 @@ BMsgQ003.088E	旅先で思うこと	On the road
 BMsgQ003.089E	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BMsgQ003.08E0	ふとしたことで、いろいろ思い出すこともあるけど{n}なるべくよけいなことは考えないようにしてる。{wait}{clear}考えたって、なにもはじまらないし{n}変わらないからな……。	Little things make me remember all sorts of{n}stuff, but I try not to dwell on it.{wait}{clear}Thinking about it doesn't start anything or{n}change anything...	
 BMsgQ003.097A	旅で出会う人	People met	
-BMsgQ003.0988	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ003.0988	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BMsgQ003.09AE	ああ、そうだな。{n}たまに会いたくないやつもいるけど、{n}まあ、だいたいは楽しい人たちばかりだからな。	Yeah, I guess. There are a few people I'd{n}rather not meet, but mostly they're fun{n}folks.	
 BMsgQ003.0A12	いい夢が……	Sweet dreams	
 BMsgQ003.0A20	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -86,12 +86,12 @@ BMsgQ003.151E	修行の時に{n}なにか気をつけていることはあるの
 BMsgQ003.1556	あまりないけど、人目は気になるから、{n}邪魔が入る場所では、こんなことはしないな。{wait}{clear}＄＄＄＄＄＄も邪魔しないでくれよ。	Not much, but I do mind people watching, so{n}I don't do this anywhere I'd get{n}interrupted.{wait}{clear}So don't interrupt me either, ＄＄＄＄＄＄.	
 BMsgQ003.15CE	調子は？	How's it going?	
 BMsgQ003.15D8	修行の調子はいかがですか？	How is your training going?	
-BMsgQ003.15F6	いや、べつに、いつもどおりだけど。{n}なにか気にかかることでもあるのか？	No, same as always. Is something bothering{n}you?	
+BMsgQ003.15F6	いや、べつに、いつもどおりだけど。{n}なにか気にかかることでもあるのか？	No, same as always. Is{n}something bothering you?	
 BMsgQ003.163E	修行の成果	Results	
 BMsgQ003.164A	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BMsgQ003.1684	そうだな。{n}そういうことがないと、張りあいもないか。{wait}{clear}でも、あんまり気にならないんだ、自分としては。	I guess. Without that, there's nothing to{n}keep you going.{wait}{clear}But it doesn't matter that much to me,{n}personally.	
 BMsgQ003.16EC	邪魔でしょうか？	Am I a bother?	
-BMsgQ003.16FE	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BMsgQ003.16FE	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
 BMsgQ003.172C	そう思うなら来なければいいのに……って言っても{n}気になるんだろう？{wait}{clear}あんまり気にしなくて、いいんだけどな。	If you think so, you could just not come...{n}but you'd still worry, right?{wait}{clear}You really don't have to worry about it.	
 BMsgQ003.179A	好きなことは？	Favorite thing?	
 BMsgQ003.17AA	なにか好きなことはありますか？	Is there anything you like to do?	
@@ -170,7 +170,7 @@ BMsgQ003.24D4	こんなことになるまで{n}私は、無理をさせてしま
 BMsgQ003.2528	おまえにあやまられても、困るだけだ。{n}それに、これは自分の力不足のせいで、{n}おまえのせいじゃない。	An apology from you only makes it awkward.{n}Besides, this is because I wasn't strong{n}enough, not your fault.	
 BMsgQ003.258C	お願いばかり	Asking too much	
 BMsgQ003.259A	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
-BMsgQ003.25FE	いや……頼られてイヤな気持ちはしない……。{n}ただ、こたえられないのは情けないな……。	No... I don't mind being relied on... It's{n}just pathetic that I couldn't live up to{n}it...	
+BMsgQ003.25FE	いや……頼られてイヤな気持ちはしない……。{n}ただ、こたえられないのは情けないな……。	No... I don't mind being relied{n}on... It's just pathetic that{n}I couldn't live up to it...	
 BMsgQ003.2654	敵が強くて	Strong enemy	
 BMsgQ003.2660	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。	To think the enemy was strong enough to hurt{n}you like this...{wait}{clear}I must have asked it of you the wrong way...	
 BMsgQ003.26CA	それ以上言うな……。{n}おまえのいいわけは聞きたくない。	Say no more... I don't want to hear your{n}excuses.	
@@ -181,17 +181,17 @@ BMsgQ003.2794	元気になって	Get well
 BMsgQ003.27A2	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。	You may be worried about the world, but for{n}now, think only about getting better.	
 BMsgQ003.27FA	ああ…{wait}{clear}悪いけど、そうさせてもらうよ。	Yeah...{wait}{clear}Sorry, but I'll do that.	
 BMsgQ003.2824	教会	The Church	
-BMsgQ003.282A	ロクスは教皇になられるのですよね？	Rocus, you're going to become Pope, aren't{n}you?	
+BMsgQ003.282A	ロクスは教皇になられるのですよね？	Rocus, you're going to{n}become Pope, aren't you?	
 BMsgQ003.2850	……そうらしい……。{wait}{clear}僕みたいなやつが教皇になるんだ……{n}笑わせる……。	...Apparently...{wait}{clear}Someone like me becoming Pope... What a{n}joke...	
 BMsgQ003.289C	教会	The Church	
-BMsgQ003.28A2	教会はみなの信仰を集めているのですね。	The Church gathers everyone's faith, doesn't{n}it?	
+BMsgQ003.28A2	教会はみなの信仰を集めているのですね。	The Church gathers{n}everyone's faith, doesn't it?	
 BMsgQ003.28CC	いつもたくさんの人々が訪れている……。{n}天使の君にとっては、うれしいことだろう？	Crowds of people always visit... That must{n}make you happy, being an angel, right?	
 BMsgQ003.291E	教会	The Church	
 BMsgQ003.2924	あの大聖堂は本当にすばらしい……。	That cathedral is truly magnificent...	
 BMsgQ003.294A	ああ……それは、僕も同感だ。{wait}{clear}らしくないと思われるかもしれないが、{n}こんな僕でさえ、{n}あの中に入ると気持ちが落ち着く……。{wait}{clear}それなのに……。	Yeah... I agree with you there.{wait}{clear}You might think it's not like me, but even{n}someone like me feels calm once I'm{n}inside...{wait}{clear}And yet...	
 BMsgQ003.29DC	借金	Debts	
 BMsgQ003.29E2	借金があるのですか？	Do you have debts?	
-BMsgQ003.29FA	うるさいな！{n}お前には関係ないだろう！？	Shut up! That's none of your business, is{n}it?!	
+BMsgQ003.29FA	うるさいな！{n}お前には関係ないだろう！？	Shut up! That's none of{n}your business, is it?!	
 BMsgQ003.2A24	借金	Debts	
 BMsgQ003.2A2A	どうしてそんなに……。	Why so much...?	
 BMsgQ003.2A44	しつこいな……。{wait}{clear}いろいろあったんだよ……いろいろ……。{wait}{clear}遊んでなければいられない気分だったんだ。{n}ただ、それだけだ。	You don't give up...{wait}{clear}A lot happened... A lot...{wait}{clear}I felt like I couldn't go on without fooling{n}around. That's all.	

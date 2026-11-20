@@ -1,5 +1,5 @@
 id	jp	en	notes
-BMsgQ002.0190	まだなにか話したいことでもあるのか？	Is there something else you want to talk{n}about?	
+BMsgQ002.0190	まだなにか話したいことでもあるのか？	Is there anything else you want to discuss?	
 BMsgQ002.01B6	体調は？	Your health?	
 BMsgQ002.01C0	疲れていませんか？	Aren't you tired?	
 BMsgQ002.01D6	このくらいで疲れてたら、{n}＄＄＄＄＄＄にはつきあってられないさ。{wait}{clear}おれならぜんぜん大丈夫だから、{n}先を急ごうぜ。	If this tired me out, I couldn't keep up{n}with you, ＄＄＄＄＄＄.{wait}{clear}I'm totally fine, so let's hurry on.	
@@ -14,13 +14,13 @@ BMsgQ002.03AA	行き先によっては、険しい道が多くなって{n}大変
 BMsgQ002.0402	そんなこと言っても、{n}歩きやすい道ばっかり歩いてたんじゃ{n}目的地になんて、着けないぜ。{wait}{clear}あんまり危険な道だったら、{n}あえてさけなくちゃいけないときも{n}あるかもしれないけどな。	Even so, if you only walk easy roads, you'll{n}never get where you're going.{wait}{clear}Though if a road's too dangerous, sometimes{n}you've got to steer clear of it.	
 BMsgQ002.04B4	初めての場所	New places	
 BMsgQ002.04C2	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
-BMsgQ002.0502	そうだな……。{n}迷わないって言ったら、うそになるな。{wait}{clear}町や村ならなんとかなるけど、{n}森とかは目じるしを探しにくいから、{n}迷うだろうな……。	Well... I'd be lying if I said I never get{n}lost.{wait}{clear}Towns and villages are fine, but in forests{n}it's hard to find landmarks, so I'd get{n}lost...	
+BMsgQ002.0502	そうだな……。{n}迷わないって言ったら、うそになるな。{wait}{clear}町や村ならなんとかなるけど、{n}森とかは目じるしを探しにくいから、{n}迷うだろうな……。	Well... I'd be lying if{n}I said I never get lost.{wait}{clear}Towns and villages are fine, but in forests{n}it's hard to find landmarks, so I'd get{n}lost...	
 BMsgQ002.0590	青い空	Blue sky	
 BMsgQ002.0598	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BMsgQ002.066C	おれも、空ってすごく好きなんだ。{n}暑い日の抜けるような青空とか……。{wait}{clear}空を見てると、なんだかくよくよ悩んでることとかが{n}ばかばかしく思えてくるんだ。{n}そんなちっぽけなことで悩むなってさ……。{wait}{clear}でも、いいな、＄＄＄＄＄＄はあの空を{n}飛ぶことができるんだもんな。	I love the sky too. Like the clear blue sky{n}on a hot day...{wait}{clear}Looking at the sky makes my worries seem{n}silly. Like it's telling me not to fret over{n}such tiny things...{wait}{clear}But I envy you, ＄＄＄＄＄＄. You can fly in{n}that sky.	
 BMsgQ002.0774	素敵な景色	Lovely views	
-BMsgQ002.0780	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
-BMsgQ002.07B8	そうだな……。{n}おれの好きなレグランスの景色も{n}守らなくちゃいけないよな。{wait}{clear}夕日に照らされた海や、{n}星のまたたきしかない荒野も……おれが……。	Yeah... I've got to protect the views of{n}Legrance I love, too.{wait}{clear}The sea lit by the sunset, the wilds with{n}nothing but twinkling stars... I've got{n}to...	
+BMsgQ002.0780	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many{n}wonderful views, doesn't it?	
+BMsgQ002.07B8	そうだな……。{n}おれの好きなレグランスの景色も{n}守らなくちゃいけないよな。{wait}{clear}夕日に照らされた海や、{n}星のまたたきしかない荒野も……おれが……。	Yeah... I've got to protect the views of{n}Legrance I love, too.{wait}{clear}The sea lit by the sunset,{n}the wilds with nothing but{n}twinkling stars... I've got to...	
 BMsgQ002.084A	妖精は役に立つ？	Fairies useful?	
 BMsgQ002.085C	妖精たちは助けになっていますか？	Are the fairies a help to you?	
 BMsgQ002.0880	ああ、助かってるよ。{n}ただ、あんまり無理させるなよ、＄＄＄＄＄＄。	Yeah, they're a big help. Just don't work{n}them too hard, ＄＄＄＄＄＄.	
@@ -28,7 +28,7 @@ BMsgQ002.08C4	旅先で思うこと	On the road
 BMsgQ002.08D4	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BMsgQ002.0916	まあな。{n}旅をしていると考える時間はいっぱいあるからな。{wait}{clear}それに、いろんなことがわかるような気がする。{n}レグランスにいたときよりも。	Sure. You have lots of time to think when{n}you travel.{wait}{clear}And I feel like I understand all sorts of{n}things. More than when I was in Legrance.	
 BMsgQ002.099E	旅で出会う人	People met	
-BMsgQ002.09AC	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ002.09AC	旅先で人と出会うのは楽しいですね。	It's fun meeting people{n}on the road, isn't it?	
 BMsgQ002.09D2	ああ、いろんな人に会えるのは、いいな。{wait}{clear}食堂なんかの他愛もない会話に、{n}いろいろ大切なことが{n}たくさん散りばめられている気がするよ。	Yeah, meeting all kinds of people is nice.{wait}{clear}I feel like lots of important things are{n}scattered through idle chatter in places{n}like taverns.	
 BMsgQ002.0A5A	いい夢が……	Sweet dreams	
 BMsgQ002.0A68	いい夢が見られるといいですね。	I hope you have sweet dreams.	
@@ -68,7 +68,7 @@ BMsgQ002.128C	いつもありがとうございます。	Thank you for everythin
 BMsgQ002.12AC	やめてくれよ。{n}＄＄＄＄＄＄のためだけに戦ってるんじゃない。{wait}{clear}あたりまえのことをしているだけだから{n}礼なんて言わないでくれよ。	Cut it out. I'm not fighting just for you,{n}＄＄＄＄＄＄.{wait}{clear}I'm only doing what's natural, so don't{n}thank me.	
 BMsgQ002.132E	修行はつらい？	Hard training?	
 BMsgQ002.133E	修行はつらいこともあると思うのですが……。	I imagine training can be hard at times...	
-BMsgQ002.136C	なに言ってんだよ。{n}修行がつらいのは、あたりまえさ。{wait}{clear}それに、修行のつらさなんて、{n}ぜんぜんたいしたことない。{wait}{clear}自分が強くなるための一歩なんだからな。	What are you saying? Of course training is{n}hard.{wait}{clear}Besides, the hardship of training is no big{n}deal at all.{wait}{clear}It's a step toward getting stronger.	
+BMsgQ002.136C	なに言ってんだよ。{n}修行がつらいのは、あたりまえさ。{wait}{clear}それに、修行のつらさなんて、{n}ぜんぜんたいしたことない。{wait}{clear}自分が強くなるための一歩なんだからな。	What are you saying? Of{n}course training is hard.{wait}{clear}Besides, the hardship of training is no big{n}deal at all.{wait}{clear}It's a step toward getting stronger.	
 BMsgQ002.1408	休まなくて平気？	No rest?	
 BMsgQ002.141A	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？	You've been training nonstop. Are you sure{n}you don't need a rest?	
 BMsgQ002.1462	このくらいだったら、まだまだ休まなくても平気だ。{n}そんなに心配しなくてもいいから、{n}放っておいてくれよ。	This much is nothing. I don't need a break{n}yet. You don't have to worry so much, so{n}just leave me be.	
@@ -91,11 +91,11 @@ BMsgQ002.180A	修行の成果	Results
 BMsgQ002.1816	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BMsgQ002.1850	ああ、それがおれにとっていちばんうれしいことさ。{n}でも、戦って人を傷つけるのは、{n}違うようなきがするんだ……。{wait}{clear}旅に出る前は、あまり考えたこともなかったけど、{n}力の使い方って、間違っちゃいけないと思う……。	Yeah, that's what makes me happiest. But{n}fighting and hurting people feels like a{n}different thing...{wait}{clear}I never thought about it much before I set{n}out, but I think you must never misuse your{n}strength...	
 BMsgQ002.1922	邪魔でしょうか？	Am I a bother?	
-BMsgQ002.1934	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
-BMsgQ002.1962	ぜんぜん、そんなことないぜ。{n}ったく、おれに気をつかいすぎだよ。{wait}{clear}もっとどっしりかまえて、{n}ずうずうしくなってもいいと思うぜ。{wait}{clear}ま、＄＄＄＄＄＄には無理かもしれないけどな。	Not at all. Geez, you worry about me too{n}much.{wait}{clear}I think you can stand your ground more and{n}be a bit pushier.{wait}{clear}Well, maybe that's impossible for you,{n}＄＄＄＄＄＄.	
+BMsgQ002.1934	突然来てしまって……邪魔でしたでしょうか？	I came without warning...{n}Am I bothering you?	
+BMsgQ002.1962	ぜんぜん、そんなことないぜ。{n}ったく、おれに気をつかいすぎだよ。{wait}{clear}もっとどっしりかまえて、{n}ずうずうしくなってもいいと思うぜ。{wait}{clear}ま、＄＄＄＄＄＄には無理かもしれないけどな。	Not at all. Geez, you{n}worry about me too much.{wait}{clear}I think you can stand your ground more and{n}be a bit pushier.{wait}{clear}Well, maybe that's impossible for you,{n}＄＄＄＄＄＄.	
 BMsgQ002.1A14	好きなことは？	Favorite thing?	
 BMsgQ002.1A24	なにか好きなことはありますか？	Is there anything you like to do?	
-BMsgQ002.1A46	ははは……！　＄＄＄＄＄＄らしいよな、{n}そういうことを聞くのって。{wait}{clear}おれの好きなことは、昼寝と遊ぶことだな。{n}体を動かしているか寝てるかのどっちかって感じで、{n}単純だけどさ。	Hahaha...! Asking stuff like that is so like{n}you, ＄＄＄＄＄＄.{wait}{clear}What I like is napping and playing. Either{n}I'm moving around or I'm asleep. Simple, I{n}know.	
+BMsgQ002.1A46	ははは……！　＄＄＄＄＄＄らしいよな、{n}そういうことを聞くのって。{wait}{clear}おれの好きなことは、昼寝と遊ぶことだな。{n}体を動かしているか寝てるかのどっちかって感じで、{n}単純だけどさ。	Hahaha...! Asking stuff like that is so like{n}you, ＄＄＄＄＄＄.{wait}{clear}What I like is napping and{n}playing. Either I'm moving around{n}or I'm asleep. Simple, I know.	
 BMsgQ002.1AF8	気分転換	Change of pace	
 BMsgQ002.1B02	なにか普段と違うことをすると{n}気分転換ができますよね。	Doing something different from usual makes{n}for a nice change of pace, doesn't it?	
 BMsgQ002.1B3C	まあ、そうだと思うよ。{n}たまには、戦いのあいまにのんびりしても{n}ゆるしてくれるよな……。	Well, I think so. You'll forgive me for{n}taking it easy between fights now and then,{n}right...?	
@@ -125,7 +125,7 @@ BMsgQ002.21B6	気をつけてください……。	Please be careful...
 BMsgQ002.21D2	そんなに心配しないでくれよ。{n}大丈夫だからさ。	Don't worry so much. I'm fine.	
 BMsgQ002.2202	すみません	I'm sorry	
 BMsgQ002.220E	すみませんが、がんばって……。	I'm sorry, but please hang in there...	
-BMsgQ002.2230	ああ、大丈夫。{n}きっと敵を倒してみせるよ。	Yeah, I'm fine. I'll beat the enemy, you'll{n}see.	
+BMsgQ002.2230	ああ、大丈夫。{n}きっと敵を倒してみせるよ。	Yeah, I'm fine. I'll beat{n}the enemy, you'll see.	
 BMsgQ002.225C	無理はしないで	Don't overdo it	
 BMsgQ002.226C	無理はしないでくださいね。	Please don't push yourself too hard.	
 BMsgQ002.228A	ああ……。{n}まずは、敵がどうくるかだな……。	Yeah... First, let's see how the enemy comes{n}at us...	
@@ -137,7 +137,7 @@ BMsgQ002.232A	敵の様子が気になりませんか？	Aren't you concerned ab
 BMsgQ002.234A	いや、ここまで来て気にしてもしかたがない。{n}あとは戦闘で敵を見きわめるだけだ。	No, there's no point worrying now that we're{n}here. All that's left is to size up the{n}enemy in battle.	
 BMsgQ002.239A	がんばって	Good luck	
 BMsgQ002.23A6	がんばってください……。	Please do your best...	
-BMsgQ002.23C2	ああ、ありがとう。{n}きっと敵を倒してみせるよ。	Yeah, thanks. I'll beat the enemy, you'll{n}see.	
+BMsgQ002.23C2	ああ、ありがとう。{n}きっと敵を倒してみせるよ。	Yeah, thanks. I'll beat{n}the enemy, you'll see.	
 BMsgQ002.23F2	緊張……	Nervous...	
 BMsgQ002.23FC	すみません、{n}私の方が緊張しているかもしれません……。	I'm sorry, I might be the one who's more{n}nervous...	
 BMsgQ002.2436	心配してくれるのは、ありがたいけど、{n}そんな調子だと、こっちが心配になるぜ。	I appreciate the worry, but when you're like{n}that, it makes ME worried.	
@@ -182,7 +182,7 @@ BMsgQ002.2BDC	世界のことが気になるかもしれませんが、{n}いま
 BMsgQ002.2C34	ああ、ありがとう。{n}その言葉だけで、すごく気が楽になったよ。	Yeah, thanks. Just hearing that takes a huge{n}weight off.	
 BMsgQ002.2C72	レグランス	Legrance	
 BMsgQ002.2C7E	レグランス王国はどんな国ですか？	What kind of country is the Kingdom of{n}Legrance?	
-BMsgQ002.2CA2	おれの国か？{n}そうだな……まだ歴史の浅い国だけど、{n}これからどんどん発展させていきたいと思ってる。{wait}{clear}ただ、おれは表には出ないようにしないと……{n}兄さんの迷惑になりたくないからな……。	My country? Let's see... It's a young{n}country, but I want to help it grow more and{n}more.{wait}{clear}Though I have to stay out of the{n}spotlight... I don't want to cause my{n}brother trouble...	
+BMsgQ002.2CA2	おれの国か？{n}そうだな……まだ歴史の浅い国だけど、{n}これからどんどん発展させていきたいと思ってる。{wait}{clear}ただ、おれは表には出ないようにしないと……{n}兄さんの迷惑になりたくないからな……。	My country? Let's see... It's{n}a young country, but I want{n}to help it grow more and more.{wait}{clear}Though I have to stay out of the{n}spotlight... I don't want to cause my{n}brother trouble...	
 BMsgQ002.2D5C	レグランス	Legrance	
 BMsgQ002.2D68	気候に恵まれた国ですね。	It's blessed with a fine climate, isn't it?	
 BMsgQ002.2D84	やっぱり、そう思うか？{n}レグランスはこの気候のおかげで人々はおおらかだし{n}作物もよく育つ。{wait}{clear}おれの自慢したいことのひとつだな。	You think so too? Thanks to the climate, the{n}people of Legrance are easygoing and the{n}crops grow well.{wait}{clear}It's one of the things I like to brag about.	

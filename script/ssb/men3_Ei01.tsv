@@ -2,14 +2,14 @@ id	jp	en	notes
 men3_Ei01.005C	アイリーン	Irene	speaker
 men3_Ei01.006A	ごめん、急に呼んで。{wait}{clear}	Sorry for calling you all of a sudden.{wait}{clear}	
 men3_Ei01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei01.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is something troubling{n}you?{wait}{clear}	
+men3_Ei01.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}	What's wrong, Irene? Is{n}something troubling you?{wait}{clear}	
 men3_Ei01.00CC	アイリーン	Irene	speaker
 men3_Ei01.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、このヤドリギの枝を{n}あげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}	Nope, nothing like that, so don't worry. I{n}wanted to give you this mistletoe sprig,{n}＄＄＄＄＄＄.{wait}{clear}I thought it might come in handy. Will you{n}take it?{wait}{clear}	
 men3_Ei01.0174	ＮＵＬＬ	NULL	speaker
 men3_Ei01.0184	《ありがとうございます。》{n}	Thank you very much.{n}	
 men3_Ei01.01A6	《戒律があるので……。》{n}	There are precepts...{n}	
 men3_Ei01.01C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men3_Ei01.01D6	ありがとうございます。{n}この枝には、どんな意味が？{wait}{clear}	Thank you very much. What does this sprig{n}mean?{wait}{clear}	
+men3_Ei01.01D6	ありがとうございます。{n}この枝には、どんな意味が？{wait}{clear}	Thank you very much. What{n}does this sprig mean?{wait}{clear}	
 men3_Ei01.020C	アイリーン	Irene	speaker
 men3_Ei01.021A	そんなに重要な意味があるわけじゃないけど、{n}いちおう魔術には必要な材料のひとつなんだ。{wait}{clear}	It doesn't mean anything that important, but{n}it's one of the ingredients you need for{n}magic.{wait}{clear}	
 men3_Ei01.0274	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

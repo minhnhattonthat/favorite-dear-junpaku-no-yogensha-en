@@ -501,8 +501,8 @@ SLPS.8008CF00	純白の預言者　ゲームデータ１１　		luix1
 SLPS.8008CF24	純白の預言者　ゲームデータ１２　		luix1
 SLPS.8008D22C	フォーマットされていません	Not formatted.	luix1
 SLPS.8008D248	フォーマットしますか？	Format it?	luix1
-SLPS.8008D260	処理中にメモリーカードが抜かれました	The Memory Card was removed during processing.	luix9
-SLPS.8008D288	処理中はメモリーカードを抜かないでください	Do not remove the Memory Card during processing.	luix9
+SLPS.8008D260	処理中にメモリーカードが抜かれました	The Memory Card was removed during access.	luix9
+SLPS.8008D288	処理中はメモリーカードを抜かないでください	Do not remove the Memory Card during access.	luix9
 SLPS.8008D2B4	フォーマット中	Formatting	luix1
 SLPS.8008D2C4	メモリーカードを抜き差ししないで下さい。	Do not insert or remove the Memory Card.	luix3
 SLPS.8008D2F0	フォーマットしました	Formatted.	luix1

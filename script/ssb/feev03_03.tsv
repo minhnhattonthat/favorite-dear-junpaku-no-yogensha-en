@@ -20,7 +20,7 @@ feev03_03.04C0	はい……そうですね……。{wait}{clear}	Yes... you're r
 feev03_03.04E0	フェイン	Fein	speaker
 feev03_03.04EC	レフカスから魔石をこちらに運んだそうですね……。{wait}{clear}	I heard you had the Demon Stone brought here{n}from Lefkas...{wait}{clear}	
 feev03_03.0520	ライノール	Raynor	speaker
-feev03_03.052E	ああ……念のためだ。{wait}{clear}石がここから奪われることはないだろうからな。{wait}{clear}あの石が本当に伝説の魔石であるかどうかは{n}わかっていない。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}	Yes... as a precaution.{wait}{clear}No one is likely to steal the stone from{n}here.{wait}{clear}Whether that stone is truly the legendary{n}Demon Stone, we don't know.{wait}{clear}As you, Zig's apprentice, know very well.{wait}{clear}But... we cannot ignore the words of the{n}prophets.{wait}{clear}	
+feev03_03.052E	ああ……念のためだ。{wait}{clear}石がここから奪われることはないだろうからな。{wait}{clear}あの石が本当に伝説の魔石であるかどうかは{n}わかっていない。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}	Yes... as a precaution.{wait}{clear}No one is likely to steal{n}the stone from here.{wait}{clear}Whether that stone is truly the legendary{n}Demon Stone, we don't know.{wait}{clear}As you, Zig's apprentice, know very well.{wait}{clear}But... we cannot ignore the words of the{n}prophets.{wait}{clear}	
 feev03_03.0630	フェイン	Fein	speaker
 feev03_03.063C	わかりました。{wait}{clear}	All right.{wait}{clear}	
 feev03_03.064E	ライノール	Raynor	speaker
@@ -28,7 +28,7 @@ feev03_03.065C	私は、この世界の起きていることを{n}むやみに�
 feev03_03.06DC	フェイン	Fein	speaker
 feev03_03.06E8	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev03_03.0726	フェイン	Fein	speaker
-feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}	＄＄＄＄＄＄, there's something I want to{n}ask.{wait}{clear}	
+feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}	＄＄＄＄＄＄, there's{n}something I want to ask.{wait}{clear}	
 feev03_03.0758	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.0768	はい、なんですか？{wait}{clear}	Yes, what is it?{wait}{clear}	
 feev03_03.077E	フェイン	Fein	speaker

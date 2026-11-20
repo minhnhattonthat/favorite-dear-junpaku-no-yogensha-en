@@ -11,7 +11,7 @@ MssAns6.0228	なし	None
 MssAns6.022E	魔獣ですか……？{n}なにか……とても気になります……。{wait}{clear}わかりました、すぐに向かいます。	A magical beast...? Something about it...{n}really bothers me...{wait}{clear}I understand. I'll head there right away.	
 MssAns6.0288	なし	None	
 MssAns6.028E	ラグワートへ帝国軍が！？{n}どうして、森へ……？{wait}{clear}わかりました。{n}すぐに向かいます、天使様！	The imperial army at Ragwort?! Why the{n}forest...?{wait}{clear}I understand. I'll head there right away,{n}Angel!	
-MssAns6.02EC	ザルハの一帯ですか？{n}あのあたりの森は影の森と呼ばれ、{n}精霊がすんでいると言われています。{wait}{clear}精霊をおそれて、村の者は{n}ほとんど近づかないはずなのですが……。{wait}{clear}天使様、森の問題ですから、私が行きます。	The Zarha area? The forest around there is{n}called the Forest of Shadows, and they say{n}spirits live there.{wait}{clear}The villagers fear the spirits, so hardly{n}any of them should go near it...{wait}{clear}Angel, it's a problem of the forest, so I'll{n}go.	
+MssAns6.02EC	ザルハの一帯ですか？{n}あのあたりの森は影の森と呼ばれ、{n}精霊がすんでいると言われています。{wait}{clear}精霊をおそれて、村の者は{n}ほとんど近づかないはずなのですが……。{wait}{clear}天使様、森の問題ですから、私が行きます。	The Zarha area? The forest around there is{n}called the Forest of Shadows, and they say{n}spirits live there.{wait}{clear}The villagers fear the spirits, so hardly{n}any of them should go near it...{wait}{clear}Angel, it's a problem of{n}the forest, so I'll go.	
 MssAns6.03B8	なし	None	
 MssAns6.03BE	なし	None	
 MssAns6.03C4	なし	None	
@@ -32,7 +32,7 @@ MssAns6.05F4	なし	None
 MssAns6.05FA	天使様……{n}考えたくなかったことが、{n}起こってしまったのですね……。{wait}{clear}私が行きます……彼のためにも……。	Angel... So the thing I didn't want to think{n}about has happened...{wait}{clear}I'll go... for his sake, too...	
 MssAns6.0666	なし	None	
 MssAns6.066C	わかりました……私が行きます……。	I understand... I'll go...	
-MssAns6.0690	天使様……これが最後の戦いですね……。{n}私……ずっと守られてきたことに、{n}いま気がつきました。{wait}{clear}レイフォリアの森に、この世界に、{n}そして、天使様に……。{wait}{clear}今度は、本当に私がみんなを守らなければいけない。{n}それが、私の使命です。{wait}{clear}なにも怖くありません、{n}天使様がいてくださるのですから……。{wait}{clear}かならず天竜を倒します。	Angel... This is the final battle, isn't{n}it... I... I've only just realized that I've{n}been protected all this time.{wait}{clear}By the Reyforia Forest, by this world, and{n}by you, Angel...{wait}{clear}This time, I truly have to protect everyone.{n}That is my mission.{wait}{clear}I'm not afraid of anything, because you are{n}with me...{wait}{clear}I will defeat the Heavenly Dragon, no matter{n}what.	
+MssAns6.0690	天使様……これが最後の戦いですね……。{n}私……ずっと守られてきたことに、{n}いま気がつきました。{wait}{clear}レイフォリアの森に、この世界に、{n}そして、天使様に……。{wait}{clear}今度は、本当に私がみんなを守らなければいけない。{n}それが、私の使命です。{wait}{clear}なにも怖くありません、{n}天使様がいてくださるのですから……。{wait}{clear}かならず天竜を倒します。	Angel... This is the final battle, isn't{n}it... I... I've only just realized that I've{n}been protected all this time.{wait}{clear}By the Reyforia Forest, by this world, and{n}by you, Angel...{wait}{clear}This time, I truly have to protect everyone.{n}That is my mission.{wait}{clear}I'm not afraid of anything, because you are{n}with me...{wait}{clear}I will defeat the Heavenly{n}Dragon, no matter what.	
 MssAns6.07D4	なし	None	
 MssAns6.07DA	なし	None	
 MssAns6.07E0	なし	None	
@@ -58,7 +58,7 @@ MssAns6.087C	なし	None
 MssAns6.0882	なし	None	
 MssAns6.0888	なし	None	
 MssAns6.088E	なし	None	
-MssAns6.0894	謎の竜巻ですか？{n}わかりました、行きます。{wait}{clear}森で起こることは、{n}私がなんとかしないといけないと思います。	A mysterious whirlwind? I understand, I'll{n}go.{wait}{clear}Whatever happens in the forest, I think it's{n}up to me to do something about it.	
+MssAns6.0894	謎の竜巻ですか？{n}わかりました、行きます。{wait}{clear}森で起こることは、{n}私がなんとかしないといけないと思います。	A mysterious whirlwind?{n}I understand, I'll go.{wait}{clear}Whatever happens in the forest, I think it's{n}up to me to do something about it.	
 MssAns6.0900	わかりました、すぐに向かいます。{n}森のことです、私が行かないと……。	I understand, I'll head there at once. It's{n}about the forest, so I have to go...	
 MssAns6.0946	なし	None	
 MssAns6.094C	なし	None	
@@ -66,7 +66,7 @@ MssAns6.0952	なし	None
 MssAns6.0958	森でそんなことが起こっているのですか？{n}天使様、私、すぐに行きます！	That's happening in the forest? Angel, I'll{n}go right away!	
 MssAns6.099E	天使様、私が行きます。{n}そんなひどいこと、すぐに止めないと……！	Angel, I'll go. Something that cruel has to{n}be stopped at once...!	
 MssAns6.09E0	なし	None	
-MssAns6.09E6	わかりました、天使様。{n}すぐにロラライへ向かいます。{wait}{clear}きっと、みんな困っているはずですから……。	I understand, Angel. I'll head to Loralai at{n}once.{wait}{clear}Everyone there must be in trouble...	
+MssAns6.09E6	わかりました、天使様。{n}すぐにロラライへ向かいます。{wait}{clear}きっと、みんな困っているはずですから……。	I understand, Angel. I'll{n}head to Loralai at once.{wait}{clear}Everyone there must be in trouble...	
 MssAns6.0A4A	なし	None	
 MssAns6.0A50	なし	None	
 MssAns6.0A56	なし	None	

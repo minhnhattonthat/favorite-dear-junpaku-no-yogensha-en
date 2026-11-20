@@ -31,9 +31,9 @@ eiev13_01.0612	ＮＵＬＬ	NULL	speaker
 eiev13_01.0622	《行ってみたらいいのでは？》{n}	Why not go and see?{n}	
 eiev13_01.0646	《どちらでもいい。》{n}	Either way is fine.{n}	
 eiev13_01.0668	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0678	ええ、せっかくですから、{n}行ってみたらいかがですか？{wait}{clear}アイリーンの言うとおり、{n}なにか新しいお話が聞けるかもしれませんよ。{wait}{clear}	Yes, since we're here, why not go and see?{wait}{clear}As you said, Irene, you might hear something{n}new.{wait}{clear}	
+eiev13_01.0678	ええ、せっかくですから、{n}行ってみたらいかがですか？{wait}{clear}アイリーンの言うとおり、{n}なにか新しいお話が聞けるかもしれませんよ。{wait}{clear}	Yes, since we're here, why not go and see?{wait}{clear}As you said, Irene, you{n}might hear something new.{wait}{clear}	
 eiev13_01.06F8	アイリーン	Irene	speaker
-eiev13_01.0706	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other time! If I just{n}show up out of nowhere, I won't know what to{n}say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
+eiev13_01.0706	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other{n}time! If I just show up out of{n}nowhere, I won't know what to say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0788	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.0798	え、ええ……。{wait}{clear}	Y-yes...{wait}{clear}	
 eiev13_01.07B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -54,7 +54,7 @@ eiev13_01.0A34	《どちらでもいい。》{n}	Either way is fine.{n}
 eiev13_01.0A56	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.0A66	ええ、せっかくですから、{n}行ってみたらいかがですか？{n}なにか新しいお話が聞けるかもしれませんし。{wait}{clear}	Yes, since we're here, why not go and see?{n}You might hear something new.{wait}{clear}	
 eiev13_01.0ACA	アイリーン	Irene	speaker
-eiev13_01.0AD8	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other time! If I just{n}show up out of nowhere, I won't know what to{n}say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
+eiev13_01.0AD8	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other{n}time! If I just show up out of{n}nowhere, I won't know what to say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0B5A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.0B6A	え、ええ……。{wait}{clear}	Y-yes...{wait}{clear}	
 eiev13_01.0B86	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -77,7 +77,7 @@ eiev13_01.0E2C	アイリーン	Irene	speaker
 eiev13_01.0E3A	う、うん……まあね……。{wait}{clear}	Y-yeah... sort of...{wait}{clear}	
 eiev13_01.0E62	おじいちゃんとグランドマスターは{n}親友だった人だから寄ろうかなって思ったけど……{n}また、今度にする。{wait}{clear}なんか迷惑かもしれないし……。{wait}{clear}	Grandpa and the Grand Master were best{n}friends, so I thought I'd drop by... but{n}I'll do it another time.{wait}{clear}I might just be a bother...{wait}{clear}	
 eiev13_01.0EEC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0EFC	そうですか？{n}せっかくですから、寄っていきませんか？{wait}{clear}	Are you sure? Since we're here, why not stop{n}by?{wait}{clear}	
+eiev13_01.0EFC	そうですか？{n}せっかくですから、寄っていきませんか？{wait}{clear}	Are you sure? Since we're{n}here, why not stop by?{wait}{clear}	
 eiev13_01.0F34	アイリーン	Irene	speaker
 eiev13_01.0F42	いいってば、また今度にする。{wait}{clear}ねえ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I said it's fine. I'll do it another time.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0F86	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

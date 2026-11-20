@@ -98,7 +98,7 @@ laev10.0FC8	あなた、ヴィグリード将軍の娘ね……。{wait}{clear}	
 laev10.0FF0	レイラ	Leyla	speaker
 laev10.0FFE	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.100C	セレニス	Serenis	speaker
-laev10.101C	聞きたいことがあるの……いい？{wait}{clear}	There's something I want to ask you... May{n}I?{wait}{clear}	
+laev10.101C	聞きたいことがあるの……いい？{wait}{clear}	There's something I want{n}to ask you... May I?{wait}{clear}	
 laev10.103E	レイラ	Leyla	speaker
 laev10.104C	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.105A	セレニス	Serenis	speaker
@@ -141,7 +141,7 @@ laev10.1522	そして、私のうちに宿り{n}その力すべてを授けて�
 laev10.15A4	セレニス	Serenis	speaker
 laev10.15B4	フフフ、あなたは愚かな天使ね……{n}油断して姿など見せるからこういう目にあう……。{wait}{clear}	Heh heh heh, what a foolish angel you are...{n}This is what you get for letting your guard{n}down and showing yourself...{wait}{clear}	
 laev10.160C	私の内にすむ方は{n}あなたとは比べものにならない力を持っているのよ。{wait}{clear}	The one who lives within me has power beyond{n}compare with yours.{wait}{clear}	
-laev10.1656	地上世界に降りた魂だけのあなたでさえ{n}打ち殺すことができるほどにね。{wait}{clear}	Enough to strike down even you, who came{n}down to the surface world as nothing but a{n}soul.{wait}{clear}	
+laev10.1656	地上世界に降りた魂だけのあなたでさえ{n}打ち殺すことができるほどにね。{wait}{clear}	Enough to strike down even you,{n}who came down to the surface{n}world as nothing but a soul.{wait}{clear}	
 laev10.16A2	さあ、うるさい天使、この場で滅しなさい。{wait}{clear}	Now, meddlesome angel, perish here and now.{wait}{clear}	
 laev10.16E0	セレニス	Serenis	speaker
 laev10.16F0	！？{wait}{clear}	?!{wait}{clear}	

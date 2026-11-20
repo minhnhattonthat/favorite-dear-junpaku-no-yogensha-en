@@ -49,7 +49,7 @@ Feev01_01.05FE	今は体を完全に治してください。{wait}{clear}あな�
 Feev01_01.069E	フェイン	Fein	speaker
 Feev01_01.06AE	ああ、わかった。{wait}{clear}	Yeah, understood.{wait}{clear}	
 Feev01_01.06D2	フェイン	Fein	speaker
-Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}	Sorry, but I still can't quite take all this{n}in...{wait}{clear}Could you give me some time to think?{wait}{clear}	
+Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}	Sorry, but I still can't{n}quite take all this in...{wait}{clear}Could you give me some time to think?{wait}{clear}	
 Feev01_01.072E	ＮＵＬＬ	NULL	speaker
 Feev01_01.073E	《どうしても頼みたい》{n}	I really need you{n}	
 Feev01_01.075C	《わかりました》{n}	I understand{n}	
