@@ -2,7 +2,7 @@ id	jp	en	notes
 Feev11_01.0054	フェイン	Fein	speaker
 Feev11_01.0060	ここはどこだ？{wait}{clear}		
 Feev11_01.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev11_01.0096	ここは聖母の森と呼ばれる場所のようです。{wait}{clear}		
+Feev11_01.0096	ここは聖母の森と呼ばれる場所のようです。{wait}{clear}	This place seems to be called the Forest of{n}the Holy Mother.{wait}{clear}	
 Feev11_01.00C2	フェイン	Fein	speaker
 Feev11_01.00CE	聖母？{wait}{clear}		
 Feev11_01.00E6	フェイン	Fein	speaker

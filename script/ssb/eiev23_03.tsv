@@ -4,13 +4,13 @@ eiev23_03.005A	あ、＄＄＄＄＄＄……来てくれたんだ……。{wait
 eiev23_03.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.0096	少しは気持ちが落ち着きましたか？{wait}{clear}		
 eiev23_03.00BA	アイリーン	Irene	speaker
-eiev23_03.00C8	うん……。{wait}{clear}		
+eiev23_03.00C8	うん……。{wait}{clear}	Well...{wait}{clear}	
 eiev23_03.00D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.00E6	どうしたのですか？　アイリーン？{wait}{clear}		
 eiev23_03.010A	アイリーン	Irene	speaker
 eiev23_03.0118	いろいろ考えたの。{n}あれから、ずっと……。{wait}{clear}でも……やっぱり、すべてを受け止められない。{wait}{clear}だから……私、勇者をやめたい……。{n}それをあなたに伝えようと思って……。{wait}{clear}		
 eiev23_03.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.01D2	アイリーン……。{wait}{clear}		
+eiev23_03.01D2	アイリーン……。{wait}{clear}	Irene...{wait}{clear}	
 eiev23_03.01E6	アイリーン	Irene	speaker
 eiev23_03.01F4	だって、私、{n}大切な人を助けることができなかったんだよ。{wait}{clear}それなのに勇者だなんて……{n}やっぱり、おかしいよ……。{wait}{clear}		
 eiev23_03.026A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -24,7 +24,7 @@ eiev23_03.03C6	…………。{wait}{clear}	.........{wait}{clear}
 eiev23_03.03D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.03E4	私も、あなたたちに戦ってもらうのは、{n}とてもつらい……。{wait}{clear}ですが、あなたたち勇者は{n}世界のすべての希望であり、未来なのです。{wait}{clear}すべてがなくなってしまう前に、{n}すべてが悪の手に落ちる前に{n}もう少しだけ、一緒に戦ってくれませんか？{wait}{clear}フェインのためにも……。{wait}{clear}		
 eiev23_03.04EA	アイリーン	Irene	speaker
-eiev23_03.04F8	＄＄＄＄＄＄……。{wait}{clear}		
+eiev23_03.04F8	＄＄＄＄＄＄……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
 eiev23_03.050E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.051E	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.052C	アイリーン	Irene	speaker

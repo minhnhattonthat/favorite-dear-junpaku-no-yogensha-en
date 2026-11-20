@@ -1,36 +1,36 @@
 id	jp	en	notes
 eiev04.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev04.00DE	子供+ウェスタ		unit name (32-byte field)
-eiev04.011A	子供		unit name (32-byte field)
+eiev04.011A	子供	Child	unit name (32-byte field)
 eiev04.0156	ウェスタ		unit name (32-byte field)
-eiev04.0192	母親		unit name (32-byte field)
+eiev04.0192	母親	Mother	unit name (32-byte field)
 eiev04.04D8	アイリーン	Irene	speaker
 eiev04.04F1	あ！　ウェスタ！		text
-eiev04.0510	子供		speaker
+eiev04.0510	子供	Child	speaker
 eiev04.0523	なに？　この鳥、お姉ちゃんの？		text
 eiev04.05A0	アイリーン	Irene	speaker
 eiev04.05B9	うん、そう。探してたの。		text
-eiev04.05E0	子供		speaker
+eiev04.05E0	子供	Child	speaker
 eiev04.05F3	なんかケガしてたから、拾ってエサをあげてたんだ。{n}でも、たいしたケガじゃないみたいだよ。		text
 eiev04.065A	アイリーン	Irene	speaker
 eiev04.0673	ありがとう。この子を助けてくれて。		text
-eiev04.073C	母親		speaker
+eiev04.073C	母親	Mother	speaker
 eiev04.074F	おや、飼い主さんがみつかったのかい？		text
-eiev04.0782	子供		speaker
+eiev04.0782	子供	Child	speaker
 eiev04.0795	うん、このフクロウ、お姉ちゃんのなんだって		text
-eiev04.07CE	母親		speaker
+eiev04.07CE	母親	Mother	speaker
 eiev04.07E1	よかったじゃないか。		text
 eiev04.0804	あなた、名前なんていうの？		text
 eiev04.082D	アイリーン	Irene	speaker
 eiev04.0846	ア、アイリーン……。		text
-eiev04.0869	母親		speaker
+eiev04.0869	母親	Mother	speaker
 eiev04.087C	このあたりに住んでいるのかい？{n}見ない顔だけど？		text
 eiev04.08BB	アイリーン	Irene	speaker
 eiev04.08D4	旅をしている途中でこのウェスタが{n}いなくなっちゃって……。		text
-eiev04.091D	母親		speaker
+eiev04.091D	母親	Mother	speaker
 eiev04.0930	あら、こんな若いのに一人旅？{n}大変だねえ。きっと事情があるんだろうけど。		text
 eiev04.0987	そうだ、うちによってきなよ。{n}食事もあるし、いいだろ？		text
 eiev04.09CC	アイリーン	Irene	speaker
 eiev04.09E5	あ、いいですよ、そんな……		text
-eiev04.0A0E	母親		speaker
+eiev04.0A0E	母親	Mother	speaker
 eiev04.0A21	なに、困ったときはお互いさま。{n}遠慮なんてせずに、さ！		text

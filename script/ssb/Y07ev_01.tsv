@@ -27,7 +27,7 @@ Y07ev_01.034A	そうなのですか……。{wait}{clear}
 Y07ev_01.0362	シータス	Cetus	speaker
 Y07ev_01.0372	天使様、まだ、休みは続いてますよね？{wait}{clear}		
 Y07ev_01.039A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.03AA	ええ、そうですね。{wait}{clear}		
+Y07ev_01.03AA	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 Y07ev_01.03C0	シータス	Cetus	speaker
 Y07ev_01.03D0	じゃあ、茶をもう一杯飲ませてください。{n}そうしたら、仕事に戻りますよ。{wait}{clear}		
 Y07ev_01.041A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

@@ -4,7 +4,7 @@ eiev05c.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev05c.00DE	盲目の魔道士		unit name (32-byte field)
 eiev05c.04E4	アイリーン	Irene	speaker
 eiev05c.04FD	マスター！		text
-eiev05c.0516	マスター		speaker
+eiev05c.0516	マスター	Master	speaker
 eiev05c.052D	誰だ？		text
 eiev05c.0542	アイリーン	Irene	speaker
 eiev05c.055B	ジグの孫です……アイリーンといいます		text
@@ -13,7 +13,7 @@ eiev05c.05AB	おお、そうか……		text
 eiev05c.05CA	だが、このロッジも{n}とうとう帝国にやられてしまった……{n}帝国はここから魔石を奪っていったのだ……		text
 eiev05c.0639	アイリーン	Irene	speaker
 eiev05c.0652	魔石を……！？		text
-eiev05c.066F	マスター		speaker
+eiev05c.066F	マスター	Master	speaker
 eiev05c.0686	アイリーン……{n}ジグの忘れ形見の君に頼みたい……		text
 eiev05c.06C5	ギルドと魔導士の未来を守ってくれ……{n}頼む……		text
 eiev05c.0702	アイリーン	Irene	speaker

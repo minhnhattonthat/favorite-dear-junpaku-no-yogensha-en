@@ -34,7 +34,7 @@ laev10.06A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.06B8	しかし、レイラ……。{wait}{clear}		
 laev10.06E4	レイラ	Leyla	speaker
 laev10.06F2	迎えが来たわ……。{wait}{clear}		
-laev10.070C	さよなら、＄＄＄＄＄＄。{wait}{clear}		
+laev10.070C	さよなら、＄＄＄＄＄＄。{wait}{clear}	Goodbye, ＄＄＄＄＄＄.{wait}{clear}	
 laev10.0734	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0744	レイラをこのまま危険にさらすわけにいきません。{n}ついて行きましょう！{wait}{clear}		
 laev10.07A8	貴族１		speaker
@@ -87,7 +87,7 @@ laev10.0EA2	セレニス	Serenis	speaker
 laev10.0EB2	アルベリック、{n}私はこの女と話したいことがあります。{wait}{clear}		
 laev10.0EEE	席をはずしなさい。{wait}{clear}		
 laev10.0F04	アルベリック		speaker
-laev10.0F18	……わかった。{wait}{clear}		
+laev10.0F18	……わかった。{wait}{clear}	...Fine.{wait}{clear}	
 laev10.0F2A	セレニス	Serenis	speaker
 laev10.0F3A	それから、階下で宰相があなたを呼んでいます。{wait}{clear}		
 laev10.0F6A	アルベリック		speaker

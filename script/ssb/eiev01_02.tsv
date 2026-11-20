@@ -1,11 +1,11 @@
 id	jp	en	notes
 eiev01_02.0048	アイリーン	Irene	speaker
-eiev01_02.0056	なに？　また来たのね。{wait}{clear}何の用？{wait}{clear}		
+eiev01_02.0056	なに？　また来たのね。{wait}{clear}何の用？{wait}{clear}	What? You're back again.{wait}{clear}What do you want?{wait}{clear}	
 eiev01_02.007C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_02.008C	もう一度、{n}あなたに協力をしてもらえないかと{n}お願いしに来ました。{wait}{clear}		
+eiev01_02.008C	もう一度、{n}あなたに協力をしてもらえないかと{n}お願いしに来ました。{wait}{clear}	I came to ask you once more if you would{n}work with me.{wait}{clear}	
 eiev01_02.00D2	アイリーン	Irene	speaker
-eiev01_02.00E0	はあ、結構まじめね。{wait}{clear}今度断っても、また来るんでしょ。{wait}{clear}わかったわ、もう根負け。{n}協力してあげる。{wait}{clear}		
+eiev01_02.00E0	はあ、結構まじめね。{wait}{clear}今度断っても、また来るんでしょ。{wait}{clear}わかったわ、もう根負け。{n}協力してあげる。{wait}{clear}	Wow, you're pretty serious.{wait}{clear}Even if I say no this time, you'll just come{n}back again, right?{wait}{clear}Fine, you win. I'll help you.{wait}{clear}	
 eiev01_02.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_02.015A	ありがとう、アイリーン。{wait}{clear}		
+eiev01_02.015A	ありがとう、アイリーン。{wait}{clear}	Thank you, Irene.{wait}{clear}	
 eiev01_02.0176	アイリーン	Irene	speaker
-eiev01_02.0184	じゃ、用ができたらまた来て。{wait}{clear}		
+eiev01_02.0184	じゃ、用ができたらまた来て。{wait}{clear}	Well then, come back when you need{n}something.{wait}{clear}	

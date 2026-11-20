@@ -1,84 +1,84 @@
 id	jp	en	notes
 eiev13_01.0062	アイリーン	Irene	speaker
-eiev13_01.0070	このアルクマールの街には{n}ギルドのグランドロッジがあるの。{wait}{clear}		
+eiev13_01.0070	このアルクマールの街には{n}ギルドのグランドロッジがあるの。{wait}{clear}	The Guild's Grand Lodge is here in the city{n}of Alkmaar.{wait}{clear}	
 eiev13_01.00AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.00BE	あの、すみません、アイリーン。{n}ギルドとかグランドロッジとか、{n}私にはよくわからないのですが……。{wait}{clear}		
+eiev13_01.00BE	あの、すみません、アイリーン。{n}ギルドとかグランドロッジとか、{n}私にはよくわからないのですが……。{wait}{clear}	Um, I'm sorry, Irene. I don't really{n}understand what the Guild or the Grand Lodge{n}are...{wait}{clear}	
 eiev13_01.0130	アイリーン	Irene	speaker
-eiev13_01.013E	え？　＄＄＄＄＄＄って、そんなことも知らないの？{n}もっとこの世界のことを勉強してくれなくちゃ。{wait}{clear}		
+eiev13_01.013E	え？　＄＄＄＄＄＄って、そんなことも知らないの？{n}もっとこの世界のことを勉強してくれなくちゃ。{wait}{clear}	Huh? You don't even know that, ＄＄＄＄＄＄?{n}You really need to study this world more.{wait}{clear}	
 eiev13_01.01A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.01B0	はい……すみません……。{wait}{clear}		
+eiev13_01.01B0	はい……すみません……。{wait}{clear}	Yes... I'm sorry...{wait}{clear}	
 eiev13_01.01D8	アイリーン	Irene	speaker
-eiev13_01.01E6	いい？　じゃあ、説明するから、ちゃんと聞いて。{wait}{clear}		
-eiev13_01.0218	ギルドっていうのは、魔導士たちの協会のことよ。{wait}{clear}私たち魔導士の力って、{n}フツーの人たちから嫌われているの……。{wait}{clear}だから、自分たちを守るために、{n}ギルドがつくられたそうよ。{wait}{clear}		
+eiev13_01.01E6	いい？　じゃあ、説明するから、ちゃんと聞いて。{wait}{clear}	Okay? I'll explain, so listen carefully.{wait}{clear}	
+eiev13_01.0218	ギルドっていうのは、魔導士たちの協会のことよ。{wait}{clear}私たち魔導士の力って、{n}フツーの人たちから嫌われているの……。{wait}{clear}だから、自分たちを守るために、{n}ギルドがつくられたそうよ。{wait}{clear}	The Guild is the association of sorcerers.{wait}{clear}Ordinary people hate the power we sorcerers{n}have...{wait}{clear}So they say the Guild was formed to protect{n}ourselves.{wait}{clear}	
 eiev13_01.02CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.02DA	そうですか……。{wait}{clear}	I see...{wait}{clear}	
 eiev13_01.02EE	アイリーン	Irene	speaker
-eiev13_01.02FC	それから、ロッジっていうのは、{n}ギルドの魔導士たちの家みたいなものね。{n}特にこの六王国にはたくさんのロッジがあるわ。{wait}{clear}その中で、グランドロッジっていうのは、{n}ギルドのマスターたちの頂点にあたる、{n}グランドマスターがいるところよ。{wait}{clear}わかった？{wait}{clear}		
+eiev13_01.02FC	それから、ロッジっていうのは、{n}ギルドの魔導士たちの家みたいなものね。{n}特にこの六王国にはたくさんのロッジがあるわ。{wait}{clear}その中で、グランドロッジっていうのは、{n}ギルドのマスターたちの頂点にあたる、{n}グランドマスターがいるところよ。{wait}{clear}わかった？{wait}{clear}	And a lodge is sort of a home for the{n}Guild's sorcerers. There are lots of lodges,{n}especially here in the Six Kingdoms.{wait}{clear}Of those, the Grand Lodge is where the Grand{n}Master lives, the one at the top of all the{n}Guild's masters.{wait}{clear}Got it?{wait}{clear}	
 eiev13_01.03F4	ＮＵＬＬ	NULL	speaker
-eiev13_01.0404	《はい、わかりました。》{n}		
-eiev13_01.0424	《ぜんぜんわかりません。》{n}		
+eiev13_01.0404	《はい、わかりました。》{n}	Yes, I understand.{n}	
+eiev13_01.0424	《ぜんぜんわかりません。》{n}	I don't get it at all.{n}	
 eiev13_01.044A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.045A	わかりません。{wait}{clear}		
+eiev13_01.045A	わかりません。{wait}{clear}	I don't understand.{wait}{clear}	
 eiev13_01.0478	アイリーン	Irene	speaker
-eiev13_01.0486	＄＄＄＄＄＄！{n}さっき、そうですかって、あいづちうったわよね！{n}それなのに、そういうこと言うの！？{wait}{clear}		
-eiev13_01.04F8	いい、もう一度、話すからちゃんと聞いてよ！！{wait}{clear}		
+eiev13_01.0486	＄＄＄＄＄＄！{n}さっき、そうですかって、あいづちうったわよね！{n}それなのに、そういうこと言うの！？{wait}{clear}	＄＄＄＄＄＄! Just now you were nodding{n}along going "I see"! And now you say THAT?!{wait}{clear}	
+eiev13_01.04F8	いい、もう一度、話すからちゃんと聞いてよ！！{wait}{clear}	Listen, I'll explain it one more time, so{n}pay attention!!{wait}{clear}	
 eiev13_01.053A	アイリーン	Irene	speaker
 eiev13_01.054C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.055C	はい、ありがとうございます。{wait}{clear}		
+eiev13_01.055C	はい、ありがとうございます。{wait}{clear}	Yes, thank you very much.{wait}{clear}	
 eiev13_01.057C	アイリーン	Irene	speaker
-eiev13_01.058A	で、今のグランドマスターが{n}おじいちゃんの親友だったんだ。{wait}{clear}ここまで来たから寄ってみようかな……{n}なにか話が聞けるかもしれないし。{wait}{clear}		
+eiev13_01.058A	で、今のグランドマスターが{n}おじいちゃんの親友だったんだ。{wait}{clear}ここまで来たから寄ってみようかな……{n}なにか話が聞けるかもしれないし。{wait}{clear}	Anyway, the current Grand Master was{n}Grandpa's best friend.{wait}{clear}Since we came all this way, maybe I'll drop{n}by... I might hear something useful.{wait}{clear}	
 eiev13_01.0612	ＮＵＬＬ	NULL	speaker
-eiev13_01.0622	《行ってみたらいいのでは？》{n}		
-eiev13_01.0646	《どちらでもいい。》{n}		
+eiev13_01.0622	《行ってみたらいいのでは？》{n}	Why not go and see?{n}	
+eiev13_01.0646	《どちらでもいい。》{n}	Either way is fine.{n}	
 eiev13_01.0668	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0678	ええ、せっかくですから、{n}行ってみたらいかがですか？{wait}{clear}アイリーンの言うとおり、{n}なにか新しいお話が聞けるかもしれませんよ。{wait}{clear}		
+eiev13_01.0678	ええ、せっかくですから、{n}行ってみたらいかがですか？{wait}{clear}アイリーンの言うとおり、{n}なにか新しいお話が聞けるかもしれませんよ。{wait}{clear}	Yes, since we're here, why not go and see?{wait}{clear}As you said, Irene, you might hear something{n}new.{wait}{clear}	
 eiev13_01.06F8	アイリーン	Irene	speaker
-eiev13_01.0706	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}		
+eiev13_01.0706	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other time! If I just{n}show up out of nowhere, I won't know what to{n}say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0788	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0798	え、ええ……。{wait}{clear}		
+eiev13_01.0798	え、ええ……。{wait}{clear}	Y-yes...{wait}{clear}	
 eiev13_01.07B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.07C4	私は、どちらでもいいと思いますよ。{n}アイリーンの考えにお任せします。{wait}{clear}		
+eiev13_01.07C4	私は、どちらでもいいと思いますよ。{n}アイリーンの考えにお任せします。{wait}{clear}	I think either way is fine. I'll leave it up{n}to you, Irene.{wait}{clear}	
 eiev13_01.080C	アイリーン	Irene	speaker
-eiev13_01.081A	うーん……{wait}{clear}やっぱやめとこ。{n}なんか急に行っても話しづらいしね。{wait}{clear}さあ、先を急ごう、＄＄＄＄＄＄。{wait}{clear}		
+eiev13_01.081A	うーん……{wait}{clear}やっぱやめとこ。{n}なんか急に行っても話しづらいしね。{wait}{clear}さあ、先を急ごう、＄＄＄＄＄＄。{wait}{clear}	Hmm...{wait}{clear}Nah, I'll skip it. It'd be awkward to just{n}show up out of nowhere.{wait}{clear}Come on, let's hurry on, ＄＄＄＄＄＄.{wait}{clear}	
 eiev13_01.0884	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.0894	はい。{wait}{clear}	Yes.{wait}{clear}	
 eiev13_01.08C2	アイリーン	Irene	speaker
-eiev13_01.08D0	このアルクマールの町に{n}ギルドのグランドロッジがあるの知ってる？{wait}{clear}		
+eiev13_01.08D0	このアルクマールの町に{n}ギルドのグランドロッジがあるの知ってる？{wait}{clear}	Did you know the Guild's Grand Lodge is here{n}in the town of Alkmaar?{wait}{clear}	
 eiev13_01.0914	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0924	グランドロッジですか？{wait}{clear}		
+eiev13_01.0924	グランドロッジですか？{wait}{clear}	The Grand Lodge?{wait}{clear}	
 eiev13_01.0946	アイリーン	Irene	speaker
-eiev13_01.0954	グランドロッジはギルドをまとめているロッジの中で{n}いちばん重要なところよ。{wait}{clear}今のグランドマスターは{n}おじいちゃんの親友だった人なんだ。{wait}{clear}会いに行ってみようかな……。{wait}{clear}		
+eiev13_01.0954	グランドロッジはギルドをまとめているロッジの中で{n}いちばん重要なところよ。{wait}{clear}今のグランドマスターは{n}おじいちゃんの親友だった人なんだ。{wait}{clear}会いに行ってみようかな……。{wait}{clear}	Of all the lodges that make up the Guild,{n}the Grand Lodge is the most important.{wait}{clear}The current Grand Master was Grandpa's best{n}friend.{wait}{clear}Maybe I'll go see him...{wait}{clear}	
 eiev13_01.0A00	ＮＵＬＬ	NULL	speaker
-eiev13_01.0A10	《行ってみたらいいのでは？》{n}		
-eiev13_01.0A34	《どちらでもいい。》{n}		
+eiev13_01.0A10	《行ってみたらいいのでは？》{n}	Why not go and see?{n}	
+eiev13_01.0A34	《どちらでもいい。》{n}	Either way is fine.{n}	
 eiev13_01.0A56	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0A66	ええ、せっかくですから、{n}行ってみたらいかがですか？{n}なにか新しいお話が聞けるかもしれませんし。{wait}{clear}		
+eiev13_01.0A66	ええ、せっかくですから、{n}行ってみたらいかがですか？{n}なにか新しいお話が聞けるかもしれませんし。{wait}{clear}	Yes, since we're here, why not go and see?{n}You might hear something new.{wait}{clear}	
 eiev13_01.0ACA	アイリーン	Irene	speaker
-eiev13_01.0AD8	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}		
+eiev13_01.0AD8	そうね……{wait}{clear}でも……また今度にしようっと！{n}急に行ってもなに話したらいいかわからないし。{wait}{clear}さあ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I guess...{wait}{clear}But... I'll do it some other time! If I just{n}show up out of nowhere, I won't know what to{n}say.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0B5A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0B6A	え、ええ……。{wait}{clear}		
+eiev13_01.0B6A	え、ええ……。{wait}{clear}	Y-yes...{wait}{clear}	
 eiev13_01.0B86	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0B96	私は、どちらでもいいと思いますよ。{n}アイリーンの考えにお任せします。{wait}{clear}		
+eiev13_01.0B96	私は、どちらでもいいと思いますよ。{n}アイリーンの考えにお任せします。{wait}{clear}	I think either way is fine. I'll leave it up{n}to you, Irene.{wait}{clear}	
 eiev13_01.0BDE	アイリーン	Irene	speaker
-eiev13_01.0BEC	うーん……{wait}{clear}やっぱやめとこ。{n}なんか急に行っても話しづらいしね。{wait}{clear}さあ、先を急ごう、＄＄＄＄＄＄。{wait}{clear}		
+eiev13_01.0BEC	うーん……{wait}{clear}やっぱやめとこ。{n}なんか急に行っても話しづらいしね。{wait}{clear}さあ、先を急ごう、＄＄＄＄＄＄。{wait}{clear}	Hmm...{wait}{clear}Nah, I'll skip it. It'd be awkward to just{n}show up out of nowhere.{wait}{clear}Come on, let's hurry on, ＄＄＄＄＄＄.{wait}{clear}	
 eiev13_01.0C56	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_01.0C66	はい。{wait}{clear}	Yes.{wait}{clear}	
 eiev13_01.0C7A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0C8A	ええ、{n}グランドマスターがいらっしゃるところですね。{wait}{clear}一度、勇者フェインとともにここに来ました。{n}そのときにグランドマスターにもお会いしています。{wait}{clear}		
+eiev13_01.0C8A	ええ、{n}グランドマスターがいらっしゃるところですね。{wait}{clear}一度、勇者フェインとともにここに来ました。{n}そのときにグランドマスターにもお会いしています。{wait}{clear}	Yes, it's where the Grand Master resides.{wait}{clear}I came here once with the hero Fein. I met{n}the Grand Master then, too.{wait}{clear}	
 eiev13_01.0D2E	アイリーン	Irene	speaker
-eiev13_01.0D3C	フェイン？　ほんと？{wait}{clear}		
+eiev13_01.0D3C	フェイン？　ほんと？{wait}{clear}	Fein? Really?{wait}{clear}	
 eiev13_01.0D54	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0D64	ええ、勇者としてよくやってくれていますよ。{wait}{clear}		
+eiev13_01.0D64	ええ、勇者としてよくやってくれていますよ。{wait}{clear}	Yes, he's been doing very well as a hero.{wait}{clear}	
 eiev13_01.0D9E	アイリーン	Irene	speaker
-eiev13_01.0DAC	フェインって背が高くて、銀髪で……{n}男よね……？{wait}{clear}		
+eiev13_01.0DAC	フェインって背が高くて、銀髪で……{n}男よね……？{wait}{clear}	This Fein... he's tall, with silver hair...{n}a man, right...?{wait}{clear}	
 eiev13_01.0DE0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0DF0	はい、そうですけど……。{n}アイリーンのお知り合いですか？{wait}{clear}		
+eiev13_01.0DF0	はい、そうですけど……。{n}アイリーンのお知り合いですか？{wait}{clear}	Yes, that's right... Do you know him, Irene?{wait}{clear}	
 eiev13_01.0E2C	アイリーン	Irene	speaker
-eiev13_01.0E3A	う、うん……まあね……。{wait}{clear}		
-eiev13_01.0E62	おじいちゃんとグランドマスターは{n}親友だった人だから寄ろうかなって思ったけど……{n}また、今度にする。{wait}{clear}なんか迷惑かもしれないし……。{wait}{clear}		
+eiev13_01.0E3A	う、うん……まあね……。{wait}{clear}	Y-yeah... sort of...{wait}{clear}	
+eiev13_01.0E62	おじいちゃんとグランドマスターは{n}親友だった人だから寄ろうかなって思ったけど……{n}また、今度にする。{wait}{clear}なんか迷惑かもしれないし……。{wait}{clear}	Grandpa and the Grand Master were best{n}friends, so I thought I'd drop by... but{n}I'll do it another time.{wait}{clear}I might just be a bother...{wait}{clear}	
 eiev13_01.0EEC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0EFC	そうですか？{n}せっかくですから、寄っていきませんか？{wait}{clear}		
+eiev13_01.0EFC	そうですか？{n}せっかくですから、寄っていきませんか？{wait}{clear}	Are you sure? Since we're here, why not stop{n}by?{wait}{clear}	
 eiev13_01.0F34	アイリーン	Irene	speaker
-eiev13_01.0F42	いいってば、また今度にする。{wait}{clear}ねえ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}		
+eiev13_01.0F42	いいってば、また今度にする。{wait}{clear}ねえ、＄＄＄＄＄＄、先を急ごう。{wait}{clear}	I said it's fine. I'll do it another time.{wait}{clear}Come on, ＄＄＄＄＄＄, let's hurry on.{wait}{clear}	
 eiev13_01.0F86	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_01.0F96	は、はい……。{wait}{clear}		
+eiev13_01.0F96	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	

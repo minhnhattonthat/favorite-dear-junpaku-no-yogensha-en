@@ -1,53 +1,53 @@
 id	jp	en	notes
-eiev11.0012	第11節「呪われた魂」		speaker
+eiev11.0012	第11節「呪われた魂」	Cursed Soul	speaker
 eiev11.0074	アイリーン	Irene	speaker
-eiev11.0086	……姉さん呪いで……あんな風に……{wait}{clear}		
-eiev11.00B0	ずっと苦しめられてるのね……ひどい……{wait}{clear}		
+eiev11.0086	……姉さん呪いで……あんな風に……{wait}{clear}	...Sis is cursed... and that's why she's{n}like that...{wait}{clear}	
+eiev11.00B0	ずっと苦しめられてるのね……ひどい……{wait}{clear}	She's been suffering all this time... It's{n}awful...{wait}{clear}	
 eiev11.00DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev11.00EA	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
+eiev11.00EA	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}	Irene, please tell me. About your sister...{wait}{clear}	
 eiev11.0140	アイリーン	Irene	speaker
-eiev11.0152	姉さんがフェインを……なぜ……{wait}{clear}		
-eiev11.0178	こんなことになってしまうなんて……{n}酷すぎる……{wait}{clear}		
+eiev11.0152	姉さんがフェインを……なぜ……{wait}{clear}	Sis did that to Fein... why...{wait}{clear}	
+eiev11.0178	こんなことになってしまうなんて……{n}酷すぎる……{wait}{clear}	For things to turn out like this... it's too{n}cruel...{wait}{clear}	
 eiev11.01AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev11.01BC	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
+eiev11.01BC	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}	Irene, please tell me. About your sister...{wait}{clear}	
 eiev11.0200	アイリーン	Irene	speaker
-eiev11.0212	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}		
-eiev11.024A	あの日……{wait}{clear}		
+eiev11.0212	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}	...Sis became like that... because of{n}magic...{wait}{clear}	
+eiev11.024A	あの日……{wait}{clear}	That day...{wait}{clear}	
 eiev11.0262	アイリーン	Irene	speaker
-eiev11.0274	フェインと結婚式をあげたその日の夜……{wait}{clear}		
-eiev11.02A2	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}		
-eiev11.02D6	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}		
-eiev11.033A	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}		
-eiev11.0394	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}		
-eiev11.03D8	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}		
+eiev11.0274	フェインと結婚式をあげたその日の夜……{wait}{clear}	the night of the day she married Fein...{wait}{clear}	
+eiev11.02A2	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}	the illness Sis had suffered from for so{n}long suddenly got worse...{wait}{clear}	
+eiev11.02D6	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}	When Fein noticed in the morning... she...{n}wasn't breathing anymore...{wait}{clear}	
+eiev11.033A	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}	Fein panicked... and used a forbidden secret{n}art, the power of the demon world, to bring{n}Sis back to life...{wait}{clear}	
+eiev11.0394	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}	A dangerous magic we'd always been taught{n}never to use...{wait}{clear}	
+eiev11.03D8	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}	But thanks to Fein's magic, Sis started{n}breathing again as if nothing had{n}happened...{wait}{clear}	
 eiev11.0448	アイリーン	Irene	speaker
-eiev11.045A	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}		
-eiev11.04BC	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}		
-eiev11.04F8	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}		
-eiev11.0566	でも……姉さんは、おじいちゃんに傷をおわせて{n}どこかに消えてしまった……。{wait}{clear}		
-eiev11.05C4	おじいちゃんはその傷がもとで亡くなって……{wait}{clear}		
-eiev11.05F6	フェインはいなくなったセレニス姉さんを探して{n}大陸にわたったの……{wait}{clear}		
-eiev11.0640	私は塔に残って……ずっと魔法の勉強を続けた……{wait}{clear}		
-eiev11.0676	なにがおこったのか……知るために……{wait}{clear}		
-eiev11.06A2	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}		
-eiev11.06FE	でも、何年かけて探しても見つからなかった……。{wait}{clear}		
-eiev11.0734	やっと会えたセレニス姉さんは{n}もう……呪われた魂に奪われていた……{wait}{clear}		
-eiev11.077E	こんなの……もう……{wait}{clear}		
-eiev11.079A	私、どうしたらいいの……？{n}ねえ、教えて……＄＄＄＄＄{wait}{clear}		
+eiev11.045A	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}	For a while we lived like nothing had{n}changed... but little by little she started{n}acting strange...{wait}{clear}	
+eiev11.04BC	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}	Grandpa noticed and confronted Fein...{wait}{clear}	
+eiev11.04F8	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}	When Grandpa learned the truth, he said{n}something terrible would happen soon, and{n}went to undo the spell on her...{wait}{clear}	
+eiev11.0566	でも……姉さんは、おじいちゃんに傷をおわせて{n}どこかに消えてしまった……。{wait}{clear}	But... Sis wounded Grandpa and vanished{n}somewhere...{wait}{clear}	
+eiev11.05C4	おじいちゃんはその傷がもとで亡くなって……{wait}{clear}	Grandpa died from that wound...{wait}{clear}	
+eiev11.05F6	フェインはいなくなったセレニス姉さんを探して{n}大陸にわたったの……{wait}{clear}	Fein crossed over to the continent to search{n}for Serenis after she disappeared...{wait}{clear}	
+eiev11.0640	私は塔に残って……ずっと魔法の勉強を続けた……{wait}{clear}	I stayed at the tower... and kept studying{n}magic all this time...{wait}{clear}	
+eiev11.0676	なにがおこったのか……知るために……{wait}{clear}	to find out... what had happened...{wait}{clear}	
+eiev11.06A2	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}	Fein always told me in his letters that he'd{n}find Sis no matter what.{wait}{clear}	
+eiev11.06FE	でも、何年かけて探しても見つからなかった……。{wait}{clear}	But no matter how many years he searched, he{n}never found her...{wait}{clear}	
+eiev11.0734	やっと会えたセレニス姉さんは{n}もう……呪われた魂に奪われていた……{wait}{clear}	And when we finally found her, Serenis had{n}already... been taken by a cursed soul...{wait}{clear}	
+eiev11.077E	こんなの……もう……{wait}{clear}	This is... too much...{wait}{clear}	
+eiev11.079A	私、どうしたらいいの……？{n}ねえ、教えて……＄＄＄＄＄{wait}{clear}	What do I do...? Tell me... ＄＄＄＄＄＄...{wait}{clear}	
 eiev11.07D4	ＮＵＬＬ	NULL	speaker
-eiev11.07E4	《なにか方法があるはず》{n}		
-eiev11.0804	《……》{n}		
+eiev11.07E4	《なにか方法があるはず》{n}	There must be a way{n}	
+eiev11.0804	《……》{n}	...{n}	
 eiev11.081E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev11.082E	魔法を解く、方法がなにかきっとあるはずです……{wait}{clear}それを探し出しましょう。{wait}{clear}あきらめないでください……。{wait}{clear}		
+eiev11.082E	魔法を解く、方法がなにかきっとあるはずです……{wait}{clear}それを探し出しましょう。{wait}{clear}あきらめないでください……。{wait}{clear}	There must be some way to break the spell...{wait}{clear}Let's find it.{wait}{clear}Please don't give up...{wait}{clear}	
 eiev11.08A0	アイリーン	Irene	speaker
-eiev11.08B2	なのに……なのに、姉さんは……{wait}{clear}		
-eiev11.08D8	呪われた魂が……{n}姉さんを……フェインを奪っていってしまった……{wait}{clear}		
-eiev11.0920	ねえ、＄＄＄＄＄＄{n}私、どうしたらいいの？{wait}{clear}		
+eiev11.08B2	なのに……なのに、姉さんは……{wait}{clear}	And yet... and yet, Sis...{wait}{clear}	
+eiev11.08D8	呪われた魂が……{n}姉さんを……フェインを奪っていってしまった……{wait}{clear}	A cursed soul... took Sis... and took Fein{n}away...{wait}{clear}	
+eiev11.0920	ねえ、＄＄＄＄＄＄{n}私、どうしたらいいの？{wait}{clear}	Hey, ＄＄＄＄＄＄, what am I supposed to do?{wait}{clear}	
 eiev11.094E	ＮＵＬＬ	NULL	speaker
-eiev11.095E	《なにか方法があるはず》{n}		
-eiev11.097E	《……》{n}		
+eiev11.095E	《なにか方法があるはず》{n}	There must be a way{n}	
+eiev11.097E	《……》{n}	...{n}	
 eiev11.0998	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev11.09A8	魔法を解く方法を一緒に探しましょう……。{n}アイリーン。{wait}{clear}なにかあるはずです……信じましょう……。{wait}{clear}		
+eiev11.09A8	魔法を解く方法を一緒に探しましょう……。{n}アイリーン。{wait}{clear}なにかあるはずです……信じましょう……。{wait}{clear}	Let's look for a way to break the spell{n}together, Irene...{wait}{clear}There must be something... Let's believe{n}that...{wait}{clear}	
 eiev11.0A1E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.0A2E	……{wait}{clear}		
 eiev11.0A36	アイリーン	Irene	speaker

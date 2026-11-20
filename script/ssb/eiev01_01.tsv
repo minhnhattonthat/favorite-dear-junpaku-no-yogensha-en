@@ -1,79 +1,79 @@
 id	jp	en	notes
 eiev01_01.006C	アイリーン	Irene	speaker
-eiev01_01.007E	えーと……{n}ここはこーで……{wait}{clear}		
-eiev01_01.00A2	オン……{n}ロー…ダーナ…{n}ウン……ジャック……{wait}{clear}		
-eiev01_01.00D8	ええーい！{wait}{clear}		
+eiev01_01.007E	えーと……{n}ここはこーで……{wait}{clear}	Umm... this goes like this...{wait}{clear}	
+eiev01_01.00A2	オン……{n}ロー…ダーナ…{n}ウン……ジャック……{wait}{clear}	On... Ro... Dana... Un... Jack...{wait}{clear}	
+eiev01_01.00D8	ええーい！{wait}{clear}	Hyaaah!{wait}{clear}	
 eiev01_01.011C	アイリーン	Irene	speaker
-eiev01_01.012E	へ……？{wait}{clear}		
-eiev01_01.013E	……私、また間違えちゃった？{wait}{clear}		
+eiev01_01.012E	へ……？{wait}{clear}	Huh...?{wait}{clear}	
+eiev01_01.013E	……私、また間違えちゃった？{wait}{clear}	...Did I mess it up again?{wait}{clear}	
 eiev01_01.015E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.016E	アイリーン・ティルナーグですね？{n}私は天使＄＄＄＄＄＄といいます。{wait}{clear}		
+eiev01_01.016E	アイリーン・ティルナーグですね？{n}私は天使＄＄＄＄＄＄といいます。{wait}{clear}	You are Irene Tirnag, yes? I am the angel{n}＄＄＄＄＄＄.{wait}{clear}	
 eiev01_01.01B4	アイリーン	Irene	speaker
-eiev01_01.01C6	しゃべった……。{wait}{clear}		
-eiev01_01.01DE	なんで、この呪文でこんなんが出てくんの！？{wait}{clear}		
+eiev01_01.01C6	しゃべった……。{wait}{clear}	It talked...{wait}{clear}	
+eiev01_01.01DE	なんで、この呪文でこんなんが出てくんの！？{wait}{clear}	Why would this spell summon something like{n}THAT?!{wait}{clear}	
 eiev01_01.020C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.021C	……魔法で呼ばれたのではありません。{wait}{clear}私は天界からあなたに地上の平和のために{n}共に働いてもらえないか、頼みに来たのです。{wait}{clear}		
+eiev01_01.021C	……魔法で呼ばれたのではありません。{wait}{clear}私は天界からあなたに地上の平和のために{n}共に働いてもらえないか、頼みに来たのです。{wait}{clear}	...I was not summoned by magic.{wait}{clear}I came from the Heavens to ask whether you{n}would work with me for the sake of peace on{n}the surface.{wait}{clear}	
 eiev01_01.02A6	アイリーン	Irene	speaker
-eiev01_01.02B8	はぁ？{n}突然現れてなに言ってんの？{wait}{clear}		
-eiev01_01.02E2	急にそんなごじゃごじゃ言われてもわかんないわ。{wait}{clear}		
-eiev01_01.0324	まず確認するわね……。{wait}{clear}		
-eiev01_01.0342	あなたは天使なのね。{wait}{clear}		
+eiev01_01.02B8	はぁ？{n}突然現れてなに言ってんの？{wait}{clear}	Huh? You just pop out of nowhere and say{n}what now?{wait}{clear}	
+eiev01_01.02E2	急にそんなごじゃごじゃ言われてもわかんないわ。{wait}{clear}	You can't spring all that jumbled stuff on{n}me and expect me to get it.{wait}{clear}	
+eiev01_01.0324	まず確認するわね……。{wait}{clear}	Let me get this straight first...{wait}{clear}	
+eiev01_01.0342	あなたは天使なのね。{wait}{clear}	You're an angel.{wait}{clear}	
 eiev01_01.035A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_01.036A	はい。{wait}{clear}	Yes.{wait}{clear}	
 eiev01_01.0374	アイリーン	Irene	speaker
-eiev01_01.0386	んで、魔法で呼ばれたんじゃないと。{wait}{clear}		
+eiev01_01.0386	んで、魔法で呼ばれたんじゃないと。{wait}{clear}	And you weren't summoned by magic.{wait}{clear}	
 eiev01_01.03AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_01.03BC	はい。{wait}{clear}	Yes.{wait}{clear}	
 eiev01_01.03C6	アイリーン	Irene	speaker
-eiev01_01.03D8	んで、天界からなにか頼みごとがあって{n}やってきた、と。{wait}{clear}		
+eiev01_01.03D8	んで、天界からなにか頼みごとがあって{n}やってきた、と。{wait}{clear}	And you came from the Heavens because you{n}want something from me.{wait}{clear}	
 eiev01_01.0412	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.0422	はい。{n}地上の混乱を正すための協力をお願いしに来ました。{wait}{clear}		
+eiev01_01.0422	はい。{n}地上の混乱を正すための協力をお願いしに来ました。{wait}{clear}	Yes. I came to ask for your help in setting{n}right the chaos on the surface.{wait}{clear}	
 eiev01_01.045E	アイリーン	Irene	speaker
-eiev01_01.0470	……ふーん。{n}大体わかってきた。{wait}{clear}		
+eiev01_01.0470	……ふーん。{n}大体わかってきた。{wait}{clear}	...Hmm. I'm starting to get the picture.{wait}{clear}	
 eiev01_01.0494	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.04A4	協力していただけますか？{wait}{clear}		
+eiev01_01.04A4	協力していただけますか？{wait}{clear}	Will you help me?{wait}{clear}	
 eiev01_01.04C0	アイリーン	Irene	speaker
 eiev01_01.04D2	…………。{wait}{clear}	.........{wait}{clear}	
 eiev01_01.04E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.04F0	……今地上は混沌の際にあり{n}世界は悪によって覆われようとしています。{wait}{clear}その多くは未だ……{wait}{clear}		
+eiev01_01.04F0	……今地上は混沌の際にあり{n}世界は悪によって覆われようとしています。{wait}{clear}その多くは未だ……{wait}{clear}	...The surface now stands on the brink of{n}chaos, and the world is about to be engulfed{n}by evil.{wait}{clear}Much of it still...{wait}{clear}	
 eiev01_01.055A	アイリーン	Irene	speaker
-eiev01_01.056C	あー、べらべらうるさい。{n}考えてんだから黙っててよ。{wait}{clear}		
-eiev01_01.05A8	ほんとよくしゃべるわね。{wait}{clear}		
+eiev01_01.056C	あー、べらべらうるさい。{n}考えてんだから黙っててよ。{wait}{clear}	Ugh, blah blah blah. I'm thinking here, so{n}pipe down.{wait}{clear}	
+eiev01_01.05A8	ほんとよくしゃべるわね。{wait}{clear}	You sure love to talk, huh.{wait}{clear}	
 eiev01_01.05C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.05D4	……………。{wait}{clear}		
+eiev01_01.05D4	……………。{wait}{clear}	.........{wait}{clear}	
 eiev01_01.05F8	アイリーン	Irene	speaker
-eiev01_01.060A	……わかった。{wait}{clear}		
-eiev01_01.0620	いいわ。{n}協力しても。{wait}{clear}		
+eiev01_01.060A	……わかった。{wait}{clear}	...Fine.{wait}{clear}	
+eiev01_01.0620	いいわ。{n}協力しても。{wait}{clear}	All right. I'll help you.{wait}{clear}	
 eiev01_01.063A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.064A	ありがとうございます。{wait}{clear}アイリーン、あなたのような……{wait}{clear}		
+eiev01_01.064A	ありがとうございます。{wait}{clear}アイリーン、あなたのような……{wait}{clear}	Thank you very much.{wait}{clear}Irene, someone like you...{wait}{clear}	
 eiev01_01.0692	アイリーン	Irene	speaker
-eiev01_01.06A4	ちょっとまった！{n}長くなりそうだからおべっかなんかいいわ。{wait}{clear}		
-eiev01_01.06E6	どんなことすればいいか教えて。{wait}{clear}		
-eiev01_01.070C	簡潔に。{wait}{clear}		
+eiev01_01.06A4	ちょっとまった！{n}長くなりそうだからおべっかなんかいいわ。{wait}{clear}	Hold it! This sounds like it'll take{n}forever, so skip the flattery.{wait}{clear}	
+eiev01_01.06E6	どんなことすればいいか教えて。{wait}{clear}	Just tell me what I need to do.{wait}{clear}	
+eiev01_01.070C	簡潔に。{wait}{clear}	Keep it short.{wait}{clear}	
 eiev01_01.0718	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.0728	……あなたに頼むべきことがあるとき、{n}またあなたの元に来ます。{wait}{clear}そのときお話しします。{wait}{clear}		
+eiev01_01.0728	……あなたに頼むべきことがあるとき、{n}またあなたの元に来ます。{wait}{clear}そのときお話しします。{wait}{clear}	...When there is something I must ask of{n}you, I will come to you again.{wait}{clear}I will explain then.{wait}{clear}	
 eiev01_01.0790	アイリーン	Irene	speaker
-eiev01_01.07A2	わーかった。{n}待ってる。{wait}{clear}		
-eiev01_01.07C2	さてと……{wait}{clear}		
-eiev01_01.07D4	あなたが魔法のせいじゃないとすると……{wait}{clear}		
-eiev01_01.0802	さっきのポーション作る魔法は失敗したのかな……{wait}{clear}		
-eiev01_01.0844	ああっーー！！{wait}{clear}		
-eiev01_01.085A	頼まれた大事なポーション、{n}全部、ゆかに散らばってる！！{wait}{clear}		
-eiev01_01.08A6	あんたのせいよ！！{wait}{clear}		
+eiev01_01.07A2	わーかった。{n}待ってる。{wait}{clear}	Fiiine. I'll be waiting.{wait}{clear}	
+eiev01_01.07C2	さてと……{wait}{clear}	Okay, now...{wait}{clear}	
+eiev01_01.07D4	あなたが魔法のせいじゃないとすると……{wait}{clear}	If you didn't come from my magic...{wait}{clear}	
+eiev01_01.0802	さっきのポーション作る魔法は失敗したのかな……{wait}{clear}	then did my potion-making spell just now{n}fail...?{wait}{clear}	
+eiev01_01.0844	ああっーー！！{wait}{clear}	Aaaaah!!{wait}{clear}	
+eiev01_01.085A	頼まれた大事なポーション、{n}全部、ゆかに散らばってる！！{wait}{clear}	The important potions I was asked to make{n}are all over the floor!!{wait}{clear}	
+eiev01_01.08A6	あんたのせいよ！！{wait}{clear}	This is YOUR fault!!{wait}{clear}	
 eiev01_01.08BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.08CC	では、長くなりそうなので……また、来ます。{wait}{clear}		
+eiev01_01.08CC	では、長くなりそうなので……また、来ます。{wait}{clear}	Well, this looks like it will take a{n}while... I will come again.{wait}{clear}	
 eiev01_01.08FA	アイリーン	Irene	speaker
-eiev01_01.090C	まちなさい、こらあ！！{wait}{clear}		
+eiev01_01.090C	まちなさい、こらあ！！{wait}{clear}	Hey, you! Get back here!!{wait}{clear}	
 eiev01_01.0942	アイリーン	Irene	speaker
-eiev01_01.0950	……いやよ。{wait}{clear}私、そんなにヒマじゃないの。{wait}{clear}		
+eiev01_01.0950	……いやよ。{wait}{clear}私、そんなにヒマじゃないの。{wait}{clear}	...No way.{wait}{clear}I'm not THAT bored.{wait}{clear}	
 eiev01_01.0980	ＮＵＬＬ	NULL	speaker
 eiev01_01.0990	《どうしても頼みたい》{n}	I really need you{n}	
 eiev01_01.09AE	《また来ます》{n}	I'll come again{n}	
 eiev01_01.09CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.09DA	どうしても、お願いしたいのです。{n}あなたに……。{wait}{clear}		
+eiev01_01.09DA	どうしても、お願いしたいのです。{n}あなたに……。{wait}{clear}	I truly must ask this of you. Of you, and no{n}one else...{wait}{clear}	
 eiev01_01.0A0E	アイリーン	Irene	speaker
-eiev01_01.0A1C	だめだめ。{wait}{clear}今日は人から頼まれた{n}ポーション作らなきゃいけないし、{wait}{clear}あなたみたいなわけわかんないのに{n}つきあってる時間ないの。{wait}{clear}さ、帰って帰って！{wait}{clear}		
+eiev01_01.0A1C	だめだめ。{wait}{clear}今日は人から頼まれた{n}ポーション作らなきゃいけないし、{wait}{clear}あなたみたいなわけわかんないのに{n}つきあってる時間ないの。{wait}{clear}さ、帰って帰って！{wait}{clear}	Nope, nope.{wait}{clear}Today I have to make the potions someone{n}asked me for,{wait}{clear}and I don't have time to hang around with{n}some weirdo like you.{wait}{clear}Go on, shoo, shoo!{wait}{clear}	
 eiev01_01.0AC8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev01_01.0AD8	では、また来ます。{wait}{clear}		
+eiev01_01.0AD8	では、また来ます。{wait}{clear}	Then I will come again.{wait}{clear}	
 eiev01_01.0AFA	アイリーン	Irene	speaker
-eiev01_01.0B08	うん？{n}あきらめいいのね。{wait}{clear}まあ、そうして、今度会ったとき{n}考えたげる。また。{wait}{clear}じゃね。{wait}{clear}		
+eiev01_01.0B08	うん？{n}あきらめいいのね。{wait}{clear}まあ、そうして、今度会ったとき{n}考えたげる。また。{wait}{clear}じゃね。{wait}{clear}	Hm? You give up easy.{wait}{clear}Well, do that, and I'll think about it next{n}time we meet. See ya.{wait}{clear}Bye.{wait}{clear}	

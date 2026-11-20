@@ -8,7 +8,7 @@ Y08ev_01.00B6	ああ、レーパス、{n}よかった、いたんですね。{n}
 Y08ev_01.010E	レーパス	Lepus	speaker
 Y08ev_01.011A	しっ！　天使様、静かに！{n}もう少し待っててください。{wait}{clear}		
 Y08ev_01.0152	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.0162	は、はい……。{wait}{clear}		
+Y08ev_01.0162	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	
 Y08ev_01.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y08ev_01.01AC	うわぁ、これは、すごいですね。{wait}{clear}		
 Y08ev_01.01D2	レーパス	Lepus	speaker

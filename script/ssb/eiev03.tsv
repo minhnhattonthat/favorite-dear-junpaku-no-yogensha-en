@@ -1,33 +1,33 @@
 id	jp	en	notes
 eiev03.003C	アイリーン	Irene	speaker
-eiev03.004E	ここ、デルフィニア山の近くね。{wait}{clear}		
+eiev03.004E	ここ、デルフィニア山の近くね。{wait}{clear}	We're near Mount Delphinia here.{wait}{clear}	
 eiev03.0070	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev03.0080	デルフィニア山？{wait}{clear}アイリーンがそんな風に言うなんて、{n}なにかいわれのある場所なのですか？{wait}{clear}		
+eiev03.0080	デルフィニア山？{wait}{clear}アイリーンがそんな風に言うなんて、{n}なにかいわれのある場所なのですか？{wait}{clear}	Mount Delphinia?{wait}{clear}For you to mention it like that, Irene, is{n}it a place with some history?{wait}{clear}	
 eiev03.00EC	アイリーン	Irene	speaker
-eiev03.00FE	デルフィニア山はね、{n}あの紅月王が魔石を初めて見つけたところよ。{wait}{clear}		
+eiev03.00FE	デルフィニア山はね、{n}あの紅月王が魔石を初めて見つけたところよ。{wait}{clear}	Mount Delphinia is where the Crimson Moon{n}King first found the Demon Stone.{wait}{clear}	
 eiev03.0142	ＮＵＬＬ	NULL	speaker
-eiev03.0152	《紅月王とは？》{n}		
-eiev03.016A	《魔石とは？》{n}		
+eiev03.0152	《紅月王とは？》{n}	The Crimson Moon King?{n}	
+eiev03.016A	《魔石とは？》{n}	The Demon Stone?{n}	
 eiev03.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev03.0190	紅月王とは誰ですか？{wait}{clear}		
+eiev03.0190	紅月王とは誰ですか？{wait}{clear}	Who is the Crimson Moon King?{wait}{clear}	
 eiev03.01A8	アイリーン	Irene	speaker
-eiev03.01BA	今のグローサイン帝国を建国したといわれてる{n}伝説の皇帝のこと。{wait}{clear}		
-eiev03.0200	銀の髪と赤い目を持ち、{n}深紅の月を紋章にしていて、{n}そう名乗ったと言われているわ。{wait}{clear}		
-eiev03.0260	魔石というのは、なんですか？{wait}{clear}		
+eiev03.01BA	今のグローサイン帝国を建国したといわれてる{n}伝説の皇帝のこと。{wait}{clear}	The legendary emperor who's said to have{n}founded today's Grosain Empire.{wait}{clear}	
+eiev03.0200	銀の髪と赤い目を持ち、{n}深紅の月を紋章にしていて、{n}そう名乗ったと言われているわ。{wait}{clear}	They say he had silver hair and red eyes,{n}bore a crimson moon as his crest, and called{n}himself by that name.{wait}{clear}	
+eiev03.0260	魔石というのは、なんですか？{wait}{clear}	And what is the Demon Stone?{wait}{clear}	
 eiev03.0280	アイリーン	Irene	speaker
-eiev03.0292	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石……と、{n}伝説では語られているわ。{wait}{clear}		
-eiev03.0302	紅月王は若いころ、ここでそれを見つけたの。{wait}{clear}		
+eiev03.0292	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石……と、{n}伝説では語られているわ。{wait}{clear}	The Demon Stone of Delphinia, also called{n}the Heavenly Dragon's Egg: a stone that{n}gives off a terrifying power... or so the{wait}{clear}legends say.{wait}{clear}	
+eiev03.0302	紅月王は若いころ、ここでそれを見つけたの。{wait}{clear}	The Crimson Moon King found it here when he{n}was young.{wait}{clear}	
 eiev03.0336	アイリーン	Irene	speaker
-eiev03.0348	ここの話もおじいちゃんはしてくれたわ。{wait}{clear}		
-eiev03.0376	おじいちゃんは魔石こそ魔法のみなもとをさぐる{n}重要なカギだと考えていたから……。{wait}{clear}		
-eiev03.03CE	紅月王が伝説のなかで使っているたくさんの奇跡は{n}その後の魔法の発展に{n}大きな影響を与えたって話してた。{wait}{clear}		
-eiev03.043C	私もそう思うわ……{wait}{clear}		
-eiev03.0456	死者をよみがえらせ……{n}人の形をしていない恐ろしい魔族たちを{n}自由に従わせることのできた、その技……{wait}{clear}		
-eiev03.04C2	今の魔導士たちはそれにくらべたら{n}ずっと劣ることしかできないけど……。{n}やっていることは同じ……だから。{wait}{clear}		
-eiev03.0532	おじいちゃんは、{n}その失われた最高の秘術を求めて{n}一生かけて世界をめぐったの。{wait}{clear}		
-eiev03.0588	そして……たくさんの知識を身につけて……{n}塔に戻ったわ……{wait}{clear}		
-eiev03.05D6	でもね……おじいちゃんは死ぬ間際には……{wait}{clear}		
-eiev03.0606	自分の求めた知識はなんの役にも立たないって、{n}なげきながら亡くなったの……{wait}{clear}…………。{wait}{clear}		
-eiev03.0672	でも私は、そうだとは思わない……{wait}{clear}		
-eiev03.069A	きっと、おじいちゃんが残してくれたものには{n}何かがあると思ってる。{wait}{clear}		
-eiev03.06E4	その何かは……まだわからないけど……{n}私は求め続けるつもり……。{wait}{clear}		
+eiev03.0348	ここの話もおじいちゃんはしてくれたわ。{wait}{clear}	Grandpa told me stories about this place{n}too.{wait}{clear}	
+eiev03.0376	おじいちゃんは魔石こそ魔法のみなもとをさぐる{n}重要なカギだと考えていたから……。{wait}{clear}	Grandpa believed the Demon Stone was the key{n}to finding the source of magic...{wait}{clear}	
+eiev03.03CE	紅月王が伝説のなかで使っているたくさんの奇跡は{n}その後の魔法の発展に{n}大きな影響を与えたって話してた。{wait}{clear}	He said the many miracles the Crimson Moon{n}King worked in the legends had a huge{n}influence on how magic developed afterward.{wait}{clear}	
+eiev03.043C	私もそう思うわ……{wait}{clear}	I think so too...{wait}{clear}	
+eiev03.0456	死者をよみがえらせ……{n}人の形をしていない恐ろしい魔族たちを{n}自由に従わせることのできた、その技……{wait}{clear}	Raising the dead... bending terrible demons{n}that don't even look human to his will...{n}those arts...{wait}{clear}	
+eiev03.04C2	今の魔導士たちはそれにくらべたら{n}ずっと劣ることしかできないけど……。{n}やっていることは同じ……だから。{wait}{clear}	Today's sorcerers can only do things that{n}are far weaker by comparison... but what{n}they're doing is the same... that's why.{wait}{clear}	
+eiev03.0532	おじいちゃんは、{n}その失われた最高の秘術を求めて{n}一生かけて世界をめぐったの。{wait}{clear}	Grandpa spent his whole life traveling the{n}world in search of that lost, supreme secret{n}art.{wait}{clear}	
+eiev03.0588	そして……たくさんの知識を身につけて……{n}塔に戻ったわ……{wait}{clear}	And then... after he'd gathered all that{n}knowledge... he came back to the tower...{wait}{clear}	
+eiev03.05D6	でもね……おじいちゃんは死ぬ間際には……{wait}{clear}	But you know... right before he died...{wait}{clear}	
+eiev03.0606	自分の求めた知識はなんの役にも立たないって、{n}なげきながら亡くなったの……{wait}{clear}…………。{wait}{clear}	he passed away lamenting that the knowledge{n}he'd sought was good for nothing...{wait}{clear}.........{wait}{clear}	
+eiev03.0672	でも私は、そうだとは思わない……{wait}{clear}	But I don't think that's true...{wait}{clear}	
+eiev03.069A	きっと、おじいちゃんが残してくれたものには{n}何かがあると思ってる。{wait}{clear}	I'm sure there's something in what Grandpa{n}left behind.{wait}{clear}	
+eiev03.06E4	その何かは……まだわからないけど……{n}私は求め続けるつもり……。{wait}{clear}	I don't know what that something is yet...{n}but I'm going to keep looking for it...{wait}{clear}	

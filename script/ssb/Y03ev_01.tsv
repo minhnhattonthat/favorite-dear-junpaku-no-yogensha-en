@@ -4,7 +4,7 @@ Y03ev_01.0044	また一日過ぎてゆくのですね……。{n}でも、やる
 Y03ev_01.00A6	シェリー	Shelly	speaker
 Y03ev_01.00B6	はぁ……。{wait}{clear}		
 Y03ev_01.00C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.00D4	？{wait}{clear}		
+Y03ev_01.00D4	？{wait}{clear}	?{wait}{clear}	
 Y03ev_01.00DA	シェリー	Shelly	speaker
 Y03ev_01.00EA	ふぅ……。{wait}{clear}		
 Y03ev_01.00F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

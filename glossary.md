@@ -62,6 +62,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | ディアナ | Diana | | | |
 | レイフォリア | Reyforia | | | |
 | リベザル | Ribezal | | | |
+| ウェスタ | Vesta | | Irene's owl (female) | Westa |
+| マスター | Master | | name tag for the Grand Master (eiev13_02) | |
 | ローザ | Rosa | | fairy (formal, composed) | |
 | フロリンダ | Florinda | | fairy; calls herself フロリン "Florin" | |
 | フロリン | Florin | | | |
@@ -82,6 +84,9 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | インフォス | Infos | | game 1's world | |
 | ドライハウプ | Dreihaup | | Lake Dreihaup (湖), largest lake on Yerasel | |
 | デルフィニア | Delphinia | | Mount Delphinia (山) | |
+| アルクマール | Alkmaar | | town/city with the Guild's Grand Lodge | |
+| グローサイン | Grosain | | the Grosain Empire (帝国) | |
+| 六王国 | Six Kingdoms | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -95,3 +100,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | 大天使 | archangel | | the archangel / Lord Raphael | |
 
 ## Decisions from earlier batches
+- Chapter labels `xxNN.0012` (第N節「...」, ...エンディング): title only, no number ("Cursed Soul", "Confession").
+- Choices 《...》: plain text ending in `{n}`. Lines with a wrong speaker column (the angel's line tagged as a hero,
+  or the reverse) are translated by content.
+- Gendered angel variants exist (あれ？/あら？ copies, 女同士, 悪い男 vs 好きな女の子): translate each copy for its gender.
+- A source row with five ＄ (eiev11.079A, eiev12.1530) is written with the full six.

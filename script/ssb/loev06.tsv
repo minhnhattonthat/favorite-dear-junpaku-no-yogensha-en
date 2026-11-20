@@ -24,7 +24,7 @@ loev06.0504	そうだ、母さんがお前に会いたがっていたぞ。{wait
 loev06.057C	ルディエール	Rudiere	speaker
 loev06.058C	わかった。{wait}{clear}		
 loev06.05B8	ルディエール	Rudiere	speaker
-loev06.05C8	ふう……。{wait}{clear}		
+loev06.05C8	ふう……。{wait}{clear}	Phew...{wait}{clear}	
 loev06.05D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev06.05E6	お疲れのようですね。{wait}{clear}		
 loev06.060C	ルディエール	Rudiere	speaker

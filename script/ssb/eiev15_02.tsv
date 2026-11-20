@@ -1,63 +1,63 @@
 id	jp	en	notes
 eiev15_02.0066	アイリーン	Irene	speaker
-eiev15_02.0074	いる？　＄＄＄＄＄＄。{wait}{clear}		
+eiev15_02.0074	いる？　＄＄＄＄＄＄。{wait}{clear}	You there? ＄＄＄＄＄＄.{wait}{clear}	
 eiev15_02.00AC	アイリーン	Irene	speaker
-eiev15_02.00BA	……お礼、言い忘れてたね……{n}ありがとう、＄＄＄＄＄＄……。{wait}{clear}…………。{wait}{clear}		
+eiev15_02.00BA	……お礼、言い忘れてたね……{n}ありがとう、＄＄＄＄＄＄……。{wait}{clear}…………。{wait}{clear}	...I forgot to thank you... Thank you,{n}＄＄＄＄＄＄...{wait}{clear}.........{wait}{clear}	
 eiev15_02.0108	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0118	アイリーン……。{wait}{clear}お姉さんのことは……{n}悲しい結果になってしまって……。{wait}{clear}		
+eiev15_02.0118	アイリーン……。{wait}{clear}お姉さんのことは……{n}悲しい結果になってしまって……。{wait}{clear}	Irene...{wait}{clear}I'm sorry things with your sister... ended{n}so sadly...{wait}{clear}	
 eiev15_02.0166	アイリーン	Irene	speaker
-eiev15_02.0174	うん……。{wait}{clear}ずっと、考えてた……{wait}{clear}お姉ちゃんとフェイン、おじいちゃんのこと……{n}あのときのこと……{wait}{clear}私……あの頃なにもできない無力な子供だった……{n}ただ、おびえて……{wait}{clear}フェインがいなくなったあとも、塔に一人でこもって{n}全部、忘れようと必死だった……{wait}{clear}ほんとはどうにかして、{n}自分で受け止めなくちゃいけなかった……{n}つらくたって、なんだって……{wait}{clear}でも……私は臆病だった……。{n}逃げてたんだ……{wait}{clear}……ねえ、＄＄＄＄＄＄。{n}私ができること……本当にこれだけだった？{wait}{clear}		
+eiev15_02.0174	うん……。{wait}{clear}ずっと、考えてた……{wait}{clear}お姉ちゃんとフェイン、おじいちゃんのこと……{n}あのときのこと……{wait}{clear}私……あの頃なにもできない無力な子供だった……{n}ただ、おびえて……{wait}{clear}フェインがいなくなったあとも、塔に一人でこもって{n}全部、忘れようと必死だった……{wait}{clear}ほんとはどうにかして、{n}自分で受け止めなくちゃいけなかった……{n}つらくたって、なんだって……{wait}{clear}でも……私は臆病だった……。{n}逃げてたんだ……{wait}{clear}……ねえ、＄＄＄＄＄＄。{n}私ができること……本当にこれだけだった？{wait}{clear}	Yeah...{wait}{clear}I've been thinking all this time...{wait}{clear}About Sis and Fein, and Grandpa... about{n}back then...{wait}{clear}Back then I was just a helpless kid who{n}couldn't do anything... I was only scared...{wait}{clear}Even after Fein left, I shut myself up in{n}the tower alone, desperate to forget{n}everything...{wait}{clear}I really should have found some way to face{n}it myself... no matter how much it hurt...{wait}{clear}But... I was a coward... I was running{n}away...{wait}{clear}...Hey, ＄＄＄＄＄＄. Was this really all I{n}could do?{wait}{clear}	
 eiev15_02.0350	ＮＵＬＬ	NULL	speaker
-eiev15_02.0360	《わからない……。》{n}		
+eiev15_02.0360	《わからない……。》{n}	I don't know...{n}	
 eiev15_02.037C	《ええ……。》{n}	Sure...{n}	
 eiev15_02.039C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.03AC	アイリーンが求めている答えは、わかりません……。{wait}{clear}ですが、誰のために{n}アイリーンが行動したかが大切なのですよ。{wait}{clear}相手のためだけを考えて行ったことは、{n}善なる行為です……。{wait}{clear}アイリーンはお姉さんとフェインのために、{n}できることすべてをやったと、私は思っています。{wait}{clear}		
+eiev15_02.03AC	アイリーンが求めている答えは、わかりません……。{wait}{clear}ですが、誰のために{n}アイリーンが行動したかが大切なのですよ。{wait}{clear}相手のためだけを考えて行ったことは、{n}善なる行為です……。{wait}{clear}アイリーンはお姉さんとフェインのために、{n}できることすべてをやったと、私は思っています。{wait}{clear}	I don't know the answer you're looking for,{n}Irene...{wait}{clear}But what matters is for whose sake you{n}acted.{wait}{clear}What we do thinking only of someone else is{n}a good deed...{wait}{clear}I believe you did everything you could for{n}your sister and Fein, Irene.{wait}{clear}	
 eiev15_02.04BA	アイリーン	Irene	speaker
-eiev15_02.04C8	＄＄＄＄＄＄……。{wait}{clear}		
+eiev15_02.04C8	＄＄＄＄＄＄……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
 eiev15_02.04DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.04EE	アイリーンのつらい気持ちはとてもわかります。{n}でも、過去は、どんなにつらくても、{n}乗り越えなくてはいけないことです。{wait}{clear}残った人々が、{n}未来を作っていかなくてはならないですから。{wait}{clear}		
+eiev15_02.04EE	アイリーンのつらい気持ちはとてもわかります。{n}でも、過去は、どんなにつらくても、{n}乗り越えなくてはいけないことです。{wait}{clear}残った人々が、{n}未来を作っていかなくてはならないですから。{wait}{clear}	I understand very well how painful this is{n}for you, Irene. But however painful the past{n}is, it's something we must overcome.{wait}{clear}Because those who remain must build the{n}future.{wait}{clear}	
 eiev15_02.05A4	アイリーン	Irene	speaker
-eiev15_02.05B2	……そうだね。{wait}{clear}……でも、心から、そう思えるようになるには{n}時間がかかるよ……。{wait}{clear}まだ……{wait}{clear}		
+eiev15_02.05B2	……そうだね。{wait}{clear}……でも、心から、そう思えるようになるには{n}時間がかかるよ……。{wait}{clear}まだ……{wait}{clear}	...Yeah.{wait}{clear}...But it'll take time before I can really{n}believe that from the heart...{wait}{clear}I still...{wait}{clear}	
 eiev15_02.061E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.062E	ええ……。{n}私は、アイリーンができることのすべてを{n}やったと思っています。{wait}{clear}アイリーン……{n}この結果はあなたの望んだものでないのは、{n}わかっています。{wait}{clear}ですが、あなたが自分のためではなく{n}お姉さんのために力を使ったのですから、{n}それは、善なる行いです……。{wait}{clear}		
+eiev15_02.062E	ええ……。{n}私は、アイリーンができることのすべてを{n}やったと思っています。{wait}{clear}アイリーン……{n}この結果はあなたの望んだものでないのは、{n}わかっています。{wait}{clear}ですが、あなたが自分のためではなく{n}お姉さんのために力を使ったのですから、{n}それは、善なる行いです……。{wait}{clear}	Yes... I believe you did everything you{n}could, Irene.{wait}{clear}Irene... I know this isn't the outcome you{n}wanted.{wait}{clear}But you used your power not for yourself but{n}for your sister, so it was a good deed...{wait}{clear}	
 eiev15_02.0736	アイリーン	Irene	speaker
-eiev15_02.0744	私がしたことが……いいこと……？{wait}{clear}		
+eiev15_02.0744	私がしたことが……いいこと……？{wait}{clear}	What I did... was good...?{wait}{clear}	
 eiev15_02.0768	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0778	そうです……。{n}あなたは自分の危険もかえりみないで、{n}お姉さんのことを考えていたではないですか。{wait}{clear}今は、とてもつらいのはわかります。{n}でも、きっと、この出来事を受け止めることが{n}できるようになると思います……。{wait}{clear}		
+eiev15_02.0778	そうです……。{n}あなたは自分の危険もかえりみないで、{n}お姉さんのことを考えていたではないですか。{wait}{clear}今は、とてもつらいのはわかります。{n}でも、きっと、この出来事を受け止めることが{n}できるようになると思います……。{wait}{clear}	Yes... You were thinking of your sister{n}without a care for your own safety, weren't{n}you?{wait}{clear}I know it's very painful right now. But I'm{n}sure you'll come to be able to accept what{n}happened...{wait}{clear}	
 eiev15_02.0850	アイリーン	Irene	speaker
-eiev15_02.085E	そうだね……{wait}{clear}ただ……まだ私……そんなに強くない……{n}一人で全部受け止めきれないよ……。{wait}{clear}		
+eiev15_02.085E	そうだね……{wait}{clear}ただ……まだ私……そんなに強くない……{n}一人で全部受け止めきれないよ……。{wait}{clear}	Yeah...{wait}{clear}It's just... I'm still... not that strong...{n}I can't handle it all on my own...{wait}{clear}	
 eiev15_02.08DE	アイリーン	Irene	speaker
-eiev15_02.08EC	……私……{n}なにも……二人にしてあげられなかった……{wait}{clear}		
+eiev15_02.08EC	……私……{n}なにも……二人にしてあげられなかった……{wait}{clear}	...I... couldn't do anything... for the two{n}of them...{wait}{clear}	
 eiev15_02.0924	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0934	アイリーン……。{wait}{clear}		
+eiev15_02.0934	アイリーン……。{wait}{clear}	Irene...{wait}{clear}	
 eiev15_02.0948	アイリーン	Irene	speaker
-eiev15_02.0956	塔で、一人になったときから……{n}私……逃げてた……{n}自分がなにもできないことから……{wait}{clear}……ねえ、＄＄＄＄＄＄。{n}私ができること……本当にあれだけだった？{wait}{clear}		
+eiev15_02.0956	塔で、一人になったときから……{n}私……逃げてた……{n}自分がなにもできないことから……{wait}{clear}……ねえ、＄＄＄＄＄＄。{n}私ができること……本当にあれだけだった？{wait}{clear}	Ever since I was left alone in the tower...{n}I... was running away... from not being able{n}to do anything...{wait}{clear}...Hey, ＄＄＄＄＄＄. Was that really all I{n}could do?{wait}{clear}	
 eiev15_02.09F4	ＮＵＬＬ	NULL	speaker
-eiev15_02.0A04	《わからない……。》{n}		
+eiev15_02.0A04	《わからない……。》{n}	I don't know...{n}	
 eiev15_02.0A20	《ええ……。》{n}	Sure...{n}	
-eiev15_02.0A40	それは……わかりません……。{wait}{clear}ですが、アイリーンはできる限りのことをしたと{n}私は思っています。{wait}{clear}お姉さんのためだけを{n}考えていたではないですか……。{wait}{clear}誰かのためになにかをすることは、{n}すべて善なる行為なのですから……。{wait}{clear}		
+eiev15_02.0A40	それは……わかりません……。{wait}{clear}ですが、アイリーンはできる限りのことをしたと{n}私は思っています。{wait}{clear}お姉さんのためだけを{n}考えていたではないですか……。{wait}{clear}誰かのためになにかをすることは、{n}すべて善なる行為なのですから……。{wait}{clear}	That... I don't know...{wait}{clear}But I believe you did everything you could,{n}Irene.{wait}{clear}You were thinking only of your sister,{n}weren't you...?{wait}{clear}Doing something for someone else's sake is{n}always a good deed...{wait}{clear}	
 eiev15_02.0B24	アイリーン	Irene	speaker
-eiev15_02.0B32	いいこと……？{wait}{clear}		
+eiev15_02.0B32	いいこと……？{wait}{clear}	A good deed...?{wait}{clear}	
 eiev15_02.0B44	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0B54	アイリーンのつらい気持ちはとてもわかります。{n}でも、過去はどんなにつらくても、{n}乗り越えなくてはいけないことです。{wait}{clear}残った人々が、{n}未来を作っていかなくてはならないですから。{wait}{clear}		
+eiev15_02.0B54	アイリーンのつらい気持ちはとてもわかります。{n}でも、過去はどんなにつらくても、{n}乗り越えなくてはいけないことです。{wait}{clear}残った人々が、{n}未来を作っていかなくてはならないですから。{wait}{clear}	I understand very well how painful this is{n}for you, Irene. But however painful the past{n}is, it's something we must overcome.{wait}{clear}Because those who remain must build the{n}future.{wait}{clear}	
 eiev15_02.0C08	アイリーン	Irene	speaker
-eiev15_02.0C16	……そうだね。{wait}{clear}……でも、心から、そう思えるようになるには{n}時間がかかるよ……。{wait}{clear}まだ……{wait}{clear}		
+eiev15_02.0C16	……そうだね。{wait}{clear}……でも、心から、そう思えるようになるには{n}時間がかかるよ……。{wait}{clear}まだ……{wait}{clear}	...Yeah.{wait}{clear}...But it'll take time before I can really{n}believe that from the heart...{wait}{clear}I still...{wait}{clear}	
 eiev15_02.0C82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0C92	ええ……。{n}私は、アイリーンができることすべてを{n}やったと思っています。{wait}{clear}アイリーン……{n}この結果はあなたの望んだものではないのは、{n}わかっています。{wait}{clear}ですが、あなたが自分のためではなく{n}お姉さんのためを思って必死だったはずです。{wait}{clear}		
+eiev15_02.0C92	ええ……。{n}私は、アイリーンができることすべてを{n}やったと思っています。{wait}{clear}アイリーン……{n}この結果はあなたの望んだものではないのは、{n}わかっています。{wait}{clear}ですが、あなたが自分のためではなく{n}お姉さんのためを思って必死だったはずです。{wait}{clear}	Yes... I believe you did everything you{n}could, Irene.{wait}{clear}Irene... I know this isn't the outcome you{n}wanted.{wait}{clear}But you were desperate, thinking not of{n}yourself but of your sister.{wait}{clear}	
 eiev15_02.0D80	アイリーン	Irene	speaker
-eiev15_02.0D8E	＄＄＄＄＄＄……。{wait}{clear}		
+eiev15_02.0D8E	＄＄＄＄＄＄……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
 eiev15_02.0DA4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0DB4	つらくても、この出来事を受け止めることが{n}大事なのではないですか？{wait}{clear}		
+eiev15_02.0DB4	つらくても、この出来事を受け止めることが{n}大事なのではないですか？{wait}{clear}	Even if it hurts, isn't accepting what{n}happened the important thing?{wait}{clear}	
 eiev15_02.0DFA	アイリーン	Irene	speaker
-eiev15_02.0E08	そうだね……{n}ただ……まだ私……そんなに強くない……{n}一人で全部受け止めきれないよ……。{wait}{clear}		
+eiev15_02.0E08	そうだね……{n}ただ……まだ私……そんなに強くない……{n}一人で全部受け止めきれないよ……。{wait}{clear}	Yeah... It's just... I'm still... not that{n}strong... I can't handle it all on my own...{wait}{clear}	
 eiev15_02.0E64	ＮＵＬＬ	NULL	speaker
-eiev15_02.0E74	《未来はこれから……》{n}		
-eiev15_02.0E92	《時は流れていきます……》{n}		
+eiev15_02.0E74	《未来はこれから……》{n}	The future lies ahead...{n}	
+eiev15_02.0E92	《時は流れていきます……》{n}	Time keeps flowing...{n}	
 eiev15_02.0EBE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0ECE	未来はこれからです……。{n}過去は変えることはできませんが未来は違います。{wait}{clear}一緒に進んでいきましょう……。{wait}{clear}		
+eiev15_02.0ECE	未来はこれからです……。{n}過去は変えることはできませんが未来は違います。{wait}{clear}一緒に進んでいきましょう……。{wait}{clear}	The future lies ahead... We can't change the{n}past, but the future is different.{wait}{clear}Let's move forward together...{wait}{clear}	
 eiev15_02.0F3C	アイリーン	Irene	speaker
-eiev15_02.0F4A	うん……わかった……がんばってみる……{n}ありがと……＄＄＄＄＄＄。{wait}{clear}		
+eiev15_02.0F4A	うん……わかった……がんばってみる……{n}ありがと……＄＄＄＄＄＄。{wait}{clear}	Yeah... okay... I'll try my best...{n}thanks... ＄＄＄＄＄＄.{wait}{clear}	
 eiev15_02.0FA0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev15_02.0FB0	時は流れていきます……。{n}いつか……すべてがわかる日が来るでしょう。{wait}{clear}		
+eiev15_02.0FB0	時は流れていきます……。{n}いつか……すべてがわかる日が来るでしょう。{wait}{clear}	Time keeps flowing... Someday... the day{n}will come when you understand everything.{wait}{clear}	
 eiev15_02.0FF8	アイリーン	Irene	speaker
-eiev15_02.1006	うん……そうなれたらいい……。{n}いつか……だけど……{wait}{clear}ありがとね……＄＄＄＄＄＄、本当に……{n}私……あなたがいてくれなかったら……{n}なにもできずにいたと思う。{wait}{clear}感謝してる……。{wait}{clear}		
+eiev15_02.1006	うん……そうなれたらいい……。{n}いつか……だけど……{wait}{clear}ありがとね……＄＄＄＄＄＄、本当に……{n}私……あなたがいてくれなかったら……{n}なにもできずにいたと思う。{wait}{clear}感謝してる……。{wait}{clear}	Yeah... I hope I can get there... Someday,{n}anyway...{wait}{clear}Thanks... ＄＄＄＄＄＄, really... If you{n}hadn't been here... I don't think I could{n}have done anything.{wait}{clear}I'm grateful...{wait}{clear}	

@@ -12,26 +12,26 @@ eiev13_03.05F4	アイリーン	Irene	speaker
 eiev13_03.060D	グランドマスター？		text
 eiev13_03.06C2	アイリーン	Irene	speaker
 eiev13_03.06DB	お久しぶりですグランドマスター、お元気でしたか？		text
-eiev13_03.071A	マスター		speaker
+eiev13_03.071A	マスター	Master	speaker
 eiev13_03.0731	ああ。{n}このレグランスへ渡った魔導士たちと{n}どうにかやっている。		text
 eiev13_03.0780	アイリーン、君に会いに来たのは他でもない。{n}君の姉、セレニスのことだ。		text
 eiev13_03.07D5	アイリーン	Irene	speaker
 eiev13_03.07EE	……姉のことですか……？		text
-eiev13_03.0815	マスター		speaker
+eiev13_03.0815	マスター	Master	speaker
 eiev13_03.082C	私はな……グランドロッジで助けられたあと{n}君の話した決意……あきらめないという言葉を{n}なんども思い出し、考えたのだ。		text
 eiev13_03.08AF	あの気持ちは変わっていないのだろう？		text
 eiev13_03.08E2	アイリーン	Irene	speaker
 eiev13_03.08FB	はい、変わっていません。		text
-eiev13_03.0922	マスター		speaker
+eiev13_03.0922	マスター	Master	speaker
 eiev13_03.0939	私はつらい現実であっても受け入れろとしか{n}言わなかった……{n}フェインにもだ……。		text
 eiev13_03.0998	だが、それはもしかすると違っているのではないか{n}と気づいたのだ……		text
 eiev13_03.09E9	事実を受け止めることは必要だ。{n}しかし、なにもしないでいることは、{n}間違っているのではないかとな……。		text
 eiev13_03.0A5E	不可能かもしれんが挑戦しなければ{n}本当は何もわからないのだ……。		text
 eiev13_03.0AAD	アイリーン	Irene	speaker
 eiev13_03.0AC6	グランドマスター……。		text
-eiev13_03.0AEB	マスター		speaker
+eiev13_03.0AEB	マスター	Master	speaker
 eiev13_03.0B02	セレニスを救えるのかは、誰にもわからない……。{n}ただ、あきらめずに進んでくれ。		text
 eiev13_03.0B6B	アイリーン	Irene	speaker
 eiev13_03.0B84	はい、ありがとうございます{n}グランドマスター……。		text
-eiev13_03.0BC5	マスター		speaker
+eiev13_03.0BC5	マスター	Master	speaker
 eiev13_03.0BDC	いいや、礼をいわねばならんのは私の方だ……。{n}世界を救おうとしてるのだからな、君は……。{n}未来を作ってくれ……アイリーン。		text

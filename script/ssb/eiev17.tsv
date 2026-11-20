@@ -1,40 +1,40 @@
 id	jp	en	notes
 eiev17.0056	アイリーン	Irene	speaker
-eiev17.0064	ねえ、買い物行かない？　買い物！{n}こんなきれいな街にきてなにもしないで帰るなんて{n}つまんないでしょ。{wait}{clear}ひとりで行くのもつまんないし、つき合ってよ。{wait}{clear}		
+eiev17.0064	ねえ、買い物行かない？　買い物！{n}こんなきれいな街にきてなにもしないで帰るなんて{n}つまんないでしょ。{wait}{clear}ひとりで行くのもつまんないし、つき合ってよ。{wait}{clear}	Hey, wanna go shopping? Shopping! It'd be{n}boring to come to such a pretty city and{n}leave without doing anything, right?{wait}{clear}Going alone is boring too, so come with me.{wait}{clear}	
 eiev17.00FC	ＮＵＬＬ	NULL	speaker
-eiev17.010C	《つき合えない》{n}		
-eiev17.0124	《つき合う》{n}		
+eiev17.010C	《つき合えない》{n}	I can't come{n}	
+eiev17.0124	《つき合う》{n}	I'll come{n}	
 eiev17.013C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev17.014C	すみません、もう行かなければなりません。{wait}{clear}		
+eiev17.014C	すみません、もう行かなければなりません。{wait}{clear}	I'm sorry, I have to go now.{wait}{clear}	
 eiev17.0190	アイリーン	Irene	speaker
-eiev17.019E	そっか……。{n}忙しいんだもんね。つき合わせちゃ悪いか。{n}じゃ、また今度ね。{wait}{clear}		
+eiev17.019E	そっか……。{n}忙しいんだもんね。つき合わせちゃ悪いか。{n}じゃ、また今度ね。{wait}{clear}	Oh... You're busy, huh. It'd be wrong to{n}drag you along. Next time, then.{wait}{clear}	
 eiev17.0202	アイリーン	Irene	speaker
-eiev17.0210	つまんない。{wait}{clear}		
-eiev17.022C	ま、いいや、{n}一人で行って来よっと。{wait}{clear}		
+eiev17.0210	つまんない。{wait}{clear}	Boring.{wait}{clear}	
+eiev17.022C	ま、いいや、{n}一人で行って来よっと。{wait}{clear}	Oh well, I'll just go by myself.{wait}{clear}	
 eiev17.0264	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev17.0274	ええ、いいですね。行きましょう{wait}{clear}		
+eiev17.0274	ええ、いいですね。行きましょう{wait}{clear}	Yes, that sounds nice. Let's go.{wait}{clear}	
 eiev17.02A2	アイリーン	Irene	speaker
-eiev17.02B0	じゃ、行こう！{wait}{clear}		
+eiev17.02B0	じゃ、行こう！{wait}{clear}	Okay, let's go!{wait}{clear}	
 eiev17.02E4	アイリーン	Irene	speaker
-eiev17.02F2	キレイな街だね。{n}歴史のある場所だから雰囲気が違うよ。{wait}{clear}ね、あっちの市場に行ってみない？{wait}{clear}		
+eiev17.02F2	キレイな街だね。{n}歴史のある場所だから雰囲気が違うよ。{wait}{clear}ね、あっちの市場に行ってみない？{wait}{clear}	What a pretty city. It's got a lot of{n}history, so the atmosphere's different.{wait}{clear}Hey, wanna check out the market over there?{wait}{clear}	
 eiev17.0374	アイリーン	Irene	speaker
-eiev17.0382	みてみて、いいカンジじゃない。{wait}{clear}これどう？　かわいくない？{n}買っちゃおうかな……。{n}ね、いいと思うでしょ。{wait}{clear}		
+eiev17.0382	みてみて、いいカンジじゃない。{wait}{clear}これどう？　かわいくない？{n}買っちゃおうかな……。{n}ね、いいと思うでしょ。{wait}{clear}	Look, look, isn't this nice?{wait}{clear}How about this? Isn't it cute? Maybe I'll{n}buy it... You think it's nice too, right?{wait}{clear}	
 eiev17.0414	アイリーン	Irene	speaker
-eiev17.0422	ふふ、楽しいね。{wait}{clear}女同士でこうやってさ。{n}どうでもいい話して、買い物して回って……{wait}{clear}		
+eiev17.0422	ふふ、楽しいね。{wait}{clear}女同士でこうやってさ。{n}どうでもいい話して、買い物して回って……{wait}{clear}	Hehe, this is fun.{wait}{clear}Just us girls, like this. Chatting about{n}nothing, going around shopping...{wait}{clear}	
 eiev17.047A	ＮＵＬＬ	NULL	speaker
-eiev17.048A	《楽しいですね》{n}		
-eiev17.04A2	《つとめが気になる》{n}		
+eiev17.048A	《楽しいですね》{n}	It is fun{n}	
+eiev17.04A2	《つとめが気になる》{n}	I'm worried about my duty{n}	
 eiev17.04C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev17.04D8	ええ、楽しいですね。{wait}{clear}		
+eiev17.04D8	ええ、楽しいですね。{wait}{clear}	Yes, it is fun.{wait}{clear}	
 eiev17.04FC	アイリーン	Irene	speaker
-eiev17.050A	こんな風に友達と街に来たことなかったから私……{wait}{clear}		
+eiev17.050A	こんな風に友達と街に来たことなかったから私……{wait}{clear}	I've never gone into town with a friend like{n}this before, so...{wait}{clear}	
 eiev17.053C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev17.054C	またどこかへ一緒に行きましょう。{wait}{clear}		
+eiev17.054C	またどこかへ一緒に行きましょう。{wait}{clear}	Let's go somewhere together again.{wait}{clear}	
 eiev17.057C	アイリーン	Irene	speaker
-eiev17.058A	そうだね、ありがと、＄＄＄＄＄＄。{wait}{clear}		
+eiev17.058A	そうだね、ありがと、＄＄＄＄＄＄。{wait}{clear}	Yeah, thanks, ＄＄＄＄＄＄.{wait}{clear}	
 eiev17.05BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev17.05CA	天使のとしてつとめがあるので……{wait}{clear}		
+eiev17.05CA	天使のとしてつとめがあるので……{wait}{clear}	I have my duty as an angel, so...{wait}{clear}	
 eiev17.060C	アイリーン	Irene	speaker
-eiev17.061A	そっか……{n}じゃ、つき合わせちゃって悪かったな。{n}また、今度ね。{wait}{clear}		
+eiev17.061A	そっか……{n}じゃ、つき合わせちゃって悪かったな。{n}また、今度ね。{wait}{clear}	Oh... then I'm sorry for dragging you along.{n}Next time, then.{wait}{clear}	
 eiev17.067A	アイリーン	Irene	speaker
-eiev17.0688	そ……。{n}じゃ、もう帰ろう。{n}ごめんね、つき合わせて。{wait}{clear}		
+eiev17.0688	そ……。{n}じゃ、もう帰ろう。{n}ごめんね、つき合わせて。{wait}{clear}	Oh... Let's head back, then. Sorry for{n}dragging you along.{wait}{clear}	

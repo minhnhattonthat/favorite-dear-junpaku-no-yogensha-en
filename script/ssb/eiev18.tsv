@@ -1,47 +1,47 @@
 id	jp	en	notes
 eiev18.0052	アイリーン	Irene	speaker
-eiev18.0060	外、雪でしょ。{wait}{clear}		
+eiev18.0060	外、雪でしょ。{wait}{clear}	It's snowing outside, right?{wait}{clear}	
 eiev18.0072	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0082	ええ、そうですね。{wait}{clear}		
+eiev18.0082	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 eiev18.00A4	アイリーン	Irene	speaker
-eiev18.00B2	へへ……ね、雪合戦しよっか。{wait}{clear}		
+eiev18.00B2	へへ……ね、雪合戦しよっか。{wait}{clear}	Hehe... Hey, wanna have a snowball fight?{wait}{clear}	
 eiev18.00D2	ＮＵＬＬ	NULL	speaker
-eiev18.00E2	《子供っぽいですね》{n}		
-eiev18.00FE	《雪合戦？》{n}		
+eiev18.00E2	《子供っぽいですね》{n}	How childish{n}	
+eiev18.00FE	《雪合戦？》{n}	A snowball fight?{n}	
 eiev18.011C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.012C	子供っぽいですね、なんだか。{wait}{clear}		
+eiev18.012C	子供っぽいですね、なんだか。{wait}{clear}	That's a bit childish, isn't it?{wait}{clear}	
 eiev18.0158	アイリーン	Irene	speaker
-eiev18.0166	ふーん、いいの。{n}やりたいんだから。{wait}{clear}		
-eiev18.019A	ね、やるの？　やらないの？{wait}{clear}		
+eiev18.0166	ふーん、いいの。{n}やりたいんだから。{wait}{clear}	Hmph, I don't care. I want to do it.{wait}{clear}	
+eiev18.019A	ね、やるの？　やらないの？{wait}{clear}	So, are you in or not?{wait}{clear}	
 eiev18.01B8	ＮＵＬＬ	NULL	speaker
-eiev18.01C8	《やる》{n}		
-eiev18.01D8	《やらない》{n}		
+eiev18.01C8	《やる》{n}	I'm in{n}	
+eiev18.01D8	《やらない》{n}	I'll pass{n}	
 eiev18.01F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0206	やりましょう。{wait}{clear}		
+eiev18.0206	やりましょう。{wait}{clear}	Let's do it.{wait}{clear}	
 eiev18.0224	アイリーン	Irene	speaker
-eiev18.0232	じゃ、外に出よっ！{n}ウェスタ、行こっ。{wait}{clear}		
+eiev18.0232	じゃ、外に出よっ！{n}ウェスタ、行こっ。{wait}{clear}	Okay, let's go outside! Come on, Vesta.{wait}{clear}	
 eiev18.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0270	やめておきます。{wait}{clear}		
+eiev18.0270	やめておきます。{wait}{clear}	I'll pass.{wait}{clear}	
 eiev18.0290	アイリーン	Irene	speaker
-eiev18.029E	なんでよ、つまんない。{wait}{clear}あーあ。{n}じゃ、ウェスタ、私たちだけで行こ。{wait}{clear}		
+eiev18.029E	なんでよ、つまんない。{wait}{clear}あーあ。{n}じゃ、ウェスタ、私たちだけで行こ。{wait}{clear}	Why not? You're no fun.{wait}{clear}Ahh, fine. Vesta, let's go by ourselves.{wait}{clear}	
 eiev18.0304	アイリーン	Irene	speaker
-eiev18.0312	知らないの？{n}雪をぶつけるのよ。{n}まるめて、手に持って、どかって。{wait}{clear}		
+eiev18.0312	知らないの？{n}雪をぶつけるのよ。{n}まるめて、手に持って、どかって。{wait}{clear}	You don't know? You throw snow at each{n}other. You pack it into a ball, hold it, and{n}WHAM.{wait}{clear}	
 eiev18.0358	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0368	どかっ、ですか？{wait}{clear}		
+eiev18.0368	どかっ、ですか？{wait}{clear}	Wham?{wait}{clear}	
 eiev18.037C	アイリーン	Irene	speaker
-eiev18.038A	そ。{wait}{clear}		
+eiev18.038A	そ。{wait}{clear}	Yep.{wait}{clear}	
 eiev18.0392	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.03A2	…………。{wait}{clear}	.........{wait}{clear}	
 eiev18.03B0	アイリーン	Irene	speaker
-eiev18.03BE	なに、ボサっとしてんの？　行こっ！{wait}{clear}		
+eiev18.03BE	なに、ボサっとしてんの？　行こっ！{wait}{clear}	What are you spacing out for? Let's go!{wait}{clear}	
 eiev18.0418	アイリーン	Irene	speaker
-eiev18.0426	それっ！{wait}{clear}		
+eiev18.0426	それっ！{wait}{clear}	Take that!{wait}{clear}	
 eiev18.0432	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0442	やりましたね！{wait}{clear}		
+eiev18.0442	やりましたね！{wait}{clear}	You got me!{wait}{clear}	
 eiev18.0454	アイリーン	Irene	speaker
-eiev18.0462	あっとととと、ヘタァ！！{wait}{clear}えいっ！{wait}{clear}		
+eiev18.0462	あっとととと、ヘタァ！！{wait}{clear}えいっ！{wait}{clear}	Whoa whoa whoa, you're terrible!!{wait}{clear}Hyah!{wait}{clear}	
 eiev18.048A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.049A	あっ…………！{wait}{clear}		
+eiev18.049A	あっ…………！{wait}{clear}	Ah.........!{wait}{clear}	
 eiev18.04AC	アイリーン	Irene	speaker
 eiev18.04BA	はははは、真っ白ね。{n}よく似合ってるよ、＄＄＄＄＄＄。{wait}{clear}		
 eiev18.050C	アイリーン	Irene	speaker

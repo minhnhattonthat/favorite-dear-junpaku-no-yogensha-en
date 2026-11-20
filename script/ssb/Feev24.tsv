@@ -30,7 +30,7 @@ Feev24.04A0	頼む……出ていってくれ……{n}もう……話すこと�
 Feev24.04E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.04F4	……わかりました。{wait}{clear}		
 Feev24.0512	フェイン	Fein	speaker
-Feev24.051E	＄＄＄＄＄＄……。{wait}{clear}		
+Feev24.051E	＄＄＄＄＄＄……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
 Feev24.0534	ＮＵＬＬ	NULL	speaker
 Feev24.0544	《立ち止まる。》{n}		
 Feev24.055C	《立ち止まらない。》{n}		

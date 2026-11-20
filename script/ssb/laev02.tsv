@@ -15,7 +15,7 @@ laev02.0294	そうね……。{n}ありがとう、＄＄＄＄＄＄。{wait}{c
 laev02.02CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev02.02DA	今はレイラ自身が混乱しているのだと思いますが、{n}そのうち、慣れてきます。{wait}{clear}帝国騎士としては気づかなかったことも、{n}なにかわかるかもしれませんし……。{n}きっと帝国へもすぐに戻ることができますよ。{wait}{clear}		
 laev02.03A0	レイラ	Leyla	speaker
-laev02.03AA	そうね……。{wait}{clear}		
+laev02.03AA	そうね……。{wait}{clear}	Yeah...{wait}{clear}	
 laev02.03BA	レイラ	Leyla	speaker
 laev02.03C4	そろそろ、今日泊まる宿屋を探しましょうか。{wait}{clear}		
 laev02.03F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

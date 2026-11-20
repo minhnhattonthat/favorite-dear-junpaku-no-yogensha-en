@@ -2,7 +2,7 @@ id	jp	en	notes
 loev17.004C	ルディエール	Rudiere	speaker
 loev17.005C	＄＄＄＄＄＄、いるのか？{wait}{clear}今、平気か？{n}いや、時間がなかったらいいんだけどさ……。{wait}{clear}		
 loev17.00B4	ＮＵＬＬ	NULL	speaker
-loev17.00C4	《ええ……》{n}		
+loev17.00C4	《ええ……》{n}	Yes...{n}	
 loev17.00D8	《今は……》{n}	Not now...{n}	
 loev17.00F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev17.0106	ええ、いいですよ……。{wait}{clear}		

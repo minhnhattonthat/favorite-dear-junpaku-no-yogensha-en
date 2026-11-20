@@ -1,59 +1,59 @@
 id	jp	en	notes
 eiev16.0032	アイリーン	Irene	speaker
-eiev16.0044	驚いた？{wait}{clear}		
+eiev16.0044	驚いた？{wait}{clear}	Surprised?{wait}{clear}	
 eiev16.0050	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev16.0060	……ええ。どうしたのですか？{wait}{clear}		
+eiev16.0060	……ええ。どうしたのですか？{wait}{clear}	...Yes. What happened?{wait}{clear}	
 eiev16.0080	アイリーン	Irene	speaker
-eiev16.0092	魔法が解けたみたい……{wait}{clear}		
-eiev16.00B0	なんでだろうね……。{wait}{clear}		
-eiev16.00CC	ねえ……＄＄＄＄＄＄。{n}私、お姉ちゃんに似てる？{wait}{clear}		
+eiev16.0092	魔法が解けたみたい……{wait}{clear}	Looks like the spell broke...{wait}{clear}	
+eiev16.00B0	なんでだろうね……。{wait}{clear}	I wonder why...{wait}{clear}	
+eiev16.00CC	ねえ……＄＄＄＄＄＄。{n}私、お姉ちゃんに似てる？{wait}{clear}	Hey... ＄＄＄＄＄＄. Do I look like my{n}sister?{wait}{clear}	
 eiev16.0100	ＮＵＬＬ	NULL	speaker
-eiev16.0110	《ええ……》{n}		
-eiev16.0124	《いいえ……》{n}		
+eiev16.0110	《ええ……》{n}	Yes...{n}	
+eiev16.0124	《いいえ……》{n}	No...{n}	
 eiev16.0144	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev16.0154	ええ、面影を……感じます。{wait}{clear}		
+eiev16.0154	ええ、面影を……感じます。{wait}{clear}	Yes, I can... see her in you.{wait}{clear}	
 eiev16.0172	アイリーン	Irene	speaker
-eiev16.0184	そうね……。{wait}{clear}		
-eiev16.0198	私も鏡見て、思った……。{wait}{clear}		
-eiev16.01B8	やっぱりお姉ちゃんに似てるなって。{wait}{clear}		
+eiev16.0184	そうね……。{wait}{clear}	Yeah...{wait}{clear}	
+eiev16.0198	私も鏡見て、思った……。{wait}{clear}	I thought so too when I looked in the{n}mirror...{wait}{clear}	
+eiev16.01B8	やっぱりお姉ちゃんに似てるなって。{wait}{clear}	That I really do look like Sis.{wait}{clear}	
 eiev16.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev16.01F8	いいえ……{n}アイリーンはアイリーンですよ。{wait}{clear}		
+eiev16.01F8	いいえ……{n}アイリーンはアイリーンですよ。{wait}{clear}	No... Irene is Irene.{wait}{clear}	
 eiev16.0226	アイリーン	Irene	speaker
-eiev16.0238	……そう？{wait}{clear}		
-eiev16.024A	私は鏡見て思ったんだ……。{wait}{clear}		
-eiev16.026C	やっぱりお姉ちゃんに似てるなって……。{wait}{clear}		
+eiev16.0238	……そう？{wait}{clear}	...You think so?{wait}{clear}	
+eiev16.024A	私は鏡見て思ったんだ……。{wait}{clear}	When I looked in the mirror, I thought...{wait}{clear}	
+eiev16.026C	やっぱりお姉ちゃんに似てるなって……。{wait}{clear}	that I really do look like Sis...{wait}{clear}	
 eiev16.0296	アイリーン	Irene	speaker
-eiev16.02A8	ねえ……＄＄＄＄＄＄。{wait}{clear}		
-eiev16.02C6	今まで、いろいろありがとう。{wait}{clear}		
-eiev16.02EA	私、ずっとわがままばかり言ってたでしょう……{wait}{clear}		
-eiev16.031E	すこし……反省してるんだ。{wait}{clear}		
-eiev16.0340	私ね、この魔法が解けたの{n}あなたのおかげって思ってるよ……。{wait}{clear}		
-eiev16.0384	なぜかはわからないけどそう思うの……。{wait}{clear}		
-eiev16.03B2	……ねえ……{wait}{clear}		
-eiev16.03C6	あなたはこの世界が、もし平和になったら……{wait}{clear}		
-eiev16.03F8	天界へ帰ってしまうの？{wait}{clear}		
+eiev16.02A8	ねえ……＄＄＄＄＄＄。{wait}{clear}	Hey... ＄＄＄＄＄＄.{wait}{clear}	
+eiev16.02C6	今まで、いろいろありがとう。{wait}{clear}	Thanks for everything so far.{wait}{clear}	
+eiev16.02EA	私、ずっとわがままばかり言ってたでしょう……{wait}{clear}	I've been so selfish this whole time,{n}haven't I...{wait}{clear}	
+eiev16.031E	すこし……反省してるんだ。{wait}{clear}	I'm... kinda sorry about that.{wait}{clear}	
+eiev16.0340	私ね、この魔法が解けたの{n}あなたのおかげって思ってるよ……。{wait}{clear}	You know, I think this spell broke thanks to{n}you...{wait}{clear}	
+eiev16.0384	なぜかはわからないけどそう思うの……。{wait}{clear}	I don't know why, but that's what I think...{wait}{clear}	
+eiev16.03B2	……ねえ……{wait}{clear}	...Hey...{wait}{clear}	
+eiev16.03C6	あなたはこの世界が、もし平和になったら……{wait}{clear}	If this world ever becomes peaceful...{wait}{clear}	
+eiev16.03F8	天界へ帰ってしまうの？{wait}{clear}	will you go back to the Heavens?{wait}{clear}	
 eiev16.0412	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev16.0422	はい……{wait}{clear}それが天使としてのつとめです。{wait}{clear}		
+eiev16.0422	はい……{wait}{clear}それが天使としてのつとめです。{wait}{clear}	Yes...{wait}{clear}That is my duty as an angel.{wait}{clear}	
 eiev16.0450	アイリーン	Irene	speaker
-eiev16.0462	そうなんだ……。{wait}{clear}		
+eiev16.0462	そうなんだ……。{wait}{clear}	I see...{wait}{clear}	
 eiev16.047A	…………。{wait}{clear}	.........{wait}{clear}	
-eiev16.048C	絶対に残れないの？{wait}{clear}		
+eiev16.048C	絶対に残れないの？{wait}{clear}	There's no way you can stay?{wait}{clear}	
 eiev16.04A2	ＮＵＬＬ	NULL	speaker
-eiev16.04B2	《はい……。》{n}		
-eiev16.04C8	《いいえ……。》{n}		
+eiev16.04B2	《はい……。》{n}	No...{n}	
+eiev16.04C8	《いいえ……。》{n}	There is...{n}	
 eiev16.04E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.04F4	はい……。{wait}{clear}	Yes...{wait}{clear}	
 eiev16.0502	アイリーン	Irene	speaker
-eiev16.0514	そっか……。{wait}{clear}		
-eiev16.0528	私……{n}もうわがままは反省したんだもんね。{wait}{clear}		
-eiev16.055A	これ以上……あなたを困らせたら{n}いけないよね……。{wait}{clear}		
-eiev16.0594	ね、天界に帰っても、私のこと、{n}たまには思い出してね……。{wait}{clear}		
-eiev16.05D6	私も、あなたのこと忘れないから……。{wait}{clear}		
-eiev16.060E	いいえ……{n}私は……この地上に残りたいと思っています。{wait}{clear}たとえつとめを破ることとなろうとも……。{wait}{clear}あなたのために……。{wait}{clear}		
+eiev16.0514	そっか……。{wait}{clear}	I see...{wait}{clear}	
+eiev16.0528	私……{n}もうわがままは反省したんだもんね。{wait}{clear}	I... already said I was sorry for being{n}selfish, didn't I.{wait}{clear}	
+eiev16.055A	これ以上……あなたを困らせたら{n}いけないよね……。{wait}{clear}	I shouldn't... make things any harder for{n}you...{wait}{clear}	
+eiev16.0594	ね、天界に帰っても、私のこと、{n}たまには思い出してね……。{wait}{clear}	Hey, even after you go back to the Heavens,{n}think of me once in a while, okay...?{wait}{clear}	
+eiev16.05D6	私も、あなたのこと忘れないから……。{wait}{clear}	I won't forget you either...{wait}{clear}	
+eiev16.060E	いいえ……{n}私は……この地上に残りたいと思っています。{wait}{clear}たとえつとめを破ることとなろうとも……。{wait}{clear}あなたのために……。{wait}{clear}	No... I want to stay here on the surface.{wait}{clear}Even if it means breaking my duty...{wait}{clear}For you...{wait}{clear}	
 eiev16.068C	アイリーン	Irene	speaker
-eiev16.069E	本当……！？{wait}{clear}		
-eiev16.06D8	ありがとう……＄＄＄＄＄＄。{wait}{clear}		
+eiev16.069E	本当……！？{wait}{clear}	Really...?!{wait}{clear}	
+eiev16.06D8	ありがとう……＄＄＄＄＄＄。{wait}{clear}	Thank you... ＄＄＄＄＄＄.{wait}{clear}	
 eiev16.06FE	アイリーン	Irene	speaker
 eiev16.070C	…………。{wait}{clear}	.........{wait}{clear}	
-eiev16.071E	でも約束は……絶対だからね……{wait}{clear}		
-eiev16.0744	破ったりしないでね……。{wait}{clear}		
+eiev16.071E	でも約束は……絶対だからね……{wait}{clear}	But a promise is... a promise, okay...?{wait}{clear}	
+eiev16.0744	破ったりしないでね……。{wait}{clear}	Don't you dare break it...{wait}{clear}	

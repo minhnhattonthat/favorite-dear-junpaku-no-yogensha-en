@@ -1,11 +1,11 @@
 id	jp	en	notes
 eiev10.00B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev10.00C4	大丈夫ですか、アイリーン！{n}帝国の新手が来るかもしれません。{wait}{clear}早くここから離れて、{n}傷の手当てをしなければ……！{wait}{clear}		
+eiev10.00C4	大丈夫ですか、アイリーン！{n}帝国の新手が来るかもしれません。{wait}{clear}早くここから離れて、{n}傷の手当てをしなければ……！{wait}{clear}	Are you all right, Irene? More imperial{n}troops may come.{wait}{clear}We need to get away from here quickly and{n}treat your wounds...!{wait}{clear}	
 eiev10.013A	アイリーン	Irene	speaker
-eiev10.0148	うん……。{n}でも、そんなことより……{wait}{clear}		
+eiev10.0148	うん……。{n}でも、そんなことより……{wait}{clear}	Yeah... But never mind that...{wait}{clear}	
 eiev10.0170	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev10.0180	え？{wait}{clear}	What?{wait}{clear}	
 eiev10.0188	アイリーン	Irene	speaker
-eiev10.0196	姉さん……どうして……帝国に……。{n}それにあんなひどいことを……。{wait}{clear}		
+eiev10.0196	姉さん……どうして……帝国に……。{n}それにあんなひどいことを……。{wait}{clear}	Sis... why... with the Empire...? And doing{n}something so horrible...{wait}{clear}	
 eiev10.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev10.01EC	アイリーン……。{wait}{clear}		
+eiev10.01EC	アイリーン……。{wait}{clear}	Irene...{wait}{clear}	

@@ -1,0 +1,128 @@
+id	en
+eiev13_02.24F4	.........{wait}{clear}Yeah... okay... Maybe I can tell a little of it to you, since you're an angel...{wait}{clear}See, Fein is my brother-in-law. He married my sister Serenis...{wait}{clear}You've probably guessed by now, ＄＄＄＄＄＄, but Grandpa was a great sorcerer...{wait}{clear}While Grandpa was traveling the world continuing his research into sorcery, Fein became his apprentice.{wait}{clear}And when Grandpa stopped traveling, Fein came to the island too, and from then on he lived with us.{wait}{clear}We grew up... and Sis and Fein fell for each other and got married...{wait}{clear}But...{wait}{clear}.........{wait}{clear}Sorry, I can't say any more... I'll tell you another time...{wait}{clear}
+eiev13_02.2792	...＄＄＄＄＄＄, can you leave me alone for now?{wait}{clear}
+eiev13_02.27D4	Yes, of course...{wait}{clear}
+eiev13_02.27FE	Sorry...{wait}{clear}
+eiev13_02.2816	/Event/End
+eiev14.006E	Ah, Lord Satan... I have waited... for the day I would meet you...{wait}{clear}
+eiev14.00C4	So this is... the legendary Heavenly Dragon...{wait}{clear}
+eiev14.00F0	Yes! This is the Heavenly Dragon, the incarnation of Lord Satan's soul!{wait}{clear}
+eiev14.0170	Stop... I don't want to hear those words anymore...{wait}{clear}
+eiev14.01B2	...Heh heh, you're right. There's no need for you to hear them anymore.{wait}{clear}
+eiev14.01E8	Now, come.{wait}{clear}
+eiev14.0200	I'll kill you and offer your soul to the Heavenly Dragon.{wait}{clear}
+eiev14.02D0	Irene... are you all right?{wait}{clear}
+eiev14.030C	Yeah...{wait}{clear}But... Sis's...{wait}{clear}
+eiev14.0346	It's dangerous if someone from the Empire comes. Let's get away from here for now.{wait}{clear}
+eiev14.0396	...Okay...{wait}{clear}
+eiev15_01.0062	.........{wait}{clear}Sis... from now on... you can sleep peacefully...{wait}{clear}You don't have to... suffer anymore...{wait}{clear}Did you get to see Grandpa in heaven...? And Mom and Dad...?{wait}{clear}I'll come again... Sis...{wait}{clear}
+eiev15_01.01A4	Sis and Fein... I wonder if they found each other in heaven...{wait}{clear}
+eiev15_02.0074	You there? ＄＄＄＄＄＄.{wait}{clear}
+eiev15_02.00BA	...I forgot to thank you... Thank you, ＄＄＄＄＄＄...{wait}{clear}.........{wait}{clear}
+eiev15_02.0118	Irene...{wait}{clear}I'm sorry things with your sister... ended so sadly...{wait}{clear}
+eiev15_02.0174	Yeah...{wait}{clear}I've been thinking all this time...{wait}{clear}About Sis and Fein, and Grandpa... about back then...{wait}{clear}Back then I was just a helpless kid who couldn't do anything... I was only scared...{wait}{clear}Even after Fein left, I shut myself up in the tower alone, desperate to forget everything...{wait}{clear}I really should have found some way to face it myself... no matter how much it hurt...{wait}{clear}But... I was a coward... I was running away...{wait}{clear}...Hey, ＄＄＄＄＄＄. Was this really all I could do?{wait}{clear}
+eiev15_02.0360	I don't know...{n}
+eiev15_02.03AC	I don't know the answer you're looking for, Irene...{wait}{clear}But what matters is for whose sake you acted.{wait}{clear}What we do thinking only of someone else is a good deed...{wait}{clear}I believe you did everything you could for your sister and Fein, Irene.{wait}{clear}
+eiev15_02.04C8	＄＄＄＄＄＄...{wait}{clear}
+eiev15_02.04EE	I understand very well how painful this is for you, Irene. But however painful the past is, it's something we must overcome.{wait}{clear}Because those who remain must build the future.{wait}{clear}
+eiev15_02.05B2	...Yeah.{wait}{clear}...But it'll take time before I can really believe that from the heart...{wait}{clear}I still...{wait}{clear}
+eiev15_02.062E	Yes... I believe you did everything you could, Irene.{wait}{clear}Irene... I know this isn't the outcome you wanted.{wait}{clear}But you used your power not for yourself but for your sister, so it was a good deed...{wait}{clear}
+eiev15_02.0744	What I did... was good...?{wait}{clear}
+eiev15_02.0778	Yes... You were thinking of your sister without a care for your own safety, weren't you?{wait}{clear}I know it's very painful right now. But I'm sure you'll come to be able to accept what happened...{wait}{clear}
+eiev15_02.085E	Yeah...{wait}{clear}It's just... I'm still... not that strong... I can't handle it all on my own...{wait}{clear}
+eiev15_02.08EC	...I... couldn't do anything... for the two of them...{wait}{clear}
+eiev15_02.0956	Ever since I was left alone in the tower... I... was running away... from not being able to do anything...{wait}{clear}...Hey, ＄＄＄＄＄＄. Was that really all I could do?{wait}{clear}
+eiev15_02.0A40	That... I don't know...{wait}{clear}But I believe you did everything you could, Irene.{wait}{clear}You were thinking only of your sister, weren't you...?{wait}{clear}Doing something for someone else's sake is always a good deed...{wait}{clear}
+eiev15_02.0B32	A good deed...?{wait}{clear}
+eiev15_02.0B54	I understand very well how painful this is for you, Irene. But however painful the past is, it's something we must overcome.{wait}{clear}Because those who remain must build the future.{wait}{clear}
+eiev15_02.0C92	Yes... I believe you did everything you could, Irene.{wait}{clear}Irene... I know this isn't the outcome you wanted.{wait}{clear}But you were desperate, thinking not of yourself but of your sister.{wait}{clear}
+eiev15_02.0DB4	Even if it hurts, isn't accepting what happened the important thing?{wait}{clear}
+eiev15_02.0E08	Yeah... It's just... I'm still... not that strong... I can't handle it all on my own...{wait}{clear}
+eiev15_02.0E74	The future lies ahead...{n}
+eiev15_02.0E92	Time keeps flowing...{n}
+eiev15_02.0ECE	The future lies ahead... We can't change the past, but the future is different.{wait}{clear}Let's move forward together...{wait}{clear}
+eiev15_02.0F4A	Yeah... okay... I'll try my best... thanks... ＄＄＄＄＄＄.{wait}{clear}
+eiev15_02.0FB0	Time keeps flowing... Someday... the day will come when you understand everything.{wait}{clear}
+eiev15_02.1006	Yeah... I hope I can get there... Someday, anyway...{wait}{clear}Thanks... ＄＄＄＄＄＄, really... If you hadn't been here... I don't think I could have done anything.{wait}{clear}I'm grateful...{wait}{clear}
+eiev16.0044	Surprised?{wait}{clear}
+eiev16.0060	...Yes. What happened?{wait}{clear}
+eiev16.0092	Looks like the spell broke...{wait}{clear}
+eiev16.00B0	I wonder why...{wait}{clear}
+eiev16.00CC	Hey... ＄＄＄＄＄＄. Do I look like my sister?{wait}{clear}
+eiev16.0110	Yes...{n}
+eiev16.0124	No...{n}
+eiev16.0154	Yes, I can... see her in you.{wait}{clear}
+eiev16.0184	Yeah...{wait}{clear}
+eiev16.0198	I thought so too when I looked in the mirror...{wait}{clear}
+eiev16.01B8	That I really do look like Sis.{wait}{clear}
+eiev16.01F8	No... Irene is Irene.{wait}{clear}
+eiev16.0238	...You think so?{wait}{clear}
+eiev16.024A	When I looked in the mirror, I thought...{wait}{clear}
+eiev16.026C	that I really do look like Sis...{wait}{clear}
+eiev16.02A8	Hey... ＄＄＄＄＄＄.{wait}{clear}
+eiev16.02C6	Thanks for everything so far.{wait}{clear}
+eiev16.02EA	I've been so selfish this whole time, haven't I...{wait}{clear}
+eiev16.031E	I'm... kinda sorry about that.{wait}{clear}
+eiev16.0340	You know, I think this spell broke thanks to you...{wait}{clear}
+eiev16.0384	I don't know why, but that's what I think...{wait}{clear}
+eiev16.03B2	...Hey...{wait}{clear}
+eiev16.03C6	If this world ever becomes peaceful...{wait}{clear}
+eiev16.03F8	will you go back to the Heavens?{wait}{clear}
+eiev16.0422	Yes...{wait}{clear}That is my duty as an angel.{wait}{clear}
+eiev16.0462	I see...{wait}{clear}
+eiev16.048C	There's no way you can stay?{wait}{clear}
+eiev16.04B2	No...{n}
+eiev16.04C8	There is...{n}
+eiev16.0514	I see...{wait}{clear}
+eiev16.0528	I... already said I was sorry for being selfish, didn't I.{wait}{clear}
+eiev16.055A	I shouldn't... make things any harder for you...{wait}{clear}
+eiev16.0594	Hey, even after you go back to the Heavens, think of me once in a while, okay...?{wait}{clear}
+eiev16.05D6	I won't forget you either...{wait}{clear}
+eiev16.060E	No... I want to stay here on the surface.{wait}{clear}Even if it means breaking my duty...{wait}{clear}For you...{wait}{clear}
+eiev16.069E	Really...?!{wait}{clear}
+eiev16.06D8	Thank you... ＄＄＄＄＄＄.{wait}{clear}
+eiev16.071E	But a promise is... a promise, okay...?{wait}{clear}
+eiev16.0744	Don't you dare break it...{wait}{clear}
+eiev17.0064	Hey, wanna go shopping? Shopping! It'd be boring to come to such a pretty city and leave without doing anything, right?{wait}{clear}Going alone is boring too, so come with me.{wait}{clear}
+eiev17.010C	I can't come{n}
+eiev17.0124	I'll come{n}
+eiev17.014C	I'm sorry, I have to go now.{wait}{clear}
+eiev17.019E	Oh... You're busy, huh. It'd be wrong to drag you along. Next time, then.{wait}{clear}
+eiev17.0210	Boring.{wait}{clear}
+eiev17.022C	Oh well, I'll just go by myself.{wait}{clear}
+eiev17.0274	Yes, that sounds nice. Let's go.{wait}{clear}
+eiev17.02B0	Okay, let's go!{wait}{clear}
+eiev17.02F2	What a pretty city. It's got a lot of history, so the atmosphere's different.{wait}{clear}Hey, wanna check out the market over there?{wait}{clear}
+eiev17.0382	Look, look, isn't this nice?{wait}{clear}How about this? Isn't it cute? Maybe I'll buy it... You think it's nice too, right?{wait}{clear}
+eiev17.0422	Hehe, this is fun.{wait}{clear}Just us girls, like this. Chatting about nothing, going around shopping...{wait}{clear}
+eiev17.048A	It is fun{n}
+eiev17.04A2	I'm worried about my duty{n}
+eiev17.04D8	Yes, it is fun.{wait}{clear}
+eiev17.050A	I've never gone into town with a friend like this before, so...{wait}{clear}
+eiev17.054C	Let's go somewhere together again.{wait}{clear}
+eiev17.058A	Yeah, thanks, ＄＄＄＄＄＄.{wait}{clear}
+eiev17.05CA	I have my duty as an angel, so...{wait}{clear}
+eiev17.061A	Oh... then I'm sorry for dragging you along. Next time, then.{wait}{clear}
+eiev17.0688	Oh... Let's head back, then. Sorry for dragging you along.{wait}{clear}
+eiev18.0060	It's snowing outside, right?{wait}{clear}
+eiev18.0082	Yes, it is.{wait}{clear}
+eiev18.00B2	Hehe... Hey, wanna have a snowball fight?{wait}{clear}
+eiev18.00E2	How childish{n}
+eiev18.00FE	A snowball fight?{n}
+eiev18.012C	That's a bit childish, isn't it?{wait}{clear}
+eiev18.0166	Hmph, I don't care. I want to do it.{wait}{clear}
+eiev18.019A	So, are you in or not?{wait}{clear}
+eiev18.01C8	I'm in{n}
+eiev18.01D8	I'll pass{n}
+eiev18.0206	Let's do it.{wait}{clear}
+eiev18.0232	Okay, let's go outside! Come on, Vesta.{wait}{clear}
+eiev18.0270	I'll pass.{wait}{clear}
+eiev18.029E	Why not? You're no fun.{wait}{clear}Ahh, fine. Vesta, let's go by ourselves.{wait}{clear}
+eiev18.0312	You don't know? You throw snow at each other. You pack it into a ball, hold it, and WHAM.{wait}{clear}
+eiev18.0368	Wham?{wait}{clear}
+eiev18.038A	Yep.{wait}{clear}
+eiev18.03BE	What are you spacing out for? Let's go!{wait}{clear}
+eiev18.0426	Take that!{wait}{clear}
+eiev18.0442	You got me!{wait}{clear}
+eiev18.0462	Whoa whoa whoa, you're terrible!!{wait}{clear}Hyah!{wait}{clear}
+eiev18.049A	Ah.........!{wait}{clear}

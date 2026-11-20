@@ -21,7 +21,7 @@ men2_Ei02.02D6	え！？{n}な、なんですか、この分厚い本は……�
 men2_Ei02.0312	アイリーン	Irene	speaker
 men2_Ei02.0320	あ、これ？{n}これに調べたいことが書いてあるの。{n}さ、とっとと手伝ってね。{wait}{clear}		
 men2_Ei02.036C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei02.037C	は、はい……。{wait}{clear}		
+men2_Ei02.037C	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	
 men2_Ei02.0392	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.03A2	大丈夫ですよ。{n}アイリーンのお手伝いなら、よろこんで！{wait}{clear}		
 men2_Ei02.03E8	アイリーン	Irene	speaker

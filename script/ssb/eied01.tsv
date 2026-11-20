@@ -1,17 +1,17 @@
 id	jp	en	notes
-eied01.0012	告白エンディング		speaker
+eied01.0012	告白エンディング	Confession	speaker
 eied01.005E	アイリーン	Irene	speaker
-eied01.006C	＄＄＄＄＄＄……{wait}{clear}		
-eied01.0084	戻ってこれないのなら……{n}なんであんな約束をしたの……？{wait}{clear}		
-eied01.00C4	ばか……{wait}{clear}		
+eied01.006C	＄＄＄＄＄＄……{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
+eied01.0084	戻ってこれないのなら……{n}なんであんな約束をしたの……？{wait}{clear}	If you couldn't come back... then why did{n}you make me that promise...?{wait}{clear}	
+eied01.00C4	ばか……{wait}{clear}	Idiot...{wait}{clear}	
 eied01.00D0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eied01.00E0	アイリーン……。{wait}{clear}		
+eied01.00E0	アイリーン……。{wait}{clear}	Irene...{wait}{clear}	
 eied01.00FA	アイリーン	Irene	speaker
-eied01.010C	えっ！{wait}{clear}		
+eied01.010C	えっ！{wait}{clear}	Huh?!{wait}{clear}	
 eied01.013E	アイリーン	Irene	speaker
-eied01.0150	遅いじゃない……{n}私……{wait}{clear}		
+eied01.0150	遅いじゃない……{n}私……{wait}{clear}	You're late, you know... I...{wait}{clear}	
 eied01.016C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eied01.017C	心配をかけました……{wait}{clear}でももう、ずっとここにいます……{wait}{clear}		
+eied01.017C	心配をかけました……{wait}{clear}でももう、ずっとここにいます……{wait}{clear}	I'm sorry I made you worry...{wait}{clear}But now I'll stay here. Forever...{wait}{clear}	
 eied01.01B8	アイリーン	Irene	speaker
-eied01.01CA	うん……{n}ずっと……一緒だからね……{wait}{clear}		
-eied01.01F6	もう……一人にしないで……{wait}{clear}		
+eied01.01CA	うん……{n}ずっと……一緒だからね……{wait}{clear}	Yeah... We'll be together... forever,{n}okay...?{wait}{clear}	
+eied01.01F6	もう……一人にしないで……{wait}{clear}	Don't... ever leave me alone again...{wait}{clear}	

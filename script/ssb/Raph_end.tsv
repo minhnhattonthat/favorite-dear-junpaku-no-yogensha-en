@@ -30,7 +30,7 @@ Raph_end.07A2	あの、すみません、ラファエル様、{n}その件につ
 Raph_end.07E2	ラファエル	Raphael	speaker
 Raph_end.07F0	なんですか？　＄＄＄＄＄＄。{wait}{clear}		
 Raph_end.0810	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0820	あの……。{wait}{clear}		
+Raph_end.0820	あの……。{wait}{clear}	Um...{wait}{clear}	
 Raph_end.082E	ＮＵＬＬ	NULL	speaker
 Raph_end.083E	《地上に降りたい。》{n}		
 Raph_end.085A	《いえ……。》{n}		

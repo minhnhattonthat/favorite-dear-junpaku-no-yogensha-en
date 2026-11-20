@@ -10,7 +10,7 @@ laev13.012E	え？{n}ええ、なれますけど……。{wait}{clear}
 laev13.0150	レイラ	Leyla	speaker
 laev13.015A	じゃあ、さっそく人間の姿になって、行きましょう。{wait}{clear}		
 laev13.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.019E	は、はい……。{wait}{clear}		
+laev13.019E	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	
 laev13.01DC	レイラ	Leyla	speaker
 laev13.01E6	ふう……。{n}なんだか、ひさしぶりにホッとしたわ。{wait}{clear}		
 laev13.021A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -35,11 +35,11 @@ laev13.05A8	そう……。{n}あなたの考えが聞けて、うれしいわ�
 laev13.05FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev13.060E	ええ、かまいませんけど、{n}なにを話していいのか……。{n}レイラの聞きたいことはなにかありますか？{wait}{clear}		
 laev13.0670	レイラ	Leyla	speaker
-laev13.067A	そうね……。{wait}{clear}		
+laev13.067A	そうね……。{wait}{clear}	Yeah...{wait}{clear}	
 laev13.06A6	レイラ	Leyla	speaker
 laev13.06B0	なんだか、話し込んでしまったわね。{n}ずいぶんゆっくりしてしまったわ……。{wait}{clear}そろそろ宿へ戻りましょうか？　＄＄＄＄＄＄？{wait}{clear}		
 laev13.072C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.073C	ええ、そうですね。{wait}{clear}		
+laev13.073C	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 laev13.076E	レイラ	Leyla	speaker
 laev13.0778	ふう、少し飲み過ぎたみたい……。{n}ベランダで涼んでくるわ。{wait}{clear}		
 laev13.07C2	レイラ	Leyla	speaker
@@ -57,6 +57,6 @@ laev13.08EC	ふふふ……そうかもしれないわね……。{wait}{clear}
 laev13.0914	レイラ	Leyla	speaker
 laev13.091E	あなたが飛んでいるときに見ている街って{n}こんな感じなの？{wait}{clear}		
 laev13.095A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.096A	ええ、そうですね。{wait}{clear}		
+laev13.096A	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 laev13.0980	レイラ	Leyla	speaker
 laev13.098A	飛べるって、すばらしいでしょうね……。{wait}{clear}ねえ、＄＄＄＄＄＄……{n}私、あなたに出会えたこと、本当に感謝してる。{wait}{clear}ありがとう……。{wait}{clear}		

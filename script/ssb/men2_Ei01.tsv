@@ -18,7 +18,7 @@ men2_Ei01.0278	アイリーン	Irene	speaker
 men2_Ei01.0286	もう、＄＄＄＄＄＄ったら！{wait}{clear}		
 men2_Ei01.02B0	でも、せっかく来てくれたんだから、{n}お話、しようか……。{wait}{clear}		
 men2_Ei01.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Ei01.02FC	ええ、そうですね。{wait}{clear}		
+men2_Ei01.02FC	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 men2_Ei01.0316	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0326	そうだったのですね。{n}なにかあったのかと思って、{n}ひとりで勝手に慌ててしまったみたいです。{wait}{clear}		
 men2_Ei01.0390	アイリーン	Irene	speaker

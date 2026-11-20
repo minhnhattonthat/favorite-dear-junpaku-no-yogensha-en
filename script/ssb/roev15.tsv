@@ -6,7 +6,7 @@ roev15.008C	ロクス	Rocus	speaker
 roev15.009A	一緒に出かけないか？{wait}{clear}		
 roev15.00B6	なにもしない……、なんていう{n}約束を僕はできないけど、{n}つき合ってくれたら嬉しい。{wait}{clear}		
 roev15.010C	ＮＵＬＬ	NULL	speaker
-roev15.011C	《ええ……》{n}		
+roev15.011C	《ええ……》{n}	Yes...{n}	
 roev15.0130	《今は忙しいので……》{n}		
 roev15.0154	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.0164	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	

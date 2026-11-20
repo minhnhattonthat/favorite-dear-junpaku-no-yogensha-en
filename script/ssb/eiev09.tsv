@@ -1,25 +1,25 @@
 id	jp	en	notes
 eiev09.0058	アイリーン	Irene	speaker
-eiev09.0066	この森って……{wait}{clear}		
+eiev09.0066	この森って……{wait}{clear}	This forest...{wait}{clear}	
 eiev09.0088	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev09.0098	ここは聖母の森と呼ばれる場所のようです。{wait}{clear}		
+eiev09.0098	ここは聖母の森と呼ばれる場所のようです。{wait}{clear}	This place seems to be called the Forest of{n}the Holy Mother.{wait}{clear}	
 eiev09.00D0	アイリーン	Irene	speaker
-eiev09.00DE	知ってる……。{n}森を守る聖母の伝説があるところね。{n}おじいちゃんが残した本にあったわ……。{wait}{clear}		
-eiev09.0148	誰！？{wait}{clear}		
+eiev09.00DE	知ってる……。{n}森を守る聖母の伝説があるところね。{n}おじいちゃんが残した本にあったわ……。{wait}{clear}	I know... It's where the legend of the Holy{n}Mother who protects the forest comes from.{n}It was in a book Grandpa left...{wait}{clear}	
+eiev09.0148	誰！？{wait}{clear}	Who's there?!{wait}{clear}	
 eiev09.0188	アイリーン	Irene	speaker
-eiev09.0196	おじいちゃんが言っていた通り……{n}魔石はここにあったのね。{wait}{clear}		
+eiev09.0196	おじいちゃんが言っていた通り……{n}魔石はここにあったのね。{wait}{clear}	Just like Grandpa said... the Demon Stone{n}was here.{wait}{clear}	
 eiev09.01F0	ＮＵＬＬ	NULL	speaker
-eiev09.0200	《聖母？》{n}		
-eiev09.0212	《魔石？》{n}		
+eiev09.0200	《聖母？》{n}	The Holy Mother?{n}	
+eiev09.0212	《魔石？》{n}	The Demon Stone?{n}	
 eiev09.0228	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev09.0238	聖母様とは、いったい……。{wait}{clear}		
+eiev09.0238	聖母様とは、いったい……。{wait}{clear}	Who exactly is the Holy Mother...?{wait}{clear}	
 eiev09.0256	アイリーン	Irene	speaker
-eiev09.0264	この森にすむ人たちに伝わっている伝説に{n}古代の紅月王の戦争から森を守った勇者のことよ。{n}その勇者を聖母と呼んでいるみたい。{wait}{clear}その伝説には、今でも生きていて{n}森を守り続けているとあるんだけど……{n}本当にいたなんてね……。{wait}{clear}		
+eiev09.0264	この森にすむ人たちに伝わっている伝説に{n}古代の紅月王の戦争から森を守った勇者のことよ。{n}その勇者を聖母と呼んでいるみたい。{wait}{clear}その伝説には、今でも生きていて{n}森を守り続けているとあるんだけど……{n}本当にいたなんてね……。{wait}{clear}	In the legend the people of this forest{n}tell, she's the hero who protected the{n}forest in the ancient war of the Crimson{wait}{clear}Moon King. They seem to call that hero the{n}Holy Mother.{wait}{clear}The legend says she's still alive and{n}protecting the forest even now... but to{n}think she really exists...{wait}{clear}	
 eiev09.0354	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev09.0364	魔石とはなんですか？{wait}{clear}		
+eiev09.0364	魔石とはなんですか？{wait}{clear}	What is the Demon Stone?{wait}{clear}	
 eiev09.0388	アイリーン	Irene	speaker
-eiev09.0396	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石と伝説では語られてる……。{wait}{clear}今では割られてどこかに隠されたと伝わっているわ。{wait}{clear}		
-eiev09.043A	そのかけらの一つだといわれた石は{n}ギルドにあるんだけど{n}他のはわからなかったの……。{wait}{clear}		
-eiev09.049E	でも、ここにあるなんて……{n}伝説は本当だったんだ……。{wait}{clear}		
+eiev09.0396	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石と伝説では語られてる……。{wait}{clear}今では割られてどこかに隠されたと伝わっているわ。{wait}{clear}	The Demon Stone of Delphinia, also called{n}the Heavenly Dragon's Egg, is a stone that{n}gives off a terrifying power, or so the{wait}{clear}legends say...{wait}{clear}The story goes that it was split apart and{n}hidden somewhere.{wait}{clear}	
+eiev09.043A	そのかけらの一つだといわれた石は{n}ギルドにあるんだけど{n}他のはわからなかったの……。{wait}{clear}	The Guild has a stone that's said to be one{n}of the pieces, but nobody knew about the{n}others...{wait}{clear}	
+eiev09.049E	でも、ここにあるなんて……{n}伝説は本当だったんだ……。{wait}{clear}	But for it to be here... the legend was{n}true...{wait}{clear}	
 eiev09.04E8	アイリーン	Irene	speaker
-eiev09.04F6	おじいちゃんは聖母の伝説が本当ならば、{n}魔石はこの森にあるって言ってたの……{wait}{clear}伝説は本当だったんだ……。{wait}{clear}		
+eiev09.04F6	おじいちゃんは聖母の伝説が本当ならば、{n}魔石はこの森にあるって言ってたの……{wait}{clear}伝説は本当だったんだ……。{wait}{clear}	Grandpa said that if the legend of the Holy{n}Mother was true, the Demon Stone would be in{n}this forest...{wait}{clear}The legend was true...{wait}{clear}	

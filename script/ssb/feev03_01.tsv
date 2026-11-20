@@ -7,7 +7,7 @@ feev03_01.00E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.00F6	ええ、もちろんです。{wait}{clear}		
 feev03_01.010E	フェイン	Fein	speaker
 feev03_01.011A	じゃあ、行こうか。{n}グランドマスターに会いに……。{wait}{clear}		
-feev03_01.0178	マスター		speaker
+feev03_01.0178	マスター	Master	speaker
 feev03_01.0184	帰ってきたか……。{n}待っていたぞ、フェイン。{wait}{clear}		
 feev03_01.01B4	フェイン	Fein	speaker
 feev03_01.01C0	グランドマスター・ライノール{n}お元気そうで何よりです。{wait}{clear}		

@@ -2,7 +2,7 @@ id	jp	en	notes
 ceev16c.00A2	セシア	Cecia	unit name (32-byte field)
 ceev16c.00DE	イオン	Ion	unit name (32-byte field)
 ceev16c.011A	セレニス	Serenis	unit name (32-byte field)
-ceev16c.0156	母親		unit name (32-byte field)
+ceev16c.0156	母親	Mother	unit name (32-byte field)
 ceev16c.04A8	セシア	Cecia	speaker
 ceev16c.04BD	さあ、あなたのお母さんを{n}静かに眠らせてあげましょう……。		text
 ceev16c.0516	イオン	Ion	speaker

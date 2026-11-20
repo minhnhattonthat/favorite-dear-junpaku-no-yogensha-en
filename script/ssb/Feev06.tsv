@@ -3,8 +3,8 @@ Feev06.0056	フェイン	Fein	speaker
 Feev06.0066	＄＄＄＄＄＄、ちょっといいか？{wait}{clear}		
 Feev06.008C	寄りたいところがあるんだが、かまわないか？{wait}{clear}		
 Feev06.00BA	ＮＵＬＬ	NULL	speaker
-Feev06.00CA	《ええ……》{n}		
-Feev06.00DE	《いいえ……》{n}		
+Feev06.00CA	《ええ……》{n}	Yes...{n}	
+Feev06.00DE	《いいえ……》{n}	No...{n}	
 Feev06.00FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev06.010A	いいえ、{n}なにか事件があるかもしれません……。{n}また、今度にしてもらえないでしょうか？{wait}{clear}		
 Feev06.0166	フェイン	Fein	speaker

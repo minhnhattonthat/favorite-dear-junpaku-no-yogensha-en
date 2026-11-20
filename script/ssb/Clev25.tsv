@@ -1,6 +1,6 @@
 id	jp	en	notes
 Clev25.0092	ラファエル	Raphael	speaker
-Clev25.00A4	勇者クライヴ、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
+Clev25.00A4	勇者クライヴ、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}	Hero Clive, Angel ＄＄＄＄＄＄, you have{n}done well.{wait}{clear}	
 Clev25.00DA	ミカエル	Michael	speaker
 Clev25.00EA	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
 Clev25.010A	ラファエル	Raphael	speaker
@@ -8,52 +8,52 @@ Clev25.011C	私たちは天界で待っています。{n}勇者に別れをつ�
 Clev25.0156	ミカエル	Michael	speaker
 Clev25.0166	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
 Clev25.01C2	クライヴ	Clive	speaker
-Clev25.01D2	行くのか？{wait}{clear}		
+Clev25.01D2	行くのか？{wait}{clear}	You're leaving?{wait}{clear}	
 Clev25.01E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Clev25.01F0	はい。{wait}{clear}	Yes.{wait}{clear}	
 Clev25.01FA	クライヴ	Clive	speaker
-Clev25.020A	お前には感謝している……{wait}{clear}		
-Clev25.022A	こんな俺でも、{n}ずっと支えてくれた……{wait}{clear}		
+Clev25.020A	お前には感謝している……{wait}{clear}	I'm grateful to you...{wait}{clear}	
+Clev25.022A	こんな俺でも、{n}ずっと支えてくれた……{wait}{clear}	Even someone like me... you stood by me the{n}whole way...{wait}{clear}	
 Clev25.0254	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.0264	いえ、私こそ……{wait}{clear}		
+Clev25.0264	いえ、私こそ……{wait}{clear}	No, I'm the one who should be grateful...{wait}{clear}	
 Clev25.0278	クライヴ	Clive	speaker
-Clev25.0288	もしもまた地上に降りてくることがあれば{n}いつでも来てくれ。{wait}{clear}		
+Clev25.0288	もしもまた地上に降りてくることがあれば{n}いつでも来てくれ。{wait}{clear}	If you ever come down to the surface again,{n}come see me. Anytime.{wait}{clear}	
 Clev25.02C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Clev25.02D6	はい。{wait}{clear}	Yes.{wait}{clear}	
 Clev25.02E0	クライヴ	Clive	speaker
-Clev25.02F0	また会おう。＄＄＄＄＄＄。{wait}{clear}		
+Clev25.02F0	また会おう。＄＄＄＄＄＄。{wait}{clear}	Until we meet again, ＄＄＄＄＄＄.{wait}{clear}	
 Clev25.030E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.031E	ええ。{n}さよなら、クライヴ！{n}お元気で！{wait}{clear}		
+Clev25.031E	ええ。{n}さよなら、クライヴ！{n}お元気で！{wait}{clear}	Yes. Goodbye, Clive! Take care!{wait}{clear}	
 Clev25.0372	クライヴ	Clive	speaker
-Clev25.0382	行くのか……{wait}{clear}		
+Clev25.0382	行くのか……{wait}{clear}	You're leaving...{wait}{clear}	
 Clev25.0392	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.03A2	はい、でも……{n}あなたの元へ必ず戻ります。{wait}{clear}		
+Clev25.03A2	はい、でも……{n}あなたの元へ必ず戻ります。{wait}{clear}	Yes, but... I'll come back to you. I{n}promise.{wait}{clear}	
 Clev25.03D0	クライヴ	Clive	speaker
-Clev25.03E0	もしも……もしも{n}残れなくなっても……{n}これが最後ではないな……{wait}{clear}		
+Clev25.03E0	もしも……もしも{n}残れなくなっても……{n}これが最後ではないな……{wait}{clear}	Even if... even if you can't stay... this{n}isn't the end, is it...?{wait}{clear}	
 Clev25.0424	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.0434	はい……{wait}{clear}		
+Clev25.0434	はい……{wait}{clear}	No...{wait}{clear}	
 Clev25.0440	クライヴ	Clive	speaker
-Clev25.0450	……待っている。{n}君を……。{wait}{clear}		
+Clev25.0450	……待っている。{n}君を……。{wait}{clear}	...I'll be waiting. For you...{wait}{clear}	
 Clev25.0498	クライヴ	Clive	speaker
-Clev25.04A8	行くのか？{wait}{clear}		
+Clev25.04A8	行くのか？{wait}{clear}	You're leaving?{wait}{clear}	
 Clev25.04B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Clev25.04C6	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Clev25.04D4	クライヴ	Clive	speaker
-Clev25.04E4	何か……君には{n}たくさん言わなければならないことが{n}ある気がするのに……{wait}{clear}		
-Clev25.0534	今は言葉がでない……。{wait}{clear}		
-Clev25.0552	これで{n}……もう二度と会えないのか？{wait}{clear}		
+Clev25.04E4	何か……君には{n}たくさん言わなければならないことが{n}ある気がするのに……{wait}{clear}	Somehow... I feel there's so much I need to{n}tell you...{wait}{clear}	
+Clev25.0534	今は言葉がでない……。{wait}{clear}	But the words won't come now...{wait}{clear}	
+Clev25.0552	これで{n}……もう二度と会えないのか？{wait}{clear}	Is this... the last time we'll ever meet?{wait}{clear}	
 Clev25.057A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.058A	……わかりません……ごめんなさい。{wait}{clear}		
+Clev25.058A	……わかりません……ごめんなさい。{wait}{clear}	...I don't know... I'm sorry.{wait}{clear}	
 Clev25.05B0	クライヴ	Clive	speaker
 Clev25.05C0	そうか……{wait}{clear}	I see...{wait}{clear}	
-Clev25.05D2	もう一度……会えたとき……{wait}{clear}		
-Clev25.05F4	今、いえない言葉を……{n}君に言おう……{wait}{clear}		
+Clev25.05D2	もう一度……会えたとき……{wait}{clear}	When we meet again... someday...{wait}{clear}	
+Clev25.05F4	今、いえない言葉を……{n}君に言おう……{wait}{clear}	The words I can't say now... I'll say them{n}to you then...{wait}{clear}	
 Clev25.061E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Clev25.062E	…………。{wait}{clear}	.........{wait}{clear}	
 Clev25.063C	クライヴ	Clive	speaker
-Clev25.064C	さよなら、＄＄＄＄＄＄。{wait}{clear}		
+Clev25.064C	さよなら、＄＄＄＄＄＄。{wait}{clear}	Goodbye, ＄＄＄＄＄＄.{wait}{clear}	
 Clev25.0668	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Clev25.0678	さよなら、クライヴ……。{wait}{clear}		
+Clev25.0678	さよなら、クライヴ……。{wait}{clear}	Goodbye, Clive...{wait}{clear}	
 Clev25.06B0	ベルゼバブ	Beelzebub	speaker
 Clev25.06C2	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
 Clev25.06F4	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

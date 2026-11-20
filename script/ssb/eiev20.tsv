@@ -28,22 +28,22 @@ eiev20.056C	アイリーン、聞かせてください。{n}お姉さんのこ�
 eiev20.05B2	アイリーン	Irene	speaker
 eiev20.05C0	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}あの日……{wait}{clear}		
 eiev20.0610	アイリーン	Irene	speaker
-eiev20.0622	フェインと結婚式をあげたその日の夜……{wait}{clear}		
-eiev20.0650	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}		
-eiev20.0684	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}		
-eiev20.06E8	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}		
-eiev20.0742	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}		
-eiev20.0786	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}		
+eiev20.0622	フェインと結婚式をあげたその日の夜……{wait}{clear}	the night of the day she married Fein...{wait}{clear}	
+eiev20.0650	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}	the illness Sis had suffered from for so{n}long suddenly got worse...{wait}{clear}	
+eiev20.0684	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}	When Fein noticed in the morning... she...{n}wasn't breathing anymore...{wait}{clear}	
+eiev20.06E8	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}	Fein panicked... and used a forbidden secret{n}art, the power of the demon world, to bring{n}Sis back to life...{wait}{clear}	
+eiev20.0742	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}	A dangerous magic we'd always been taught{n}never to use...{wait}{clear}	
+eiev20.0786	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}	But thanks to Fein's magic, Sis started{n}breathing again as if nothing had{n}happened...{wait}{clear}	
 eiev20.07EC	アイリーン	Irene	speaker
-eiev20.07FE	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}		
-eiev20.0862	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}		
-eiev20.089E	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}		
-eiev20.090C	でも……姉さんは、おじいちゃんに傷をおわせて{n}どこかに消えてしまった……。{wait}{clear}		
-eiev20.096C	おじいちゃんはその傷がもとで亡くなって……{wait}{clear}		
-eiev20.099E	フェインはいなくなったセレニス姉さんを探して{n}大陸にわたったの……{wait}{clear}		
-eiev20.09E8	私は塔に残って……ずっと魔法の勉強を続けた……{wait}{clear}		
-eiev20.0A1E	なにがおこったのか……知るために……{wait}{clear}		
-eiev20.0A4A	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}		
+eiev20.07FE	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}	For a while we lived like nothing had{n}changed... but little by little she started{n}acting strange...{wait}{clear}	
+eiev20.0862	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}	Grandpa noticed and confronted Fein...{wait}{clear}	
+eiev20.089E	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}	When Grandpa learned the truth, he said{n}something terrible would happen soon, and{n}went to undo the spell on her...{wait}{clear}	
+eiev20.090C	でも……姉さんは、おじいちゃんに傷をおわせて{n}どこかに消えてしまった……。{wait}{clear}	But... Sis wounded Grandpa and vanished{n}somewhere...{wait}{clear}	
+eiev20.096C	おじいちゃんはその傷がもとで亡くなって……{wait}{clear}	Grandpa died from that wound...{wait}{clear}	
+eiev20.099E	フェインはいなくなったセレニス姉さんを探して{n}大陸にわたったの……{wait}{clear}	Fein crossed over to the continent to search{n}for Serenis after she disappeared...{wait}{clear}	
+eiev20.09E8	私は塔に残って……ずっと魔法の勉強を続けた……{wait}{clear}	I stayed at the tower... and kept studying{n}magic all this time...{wait}{clear}	
+eiev20.0A1E	なにがおこったのか……知るために……{wait}{clear}	to find out... what had happened...{wait}{clear}	
+eiev20.0A4A	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}	Fein always told me in his letters that he'd{n}find Sis no matter what.{wait}{clear}	
 eiev20.0A9C	アイリーン	Irene	speaker
 eiev20.0AAA	フェインは罪を一身で背負ってる……{wait}{clear}一人で全部……{n}だから……{wait}{clear}		
 eiev20.0AF8	なぜ……フェインがそこまで……？{wait}{clear}		

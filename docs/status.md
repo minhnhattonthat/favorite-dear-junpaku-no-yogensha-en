@@ -10,8 +10,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   line to N letters for clip tests. Non-text rows excluded: debug printfs, memory-card titles, printf `%s`.
 - **Phase 6 progress (2026-11-21):** `tools/batches.py` split the script into 92 batches (b001-b092, ~3500 JP chars
   each; one row per distinct JP, merge copies it to every duplicate; order ssb, msg, evx, end, misc, ovl, exe).
-  Done: **b001-b008** (alkaya fairy intros for Rosa, Florinda, Shelly, Lily, Lynx, Aquila, Cetus, Lepus; Cecia's
-  ceed01/ceev01-24; Clive's cled01/clev01-20_01, ends at Raphael's "from whom were humans born" talk).
+  Done: **b001-b013** (alkaya fairy intros for Rosa, Florinda, Shelly, Lily, Lynx, Aquila, Cetus, Lepus; Cecia's
+  ceed01/ceev01-24; Clive's cled01/clev01-25; Irene's eied01/eiev01-18, b013 ends mid snowball fight eiev18.049A).
+  2026-11-21 (2nd worker): b009-b013 merged, build + check.py green, `warp.py --event eiev12.ssb --event
+  eiev13_02.ssb` both OK with English (`work/qa/warp/ev_eiev1*`). Glossary gained Vesta (Irene's owl), Alkmaar,
+  Grosain, Six Kingdoms, Master (tag), and batch rulings (chapter labels, gendered variants, five-＄ rows).
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -26,7 +29,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b009 (`batches.py todo`; clev20_01 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b014 (`batches.py todo`; eiev18 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

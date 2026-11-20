@@ -1,43 +1,43 @@
 id	jp	en	notes
 eiev07.0054	アイリーン	Irene	speaker
-eiev07.0066	ねえ、＄＄＄＄＄＄。{n}ちょっといい……？{wait}{clear}		
-eiev07.0096	聞きたいことがあるの……。{wait}{clear}		
-eiev07.00B8	正直に答えて。{wait}{clear}		
-eiev07.00CE	セレニス姉さんは帝国にいるの？{wait}{clear}		
-eiev07.00F4	帝国を魔導士の力で操って世界の混乱を、{n}引き起こしているの？{wait}{clear}		
+eiev07.0066	ねえ、＄＄＄＄＄＄。{n}ちょっといい……？{wait}{clear}	Hey, ＄＄＄＄＄＄. Got a minute...?{wait}{clear}	
+eiev07.0096	聞きたいことがあるの……。{wait}{clear}	There's something I want to ask you...{wait}{clear}	
+eiev07.00B8	正直に答えて。{wait}{clear}	Answer me honestly.{wait}{clear}	
+eiev07.00CE	セレニス姉さんは帝国にいるの？{wait}{clear}	Is my sister Serenis with the Empire?{wait}{clear}	
+eiev07.00F4	帝国を魔導士の力で操って世界の混乱を、{n}引き起こしているの？{wait}{clear}	Is she using a sorcerer's power to control{n}the Empire and throw the world into chaos?{wait}{clear}	
 eiev07.0134	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev07.0144	…………。{wait}{clear}	.........{wait}{clear}	
 eiev07.0152	アイリーン	Irene	speaker
-eiev07.0164	答えて……お願い。{wait}{clear}		
+eiev07.0164	答えて……お願い。{wait}{clear}	Answer me... please.{wait}{clear}	
 eiev07.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev07.01D2	セレニスという女性が{n}帝国にいるのは、事実です……。{wait}{clear}ただ、その人がアイリーンのお姉さんなのかは{n}わかりません……。{wait}{clear}		
+eiev07.01D2	セレニスという女性が{n}帝国にいるのは、事実です……。{wait}{clear}ただ、その人がアイリーンのお姉さんなのかは{n}わかりません……。{wait}{clear}	It is true that a woman named Serenis is{n}with the Empire...{wait}{clear}But I don't know whether she is your sister,{n}Irene...{wait}{clear}	
 eiev07.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev07.0260	はい……あなたのお姉さんは今、帝国にいます。{wait}{clear}		
+eiev07.0260	はい……あなたのお姉さんは今、帝国にいます。{wait}{clear}	Yes... Your sister is with the Empire now.{wait}{clear}	
 eiev07.0290	アイリーン	Irene	speaker
-eiev07.02A2	……本当なのね。{wait}{clear}		
+eiev07.02A2	……本当なのね。{wait}{clear}	...So it's true.{wait}{clear}	
 eiev07.02C4	アイリーン	Irene	speaker
-eiev07.02D6	姉さん……どうして……。{wait}{clear}		
-eiev07.0304	……私、姉さんを止めなきゃ……。{wait}{clear}		
-eiev07.032C	もし、姉さんが現れそうな時は私に教えて。{wait}{clear}		
-eiev07.035C	お願い。{wait}{clear}		
+eiev07.02D6	姉さん……どうして……。{wait}{clear}	Sis... why...?{wait}{clear}	
+eiev07.0304	……私、姉さんを止めなきゃ……。{wait}{clear}	...I have to stop her...{wait}{clear}	
+eiev07.032C	もし、姉さんが現れそうな時は私に教えて。{wait}{clear}	If it looks like she's going to show up,{n}tell me.{wait}{clear}	
+eiev07.035C	お願い。{wait}{clear}	Please.{wait}{clear}	
 eiev07.0368	ＮＵＬＬ	NULL	speaker
-eiev07.0378	《はい。》{n}		
-eiev07.038A	《必ずとは……。》{n}		
+eiev07.0378	《はい。》{n}	Yes.{n}	
+eiev07.038A	《必ずとは……。》{n}	I can't promise...{n}	
 eiev07.03AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev07.03BE	はい……。{wait}{clear}	Yes...{wait}{clear}	
 eiev07.03CC	アイリーン	Irene	speaker
-eiev07.03DE	約束よ……。{wait}{clear}		
+eiev07.03DE	約束よ……。{wait}{clear}	It's a promise...{wait}{clear}	
 eiev07.03FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev07.040E	必ずそうできるかは約束できません……。{wait}{clear}		
+eiev07.040E	必ずそうできるかは約束できません……。{wait}{clear}	I can't promise that I'll always be able{n}to...{wait}{clear}	
 eiev07.0446	アイリーン	Irene	speaker
-eiev07.0458	なんでよ……私の姉さんなのよ！{wait}{clear}		
-eiev07.047E	会わせて……必ず……。{wait}{clear}		
+eiev07.0458	なんでよ……私の姉さんなのよ！{wait}{clear}	Why not...? She's my sister!{wait}{clear}	
+eiev07.047E	会わせて……必ず……。{wait}{clear}	Let me see her... no matter what...{wait}{clear}	
 eiev07.04A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev07.04B2	いえ……セレニスという女性が本当に帝国にいるのか{n}私にはわかりません。{wait}{clear}		
+eiev07.04B2	いえ……セレニスという女性が本当に帝国にいるのか{n}私にはわかりません。{wait}{clear}	No... I don't know whether a woman named{n}Serenis is really with the Empire.{wait}{clear}	
 eiev07.050A	アイリーン	Irene	speaker
-eiev07.051C	本当ね……？{n}ウソを言っていないわよね……？{wait}{clear}		
+eiev07.051C	本当ね……？{n}ウソを言っていないわよね……？{wait}{clear}	Really...? You're not lying to me, are{n}you...?{wait}{clear}	
 eiev07.054C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev07.055C	本当に知らないのです。{n}アイリーン。{wait}{clear}		
+eiev07.055C	本当に知らないのです。{n}アイリーン。{wait}{clear}	I truly don't know, Irene.{wait}{clear}	
 eiev07.0592	アイリーン	Irene	speaker
-eiev07.05A4	じゃあ、もし……{n}もしも姉さんを見つけたら、私に教えて……！{wait}{clear}		
-eiev07.05E8	約束よ……。{wait}{clear}		
+eiev07.05A4	じゃあ、もし……{n}もしも姉さんを見つけたら、私に教えて……！{wait}{clear}	Then if... if you ever find my sister, tell{n}me...!{wait}{clear}	
+eiev07.05E8	約束よ……。{wait}{clear}	It's a promise...{wait}{clear}	

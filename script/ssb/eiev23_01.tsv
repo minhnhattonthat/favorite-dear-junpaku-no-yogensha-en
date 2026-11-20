@@ -21,7 +21,7 @@ eiev23_01.0328	ごめん……ひとりにして……{wait}{clear}
 eiev23_01.0350	アイリーン	Irene	speaker
 eiev23_01.035E	セレニス……姉さん……{n}死んじゃったの？{wait}{clear}		
 eiev23_01.038A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_01.039A	はい……{wait}{clear}		
+eiev23_01.039A	はい……{wait}{clear}	No...{wait}{clear}	
 eiev23_01.03AC	アイリーン	Irene	speaker
 eiev23_01.03BA	なんで……姉さん……{n}最後まで……苦しんで……{wait}{clear}私……助けられなかった。{wait}{clear}		
 eiev23_01.0408	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -35,4 +35,4 @@ eiev23_01.04D6	アイリーン……{n}お姉さんのことは……なんと�
 eiev23_01.0526	アイリーン	Irene	speaker
 eiev23_01.0534	今は、なにも言わないで……。{n}これから、お姉ちゃんの眠る場所に行ってくる……。{wait}{clear}それから、いろいろ考えるよ……。{wait}{clear}だから、ひとりにしておいて。{wait}{clear}		
 eiev23_01.05CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_01.05DA	アイリーン……{wait}{clear}		
+eiev23_01.05DA	アイリーン……{wait}{clear}	Irene...{wait}{clear}	
