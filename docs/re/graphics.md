@@ -15,7 +15,7 @@ tour adds any screen the sweep can't see (text composed at runtime from glyph st
 - FMV: `python tools/str2352.py work/disc/tree/X.STR work/fmv/X.raw`, then
   `ffmpeg -f psxstr -i work/fmv/X.raw -vf "fps=1/3,scale=160:-1,tile=8x8" work/fmv/x/t%02d.png`.
 - Not image data: SFM/SFA (sprite frame maps over TIM sheets), TMD (3D models, textures are TIMs), CLT/RCT
-  (palettes/rect tables). BLF (`6x624_4.BLF` GRPDATA, `Map220.BLF` FD2SN): "BLF\0", u32 count, u32 header size 0x20,
+  (palettes/rect tables). BLF (`6x624_4.BLF` and `Map88.BLF` GRPDATA, `Map220.BLF` FD2SN): "BLF\0", u32 count, u32 header size 0x20,
   u32 entry size 0xA0; each entry is an MDEC bitstream block (`80 00 00 38 05 00 02 00` = STR v2 frame header), so
   it is MDEC-compressed imagery (guess: the 3D battle map / world map backdrop); not decoded. Check it on the tour
   (phase 5); no text expected.
