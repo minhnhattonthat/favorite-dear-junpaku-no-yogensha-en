@@ -1,26 +1,26 @@
 id	jp	en	notes
-clev25.0002	ラストバトル(能書き)		dev label (guess: not shown)
+clev25.0002	ラストバトル(能書き)	Last Battle (preamble)	dev label (guess: not shown)
 clev25.00A2	クライヴ	Clive	unit name (32-byte field)
 clev25.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
-clev25.011A	天竜		unit name (32-byte field)
+clev25.011A	天竜	Heavenly Dragon	unit name (32-byte field)
 clev25.04A8	エンディミオン	Endymion	speaker
-clev25.04C5	何の用だ？　天使とその勇者よ……。		text
-clev25.0506	慈悲でも請いに来たか。		text
+clev25.04C5	何の用だ？　天使とその勇者よ……。	What do you want? Angel, and the angel's{n}hero...	text
+clev25.0506	慈悲でも請いに来たか。	Have you come to beg for mercy?	text
 clev25.053B	クライヴ	Clive	speaker
 clev25.0552	天竜とお前を倒し{n}地上の混乱を正しにきた……。		text
 clev25.05B7	エンディミオン	Endymion	speaker
-clev25.05D4	なかなか面白いことを言う……		text
-clev25.060F	私と天竜を倒すと？{n}フハハハハハ！		text
+clev25.05D4	なかなか面白いことを言う……	What an amusing thing to say...	text
+clev25.060F	私と天竜を倒すと？{n}フハハハハハ！	You'll defeat me and the Heavenly Dragon? Ha{n}ha ha ha ha!	text
 clev25.0668	エンディミオン	Endymion	speaker
-clev25.0685	サタン様と私の力を見くびるな！！		text
-clev25.06C4	お前ら人間とその守護天使など{n}天竜にとっては滋養にすぎん……		text
-clev25.071F	存在する次元が違うのだ……。		text
+clev25.0685	サタン様と私の力を見くびるな！！	Do not underestimate Lord Satan's power, or{n}mine!!	text
+clev25.06C4	お前ら人間とその守護天使など{n}天竜にとっては滋養にすぎん……	You humans and your guardian angel are mere{n}nourishment to the Heavenly Dragon...	text
+clev25.071F	存在する次元が違うのだ……。	We exist on a different plane...	text
 clev25.075A	クライヴ	Clive	speaker
 clev25.0771	……邪悪なお前の言葉など{n}これ以上聞く意味はない……		text
 clev25.07D8	行くぞ！		text
 clev25.07FF	エンディミオン	Endymion	speaker
-clev25.081C	愚かな……しかしその愚かさが、{n}人間なのだろうな……		text
-clev25.086F	よかろう、その違いを見せてやろう……		text
+clev25.081C	愚かな……しかしその愚かさが、{n}人間なのだろうな……	Foolish... But perhaps that foolishness is{n}what makes you human...	text
+clev25.086F	よかろう、その違いを見せてやろう……	Very well, I'll show you the difference...	text
 clev25.08FE	エンディミオン	Endymion	speaker
-clev25.091B	フハハハ！！！{n}お前らに私が滅ぼせるか？		text
-clev25.0962	ガープのようにはいかんぞ！		text
+clev25.091B	フハハハ！！！{n}お前らに私が滅ぼせるか？	Ha ha ha!!! Do you think you can destroy me?	text
+clev25.0962	ガープのようにはいかんぞ！	I'm not like Gaap!	text

@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev08b.0002	鎧の男		dev label (guess: not shown)
 loev08b.00A2	ルディ	Rudi	unit name (32-byte field)
-loev08b.00DE	サヴィオ通常		unit name (32-byte field)
+loev08b.00DE	サヴィオ通常	Savio (normal)	unit name (32-byte field)
 loev08b.04BC	ルディエール	Rudiere	speaker
 loev08b.04D7	終わりか？　たいしたことないな！		text
 loev08b.05A2	鎧の男		speaker

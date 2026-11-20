@@ -4,5 +4,5 @@ clev04.00DE	吸血鬼	Vampire	unit name (32-byte field)
 clev04.0498	吸血鬼	Vampire	speaker
 clev04.04AD	なんだ貴様は？	Who are you?	text
 clev04.04CA	クライヴ	Clive	speaker
-clev04.04E1	化け物に名乗る名はもっていない。		text
-clev04.0510	行くぞ！！		text
+clev04.04E1	化け物に名乗る名はもっていない。	I have no name to give a monster.	text
+clev04.0510	行くぞ！！	Here I come!!	text

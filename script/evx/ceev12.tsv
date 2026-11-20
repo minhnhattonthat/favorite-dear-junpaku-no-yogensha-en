@@ -2,8 +2,8 @@ id	jp	en	notes
 ceev12.00A2	セシア	Cecia	unit name (32-byte field)
 ceev12.00DE	聖母	Holy Mother	unit name (32-byte field)
 ceev12.04DC	聖母	Holy Mother	speaker
-ceev12.04EF	よいですか、セシア？		text
+ceev12.04EF	よいですか、セシア？	Are you ready, Cecia?	text
 ceev12.0512	セシア	Cecia	speaker
-ceev12.0527	はい。		text
+ceev12.0527	はい。	Yes.	text
 ceev12.053C	聖母	Holy Mother	speaker
-ceev12.054F	では、手を……。		text
+ceev12.054F	では、手を……。	Then, your hand...	text

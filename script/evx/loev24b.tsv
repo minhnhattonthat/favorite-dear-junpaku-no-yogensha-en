@@ -1,9 +1,9 @@
 id	jp	en	notes
-loev24b.0002	クラレンス戦		dev label (guess: not shown)
+loev24b.0002	クラレンス戦	Clarence Battle	dev label (guess: not shown)
 loev24b.00A2	ルディエール	Rudiere	unit name (32-byte field)
 loev24b.00DE	クラレンス	Clarence	unit name (32-byte field)
 loev24b.04B4	クラレンス	Clarence	speaker
-loev24b.04CD	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
+loev24b.04CD	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……	Angel's hero, huh... Seeing people like{n}you... makes my skin crawl...	text
 loev24b.0522	ルディエール	Rudiere	speaker
 loev24b.053D	おい、コソ泥！{n}今度もしっぽをまいて逃げるのか？		text
 loev24b.057C	クラレンス	Clarence	speaker

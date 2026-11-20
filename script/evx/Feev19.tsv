@@ -1,13 +1,13 @@
 id	jp	en	notes
-Feev19.0002	セレニスとの戦い		dev label (guess: not shown)
+Feev19.0002	セレニスとの戦い	Battle with Serenis	dev label (guess: not shown)
 Feev19.00A2	フェイン	Fein	unit name (32-byte field)
 Feev19.00DE	セレニス	Serenis	unit name (32-byte field)
-Feev19.011A	魔法		unit name (32-byte field)
+Feev19.011A	魔法	Magic	unit name (32-byte field)
 Feev19.0156	エンディミオン	Endymion	unit name (32-byte field)
-Feev19.0192	魔石（初期）		unit name (32-byte field)
-Feev19.01CE	魔石（点滅）		unit name (32-byte field)
-Feev19.020A	魔石（赤）		unit name (32-byte field)
-Feev19.0246	魔石の台		unit name (32-byte field)
+Feev19.0192	魔石（初期）	Demon Stone (start)	unit name (32-byte field)
+Feev19.01CE	魔石（点滅）	Demon Stone (blink)	unit name (32-byte field)
+Feev19.020A	魔石（赤）	Demon Stone (red)	unit name (32-byte field)
+Feev19.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 Feev19.0282	光りの柱		unit name (32-byte field)
 Feev19.04E8	セレニス	Serenis	speaker
 Feev19.04FF	……フェインか。		text
@@ -23,13 +23,13 @@ Feev19.0696	フェイン	Fein	speaker
 Feev19.06AD	セレニス！		text
 Feev19.074A	セレニス	Serenis	speaker
 Feev19.0761	そこでじっとしていなさい、フェイン。		text
-Feev19.07A4	偉大な力がよみがえるのを見せてあげるわ。		text
-Feev19.07FF	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
-Feev19.0846	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
+Feev19.07A4	偉大な力がよみがえるのを見せてあげるわ。	I'll show you a great power reborn.	text
+Feev19.07FF	皇帝、魔石に最後の魂を捧ぐ時がきました。	Emperor, the time has come to offer the last{n}soul to the Demon Stones.	text
+Feev19.0846	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。	Just as in the legend, you will become the{n}Heavenly Dragon and give the world a new{n}birth.	text
 Feev19.08EF	エンディミオン	Endymion	speaker
-Feev19.090C	セレニス……お前はなにを……。		text
+Feev19.090C	セレニス……お前はなにを……。	Serenis... What are you...	text
 Feev19.0949	セレニス	Serenis	speaker
-Feev19.0960	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
-Feev19.09C9	さあ……始めましょう……。		text
+Feev19.0960	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。	There's nothing to fear, Emperor. You will{n}become one with eternal life...	text
+Feev19.09C9	さあ……始めましょう……。	Now... let us begin...	text
 Feev19.0A7E	エンディミオン	Endymion	speaker
 Feev19.0A9B	ああ……。	Yeah...	text

@@ -3,9 +3,9 @@ ceev08_02d.0002	1		dev label (guess: not shown)
 ceev08_02d.00A2	セシア	Cecia	unit name (32-byte field)
 ceev08_02d.00DE	聖母	Holy Mother	unit name (32-byte field)
 ceev08_02d.0498	セシア	Cecia	speaker
-ceev08_02d.04AD	聖母様！　おケガは？		text
+ceev08_02d.04AD	聖母様！　おケガは？	Holy Mother! Are you hurt?	text
 ceev08_02d.04D0	聖母	Holy Mother	speaker
-ceev08_02d.04E3	大丈夫……。{n}助けてくれて、ありがとう。{n}心配をかけました……。		text
-ceev08_02d.0532	それにしても、あなたはどうして{n}この聖母の森まで来たのですか？		text
+ceev08_02d.04E3	大丈夫……。{n}助けてくれて、ありがとう。{n}心配をかけました……。	I'm all right... Thank you for saving me.{n}I've worried you...	text
+ceev08_02d.0532	それにしても、あなたはどうして{n}この聖母の森まで来たのですか？	But tell me, why did you come all the way to{n}the Forest of the Holy Mother?	text
 ceev08_02d.057F	セシア	Cecia	speaker
-ceev08_02d.0594	このレイフォリアの森になにか良くないことが{n}起こるのではないかと胸騒ぎがしたのです。{n}それで、聖母様にお会いしたかったのです。		text
+ceev08_02d.0594	このレイフォリアの森になにか良くないことが{n}起こるのではないかと胸騒ぎがしたのです。{n}それで、聖母様にお会いしたかったのです。	I had a feeling that something bad was going{n}to happen to the Reyforia Forest. So I{n}wanted to see you, Holy Mother.	text

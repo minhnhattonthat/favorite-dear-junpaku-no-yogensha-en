@@ -1,15 +1,15 @@
 id	jp	en	notes
-laev20b.0002	セレニスとの戦い		dev label (guess: not shown)
+laev20b.0002	セレニスとの戦い	Battle with Serenis	dev label (guess: not shown)
 laev20b.00A2	レイラ	Leyla	unit name (32-byte field)
 laev20b.00DE	セレニス	Serenis	unit name (32-byte field)
-laev20b.011A	魔法		unit name (32-byte field)
+laev20b.011A	魔法	Magic	unit name (32-byte field)
 laev20b.0156	エンディミオン	Endymion	unit name (32-byte field)
-laev20b.0192	魔石（初期）		unit name (32-byte field)
-laev20b.01CE	魔石（点滅）		unit name (32-byte field)
-laev20b.020A	魔石（赤）		unit name (32-byte field)
-laev20b.0246	魔石の台		unit name (32-byte field)
+laev20b.0192	魔石（初期）	Demon Stone (start)	unit name (32-byte field)
+laev20b.01CE	魔石（点滅）	Demon Stone (blink)	unit name (32-byte field)
+laev20b.020A	魔石（赤）	Demon Stone (red)	unit name (32-byte field)
+laev20b.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 laev20b.04E8	セレニス	Serenis	speaker
-laev20b.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
+laev20b.04FF	フフフ、{n}よく来たわね。天使の勇者。	Heh heh heh, welcome, hero of the angel.	text
 laev20b.0532	レイラ	Leyla	speaker
 laev20b.0547	セレニス……！		text
 laev20b.0564	セレニス	Serenis	speaker
@@ -19,16 +19,16 @@ laev20b.05F1	セレニス……いえ、怖ろしい魔女……。{n}すべて�
 laev20b.063C			text
 laev20b.0648	クロイツフェルド親子もあなたに……。		text
 laev20b.067B	セレニス	Serenis	speaker
-laev20b.0692	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。		text
+laev20b.0692	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。	And what will you do now that you know? You{n}can't stop me.	text
 laev20b.0763	セレニス	Serenis	speaker
-laev20b.077A	そこでじっとしていなさい。{n}天使の勇者よ。		text
-laev20b.07B3	偉大な力がよみがえるのを見せてあげるわ。		text
-laev20b.080E	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
-laev20b.0855	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
+laev20b.077A	そこでじっとしていなさい。{n}天使の勇者よ。	Stay right there, hero of the angel.	text
+laev20b.07B3	偉大な力がよみがえるのを見せてあげるわ。	I'll show you a great power reborn.	text
+laev20b.080E	皇帝、魔石に最後の魂を捧ぐ時がきました。	Emperor, the time has come to offer the last{n}soul to the Demon Stones.	text
+laev20b.0855	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。	Just as in the legend, you will become the{n}Heavenly Dragon and give the world a new{n}birth.	text
 laev20b.08FE	エンディミオン	Endymion	speaker
-laev20b.091B	セレニス……お前はなにを……。		text
+laev20b.091B	セレニス……お前はなにを……。	Serenis... What are you...	text
 laev20b.0958	セレニス	Serenis	speaker
-laev20b.096F	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
-laev20b.09D8	さあ……始めましょう……。		text
+laev20b.096F	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。	There's nothing to fear, Emperor. You will{n}become one with eternal life...	text
+laev20b.09D8	さあ……始めましょう……。	Now... let us begin...	text
 laev20b.0A8D	エンディミオン	Endymion	speaker
 laev20b.0AAA	ああ……。	Yeah...	text

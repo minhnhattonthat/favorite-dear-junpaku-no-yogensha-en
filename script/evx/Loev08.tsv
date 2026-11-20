@@ -4,7 +4,7 @@ Loev08.00A2	ルディ	Rudi	unit name (32-byte field)
 Loev08.00DE	ミリシア→反乱兵		unit name (32-byte field)
 Loev08.011A	ミリシア→反乱兵		unit name (32-byte field)
 Loev08.0156	ミリシア→反乱兵		unit name (32-byte field)
-Loev08.0192	サヴィオ通常		unit name (32-byte field)
+Loev08.0192	サヴィオ通常	Savio (normal)	unit name (32-byte field)
 Loev08.04A8	ルディエール	Rudiere	speaker
 Loev08.04C3	おい、お前らか、{n}このあたりで物騒なマネしてんのは？		text
 Loev08.0506	暗殺者	Assassin	speaker

@@ -1,19 +1,19 @@
 id	jp	en	notes
-clev21b.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
+clev21b.0002	セレニス戦（戦闘後）	Serenis Battle (after)	dev label (guess: not shown)
 clev21b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev21b.00DE	セレニス	Serenis	unit name (32-byte field)
-clev21b.011A	覚醒エンディミオン		unit name (32-byte field)
+clev21b.011A	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
 clev21b.0156	エンディミオン	Endymion	unit name (32-byte field)
-clev21b.0192	椅子		unit name (32-byte field)
-clev21b.01CE	魔石の台		unit name (32-byte field)
+clev21b.0192	椅子	Chair	unit name (32-byte field)
+clev21b.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
 clev21b.04AC	クライヴ	Clive	speaker
 clev21b.04C3	くっ……		text
 clev21b.04F6	セレニス	Serenis	speaker
-clev21b.050D	フフフフ……{n}これが正義の末路よ。		text
-clev21b.0552	……うっ……。		text
+clev21b.050D	フフフフ……{n}これが正義の末路よ。	Heh heh heh heh... This is how justice ends.	text
+clev21b.0552	……うっ……。	...Ugh...	text
 clev21b.058F	クライヴ	Clive	speaker
-clev21b.05A6	魔女の動きが、止まった？		text
-clev21b.06C9	悪魔		speaker
-clev21b.06DC	くっ、最後に刃向かいおってこの女……		text
-clev21b.071F	まあこの体にも飽きていた頃だ……ちょうどいい。		text
-clev21b.076C	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。		text
+clev21b.05A6	魔女の動きが、止まった？	The witch stopped moving?	text
+clev21b.06C9	悪魔	Devil	speaker
+clev21b.06DC	くっ、最後に刃向かいおってこの女……	Ngh, defying me at the very end, this{n}woman...	text
+clev21b.071F	まあこの体にも飽きていた頃だ……ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text
+clev21b.076C	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。	Lowly angel, don't get cocky just because{n}you killed one vessel...	text

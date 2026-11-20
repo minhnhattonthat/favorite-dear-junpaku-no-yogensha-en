@@ -1,16 +1,16 @@
 id	jp	en	notes
 Clev06b.00A2	クライヴ	Clive	unit name (32-byte field)
 Clev06b.00DE	姫	Princess	unit name (32-byte field)
-Clev06b.011A	ゴーコン		unit name (32-byte field)
+Clev06b.011A	ゴーコン	Gorgon	unit name (32-byte field)
 Clev06b.04B4	姫	Princess	speaker
-Clev06b.04C5	ふふ、こんな美しい女性からの誘いを断るなんて{n}男として失格ね。		text
+Clev06b.04C5	ふふ、こんな美しい女性からの誘いを断るなんて{n}男として失格ね。	Heh heh, turning down an invitation from{n}such a beautiful woman... You're a failure{n}as a man.	text
 Clev06b.0512	クライヴ	Clive	speaker
-Clev06b.0529	もう……戻れないところまで{n}行ってしまったようだな。		text
+Clev06b.0529	もう……戻れないところまで{n}行ってしまったようだな。	It seems you've gone somewhere you can't{n}come back from.	text
 Clev06b.056C	姫	Princess	speaker
-Clev06b.057D	ええ、そうよ。		text
-Clev06b.059A	私、望んでレイブンルフト様に{n}この身を捧げたのですから。		text
+Clev06b.057D	ええ、そうよ。	Yes, that's right.	text
+Clev06b.059A	私、望んでレイブンルフト様に{n}この身を捧げたのですから。	I offered myself to Lord Ravenruft of my own{n}will.	text
 Clev06b.05E1	クライヴ	Clive	speaker
 Clev06b.05F8	…………。	.....	text
 Clev06b.0611	姫	Princess	speaker
-Clev06b.0622	永遠の命と美しさを授けてくださる{n}あのお方のためなら……{n}私、どんなことでもしますわ……		text
-Clev06b.0689	王に仇なすあなた……ここで始末いたしましょう。		text
+Clev06b.0622	永遠の命と美しさを授けてくださる{n}あのお方のためなら……{n}私、どんなことでもしますわ……	For him, who grants eternal life and{n}beauty... I would do anything...	text
+Clev06b.0689	王に仇なすあなた……ここで始末いたしましょう。	You who oppose the king... I shall dispose{n}of you here.	text

@@ -1,72 +1,72 @@
 id	jp	en	notes
-laev24b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
+laev24b.0002	ラストバトル(無様に食われる)	Last Battle (eaten)	dev label (guess: not shown)
 laev24b.00A2	ロクス	Rocus	unit name (32-byte field)
 laev24b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
-laev24b.011A	天竜		unit name (32-byte field)
+laev24b.011A	天竜	Heavenly Dragon	unit name (32-byte field)
 laev24b.04A8	レイラ	Leyla	speaker
 laev24b.04BD	うっ…………		text
 laev24b.04E8	エンディミオン	Endymion	speaker
-laev24b.0505	どうだ、わかったか？		text
-laev24b.0538	これが、支配者の力だ。		text
-laev24b.056D	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
-laev24b.05C4	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！		text
-laev24b.0623	神という名は我らのためにあるのだ……		text
-laev24b.0666	きょう慢な天使よ、思い知るがいい。		text
-laev24b.06A7	しかし……我々は{n}王としての慈悲を知るものだ……		text
-laev24b.06F6	高貴なものだけがもつ偉大な慈悲だ。		text
-laev24b.0737	天使よ、この勇者の魂を救いたくはないか？		text
-laev24b.077E	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。		text
-laev24b.0805	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。		text
-laev24b.087C	さあ、答えよ。		text
-laev24b.08A9	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
-laev24b.0908	《わかりました……》		choice
-laev24b.091F	《いいえ……》		choice
+laev24b.0505	どうだ、わかったか？	Well? Do you understand now?	text
+laev24b.0538	これが、支配者の力だ。	This is the power of a ruler.	text
+laev24b.056D	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。	You could not have left a single scratch on{n}me, not even laid a finger on me.	text
+laev24b.05C4	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！	This power... this very power is the proof{n}that we shall rule over all!	text
+laev24b.0623	神という名は我らのためにあるのだ……	The name of god exists for us...	text
+laev24b.0666	きょう慢な天使よ、思い知るがいい。	Learn your place, arrogant angel.	text
+laev24b.06A7	しかし……我々は{n}王としての慈悲を知るものだ……	But... we know the mercy of a king...	text
+laev24b.06F6	高貴なものだけがもつ偉大な慈悲だ。	The great mercy that only the noble possess.	text
+laev24b.0737	天使よ、この勇者の魂を救いたくはないか？	Angel, do you not wish to save this hero's{n}soul?	text
+laev24b.077E	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。	Come to us as a messenger of the new god,{n}and I shall forget all you have done and{n}save you and this hero.	text
+laev24b.0805	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。	Having touched our great power, you{n}understand now, do you not? Which side is{n}right, and which is wrong.	text
+laev24b.087C	さあ、答えよ。	Now, answer.	text
+laev24b.08A9	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？	Will you serve us, or be devoured by the{n}Heavenly Dragon along with this hero and{n}vanish?	text
+laev24b.0908	《わかりました……》	I understand...	choice
+laev24b.091F	《いいえ……》	No...	choice
 laev24b.0940	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev24b.095B	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
-laev24b.09AA	どうか……彼女の魂を、{n}彼女の命を救ってください……		text
+laev24b.095B	……はい……わかりました……{n}私はあなたの使いとなりましょう……	...Yes... I understand... I will become your{n}messenger...	text
+laev24b.09AA	どうか……彼女の魂を、{n}彼女の命を救ってください……	Please... save her soul, save her life...	text
 laev24b.09FD	エンディミオン	Endymion	speaker
-laev24b.0A1A	ふふ、すばらしい。{n}いい心ばえだ……		text
-laev24b.0A5D	では……この勇者を救ってやろう……。		text
+laev24b.0A1A	ふふ、すばらしい。{n}いい心ばえだ……	Heh, splendid. A fine spirit...	text
+laev24b.0A5D	では……この勇者を救ってやろう……。	Then... I shall save this hero...	text
 laev24b.0AE4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24b.0AFF	レイラ！！！		text
 laev24b.0B2A	エンディミオン	Endymion	speaker
-laev24b.0B47	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
-laev24b.0BA0	すべてを失ったその顔が見たかったのだ！		text
-laev24b.0BE5	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
-laev24b.0C3C	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
-laev24b.0C8B	死ね。		text
+laev24b.0B47	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……	Ha ha ha ha ha ha! Yes! That look... the{n}look of your despair...	text
+laev24b.0BA0	すべてを失ったその顔が見たかったのだ！	I wanted to see that face, the face of one{n}who has lost everything!	text
+laev24b.0BE5	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。	Truly, the foolishness of you angels is{n}beyond saving...	text
+laev24b.0C3C	さあ、お前も竜の体内で勇者と一緒にしてやろう……	Now, I'll put you inside the dragon together{n}with your hero...	text
+laev24b.0C8B	死ね。	Die.	text
 laev24b.0D00	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev24b.0D1B	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
-laev24b.0D6C	彼女は天使の私を信じ、戦ってくれたのです。{n}彼女の魂も私の魂もあなた方に利用などさせません。		text
+laev24b.0D1B	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。	No... I am an angel... I cannot sell my soul{n}to a devil...	text
+laev24b.0D6C	彼女は天使の私を信じ、戦ってくれたのです。{n}彼女の魂も私の魂もあなた方に利用などさせません。	She believed in me, an angel, and fought for{n}me. I will not let you use her soul or mine.	text
 laev24b.0DE7	エンディミオン	Endymion	speaker
-laev24b.0E04	ふん、小賢しいことを……。		text
-laev24b.0E3D	いいだろう。		text
-laev24b.0E68	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
+laev24b.0E04	ふん、小賢しいことを……。	Hmph, what impertinence...	text
+laev24b.0E3D	いいだろう。	Very well.	text
+laev24b.0E68	お前らも死んでサタン様の魂の{n}癒しとなれ。	You too shall die and become balm for Lord{n}Satan's soul.	text
 laev24b.0EB1	男の声	Man's Voice	speaker
-laev24b.0EC6	待て、ベルゼバブ……		text
+laev24b.0EC6	待て、ベルゼバブ……	Wait, Beelzebub...	text
 laev24b.0F21	エンディミオン	Endymion	speaker
-laev24b.0F3E	私の真の名を呼ぶとは……		text
+laev24b.0F3E	私の真の名を呼ぶとは……	You call me by my true name...	text
 laev24b.0F75	男の声	Man's Voice	speaker
-laev24b.0F8A	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
+laev24b.0F8A	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……	How could I forget those red eyes of yours,{n}or your filthy tricks...	text
 laev24b.0FE1	ベルゼバブ	Beelzebub	speaker
-laev24b.0FFA	その声……この波動は！！		text
+laev24b.0FFA	その声……この波動は！！	That voice... this aura!!	text
 laev24b.10C1	ミカエル	Michael	speaker
-laev24b.10D8	久しぶりだな、ハエの王。		text
+laev24b.10D8	久しぶりだな、ハエの王。	It's been a long time, Lord of the Flies.	text
 laev24b.110F	ベルゼバブ	Beelzebub	speaker
-laev24b.1128	ミカエル！　ラファエル！		text
+laev24b.1128	ミカエル！　ラファエル！	Michael! Raphael!	text
 laev24b.115F	ミカエル	Michael	speaker
-laev24b.1176	遅れてすまなかったな、＄＄＄＄＄＄。		text
+laev24b.1176	遅れてすまなかったな、＄＄＄＄＄＄。	Forgive me for being late, ＄＄＄＄＄＄.	text
 laev24b.11B9	ラファエル	Raphael	speaker
-laev24b.11D2	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
-laev24b.1235	そして、影にいる堕天使の存在の強大さも……。		text
+laev24b.11D2	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。	I knew that a day like this would come when{n}Satan's dragon was revived...	text
+laev24b.1235	そして、影にいる堕天使の存在の強大さも……。	And how great the power of the fallen angel{n}lurking in the shadows was...	text
 laev24b.1280	ミカエル	Michael	speaker
-laev24b.1297	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
-laev24b.12F4	やつらを、ともに倒そう。		text
+laev24b.1297	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。	We can't leave Beelzebub and Satan's{n}Heavenly Dragon to you alone.	text
+laev24b.12F4	やつらを、ともに倒そう。	Let's defeat them together.	text
 laev24b.132B	ラファエル	Raphael	speaker
-laev24b.1344	さあ、勇者よ、よみがえりなさい。		text
+laev24b.1344	さあ、勇者よ、よみがえりなさい。	Now, hero, rise again.	text
 laev24b.1417	レイラ	Leyla	speaker
 laev24b.142C	……この光は？		text
 laev24b.1459	ラファエル	Raphael	speaker
-laev24b.1472	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
+laev24b.1472	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。	Hero of the world below, show the devil the{n}strength of humans once more.	text
 laev24b.14C5	ベルゼバブ	Beelzebub	speaker
-laev24b.14DE	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text
+laev24b.14DE	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！	No matter how many of you gather, this human{n}can never defeat me!	text

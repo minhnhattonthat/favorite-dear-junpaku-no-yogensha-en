@@ -2,13 +2,13 @@ id	jp	en	notes
 feev19e.0002	celeniss		dev label (guess: not shown)
 feev19e.00A2	フェイン	Fein	unit name (32-byte field)
 feev19e.00DE	セレニス	Serenis	unit name (32-byte field)
-feev19e.011A	覚醒エンディミオン		unit name (32-byte field)
-feev19e.0156	椅子		unit name (32-byte field)
-feev19e.0192	魔石の台		unit name (32-byte field)
+feev19e.011A	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
+feev19e.0156	椅子	Chair	unit name (32-byte field)
+feev19e.0192	魔石の台	Demon Stone Stand	unit name (32-byte field)
 feev19e.04A8	エンディミオン	Endymion	speaker
-feev19e.04C5	ふむ……なかなかいいぞ。		text
-feev19e.04FC	天使ども！{n}天竜がよみがえった今、何をしてももう無駄だ！		text
-feev19e.0553	この天竜……サタン様の魂の化身とともに、{n}私はコキュートスへ戻るのだ……。		text
-feev19e.05BC	その前に、この世界の魂はすべて{n}天竜の滋養としていただいていくぞ……。		text
-feev19e.0621	己の無力さを思い知るがいい……天使よ！		text
-feev19e.0666	ハハハハハ。{n}ハハハハハハハハ。		text
+feev19e.04C5	ふむ……なかなかいいぞ。	Hmm... Not bad at all.	text
+feev19e.04FC	天使ども！{n}天竜がよみがえった今、何をしてももう無駄だ！	Angels! Now that the Heavenly Dragon has{n}been revived, whatever you do is useless!	text
+feev19e.0553	この天竜……サタン様の魂の化身とともに、{n}私はコキュートスへ戻るのだ……。	With this Heavenly Dragon, the incarnation{n}of Lord Satan's soul, I shall return to{n}Cocytus...	text
+feev19e.05BC	その前に、この世界の魂はすべて{n}天竜の滋養としていただいていくぞ……。	But before that, I'll take every soul in{n}this world as nourishment for the Heavenly{n}Dragon...	text
+feev19e.0621	己の無力さを思い知るがいい……天使よ！	Learn how powerless you are... angel!	text
+feev19e.0666	ハハハハハ。{n}ハハハハハハハハ。	Ha ha ha ha ha. Ha ha ha ha ha ha ha ha.	text

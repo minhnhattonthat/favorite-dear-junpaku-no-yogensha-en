@@ -1,33 +1,33 @@
 id	jp	en	notes
 ceev16.00A2	セシア	Cecia	unit name (32-byte field)
 ceev16.00DE	イオン	Ion	unit name (32-byte field)
-ceev16.011A	イオンの母		unit name (32-byte field)
-ceev16.0156	ベッド		unit name (32-byte field)
+ceev16.011A	イオンの母	Ion's Mother	unit name (32-byte field)
+ceev16.0156	ベッド	Bed	unit name (32-byte field)
 ceev16.0528	セシア	Cecia	speaker
-ceev16.053D	あの子……		text
-ceev16.0566	気づいていない……。		text
-ceev16.0599	天使様、彼を追いましょう。		text
+ceev16.053D	あの子……	That boy...	text
+ceev16.0566	気づいていない……。	He hasn't noticed us...	text
+ceev16.0599	天使様、彼を追いましょう。	Angel, let's follow him.	text
 ceev16.0696	イオン	Ion	speaker
-ceev16.06AB	母さん、今帰ったよ。		text
+ceev16.06AB	母さん、今帰ったよ。	Mom, I'm home.	text
 ceev16.072E	イオン	Ion	speaker
-ceev16.0743	村から食べ物を持ってきたんだ……。		text
-ceev16.0784	きっともうすぐ、あの人がやってきて{n}母さんを元気にしてくれる……。		text
-ceev16.07E5	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。		text
-ceev16.083C	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。		text
+ceev16.0743	村から食べ物を持ってきたんだ……。	I brought food from the village...	text
+ceev16.0784	きっともうすぐ、あの人がやってきて{n}母さんを元気にしてくれる……。	I'm sure that lady will come soon and make{n}you well, Mom...	text
+ceev16.07E5	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。	Because me and Stern and the others found{n}the stone she promised.	text
+ceev16.083C	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。	You'll get well for sure... Don't worry...{n}Oh, right, you need water. I'll go get some.	text
 ceev16.0949	セシア	Cecia	speaker
-ceev16.095E	魔石を……取り戻さないと！		text
+ceev16.095E	魔石を……取り戻さないと！	I have to... get the Demon Stone back!	text
 ceev16.09E7	セシア	Cecia	speaker
-ceev16.09FC	……もう、亡くなっている。		text
-ceev16.0A35	あの子……死んだお母さんと話していたの……。		text
+ceev16.09FC	……もう、亡くなっている。	...She's already dead.	text
+ceev16.0A35	あの子……死んだお母さんと話していたの……。	That boy... he was talking to his dead{n}mother...	text
 ceev16.0AA4	イオン	Ion	speaker
-ceev16.0AB9	母さんに近づくな！！		text
-ceev16.0B14	お前！……魔石を取り戻しに来たな！		text
+ceev16.0AB9	母さんに近づくな！！	Get away from my mom!!	text
+ceev16.0B14	お前！……魔石を取り戻しに来たな！	You! You came to take back the Demon Stone!	text
 ceev16.0B99	イオン	Ion	speaker
-ceev16.0BAE	絶対返さないからな……{n}これがあれば、ぼくに力をくれた女の人が{n}母さんを元気をしてくれるんだ……。		text
+ceev16.0BAE	絶対返さないからな……{n}これがあれば、ぼくに力をくれた女の人が{n}母さんを元気をしてくれるんだ……。	I'll never give it back... With this, the{n}lady who gave me power will make my mom well{n}again...	text
 ceev16.0C2F	セシア	Cecia	speaker
-ceev16.0C44	あなたのお母さんはもう亡くなっているわ……。		text
-ceev16.0C8F	つらいかもしれないけど聞いて……		text
-ceev16.0CCE	死んだ人をよみがえらすことなど{n}誰にもできないのよ……。		text
+ceev16.0C44	あなたのお母さんはもう亡くなっているわ……。	Your mother has already passed away...	text
+ceev16.0C8F	つらいかもしれないけど聞いて……	It may hurt, but listen to me...	text
+ceev16.0CCE	死んだ人をよみがえらすことなど{n}誰にもできないのよ……。	No one can bring the dead back to life...	text
 ceev16.0D25	イオン	Ion	speaker
-ceev16.0D3A	うるさい！　ぼくの邪魔をするな！		text
-ceev16.0D79	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！		text
+ceev16.0D3A	うるさい！　ぼくの邪魔をするな！	Shut up! Don't get in my way!	text
+ceev16.0D79	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！	Sonne! Mond! Stern! Get her!	text

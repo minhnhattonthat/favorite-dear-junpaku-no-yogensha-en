@@ -2,19 +2,19 @@ id	jp	en	notes
 clev04b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev04b.00DE	吸血鬼	Vampire	unit name (32-byte field)
 clev04b.0498	吸血鬼	Vampire	speaker
-clev04b.04AD	くっ、ハンターか……貴様……。		text
+clev04b.04AD	くっ、ハンターか……貴様……。	Ngh, a hunter... You...	text
 clev04b.04DA	クライヴ	Clive	speaker
-clev04b.04F1	聞きたいことがある。		text
-clev04b.0514	お前はレイブンルフトを知っているか？		text
+clev04b.04F1	聞きたいことがある。	I have questions for you.	text
+clev04b.0514	お前はレイブンルフトを知っているか？	Do you know Ravenruft?	text
 clev04b.0547	吸血鬼	Vampire	speaker
-clev04b.055C	我らが王の名……知らぬわけがない。		text
-clev04b.058D	……そうか……貴様の臭い……{n}雰囲気……		text
-clev04b.05C4	なぜ王の血を受け継ぐお前が、{n}人間どもの味方をする……。		text
+clev04b.055C	我らが王の名……知らぬわけがない。	The name of our king... How could I not know{n}it?	text
+clev04b.058D	……そうか……貴様の臭い……{n}雰囲気……	...I see... your scent... your air...	text
+clev04b.05C4	なぜ王の血を受け継ぐお前が、{n}人間どもの味方をする……。	Why do you, who inherit the king's blood,{n}side with humans...	text
 clev04b.060B	クライヴ	Clive	speaker
-clev04b.0622	やつはどこだ……どこにいる？		text
+clev04b.0622	やつはどこだ……どこにいる？	Where is he... Where is he?	text
 clev04b.064D	吸血鬼	Vampire	speaker
-clev04b.0662	王の城へ行きたければ、北へ行け……		text
-clev04b.0693	だが、貴様がたどり着けるとは思わんぞ……。		text
-clev04b.06CC	我が王が貴様のような裏切り者を{n}生かすはずがない……。		text
+clev04b.0662	王の城へ行きたければ、北へ行け……	If you want to go to the king's castle, go{n}north...	text
+clev04b.0693	だが、貴様がたどり着けるとは思わんぞ……。	But I doubt you'll ever reach it...	text
+clev04b.06CC	我が王が貴様のような裏切り者を{n}生かすはずがない……。	Our king would never let a traitor like you{n}live...	text
 clev04b.0721	クライヴ	Clive	speaker
-clev04b.0738	俺は……人間だ……。		text
+clev04b.0738	俺は……人間だ……。	I am... human...	text

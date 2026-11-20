@@ -3,7 +3,7 @@ roev14b.0002	イオンの家(ロクス編)		dev label (guess: not shown)
 roev14b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev14b.00DE	イオン	Ion	unit name (32-byte field)
 roev14b.011A	セレニス	Serenis	unit name (32-byte field)
-roev14b.0156	イオンの母		unit name (32-byte field)
+roev14b.0156	イオンの母	Ion's Mother	unit name (32-byte field)
 roev14b.0192	死んだ母さん		unit name (32-byte field)
 roev14b.04AC	ロクス	Rocus	speaker
 roev14b.04C1	もう、無駄な真似はやめるんだ……		text
@@ -13,9 +13,9 @@ roev14b.05D0	セレニス	Serenis	speaker
 roev14b.05E7	魔石をもらいに来たわ。{n}イオン。		text
 roev14b.062A	……ん？　誰だお前は。		text
 roev14b.06B3	ロクス	Rocus	speaker
-roev14b.06C8	お前は……。		text
+roev14b.06C8	お前は……。	You...	text
 roev14b.06E3	セレニス	Serenis	speaker
-roev14b.06FA	その雰囲気……天使の勇者か。		text
+roev14b.06FA	その雰囲気……天使の勇者か。	That aura... the angel's hero, is it?	text
 roev14b.0725	ロクス	Rocus	speaker
 roev14b.073A	この子をだましていたのは、お前か。		text
 roev14b.076B	セレニス	Serenis	speaker

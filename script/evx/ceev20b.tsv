@@ -1,32 +1,32 @@
 id	jp	en	notes
-ceev20b.0002	セレニスとの戦い		dev label (guess: not shown)
+ceev20b.0002	セレニスとの戦い	Battle with Serenis	dev label (guess: not shown)
 ceev20b.00A2	セシア	Cecia	unit name (32-byte field)
 ceev20b.00DE	セレニス	Serenis	unit name (32-byte field)
-ceev20b.011A	魔法		unit name (32-byte field)
+ceev20b.011A	魔法	Magic	unit name (32-byte field)
 ceev20b.0156	エンディミオン	Endymion	unit name (32-byte field)
-ceev20b.0192	魔石（初期）		unit name (32-byte field)
-ceev20b.01CE	魔石（点滅）		unit name (32-byte field)
-ceev20b.020A	魔石（赤）		unit name (32-byte field)
-ceev20b.0246	魔石の台		unit name (32-byte field)
+ceev20b.0192	魔石（初期）	Demon Stone (start)	unit name (32-byte field)
+ceev20b.01CE	魔石（点滅）	Demon Stone (blink)	unit name (32-byte field)
+ceev20b.020A	魔石（赤）	Demon Stone (red)	unit name (32-byte field)
+ceev20b.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 ceev20b.04E8	セレニス	Serenis	speaker
-ceev20b.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
+ceev20b.04FF	フフフ、{n}よく来たわね。天使の勇者。	Heh heh heh, welcome, hero of the angel.	text
 ceev20b.0532	セシア	Cecia	speaker
-ceev20b.0547	あなたは、イオンを利用した魔女……。		text
+ceev20b.0547	あなたは、イオンを利用した魔女……。	You're the witch who used Ion...	text
 ceev20b.057A	セレニス	Serenis	speaker
-ceev20b.0591	あら、あなたはあのときの勇者ね。		text
+ceev20b.0591	あら、あなたはあのときの勇者ね。	Oh my, you're the hero from that time.	text
 ceev20b.05C0	セシア	Cecia	speaker
-ceev20b.05D5	帝国の魔女……。{n}あなたが元凶だということはわかっています。		text
+ceev20b.05D5	帝国の魔女……。{n}あなたが元凶だということはわかっています。	The Empire's witch... I know that you're the{n}root of all this.	text
 ceev20b.0620	セレニス	Serenis	speaker
-ceev20b.0637	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。		text
+ceev20b.0637	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。	And what will you do now that you know? You{n}can't stop me.	text
 ceev20b.0708	セレニス	Serenis	speaker
-ceev20b.071F	そこでじっとしていなさい。{n}天使の勇者よ。		text
-ceev20b.0758	偉大な力がよみがえるのを見せてあげるわ。		text
-ceev20b.07B3	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
-ceev20b.07FA	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
+ceev20b.071F	そこでじっとしていなさい。{n}天使の勇者よ。	Stay right there, hero of the angel.	text
+ceev20b.0758	偉大な力がよみがえるのを見せてあげるわ。	I'll show you a great power reborn.	text
+ceev20b.07B3	皇帝、魔石に最後の魂を捧ぐ時がきました。	Emperor, the time has come to offer the last{n}soul to the Demon Stones.	text
+ceev20b.07FA	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。	Just as in the legend, you will become the{n}Heavenly Dragon and give the world a new{n}birth.	text
 ceev20b.08AF	エンディミオン	Endymion	speaker
-ceev20b.08CC	セレニス……お前はなにを……。		text
+ceev20b.08CC	セレニス……お前はなにを……。	Serenis... What are you...	text
 ceev20b.0909	セレニス	Serenis	speaker
-ceev20b.0920	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
-ceev20b.0989	さあ……始めましょう……。		text
+ceev20b.0920	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。	There's nothing to fear, Emperor. You will{n}become one with eternal life...	text
+ceev20b.0989	さあ……始めましょう……。	Now... let us begin...	text
 ceev20b.0A3E	エンディミオン	Endymion	speaker
 ceev20b.0A5B	ああ……。	Yeah...	text

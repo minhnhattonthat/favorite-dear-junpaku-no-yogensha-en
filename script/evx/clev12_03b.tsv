@@ -2,28 +2,28 @@ id	jp	en	notes
 clev12_03b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev12_03b.00DE	セシア	Cecia	unit name (32-byte field)
 clev12_03b.04F8	セシア	Cecia	speaker
-clev12_03b.050D	また、会えましたね。		text
+clev12_03b.050D	また、会えましたね。	We meet again.	text
 clev12_03b.0530	クライヴ	Clive	speaker
-clev12_03b.0547	誰だ？{n}俺は記憶にないが……。		text
+clev12_03b.0547	誰だ？{n}俺は記憶にないが……。	Who are you? I don't remember you...	text
 clev12_03b.0574	セシア	Cecia	speaker
-clev12_03b.0589	私は森の聖母の記憶を受け継いだ{n}セシアと言うものです。		text
-clev12_03b.05CE	レイフォリアの森の聖母と呼ばれる私たちは、{n}千年前の記憶を失わないために{n}記憶を後継者にすべて与えるのです。		text
+clev12_03b.0589	私は森の聖母の記憶を受け継いだ{n}セシアと言うものです。	I'm Cecia, the one who inherited the{n}memories of the Holy Mother of the forest.	text
+clev12_03b.05CE	レイフォリアの森の聖母と呼ばれる私たちは、{n}千年前の記憶を失わないために{n}記憶を後継者にすべて与えるのです。	We, called the Holy Mothers of the Reyforia{n}Forest, give all our memories to our{n}successors so the memories of a thousand{wait}{clear}years ago are never lost.	text
 clev12_03b.0649	クライヴ	Clive	speaker
-clev12_03b.0660	そんなことが、できるのか……。		text
+clev12_03b.0660	そんなことが、できるのか……。	Such a thing is possible...	text
 clev12_03b.068D	セシア	Cecia	speaker
-clev12_03b.06A2	クライヴ……{n}あなたは、ヴァスティールには会ったのですか？		text
+clev12_03b.06A2	クライヴ……{n}あなたは、ヴァスティールには会ったのですか？	Clive... have you met Vastir?	text
 clev12_03b.06EB	クライヴ	Clive	speaker
-clev12_03b.0702	ああ……会った……。{n}だが、倒せてはいない。		text
+clev12_03b.0702	ああ……会った……。{n}だが、倒せてはいない。	Yes... I've met him... But I haven't beaten{n}him.	text
 clev12_03b.073D	セシア	Cecia	speaker
-clev12_03b.0752	そうですか……。		text
-clev12_03b.0771	クライヴは、ヴァスティールの剣について{n}聞いたことはありますか？		text
+clev12_03b.0752	そうですか……。	I see...	text
+clev12_03b.0771	クライヴは、ヴァスティールの剣について{n}聞いたことはありますか？	Clive, have you heard of Vastir's sword?	text
 clev12_03b.07C0	クライヴ	Clive	speaker
-clev12_03b.07D7	いや、知らん。		text
+clev12_03b.07D7	いや、知らん。	No, I don't know of it.	text
 clev12_03b.07F4	セシア	Cecia	speaker
-clev12_03b.0809	彼の剣は天使様の祝福を受けた特別な剣でした。		text
-clev12_03b.0844	魔王となった今のヴァスティールが{n}それを持っているとは思えません。		text
-clev12_03b.0895	ですから、あの剣がどこにあるのか、{n}今はわかりません……。		text
-clev12_03b.08DE	クライヴ……どうか探し出してください。{n}剣はきっと、あなたの力になるはずです。		text
-clev12_03b.093B	そして彼を倒し、その魂を呪われた{n}肉体から救ってあげてください……。		text
+clev12_03b.0809	彼の剣は天使様の祝福を受けた特別な剣でした。	His sword was a special sword, blessed by an{n}angel.	text
+clev12_03b.0844	魔王となった今のヴァスティールが{n}それを持っているとは思えません。	I don't think Vastir, who has become a Demon{n}Lord, still has it.	text
+clev12_03b.0895	ですから、あの剣がどこにあるのか、{n}今はわかりません……。	So where that sword is now, I don't know...	text
+clev12_03b.08DE	クライヴ……どうか探し出してください。{n}剣はきっと、あなたの力になるはずです。	Clive... please, find it. The sword will{n}surely give you strength.	text
+clev12_03b.093B	そして彼を倒し、その魂を呪われた{n}肉体から救ってあげてください……。	And defeat him, and free his soul from its{n}cursed body...	text
 clev12_03b.098E	クライヴ	Clive	speaker
-clev12_03b.09A5	俺は……俺自身のためにやつを倒す。{n}ほかのことに興味はない……。		text
+clev12_03b.09A5	俺は……俺自身のためにやつを倒す。{n}ほかのことに興味はない……。	I'll... kill him for my own sake. I've no{n}interest in anything else...	text

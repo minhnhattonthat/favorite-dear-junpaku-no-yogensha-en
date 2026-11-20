@@ -3,20 +3,20 @@ ceev03.00A2	セシア	Cecia	unit name (32-byte field)
 ceev03.00DE	ジャイアント	Giant	unit name (32-byte field)
 ceev03.011A	ジャイアント	Giant	unit name (32-byte field)
 ceev03.05B8	セシア	Cecia	speaker
-ceev03.05CD	どうして村を襲うの？		text
+ceev03.05CD	どうして村を襲うの？	Why are you attacking the village?	text
 ceev03.05F0	タイタン	Titan	speaker
-ceev03.0607	ふん！{n}お前は森の一族の者だな。		text
+ceev03.0607	ふん！{n}お前は森の一族の者だな。	Hmph! You're one of the forest clan, aren't{n}you?	text
 ceev03.0636	セシア	Cecia	speaker
-ceev03.064B	村を襲わないと約束したはずでしょう？		text
+ceev03.064B	村を襲わないと約束したはずでしょう？	You promised you wouldn't attack the{n}village, didn't you?	text
 ceev03.067E	タイタン	Titan	speaker
-ceev03.0695	ふん！{n}人間が先におれたちを襲ったんだ。{n}見たことのない獣を連れた人間がなっ！！		text
+ceev03.0695	ふん！{n}人間が先におれたちを襲ったんだ。{n}見たことのない獣を連れた人間がなっ！！	Hmph! The humans attacked us first. A human{n}with a beast like none we've ever seen!!	text
 ceev03.06F4	セシア	Cecia	speaker
-ceev03.0709	獣？　あなたたちを襲った人がいるの？		text
+ceev03.0709	獣？　あなたたちを襲った人がいるの？	A beast? Someone attacked you?	text
 ceev03.073C	タイタン	Titan	speaker
-ceev03.0753	そうだ！{n}おれたちはその仕返しをしているだけだ。		text
-ceev03.0792	最初から、お前たち人間どもと{n}契約などしたくなかった……。		text
-ceev03.07DB	約束を破るのはいつも人間だ。{n}だから、この森に人間などいらん！{n}村など全部つぶしてやる！！		text
+ceev03.0753	そうだ！{n}おれたちはその仕返しをしているだけだ。	That's right! We're just paying them back.	text
+ceev03.0792	最初から、お前たち人間どもと{n}契約などしたくなかった……。	We never wanted a pact with you humans in{n}the first place...	text
+ceev03.07DB	約束を破るのはいつも人間だ。{n}だから、この森に人間などいらん！{n}村など全部つぶしてやる！！	It's always humans who break promises. So{n}this forest doesn't need humans! We'll crush{n}every last village!!	text
 ceev03.0844	セシア	Cecia	speaker
-ceev03.0859	待って！　話を聞いて！！		text
+ceev03.0859	待って！　話を聞いて！！	Wait! Listen to me!!	text
 ceev03.0880	タイタン	Titan	speaker
-ceev03.0897	うるさい！{n}まずはお前からひねりつぶしてやる！！		text
+ceev03.0897	うるさい！{n}まずはお前からひねりつぶしてやる！！	Shut up! I'll crush you first!!	text

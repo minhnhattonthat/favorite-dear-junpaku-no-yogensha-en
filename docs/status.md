@@ -84,8 +84,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   match), 混乱度 "chaos level", and MssAns places (Karnal, Cadiz, Salem, Larissa, Lanas, Erlanges/Jotun, Seriphos,
   Dilolo, Ragwort, Zarha, Rooak, Kaluga); クラン "Kran" (MssAns2, not in the table: it matches クランク etc.).
   Angel magic: 大回復 "Great Heal", 透明 "Invisibility", 連撃 "Flurry".
-- **Next (phase 6):** continue at b070 (`batches.py todo`; MssAns6 continues, then the remaining msg/evx/end/misc/ovl/exe
-  batches through b092). Budgets above; BTL_EVT banks have a 64 KB cap
+  2026-11-21 (11th worker): **b070-b078** done (MssAns6 end, MssReq mission requests with ~90 new place names,
+  NASI_NG/NASI_OK replies, SUP_Item, T_Msg00 hero advice and T_Msg01 fairy compatibility (templated by a throwaway
+  script), Cecia EVX ceev03-ceev24e incl. Ion, Serenis, Beelzebub's last battle and the Michael/Raphael rescue, Clive
+  EVX clev01-clev17; b078 ends at clev17.070D). Build + check.py green; `warp.py --event clev13.ssb` shows the Holy
+  Mother EVX in English (`work/qa/p6d/clev13_zoom.png`; its "blank" verdict is a black arrival frame, the scene runs);
+  `--event ceev16.ssb` lands on feev17's EVX (Fein, still JP: b081+). New `tools/termfind.py JP..` shows how a term
+  was already translated. Glossary gained the MssReq places, fairy sexes (Aquila f, Cetus/Lepus m), Vastir, Ion.
+- **Next (phase 6):** continue at b079 (`batches.py todo`; clev17 continues, then eiev/feev/laev/loev/roev EVX
+  b079-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

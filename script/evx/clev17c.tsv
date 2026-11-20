@@ -1,8 +1,8 @@
 id	jp	en	notes
 clev17c.00A2	クライヴ	Clive	unit name (32-byte field)
-clev17c.00DE	レイブンルフト劇		unit name (32-byte field)
-clev17c.011A	ヴァンパイア		unit name (32-byte field)
-clev17c.0156	レイブンルフト椅子		unit name (32-byte field)
+clev17c.00DE	レイブンルフト劇	Ravenruft	unit name (32-byte field)
+clev17c.011A	ヴァンパイア	Vampire	unit name (32-byte field)
+clev17c.0156	レイブンルフト椅子	Ravenruft	unit name (32-byte field)
 clev17c.04D8	レイブンルフト	Ravenruft	speaker
 clev17c.04F5	よく来た、クライヴ。{n}待っていたぞ。		text
 clev17c.0538	クライヴ	Clive	speaker

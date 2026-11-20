@@ -4,14 +4,14 @@ clev16.00DE	ジャイアント	Giant	unit name (32-byte field)
 clev16.011A	ジャイアント	Giant	unit name (32-byte field)
 clev16.0156	ジャイアント	Giant	unit name (32-byte field)
 clev16.04C8	ティタン	Titan	speaker
-clev16.04DF	な、なんのようだ……。		text
-clev16.0504	こ、ここはもう、俺達の土地。{n}人は寄せつけんぞ。		text
+clev16.04DF	な、なんのようだ……。	Wh-what do you want...	text
+clev16.0504	こ、ここはもう、俺達の土地。{n}人は寄せつけんぞ。	Th-this is our land now. We let no humans{n}near.	text
 clev16.0543	クライヴ	Clive	speaker
 clev16.055A	…………。	.....	text
 clev16.0573	ティタン	Titan	speaker
-clev16.058A	な、なぜ口を聞かん？{n}で、出て行け、殺されたいのか？		text
+clev16.058A	な、なぜ口を聞かん？{n}で、出て行け、殺されたいのか？	Wh-why don't you talk? G-get out, or do you{n}want to die?	text
 clev16.05CD	クライヴ	Clive	speaker
-clev16.05E4	行くぞ……		text
+clev16.05E4	行くぞ……	Here I come...	text
 clev16.0611	ティタン	Titan	speaker
-clev16.0628	む、むう。{n}俺達の宝をねらっているのだな。		text
-clev16.0661	こ、殺す！		text
+clev16.0628	む、むう。{n}俺達の宝をねらっているのだな。	Mm, mmh. You're after our treasure.	text
+clev16.0661	こ、殺す！	I-I'll kill you!	text

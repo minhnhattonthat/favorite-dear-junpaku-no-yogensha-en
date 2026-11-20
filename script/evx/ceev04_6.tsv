@@ -1,12 +1,12 @@
 id	jp	en	notes
 ceev04_6.00A2	セシア	Cecia	unit name (32-byte field)
 ceev04_6.00DE	イオン	Ion	unit name (32-byte field)
-ceev04_6.011A	死人女		unit name (32-byte field)
-ceev04_6.0156	死人女		unit name (32-byte field)
-ceev04_6.0192	死人子供		unit name (32-byte field)
-ceev04_6.01CE	死人子供		unit name (32-byte field)
-ceev04_6.020A	死人女		unit name (32-byte field)
+ceev04_6.011A	死人女	Dead Woman	unit name (32-byte field)
+ceev04_6.0156	死人女	Dead Woman	unit name (32-byte field)
+ceev04_6.0192	死人子供	Dead Child	unit name (32-byte field)
+ceev04_6.01CE	死人子供	Dead Child	unit name (32-byte field)
+ceev04_6.020A	死人女	Dead Woman	unit name (32-byte field)
 ceev04_6.04E8	セシア	Cecia	speaker
-ceev04_6.04FD	間に合わなかったのね……{n}ひどい……。		text
+ceev04_6.04FD	間に合わなかったのね……{n}ひどい……。	I was too late... This is horrible...	text
 ceev04_6.054E	セシア	Cecia	speaker
-ceev04_6.0563	あんなところに小さな子がまだ……		text
+ceev04_6.0563	あんなところに小さな子がまだ……	There's still a little one over there...	text

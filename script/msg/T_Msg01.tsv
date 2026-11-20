@@ -11,15 +11,15 @@ T_Msg01.0306	あなたといっしょにいる勇者の中で{n}ローザとい�
 T_Msg01.035A	あなたといっしょにいる勇者の中で{n}フロリンダといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Florinda is ＜勇者名＞.	
 T_Msg01.03B2	あなたといっしょにいる勇者の中で{n}シェリーといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Shelly is ＜勇者名＞.	
 T_Msg01.0408	あなたといっしょにいる勇者の中で{n}リリィといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Lily is ＜勇者名＞.	
-T_Msg01.045C	あなたといっしょにいる勇者の中で{n}リンクスといちばん相性がいいのは、{n}＜勇者名＞ね。		
-T_Msg01.04B2	あなたといっしょにいる勇者の中で{n}アクイラといちばん相性がいいのは、{n}＜勇者名＞ね。		
-T_Msg01.0508	あなたといっしょにいる勇者の中で{n}シータスといちばん相性がいいのは、{n}＜勇者名＞ね。		
-T_Msg01.055E	あなたといっしょにいる勇者の中で{n}レーパスといちばん相性がいいのは、{n}＜勇者名＞ね。		
-T_Msg01.05B4	あなたといっしょにいる勇者の中で{n}ローザといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.0608	あなたといっしょにいる勇者の中で{n}フロリンダといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.0660	あなたといっしょにいる勇者の中で{n}シェリーといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.06B6	あなたといっしょにいる勇者の中で{n}リリィといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.070A	あなたといっしょにいる勇者の中で{n}リンクスといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.0760	あなたといっしょにいる勇者の中で{n}アクイラといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.07B6	あなたといっしょにいる勇者の中で{n}シータスといちばん相性が悪いのは、{n}＜勇者名＞ね。		
-T_Msg01.080C	あなたといっしょにいる勇者の中で{n}レーパスといちばん相性が悪いのは、{n}＜勇者名＞ね。		
+T_Msg01.045C	あなたといっしょにいる勇者の中で{n}リンクスといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Lynx is ＜勇者名＞.	
+T_Msg01.04B2	あなたといっしょにいる勇者の中で{n}アクイラといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Aquila is ＜勇者名＞.	
+T_Msg01.0508	あなたといっしょにいる勇者の中で{n}シータスといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Cetus is ＜勇者名＞.	
+T_Msg01.055E	あなたといっしょにいる勇者の中で{n}レーパスといちばん相性がいいのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along best with Lepus is ＜勇者名＞.	
+T_Msg01.05B4	あなたといっしょにいる勇者の中で{n}ローザといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Rosa is ＜勇者名＞.	
+T_Msg01.0608	あなたといっしょにいる勇者の中で{n}フロリンダといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Florinda is ＜勇者名＞.	
+T_Msg01.0660	あなたといっしょにいる勇者の中で{n}シェリーといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Shelly is ＜勇者名＞.	
+T_Msg01.06B6	あなたといっしょにいる勇者の中で{n}リリィといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Lily is ＜勇者名＞.	
+T_Msg01.070A	あなたといっしょにいる勇者の中で{n}リンクスといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Lynx is ＜勇者名＞.	
+T_Msg01.0760	あなたといっしょにいる勇者の中で{n}アクイラといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Aquila is ＜勇者名＞.	
+T_Msg01.07B6	あなたといっしょにいる勇者の中で{n}シータスといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Cetus is ＜勇者名＞.	
+T_Msg01.080C	あなたといっしょにいる勇者の中で{n}レーパスといちばん相性が悪いのは、{n}＜勇者名＞ね。	Of the heroes with you, the one who gets{n}along worst with Lepus is ＜勇者名＞.	

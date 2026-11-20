@@ -1,72 +1,72 @@
 id	jp	en	notes
-loev25b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
+loev25b.0002	ラストバトル(無様に食われる)	Last Battle (eaten)	dev label (guess: not shown)
 loev25b.00A2	ルディ	Rudi	unit name (32-byte field)
 loev25b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
-loev25b.011A	天竜		unit name (32-byte field)
+loev25b.011A	天竜	Heavenly Dragon	unit name (32-byte field)
 loev25b.04A8	ルディエール	Rudiere	speaker
 loev25b.04C3	くそっ……		text
 loev25b.04EC	エンディミオン	Endymion	speaker
-loev25b.0509	どうだ、わかったか？		text
-loev25b.053C	これが、支配者の力だ。		text
-loev25b.0571	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
-loev25b.05C8	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！		text
-loev25b.0627	神という名は我らのためにあるのだ……		text
-loev25b.066A	きょう慢な天使よ、思い知るがいい。		text
-loev25b.06AB	しかし……我々は{n}王としての慈悲を知るものだ……		text
-loev25b.06FA	高貴なものだけがもつ偉大な慈悲だ。		text
-loev25b.073B	天使よ、この勇者の魂を救いたくはないか？		text
-loev25b.0782	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。		text
-loev25b.0809	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。		text
-loev25b.0880	さあ、答えよ。		text
-loev25b.08AD	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
-loev25b.090C	《わかりました……》		choice
-loev25b.0923	《いいえ……》		choice
+loev25b.0509	どうだ、わかったか？	Well? Do you understand now?	text
+loev25b.053C	これが、支配者の力だ。	This is the power of a ruler.	text
+loev25b.0571	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。	You could not have left a single scratch on{n}me, not even laid a finger on me.	text
+loev25b.05C8	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！	This power... this very power is the proof{n}that we shall rule over all!	text
+loev25b.0627	神という名は我らのためにあるのだ……	The name of god exists for us...	text
+loev25b.066A	きょう慢な天使よ、思い知るがいい。	Learn your place, arrogant angel.	text
+loev25b.06AB	しかし……我々は{n}王としての慈悲を知るものだ……	But... we know the mercy of a king...	text
+loev25b.06FA	高貴なものだけがもつ偉大な慈悲だ。	The great mercy that only the noble possess.	text
+loev25b.073B	天使よ、この勇者の魂を救いたくはないか？	Angel, do you not wish to save this hero's{n}soul?	text
+loev25b.0782	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。	Come to us as a messenger of the new god,{n}and I shall forget all you have done and{n}save you and this hero.	text
+loev25b.0809	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。	Having touched our great power, you{n}understand now, do you not? Which side is{n}right, and which is wrong.	text
+loev25b.0880	さあ、答えよ。	Now, answer.	text
+loev25b.08AD	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？	Will you serve us, or be devoured by the{n}Heavenly Dragon along with this hero and{n}vanish?	text
+loev25b.090C	《わかりました……》	I understand...	choice
+loev25b.0923	《いいえ……》	No...	choice
 loev25b.0944	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev25b.095F	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
+loev25b.095F	……はい……わかりました……{n}私はあなたの使いとなりましょう……	...Yes... I understand... I will become your{n}messenger...	text
 loev25b.09AE	どうか……彼の魂を、{n}彼の命を救ってください……		text
 loev25b.09FD	エンディミオン	Endymion	speaker
-loev25b.0A1A	ふふ、すばらしい。{n}いい心ばえだ……		text
-loev25b.0A5D	では……この勇者を救ってやろう……。		text
+loev25b.0A1A	ふふ、すばらしい。{n}いい心ばえだ……	Heh, splendid. A fine spirit...	text
+loev25b.0A5D	では……この勇者を救ってやろう……。	Then... I shall save this hero...	text
 loev25b.0AE4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev25b.0AFF	ルディ！！		text
 loev25b.0B28	エンディミオン	Endymion	speaker
-loev25b.0B45	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
-loev25b.0B9E	すべてを失ったその顔が見たかったのだ！		text
-loev25b.0BE3	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
-loev25b.0C3A	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
-loev25b.0C89	死ね。		text
+loev25b.0B45	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……	Ha ha ha ha ha ha! Yes! That look... the{n}look of your despair...	text
+loev25b.0B9E	すべてを失ったその顔が見たかったのだ！	I wanted to see that face, the face of one{n}who has lost everything!	text
+loev25b.0BE3	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。	Truly, the foolishness of you angels is{n}beyond saving...	text
+loev25b.0C3A	さあ、お前も竜の体内で勇者と一緒にしてやろう……	Now, I'll put you inside the dragon together{n}with your hero...	text
+loev25b.0C89	死ね。	Die.	text
 loev25b.0CFE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev25b.0D19	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
+loev25b.0D19	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。	No... I am an angel... I cannot sell my soul{n}to a devil...	text
 loev25b.0D6A	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
 loev25b.0DE1	エンディミオン	Endymion	speaker
-loev25b.0DFE	ふん、小賢しいことを……。		text
-loev25b.0E37	いいだろう。		text
-loev25b.0E62	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
+loev25b.0DFE	ふん、小賢しいことを……。	Hmph, what impertinence...	text
+loev25b.0E37	いいだろう。	Very well.	text
+loev25b.0E62	お前らも死んでサタン様の魂の{n}癒しとなれ。	You too shall die and become balm for Lord{n}Satan's soul.	text
 loev25b.0EAB	男の声	Man's Voice	speaker
-loev25b.0EC0	待て、ベルゼバブ……		text
+loev25b.0EC0	待て、ベルゼバブ……	Wait, Beelzebub...	text
 loev25b.0F1B	エンディミオン	Endymion	speaker
-loev25b.0F38	私の真の名を呼ぶとは……		text
+loev25b.0F38	私の真の名を呼ぶとは……	You call me by my true name...	text
 loev25b.0F6F	男の声	Man's Voice	speaker
-loev25b.0F84	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
+loev25b.0F84	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……	How could I forget those red eyes of yours,{n}or your filthy tricks...	text
 loev25b.0FDB	ベルゼバブ	Beelzebub	speaker
-loev25b.0FF4	その声……この波動は！！		text
+loev25b.0FF4	その声……この波動は！！	That voice... this aura!!	text
 loev25b.10BB	ミカエル	Michael	speaker
-loev25b.10D2	久しぶりだな、ハエの王。		text
+loev25b.10D2	久しぶりだな、ハエの王。	It's been a long time, Lord of the Flies.	text
 loev25b.1109	ベルゼバブ	Beelzebub	speaker
-loev25b.1122	ミカエル！　ラファエル！		text
+loev25b.1122	ミカエル！　ラファエル！	Michael! Raphael!	text
 loev25b.1159	ミカエル	Michael	speaker
-loev25b.1170	遅れてすまなかったな、＄＄＄＄＄＄。		text
+loev25b.1170	遅れてすまなかったな、＄＄＄＄＄＄。	Forgive me for being late, ＄＄＄＄＄＄.	text
 loev25b.11B3	ラファエル	Raphael	speaker
-loev25b.11CC	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
-loev25b.122F	そして、影にいる堕天使の存在の強大さも……。		text
+loev25b.11CC	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。	I knew that a day like this would come when{n}Satan's dragon was revived...	text
+loev25b.122F	そして、影にいる堕天使の存在の強大さも……。	And how great the power of the fallen angel{n}lurking in the shadows was...	text
 loev25b.127A	ミカエル	Michael	speaker
-loev25b.1291	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
-loev25b.12EE	やつらを、ともに倒そう。		text
+loev25b.1291	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。	We can't leave Beelzebub and Satan's{n}Heavenly Dragon to you alone.	text
+loev25b.12EE	やつらを、ともに倒そう。	Let's defeat them together.	text
 loev25b.1325	ラファエル	Raphael	speaker
-loev25b.133E	さあ、勇者よ、よみがえりなさい。		text
+loev25b.133E	さあ、勇者よ、よみがえりなさい。	Now, hero, rise again.	text
 loev25b.1411	ルディエール	Rudiere	speaker
 loev25b.142C	……これは。		text
 loev25b.1457	ラファエル	Raphael	speaker
-loev25b.1470	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
+loev25b.1470	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。	Hero of the world below, show the devil the{n}strength of humans once more.	text
 loev25b.14C3	ベルゼバブ	Beelzebub	speaker
-loev25b.14DC	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text
+loev25b.14DC	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！	No matter how many of you gather, this human{n}can never defeat me!	text

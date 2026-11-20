@@ -1,19 +1,19 @@
 id	jp	en	notes
-ceev20c.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
+ceev20c.0002	セレニス戦（戦闘後）	Serenis Battle (after)	dev label (guess: not shown)
 ceev20c.00A2	セシア	Cecia	unit name (32-byte field)
 ceev20c.00DE	セレニス	Serenis	unit name (32-byte field)
-ceev20c.011A	覚醒エンディミオン		unit name (32-byte field)
+ceev20c.011A	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
 ceev20c.0156	エンディミオン	Endymion	unit name (32-byte field)
-ceev20c.0192	椅子		unit name (32-byte field)
-ceev20c.01CE	魔石の台		unit name (32-byte field)
+ceev20c.0192	椅子	Chair	unit name (32-byte field)
+ceev20c.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
 ceev20c.04AC	セシア	Cecia	speaker
-ceev20c.04C1	そ、そんな……。		text
+ceev20c.04C1	そ、そんな……。	N-no...	text
 ceev20c.04FC	セレニス	Serenis	speaker
-ceev20c.0513	フフフフ……{n}これが正義の末路よ。		text
-ceev20c.0558	……うっ……。		text
+ceev20c.0513	フフフフ……{n}これが正義の末路よ。	Heh heh heh heh... This is how justice ends.	text
+ceev20c.0558	……うっ……。	...Ugh...	text
 ceev20c.0595	セシア	Cecia	speaker
-ceev20c.05AA	魔女の動きが、止まった？		text
-ceev20c.066D	悪魔		speaker
-ceev20c.0680	くっ、最後に刃向かいおってこの女……		text
-ceev20c.06C3	まあこの体にも飽きていた頃だ……ちょうどいい。		text
-ceev20c.0710	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。		text
+ceev20c.05AA	魔女の動きが、止まった？	The witch stopped moving?	text
+ceev20c.066D	悪魔	Devil	speaker
+ceev20c.0680	くっ、最後に刃向かいおってこの女……	Ngh, defying me at the very end, this{n}woman...	text
+ceev20c.06C3	まあこの体にも飽きていた頃だ……ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text
+ceev20c.0710	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。	Lowly angel, don't get cocky just because{n}you killed one vessel...	text

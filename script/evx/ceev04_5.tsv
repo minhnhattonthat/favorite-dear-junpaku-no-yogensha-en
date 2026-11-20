@@ -1,14 +1,14 @@
 id	jp	en	notes
 ceev04_5.00A2	レイラ	Leyla	unit name (32-byte field)
 ceev04_5.00DE	イオン	Ion	unit name (32-byte field)
-ceev04_5.011A	死人女		unit name (32-byte field)
-ceev04_5.0156	死人女		unit name (32-byte field)
-ceev04_5.0192	死人子供		unit name (32-byte field)
-ceev04_5.01CE	死人子供		unit name (32-byte field)
-ceev04_5.020A	死人女		unit name (32-byte field)
+ceev04_5.011A	死人女	Dead Woman	unit name (32-byte field)
+ceev04_5.0156	死人女	Dead Woman	unit name (32-byte field)
+ceev04_5.0192	死人子供	Dead Child	unit name (32-byte field)
+ceev04_5.01CE	死人子供	Dead Child	unit name (32-byte field)
+ceev04_5.020A	死人女	Dead Woman	unit name (32-byte field)
 ceev04_5.04C8	レイラ	Leyla	speaker
-ceev04_5.04DD	間に合わなかったの……？		text
+ceev04_5.04DD	間に合わなかったの……？	I was too late...?	text
 ceev04_5.0510	レイラ	Leyla	speaker
-ceev04_5.0525	子供……？		text
+ceev04_5.0525	子供……？	A child...?	text
 ceev04_5.058A	レイラ	Leyla	speaker
-ceev04_5.059F	待って！		text
+ceev04_5.059F	待って！	Wait!	text

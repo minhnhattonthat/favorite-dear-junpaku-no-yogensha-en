@@ -1,12 +1,12 @@
 id	jp	en	notes
-laev23.0002	クラレンス戦		dev label (guess: not shown)
+laev23.0002	クラレンス戦	Clarence Battle	dev label (guess: not shown)
 laev23.00A2	レイラ	Leyla	unit name (32-byte field)
 laev23.00DE	クラレンス	Clarence	unit name (32-byte field)
 laev23.0498	クラレンス	Clarence	speaker
-laev23.04B1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
+laev23.04B1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……	Angel's hero, huh... Seeing people like{n}you... makes my skin crawl...	text
 laev23.0506	レイラ	Leyla	speaker
 laev23.051B	どうして、あなたは戦うの？{n}命を無駄にすることはないでしょう？		text
 laev23.0568	クラレンス	Clarence	speaker
 laev23.0581	フン、あんたには関係ねえよ。		text
-laev23.05AC	こんな世界、たいしたもんじゃねえ。{n}なくなっちまったほうがせいせいすんだよ。		text
-laev23.0607	行くぜ、偽善者。		text
+laev23.05AC	こんな世界、たいしたもんじゃねえ。{n}なくなっちまったほうがせいせいすんだよ。	This world's nothing special. I'd feel{n}better if it was just gone.	text
+laev23.0607	行くぜ、偽善者。	Here I come, hypocrite.	text

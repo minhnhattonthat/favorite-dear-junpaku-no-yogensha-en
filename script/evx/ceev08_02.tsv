@@ -1,27 +1,27 @@
 id	jp	en	notes
-ceev08_02.0002	聖母2		dev label (guess: not shown)
+ceev08_02.0002	聖母2	Holy Mother 2	dev label (guess: not shown)
 ceev08_02.00A2	セシア	Cecia	unit name (32-byte field)
 ceev08_02.00DE	聖母	Holy Mother	unit name (32-byte field)
-ceev08_02.011A	魔獣１		unit name (32-byte field)
-ceev08_02.0156	魔獣２		unit name (32-byte field)
-ceev08_02.0192	魔獣３		unit name (32-byte field)
+ceev08_02.011A	魔獣１	Beast 1	unit name (32-byte field)
+ceev08_02.0156	魔獣２	Beast 2	unit name (32-byte field)
+ceev08_02.0192	魔獣３	Beast 3	unit name (32-byte field)
 ceev08_02.01CE	イオン	Ion	unit name (32-byte field)
 ceev08_02.0498	イオン	Ion	speaker
-ceev08_02.04AD	魔石を渡せ。{n}渡さないと殺す。		text
+ceev08_02.04AD	魔石を渡せ。{n}渡さないと殺す。	Hand over the Demon Stone. Or I'll kill you.	text
 ceev08_02.04DA	聖母	Holy Mother	speaker
-ceev08_02.04ED	強き力を持つ幼き子……{n}あなたが、なんと言おうとも{n}この石を渡すわけにはいきません。		text
+ceev08_02.04ED	強き力を持つ幼き子……{n}あなたが、なんと言おうとも{n}この石を渡すわけにはいきません。	Little child with great power... Whatever{n}you may say, I cannot give you this stone.	text
 ceev08_02.0550	イオン	Ion	speaker
 ceev08_02.0565	…………。	.....	text
-ceev08_02.057E	ゾネ！　モーント！　スターン！{n}こいつを殺せ！　		text
+ceev08_02.057E	ゾネ！　モーント！　スターン！{n}こいつを殺せ！　	Sonne! Mond! Stern! Kill her!	text
 ceev08_02.0649	セシア	Cecia	speaker
-ceev08_02.065E	やめて！		text
+ceev08_02.065E	やめて！	Stop!	text
 ceev08_02.0725	イオン	Ion	speaker
-ceev08_02.073A	お前……		text
+ceev08_02.073A	お前……	You...	text
 ceev08_02.0761	セシア	Cecia	speaker
-ceev08_02.0776	あなた、あの時の……		text
+ceev08_02.0776	あなた、あの時の……	You're the one from that time...	text
 ceev08_02.07A9	イオン	Ion	speaker
-ceev08_02.07BE	じゃまするな……		text
+ceev08_02.07BE	じゃまするな……	Don't get in my way...	text
 ceev08_02.07ED	セシア	Cecia	speaker
-ceev08_02.0802	なぜあなたがこんなことをするの？{n}理由を聞かせて……。		text
+ceev08_02.0802	なぜあなたがこんなことをするの？{n}理由を聞かせて……。	Why are you doing this? Tell me why...	text
 ceev08_02.0857	イオン	Ion	speaker
-ceev08_02.086C	うるさい……。{n}……今度来るときは必ず魔石をもらうからな。		text
+ceev08_02.086C	うるさい……。{n}……今度来るときは必ず魔石をもらうからな。	Shut up... ...Next time I come, I'm taking{n}the Demon Stone for sure.	text

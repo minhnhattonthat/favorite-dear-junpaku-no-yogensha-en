@@ -241,4 +241,23 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   report towns: テルエル Teruel, レウス Leus, ラミア Lamia, イエーナ Jena, ケナー Kenner, キエラング Kierang, ファーノ
   Fano, カラーラ Carrara, グラーツ Graz, アールスト Aalst, クングル Kungur, アーラウ Aarau, ラジェス Rajes, リエージュ
   Liege, リメイラ Limeira. ユーグ・ゼイント "Hugues Zeint" (king of Legrance). 信頼度 "Trust".
+- MssReq mission requests (b070-b072; the angel's polite asks, "Won't you please..."). Places: ガラルス Galarus, デーバ
+  Deva, ガウハーティ Gauhati, アルバリア Albaria, ダルース Darus, ラビルク Labirk, クール Kuhl, ルッカ Lucca, ライース
+  Rais, ロラライ Loralai, ナクファ Nakfa, ブラシア Brasia, ブレンナー Brenner, グァイラ Guaira, セルバ Selva,
+  コリエンテス Corrientes, タルラック Tarlac, リガ Riga, ハーイル Hayil, クラン Kran, テセル Texel, ウル Ur, ディナル
+  Dinar, ファロ Faro, タイシュート Taishut, マリリア Marilia, ブレンナール Brennar, タラ Tara, ラグニッツ Ragnitz,
+  トゥルタ Turta, クラクフ Krakow, フレゼレシア Frezelecia, フネアドラ Hunedoara, トゥルラ Turla, アドラル Adrar, リダ
+  Lida, ターラント Taranto, スゥオレ Suore, ティローン Tyrone, リフィー Liffey, セミララ Semirara, ルゴジュ Lugoj,
+  アレス Ares (マナウス Manaus, ポーポ Popo, ククタ Cucuta; 赤の盗賊団 "the Red Bandits"), レカイ Rekai, ロルカ Lorca,
+  ティクル Ticul, ラングーサ Langusa, トルン Torun, テテ Tete, アガディール Agadir, フフーフ Hofuf, レーンディア Lendia,
+  ウェルス Wels, リゼ Rize, アイオナ Iona, ラシード Rashid, ミスラタ Misrata, ボーバール Bobar, ミルザプル Mirzapur,
+  ナーシク Nashik, レンボルク Lemborg, ヌーク Nuuk, クエッタ Quetta, レシフェ Recife, デルフゼイル Delfzijl, トラン
+  Tran, アルマビラ Almavila, シラグザ Siragusa, アナディール Anadyr, シグル Sigul, ルセナ Lucena, ウトレラ Utrera,
+  リアザ Riaza, ルーセラーレ Roeselare, キュロ Curo, エルメド Elmed, トゥルカナ Turkana, セアラ Ceara.
+- Fairy sexes: Aquila female; Cetus (オレ) and Lepus male (Y08ev "he"); Lynx a boy. T_Msg00/01 (advice on heroes and
+  fairies, female speaker, "Very well...") are templated per hero; T_Msg00 is the biggest MSG bank, keep it lean.
+- Cecia/Clive EVX (b076-b078): イオン・アズバード Ion Azbard (boy, beasts ゾネ/モーント/スターン "Sonne/Mond/Stern");
+  ヴァスティール Vastir = Ravenruft's name a thousand years ago (Diana's comrade); ガープ Gaap; コキュートス Cocytus;
+  ハエの王 "Lord of the Flies" (Beelzebub); 闇の王子 "Prince of Darkness" (Clive); 死人女/死人子供 unit names "Dead
+  Woman"/"Dead Child"; EVX choices 《...》 have no {n}: plain text. EVX titles (.0002 dev labels) get short English.
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

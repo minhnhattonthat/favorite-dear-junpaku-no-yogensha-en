@@ -1,20 +1,20 @@
 id	jp	en	notes
-loev21c.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
+loev21c.0002	セレニス戦（戦闘後）	Serenis Battle (after)	dev label (guess: not shown)
 loev21c.00A2	ルディエール	Rudiere	unit name (32-byte field)
 loev21c.00DE	セレニス	Serenis	unit name (32-byte field)
-loev21c.011A	覚醒エンディミオン		unit name (32-byte field)
+loev21c.011A	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
 loev21c.0156	エンディミオン	Endymion	unit name (32-byte field)
-loev21c.0192	椅子		unit name (32-byte field)
-loev21c.01CE	魔石の台		unit name (32-byte field)
+loev21c.0192	椅子	Chair	unit name (32-byte field)
+loev21c.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
 loev21c.04AC	ルディエール	Rudiere	speaker
 loev21c.04C7	うっ……		text
 loev21c.04FA	セレニス	Serenis	speaker
-loev21c.0511	フフフフ……{n}これが正義の末路よ。		text
-loev21c.0556	……うっ……。		text
+loev21c.0511	フフフフ……{n}これが正義の末路よ。	Heh heh heh heh... This is how justice ends.	text
+loev21c.0556	……うっ……。	...Ugh...	text
 loev21c.0593	クライヴ	Clive	speaker
-loev21c.05AA	魔女の動きが、止まった？		text
-loev21c.06CD	悪魔		speaker
-loev21c.06E0	くっ、最後に刃向かいおってこの女……		text
-loev21c.07AF	悪魔		speaker
-loev21c.07C2	まあこの体にも飽きていた頃だ……ちょうどいい。		text
-loev21c.080F	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。		text
+loev21c.05AA	魔女の動きが、止まった？	The witch stopped moving?	text
+loev21c.06CD	悪魔	Devil	speaker
+loev21c.06E0	くっ、最後に刃向かいおってこの女……	Ngh, defying me at the very end, this{n}woman...	text
+loev21c.07AF	悪魔	Devil	speaker
+loev21c.07C2	まあこの体にも飽きていた頃だ……ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text
+loev21c.080F	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。	Lowly angel, don't get cocky just because{n}you killed one vessel...	text

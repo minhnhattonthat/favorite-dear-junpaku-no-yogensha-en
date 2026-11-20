@@ -1,32 +1,32 @@
 id	jp	en	notes
 Clev06c.00A2	クライヴ	Clive	unit name (32-byte field)
-Clev06c.00DE	ヴァンパイア		unit name (32-byte field)
+Clev06c.00DE	ヴァンパイア	Vampire	unit name (32-byte field)
 Clev06c.0498	クライヴ	Clive	speaker
 Clev06c.04AF	…………。	.....	text
 Clev06c.0544	吸血鬼	Vampire	speaker
-Clev06c.0559	ふむ……{n}せっかくのお父上からの贈り物{n}無駄だったようですな。		text
+Clev06c.0559	ふむ……{n}せっかくのお父上からの贈り物{n}無駄だったようですな。	Hmm... It seems the gift from your father{n}was wasted.	text
 Clev06c.05A6	クライヴ	Clive	speaker
-Clev06c.05BD	貴様は？		text
+Clev06c.05BD	貴様は？	Who are you?	text
 Clev06c.05D4	吸血鬼ブラス	Vampire Blas	speaker
-Clev06c.05EF	ブラスと申すものです。{n}王の使いであなたに会いに来ました。		text
+Clev06c.05EF	ブラスと申すものです。{n}王の使いであなたに会いに来ました。	My name is Blas. I've come to see you as the{n}king's messenger.	text
 Clev06c.062C			text
-Clev06c.0638	しかし……{n}あのときの子供がこんなに大きくなるとは。		text
-Clev06c.067B	どこかでのたれ死んだかと思っていましたよ。		text
+Clev06c.0638	しかし……{n}あのときの子供がこんなに大きくなるとは。	But... to think the child from that time{n}would grow so big.	text
+Clev06c.067B	どこかでのたれ死んだかと思っていましたよ。	I thought you'd died in a ditch somewhere.	text
 Clev06c.06B4	クライヴ	Clive	speaker
-Clev06c.06CB	なんだと？		text
+Clev06c.06CB	なんだと？	What?	text
 Clev06c.06E4	吸血鬼ブラス	Vampire Blas	speaker
-Clev06c.06FF	覚えていないでしょうね。		text
-Clev06c.0726	あなたの村を襲った時、ただひとり{n}見逃してあげたことを。		text
+Clev06c.06FF	覚えていないでしょうね。	You wouldn't remember, I suppose.	text
+Clev06c.0726	あなたの村を襲った時、ただひとり{n}見逃してあげたことを。	When we attacked your village, you were the{n}only one I let go.	text
 Clev06c.076D	クライヴ	Clive	speaker
-Clev06c.0784	貴様かっ！！！		text
+Clev06c.0784	貴様かっ！！！	It was you!!!	text
 Clev06c.07C1	クライヴ	Clive	speaker
-Clev06c.07D8	うっ……くっ！		text
+Clev06c.07D8	うっ……くっ！	Ugh... ngh!	text
 Clev06c.07F5	吸血鬼ブラス	Vampire Blas	speaker
-Clev06c.0810	ハハハハ、あなたは甘い血の魅力より{n}怒りの衝動に弱いようですな。		text
-Clev06c.085F	しかし、それが王の血の偉大さです。		text
-Clev06c.0890	誰も、自分の欲望にさからうことは{n}できない。		text
-Clev06c.08CB	その姿ではわざわざ私たちが手を煩わさずとも、{n}いずれこちら側の住人になるでしょうな。		text
-Clev06c.092E	また、会いましょう。闇の王子。{n}待っていますよ。		text
-Clev06c.096D	フハハハハ。		text
+Clev06c.0810	ハハハハ、あなたは甘い血の魅力より{n}怒りの衝動に弱いようですな。	Ha ha ha ha, it seems you're weaker to the{n}urge of anger than to the lure of sweet{n}blood.	text
+Clev06c.085F	しかし、それが王の血の偉大さです。	But that is the greatness of the king's{n}blood.	text
+Clev06c.0890	誰も、自分の欲望にさからうことは{n}できない。	No one can defy their own desires.	text
+Clev06c.08CB	その姿ではわざわざ私たちが手を煩わさずとも、{n}いずれこちら側の住人になるでしょうな。	In that state, you'll join our side sooner{n}or later without us lifting a finger.	text
+Clev06c.092E	また、会いましょう。闇の王子。{n}待っていますよ。	We'll meet again, Prince of Darkness. I'll{n}be waiting.	text
+Clev06c.096D	フハハハハ。	Ha ha ha ha ha.	text
 Clev06c.09A4	クライヴ	Clive	speaker
-Clev06c.09BB	待て……！		text
+Clev06c.09BB	待て……！	Wait...!	text

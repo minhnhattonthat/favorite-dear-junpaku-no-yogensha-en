@@ -2,7 +2,7 @@ id	jp	en	notes
 eiev09.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev09.00DE	聖母	Holy Mother	unit name (32-byte field)
 eiev09.04C8	聖母	Holy Mother	speaker
-eiev09.04DB	戦士よ、よくここまで来ました。		text
+eiev09.04DB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
 eiev09.0508	アイリーン	Irene	speaker
 eiev09.0521	あなたは……。		text
 eiev09.053E	聖母	Holy Mother	speaker
@@ -27,7 +27,7 @@ eiev09.0894	アイリーン	Irene	speaker
 eiev09.08AD	そうなのですね……やっぱり……。		text
 eiev09.08DC	あの、聖母様……お聞きしてよろしいですか？		text
 eiev09.0915	聖母	Holy Mother	speaker
-eiev09.0928	はい。		text
+eiev09.0928	はい。	Yes.	text
 eiev09.093D	アイリーン	Irene	speaker
 eiev09.0956	ここに……ここに魔石はあるのですか？		text
 eiev09.0989	聖母	Holy Mother	speaker

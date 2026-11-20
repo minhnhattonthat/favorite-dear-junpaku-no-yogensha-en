@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev16.0002	兄妹		dev label (guess: not shown)
 loev16.00A2	ルディ	Rudi	unit name (32-byte field)
-loev16.00DE	サヴィオ通常		unit name (32-byte field)
+loev16.00DE	サヴィオ通常	Savio (normal)	unit name (32-byte field)
 loev16.011A	サヴィア	Savia	unit name (32-byte field)
 loev16.0156	サヴィオ変身		unit name (32-byte field)
 loev16.0550	ルディエール	Rudiere	speaker

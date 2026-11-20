@@ -1,14 +1,14 @@
 id	jp	en	notes
 ceev16b.00A2	セシア	Cecia	unit name (32-byte field)
 ceev16b.00DE	イオン	Ion	unit name (32-byte field)
-ceev16b.011A	イオンの母		unit name (32-byte field)
+ceev16b.011A	イオンの母	Ion's Mother	unit name (32-byte field)
 ceev16b.04BC	セシア	Cecia	speaker
-ceev16b.04D1	もう、戦うのはやめなさい……。		text
+ceev16b.04D1	もう、戦うのはやめなさい……。	Stop fighting now...	text
 ceev16b.050E	イオン	Ion	speaker
-ceev16b.0523	うるさい……。		text
+ceev16b.0523	うるさい……。	Shut up...	text
 ceev16b.0550	セシア	Cecia	speaker
-ceev16b.0565	あなたの悲しみはわかるわ……		text
-ceev16b.05A0	でも、本当はあなたもわかっているはず……。		text
-ceev16b.05E9	お母さんがもう帰ってこないことを……。		text
+ceev16b.0565	あなたの悲しみはわかるわ……	I understand your sorrow...	text
+ceev16b.05A0	でも、本当はあなたもわかっているはず……。	But deep down, you must know too...	text
+ceev16b.05E9	お母さんがもう帰ってこないことを……。	That your mother isn't coming back...	text
 ceev16b.062E	イオン	Ion	speaker
-ceev16b.0643	うるさい……うるさい……。		text
+ceev16b.0643	うるさい……うるさい……。	Shut up... shut up...	text

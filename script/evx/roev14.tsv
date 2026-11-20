@@ -1,18 +1,18 @@
 id	jp	en	notes
 roev14.00A2	ロクス	Rocus	unit name (32-byte field)
 roev14.00DE	イオン	Ion	unit name (32-byte field)
-roev14.011A	イオンの母		unit name (32-byte field)
-roev14.0156	ベッド		unit name (32-byte field)
+roev14.011A	イオンの母	Ion's Mother	unit name (32-byte field)
+roev14.0156	ベッド	Bed	unit name (32-byte field)
 roev14.0518	ロクス	Rocus	speaker
 roev14.052D	＄＄＄＄＄＄、あそこにいる子供……。{n}聖母の森に現れた魔獣使いじゃないか？		text
 roev14.0586	気づいていないのか？{n}追おう、＄＄＄＄＄＄。		text
 roev14.0695	イオン	Ion	speaker
-roev14.06AA	母さん、今帰ったよ。		text
+roev14.06AA	母さん、今帰ったよ。	Mom, I'm home.	text
 roev14.072D	イオン	Ion	speaker
-roev14.0742	村から食べ物を持ってきたんだ……。		text
-roev14.0783	きっともうすぐ、あの人がやってきて{n}母さんを元気にしてくれる……。		text
-roev14.07E4	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。		text
-roev14.083B	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。		text
+roev14.0742	村から食べ物を持ってきたんだ……。	I brought food from the village...	text
+roev14.0783	きっともうすぐ、あの人がやってきて{n}母さんを元気にしてくれる……。	I'm sure that lady will come soon and make{n}you well, Mom...	text
+roev14.07E4	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。	Because me and Stern and the others found{n}the stone she promised.	text
+roev14.083B	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。	You'll get well for sure... Don't worry...{n}Oh, right, you need water. I'll go get some.	text
 roev14.0938	ロクス	Rocus	speaker
 roev14.094D	石？{n}まさか、魔石か？		text
 roev14.09C2	ロクス	Rocus	speaker
@@ -29,4 +29,4 @@ roev14.0C12	僕はどんな魔術師にも{n}それができないことを知�
 roev14.0C55	君は信じられなくとも……{n}それが真実だ……		text
 roev14.0C8E	イオン	Ion	speaker
 roev14.0CA3	う、うるさい！　ぼくの邪魔をするな！		text
-roev14.0CD6	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！		text
+roev14.0CD6	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！	Sonne! Mond! Stern! Get her!	text

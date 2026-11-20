@@ -4,52 +4,52 @@ ceev16d.00DE	イオン	Ion	unit name (32-byte field)
 ceev16d.011A	セレニス	Serenis	unit name (32-byte field)
 ceev16d.0156	母親	Mother	unit name (32-byte field)
 ceev16d.0574	セレニス	Serenis	speaker
-ceev16d.058B	魔石をもらいに来たわ。イオン！		text
+ceev16d.058B	魔石をもらいに来たわ。イオン！	I've come for the Demon Stone. Ion!	text
 ceev16d.05C4	セレニス	Serenis	speaker
-ceev16d.05DB	ん？　誰だ、お前は。		text
+ceev16d.05DB	ん？　誰だ、お前は。	Hm? Who are you?	text
 ceev16d.05FE	セシア	Cecia	speaker
-ceev16d.0613	あなた……{n}あなたが、イオンを利用していたのね……。		text
+ceev16d.0613	あなた……{n}あなたが、イオンを利用していたのね……。	You... You were the one using Ion...	text
 ceev16d.0656	セレニス	Serenis	speaker
-ceev16d.066D	その雰囲気……天使の勇者か。		text
+ceev16d.066D	その雰囲気……天使の勇者か。	That aura... the angel's hero, is it?	text
 ceev16d.0698	セシア	Cecia	speaker
-ceev16d.06AD	こんな小さな子を……だまして……ひどい……。		text
+ceev16d.06AD	こんな小さな子を……だまして……ひどい……。	Deceiving such a little boy... How cruel...	text
 ceev16d.06E8	セレニス	Serenis	speaker
-ceev16d.06FF	取引は取引、約束は果たすわ。{n}さあ、イオン、お母さんを元気にしてあげるわ。		text
+ceev16d.06FF	取引は取引、約束は果たすわ。{n}さあ、イオン、お母さんを元気にしてあげるわ。	A deal is a deal. I'll keep my promise. Now,{n}Ion, I'll make your mother well again.	text
 ceev16d.0758	イオン	Ion	speaker
-ceev16d.076D	え？		text
+ceev16d.076D	え？	Huh?	text
 ceev16d.0780	セレニス	Serenis	speaker
-ceev16d.0797	信じていないのね……いいわほら……。		text
+ceev16d.0797	信じていないのね……いいわほら……。	You don't believe me... Fine, look...	text
 ceev16d.07DE	イオン	Ion	speaker
-ceev16d.07F3	母さん！？		text
+ceev16d.07F3	母さん！？	Mom?!	text
 ceev16d.0850	セレニス	Serenis	speaker
-ceev16d.0867	あなたの大事なお母さんよ。イオン。		text
+ceev16d.0867	あなたの大事なお母さんよ。イオン。	It's your precious mother, Ion.	text
 ceev16d.0898	イオン	Ion	speaker
-ceev16d.08AD	……違う。母さんじゃない……{n}やっぱり、もう……母さんはいない……。		text
+ceev16d.08AD	……違う。母さんじゃない……{n}やっぱり、もう……母さんはいない……。	...No. That's not Mom... I knew it...{n}Mom's... already gone...	text
 ceev16d.0944	セレニス	Serenis	speaker
 ceev16d.095B	…………。	.....	text
 ceev16d.0A0C	イオン	Ion	speaker
-ceev16d.0A21	うあっ！！		text
+ceev16d.0A21	うあっ！！	Aaagh!!	text
 ceev16d.0A4E	セシア	Cecia	speaker
-ceev16d.0A63	イオン！		text
+ceev16d.0A63	イオン！	Ion!	text
 ceev16d.0AAA	セレニス	Serenis	speaker
-ceev16d.0AC1	魔石はもらっていくわ。		text
+ceev16d.0AC1	魔石はもらっていくわ。	I'll be taking the Demon Stone.	text
 ceev16d.0AE6	セシア	Cecia	speaker
-ceev16d.0AFB	待ちなさい！！		text
+ceev16d.0AFB	待ちなさい！！	Wait!!	text
 ceev16d.0B18	セレニス	Serenis	speaker
-ceev16d.0B2F	せいぜい子供とたわむれてなさい、天使の勇者。{n}ハハハハハ。		text
+ceev16d.0B2F	せいぜい子供とたわむれてなさい、天使の勇者。{n}ハハハハハ。	Go on and play with the child, hero of the{n}angel. Ha ha ha ha ha.	text
 ceev16d.0C18	セシア	Cecia	speaker
-ceev16d.0C2D	イオン！		text
+ceev16d.0C2D	イオン！	Ion!	text
 ceev16d.0C44	イオン	Ion	speaker
-ceev16d.0C59	……お姉ちゃん……		text
-ceev16d.0C7A	お姉ちゃんの名前……教えて……。		text
+ceev16d.0C59	……お姉ちゃん……	...Big sister...	text
+ceev16d.0C7A	お姉ちゃんの名前……教えて……。	Tell me... your name, big sister...	text
 ceev16d.0CA9	セシア	Cecia	speaker
-ceev16d.0CBE	セシアよ！		text
+ceev16d.0CBE	セシアよ！	It's Cecia!	text
 ceev16d.0CD7	イオン	Ion	speaker
-ceev16d.0CEC	セシアお姉ちゃんか……。		text
+ceev16d.0CEC	セシアお姉ちゃんか……。	Big sister Cecia...	text
 ceev16d.0D13	セシア	Cecia	speaker
-ceev16d.0D28	もうしゃべらないで……。		text
+ceev16d.0D28	もうしゃべらないで……。	Don't talk anymore...	text
 ceev16d.0D4F	イオン	Ion	speaker
-ceev16d.0D64	ごめんなさい、セシアお姉ちゃん……。		text
-ceev16d.0D97	……やっぱり、ぼく…お母さんに会いに行くよ……。		text
+ceev16d.0D64	ごめんなさい、セシアお姉ちゃん……。	I'm sorry, big sister Cecia...	text
+ceev16d.0D97	……やっぱり、ぼく…お母さんに会いに行くよ……。	...I guess I'm... going to go see Mom now...	text
 ceev16d.0DD6	セシア	Cecia	speaker
-ceev16d.0DEB	イオン……。		text
+ceev16d.0DEB	イオン……。	Ion...	text

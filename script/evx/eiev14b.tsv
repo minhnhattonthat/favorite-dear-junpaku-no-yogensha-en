@@ -3,16 +3,16 @@ eiev14b.0002	celeniss		dev label (guess: not shown)
 eiev14b.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev14b.00DE	セレニス	Serenis	unit name (32-byte field)
 eiev14b.011A	エンディミオン	Endymion	unit name (32-byte field)
-eiev14b.0156	覚醒エンディミオン		unit name (32-byte field)
-eiev14b.0192	椅子		unit name (32-byte field)
-eiev14b.01CE	魔石の台		unit name (32-byte field)
+eiev14b.0156	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
+eiev14b.0192	椅子	Chair	unit name (32-byte field)
+eiev14b.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
 eiev14b.04A8	アイリーン	Irene	speaker
 eiev14b.04C1	姉さん？		text
 eiev14b.04E8	セレニス	Serenis	speaker
 eiev14b.04FF	アイリーン……		text
 eiev14b.052C	アイリーン	Irene	speaker
 eiev14b.0545	姉さん！		text
-eiev14b.056C	悪魔		speaker
-eiev14b.057F	くっ、最後に刃向かいおってこの女……		text
-eiev14b.05C2	まあこの体にも飽きていた頃だ……{n}ちょうどいい。		text
-eiev14b.0611	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。		text
+eiev14b.056C	悪魔	Devil	speaker
+eiev14b.057F	くっ、最後に刃向かいおってこの女……	Ngh, defying me at the very end, this{n}woman...	text
+eiev14b.05C2	まあこの体にも飽きていた頃だ……{n}ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text
+eiev14b.0611	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。	Lowly angel, don't get cocky just because{n}you killed one vessel...	text

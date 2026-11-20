@@ -3,10 +3,10 @@ roev21c.0002	celeniss		dev label (guess: not shown)
 roev21c.00A2	ロクス	Rocus	unit name (32-byte field)
 roev21c.00DE	セレニス	Serenis	unit name (32-byte field)
 roev21c.011A	エンディミオン	Endymion	unit name (32-byte field)
-roev21c.0156	覚醒エンディミオン		unit name (32-byte field)
-roev21c.0192	椅子		unit name (32-byte field)
-roev21c.01CE	魔石の台		unit name (32-byte field)
-roev21c.0498	悪魔		speaker
-roev21c.04AB	くっ、最後の最後で……		text
-roev21c.04E0	まあこの体にも飽きていた頃だ……{n}ちょうどいい。		text
-roev21c.052F	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。		text
+roev21c.0156	覚醒エンディミオン	Awakened Endymion	unit name (32-byte field)
+roev21c.0192	椅子	Chair	unit name (32-byte field)
+roev21c.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
+roev21c.0498	悪魔	Devil	speaker
+roev21c.04AB	くっ、最後の最後で……	Ngh, at the very last moment...	text
+roev21c.04E0	まあこの体にも飽きていた頃だ……{n}ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text
+roev21c.052F	下級天使、よりしろを一人殺したくらいで{n}いい気になるな……。	Lowly angel, don't get cocky just because{n}you killed one vessel...	text

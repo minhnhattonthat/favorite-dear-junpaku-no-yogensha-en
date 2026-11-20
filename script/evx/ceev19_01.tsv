@@ -1,25 +1,25 @@
 id	jp	en	notes
-ceev19_01.0002	天使の大けが		dev label (guess: not shown)
+ceev19_01.0002	天使の大けが	Angel Badly Hurt	dev label (guess: not shown)
 ceev19_01.00A2	セシア	Cecia	unit name (32-byte field)
 ceev19_01.00DE	クラレンス	Clarence	unit name (32-byte field)
 ceev19_01.04DC	クラレンス	Clarence	speaker
-ceev19_01.04F5	なんだ、お嬢さん、怖い顔してどうした？		text
+ceev19_01.04F5	なんだ、お嬢さん、怖い顔してどうした？	Well, little lady, why the scary face?	text
 ceev19_01.052A	セシア	Cecia	speaker
-ceev19_01.053F	あなたがヴァイパーですね。{n}魔石を返していただきに来ました！		text
+ceev19_01.053F	あなたがヴァイパーですね。{n}魔石を返していただきに来ました！	You're Viper, aren't you? I've come to have{n}you return the Demon Stone!	text
 ceev19_01.058A	クラレンス	Clarence	speaker
-ceev19_01.05A3	おいおい、人聞きが悪いな。{n}俺はこれをひとから譲り受けたんだぜ。		text
+ceev19_01.05A3	おいおい、人聞きが悪いな。{n}俺はこれをひとから譲り受けたんだぜ。	Whoa, whoa, don't make it sound so bad.{n}Someone handed this over to me.	text
 ceev19_01.0636	セシア	Cecia	speaker
-ceev19_01.064B	それはロクスをだまして手に入れたということなら、{n}もっと許しません！		text
+ceev19_01.064B	それはロクスをだまして手に入れたということなら、{n}もっと許しません！	If that means you got it by deceiving Rocus,{n}I forgive you even less!	text
 ceev19_01.0702	クラレンス	Clarence	speaker
-ceev19_01.071B	まあ、落ち着けよ、お嬢さん。{n}それにロクスを知ってるっていうなら{n}なおさらウソはつけねえな。		text
-ceev19_01.0786	わかった。{n}どうせ頼まれごとなんだ。{n}返すよ。		text
+ceev19_01.071B	まあ、落ち着けよ、お嬢さん。{n}それにロクスを知ってるっていうなら{n}なおさらウソはつけねえな。	Now, calm down, little lady. And if you know{n}Rocus, all the more reason I can't lie to{n}you.	text
+ceev19_01.0786	わかった。{n}どうせ頼まれごとなんだ。{n}返すよ。	Fine. I was only doing this as a favor{n}anyway. I'll give it back.	text
 ceev19_01.07D7	セシア	Cecia	speaker
-ceev19_01.07EC	では、すぐに！		text
+ceev19_01.07EC	では、すぐに！	Then, right now!	text
 ceev19_01.0809	クラレンス	Clarence	speaker
-ceev19_01.0822	いや、お嬢さんにじゃねえ、天使様にだ。		text
+ceev19_01.0822	いや、お嬢さんにじゃねえ、天使様にだ。	No, not to you, little lady. To the angel.	text
 ceev19_01.0857	セシア	Cecia	speaker
-ceev19_01.086C	え？		text
+ceev19_01.086C	え？	Huh?	text
 ceev19_01.08CF	クラレンス	Clarence	speaker
-ceev19_01.08E8	いるんだろ？　天使様よ。		text
+ceev19_01.08E8	いるんだろ？　天使様よ。	You're there, aren't you? Angel.	text
 ceev19_01.095F	クラレンス	Clarence	speaker
-ceev19_01.0978	ほんとはお前が欲しがってるのはわかってるんだ。		text
+ceev19_01.0978	ほんとはお前が欲しがってるのはわかってるんだ。	I know it's really you who wants it.	text

@@ -1,14 +1,14 @@
 id	jp	en	notes
 ceev04_0.00A2	フェイン	Fein	unit name (32-byte field)
 ceev04_0.00DE	イオン	Ion	unit name (32-byte field)
-ceev04_0.011A	死人女		unit name (32-byte field)
-ceev04_0.0156	死人女		unit name (32-byte field)
-ceev04_0.0192	死人子供		unit name (32-byte field)
-ceev04_0.01CE	死人子供		unit name (32-byte field)
-ceev04_0.020A	死人女		unit name (32-byte field)
+ceev04_0.011A	死人女	Dead Woman	unit name (32-byte field)
+ceev04_0.0156	死人女	Dead Woman	unit name (32-byte field)
+ceev04_0.0192	死人子供	Dead Child	unit name (32-byte field)
+ceev04_0.01CE	死人子供	Dead Child	unit name (32-byte field)
+ceev04_0.020A	死人女	Dead Woman	unit name (32-byte field)
 ceev04_0.04C8	フェイン	Fein	speaker
-ceev04_0.04DF	くっ……間に合わなかったか……。		text
+ceev04_0.04DF	くっ……間に合わなかったか……。	Ngh... Was I too late...?	text
 ceev04_0.051A	フェイン	Fein	speaker
-ceev04_0.0531	まだ、子供が？		text
+ceev04_0.0531	まだ、子供が？	A child, still here?	text
 ceev04_0.059A	フェイン	Fein	speaker
-ceev04_0.05B1	……なんだ？		text
+ceev04_0.05B1	……なんだ？	...What?	text

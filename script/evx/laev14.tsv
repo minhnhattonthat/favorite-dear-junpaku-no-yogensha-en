@@ -1,5 +1,5 @@
 id	jp	en	notes
-laev14.0002	天使の大けが		dev label (guess: not shown)
+laev14.0002	天使の大けが	Angel Badly Hurt	dev label (guess: not shown)
 laev14.00A2	レイラ	Leyla	unit name (32-byte field)
 laev14.00DE	クラレンス	Clarence	unit name (32-byte field)
 laev14.04EC	レイラ	Leyla	speaker
@@ -21,8 +21,8 @@ laev14.0884	まあまあ、そんな怖い顔するなよ。{n}俺は戦いは�
 laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。		text
 laev14.0950	さ、返すぜ！　天使様にな。		text
 laev14.0999	レイラ	Leyla	speaker
-laev14.09AE	え？		text
+laev14.09AE	え？	Huh?	text
 laev14.0A11	クラレンス	Clarence	speaker
 laev14.0A2A	いるんだろ？　天使様よ。{n}		text
 laev14.0AA3	クラレンス	Clarence	speaker
-laev14.0ABC	ほんとはお前が欲しがってるのはわかってるんだ。		text
+laev14.0ABC	ほんとはお前が欲しがってるのはわかってるんだ。	I know it's really you who wants it.	text

@@ -3,7 +3,7 @@ feev03_02.0002	ギルド２		dev label (guess: not shown)
 feev03_02.00A2	フェイン	Fein	unit name (32-byte field)
 feev03_02.00DE	ウィザード	Wizard	unit name (32-byte field)
 feev03_02.011A	机		unit name (32-byte field)
-feev03_02.0156	椅子		unit name (32-byte field)
+feev03_02.0156	椅子	Chair	unit name (32-byte field)
 feev03_02.0192	モブ２		unit name (32-byte field)
 feev03_02.052C	若い魔導士		speaker
 feev03_02.0545	フェイン、久しぶりだな。		text
