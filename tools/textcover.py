@@ -128,6 +128,7 @@ def main():
     ap.add_argument("dirs", nargs="+")
     ap.add_argument("--waive", default=str(ROOT / "docs/text_unshown.tsv"))
     ap.add_argument("--missing")
+    ap.add_argument("--by-file", help="write file, folder, rows, reached, missing, loaded (in any run) per file")
     a = ap.parse_args()
     files, folder = load_rows()
     logs = [p for d in a.dirs for p in pathlib.Path(d).rglob("log.txt")]
@@ -155,7 +156,30 @@ def main():
     print(f"not reached and not waived: {len(missing)} (EXE strings not counted)")
     if a.missing:
         pathlib.Path(a.missing).write_text("".join(f"{m}\n" for m in sorted(missing)), encoding="utf-8")
+    if a.by_file:
+        loaded = loaded_files(logs)
+        per = {}
+        for name, (_, rows) in files.items():
+            keys = [r[2] for r in rows]
+            per[name] = (keys[0].split("/")[0], len(keys), sum(k in hit for k in keys),
+                         sum(k in missing for k in keys), name in loaded)
+        with open(a.by_file, "w", encoding="utf-8") as f:
+            f.write("file\tfolder\trows\treached\tmissing\tloaded\n")
+            for name in sorted(per):
+                kind, n, h, miss, ld = per[name]
+                f.write(f"{name}\t{kind}\t{n}\t{h}\t{miss}\t{int(ld)}\n")
+        print(f"by file: {a.by_file} ({sum(1 for p in per.values() if not p[4])} text files never loaded)")
     return 1 if missing else 0
+
+
+def loaded_files(logs):
+    """Lower-case names of every file a FILE line logged."""
+    out = set()
+    for log in logs:
+        for line in open(log, encoding="utf-8", errors="replace"):
+            if line.startswith("FILE "):
+                out.add(line.split()[2].lower())
+    return out
 
 
 if __name__ == "__main__":

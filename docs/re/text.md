@@ -158,6 +158,18 @@ EXE table 0x8006F538 over the message's **last 14 bytes** (`＜勇者名＞ね�
 is a blank (`tests/test_merge.py::test_compatibility_tail`). Other strings built from fragments: `docs/status.md`
 (rfd2 fragments, phase 7 notes). `python -X utf8 tools/refs.py FILE VA` disassembles every reference to a string.
 
+**Where MSG banks load and how entries are fetched (phase 8, textcover; verified by read watches on the original).**
+Not every bank goes to the script heap: BTL_EVT<hero>.MSG loads to 0x801A4BB0, but FryMsg<n>.MSG loads to
+0x801203E0 (the shared image/sound buffer, reused by the next .tim/.VB), so `tools/debug/textcover.lua` watches each
+text file's [dst, dst + record size) from its first load. There is **no common get-message function**: each caller
+inlines the fetch. Fairy report: rfd2 0x800BF070 (s4 = entry index, bank pointer u32 at [s2 + 0x1EB0]) reads the
+u16 offset, copies the entry to bank + 0x4000 through 0x800BF120 (placeholder substitution) and queues it
+(0x8002E6C0, 0x8002DBEC, 0x8002CAA0); the function returns at once and the box draws over later frames, so a
+Lua jump-back loop over the index does not show more entries (tried: 0x800BF100 -> 0x800BF070 every 3 frames,
+one report shown). Battle lines: EXE code called from 0x80040A44 walks the BTL_EVT record table (reads at 0x80040AA8 /
+0x80040ADC / 0x80040B10). Forcing every entry of a bank (as the first game's `textforce`) needs a hook where
+each caller starts a message, per caller.
+
 ## Extraction (phase 4; `tools/extract.py`, tests in `tests/test_text.py`)
 
 `script/` TSVs, columns `id jp en notes`; ids = `<file stem>.<hex offset of the text in the original file>` (ssb rows:
