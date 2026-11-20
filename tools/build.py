@@ -31,6 +31,34 @@ TREE = DISC / "tree"
 LAYOUT = DISC / "layout.xml"
 BUILD = ROOT / "build"
 ARCHIVES = ["FD2BN", "FD2SN", "SSB_DATA", "GRPDATA"]
+EXE_NAME = "SLPS_027.54"
+ARMIPS = ROOT / "tools/armips/armips.exe"
+ASM = ROOT / "asm"
+EXE_PAD = 0x2000        # bytes prepended to the EXE image: the FREE block 0x8001E000-0x80020000 (asm/font.asm)
+
+
+def patch_exe(exe):
+    """EXE bytes -> EXE with the FREE block prepended (t_addr 0x80020000 -> 0x8001E000) and asm/font.asm applied."""
+    import struct
+    import tempfile
+    import font_en
+    t_addr, t_size = struct.unpack_from("<II", exe, 0x18)
+    assert t_addr == 0x80020000, f"EXE already patched (t_addr {t_addr:#x})"
+    head = bytearray(exe[:0x800])
+    struct.pack_into("<II", head, 0x18, t_addr - EXE_PAD, t_size + EXE_PAD)
+    padded = bytes(head) + b"\0" * EXE_PAD + exe[0x800:]
+    font_en.write_inc()
+    with tempfile.TemporaryDirectory() as td:
+        src, dst = Path(td) / "in.exe", Path(td) / "out.exe"
+        src.write_bytes(padded)
+        r = subprocess.run([str(ARMIPS), "font.asm", "-strequ", "EXE_IN", str(src), "-strequ", "EXE_OUT", str(dst),
+                            "-equ", "PAIR_G", str(font_en.G)],
+                           cwd=ASM, capture_output=True, text=True)
+        if r.returncode:
+            sys.exit(f"armips failed ({r.returncode}):\n{r.stdout}\n{r.stderr}")
+        out = dst.read_bytes()
+    assert len(out) == len(padded), "armips changed the EXE size"
+    return out
 
 
 def unpack():
@@ -118,6 +146,10 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--identity", action="store_true", help="no edits, all archives re-laid; compare with rom.sha1")
     ap.add_argument("--grow-test", action="store_true", help="grow each LKF's first entry (build/grow.bin)")
+    ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT",
+                    help="override one row's text (text form of tools/jtext.py); repeatable")
+    ap.add_argument("--stem", default=None, help="output name build/<stem>.bin (default fd2_en, fd2_marker)")
+    ap.add_argument("--marker", action="store_true", help="marker build: every row = label + filler (tools/marker.py)")
     a = ap.parse_args()
     if a.identity:
         out = build("identity", relay_all=True)
@@ -129,8 +161,14 @@ def main():
         out = build("grow", lkf_changes=grow_changes())
     else:
         import insert
-        lkf_changes, files, nrows = insert.changes("en")
-        out = build(lkf_changes=lkf_changes, files=files)
+        qa = dict(q.split("=", 1) for q in a.qa)
+        texts_for = None
+        if a.marker:
+            import marker
+            texts_for = marker.texts_for
+        lkf_changes, files, nrows = insert.changes("en", overrides=qa, texts_for=texts_for)
+        files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes())
+        out = build(a.stem or ("fd2_marker" if a.marker else "fd2_en"), lkf_changes=lkf_changes, files=files)
         print(f"{nrows} translated rows")
     print(f"{out}: sha1 {sha1(out)}")
 

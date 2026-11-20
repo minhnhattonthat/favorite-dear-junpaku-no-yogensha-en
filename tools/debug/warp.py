@@ -233,6 +233,10 @@ def main():
         EXTRA.extend(["--var", v])
     if a.debugger:
         EXTRA.append("--debugger")
+    global SSB_LKF
+    built = os.path.splitext(os.path.abspath(a.cue))[0] + "_files"     # build.py stages changed files there
+    if os.path.isfile(os.path.join(built, "SSB_DATA.LKF")):
+        SSB_LKF = os.path.join(built, "SSB_DATA.LKF")                  # arrival signatures of the tested scripts
     table = load_scenes()
     if a.list:
         for s in table.values():

@@ -4,30 +4,44 @@ the stdlib `re` when run from tools/.
     python -X utf8 tools/retools.py dis  EXE VADDR [COUNT]     disassemble COUNT instructions at VADDR
     python -X utf8 tools/retools.py xref EXE VADDR [END]       code that builds VADDR (or any address < END) with lui + addiu/ori/lw/sw...
     python -X utf8 tools/retools.py va   EXE FILEOFF           file offset -> vaddr
+    python -X utf8 tools/retools.py calls EXE VADDR..          jal/j sites calling each VADDR
 
-EXE paths are PS-X EXE files (2048-byte header, t_addr at 0x18)."""
+EXE paths are PS-X EXE files (2048-byte header, t_addr at 0x18) or this game's overlays (raw, loaded at
+0x8009B4B0; extract them with tools/lkf.py)."""
 import struct
 import sys
 
 import capstone
 
+OVERLAY_BASE = 0x8009B4B0
+
 
 class Exe:
     def __init__(self, path):
         self.data = open(path, "rb").read()
-        self.base = struct.unpack_from("<I", self.data, 0x18)[0]
+        if self.data[:8] == b"PS-X EXE":
+            self.base, self.hdr = struct.unpack_from("<I", self.data, 0x18)[0], 0x800
+        else:   # this game's overlays (FD2BN *.bin): raw image loaded at OVERLAY_BASE
+            self.base, self.hdr = OVERLAY_BASE, 0
 
     def off(self, va):
-        return va - self.base + 0x800
+        return va - self.base + self.hdr
 
     def va(self, off):
-        return off - 0x800 + self.base
+        return off - self.hdr + self.base
+
+    def calls(self, target):
+        """Addresses of `jal target` (and `j target`) instructions."""
+        want = {(0x03 << 26) | ((target >> 2) & 0x3FFFFFF), (0x02 << 26) | ((target >> 2) & 0x3FFFFFF)}
+        return [self.va(o) for o in range(self.hdr, len(self.data) - 3, 4)
+                if struct.unpack_from("<I", self.data, o)[0] in want]
 
     def word(self, va):
         return struct.unpack_from("<I", self.data, self.off(va))[0]
 
     def dis(self, va, count=32):
         md = capstone.Cs(capstone.CS_ARCH_MIPS, capstone.CS_MODE_MIPS32 + capstone.CS_MODE_LITTLE_ENDIAN)
+        md.skipdata = True      # data words show as .byte instead of ending the listing
         o = self.off(va)
         return list(md.disasm(self.data[o:o + 4 * count], va))
 
@@ -75,6 +89,9 @@ def main(argv):
         end = int(argv[3], 16) if len(argv) > 3 else None
         for h, val in e.xref(int(argv[2], 16), end):
             print(f"{h:08x}  -> {val:08x}")
+    elif cmd == "calls":
+        for t in argv[2:]:
+            print(f"{int(t, 16):08x}: {' '.join(f'{a:08x}' for a in e.calls(int(t, 16)))}")
     elif cmd == "va":
         print(f"{e.va(int(argv[2], 16)):08x}")
 

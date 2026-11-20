@@ -7,10 +7,47 @@ known**: test in phase 5.
 
 ## Fonts
 
-- `GRPDATA FD2Font.FPK` (54 KB): header `81 01 0a 0e 0c 0e ...`, u16 0x5ac (=1452, guess: glyph count) at 0x0c; an
-  SJIS character list from 0x221 (`、。．・：？！...` then digits, then katakana `アィイゥ...`): **guess** glyph index =
-  position in that list, so the printer maps SJIS -> list position -> cell. English needs glyphs (and list entries)
-  for the letters we use. Decode in phase 5.
+- `GRPDATA FD2Font.FPK` (54 KB; **verified** phase 5: decoded glyphs match the screen, `tools/fontinfo.py sheet`):
+  resident in RAM at 0x801CE030 in every scene dumped. Header u16s: +0x02 `0a 0e` (glyph 10x14), +0x04 `0c 0e`
+  (cell 12x14), +0x0c count 0x5ac (1452), +0x10 char list offset 0x220 (u16 SJIS codes, sorted), +0x12 glyph data
+  0xd78: 35 bytes per glyph = 10x14 px at 2bpp, MSB first, values 0-3 (palette 35AD 6739 7FFF: 3 is the solid ink).
+  The list's lead bytes are only 81-83 and 88-98.
+- Font struct 0x80084160 (verified, RAM dump): +0 FPK, +4 char list, +8 glyphs, +0xc cell width 3 (VRAM halfwords),
+  +0xe 14, +0x10 35, +0x14 LRU clock, +0x18 128 slot records of 8 bytes (+2 u16 SJIS code, +4 u32 last use).
+- Draw path (verified by read watches and disassembly): `0x8002BE00 get_slot(code)` (LRU cache of 128 glyph slots,
+  called by the dialogue line builder at 0x8002D754) -> `0x8002C474 lookup(code)` (binary search, -1 if absent) ->
+  `0x8002C514 render(slot, index)` -> `0x8002C5EC decode(index)` into the 12x14 4bpp cell buffer 0x80084578 (it
+  writes 10 of the 12 columns) -> LoadImage at VRAM x 0x380 + 3 * (slot % 16), y 14 * (slot / 16). Three more
+  callers search the list inline and call the decoder: 0x8002BF2C (single glyph into slot < 8), 0x8002C080 and
+  0x8002C2B0 (a string of up to 22 characters straight into a VRAM row).
+- Dialogue layout `0x8002CC80` (verified: patched and seen in game): 3 boxes x 24 cells x 0x40-byte sprite records
+  at 0x800845D8; x from 30, **advance 11 px, sprite width 10**, line pitch 15 (y 0xa9..); the name tag records
+  (+0x1d0) start at x 25, same advance. The line builder caps a line at 24 cells (0x8002D72C) and expands ＄＄＄＄＄＄
+  (12 bytes, compared at 0x8002EA44) into the angel name.
+- ASCII bytes are **not** printable in ssb text: a row with ASCII letters made the prologue skip to the map (the
+  script reader takes bytes < 0x80 as op argument counts). Hence the pair codes below.
+- Second printer: 0x80040CE8 / 0x80040F88 advance by 11 too (unknown screen; see the marker tour).
+
+## English font (phase 5; verified in game, `work/qa/p5/asc`)
+
+- **Pair glyphs** (`tools/font_en.py`, `asm/font.asm`, font `fonts/font6.txt`): two 5-px letters (+1 px gap) per
+  12x14 cell, as a two-byte code with a lead byte the Japanese font never uses (84-87, 99-9F, E0-FC), so English
+  costs one byte per letter, exactly what a Japanese character costs per cell. 84 characters: space, `!"%&'()*+,-./`,
+  digits, `:;=?`, A-Z, a-z, `~ … ♪ ♥`. n = left * 84 + right; lead = LEADS[n // 188], trail = TRAILS[n % 188].
+- Hooks: lookup returns 0x8000 | n for a pair code; the decoder draws the two letters for index >= 0x8000 (and blanks
+  columns 10-11 for Japanese glyphs); the slot renderer no longer rejects index > count; the three inline searches
+  call the lookup; the dialogue layout uses **advance 12 and sprite width 12** for text and name tag.
+- Code and glyphs live in a block prepended to the EXE: t_addr 0x80020000 -> 0x8001E000 (+0x2000 bytes), which is
+  zero in every RAM dump (`tools/ramzero.py`) and not touched at boot. `build.patch_exe` does it on every build
+  except `--identity`.
+- Text form: English in `en` is plain ASCII (+ … ♪ ♥); `insert.py` turns it into pair codes (`font_en.to_pairs`);
+  an odd-length run gets a trailing space. Tags and Japanese characters (＄ name placeholder) pass through.
+
+## Width gate (measured in game; `work/qa/p5/asc/prologue_hold/final.png`)
+
+| Variant | Budget | How measured |
+|---|---|---|
+| Dialogue box (event scripts, prologue) | 44 letters per line (22 cells), 3 lines per page; line 3: 43 letters (the page-wait gem is at x 289-293) | a 48-letter line: letters 1-45 show, the 45th touches the frame (x 294-299), clip at x 300 |
 - EXE 0x5e9d9 and 0x5efe9: two more SJIS character lists (`：ゞ‥《≠￠□ ５ＤＳｂｑあけだはまろ ェザヅフャヲΓΣβρ ...`,
   every Nth character of a full JIS row order): guess, a glyph-index table for a second font or the name-entry grid.
 - Graphics glyph strips (no SJIS): GRPDATA_0051/0052 (keyboard), 0458/0459 (battle labels), see `graphics.md`.

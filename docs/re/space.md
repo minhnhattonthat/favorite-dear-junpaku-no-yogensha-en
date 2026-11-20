@@ -15,6 +15,10 @@
   zero padding from file 0x7bcb4; at 0x8009b4b0 (file 0x7bcb0) sits a lone u32 `05` = overlay id slot (the overlays'
   first u32 is their id, 6..10), so the overlay area starts there and the EXE's code/data must not grow past
   0x8009b4b0 (verified by hexdump). Prefer rewriting the string block.
+- **FREE block 0x8001E000-0x80020000 (used, phase 5):** below the EXE's load address, zero in RAM dumps of 10 scenes
+  (prologue, map, heaven, event, game over, OMAKE CG, title, status, exam, visit; `tools/ramzero.py`). The build
+  prepends it to the EXE (t_addr moved down) and puts the pair-glyph hook and glyphs there (`asm/font.asm`, ~4.2 KB
+  of 8 KB). 0x80010000-0x8001E000 is zero too (more room if needed; battle not dumped yet).
 - Overlays load at 0x8009b4b0; their size bounds what follows them in RAM (unknown: Battle.bin is 0x39d8c, the
   largest). Overlay strings grow only within the overlay's slack until that is measured.
 - Name plates (`Name_NNN.PIX`): fixed 64x12 pixels each. Graphics atlases (TIMs): fixed VRAM rectangles.

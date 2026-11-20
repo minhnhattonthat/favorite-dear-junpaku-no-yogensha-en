@@ -5,5 +5,4 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| fonts/font6.txt | drawn for the owner's Vattroller X translation (`../vattroller-x-en/fonts/font6.txt`, MIT), copied 2026-11-20 | MIT, same owner | yes | every in-game English letter (pair glyphs, `tools/font_en.py`, `asm/font.asm`) | added … ♪ ♥; only the 84 characters in `font_en.CHARS` are used |
