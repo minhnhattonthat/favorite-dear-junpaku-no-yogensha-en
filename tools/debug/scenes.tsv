@@ -2,6 +2,8 @@ scene	kind	arg	host	after	frames	card	post	proof	note
 title	title			hold	7300				title menu (NEW GAME / LOAD GAME / OPTION)
 title_load	title			hold	9000		6 down;45 -;6 circle;900 -		LOAD GAME: memory-card screen
 title_option	title			hold	9000		6 down;45 -;6 down;45 -;6 circle;900 -		OPTION screen
+load_save	title			hold	14000	tools/debug/cards/fd2_save.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;2000 -		LOAD GAME -> slot 1 -> the game-written file (heaven_saved) -> back in the game
+load_edited	title			hold	14000	tools/debug/cards/fd2_edited.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;2000 -		same, file edited by save.py (play time 12:34:56, date 7/15): list shows them, loads with no error
 title_omake	title			hold	10000		6 down;45 -;6 down;45 -;6 circle;900 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle;900 -		OPTION -> OMAKE (extras)
 name_entry	title			hold	8200		6 circle;600 -;6 circle;120 -		New Game: name entry, kana grid open
 prologue	event	prologue.ssb		mash	12000				opening event (Raphael), as New Game plays it
@@ -11,12 +13,14 @@ map_fairy	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 circle;120 -		map 
 map_status	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 circle;120 -		map menu -> ステータス submenu
 map_status_fairy	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 circle;120 -;6 circle;120 -;6 circle;200 -		fairy status sheet (Rosa)
 map_heaven	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -		map menu -> 天界へ (to Heaven)
-heaven_data	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 circle;200 -		Heaven -> データ (save/load submenu)
-heaven_save	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 circle;200 -;6 circle;400 -		Heaven -> データ -> first item (save screen, memory card)
-heaven_load	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 circle;200 -;6 down;45 -;6 circle;400 -		Heaven -> データ -> second item (load screen)
-heaven_status	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 down;45 -;6 circle;300 -		Heaven -> ステータス
-heaven_rest	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 down;45 -;6 down;45 -;6 circle;300 -		Heaven -> 休息 (rest)
-heaven_move	event	TheEnd.ssb		hold	15000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -;6 down;45 -;6 down;45 -;6 down;45 -;6 circle;300 -		Heaven -> 移動 (move)
+heaven_data	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 circle;900 -		Heaven -> データ: セーブ / ロード choice
+heaven_save	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -		Heaven -> データ -> セーブ (memory card slots)
+heaven_saved	event	TheEnd.ssb		hold	19000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 up;60 -;6 circle;900 -;6 up;60 -;6 circle;1500 -		Heaven -> データ -> セーブ -> slot 1, confirm: writes this game's file (the card is kept as the run's memcard1.mcd)
+heaven_load	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 circle;900 -;6 right;60 -;6 circle;900 -		Heaven -> データ -> ロード (memory card slots)
+heaven_status	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 down;60 -;6 circle;600 -		Heaven -> ステータス: 勇者 / 妖精 / 天使
+heaven_status_angel	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 down;60 -;6 circle;600 -;6 down;60 -;6 down;60 -;6 circle;600 -		Heaven -> ステータス -> 天使 (angel status)
+heaven_rest	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 down;60 -;6 down;60 -;6 circle;600 -		Heaven -> 休息 (rest)
+heaven_move	event	TheEnd.ssb		hold	16000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;900 -;6 down;60 -;6 down;60 -;6 down;60 -;6 circle;600 -		Heaven -> 移動 (move)
 tutorial	event	alkaya.ssb		mash	16000				fairy's map tutorial (largest script)
 heaven	event	tenkai.ssb		mash	16000				天界 event (Raphael, garden)
 exam	event	exam_01.ssb		mash	14000				exam_01: the owl examiner
@@ -32,6 +36,7 @@ ev_ei	event	eiev01_01.ssb		mash	14000				ei route: first event
 ev_la	event	laev01_01.ssb		mash	14000				la route: first event
 ev_fe	event	Feev01_01.ssb		mash	14000				Fe route: first event
 end_cecia	event	ceed01.ssb		mash	20000				Cecia ending: event, .end narration, Fin, clear-data save
+end_cecia_clear	title	ceed01.ssb		hold	26000	tools/debug/cards/fd2_save.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;2000 -		load the game-written save, then run the Cecia ending on it: the clear-data save needs a loaded game file (a New Game run gets "ファイルがありません")
 end_cl	event	cled01.ssb		mash	20000				cl ending
 end_lo	event	loed01.ssb		mash	20000				lo ending
 end_ro	event	roed01.ssb		mash	20000				ro ending
@@ -50,4 +55,4 @@ battle_h6	battle	6:3110		mash	18000				hero 6, battle 3110
 battle_3152	battle	0:3152		mash	18000				battle table's second block (3152-3192, flag byte 0)
 credits	ending			hold	30000				ed.bin: staff roll movie ENDING.STR (4214 movie frames)
 game_over	ending	0x10		mash	14000				ed.bin game over (g_over0-3.tim)
-ending_20	ending	0x20		hold	20000				ed.bin with ending byte 0x20 (the non-game-over high-nibble path)
+game_over2	ending	0x20		hold	20000				ed.bin byte 0x20: second game-over variant (grey card), then a soft reset to the logos

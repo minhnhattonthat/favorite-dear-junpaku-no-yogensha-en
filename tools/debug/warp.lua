@@ -3,6 +3,8 @@
 --   KIND   'title' | 'event' | 'swap' | 'battle' | 'ending' (ed.bin: the staff roll movie ENDING.STR)
 --   HERO, BATTLE  KIND 'battle': hero index (0-6) and battle id (3000 + n, the exe's battle table); nil keeps
 --          whatever the game holds (hero 0, no id: the default encounter). MAP_WAIT: frames on the map first
+--   RUN_EVENT  KIND 'title' with POST (e.g. a load from the card): once POST is done, ask the map overlay to run
+--          the event with this SSB_DATA index, then press circle every MASH_EVERY frames
 --   ENDING KIND 'ending': the byte ed.bin branches on (16 = game over); nil keeps the game's value
 --   EVENT  KIND 'event'/'swap': SSB_DATA.LKF file name of an event script (e.g. 'ceev01_01.ssb', any .ssb), run
 --          in place of prologue.ssb right after the New Game name entry
@@ -51,8 +53,8 @@ end
 KIND = KIND or "event"
 AFTER = AFTER or "mash"
 MASH_EVERY = MASH_EVERY or 45
--- a script's first frames are a black fade; a battle's intro (camera sweep, first line) takes ~300 frames
-PROOF = PROOF or ((KIND == "event" or KIND == "swap") and 600 or KIND == "battle" and 300 or 30)
+-- a script's first frames are a black fade; a battle's load + fade-in takes up to ~500 frames
+PROOF = PROOF or ((KIND == "event" or KIND == "swap" or KIND == "battle") and 600 or 30)
 SIGBUF = SIGBUF or SCRIPT_BUF
 -- record swaps, applied in order; arrival = the last one's target bytes (SIG) at SIGBUF + SIGOFF
 SWAPS = {}
@@ -177,6 +179,17 @@ L.on_frame(function(n)
         post_done = n
         L.shot("post.png")
         if STATE then L.save_state(STATE) end
+        if RUN_EVENT then
+          -- rfd2 sub-mode 1 runs the event whose SSB_DATA index is the request's first arg (New Game: 0x117,
+          -- prologue.ssb); used after loading a save, so the event runs on the loaded game file
+          L.log(string.format("WARP run event %d f%d", RUN_EVENT, n))
+          wr32(SUBMODE + 4, RUN_EVENT)   -- request arg 1 (0x80081010; sub-mode 3 reads hero / battle id here)
+          mem[(SUBMODE + 1) & 0x1FFFFF] = 1
+          mem[SUBMODE & 0x1FFFFF] = 1
+        end
+      end
+      if RUN_EVENT and post_done and n > post_done + PROOF and (n - post_done) % MASH_EVERY == 0 and L.route_done() then
+        L.press("circle", 6)
       end
     else
       if since == 60 and STATE then L.save_state(STATE) end

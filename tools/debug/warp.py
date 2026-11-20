@@ -16,7 +16,8 @@ scenes.tsv columns:
   arg     kind event: the .ssb to run in place of prologue.ssb; kind swap: HOST=TARGET[@BUF] (when the game loads
           HOST, it gets TARGET; arrival = TARGET's bytes at BUF, default the script buffer); kind battle:
           HERO[:ID] (hero index 0-6, battle id 3000+n from the exe's battle table; empty = the default encounter);
-          kind ending: the byte ed.bin branches on (0x8007F17A; 0x10 = game over; empty = the game's value)
+          kind title: optional .ssb to run once POST is done (after loading a save: the event then runs on the
+          loaded game file); kind ending: the byte ed.bin branches on (0x8007F17A; 0x10 = game over; empty = the game's value)
   host    kind swap: the event that loads HOST (run in place of prologue.ssb first); else empty
   after   mash (default: circle every 45 frames after arrival) | hold
   frames  run length (default 16000)
@@ -133,6 +134,9 @@ def lua_vars(sc):
         elif sc["arg"]:
             hero, _, bid = sc["arg"].partition(":")
             v += [f"HERO={int(hero)}"] + ([f"BATTLE={int(bid)}"] if bid else [])
+    elif kind == "title" and sc["arg"]:
+        lkf_file(sc["arg"])  # exits on an unknown name
+        v.append(f"RUN_EVENT={list(_files).index(sc['arg'])}")
     if sc.get("post"):
         v.append(f"POST='{sc['post']}'")
     if sc.get("proof"):

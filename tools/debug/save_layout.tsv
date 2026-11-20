@@ -1,0 +1,11 @@
+field	offset	type	note
+playtime	0	u32	play time in seconds (frame counter 0x800810DC / 60)
+name	4	bytes16	angel's name, game character codes, 0xFE-terminated (from RAM 0x8007F439)
+year	24	u8	calendar year shown in the save list (computed from the day counter)
+month	25	u8	month 1-12
+day	26	u8	day of month
+party	27	u8	number of heroes listed after it
+party_ids	28	bytes7	hero ids (from RAM 0x8007F4B0)
+party_lv	2f	bytes7	a byte from each listed hero's record (+1)
+days	38	u16	"Days" in the save list (from 0x800810D8)
+length	3a	u16	bytes packed after the 0x3C-byte header

@@ -63,13 +63,22 @@ cold boot, no save, no savestate. Scene list: `tools/debug/scenes.tsv` (columns 
 | ed.bin | staff roll (ENDING.STR) and game over |
 | pro.bin | title menu and the name entry |
 
+## Saves (`tools/debug/save.py`, fixtures in `tools/debug/cards/`)
+
+- `fd2_save.mcd`: written by the game (scene `heaven_saved`: New Game, Heaven -> データ -> セーブ, slot 1).
+  `fd2_edited.mcd`: the same after `save.py set .. playtime=45296 month=7 day=15`; scene `load_edited` shows
+  "time 012:34:56, Date 00,07,15" in the load list and loads into Heaven.
+- Format (save.py docstring, `save_layout.tsv`): data at block +0x200, packed by `0x8002843C`, unpacked by
+  `0x80028A84`, RAM image 0x80099708 (data 0x80099908); u16 checksum at data +0x9FE = sum of the u16 words before
+  it. A bad sum lists the file as "No Data".
+- **Run an event on a loaded file:** kind `title` with POST (the load) and an .ssb in `arg`: warp.lua then requests
+  rfd2 sub-mode 1 with the SSB_DATA index at 0x80081010 (New Game itself requests 0x117 = prologue.ssb).
+
 ## Not reached yet (next session)
 
-- **Battle** (name plates, EVX units): find what starts one. EVX are map-event setups; an event registers its
-  sub-events with op `5c:25,i,..` (ceev04 registers seven, matching EVX ceev04_0..6). Ideas: give a hero a quest and
-  pass time (待機), or find the mode switch that loads Battle.bin (watch reads of its record 0x800EBB28 while a
-  battle starts; the heap allocator polls 0x800EBA70 every frame, so keep it out of the watch range).
-- **Game over**, **credits / ENDING.STR staff roll** (not played by any `*ed01.ssb` nor `Raph_end.ssb`: they end in
-  the .end narration, "Fin" and the clear-data save), **album** (GRPDATA_1454), **キャラ劇**: first look at the
-  OPTION screen's **OMAKE** (extras) line (bottom of `title_option`'s proof), then the 天界へ menu (`map_heaven`).
-- `save.py` (memory-card save editor) if a warp can't reach them.
+- **OMAKE** (OPTION's last line, scene `title_omake`): asks to load this game's **clear data** from a card
+  ("クリアデータをロードする"). Getting clear data: an ending run from New Game answers "ファイルがありません"
+  at the clear-data save; run on a loaded file (`end_cecia_clear`) it shows "書き込み中" and loops back to the slot
+  prompt, and the card is unchanged. Next: watch the card write (BIOS write / the result code) in that run, or
+  find what OMAKE checks in pro.bin and build the clear-data file with save.py. **Album** (album_00-03.tim,
+  GRPDATA 1451-1454: no code constant found) and **キャラ劇** are probably behind OMAKE.
