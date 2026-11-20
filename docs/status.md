@@ -2,8 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (27th worker: main gate 193/193 ok, inkbox done, stress saves done, textcover
-  tool fixed and piloted. NEXT, in order: (d) textcover bulk runs (see 27th worker entry); (e) final re-tour on the
+- **Phase:** 8. QA in the emulator (28th worker: textcover tool hardened, bulk runs started then killed by the host
+  for low memory, ~27 of 288 events + 24 of 72 scenes logged; MSG forcing researched. NEXT, in order: (d) finish the
+  textcover bulk runs (28th worker entry) and decide MSG/EVX coverage; (e) final re-tour on the
   final build + verdicts for changed sheets. 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
@@ -349,6 +350,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
   ~30 `--event` args into work/qa/cover), plus the existing scenes (`--all`) with the hook; then MSG (15130 rows:
   fairy reports, chats, battle lines) and EVX (5834) need scenes or reasoned waivers in docs/text_unshown.tsv (not
   created yet); EXE strings are not counted.
+- **Phase 8 progress (2026-11-21, 28th worker):** **textcover fixed** (commits 75a9e6a, bf2e126): MSG banks do not
+  all load to the script heap (FryMsg<n> goes to 0x801203E0, the shared image buffer), so `textcover.lua` now
+  watches each text file's [dst, dst + record size) and logs `FILE .. size=` and `TREAD addr byte`; `textcover.py`
+  counts a row only on 4 distinct offsets whose byte equals the original file's (the reused heap had credited 226
+  BTL_EVT0 rows to one battle; now 8, the 4 speaker+line pairs actually shown), a newer non-text load ends the
+  mapping, rows are keyed `folder/id` (ceev03.ssb and ceev03.EVX shared a stem; **waivers use these keys**, e.g.
+  `msg/FryMsg0.*`), and `--by-file F` writes rows/reached/missing/loaded per file. Tests `tests/test_textcover.py`.
+  **Runs:** event runner (`--event X.ssb`, frames 16000/21000/27000 by row count, `--shot-every 600`, -j 2 per shard)
+  into `work/qa/cover`, scenes (`warp.py SCENES --lua tools/debug/textcover.lua --debugger --cue <orig>`) into
+  `work/qa/cover_scenes`; all four runners were **killed by the host for low memory** (another project had 5 PCSX
+  up). Logged: 27 event folders, 24 scene folders; `textcover.py work/qa/cover work/qa/cover_scenes` = ssb 1464/9821,
+  evx 78/5855, msg 17/15130, end 7/198, ovl 63/716 (`work/qa/cover_byfile.tsv`, `cover_missing.tsv`). A mash run
+  reaches ~60-90% of an event's rows (other choice branches stay unread); events load their EVX battles
+  (laev10.EVX, eiev04.EVX), so EVX is partly covered by the event runs. Old-format logs (no ` size=`) must be
+  re-run (a folder counts as done only if its log has `final frame` and ` size=`). Resume with at most 2-4 emulators
+  and nothing else heavy running; a resumable sharded runner is easy to recreate: loop over `script/ssb/*.tsv`
+  stems, skip done folders, call `warp.py --event` in chunks of 4 so a kill loses little (results.tsv is only
+  written when a warp.py call ends; `--shot-every 3000` broke `sheet.make` on short title scenes).
+  **MSG forcing (researched, not built):** no common get-message function; callers inline the fetch (fairy report
+  rfd2 0x800BF070, index s4, bank at [s2+0x1EB0]) and start the box with EXE 0x8002E6C0(text, len) (18 rfd2 + 4
+  Battle.bin callers). Display is asynchronous (a jump-back loop over the index showed one report), and ssb events
+  never call 0x8002E6C0, so events can't carry forced entries (`docs/re/text.md`). Getting 15130 MSG rows needs
+  either a force hook at 0x8002E6C0 driven by scenes that open many boxes, or waivers (see Waiting on the user).
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
@@ -407,7 +431,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     loaded, drop G9.
   - Don't edit warp.lua while a batch runs: runs that start mid-edit fail.
 - **Open bugs:** none.
-- **Waiting on the user:** nothing. Non-blocking, for phase 8: the FMV captions and the Japanese staff roll in
+- **Waiting on the user:** (not blocking, 28th worker) textcover scale: 15130 MSG rows are entries picked from
+  indexed banks by game state, and 5855 EVX rows sit in battles reached only through events; a mash run shows a
+  few entries per bank. Showing every entry needs a force hook (days of emulator time on this shared host, as the
+  first game's `textforce`). Default carried on with: finish the ssb/scene runs, build the force hook for MSG; the
+  alternative for the owner: waive MSG/EVX entries per bank once each bank is shown at least once in its box, since
+  `lint.py` already checks every entry's width and page count. Also not blocking: the earlier FMV note below.
+  Non-blocking, for phase 8: the FMV captions and the Japanese staff roll in
   DEMO.STR/ENDING.STR (D3 says credits in English): re-encode the MDEC video or overlay subtitles; default plan is to
   re-encode ENDING.STR's credit section with English text. codex exec is out of credits until 2026-11-26 (no
   independent reviewer until then).
