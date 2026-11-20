@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_OK3.000E	そこへ行けばいいんだな？{n}なにがあるのか、よくわからないが……{wait}{clear}まあ、いい。行って来よう。		
-NASI_OK3.006C	わかった。そこへ行けばいいんだな？{n}たまにはそういうのも悪くないかもしれないな。		
-NASI_OK3.00BE	どうしてそこへ行かなければならないのかが、{n}よくわからないが……。{n}なにか君には考えがあるのだろうからな。{wait}{clear}僕でいいなら、行って来よう。		
-NASI_OK3.014A	そこになにをしに行くのかよくわからないが……。{n}君がそう言うなら、しかたがない。{n}行って来よう。		
-NASI_OK3.01AC	そこへ行けばいいんだな？{n}わかった……とりあえず、行ってみよう。		
-NASI_OK3.01EE	そこになにがあるのかわからないが……{n}まあ、いい。{n}ひまつぶしに行って来よう。		
+NASI_OK3.000E	そこへ行けばいいんだな？{n}なにがあるのか、よくわからないが……{wait}{clear}まあ、いい。行って来よう。	So I should go there? I'm not sure what's{n}there...{wait}{clear}Well, fine. I'll go.	
+NASI_OK3.006C	わかった。そこへ行けばいいんだな？{n}たまにはそういうのも悪くないかもしれないな。	All right. So I should go there? Something{n}like that might not be so bad, once in a{n}while.	
+NASI_OK3.00BE	どうしてそこへ行かなければならないのかが、{n}よくわからないが……。{n}なにか君には考えがあるのだろうからな。{wait}{clear}僕でいいなら、行って来よう。	I don't quite see why I have to go there...{n}But you must have something in mind.{wait}{clear}If I'll do, I'll go.	
+NASI_OK3.014A	そこになにをしに行くのかよくわからないが……。{n}君がそう言うなら、しかたがない。{n}行って来よう。	I don't quite know what I'm going there{n}for... But if you say so, it can't be{n}helped. I'll go.	
+NASI_OK3.01AC	そこへ行けばいいんだな？{n}わかった……とりあえず、行ってみよう。	So I should go there? All right... I'll go{n}and see, for now.	
+NASI_OK3.01EE	そこになにがあるのかわからないが……{n}まあ、いい。{n}ひまつぶしに行って来よう。	I don't know what's there... but fine. I'll{n}go to kill some time.	

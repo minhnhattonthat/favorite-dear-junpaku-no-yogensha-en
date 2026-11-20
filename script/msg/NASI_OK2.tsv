@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_OK2.000E	そこへ行けって？{n}わかった、おれでよかったら行くよ。		
-NASI_OK2.0044	どうして、そんなところへ？{wait}{clear}まあ、いいや。{n}なにかあるから行けって言うんだろ？{wait}{clear}わかったよ、行ってくる。		
-NASI_OK2.00B2	わかった、行くよ。{n}なにがあるのか、よくわからないけどな。		
-NASI_OK2.00EE	ふーん、そんなところになにかあるのか？{n}よくわからないけど、{n}行けって言うんなら、行ってくるよ。		
-NASI_OK2.0150	そこへ行けって？{n}わかった、任せてくれよ。		
-NASI_OK2.017C	なんだかよくわからないけど、{n}そこへ行けばいいんだな？{wait}{clear}ま、なにか理由があるんだろうからな。{n}行ってくるよ。		
+NASI_OK2.000E	そこへ行けって？{n}わかった、おれでよかったら行くよ。	Go there? Sure, if I'll do, I'll go.	
+NASI_OK2.0044	どうして、そんなところへ？{wait}{clear}まあ、いいや。{n}なにかあるから行けって言うんだろ？{wait}{clear}わかったよ、行ってくる。	Why somewhere like that?{wait}{clear}Well, whatever. You're telling me to go{n}because something's there, right?{wait}{clear}Okay, I'm off.	
+NASI_OK2.00B2	わかった、行くよ。{n}なにがあるのか、よくわからないけどな。	Okay, I'll go. Not that I've got any idea{n}what's there.	
+NASI_OK2.00EE	ふーん、そんなところになにかあるのか？{n}よくわからないけど、{n}行けって言うんなら、行ってくるよ。	Hmm, there's something in a place like that?{n}I don't really get it, but if you say go,{n}I'll go.	
+NASI_OK2.0150	そこへ行けって？{n}わかった、任せてくれよ。	Go there? Okay, leave it to me!	
+NASI_OK2.017C	なんだかよくわからないけど、{n}そこへ行けばいいんだな？{wait}{clear}ま、なにか理由があるんだろうからな。{n}行ってくるよ。	I don't really get it, but I should go{n}there?{wait}{clear}Well, you must have some reason. I'm off.	

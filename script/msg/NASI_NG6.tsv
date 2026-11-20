@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_NG6.000E	ごめんなさい、天使様。{n}私、どうしても手がはなせなくて……。{n}他の人にお願いしていただけませんか？		
-NASI_NG6.0072	すみません、天使様……。{n}いまは、どうしてもそこへは行けません……。{wait}{clear}他の人に頼んでいただけないでしょうか？		
-NASI_NG6.00E2	天使様、すみません。{n}理由もなく旅をするなど、いまの私にはできません。		
-NASI_NG6.012A	すみませんが、{n}意味のない場所にはあまり行きたくありません……。{n}わがまま言って、ごめんなさい、天使様。		
-NASI_NG6.0194	すみません、天使様。{wait}{clear}私にはどうしても{n}やらなければならないことがあるんです。{n}他の方にお願いしていただけませんか？		
-NASI_NG6.020C	すみません、天使様。{n}どうしても手がはなせないのです。{wait}{clear}今度の依頼は受けますから、{n}今回は他の方にお願いしていただけないでしょうか？		
+NASI_NG6.000E	ごめんなさい、天使様。{n}私、どうしても手がはなせなくて……。{n}他の人にお願いしていただけませんか？	I'm sorry, Angel. I just can't get away{n}right now... Could you ask someone else?	
+NASI_NG6.0072	すみません、天使様……。{n}いまは、どうしてもそこへは行けません……。{wait}{clear}他の人に頼んでいただけないでしょうか？	Forgive me, Angel... I simply can't go there{n}right now...{wait}{clear}Could you ask someone else?	
+NASI_NG6.00E2	天使様、すみません。{n}理由もなく旅をするなど、いまの私にはできません。	Forgive me, Angel. Traveling without a{n}reason is something I can't do right now.	
+NASI_NG6.012A	すみませんが、{n}意味のない場所にはあまり行きたくありません……。{n}わがまま言って、ごめんなさい、天使様。	I'm sorry, but I'd rather not go somewhere{n}that has no meaning... Forgive me for being{n}selfish, Angel.	
+NASI_NG6.0194	すみません、天使様。{wait}{clear}私にはどうしても{n}やらなければならないことがあるんです。{n}他の方にお願いしていただけませんか？	Forgive me, Angel.{wait}{clear}There is something I absolutely have to do.{n}Could you ask someone else?	
+NASI_NG6.020C	すみません、天使様。{n}どうしても手がはなせないのです。{wait}{clear}今度の依頼は受けますから、{n}今回は他の方にお願いしていただけないでしょうか？	Forgive me, Angel. I just can't get away.{wait}{clear}I'll take the next request, so could you ask{n}someone else this time?	

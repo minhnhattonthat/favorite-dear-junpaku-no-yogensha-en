@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_OK4.000E	そんなところになにかあるの？{n}まあ、行けって言うんなら、行ってもいいけど。{n}どうせ、なにもやることないから。		
-NASI_OK4.007C	なんで、そんなところへ行かなくちゃいけないの？{n}もしかして、なにか考えがあるの？{wait}{clear}それだったら、行ってくるわ。{n}行けばなにかわかるんでしょう？		
-NASI_OK4.010E	わかった、そこへ行けばいいのね。{n}どうしてそんなところに行かなくちゃいけないのか、{n}わからないけど……。		
-NASI_OK4.0178	うん、わかった。{n}私でよかったら、行くわ。{n}行けばなにがあるか、わかるんでしょ？		
-NASI_OK4.01CA	ふーん、そこへ行けって？{n}理由はよくわからないけど、いいわ。{wait}{clear}とにかく行ってみるのもいいかもしれないしね。		
-NASI_OK4.0238	なんだかよくわからないけど、{n}そこへ行けばいいのね？{wait}{clear}わかったわ、とにかく行ってみる。{n}たまにはこういう旅もいいかもしれないし。		
+NASI_OK4.000E	そんなところになにかあるの？{n}まあ、行けって言うんなら、行ってもいいけど。{n}どうせ、なにもやることないから。	There's something in a place like that?{n}Well, if you say go, I don't mind going.{n}It's not like I've got anything else to do.	
+NASI_OK4.007C	なんで、そんなところへ行かなくちゃいけないの？{n}もしかして、なにか考えがあるの？{wait}{clear}それだったら、行ってくるわ。{n}行けばなにかわかるんでしょう？	Why do I have to go somewhere like that? Do{n}you have something in mind?{wait}{clear}If so, I'll go. I'll find out something once{n}I'm there, right?	
+NASI_OK4.010E	わかった、そこへ行けばいいのね。{n}どうしてそんなところに行かなくちゃいけないのか、{n}わからないけど……。	Okay, so I should go there. I don't see why{n}I have to go to a place like that, though...	
+NASI_OK4.0178	うん、わかった。{n}私でよかったら、行くわ。{n}行けばなにがあるか、わかるんでしょ？	Yeah, okay. If I'll do, I'll go. I'll find{n}out what's there once I go, right?	
+NASI_OK4.01CA	ふーん、そこへ行けって？{n}理由はよくわからないけど、いいわ。{wait}{clear}とにかく行ってみるのもいいかもしれないしね。	Hmm, go there? I don't really see why, but{n}fine.{wait}{clear}Maybe it's not a bad idea to just go and{n}see.	
+NASI_OK4.0238	なんだかよくわからないけど、{n}そこへ行けばいいのね？{wait}{clear}わかったわ、とにかく行ってみる。{n}たまにはこういう旅もいいかもしれないし。	I don't really get it, but I should go{n}there?{wait}{clear}Okay, I'll just go and see. A trip like this{n}might be nice once in a while.	

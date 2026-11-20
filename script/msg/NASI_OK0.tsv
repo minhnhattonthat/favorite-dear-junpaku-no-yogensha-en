@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_OK0.000E	そこに行けばいいんだな？{n}なにがあるのかよくわからないが、行こう。		
-NASI_OK0.0052	わかった、そこに向かおう。		
-NASI_OK0.006E	そこに行けばいいんだな？{n}任せてくれ。		
-NASI_OK0.0096	わかった、そこへ行けばいいんだな？{n}しかし、なんのために行くのかわからないのは、{n}気になるところだが……。		
-NASI_OK0.0102	君が言うんだ、なにかあるのだろう？{n}俺でよければ、行こう。		
-NASI_OK0.013E	よくわからないが、そこへ行けばいいんだな？{wait}{clear}君が言うことだから、{n}きっと行けばなにかわかるのだろう。		
+NASI_OK0.000E	そこに行けばいいんだな？{n}なにがあるのかよくわからないが、行こう。	So I should go there? I'm not sure what's{n}there, but I'll go.	
+NASI_OK0.0052	わかった、そこに向かおう。	All right, I'll head there.	
+NASI_OK0.006E	そこに行けばいいんだな？{n}任せてくれ。	So I should go there? Leave it to me.	
+NASI_OK0.0096	わかった、そこへ行けばいいんだな？{n}しかし、なんのために行くのかわからないのは、{n}気になるところだが……。	All right, so I should go there? Still, not{n}knowing what I'm going for bothers me a{n}little...	
+NASI_OK0.0102	君が言うんだ、なにかあるのだろう？{n}俺でよければ、行こう。	If you say so, there must be something{n}there. If I'll do, I'll go.	
+NASI_OK0.013E	よくわからないが、そこへ行けばいいんだな？{wait}{clear}君が言うことだから、{n}きっと行けばなにかわかるのだろう。	I don't really understand, but I should go{n}there?{wait}{clear}Since it's you asking, I'm sure I'll find{n}something out once I'm there.	

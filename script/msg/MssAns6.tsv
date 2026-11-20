@@ -32,14 +32,14 @@ MssAns6.05F4	なし	None
 MssAns6.05FA	天使様……{n}考えたくなかったことが、{n}起こってしまったのですね……。{wait}{clear}私が行きます……彼のためにも……。	Angel... So the thing I didn't want to think{n}about has happened...{wait}{clear}I'll go... for his sake, too...	
 MssAns6.0666	なし	None	
 MssAns6.066C	わかりました……私が行きます……。	I understand... I'll go...	
-MssAns6.0690	天使様……これが最後の戦いですね……。{n}私……ずっと守られてきたことに、{n}いま気がつきました。{wait}{clear}レイフォリアの森に、この世界に、{n}そして、天使様に……。{wait}{clear}今度は、本当に私がみんなを守らなければいけない。{n}それが、私の使命です。{wait}{clear}なにも怖くありません、{n}天使様がいてくださるのですから……。{wait}{clear}かならず天竜を倒します。		
+MssAns6.0690	天使様……これが最後の戦いですね……。{n}私……ずっと守られてきたことに、{n}いま気がつきました。{wait}{clear}レイフォリアの森に、この世界に、{n}そして、天使様に……。{wait}{clear}今度は、本当に私がみんなを守らなければいけない。{n}それが、私の使命です。{wait}{clear}なにも怖くありません、{n}天使様がいてくださるのですから……。{wait}{clear}かならず天竜を倒します。	Angel... This is the final battle, isn't{n}it... I... I've only just realized that I've{n}been protected all this time.{wait}{clear}By the Reyforia Forest, by this world, and{n}by you, Angel...{wait}{clear}This time, I truly have to protect everyone.{n}That is my mission.{wait}{clear}I'm not afraid of anything, because you are{n}with me...{wait}{clear}I will defeat the Heavenly Dragon, no matter{n}what.	
 MssAns6.07D4	なし	None	
 MssAns6.07DA	なし	None	
 MssAns6.07E0	なし	None	
 MssAns6.07E6	なし	None	
 MssAns6.07EC	なし	None	
 MssAns6.07F2	なし	None	
-MssAns6.07F8	ケナーに魔物が？{n}わかりました、私が行きます！		
+MssAns6.07F8	ケナーに魔物が？{n}わかりました、私が行きます！	Monsters in Kenner? I understand, I'll go!	
 MssAns6.0828	なし	None	
 MssAns6.082E	なし	None	
 MssAns6.0834	なし	None	
@@ -58,15 +58,15 @@ MssAns6.087C	なし	None
 MssAns6.0882	なし	None	
 MssAns6.0888	なし	None	
 MssAns6.088E	なし	None	
-MssAns6.0894	謎の竜巻ですか？{n}わかりました、行きます。{wait}{clear}森で起こることは、{n}私がなんとかしないといけないと思います。		
-MssAns6.0900	わかりました、すぐに向かいます。{n}森のことです、私が行かないと……。		
+MssAns6.0894	謎の竜巻ですか？{n}わかりました、行きます。{wait}{clear}森で起こることは、{n}私がなんとかしないといけないと思います。	A mysterious whirlwind? I understand, I'll{n}go.{wait}{clear}Whatever happens in the forest, I think it's{n}up to me to do something about it.	
+MssAns6.0900	わかりました、すぐに向かいます。{n}森のことです、私が行かないと……。	I understand, I'll head there at once. It's{n}about the forest, so I have to go...	
 MssAns6.0946	なし	None	
 MssAns6.094C	なし	None	
 MssAns6.0952	なし	None	
-MssAns6.0958	森でそんなことが起こっているのですか？{n}天使様、私、すぐに行きます！		
-MssAns6.099E	天使様、私が行きます。{n}そんなひどいこと、すぐに止めないと……！		
+MssAns6.0958	森でそんなことが起こっているのですか？{n}天使様、私、すぐに行きます！	That's happening in the forest? Angel, I'll{n}go right away!	
+MssAns6.099E	天使様、私が行きます。{n}そんなひどいこと、すぐに止めないと……！	Angel, I'll go. Something that cruel has to{n}be stopped at once...!	
 MssAns6.09E0	なし	None	
-MssAns6.09E6	わかりました、天使様。{n}すぐにロラライへ向かいます。{wait}{clear}きっと、みんな困っているはずですから……。		
+MssAns6.09E6	わかりました、天使様。{n}すぐにロラライへ向かいます。{wait}{clear}きっと、みんな困っているはずですから……。	I understand, Angel. I'll head to Loralai at{n}once.{wait}{clear}Everyone there must be in trouble...	
 MssAns6.0A4A	なし	None	
 MssAns6.0A50	なし	None	
 MssAns6.0A56	なし	None	
@@ -79,12 +79,12 @@ MssAns6.0A7A	なし	None
 MssAns6.0A80	なし	None	
 MssAns6.0A86	なし	None	
 MssAns6.0A8C	なし	None	
-MssAns6.0A92	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。		
+MssAns6.0A92	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。	I understand, I'll go. Angel, I'll do my{n}best and never give up, right to the end.	
 MssAns6.0ADC	なし	None	
 MssAns6.0AE2	なし	None	
 MssAns6.0AE8	なし	None	
 MssAns6.0AEE	なし	None	
-MssAns6.0AF4	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。		
+MssAns6.0AF4	わかりました、行きます。{n}天使様、私、最後まであきらめずにがんばります。	I understand, I'll go. Angel, I'll do my{n}best and never give up, right to the end.	
 MssAns6.0B3E	なし	None	
-MssAns6.0B44	森に魔物が入ってくるなんて、{n}私の力が弱いから……。{wait}{clear}私の責任です、天使様。{n}すぐに、行きます。{n}行って、魔物を倒します。		
+MssAns6.0B44	森に魔物が入ってくるなんて、{n}私の力が弱いから……。{wait}{clear}私の責任です、天使様。{n}すぐに、行きます。{n}行って、魔物を倒します。	Monsters getting into the forest... It's{n}because my power is too weak...{wait}{clear}It's my responsibility, Angel. I'll go at{n}once. I'll go and defeat the monsters.	
 MssAns6.0BC2	なし	None	

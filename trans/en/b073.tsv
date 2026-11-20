@@ -1,0 +1,85 @@
+id	en
+NASI_NG5.013A	I'm sorry. There is something I absolutely have to do.{wait}{clear}Could you ask someone else?
+NASI_NG5.01A8	I can't go somewhere like that. Besides, I don't really understand the point of your request...
+NASI_NG5.01F8	I'm sorry, I can't go there... Please, ask someone else...
+NASI_NG6.000E	I'm sorry, Angel. I just can't get away right now... Could you ask someone else?
+NASI_NG6.0072	Forgive me, Angel... I simply can't go there right now...{wait}{clear}Could you ask someone else?
+NASI_NG6.00E2	Forgive me, Angel. Traveling without a reason is something I can't do right now.
+NASI_NG6.012A	I'm sorry, but I'd rather not go somewhere that has no meaning... Forgive me for being selfish, Angel.
+NASI_NG6.0194	Forgive me, Angel.{wait}{clear}There is something I absolutely have to do. Could you ask someone else?
+NASI_NG6.020C	Forgive me, Angel. I just can't get away.{wait}{clear}I'll take the next request, so could you ask someone else this time?
+NASI_OK0.000E	So I should go there? I'm not sure what's there, but I'll go.
+NASI_OK0.0052	All right, I'll head there.
+NASI_OK0.006E	So I should go there? Leave it to me.
+NASI_OK0.0096	All right, so I should go there? Still, not knowing what I'm going for bothers me a little...
+NASI_OK0.0102	If you say so, there must be something there. If I'll do, I'll go.
+NASI_OK0.013E	I don't really understand, but I should go there?{wait}{clear}Since it's you asking, I'm sure I'll find something out once I'm there.
+NASI_OK1.000E	You're telling me to go there? Fine...
+NASI_OK1.0052	I don't see why I have to go there...{wait}{clear}Well, whatever...
+NASI_OK1.00A4	I don't know what I'm going for... But if you want me to go, I'll go...
+NASI_OK1.00F0	So I should go there? Fine...
+NASI_OK1.011A	I don't really get it, but I should go there? Fine, I'll go...
+NASI_OK2.000E	Go there? Sure, if I'll do, I'll go.
+NASI_OK2.0044	Why somewhere like that?{wait}{clear}Well, whatever. You're telling me to go because something's there, right?{wait}{clear}Okay, I'm off.
+NASI_OK2.00B2	Okay, I'll go. Not that I've got any idea what's there.
+NASI_OK2.00EE	Hmm, there's something in a place like that? I don't really get it, but if you say go, I'll go.
+NASI_OK2.0150	Go there? Okay, leave it to me!
+NASI_OK2.017C	I don't really get it, but I should go there?{wait}{clear}Well, you must have some reason. I'm off.
+NASI_OK3.000E	So I should go there? I'm not sure what's there...{wait}{clear}Well, fine. I'll go.
+NASI_OK3.006C	All right. So I should go there? Something like that might not be so bad, once in a while.
+NASI_OK3.00BE	I don't quite see why I have to go there... But you must have something in mind.{wait}{clear}If I'll do, I'll go.
+NASI_OK3.014A	I don't quite know what I'm going there for... But if you say so, it can't be helped. I'll go.
+NASI_OK3.01AC	So I should go there? All right... I'll go and see, for now.
+NASI_OK3.01EE	I don't know what's there... but fine. I'll go to kill some time.
+NASI_OK4.000E	There's something in a place like that? Well, if you say go, I don't mind going. It's not like I've got anything else to do.
+NASI_OK4.007C	Why do I have to go somewhere like that? Do you have something in mind?{wait}{clear}If so, I'll go. I'll find out something once I'm there, right?
+NASI_OK4.010E	Okay, so I should go there. I don't see why I have to go to a place like that, though...
+NASI_OK4.0178	Yeah, okay. If I'll do, I'll go. I'll find out what's there once I go, right?
+NASI_OK4.01CA	Hmm, go there? I don't really see why, but fine.{wait}{clear}Maybe it's not a bad idea to just go and see.
+NASI_OK4.0238	I don't really get it, but I should go there?{wait}{clear}Okay, I'll just go and see. A trip like this might be nice once in a while.
+NASI_OK5.000E	There's something in a place like that? If you tell me to go, I'll go, but I don't like trips without much purpose.
+NASI_OK5.0070	Why somewhere like that?{wait}{clear}But I'm sure you have something in mind. Then I'll go.
+NASI_OK5.00CE	All right, so I should go there? I don't quite see why, but you have something in mind, don't you?
+NASI_OK5.0136	All right, if I'll do, I'll go. I'll find out something once I'm there, won't I?
+NASI_OK5.0176	I don't know what I'm going there for, but I have to go, don't I?{wait}{clear}All right, I'm off.
+NASI_OK5.01DC	I don't really understand, but you want me to go there. All right, I'm off. You'll tell me why later, won't you?
+NASI_OK6.000E	I understand, Angel. I don't know what's there, but I'll go.
+NASI_OK6.005C	There's something there? I don't quite understand, but if you tell me to go, I'll go...
+NASI_OK6.00C0	I understand. I don't know what's there, but I have to go, don't I?{wait}{clear}A trip like that might be nice once in a while. I'm off, Angel.
+NASI_OK6.015A	What am I going there for?{wait}{clear}Oh, I'm sorry, Angel... You must have something in mind, don't you?{wait}{clear}I'm sure I'll understand once I go, right? I'm off.
+NASI_OK6.01FC	I don't quite know why, but I should head there?{wait}{clear}I understand, I'll go and see, anyway.
+NASI_OK6.025E	I understand, I'll go and see anyway, Angel. I'm sure I'll find something out once I'm there, right?
+SUP_Item.0060	Give this to a hero to restore their HP.
+SUP_Item.00D8	Give this to a hero to relieve their stress.
+SUP_Item.015C	Give this to a hero to restore their HP and relieve their stress.
+SUP_Item.01F2	Give this to a hero to raise their sense of justice and relieve their stress.
+SUP_Item.03C0	Give this to a hero to raise their sense of justice, restore their HP and relieve their stress.
+SUP_Item.0600	Trust 128-169 (Fein)
+SUP_Item.0622	Trust 128-169 (Clive)
+SUP_Item.0644	Trust 85-101 (Rudi)
+SUP_Item.0662	Trust 102-127 (Rudi)
+SUP_Item.0682	Trust 128-169 (Rudi)
+SUP_Item.06A2	Trust 170-255 (Rudi)
+SUP_Item.06C2	Trust 85-101 (Rocus)
+SUP_Item.06E0	Trust 128-169 (Rocus)
+SUP_Item.0700	Trust 170-255 (Rocus)
+SUP_Item.0720	Trust 85-101 (Irene)
+SUP_Item.0742	Trust 102-127 (Irene)
+SUP_Item.0766	Trust 128-169 (Irene)
+SUP_Item.078A	Trust 256-512 (Irene)
+SUP_Item.07AE	Trust 85-101 (Leyla)
+SUP_Item.07CC	Trust 170-255 (Leyla)
+SUP_Item.07EC	Trust 85-101 (Cecia)
+SUP_Item.080A	Trust 102-127 (Cecia)
+SUP_Item.082A	Trust 256-512 (Cecia)
+T_Msg00.0128	You want to hear about Fein? Very well...{wait}{clear}You and Fein seem to get along naturally.{wait}{clear}But that doesn't mean every mission will go well, so don't grow complacent.
+T_Msg00.01D4	You want to hear about Clive? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.0280	You want to hear about Rudiere? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.0330	You want to hear about Rocus? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.03DA	You want to hear about Irene? Very well...{wait}{clear}You and Irene may not get along very well at first.{wait}{clear}But don't give up, and keep going to see her. I think your actions will change things little by little.
+T_Msg00.04AC	You want to hear about Leyla? Very well...{wait}{clear}I can't say whether you two get along or not.{wait}{clear}It will change depending on you from now on, so think carefully before you act.
+T_Msg00.055C	You want to hear about Cecia? Very well...{wait}{clear}I can't say whether you two get along or not.{wait}{clear}It will change depending on you from now on, so think carefully before you act.
+T_Msg00.060C	You want to hear about Fein? Very well...{wait}{clear}You and Fein may not get along very well at first.{wait}{clear}But don't give up, and keep going to see him. I think your actions will change things little by little.
+T_Msg00.0836	You want to hear about Rocus? Very well...{wait}{clear}You and Rocus may not get along very well at first.{wait}{clear}But don't give up, and keep going to see him. I think your actions will change things little by little.
+T_Msg00.0900	You want to hear about Irene? Very well...{wait}{clear}You and Irene seem to get along naturally.{wait}{clear}But that doesn't mean every mission will go well, so don't grow complacent.
+T_Msg00.0B10	You want to hear about Fein? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.

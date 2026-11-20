@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_NG5.000E	ごめんなさい。{n}私はどうしてもやらなければならないことがあるの。{n}悪いけど、他の人にお願いしてもらえる？		
-NASI_NG5.0078	ごめんなさい……。{n}いまは、どうしてもそこへは行けないわ……。{n}悪いわね……。		
-NASI_NG5.00C8	悪いけど、理由もなしに行動するほど、{n}私はひまじゃないの。{wait}{clear}そういう依頼なら{n}他の人にお願いしてくれるかしら。		
-NASI_NG5.013A	ごめんなさい。{n}私には、どうしても{n}やらなければいけないことがあるの。{wait}{clear}他の人にお願いしてもらえるかしら？		
-NASI_NG5.01A8	そんなところへは行けないわ。{n}それにあなたの依頼の意味もよくわからないし……。		
-NASI_NG5.01F8	ごめんなさい、そこへは行けないわ……。{n}悪いけど、他の人に頼んで……。		
+NASI_NG5.000E	ごめんなさい。{n}私はどうしてもやらなければならないことがあるの。{n}悪いけど、他の人にお願いしてもらえる？	I'm sorry. There is something I absolutely{n}must do. Could you ask someone else instead?	
+NASI_NG5.0078	ごめんなさい……。{n}いまは、どうしてもそこへは行けないわ……。{n}悪いわね……。	I'm sorry... I simply can't go there right{n}now... Forgive me...	
+NASI_NG5.00C8	悪いけど、理由もなしに行動するほど、{n}私はひまじゃないの。{wait}{clear}そういう依頼なら{n}他の人にお願いしてくれるかしら。	Sorry, but I'm not idle enough to act{n}without a reason.{wait}{clear}For a request like that, would you ask{n}someone else?	
+NASI_NG5.013A	ごめんなさい。{n}私には、どうしても{n}やらなければいけないことがあるの。{wait}{clear}他の人にお願いしてもらえるかしら？	I'm sorry. There is something I absolutely{n}have to do.{wait}{clear}Could you ask someone else?	
+NASI_NG5.01A8	そんなところへは行けないわ。{n}それにあなたの依頼の意味もよくわからないし……。	I can't go somewhere like that. Besides, I{n}don't really understand the point of your{n}request...	
+NASI_NG5.01F8	ごめんなさい、そこへは行けないわ……。{n}悪いけど、他の人に頼んで……。	I'm sorry, I can't go there... Please, ask{n}someone else...	

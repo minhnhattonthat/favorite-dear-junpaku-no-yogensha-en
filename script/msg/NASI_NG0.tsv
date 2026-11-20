@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_NG0.000E	すまないが、{n}理由もわからずに行動する気にはなれない。{wait}{clear}もっと他に行くべき場所があるのではないか？		
-NASI_NG0.0074	悪いが、そこへ向かう理由がわからない……。{wait}{clear}いまは、ここから動きたくないのだ……すまないな。		
-NASI_NG0.00D4	すまないが、俺が行く理由がないように思える……。{n}悪いが他の者に頼んでもらえないか？		
-NASI_NG0.012A	すまないが、俺は今、手がはなせない。{n}誰か他の者に行ってはもらえないのか？		
-NASI_NG0.0176	そんなところに俺が？{wait}{clear}悪いが、意味のないところに{n}行っている場合ではないのだ……すまない。		
-NASI_NG0.01D4	すまない。{n}俺には、どうしても{n}やらなければならないことがある。{wait}{clear}悪いがその依頼を受けることはできない……。{n}他の者に頼んでもらえないか？		
+NASI_NG0.000E	すまないが、{n}理由もわからずに行動する気にはなれない。{wait}{clear}もっと他に行くべき場所があるのではないか？	I'm sorry, but I can't bring myself to act{n}without knowing why.{wait}{clear}Isn't there somewhere else I ought to go?	
+NASI_NG0.0074	悪いが、そこへ向かう理由がわからない……。{wait}{clear}いまは、ここから動きたくないのだ……すまないな。	Sorry, but I don't see a reason to go{n}there...{wait}{clear}Right now, I don't want to leave this{n}place... Forgive me.	
+NASI_NG0.00D4	すまないが、俺が行く理由がないように思える……。{n}悪いが他の者に頼んでもらえないか？	I'm sorry, but I don't see any reason for me{n}to go... Could you ask someone else?	
+NASI_NG0.012A	すまないが、俺は今、手がはなせない。{n}誰か他の者に行ってはもらえないのか？	I'm sorry, but my hands are full right now.{n}Can't someone else go?	
+NASI_NG0.0176	そんなところに俺が？{wait}{clear}悪いが、意味のないところに{n}行っている場合ではないのだ……すまない。	Me, go somewhere like that?{wait}{clear}Sorry, but I can't afford to go somewhere{n}pointless... Forgive me.	
+NASI_NG0.01D4	すまない。{n}俺には、どうしても{n}やらなければならないことがある。{wait}{clear}悪いがその依頼を受けることはできない……。{n}他の者に頼んでもらえないか？	I'm sorry. There's something I absolutely{n}have to do.{wait}{clear}I'm afraid I can't take that request...{n}Could you ask someone else?	

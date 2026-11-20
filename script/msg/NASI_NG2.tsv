@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_NG2.000E	おれ、今、他のことで手がいっぱいなんだ。{n}悪いけど、そこへは行けない……。		
-NASI_NG2.005A	ごめん！{n}おれはいま、そこへ行くわけにはいかないんだ。{wait}{clear}悪いけど、他の人に頼んでもらえないか？		
-NASI_NG2.00BC	理由もなく、そんなところへは行きたくないな。{n}悪いけど、他の人に頼んでもらえないか？		
-NASI_NG2.0112	そんなよくわからない場所に行くほど、{n}おれはひまじゃないよ。		
-NASI_NG2.0150	悪いけど、おれ、{n}他にやらなくちゃいけないことがあるんだ。{wait}{clear}ごめんな！　今度は、きっと協力するよ。		
+NASI_NG2.000E	おれ、今、他のことで手がいっぱいなんだ。{n}悪いけど、そこへは行けない……。	My hands are full with something else right{n}now. Sorry, but I can't go there...	
+NASI_NG2.005A	ごめん！{n}おれはいま、そこへ行くわけにはいかないんだ。{wait}{clear}悪いけど、他の人に頼んでもらえないか？	Sorry! I can't go there right now.{wait}{clear}I hate to say it, but could you ask someone{n}else?	
+NASI_NG2.00BC	理由もなく、そんなところへは行きたくないな。{n}悪いけど、他の人に頼んでもらえないか？	I don't want to go somewhere like that for{n}no reason. Sorry, but could you ask someone{n}else?	
+NASI_NG2.0112	そんなよくわからない場所に行くほど、{n}おれはひまじゃないよ。	I'm not so idle that I'd go somewhere that{n}makes no sense.	
+NASI_NG2.0150	悪いけど、おれ、{n}他にやらなくちゃいけないことがあるんだ。{wait}{clear}ごめんな！　今度は、きっと協力するよ。	Sorry, but there's something else I've got{n}to do.{wait}{clear}My bad! Next time I'll help for sure.	
 NASI_NG2.01B6	ごめん！　ちょっと手がはなせないんだ。{wait}{clear}悪いけど、他の人にお願いできないか？	Sorry! I can't get away right now.{wait}{clear}Sorry, but could you ask somebody else?	

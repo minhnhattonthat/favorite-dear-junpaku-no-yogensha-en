@@ -1,7 +1,7 @@
 id	jp	en	notes
-NASI_OK5.000E	そんなところになにかあるの？{n}行けと言われれば行くけれど、{n}あまり意味のない旅は好きじゃないわ。		
-NASI_OK5.0070	どうしてそんなところへ？{wait}{clear}でも、あなたにはきっとなにか考えがあるのね。{n}だったら、行くわ。		
-NASI_OK5.00CE	わかったわ、そこへ行けばいいのね？{n}理由はよくわからないけど、{n}あなたにはなにか考えがあるのでしょう？		
-NASI_OK5.0136	わかった、私でよければ行くわ。{n}行けばなにかわかるのでしょう？		
-NASI_OK5.0176	そこへはなにをしに行くのかわからないけれど、{n}行かなければいけないのね？{wait}{clear}わかったわ、行ってくる。		
-NASI_OK5.01DC	よくわからないけど、そこへ行って欲しいのね。{n}わかったわ、行ってくる。{n}理由はあとで話してくれるでしょう？		
+NASI_OK5.000E	そんなところになにかあるの？{n}行けと言われれば行くけれど、{n}あまり意味のない旅は好きじゃないわ。	There's something in a place like that? If{n}you tell me to go, I'll go, but I don't like{n}trips without much purpose.	
+NASI_OK5.0070	どうしてそんなところへ？{wait}{clear}でも、あなたにはきっとなにか考えがあるのね。{n}だったら、行くわ。	Why somewhere like that?{wait}{clear}But I'm sure you have something in mind.{n}Then I'll go.	
+NASI_OK5.00CE	わかったわ、そこへ行けばいいのね？{n}理由はよくわからないけど、{n}あなたにはなにか考えがあるのでしょう？	All right, so I should go there? I don't{n}quite see why, but you have something in{n}mind, don't you?	
+NASI_OK5.0136	わかった、私でよければ行くわ。{n}行けばなにかわかるのでしょう？	All right, if I'll do, I'll go. I'll find{n}out something once I'm there, won't I?	
+NASI_OK5.0176	そこへはなにをしに行くのかわからないけれど、{n}行かなければいけないのね？{wait}{clear}わかったわ、行ってくる。	I don't know what I'm going there for, but I{n}have to go, don't I?{wait}{clear}All right, I'm off.	
+NASI_OK5.01DC	よくわからないけど、そこへ行って欲しいのね。{n}わかったわ、行ってくる。{n}理由はあとで話してくれるでしょう？	I don't really understand, but you want me{n}to go there. All right, I'm off. You'll tell{n}me why later, won't you?	

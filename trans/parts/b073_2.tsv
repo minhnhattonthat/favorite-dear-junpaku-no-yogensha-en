@@ -1,0 +1,39 @@
+NASI_OK6.005C	There's something there? I don't quite understand, but if you tell me to go, I'll go...
+NASI_OK6.00C0	I understand. I don't know what's there, but I have to go, don't I?{wait}{clear}A trip like that might be nice once in a while. I'm off, Angel.
+NASI_OK6.015A	What am I going there for?{wait}{clear}Oh, I'm sorry, Angel... You must have something in mind, don't you?{wait}{clear}I'm sure I'll understand once I go, right? I'm off.
+NASI_OK6.01FC	I don't quite know why, but I should head there?{wait}{clear}I understand, I'll go and see, anyway.
+NASI_OK6.025E	I understand, I'll go and see anyway, Angel. I'm sure I'll find something out once I'm there, right?
+SUP_Item.0060	Give this to a hero to restore their HP.
+SUP_Item.00D8	Give this to a hero to relieve their stress.
+SUP_Item.015C	Give this to a hero to restore their HP and relieve their stress.
+SUP_Item.01F2	Give this to a hero to raise their sense of justice and relieve their stress.
+SUP_Item.03C0	Give this to a hero to raise their sense of justice, restore their HP and relieve their stress.
+SUP_Item.0600	Trust 128-169 (Fein)
+SUP_Item.0622	Trust 128-169 (Clive)
+SUP_Item.0644	Trust 85-101 (Rudi)
+SUP_Item.0662	Trust 102-127 (Rudi)
+SUP_Item.0682	Trust 128-169 (Rudi)
+SUP_Item.06A2	Trust 170-255 (Rudi)
+SUP_Item.06C2	Trust 85-101 (Rocus)
+SUP_Item.06E0	Trust 128-169 (Rocus)
+SUP_Item.0700	Trust 170-255 (Rocus)
+SUP_Item.0720	Trust 85-101 (Irene)
+SUP_Item.0742	Trust 102-127 (Irene)
+SUP_Item.0766	Trust 128-169 (Irene)
+SUP_Item.078A	Trust 256-512 (Irene)
+SUP_Item.07AE	Trust 85-101 (Leyla)
+SUP_Item.07CC	Trust 170-255 (Leyla)
+SUP_Item.07EC	Trust 85-101 (Cecia)
+SUP_Item.080A	Trust 102-127 (Cecia)
+SUP_Item.082A	Trust 256-512 (Cecia)
+T_Msg00.0128	You want to hear about Fein? Very well...{wait}{clear}You and Fein seem to get along naturally.{wait}{clear}But that doesn't mean every mission will go well, so don't grow complacent.
+T_Msg00.01D4	You want to hear about Clive? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.0280	You want to hear about Rudiere? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.0330	You want to hear about Rocus? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.
+T_Msg00.03DA	You want to hear about Irene? Very well...{wait}{clear}You and Irene may not get along very well at first.{wait}{clear}But don't give up, and keep going to see her. I think your actions will change things little by little.
+T_Msg00.04AC	You want to hear about Leyla? Very well...{wait}{clear}I can't say whether you two get along or not.{wait}{clear}It will change depending on you from now on, so think carefully before you act.
+T_Msg00.055C	You want to hear about Cecia? Very well...{wait}{clear}I can't say whether you two get along or not.{wait}{clear}It will change depending on you from now on, so think carefully before you act.
+T_Msg00.060C	You want to hear about Fein? Very well...{wait}{clear}You and Fein may not get along very well at first.{wait}{clear}But don't give up, and keep going to see him. I think your actions will change things little by little.
+T_Msg00.0836	You want to hear about Rocus? Very well...{wait}{clear}You and Rocus may not get along very well at first.{wait}{clear}But don't give up, and keep going to see him. I think your actions will change things little by little.
+T_Msg00.0900	You want to hear about Irene? Very well...{wait}{clear}You and Irene seem to get along naturally.{wait}{clear}But that doesn't mean every mission will go well, so don't grow complacent.
+T_Msg00.0B10	You want to hear about Fein? Very well...{wait}{clear}I can't say whether you two get along or not. It will change depending on you from now on, so think carefully before you act.

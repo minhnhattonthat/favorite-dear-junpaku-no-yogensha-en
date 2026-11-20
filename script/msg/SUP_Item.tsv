@@ -1,46 +1,46 @@
 id	jp	en	notes
-SUP_Item.0060	これを渡せば勇者のＨＰが回復しますよ。		
-SUP_Item.0088	これを渡せば勇者のＨＰが回復しますよ。		
-SUP_Item.00B0	これを渡せば勇者のＨＰが回復しますよ。		
-SUP_Item.00D8	これを渡せば勇者のストレスが回復しますよ。		
-SUP_Item.0104	これを渡せば勇者のストレスが回復しますよ。		
-SUP_Item.0130	これを渡せば勇者のストレスが回復しますよ。		
-SUP_Item.015C	これを渡せば勇者のＨＰとストレスが回復しますよ。		
-SUP_Item.018E	これを渡せば勇者のＨＰとストレスが回復しますよ。		
-SUP_Item.01C0	これを渡せば勇者のＨＰとストレスが回復しますよ。		
-SUP_Item.01F2	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.0234	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.0276	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.02B8	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.02FA	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.033C	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.037E	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。		
-SUP_Item.03C0	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0408	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0450	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0498	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.04E0	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0528	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0570	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.05B8	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。		
-SUP_Item.0600	信頼度１２８～１６９（フェイン）		
-SUP_Item.0622	信頼度１２８～１６９（クライヴ）		
-SUP_Item.0644	信頼度８５～１０１（ルディ）		
-SUP_Item.0662	信頼度１０２～１２７（ルディ）		
-SUP_Item.0682	信頼度１２８～１６９（ルディ）		
-SUP_Item.06A2	信頼度１７０～２５５（ルディ）		
-SUP_Item.06C2	信頼度８５～１０１（ロクス）		
-SUP_Item.06E0	信頼度１２８～１６９（ロクス）		
-SUP_Item.0700	信頼度１７０～２５５（ロクス）		
-SUP_Item.0720	信頼度８５～１０１（アイリーン）		
-SUP_Item.0742	信頼度１０２～１２７（アイリーン）		
-SUP_Item.0766	信頼度１２８～１６９（アイリーン）		
-SUP_Item.078A	信頼度２５６～５１２（アイリーン）		
-SUP_Item.07AE	信頼度８５～１０１（レイラ）		
-SUP_Item.07CC	信頼度１７０～２５５（レイラ）		
-SUP_Item.07EC	信頼度８５～１０１（セシア）		
-SUP_Item.080A	信頼度１０２～１２７（セシア）		
-SUP_Item.082A	信頼度２５６～５１２（セシア）		
+SUP_Item.0060	これを渡せば勇者のＨＰが回復しますよ。	Give this to a hero to restore their HP.	
+SUP_Item.0088	これを渡せば勇者のＨＰが回復しますよ。	Give this to a hero to restore their HP.	
+SUP_Item.00B0	これを渡せば勇者のＨＰが回復しますよ。	Give this to a hero to restore their HP.	
+SUP_Item.00D8	これを渡せば勇者のストレスが回復しますよ。	Give this to a hero to relieve their stress.	
+SUP_Item.0104	これを渡せば勇者のストレスが回復しますよ。	Give this to a hero to relieve their stress.	
+SUP_Item.0130	これを渡せば勇者のストレスが回復しますよ。	Give this to a hero to relieve their stress.	
+SUP_Item.015C	これを渡せば勇者のＨＰとストレスが回復しますよ。	Give this to a hero to restore their HP and{n}relieve their stress.	
+SUP_Item.018E	これを渡せば勇者のＨＰとストレスが回復しますよ。	Give this to a hero to restore their HP and{n}relieve their stress.	
+SUP_Item.01C0	これを渡せば勇者のＨＰとストレスが回復しますよ。	Give this to a hero to restore their HP and{n}relieve their stress.	
+SUP_Item.01F2	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.0234	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.0276	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.02B8	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.02FA	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.033C	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.037E	これを渡せば勇者の正義感がアップして、{n}ストレスが回復しますよ。	Give this to a hero to raise their sense of{n}justice and relieve their stress.	
+SUP_Item.03C0	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0408	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0450	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0498	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.04E0	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0528	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0570	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.05B8	これを渡せば勇者の正義感がアップして、{n}ＨＰとストレスも回復しますよ。	Give this to a hero to raise their sense of{n}justice, restore their HP and relieve their{n}stress.	
+SUP_Item.0600	信頼度１２８～１６９（フェイン）	Trust 128-169 (Fein)	
+SUP_Item.0622	信頼度１２８～１６９（クライヴ）	Trust 128-169 (Clive)	
+SUP_Item.0644	信頼度８５～１０１（ルディ）	Trust 85-101 (Rudi)	
+SUP_Item.0662	信頼度１０２～１２７（ルディ）	Trust 102-127 (Rudi)	
+SUP_Item.0682	信頼度１２８～１６９（ルディ）	Trust 128-169 (Rudi)	
+SUP_Item.06A2	信頼度１７０～２５５（ルディ）	Trust 170-255 (Rudi)	
+SUP_Item.06C2	信頼度８５～１０１（ロクス）	Trust 85-101 (Rocus)	
+SUP_Item.06E0	信頼度１２８～１６９（ロクス）	Trust 128-169 (Rocus)	
+SUP_Item.0700	信頼度１７０～２５５（ロクス）	Trust 170-255 (Rocus)	
+SUP_Item.0720	信頼度８５～１０１（アイリーン）	Trust 85-101 (Irene)	
+SUP_Item.0742	信頼度１０２～１２７（アイリーン）	Trust 102-127 (Irene)	
+SUP_Item.0766	信頼度１２８～１６９（アイリーン）	Trust 128-169 (Irene)	
+SUP_Item.078A	信頼度２５６～５１２（アイリーン）	Trust 256-512 (Irene)	
+SUP_Item.07AE	信頼度８５～１０１（レイラ）	Trust 85-101 (Leyla)	
+SUP_Item.07CC	信頼度１７０～２５５（レイラ）	Trust 170-255 (Leyla)	
+SUP_Item.07EC	信頼度８５～１０１（セシア）	Trust 85-101 (Cecia)	
+SUP_Item.080A	信頼度１０２～１２７（セシア）	Trust 102-127 (Cecia)	
+SUP_Item.082A	信頼度２５６～５１２（セシア）	Trust 256-512 (Cecia)	
 SUP_Item.084A	{A5}{A5}{A5}{A5}{A5}{A5}		
 SUP_Item.0852	{A5}{A5}{A5}{A5}{A5}{A5}		
 SUP_Item.085A	{A5}{A5}{A5}{A5}{A5}{A5}		
