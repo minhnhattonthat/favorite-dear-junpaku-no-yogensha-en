@@ -62,7 +62,7 @@ BTL_EVT3.0930	我々帝国軍に逆らうだと、面白い……。{n}行くぞ
 BTL_EVT3.0964S	カイゼル	Kaiser	speaker
 BTL_EVT3.096D	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
 BTL_EVT3.09C7S	カイゼル	Kaiser	speaker
-BTL_EVT3.09D0	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT3.09D0	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{wait}{clear}tell her I wished to apologize for killing{n}her men...	
 BTL_EVT3.0A2ES	カイゼル	Kaiser	speaker
 BTL_EVT3.0A37	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
 BTL_EVT3.0A63S	カイゼル	Kaiser	speaker
@@ -336,7 +336,7 @@ BTL_EVT3.27AD	ギシギシギシギシギシギシ……	Gishigishigishigishi...
 BTL_EVT3.27CDS	ミリピード	Millipede	speaker
 BTL_EVT3.27D8	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT3.281CS	ロクス	Rocus	speaker
-BTL_EVT3.2823	やっぱり、アンデッドか……{n}ああ……こんな連中を相手にするとは……。{n}まあ、いい、とっとと片づけさせてもらう！	Undead, as I thought... Ugh... Having to{n}deal with this lot... Oh well, I'll clean{wait}{clear}them up quickly!	
+BTL_EVT3.2823	やっぱり、アンデッドか……{n}ああ……こんな連中を相手にするとは……。{n}まあ、いい、とっとと片づけさせてもらう！	Undead, as I thought... Ugh... Having to{n}deal with this lot...{wait}{clear}Oh well, I'll clean them up quickly!	
 BTL_EVT3.2895S	ロクス	Rocus	speaker
 BTL_EVT3.289C	お前らは、土の中でおとなしくしていろ。	You lot should stay quietly in the ground.	
 BTL_EVT3.28C6S	スカルナイト	Skull Knight	speaker
@@ -478,7 +478,7 @@ BTL_EVT3.3822	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT3.3868S	ロクス	Rocus	speaker
 BTL_EVT3.386F	やはり貴様らアンデッドの仕業だったんだな。	So it was you undead after all.	
 BTL_EVT3.389DS	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT3.38AC	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT3.38AC	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT3.391ES	ロクス	Rocus	speaker
 BTL_EVT3.3925	地獄へ帰れ……。	Return to hell...	
 BTL_EVT3.3939S	ノスフェラトゥ	Nosferatu	speaker
@@ -542,7 +542,7 @@ BTL_EVT3.3EC6	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!
 BTL_EVT3.3EE4S	海竜	Sea Dragon	speaker
 BTL_EVT3.3EE9	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
 BTL_EVT3.3F2BS	ロクス	Rocus	speaker
-BTL_EVT3.3F32	声の正体は海竜だったんだな……。{wait}{clear}さて、ここは僕の好きな場所でもある。{n}雰囲気ぶちこわしなお前には去ってもらおうか。	So the voice was a sea dragon...{wait}{clear}Now, this is one of my favorite places.{n}You're ruining the mood, so I'll ask you to{wait}{clear}leave.	
+BTL_EVT3.3F32	声の正体は海竜だったんだな……。{wait}{clear}さて、ここは僕の好きな場所でもある。{n}雰囲気ぶちこわしなお前には去ってもらおうか。	So the voice was a sea dragon...{wait}{clear}Now, this is one of my favorite places.{wait}{clear}You're ruining the mood, so I'll ask you to{n}leave.	
 BTL_EVT3.3FACS	ロクス	Rocus	speaker
 BTL_EVT3.3FB3	ふう……これでいつものリパに戻ったわけだ。	Phew... Now Ripa is back to its usual self.	
 BTL_EVT3.3FE1S	海竜	Sea Dragon	speaker
@@ -736,7 +736,7 @@ BTL_EVT3.568B	グハハハハハ。	Guhahahahaha.
 BTL_EVT3.56C1S	ロクス	Rocus	speaker
 BTL_EVT3.56C8	あいつの話は本当だったのか？{n}でも、どうして帝国軍に魔族が……？	So what the angel said was true? But why are{n}there demons in the Imperial Army...?	
 BTL_EVT3.570CS	モラクス	Morax	speaker
-BTL_EVT3.5715	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT3.5715	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT3.5763S	モラクス	Morax	speaker
 BTL_EVT3.576C	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT3.57BCS	ロクス	Rocus	speaker

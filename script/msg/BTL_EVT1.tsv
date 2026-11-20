@@ -62,7 +62,7 @@ BTL_EVT1.086E	我々帝国軍に逆らうだと、面白い……。{n}行くぞ
 BTL_EVT1.08A2S	カイゼル	Kaiser	speaker
 BTL_EVT1.08AB	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
 BTL_EVT1.0905S	カイゼル	Kaiser	speaker
-BTL_EVT1.090E	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT1.090E	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{wait}{clear}tell her I wished to apologize for killing{n}her men...	
 BTL_EVT1.096CS	カイゼル	Kaiser	speaker
 BTL_EVT1.0975	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
 BTL_EVT1.09A1S	カイゼル	Kaiser	speaker
@@ -412,7 +412,7 @@ BTL_EVT1.2B43	キシシシシシ！	Kishishishishi!
 BTL_EVT1.2B79S	クライヴ	Clive	speaker
 BTL_EVT1.2B82	貴様ら……	You lot...	
 BTL_EVT1.2B90S	ゴーゴン	Gorgon	speaker
-BTL_EVT1.2B99	あら……？{n}私のところに来てくれるなんて光栄だわ。{n}一生ここにいてもいいのよ？	Oh my...? I'm honored you came to see me.{n}You're welcome to stay here forever, you{wait}{clear}know?	
+BTL_EVT1.2B99	あら……？{n}私のところに来てくれるなんて光栄だわ。{n}一生ここにいてもいいのよ？	Oh my...? I'm honored you came to see me.{wait}{clear}You're welcome to stay here forever, you{n}know?	
 BTL_EVT1.2BEBS	クライヴ	Clive	speaker
 BTL_EVT1.2BF4	……俺はお前を倒す……。	...I'm going to destroy you...	
 BTL_EVT1.2C10S	クライヴ	Clive	speaker
@@ -682,7 +682,7 @@ BTL_EVT1.45EE	ざまみろ！　	Serves you right!
 BTL_EVT1.45FES	私兵	Hired Guard	speaker
 BTL_EVT1.4603	ざまみろ！　	Serves you right!	
 BTL_EVT1.4637S	帝国騎士	Knight	speaker
-BTL_EVT1.4640	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT1.4640	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight.{wait}{clear}Do not hinder the march he leads himself!	
 BTL_EVT1.46A4S	クライヴ	Clive	speaker
 BTL_EVT1.46AD	……俺には関係ない……。	...It's nothing to do with me...	
 BTL_EVT1.46C9S	帝国騎士	Knight	speaker
@@ -740,7 +740,7 @@ BTL_EVT1.4BFF	グハハハハハ。	Guhahahahaha.
 BTL_EVT1.4C35S	クライヴ	Clive	speaker
 BTL_EVT1.4C3E	あいつの話は本当だったのか……。{n}どうしてこいつらが……。	So what the angel said was true... Why are{n}these things...	
 BTL_EVT1.4C7CS	モラクス	Morax	speaker
-BTL_EVT1.4C85	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT1.4C85	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT1.4CD3S	モラクス	Morax	speaker
 BTL_EVT1.4CDC	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT1.4D2CS	クライヴ	Clive	speaker

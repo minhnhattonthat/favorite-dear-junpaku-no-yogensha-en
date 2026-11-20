@@ -62,7 +62,7 @@ BTL_EVT2.08CC	我々帝国軍に逆らうだと、面白い……。{n}行くぞ
 BTL_EVT2.0900S	カイゼル	Kaiser	speaker
 BTL_EVT2.0909	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
 BTL_EVT2.0963S	カイゼル	Kaiser	speaker
-BTL_EVT2.096C	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT2.096C	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{wait}{clear}tell her I wished to apologize for killing{n}her men...	
 BTL_EVT2.09CAS	カイゼル	Kaiser	speaker
 BTL_EVT2.09D3	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
 BTL_EVT2.09FFS	カイゼル	Kaiser	speaker
@@ -262,7 +262,7 @@ BTL_EVT2.1FD4	ギュルギュルゥ……。	Gyurugyuruu...
 BTL_EVT2.1FECS	カオスジェリー	Chaos Jelly	speaker
 BTL_EVT2.1FFB	ギュルギュルゥ……。	Gyurugyuruu...	
 BTL_EVT2.2037S	ルディ	Rudi	speaker
-BTL_EVT2.203E	ここはグラニスをつなぐ、大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village sits on the main highway to{n}Granis. I'll get rid of any monster running{wait}{clear}wild here!	
+BTL_EVT2.203E	ここはグラニスをつなぐ、大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village sits on the main highway to{n}Granis.{wait}{clear}I'll get rid of any monster running wild{n}here!	
 BTL_EVT2.20AAS	ルディ	Rudi	speaker
 BTL_EVT2.20B1	ざっとこんなもんさ。	Easy as that.	
 BTL_EVT2.20C9S	デッドプラント	Dead Plant	speaker
@@ -376,7 +376,7 @@ BTL_EVT2.2E71	我々の邪魔などさせん！	We won't let you interfere!
 BTL_EVT2.2E8BS	反乱兵	Rebel	speaker
 BTL_EVT2.2E92	我々の邪魔などさせん！	We won't let you interfere!	
 BTL_EVT2.2ED0S	ルディ	Rudi	speaker
-BTL_EVT2.2ED7	ここは大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village is on an important highway.{n}I'll get rid of any monster running wild{wait}{clear}here!	
+BTL_EVT2.2ED7	ここは大事な街道の村だ。{n}そんなところで暴れているモンスターは、{n}おれが退治してやる！	This village is on an important highway.{wait}{clear}I'll get rid of any monster running wild{n}here!	
 BTL_EVT2.2F31S	ジャイアント	Giant	speaker
 BTL_EVT2.2F3E	人間ごときがおれに勝てると思うな！	Don't think a mere human can beat me!	
 BTL_EVT2.2F64S	ルディ	Rudi	speaker
@@ -462,7 +462,7 @@ BTL_EVT2.3720	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT2.3766S	ルディ	Rudi	speaker
 BTL_EVT2.376D	やっぱり、アンデッドの仕業だったのか……。	So it was the undead's doing after all...	
 BTL_EVT2.379BS	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT2.37AA	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT2.37AA	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT2.381CS	ルディ	Rudi	speaker
 BTL_EVT2.3823	どうも苦手だな、この手の連中は……。	I just can't stand this type...	
 BTL_EVT2.384BS	ノスフェラトゥ	Nosferatu	speaker
@@ -518,7 +518,7 @@ BTL_EVT2.3D1C	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!
 BTL_EVT2.3D5ES	海竜	Sea Dragon	speaker
 BTL_EVT2.3D63	グギギャギャ～！	Gugigyagyaah~!	
 BTL_EVT2.3D77S	ルディ	Rudi	speaker
-BTL_EVT2.3D7E	魚がとれないと、みんなが困るんだ。{n}おとなしく帰る気がないんなら、{n}おれが相手になるぜ！	If they can't catch fish, everyone suffers.{n}If you won't go home quietly, I'll fight{wait}{clear}you!	
+BTL_EVT2.3D7E	魚がとれないと、みんなが困るんだ。{n}おとなしく帰る気がないんなら、{n}おれが相手になるぜ！	If they can't catch fish, everyone suffers.{wait}{clear}If you won't go home quietly, I'll fight{n}you!	
 BTL_EVT2.3DDAS	ルディ	Rudi	speaker
 BTL_EVT2.3DE1	ふぅ……なんとかなったな……。{n}これで、もう大丈夫だろう。	Phew... Made it somehow... That should do{n}it.	
 BTL_EVT2.3E1FS	海竜	Sea Dragon	speaker
@@ -668,7 +668,7 @@ BTL_EVT2.4F0F	我々に逆らうからだ！　ははははは！	That's what yo
 BTL_EVT2.4F35S	帝国騎士	Knight	speaker
 BTL_EVT2.4F3E	ぶざまだな！　ははははは！	How pathetic! Hahahaha!	
 BTL_EVT2.4FA4S	帝国騎士	Knight	speaker
-BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight.{wait}{clear}Do not hinder the march he leads himself!	
 BTL_EVT2.5011S	ルディ	Rudi	speaker
 BTL_EVT2.5018	アルベリック？{n}そんなやつ、おれには関係ない！{wait}{clear}関係ない人々を巻き込むんなら、{n}お前らは皆、おれの敵だ！	Alberic? I don't care about him!{wait}{clear}If you drag innocent people into this,{n}you're all my enemies!	
 BTL_EVT2.5086S	帝国騎士	Knight	speaker
@@ -734,9 +734,9 @@ BTL_EVT2.5770	グハハハハハ。	Guhahahahaha.
 BTL_EVT2.5782S	サヴィオ	Savio	speaker
 BTL_EVT2.578B	グハハハハハ。	Guhahahahaha.	
 BTL_EVT2.57C1S	ルディ	Rudi	speaker
-BTL_EVT2.57C8	＄＄＄＄＄＄の話は本当だったんだ……。{n}でも、なんでこいつらが帝国軍に……？	So what ＄＄＄＄＄＄ said was true... But{n}why are these things in the Imperial{wait}{clear}Army...?	
+BTL_EVT2.57C8	＄＄＄＄＄＄の話は本当だったんだ……。{n}でも、なんでこいつらが帝国軍に……？	So what ＄＄＄＄＄＄ said was true... But{wait}{clear}why are these things in the Imperial{n}Army...?	
 BTL_EVT2.5818S	モラクス	Morax	speaker
-BTL_EVT2.5821	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT2.5821	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT2.586FS	モラクス	Morax	speaker
 BTL_EVT2.5878	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT2.58C8S	ルディ	Rudi	speaker

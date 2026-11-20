@@ -312,7 +312,7 @@ BTL_EVT5.24E1	ギシギシギシギシギシギシ……	Gishigishigishigishi...
 BTL_EVT5.2501S	ミリピード	Millipede	speaker
 BTL_EVT5.250C	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT5.2550S	レイラ	Leyla	speaker
-BTL_EVT5.2557	やはり、アンデッドたちだったのね……。{n}なんて不気味な連中なの……。{n}でも、街道を南下されるまえに、倒さなければ！	So it was the undead after all... What an{n}eerie lot... But I must defeat them before{wait}{clear}they move south down the highway!	
+BTL_EVT5.2557	やはり、アンデッドたちだったのね……。{n}なんて不気味な連中なの……。{n}でも、街道を南下されるまえに、倒さなければ！	So it was the undead after all... What an{n}eerie lot...{wait}{clear}But I must defeat them before they move{n}south down the highway!	
 BTL_EVT5.25CDS	レイラ	Leyla	speaker
 BTL_EVT5.25D4	ふう……終わったわ……。	Phew... It's over...	
 BTL_EVT5.25F0S	スカルナイト	Skull Knight	speaker
@@ -454,7 +454,7 @@ BTL_EVT5.342C	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT5.3472S	レイラ	Leyla	speaker
 BTL_EVT5.3479	やはり、アンデッドの仕業だったようね……。	So it was the undead's doing after all...	
 BTL_EVT5.34A7S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT5.34B6	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT5.34B6	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT5.3528S	レイラ	Leyla	speaker
 BTL_EVT5.352F	……不気味ね……やっぱり……。	...Eerie... as I thought...	
 BTL_EVT5.3551S	ノスフェラトゥ	Nosferatu	speaker
@@ -726,9 +726,9 @@ BTL_EVT5.5242	グハハハハハ。	Guhahahahaha.
 BTL_EVT5.5254S	サヴィオ	Savio	speaker
 BTL_EVT5.525D	グハハハハハ。	Guhahahahaha.	
 BTL_EVT5.5293S	レイラ	Leyla	speaker
-BTL_EVT5.529A	まさか……軍にこんな連中が……。{n}＄＄＄＄＄＄の話は本当だったのね……。{wait}{clear}でも、どうして……？	It can't be... the army has things like{n}this... So what ＄＄＄＄＄＄ said was{wait}{clear}true...{wait}{clear}But why...?	
+BTL_EVT5.529A	まさか……軍にこんな連中が……。{n}＄＄＄＄＄＄の話は本当だったのね……。{wait}{clear}でも、どうして……？	It can't be... the army has things like{n}this...{wait}{clear}So what ＄＄＄＄＄＄ said was true...{wait}{clear}But why...?	
 BTL_EVT5.52FES	モラクス	Morax	speaker
-BTL_EVT5.5307	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT5.5307	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT5.5355S	モラクス	Morax	speaker
 BTL_EVT5.535E	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT5.53AES	レイラ	Leyla	speaker

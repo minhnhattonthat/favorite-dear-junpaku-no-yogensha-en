@@ -81,7 +81,7 @@ eiev13_02.0C86	私も信じたくない出来事だ……。{n}アイリーン�
 eiev13_02.0DE8	アイリーン	Irene	speaker
 eiev13_02.0DF6	…………。{wait}{clear}	.........{wait}{clear}	
 eiev13_02.0E04	マスター	Master	speaker
-eiev13_02.0E10	セレニスのことが真実だとしたら、{n}この悲劇を終わらせることができるのは、{n}君だけだろう……。{wait}{clear}親友の弟子、孫娘が死んだのだ……。{n}最後の忘れ形見である君まで失うことは耐えられん。{wait}{clear}	If what they say of Serenis is true, then{n}you may be the only one who can end this{n}tragedy...{wait}{clear}My dear friend, his apprentice, his{n}granddaughter... all dead. I could not bear{n}to lose you too, the last one he left{wait}{clear}behind.{wait}{clear}	
+eiev13_02.0E10	セレニスのことが真実だとしたら、{n}この悲劇を終わらせることができるのは、{n}君だけだろう……。{wait}{clear}親友の弟子、孫娘が死んだのだ……。{n}最後の忘れ形見である君まで失うことは耐えられん。{wait}{clear}	If what they say of Serenis is true, then{n}you may be the only one who can end this{n}tragedy...{wait}{clear}My dear friend, his apprentice, his{n}granddaughter... all dead.{wait}{clear}I could not bear to lose you too, the last{n}one he left behind.{wait}{clear}	
 eiev13_02.0EC8	アイリーン	Irene	speaker
 eiev13_02.0ED6	グランドマスター……{wait}{clear}でも、たしかなことはわからないのですよね？{n}だったら……私が……{wait}{clear}	Grand Master...{wait}{clear}But nothing is certain yet, is it? Then...{n}I'll...{wait}{clear}	
 eiev13_02.0F32	マスター	Master	speaker
@@ -171,7 +171,7 @@ eiev13_02.1D78	いや、彼から聞いた話ではない。{n}最近、北方�
 eiev13_02.1DBE	アイリーン	Irene	speaker
 eiev13_02.1DCC	姉さんが……帝国に……{n}どうして……。{wait}{clear}	Sis... in the Empire... why...{wait}{clear}	
 eiev13_02.1DF6	マスター	Master	speaker
-eiev13_02.1E02	アイリーン……{n}あの悲劇の内容はフェインから聞いた……。{wait}{clear}セレニスもジグも残念なことだった……。{n}だが、秘術の話が本当ならば{n}セレニスが正気を取り戻すことは決してないだろう。{wait}{clear}	Irene... Fein told me what happened in that{n}tragedy...{wait}{clear}What befell Serenis and Zig was a great{n}shame... But if what he said of the secret{n}art is true, Serenis will never regain her{wait}{clear}sanity.{wait}{clear}	
+eiev13_02.1E02	アイリーン……{n}あの悲劇の内容はフェインから聞いた……。{wait}{clear}セレニスもジグも残念なことだった……。{n}だが、秘術の話が本当ならば{n}セレニスが正気を取り戻すことは決してないだろう。{wait}{clear}	Irene... Fein told me what happened in that{n}tragedy...{wait}{clear}What befell Serenis and Zig was a great{n}shame...{wait}{clear}But if what he said of the secret art is{n}true, Serenis will never regain her sanity.{wait}{clear}	
 eiev13_02.1EB6	アイリーン	Irene	speaker
 eiev13_02.1EC4	そんな……。{n}でも、それじゃ、フェインが……。{wait}{clear}	No... But then, Fein...{wait}{clear}	
 eiev13_02.1EF6	マスター	Master	speaker

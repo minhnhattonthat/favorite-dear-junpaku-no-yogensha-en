@@ -20,7 +20,7 @@ feev03_01.0278	いや、あやまらなくてもいい。{n}お前が無事で�
 feev03_01.0368	フェイン	Fein	speaker
 feev03_01.0374	いえ……{n}自分にとって、あのことはまだ過去ではないのです。{wait}{clear}	No... for me, that is not in the past yet.{wait}{clear}	
 feev03_01.03B2	ライノール	Raynor	speaker
-feev03_01.03C0	強情な男だ……。{n}そのあたりはジグとそっくりだな……。{wait}{clear}お前にとって気になるのはセレニスのことだろうが{n}ギルドにとっては、{n}帝国と素性の知れぬ魔導士たちの動きが気になる。{wait}{clear}冷たいと思われるかもしれないが、{n}これも、皆のためだ……。{wait}{clear}	Stubborn man... You're just like Zig in that{n}respect...{wait}{clear}What weighs on you is Serenis, I suppose,{n}but what weighs on the Guild is the Empire,{n}and the movements of mages of unknown{wait}{clear}origin.{wait}{clear}You may think me cold, but this too is for{n}everyone's sake...{wait}{clear}	
+feev03_01.03C0	強情な男だ……。{n}そのあたりはジグとそっくりだな……。{wait}{clear}お前にとって気になるのはセレニスのことだろうが{n}ギルドにとっては、{n}帝国と素性の知れぬ魔導士たちの動きが気になる。{wait}{clear}冷たいと思われるかもしれないが、{n}これも、皆のためだ……。{wait}{clear}	Stubborn man... You're just like Zig in that{n}respect...{wait}{clear}What weighs on you is Serenis, I suppose,{n}but what weighs on the Guild is the Empire,{wait}{clear}and the movements of mages of unknown{n}origin.{wait}{clear}You may think me cold, but this too is for{n}everyone's sake...{wait}{clear}	
 feev03_01.04AE	フェイン	Fein	speaker
 feev03_01.04BA	はい……それは、わかっています。{n}自分がしていることこそ、身勝手なことです。{wait}{clear}	Yes... I understand that. What I'm doing is{n}the selfish thing.{wait}{clear}	
 feev03_01.050A	ライノール	Raynor	speaker

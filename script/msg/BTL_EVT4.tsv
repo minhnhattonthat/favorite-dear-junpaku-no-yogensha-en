@@ -62,7 +62,7 @@ BTL_EVT4.0940	我々帝国軍に逆らうだと、面白い……。{n}行くぞ
 BTL_EVT4.0974S	カイゼル	Kaiser	speaker
 BTL_EVT4.097D	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
 BTL_EVT4.09D7S	カイゼル	Kaiser	speaker
-BTL_EVT4.09E0	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT4.09E0	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{wait}{clear}tell her I wished to apologize for killing{n}her men...	
 BTL_EVT4.0A3ES	カイゼル	Kaiser	speaker
 BTL_EVT4.0A47	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
 BTL_EVT4.0A73S	カイゼル	Kaiser	speaker
@@ -172,7 +172,7 @@ BTL_EVT4.1501	殺す。	I'll kill you.
 BTL_EVT4.150BS	アイリーン	Irene	speaker
 BTL_EVT4.1516	姉さんを知っているの？	You know my sister?	
 BTL_EVT4.1530S	サヴィオ	Savio	speaker
-BTL_EVT4.1539	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいくやつに{n}なにを聞かせても無駄だからな……	The witch who gave me this armor...{wait}{clear}But I'll tell you no more... There's no{n}point telling someone about to die{wait}{clear}anything...	
+BTL_EVT4.1539	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいくやつに{n}なにを聞かせても無駄だからな……	The witch who gave me this armor...{wait}{clear}But I'll tell you no more... There's no{wait}{clear}point telling someone about to die{n}anything...	
 BTL_EVT4.15AFS	サヴィオ	Savio	speaker
 BTL_EVT4.15B8	ぐ、ぐぐぐ……。	Gh, ghhh...	
 BTL_EVT4.15CCS	サヴィオ	Savio	speaker
@@ -290,7 +290,7 @@ BTL_EVT4.23CA	グギャア～！	Gugyaaah~!
 BTL_EVT4.23DAS	海竜	Sea Dragon	speaker
 BTL_EVT4.23DF	グギャア～！	Gugyaaah~!	
 BTL_EVT4.2413S	アイリーン	Irene	speaker
-BTL_EVT4.241E	こんなちっちゃな島を襲わなくたっていいのに……{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。	You didn't have to attack such a tiny{n}island... If you won't go home quietly, I'll{wait}{clear}just have to fight.	
+BTL_EVT4.241E	こんなちっちゃな島を襲わなくたっていいのに……{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。	You didn't have to attack such a tiny{n}island...{wait}{clear}If you won't go home quietly, I'll just have{n}to fight.	
 BTL_EVT4.2484S	アイリーン	Irene	speaker
 BTL_EVT4.248F	ふう……{n}ブレメースのみんなも、もう大丈夫ね。	Phew... Everyone on Bremes is safe now.	
 BTL_EVT4.24C1S	海竜	Sea Dragon	speaker
@@ -322,7 +322,7 @@ BTL_EVT4.275C	ギシギシギシギシギシギシ……	Gishigishigishigishi...
 BTL_EVT4.277CS	ミリピード	Millipede	speaker
 BTL_EVT4.2787	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT4.27CBS	アイリーン	Irene	speaker
-BTL_EVT4.27D6	やっぱり、アンデッドだったの～。{n}うわ～、ヤダヤダ、こんな連中相手にするなんて！{n}とっととやっつけて、早く帰ろう！	So it was undead after all~. Ewww, no, no,{n}no, dealing with this lot! Let's beat them{wait}{clear}and go home quick!	
+BTL_EVT4.27D6	やっぱり、アンデッドだったの～。{n}うわ～、ヤダヤダ、こんな連中相手にするなんて！{n}とっととやっつけて、早く帰ろう！	So it was undead after all~. Ewww, no, no,{n}no, dealing with this lot!{wait}{clear}Let's beat them and go home quick!	
 BTL_EVT4.284CS	アイリーン	Irene	speaker
 BTL_EVT4.2857	もう！　アンデッドってきらい！	Ugh! I hate undead!	
 BTL_EVT4.2879S	スカルナイト	Skull Knight	speaker
@@ -464,7 +464,7 @@ BTL_EVT4.37C5	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT4.380BS	アイリーン	Irene	speaker
 BTL_EVT4.3816	うわ～、ヤダヤダ！{n}やっぱり、アンデッドの仕業だったんだ～！	Ewww, no, no! So it was the undead after{n}all~!	
 BTL_EVT4.3856S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT4.3865	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT4.3865	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT4.38D7S	アイリーン	Irene	speaker
 BTL_EVT4.38E2	もう！　こいつらきらい！	Ugh! I hate these things!	
 BTL_EVT4.38FES	ノスフェラトゥ	Nosferatu	speaker
@@ -520,7 +520,7 @@ BTL_EVT4.3DF5	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!
 BTL_EVT4.3E37S	海竜	Sea Dragon	speaker
 BTL_EVT4.3E3C	グギギャギャ～！	Gugigyagyaah~!	
 BTL_EVT4.3E50S	アイリーン	Irene	speaker
-BTL_EVT4.3E5B	みんなに迷惑がかかってる……。{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。	You're causing everyone trouble... If you{n}won't go home quietly, I'll just have to{wait}{clear}fight.	
+BTL_EVT4.3E5B	みんなに迷惑がかかってる……。{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。	You're causing everyone trouble... If you{wait}{clear}won't go home quietly, I'll just have to{n}fight.	
 BTL_EVT4.3EB1S	アイリーン	Irene	speaker
 BTL_EVT4.3EBC	これで、やっと魚がとれるようになるね。	Now they can finally catch fish again.	
 BTL_EVT4.3EE6S	海竜	Sea Dragon	speaker
@@ -538,7 +538,7 @@ BTL_EVT4.3FE8	ギャアアア～ギャアアア～	Gyaaaah~ Gyaaaah~
 BTL_EVT4.4028S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT4.4037	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。	Well, well, the angel's hero. We're honored{n}that you've accepted our invitation.	
 BTL_EVT4.4083S	アイリーン	Irene	speaker
-BTL_EVT4.408E	そんな誘いにのったつもりはないわ！{n}自分のやったこと、後悔させてあげるわ！	I never meant to accept any invitation of{n}yours! I'll make you regret what you've{wait}{clear}done!	
+BTL_EVT4.408E	そんな誘いにのったつもりはないわ！{n}自分のやったこと、後悔させてあげるわ！	I never meant to accept any invitation of{n}yours!{wait}{clear}I'll make you regret what you've done!	
 BTL_EVT4.40DCS	アイリーン	Irene	speaker
 BTL_EVT4.40E7	本当にいやらしい連中……。	What a truly vile bunch...	
 BTL_EVT4.4105S	ノスフェラトゥ	Nosferatu	speaker
@@ -726,7 +726,7 @@ BTL_EVT4.5632	グハハハハハ。	Guhahahahaha.
 BTL_EVT4.5668S	アイリーン	Irene	speaker
 BTL_EVT4.5673	＄＄＄＄＄＄の言うとおり、{n}帝国軍に魔族がいるなんて……。{wait}{clear}こいつら……まさか召還されて……？	Just like ＄＄＄＄＄＄ said, there are{n}demons in the Imperial Army...{wait}{clear}Could they... have been summoned...?	
 BTL_EVT4.56D7S	モラクス	Morax	speaker
-BTL_EVT4.56E0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT4.56E0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT4.572ES	モラクス	Morax	speaker
 BTL_EVT4.5737	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT4.5787S	アイリーン	Irene	speaker

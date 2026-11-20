@@ -2,7 +2,7 @@ id	jp	en	notes
 BMsgQ103.0190	まだなにかあるのか？	Is there something else?	
 BMsgQ103.01A6	体調は？	Your health?	
 BMsgQ103.01B0	疲れていませんか？	Aren't you tired?	
-BMsgQ103.01C6	疲れたら、勝手に休ませてもらうよ。{n}それに、そんなことを心配するのなら、{n}最初から僕に仕事など頼まないで欲しいな。	If I get tired, I'll rest when I feel like{n}it. Besides, if you're going to worry about{n}that, don't ask me to do jobs in the first{wait}{clear}place.	
+BMsgQ103.01C6	疲れたら、勝手に休ませてもらうよ。{n}それに、そんなことを心配するのなら、{n}最初から僕に仕事など頼まないで欲しいな。	If I get tired, I'll rest when I feel like{n}it.{wait}{clear}Besides, if you're going to worry about{n}that, don't ask me to do jobs in the first{n}place.	
 BMsgQ103.023A	一緒に歩く	Walk together	
 BMsgQ103.0246	一緒に歩いてもいいですか？	May I walk with you?	
 BMsgQ103.0264	べつにかまわないよ。{n}それに、地に足をつけて視点を変えれば、{n}もっとこの世界のことがわかるんじゃないのか。	I don't mind. Besides, if you put your feet{n}on the ground and change your point of view,{n}maybe you'll understand this world better.	

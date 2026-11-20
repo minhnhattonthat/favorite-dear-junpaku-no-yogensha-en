@@ -58,7 +58,7 @@ BTL_EVT0.08BA	我々帝国軍に逆らうだと、面白い……。{n}行くぞ
 BTL_EVT0.08EES	カイゼル	Kaiser	speaker
 BTL_EVT0.08F7	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。	To die for my country as an Imperial knight{n}is all I ask... But one last favor...	
 BTL_EVT0.0951S	カイゼル	Kaiser	speaker
-BTL_EVT0.095A	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{n}tell her I wished to apologize for killing{wait}{clear}her men...	
+BTL_EVT0.095A	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。	If you meet an Imperial knight named Leyla,{wait}{clear}tell her I wished to apologize for killing{n}her men...	
 BTL_EVT0.09B8S	カイゼル	Kaiser	speaker
 BTL_EVT0.09C1	ふん……我々に逆らうなど……愚かな……。	Hmph... Defying us... How foolish...	
 BTL_EVT0.09EDS	カイゼル	Kaiser	speaker
@@ -256,7 +256,7 @@ BTL_EVT0.1DDB	我が戦いは、皇帝のため！	I fight for the Emperor!
 BTL_EVT0.1DF7S	帝国騎士	Knight	speaker
 BTL_EVT0.1E00	我が戦いは、皇帝のため！	I fight for the Emperor!	
 BTL_EVT0.1E40S	フェイン	Fein	speaker
-BTL_EVT0.1E49	魔物までが帝国軍に加わっているのか？{n}また、紅月王の悲劇を繰り返すつもりか！？	Even monsters have joined the Imperial Army?{n}Will you repeat the tragedy of the Crimson{wait}{clear}Moon King?!	
+BTL_EVT0.1E49	魔物までが帝国軍に加わっているのか？{n}また、紅月王の悲劇を繰り返すつもりか！？	Even monsters have joined the Imperial Army?{wait}{clear}Will you repeat the tragedy of the Crimson{n}Moon King?!	
 BTL_EVT0.1E9BS	融合兵	Fused Troop	speaker
 BTL_EVT0.1EA2	そのとおりだ！{n}皇帝のご意志に従う我らを止めることなどできん！	Exactly! No one can stop us, for we follow{n}the Emperor's will!	
 BTL_EVT0.1EE4S	フェイン	Fein	speaker
@@ -446,7 +446,7 @@ BTL_EVT0.32F0	きえ～！　きえ～！	Kyeee! Kyeee!
 BTL_EVT0.3306S	キメラ	Chimera	speaker
 BTL_EVT0.330D	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT0.3347S	フェイン	Fein	speaker
-BTL_EVT0.3350	森の中でおとなしくしてくれていれば……。{n}襲ってくるなら、しかたがない。	If only you'd stayed quietly in the{n}forest... But if you attack, it can't be{wait}{clear}helped.	
+BTL_EVT0.3350	森の中でおとなしくしてくれていれば……。{n}襲ってくるなら、しかたがない。	If only you'd stayed quietly in the{n}forest...{wait}{clear}But if you attack, it can't be helped.	
 BTL_EVT0.339CS	フェイン	Fein	speaker
 BTL_EVT0.33A5	ひとまずは、これでいいだろう。	That should do for now.	
 BTL_EVT0.33C7S	グリズリー	Grizzly	speaker
@@ -474,7 +474,7 @@ BTL_EVT0.35BE	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna 
 BTL_EVT0.3604S	フェイン	Fein	speaker
 BTL_EVT0.360D	やはりお前たちの仕業だったか……。	So it was your doing after all...	
 BTL_EVT0.3633S	ノスフェラトゥ	Nosferatu	speaker
-BTL_EVT0.3642	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
+BTL_EVT0.3642	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now.{wait}{clear}But with a face like yours, you'd make a{n}poor servant. So I'll kill you.	
 BTL_EVT0.36B4S	フェイン	Fein	speaker
 BTL_EVT0.36BD	…………。	.....	
 BTL_EVT0.36CBS	ノスフェラトゥ	Nosferatu	speaker
@@ -530,7 +530,7 @@ BTL_EVT0.3B50	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!
 BTL_EVT0.3B92S	海竜	Sea Dragon	speaker
 BTL_EVT0.3B97	グギギャギャ～！	Gugigyagyaah~!	
 BTL_EVT0.3BABS	フェイン	Fein	speaker
-BTL_EVT0.3BB4	村の迷惑になる以上、倒さなければならないな……。{n}おとなしく海で暮らしてくれればいいものを……。	As long as it troubles the village, I have{n}to defeat it... If only it had lived quietly{wait}{clear}in the sea...	
+BTL_EVT0.3BB4	村の迷惑になる以上、倒さなければならないな……。{n}おとなしく海で暮らしてくれればいいものを……。	As long as it troubles the village, I have{n}to defeat it...{wait}{clear}If only it had lived quietly in the sea...	
 BTL_EVT0.3C18S	フェイン	Fein	speaker
 BTL_EVT0.3C21	これで、村は救われるだろう……。	The village should be saved now...	
 BTL_EVT0.3C45S	海竜	Sea Dragon	speaker
@@ -538,7 +538,7 @@ BTL_EVT0.3C4A	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!
 BTL_EVT0.3C68S	海竜	Sea Dragon	speaker
 BTL_EVT0.3C6D	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
 BTL_EVT0.3CAFS	フェイン	Fein	speaker
-BTL_EVT0.3CB8	声の正体は海竜だったのか……。{n}このままおとなしく帰ればいいが、{n}襲ってくるのであれば倒す。	So the voice was a sea dragon... I hope it{n}just goes home quietly, but if it attacks,{wait}{clear}I'll defeat it.	
+BTL_EVT0.3CB8	声の正体は海竜だったのか……。{n}このままおとなしく帰ればいいが、{n}襲ってくるのであれば倒す。	So the voice was a sea dragon... I hope it{wait}{clear}just goes home quietly, but if it attacks,{n}I'll defeat it.	
 BTL_EVT0.3D18S	フェイン	Fein	speaker
 BTL_EVT0.3D21	これで、静けさが戻るだろう……。	Now peace and quiet should return...	
 BTL_EVT0.3D45S	海竜	Sea Dragon	speaker
@@ -700,7 +700,7 @@ BTL_EVT0.4E85	帝国バンザイ！！	Long live the Empire!!
 BTL_EVT0.4F29S	レイブンルフト	Ravenruft	speaker
 BTL_EVT0.4F38	ようこそ、我が城へ。{n}天使の勇者。	Welcome to my castle, angel's hero.	
 BTL_EVT0.4F5ES	フェイン	Fein	speaker
-BTL_EVT0.4F67	吸血鬼の王、レイブンルフト。{n}世界を汚すお前の血を、今日、絶やしてみせよう。	Ravenruft, king of the vampires. Today I'll{n}end your bloodline, which defiles this{wait}{clear}world.	
+BTL_EVT0.4F67	吸血鬼の王、レイブンルフト。{n}世界を汚すお前の血を、今日、絶やしてみせよう。	Ravenruft, king of the vampires. Today I'll{wait}{clear}end your bloodline, which defiles this{n}world.	
 BTL_EVT0.4FB7S	レイブンルフト	Ravenruft	speaker
 BTL_EVT0.4FC6	勇ましさは認めよう。{wait}{clear}だが、その勇ましさだけで{n}私に勝てるなどというのは間違いだ。{wait}{clear}思い知れ、己の無力さを！	I'll grant you your courage.{wait}{clear}But you're wrong to think courage alone can{n}defeat me.{wait}{clear}Learn how powerless you are!	
 BTL_EVT0.503AS	レイブンルフト	Ravenruft	speaker
@@ -746,7 +746,7 @@ BTL_EVT0.543A	グハハハハハ。	Guhahahahaha.
 BTL_EVT0.5470S	フェイン	Fein	speaker
 BTL_EVT0.5479	帝国軍に魔族がいるというのは{n}本当だったんだな……{n}それに、こいつは……。	So it was true that there are demons in the{n}Imperial Army... And this one...	
 BTL_EVT0.54C7S	モラクス	Morax	speaker
-BTL_EVT0.54D0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
+BTL_EVT0.54D0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{wait}{clear}that we've been summoned, there's no victory{n}for you. Here I come!	
 BTL_EVT0.551ES	モラクス	Morax	speaker
 BTL_EVT0.5527	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT0.5577S	フェイン	Fein	speaker

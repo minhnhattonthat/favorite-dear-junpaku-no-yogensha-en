@@ -15,7 +15,7 @@ prologue.0392	地上へはあなたを助けてくれる{n}妖精界の協力者
 prologue.03E6	＄＄＄＄＄＄、よく来ました。{wait}{clear}	＄＄＄＄＄＄, welcome.{wait}{clear}	
 prologue.040A	今日はあなたに天使としての新しい任務を与えるため{n}ここへ呼びました。{wait}{clear}	I have called you here today to give you a{n}new mission as an angel.{wait}{clear}	
 prologue.0456	以前のあなたの働きについては{n}よくガブリエルから聞いています。{wait}{clear}	I have heard much from Gabriel about your{n}past work.{wait}{clear}	
-prologue.049C	あなたには、もう一度新しい地上界に下って、{n}その地上界をめぐる混乱から{n}堕天使の正体を突き止めて欲しいのです。{wait}{clear}	I want you to descend once more to a new{n}world below and, through the turmoil{n}surrounding it, discover who the fallen{wait}{clear}angel is.{wait}{clear}	
+prologue.049C	あなたには、もう一度新しい地上界に下って、{n}その地上界をめぐる混乱から{n}堕天使の正体を突き止めて欲しいのです。{wait}{clear}	I want you to descend once more to a new{n}world below and, through the turmoil{wait}{clear}surrounding it, discover who the fallen{n}angel is.{wait}{clear}	
 prologue.0512	もちろん、地上界の混乱、破滅を防ぐことも{n}重要な目的です。{wait}{clear}	Of course, preventing turmoil and ruin in{n}that world is also an important goal.{wait}{clear}	
 prologue.0554	その点において、あなたは信頼がおけるようなので{n}心配はしていません。{wait}{clear}	In that regard you seem trustworthy, so I am{n}not worried.{wait}{clear}	
 prologue.05A0	ただ、今度の地上界の混乱には{n}とても邪悪な予兆を感じるのです。{wait}{clear}	However, I sense a most evil omen in the{n}turmoil of this world.{wait}{clear}	
@@ -25,7 +25,7 @@ prologue.0652	それらをすべて我々、{n}大天使が詳細に調べるこ
 prologue.069A	そこで優秀なあなたに{n}私たちの代わりをつとめて欲しいのです。{wait}{clear}	And so I want you, with your excellence, to{n}act in our stead.{wait}{clear}	
 prologue.06DE	地上で起こる混乱から{n}堕天使の存在を突き止めたのなら、{n}私にそれを報告してください。{wait}{clear}	When you have traced the fallen angel{n}through the turmoil on the surface, report{n}it to me.{wait}{clear}	
 prologue.073A	あと、ひとつ注意しなければならないことが{n}あります。{wait}{clear}	There is one more thing you must be careful{n}of.{wait}{clear}	
-prologue.0776	今回あなたが降りる世界「アルカヤ」は{n}あなたが過去に降りた「インフォス」ほど{n}天界との結びつきが強くありません。{wait}{clear}	The world you will descend to this time,{n}"Arcaya," is not as strongly bound to the{n}Heavens as "Infos," where you descended{wait}{clear}before.{wait}{clear}	
+prologue.0776	今回あなたが降りる世界「アルカヤ」は{n}あなたが過去に降りた「インフォス」ほど{n}天界との結びつきが強くありません。{wait}{clear}	The world you will descend to this time,{n}"Arcaya," is not as strongly bound to the{wait}{clear}Heavens as "Infos," where you descended{n}before.{wait}{clear}	
 prologue.07EE	なので天使としての力もより限られてしまいます。{n}あなたはその点を心に留めて行動しなさい。{wait}{clear}	So your powers as an angel will be more{n}limited. Keep that in mind as you act.{wait}{clear}	
 prologue.084E	今回も妖精界から協力を仰いでいます。{wait}{clear}	Once again, we have asked the fairy realm{n}for help.{wait}{clear}	
 prologue.0876	ＮＵＬＬ	NULL	speaker

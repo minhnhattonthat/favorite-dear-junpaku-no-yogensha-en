@@ -26,7 +26,7 @@ BrvMsgQ0.0780	妖精たちは助けになっていますか？	Are the fairies a
 BrvMsgQ0.07A4	ああ、よくやってくれている。{n}あんなに、一生懸命に働いてくれると{n}自分もしっかりしないといけないと思う。	Yes, they do good work. When they work that{n}hard, it makes me feel I have to pull my own{n}weight.	
 BrvMsgQ0.080E	旅先で思うこと	On the road	
 BrvMsgQ0.081E	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
-BrvMsgQ0.0860	ああ、そうだな……。{n}いろいろなことを考える……。{wait}{clear}歩いているときには、時間はたくさんある。{n}考えても考えても堂々めぐりをしているような{n}そんな気にもなるがな……。	Yes, I suppose so... I think about a lot of{n}things...{wait}{clear}When you're walking, you have plenty of{n}time. Though sometimes it feels like no{n}matter how much I think, I just go around in{wait}{clear}circles...	
+BrvMsgQ0.0860	ああ、そうだな……。{n}いろいろなことを考える……。{wait}{clear}歩いているときには、時間はたくさんある。{n}考えても考えても堂々めぐりをしているような{n}そんな気にもなるがな……。	Yes, I suppose so... I think about a lot of{n}things...{wait}{clear}When you're walking, you have plenty of{n}time.{wait}{clear}Though sometimes it feels like no matter how{n}much I think, I just go around in circles...	
 BrvMsgQ0.0908	旅で出会う人	People met	
 BrvMsgQ0.0916	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
 BrvMsgQ0.093C	そうだな。{n}人に会って話をすると、いろいろな情報も聞ける。{n}それがなにかにつながっていくんだ……。	It is. When you meet people and talk, you{n}hear all sorts of news. And that leads to{n}something...	
@@ -101,7 +101,7 @@ BrvMsgQ0.18EA	なにか普段と違うことをすると{n}気分転換ができ
 BrvMsgQ0.1924	そうだな。{n}たまに違うことをするのは、悪くないと思う。{wait}{clear}君にも気分転換のしかたとかが、あるのか？	Yes. I think doing something different once{n}in a while isn't bad.{wait}{clear}Do you have your own way of changing pace?	
 BrvMsgQ0.1988	小さい頃は何を？	As a child?	
 BrvMsgQ0.199A	小さい頃はなにをして遊びましたか？	What did you play when you were little?	
-BrvMsgQ0.19C0	いつものとおり、唐突な質問だな。{wait}{clear}小さいときにあまり遊んだという思い出はないな。{n}物心ついてすぐ、旅をしながら{n}魔導士になる修行をはじめたしな……。{wait}{clear}まあ、わけもわからなかった頃は、{n}遊びと同じような感覚だったかもしれないが。	An abrupt question, as usual.{wait}{clear}I don't have many memories of playing as a{n}child. As soon as I was old enough to{n}understand, I began training to be a mage{wait}{clear}while traveling...{wait}{clear}Well, back when I didn't know any better, it{n}may have felt the same as playing.	
+BrvMsgQ0.19C0	いつものとおり、唐突な質問だな。{wait}{clear}小さいときにあまり遊んだという思い出はないな。{n}物心ついてすぐ、旅をしながら{n}魔導士になる修行をはじめたしな……。{wait}{clear}まあ、わけもわからなかった頃は、{n}遊びと同じような感覚だったかもしれないが。	An abrupt question, as usual.{wait}{clear}I don't have many memories of playing as a{n}child.{wait}{clear}As soon as I was old enough to understand, I{n}began training to be a mage while{n}traveling...{wait}{clear}Well, back when I didn't know any better, it{n}may have felt the same as playing.	
 BrvMsgQ0.1AA8	しばらく一緒に	A while longer	
 BrvMsgQ0.1AB8	もうしばらく、一緒にいてもいいですか？	May I stay with you a while longer?	
 BrvMsgQ0.1AE2	ああ、せっかくの休息だ。{n}君もゆっくりしていけばいい。	Sure, it's a rare chance to rest. You should{n}take it easy too.	

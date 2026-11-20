@@ -23,6 +23,6 @@ laev15_01.07FB	レイラ	Leyla	speaker
 laev15_01.0810	あなたは、この世界を混乱させている者の正体が{n}わかっているのですか？	Do you know who is throwing this world into{n}chaos?	text
 laev15_01.0863	聖母	Holy Mother	speaker
 laev15_01.0876	いいえ。{n}天使様がおわかりにならないことが、{n}ひとにわかるはずがありません。	No. What the Angel does not know, no person{n}could know.	text
-laev15_01.08D1	ただ、帝国の始祖皇帝の伝説を思い出します。{n}デルフィニアの魔石から生まれた天竜のことを……。	But I am reminded of the legend of the{n}Empire's founding emperor. Of the Heavenly{n}Dragon born from the Demon Stone of{wait}{clear}Delphinia...	text
+laev15_01.08D1	ただ、帝国の始祖皇帝の伝説を思い出します。{n}デルフィニアの魔石から生まれた天竜のことを……。	But I am reminded of the legend of the{n}Empire's founding emperor.{wait}{clear}Of the Heavenly Dragon born from the Demon{n}Stone of Delphinia...	text
 laev15_01.093C	レイラ	Leyla	speaker
 laev15_01.0951	天竜……。	The Heavenly Dragon...	text

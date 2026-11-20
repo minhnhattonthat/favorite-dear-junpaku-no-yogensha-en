@@ -18,7 +18,7 @@ laev14.0795	レイラ	Leyla	speaker
 laev14.07AA	さあ、よけいなおしゃべりはここまでよ。{n}渡してくれないのなら、力ずくで奪うわ！	Now, enough chatter. If you won't hand it{n}over, I'll take it by force!	text
 laev14.086B	クラレンス	Clarence	speaker
 laev14.0884	まあまあ、そんな怖い顔するなよ。{n}俺は戦いは苦手なんだ。	Whoa, whoa, don't make such a scary face. I{n}ain't good at fighting.	text
-laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。	If you put it like that, fine. An empire{n}that's got troublemakers like you in it... I{n}bet it'd use this Demon Stone for something{wait}{clear}shady too.	text
+laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。	If you put it like that, fine. An empire{n}that's got troublemakers like you in it...{wait}{clear}I bet it'd use this Demon Stone for{n}something shady too.	text
 laev14.0950	さ、返すぜ！　天使様にな。	There, I'll give it back! To the angel, that{n}is.	text
 laev14.0999	レイラ	Leyla	speaker
 laev14.09AE	え？	Huh?	text

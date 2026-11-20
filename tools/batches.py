@@ -206,28 +206,53 @@ def width(s):
     return len(TAG.sub("", s).replace(NAME, "x" * 12))
 
 
+SENTENCE_END = re.compile(r"""(?:[.!?]|\.\.\.)["')]*$""")
+
+
+def wrap_lines(page, w):
+    """greedy word wrap of one page; keeps forced {n}"""
+    lines = []
+    for seg in page.split("{n}"):
+        cur = ""
+        for word in seg.split(" "):
+            cand = f"{cur} {word}" if cur else word
+            if cur and width(cand) > w:
+                lines.append(cur)
+                cur = word
+            else:
+                cur = cand
+        lines.append(cur)
+    return lines
+
+
+def paginate(page, w, lines_max):
+    """[[lines]] for a page that may overflow: break at the latest sentence end that keeps the page within
+    lines_max lines (so a sentence that spills by one word moves whole to the next page instead of leaving a
+    one-word page); else greedy chunks, with a lone short last line joined by the line before it"""
+    lines = wrap_lines(page, w)
+    if len(lines) <= lines_max:
+        return [lines]
+    if "{n}" not in page:
+        words = page.split(" ")
+        for i in range(len(words) - 2, -1, -1):
+            head = wrap_lines(" ".join(words[:i + 1]), w)
+            if SENTENCE_END.search(words[i]) and 2 <= len(head) <= lines_max:
+                return [head] + paginate(" ".join(words[i + 1:]), w, lines_max)
+    chunks = [lines[j:j + lines_max] for j in range(0, len(lines), lines_max)]
+    if len(chunks) > 1 and len(chunks[-1]) == 1 and len(chunks[-2]) > 1 and width(chunks[-1][0]) < w // 2:
+        chunks[-1].insert(0, chunks[-2].pop())
+    return chunks
+
+
 def wrap(en, spec):
-    """greedy word wrap of each page; keeps forced {n}; overflowing pages go on new {wait}{clear} pages"""
+    """word wrap of each page; keeps forced {n}; overflowing pages go on new {wait}{clear} pages"""
     w, lines_max, grow = spec
-    pages = en.split(PAGE)
     out = []
-    for k, page in enumerate(pages):
-        lines = []
-        for seg in page.split("{n}"):
-            cur = ""
-            for word in seg.split(" "):
-                cand = f"{cur} {word}" if cur else word
-                if cur and width(cand) > w:
-                    lines.append(cur)
-                    cur = word
-                else:
-                    cur = cand
-            lines.append(cur)
+    for page in en.split(PAGE):
         if grow:
-            chunks = [lines[j:j + lines_max] for j in range(0, len(lines), lines_max)]
-            out.append(PAGE.join("{n}".join(c) for c in chunks))
+            out.append(PAGE.join("{n}".join(c) for c in paginate(page, w, lines_max)))
         else:
-            out.append("{n}".join(lines))
+            out.append("{n}".join(wrap_lines(page, w)))
     return PAGE.join(out)
 
 
