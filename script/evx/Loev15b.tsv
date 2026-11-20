@@ -6,54 +6,54 @@ Loev15b.011A	ミリシア	Militia	unit name (32-byte field)
 Loev15b.0156	ミリシア	Militia	unit name (32-byte field)
 Loev15b.0192	サヴィア	Savia	unit name (32-byte field)
 Loev15b.0524	サヴィア	Savia	speaker
-Loev15b.053B	ルディね……。		text
+Loev15b.053B	ルディね……。	Rudi...	text
 Loev15b.059C	ルディエール	Rudiere	speaker
-Loev15b.05B7	サヴィア……君は……{n}暗殺団の一人だったのか……		text
+Loev15b.05B7	サヴィア……君は……{n}暗殺団の一人だったのか……	Savia... You were... one of the assassins...	text
 Loev15b.05F6	サヴィア	Savia	speaker
 Loev15b.060D	…………。	.....	text
 Loev15b.0626	ルディエール	Rudiere	speaker
-Loev15b.0641	聞きたいことがある……君に。		text
-Loev15b.066C	兄さんを……兄さんを殺したのは君か……。		text
+Loev15b.0641	聞きたいことがある……君に。	There's something I need to ask you...	text
+Loev15b.066C	兄さんを……兄さんを殺したのは君か……。	Was it... was it you who killed my{n}brother...?	text
 Loev15b.06E7	サヴィア	Savia	speaker
-Loev15b.06FE	……ちがうわ。ルディ。		text
-Loev15b.0723	私があなたをだまして、王を手にかけようとしたのは{n}本当よ……。		text
-Loev15b.0770	でも、私はやってない……。{n}やったのは貴族たちよ……		text
-Loev15b.07B3	私のことも全部知って、あなたをだましたのよ。		text
-Loev15b.07EE	私もあなたをだましたつもりが{n}あいつらに利用されてたの……。		text
-Loev15b.0839	あなたには私の言葉など{n}信じられないかもしれないけど……。		text
-Loev15b.0882	あの貴族たちは王権を奪い取ろうとして{n}あなたたち兄弟をわなにかけたのよ……。		text
+Loev15b.06FE	……ちがうわ。ルディ。	...No, Rudi.	text
+Loev15b.0723	私があなたをだまして、王を手にかけようとしたのは{n}本当よ……。	It's true I deceived you and meant to kill{n}the king...	text
+Loev15b.0770	でも、私はやってない……。{n}やったのは貴族たちよ……	But I didn't do it... The nobles did...	text
+Loev15b.07B3	私のことも全部知って、あなたをだましたのよ。	They knew all about me, and they deceived{n}you.	text
+Loev15b.07EE	私もあなたをだましたつもりが{n}あいつらに利用されてたの……。	I thought I was the one deceiving you, but{n}they were using me...	text
+Loev15b.0839	あなたには私の言葉など{n}信じられないかもしれないけど……。	You may not believe a word I say, but...	text
+Loev15b.0882	あの貴族たちは王権を奪い取ろうとして{n}あなたたち兄弟をわなにかけたのよ……。	Those nobles set a trap for you and your{n}brother to seize the throne...	text
 Loev15b.0921	ルディエール	Rudiere	speaker
-Loev15b.093C	そんな……		text
+Loev15b.093C	そんな……	No...	text
 Loev15b.0955	サヴィア	Savia	speaker
-Loev15b.096C	本当よ……やつらのやり口だわ……。		text
-Loev15b.099D	西方の貴族も東方の貴族もいかにして自分たちの{n}私腹をこやすか……それしか考えていないの。		text
-Loev15b.0A04	あなたのお兄さんは貴族たちととても対立してたわ……		text
-Loev15b.0A45	国をまとめないと大変なことになるといって{n}有力な貴族たちから反発をかっていた。		text
-Loev15b.0AA2	あなたに罪をかぶせて、{n}王権を自分たちの手中におさめたの。		text
-Loev15b.0AEB	私たちが裏で王族の暗殺をくわだてていることを{n}知ってね……。		text
+Loev15b.096C	本当よ……やつらのやり口だわ……。	It's true... That's how they work...	text
+Loev15b.099D	西方の貴族も東方の貴族もいかにして自分たちの{n}私腹をこやすか……それしか考えていないの。	Western nobles, Eastern nobles... All they{n}ever think about is how to line their own{n}pockets.	text
+Loev15b.0A04	あなたのお兄さんは貴族たちととても対立してたわ……	Your brother was at odds with the nobles...	text
+Loev15b.0A45	国をまとめないと大変なことになるといって{n}有力な貴族たちから反発をかっていた。	He said the country had to be united or{n}disaster would follow, and the powerful{n}nobles turned on him.	text
+Loev15b.0AA2	あなたに罪をかぶせて、{n}王権を自分たちの手中におさめたの。	They pinned the blame on you and took the{n}throne's power into their own hands.	text
+Loev15b.0AEB	私たちが裏で王族の暗殺をくわだてていることを{n}知ってね……。	Because they knew we were plotting in secret{n}to kill the royal family...	text
 Loev15b.0B36	ルディエール	Rudiere	speaker
-Loev15b.0B51	ばかげてる……兄さんは帝国の脅威を真剣に{n}考えていたから、国をまとめようとしていたのに……。		text
+Loev15b.0B51	ばかげてる……兄さんは帝国の脅威を真剣に{n}考えていたから、国をまとめようとしていたのに……。	That's insane... My brother was trying to{n}unite the country because he took the{n}Empire's threat seriously...	text
 Loev15b.0C00	サヴィア	Savia	speaker
-Loev15b.0C17	西の貴族も東の貴族もやっていることは{n}皆一緒よ……。{n}己の保身のためにどんな手も使う……汚いやつら……		text
+Loev15b.0C17	西の貴族も東の貴族もやっていることは{n}皆一緒よ……。{n}己の保身のためにどんな手も使う……汚いやつら……	Western nobles, Eastern nobles, they're all{n}the same... They'll do anything to save{n}their own skins... Filthy wretches...	text
 Loev15b.0C8C	ルディエール	Rudiere	speaker
-Loev15b.0CA7	こんなことをしていたら……{n}ますます帝国の思うつぼなのに……。		text
-Loev15b.0D08	帝国のデーモンはそこまで迫ってるのに……{n}クソッ！！		text
+Loev15b.0CA7	こんなことをしていたら……{n}ますます帝国の思うつぼなのに……。	If they keep this up... they'll play right{n}into the Empire's hands...	text
+Loev15b.0D08	帝国のデーモンはそこまで迫ってるのに……{n}クソッ！！	The Empire's demons are right on our{n}doorstep... Damn it!!	text
 Loev15b.0D4B	サヴィア	Savia	speaker
-Loev15b.0D62	だから私たちはあの愚かな貴族たちを{n}始末するのよ……国を滅ぼす病だもの……。		text
+Loev15b.0D62	だから私たちはあの愚かな貴族たちを{n}始末するのよ……国を滅ぼす病だもの……。	That's why we're getting rid of those{n}foolish nobles... They're a disease killing{n}this country...	text
 Loev15b.0DD1	ルディエール	Rudiere	speaker
-Loev15b.0DEC	いや、君たちのやってることは間違ってる……。{n}今すぐ争いをやめて、帝国の軍勢にそなえるんだ。		text
+Loev15b.0DEC	いや、君たちのやってることは間違ってる……。{n}今すぐ争いをやめて、帝国の軍勢にそなえるんだ。	No, what you're doing is wrong... Stop{n}fighting right now and prepare for the{n}imperial army.	text
 Loev15b.0E57	サヴィア	Savia	speaker
-Loev15b.0E6E	ルディ、あなたは甘いわ……{n}行動を起こさないといけないの……。		text
-Loev15b.0EBB	今の貴族たちが生きている限りなにをしても{n}ムダよ。		text
+Loev15b.0E6E	ルディ、あなたは甘いわ……{n}行動を起こさないといけないの……。	Rudi, you're naive... Someone has to take{n}action...	text
+Loev15b.0EBB	今の貴族たちが生きている限りなにをしても{n}ムダよ。	As long as these nobles live, nothing you do{n}will matter.	text
 Loev15b.0F40	ルディエール	Rudiere	speaker
-Loev15b.0F5B	そんなの無意味だ！{n}自分たちの国で殺し合って、{n}こんなことをしていたら……		text
+Loev15b.0F5B	そんなの無意味だ！{n}自分たちの国で殺し合って、{n}こんなことをしていたら……	That's pointless! Killing each other in our{n}own country... if we keep this up...	text
 Loev15b.0FF8	サヴィア	Savia	speaker
-Loev15b.100F	だからってやつらの思うままにされるのがいいの？		text
+Loev15b.100F	だからってやつらの思うままにされるのがいいの？	So you'd rather let them do as they please?	text
 Loev15b.104C	ルディエール	Rudiere	speaker
-Loev15b.1067	違う……ただ……		text
+Loev15b.1067	違う……ただ……	No... It's just...	text
 Loev15b.10CA	サヴィア	Savia	speaker
-Loev15b.10E1	所詮王族であるあなたに、こんなことを語っても{n}わかってはくれないわね……。		text
+Loev15b.10E1	所詮王族であるあなたに、こんなことを語っても{n}わかってはくれないわね……。	In the end, you're royalty. I can't expect{n}you to understand...	text
 Loev15b.118E	サヴィア	Savia	speaker
-Loev15b.11A5	さよなら、ルディ。		text
+Loev15b.11A5	さよなら、ルディ。	Goodbye, Rudi.	text
 Loev15b.127A	ルディエール	Rudiere	speaker
-Loev15b.1295	待つんだ、サヴィア！		text
+Loev15b.1295	待つんだ、サヴィア！	Wait, Savia!	text

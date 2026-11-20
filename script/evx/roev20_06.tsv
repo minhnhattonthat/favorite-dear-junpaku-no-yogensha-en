@@ -4,10 +4,10 @@ roev20_06.00DE	ルディエール	Rudiere	unit name (32-byte field)
 roev20_06.04C8	ロクス	Rocus	speaker
 roev20_06.04DD	大丈夫か？	You all right?	text
 roev20_06.04F6	ルディエール	Rudiere	speaker
-roev20_06.0511	ロクスか……{n}またドジをふんじまった……		text
+roev20_06.0511	ロクスか……{n}またドジをふんじまった……	Rocus... I messed up again...	text
 roev20_06.0548	ロクス	Rocus	speaker
-roev20_06.055D	みせてみろ。		text
+roev20_06.055D	みせてみろ。	Let me see.	text
 roev20_06.05D8	ルディエール	Rudiere	speaker
-roev20_06.05F3	すまない。手間をかけさせて……		text
+roev20_06.05F3	すまない。手間をかけさせて……	Sorry. For the trouble...	text
 roev20_06.0678	ロクス	Rocus	speaker
-roev20_06.068D	なにたいしたことじゃない。{n}まあ、今度は気をつけることだ。		text
+roev20_06.068D	なにたいしたことじゃない。{n}まあ、今度は気をつけることだ。	It's nothing. Just be more careful next{n}time.	text

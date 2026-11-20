@@ -2,14 +2,14 @@ id	jp	en	notes
 roev20_08.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_08.00DE	アイリーン	Irene	unit name (32-byte field)
 roev20_08.04C8	ロクス	Rocus	speaker
-roev20_08.04DD	アイリーン大丈夫ですか？		text
+roev20_08.04DD	アイリーン大丈夫ですか？	Irene, are you all right?	text
 roev20_08.0504	アイリーン	Irene	speaker
-roev20_08.051D	いつかの僧侶様？		text
+roev20_08.051D	いつかの僧侶様？	The priest from before?	text
 roev20_08.053C	ロクス	Rocus	speaker
-roev20_08.0551	ええ、ロクスです。{n}傷をみせてください。治療しましょう。		text
+roev20_08.0551	ええ、ロクスです。{n}傷をみせてください。治療しましょう。	Yes, it's Rocus. Show me your wounds. I'll{n}treat them.	text
 roev20_08.05EC	アイリーン	Irene	speaker
-roev20_08.0605	ありがとう。{n}何度も助けてもらって……		text
+roev20_08.0605	ありがとう。{n}何度も助けてもらって……	Thank you. You've helped me so many times...	text
 roev20_08.0692	ロクス	Rocus	speaker
-roev20_08.06A7	いや、でも会えてよかった。{n}僕が力になれたのですから。		text
-roev20_08.06EC	＄＄＄＄＄＄にもよく言っておきます。{n}女の子に無理をさせるなって。		text
-roev20_08.073D	では。		text
+roev20_08.06A7	いや、でも会えてよかった。{n}僕が力になれたのですから。	Not at all. I'm glad we met. I could be of{n}help.	text
+roev20_08.06EC	＄＄＄＄＄＄にもよく言っておきます。{n}女の子に無理をさせるなって。	I'll have a word with ＄＄＄＄＄＄ too. Not{n}to push a girl so hard.	text
+roev20_08.073D	では。	Farewell.	text

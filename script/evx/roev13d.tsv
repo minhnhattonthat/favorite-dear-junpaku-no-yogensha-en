@@ -1,9 +1,9 @@
 id	jp	en	notes
-roev13d.0002	ヴァイパ－の罠（戦闘負け後）		dev label (guess: not shown)
+roev13d.0002	ヴァイパ－の罠（戦闘負け後）	Viper's Trap (Lost)	dev label (guess: not shown)
 roev13d.00A2	ロクス	Rocus	unit name (32-byte field)
 roev13d.00DE	クラレンス	Clarence	unit name (32-byte field)
 roev13d.04DC	クラレンス	Clarence	speaker
-roev13d.04F5	ふん……まあまあの腕だ。		text
-roev13d.052C	ま、とどめは刺さねえでおいてやるよ。		text
-roev13d.057F	ギャンブル仲間を失いたかねえ。		text
-roev13d.05C0	あばよ。		text
+roev13d.04F5	ふん……まあまあの腕だ。	Hmph... Not bad.	text
+roev13d.052C	ま、とどめは刺さねえでおいてやるよ。	Well, I'll let you live.	text
+roev13d.057F	ギャンブル仲間を失いたかねえ。	I don't want to lose a gambling buddy.	text
+roev13d.05C0	あばよ。	So long.	text

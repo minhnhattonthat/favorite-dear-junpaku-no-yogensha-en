@@ -1,48 +1,48 @@
 id	jp	en	notes
-roev19_01.0002	聖母と会って		dev label (guess: not shown)
+roev19_01.0002	聖母と会って	Meeting the Holy Mother	dev label (guess: not shown)
 roev19_01.00A2	聖母	Holy Mother	unit name (32-byte field)
 roev19_01.00DE	ロクス	Rocus	unit name (32-byte field)
 roev19_01.04D8	聖母	Holy Mother	speaker
-roev19_01.04EB	よくここまで来ました。{n}天使に導かれし勇者よ。		text
+roev19_01.04EB	よくここまで来ました。{n}天使に導かれし勇者よ。	You've done well to come this far, hero{n}guided by the angel.	text
 roev19_01.0528	ロクス	Rocus	speaker
-roev19_01.053D	……あなたは？		text
+roev19_01.053D	……あなたは？	...And you are?	text
 roev19_01.055A	聖母	Holy Mother	speaker
-roev19_01.056D	この聖なる森を守っているディアナという者です。{n}ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけなのです……。		text
+roev19_01.056D	この聖なる森を守っているディアナという者です。{n}ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけなのです……。	I am Diana, who protects this sacred forest.{n}Only the chosen, those who have received the{n}holy blessing, can find their way here...	text
 roev19_01.0600	ロクス	Rocus	speaker
-roev19_01.0615	大仰な話ですね……それはまた。		text
+roev19_01.0615	大仰な話ですね……それはまた。	That's quite a grand story...	text
 roev19_01.0642	聖母	Holy Mother	speaker
-roev19_01.0655	そうですね。{n}あなた、名はなんというのですか？		text
+roev19_01.0655	そうですね。{n}あなた、名はなんというのですか？	It is. What is your name?	text
 roev19_01.0692	ロクス	Rocus	speaker
-roev19_01.06A7	ロクス・ラス・フロレスです。		text
+roev19_01.06A7	ロクス・ラス・フロレスです。	Rocus Las Flores.	text
 roev19_01.06D2	聖母	Holy Mother	speaker
-roev19_01.06E5	ロクス・ラス・フロレス……？{n}では、今の聖王国の教皇ですか？		text
+roev19_01.06E5	ロクス・ラス・フロレス……？{n}では、今の聖王国の教皇ですか？	Rocus Las Flores...? Then are you the{n}current Pope of the Holy Kingdom?	text
 roev19_01.0780	ロクス	Rocus	speaker
-roev19_01.0795	なぜそれを？{n}それに、聖王国だなんて古い言い回しを……。		text
+roev19_01.0795	なぜそれを？{n}それに、聖王国だなんて古い言い回しを……。	How do you know that? And "the Holy Kingdom"{n}is an old way of putting it...	text
 roev19_01.07DC	聖母	Holy Mother	speaker
-roev19_01.07EF	そうですか……{n}いま、聖王国と呼ぶ者はいないのですね……。		text
-roev19_01.0838	あなたのことは、たたずまいでわかります。{n}法衣をまとった勇者ならば、{n}癒しの手を持っている者にちがいないでしょう。		text
+roev19_01.07EF	そうですか……{n}いま、聖王国と呼ぶ者はいないのですね……。	I see... No one calls it the Holy Kingdom{n}anymore...	text
+roev19_01.0838	あなたのことは、たたずまいでわかります。{n}法衣をまとった勇者ならば、{n}癒しの手を持っている者にちがいないでしょう。	I can tell from your bearing. A hero in{n}clerical robes must surely be one who has{n}the healing hands.	text
 roev19_01.08B9	ロクス	Rocus	speaker
-roev19_01.08CE	確かに癒しの手は……持っていますが、{n}教皇にはなっていません。		text
+roev19_01.08CE	確かに癒しの手は……持っていますが、{n}教皇にはなっていません。	It's true that I have the healing hands...{n}but I haven't become Pope.	text
 roev19_01.091B	聖母	Holy Mother	speaker
-roev19_01.092E	そうですか……。{n}ロクス、こちらに来なさい。		text
+roev19_01.092E	そうですか……。{n}ロクス、こちらに来なさい。	I see... Rocus, come here.	text
 roev19_01.0969	ロクス	Rocus	speaker
-roev19_01.097E	？		text
+roev19_01.097E	？	?	text
 roev19_01.09D3	聖母	Holy Mother	speaker
-roev19_01.09E6	あなたはよく似ていますね……初代の教皇に。		text
+roev19_01.09E6	あなたはよく似ていますね……初代の教皇に。	You look very much like him... the first{n}Pope.	text
 roev19_01.0A1F	ロクス	Rocus	speaker
-roev19_01.0A34	あなたはなにを言っているんです？		text
+roev19_01.0A34	あなたはなにを言っているんです？	What are you talking about?	text
 roev19_01.0A63	聖母	Holy Mother	speaker
-roev19_01.0A76	私は感じたままを話しているだけ……。		text
-roev19_01.0AA9	ロクス……あなたには力があります。{n}ただ、迷いもあります……。		text
-roev19_01.0AF6	敵はそこをついてくるでしょう。{n}でも、信念を持ち、誘惑に負けないでください……。		text
-roev19_01.0B55	あなたは、私とともに戦った勇者です……。{n}きっと、大丈夫です。		text
+roev19_01.0A76	私は感じたままを話しているだけ……。	I am only saying what I feel...	text
+roev19_01.0AA9	ロクス……あなたには力があります。{n}ただ、迷いもあります……。	Rocus... You have power. But you also have{n}doubts...	text
+roev19_01.0AF6	敵はそこをついてくるでしょう。{n}でも、信念を持ち、誘惑に負けないでください……。	The enemy will strike there. But hold to{n}your faith, and don't give in to{n}temptation...	text
+roev19_01.0B55	あなたは、私とともに戦った勇者です……。{n}きっと、大丈夫です。	You are a hero who fought alongside me...{n}I'm sure you'll be fine.	text
 roev19_01.0BA2	ロクス	Rocus	speaker
-roev19_01.0BB7	なんとなく……わかるような気がします……。{n}あなたの言葉の意味が……。		text
+roev19_01.0BB7	なんとなく……わかるような気がします……。{n}あなたの言葉の意味が……。	Somehow... I feel like I understand... what{n}you mean...	text
 roev19_01.0C0C	聖母	Holy Mother	speaker
-roev19_01.0C1F	そうですか……よかった……。		text
+roev19_01.0C1F	そうですか……よかった……。	I see... I'm glad...	text
 roev19_01.0C4A	ロクス	Rocus	speaker
-roev19_01.0C5F	ご忠告ありがとうございました。		text
+roev19_01.0C5F	ご忠告ありがとうございました。	Thank you for the advice.	text
 roev19_01.0C8C	聖母	Holy Mother	speaker
-roev19_01.0C9F	ロクス、己を信じて進みなさい。		text
+roev19_01.0C9F	ロクス、己を信じて進みなさい。	Rocus, believe in yourself and go on.	text
 roev19_01.0CCC	ロクス	Rocus	speaker
 roev19_01.0CE1	はい……。	Yes...	text

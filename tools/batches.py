@@ -173,6 +173,9 @@ def check(b):
             errs.append(f"{i}: name over 12 letters ({len(plain)})")
         if i.endswith(".0002") and len(en.encode("ascii", "replace")) > 30:
             errs.append(f"{i}: EVX title over 30 bytes ({len(en)})")   # evx.build asserts it
+        m = re.match(r"fixed (\d+)-byte record", kind)
+        if m and len(en.encode("ascii", "replace")) + 1 > int(m.group(1)):   # + terminator
+            errs.append(f"{i}: over the {m.group(1)}-byte record with its terminator ({len(en)})")
         if soft:
             w = int(kind[4:].split("x")[0])
             for word in re.split(r"[ ]|\{[^}]*\}", en):
@@ -244,11 +247,14 @@ def merge():
                 continue
             spec = wrap_spec(p, r)
             en = wrap(trans[k], spec) if spec else trans[k]
-            # EXE/overlay strings are replaced in place until phase 7 relocates them: a copy from a
-            # dialogue row that is longer than the JP bytes would break the build, so leave it for phase 7.
-            if code and k != r["id"] and \
-                    len(extract.jtext.encode(font_en.to_pairs(en))) > len(extract.jtext.encode(r["jp"])):
+            # EXE/overlay strings are replaced in place until phase 7 relocates them: English longer than
+            # the JP bytes (a copy from a dialogue row, or the row's own translation) would break the build,
+            # so the script keeps the JP and trans/en keeps the English for phase 7.
+            if code and len(extract.jtext.encode(font_en.to_pairs(en))) > len(extract.jtext.encode(r["jp"])):
                 long_code.append(f"{r['id']} {r['jp']} -> {en}")
+                if r["en"]:
+                    r["en"] = ""
+                    changed = True
                 continue
             if r["en"] != en:
                 r["en"] = en
@@ -257,7 +263,7 @@ def merge():
         if changed:
             extract.write_tsv(p, rows)
     if long_code:
-        print(f"{len(long_code)} EXE/overlay copies left for phase 7 (longer than the JP):", *long_code, sep="\n  ")
+        print(f"{len(long_code)} EXE/overlay rows left for phase 7 (longer than the JP):", *long_code, sep="\n  ")
     print(f"merged {len(trans)} translations, {n} rows changed; failed batches: {bad or 'none'}")
     return 1 if bad else 0
 

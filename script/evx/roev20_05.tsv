@@ -2,30 +2,30 @@ id	jp	en	notes
 roev20_05.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_05.00DE	ルディエール	Rudiere	unit name (32-byte field)
 roev20_05.04C8	ロクス	Rocus	speaker
-roev20_05.04DD	天使の勇者だな。		text
+roev20_05.04DD	天使の勇者だな。	You're one of the angel's heroes.	text
 roev20_05.04FC	ルディエール	Rudiere	speaker
-roev20_05.0517	……誰だ、あんた？		text
+roev20_05.0517	……誰だ、あんた？	...Who are you?	text
 roev20_05.0538	ロクス	Rocus	speaker
-roev20_05.054D	僧侶さ、{n}お前と同じように天使に使えている。		text
+roev20_05.054D	僧侶さ、{n}お前と同じように天使に使えている。	A priest. I serve the angel, same as you.	text
 roev20_05.0588	ルディエール	Rudiere	speaker
-roev20_05.05A3	なにか用か？		text
+roev20_05.05A3	なにか用か？	What do you want?	text
 roev20_05.05BE	ロクス	Rocus	speaker
-roev20_05.05D3	強がるな。けがをみせてみろ。		text
+roev20_05.05D3	強がるな。けがをみせてみろ。	Don't act tough. Let me see that wound.	text
 roev20_05.05FE	ロクス	Rocus	speaker
-roev20_05.0613	時間はかからん。		text
+roev20_05.0613	時間はかからん。	It won't take long.	text
 roev20_05.0692	ルディエール	Rudiere	speaker
-roev20_05.06AD	これは……傷が治った？{n}魔法か？		text
+roev20_05.06AD	これは……傷が治った？{n}魔法か？	What... My wounds are healed? Is that magic?	text
 roev20_05.06DC	ロクス	Rocus	speaker
-roev20_05.06F1	さあな、みたいなものさ。		text
+roev20_05.06F1	さあな、みたいなものさ。	Who knows? Something like it.	text
 roev20_05.077C	ルディエール	Rudiere	speaker
-roev20_05.0797	ありがとう……名前は？		text
+roev20_05.0797	ありがとう……名前は？	Thanks... What's your name?	text
 roev20_05.07BC	ロクス	Rocus	speaker
-roev20_05.07D1	ロクス。		text
+roev20_05.07D1	ロクス。	Rocus.	text
 roev20_05.07E8	ルディエール	Rudiere	speaker
-roev20_05.0803	いつかお返しをさせてもらうよ。		text
+roev20_05.0803	いつかお返しをさせてもらうよ。	I'll pay you back someday.	text
 roev20_05.0830	ロクス	Rocus	speaker
-roev20_05.0845	こっちが勝手にやったんだ。{n}礼などいらんよ。		text
+roev20_05.0845	こっちが勝手にやったんだ。{n}礼などいらんよ。	I did it of my own accord. No thanks needed.	text
 roev20_05.0880	ルディエール	Rudiere	speaker
 roev20_05.089B	そうか……	I see...	text
 roev20_05.08B4	ロクス	Rocus	speaker
-roev20_05.08C9	まあ、また縁があったら会おう。		text
+roev20_05.08C9	まあ、また縁があったら会おう。	Well, if fate allows, we'll meet again.	text

@@ -2,30 +2,30 @@ id	jp	en	notes
 roev20_03.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_03.00DE	クライブ	Clive	unit name (32-byte field)
 roev20_03.04C8	ロクス	Rocus	speaker
-roev20_03.04DD	天使の勇者だな。		text
+roev20_03.04DD	天使の勇者だな。	You're one of the angel's heroes.	text
 roev20_03.04FC	クライヴ	Clive	speaker
-roev20_03.0513	……お前は？		text
+roev20_03.0513	……お前は？	...Who are you?	text
 roev20_03.052E	ロクス	Rocus	speaker
-roev20_03.0543	見ての通りの僧侶さ。{n}同じ天使の勇者として君を助けよう。		text
+roev20_03.0543	見ての通りの僧侶さ。{n}同じ天使の勇者として君を助けよう。	A priest, as you can see. As a fellow hero{n}of the angel, I'll help you.	text
 roev20_03.058A	クライヴ	Clive	speaker
-roev20_03.05A1	……その必要はない。		text
+roev20_03.05A1	……その必要はない。	...There's no need.	text
 roev20_03.05C4	ロクス	Rocus	speaker
-roev20_03.05D9	おっと、強がるな。{n}それにたいしたことはしない。		text
+roev20_03.05D9	おっと、強がるな。{n}それにたいしたことはしない。	Now, now, don't act tough. Besides, it's{n}nothing much.	text
 roev20_03.0618	クライヴ	Clive	speaker
-roev20_03.062F	なにをするつもりだ。		text
+roev20_03.062F	なにをするつもりだ。	What are you going to do?	text
 roev20_03.0652	ロクス	Rocus	speaker
-roev20_03.0667	なに一瞬さ……。		text
+roev20_03.0667	なに一瞬さ……。	It'll only take a moment...	text
 roev20_03.06E6	クライヴ	Clive	speaker
-roev20_03.06FD	……これは。		text
+roev20_03.06FD	……これは。	...What's this?	text
 roev20_03.0718	ロクス	Rocus	speaker
-roev20_03.072D	傷は治ったはずだ。		text
+roev20_03.072D	傷は治ったはずだ。	Your wounds should be healed.	text
 roev20_03.07B2	クライヴ	Clive	speaker
-roev20_03.07C9	……すまん。		text
+roev20_03.07C9	……すまん。	...Thanks.	text
 roev20_03.07E4	ロクス	Rocus	speaker
-roev20_03.07F9	別に礼などいらんよ。{n}……ところで、君とはどこかで{n}会ったことがあるか？		text
+roev20_03.07F9	別に礼などいらんよ。{n}……ところで、君とはどこかで{n}会ったことがあるか？	No thanks needed. ...By the way, have we met{n}somewhere before?	text
 roev20_03.0850	クライヴ	Clive	speaker
-roev20_03.0867	いや、ないと思うが。		text
+roev20_03.0867	いや、ないと思うが。	No, I don't think so.	text
 roev20_03.088A	ロクス	Rocus	speaker
-roev20_03.089F	そうか……考え違いか……{n}まあいい。また、どこかで会おう。		text
+roev20_03.089F	そうか……考え違いか……{n}まあいい。また、どこかで会おう。	I see... My mistake, then... Oh well. We'll{n}meet again somewhere.	text
 roev20_03.08E8	クライヴ	Clive	speaker
-roev20_03.08FF	ああ、すまなかったな……。		text
+roev20_03.08FF	ああ、すまなかったな……。	Yeah. Thanks for that...	text

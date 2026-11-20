@@ -1,22 +1,22 @@
 id	jp	en	notes
-op.8009B4B4	{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}ラビエル		luix1
-op.8009B4EC	ラビエル		luix1
+op.8009B4B4	{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}ラビエル	{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}Raviel	luix1
+op.8009B4EC	ラビエル	Raviel	luix1
 op.8009B5D4	天界に戻るラファエルとミカエル。		ptrx1
 op.8009B5F8	戦いを終えて		ptrx1
 op.8009B608	勇者と天使のために現れたラファエルとミカエル。		ptrx1
 op.8009B638	ベルゼバブと天竜との戦い		ptrx1
 op.8009B654	伝説の城		ptrx2
 op.8009B660	ホタルの光りにつつまれるレーパス。		ptrx1
-op.8009B684	やさしいかがやき		ptrx1
+op.8009B684	やさしいかがやき	Gentle Glow	ptrx1
 op.8009B698	レーパス	Lepus	ptrx1
-op.8009B6A4	タンポポに座ってスーツ姿でお茶を飲むシータス。		ptrx1
-op.8009B6D4	ティータイム		ptrx1
+op.8009B6A4	タンポポに座ってスーツ姿でお茶を飲むシータス。	Cetus in a suit, drinking tea on a dandelion.	ptrx1
+op.8009B6D4	ティータイム	Tea Time	ptrx1
 op.8009B6E4	シータス	Cetus	ptrx1
-op.8009B6F0	アルマジロを天使にぶつけてしまったリンクス。		ptrx1
+op.8009B6F0	アルマジロを天使にぶつけてしまったリンクス。	Lynx, who hit the angel with an armadillo.	ptrx1
 op.8009B720	戦いの準備		ptrx1
 op.8009B72C	リンクス	Lynx	ptrx1
 op.8009B738	オウムと遊ぶアクイラ。		ptrx1
-op.8009B750	ストレス発散！		ptrx1
+op.8009B750	ストレス発散！	Stress Relief!	ptrx1
 op.8009B760	アクイラ	Aquila	ptrx1
 op.8009B76C	雪の夜にはしゃぐリリィ。		ptrx1
 op.8009B788	雪花		ptrx1
@@ -24,26 +24,26 @@ op.8009B790	リリィ	Lily	ptrx1
 op.8009B798	夕日を見つめて落ち込むシェリー。		ptrx1
 op.8009B7BC	ユウウツ		ptrx1
 op.8009B7C8	シェリー	Shelly	ptrx1
-op.8009B7D4	リスのあいだにまぎれ込むフロリンダ。		ptrx1
+op.8009B7D4	リスのあいだにまぎれ込むフロリンダ。	Florinda hiding among the squirrels.	ptrx1
 op.8009B7FC	かくれんぼ		ptrx1
 op.8009B808	フロリンダ	Florinda	ptrx1
-op.8009B814	クモの巣に引っかかったローザ。		ptrx1
+op.8009B814	クモの巣に引っかかったローザ。	Rosa caught in a spider web.	ptrx1
 op.8009B834	朝つゆとクモの巣		ptrx1
 op.8009B848	ローザ	Rosa	ptrx1
 op.8009B850	妖精の女王		ptrx1
 op.8009B85C	フォータ離宮にて		ptrx1
-op.8009B870	ティタニア		ptrx1
+op.8009B870	ティタニア	Titania	ptrx1
 op.8009B87C	復活を待つ魂の王		ptrx1
 op.8009B890	エミリア宮にて		ptrx1
-op.8009B8A0	レミエル		ptrx1
+op.8009B8A0	レミエル	Remiel	ptrx1
 op.8009B8AC	秘密の領域と神秘の天使		ptrx1
 op.8009B8C4	フロー宮にて		ptrx1
-op.8009B8D4	ラツィエル		ptrx1
+op.8009B8D4	ラツィエル	Raziel	ptrx1
 op.8009B8E0	天界の門を守る天使たち		ptrx1
 op.8009B8F8	堕天使との戦い		ptrx1
 op.8009B908	天界の門		ptrx1
 op.8009B914	ともに戦った者を想ってミカエルが植えたバラ。		ptrx1
-op.8009B944	死んでいった天使たち		ptrx1
+op.8009B944	死んでいった天使たち	The Angels Who Died	ptrx1
 op.8009B95C	白バラの庭園		ptrx1
 op.8009B96C	神のごとき者		ptrx1
 op.8009B97C	大天使ミカエル		ptrx1
@@ -64,13 +64,13 @@ op.8009BAC8	がれきの山を見つめるセシアと天使。		ptrx1
 op.8009BAEC	母の死を理解させ、泣くイオンを抱きとめる。		ptrx1
 op.8009BB18	イオンとの戦い		ptrx1
 op.8009BB28	ファーノの少年		ptrx1
-op.8009BB38	それを心配そうに見つめるセシア。		ptrx1
+op.8009BB38	それを心配そうに見つめるセシア。	Cecia watches anxiously.	ptrx1
 op.8009BB5C	聖ディアナとして過去の戦いを語るセシア。		ptrx1
 op.8009BB88	千年前の出来事		ptrx1
 op.8009BB98	竜の湖		ptrx1
 op.8009BBA0	聖ディアナの証として、瞳の色が変わる……。		ptrx1
 op.8009BBCC	記憶を受け継いで		ptrx1
-op.8009BBE0	聖ディアナになるための儀式が始まる……。		ptrx1
+op.8009BBE0	聖ディアナになるための儀式が始まる……。	The rite to become St. Diana begins...	ptrx1
 op.8009BC0C	儀式		ptrx1
 op.8009BC14	覚醒		ptrx2
 op.8009BC1C	自分の不安を天使に打ち明け、そして……。		ptrx1
@@ -87,12 +87,12 @@ op.8009BD24	聖堂の壁画		ptrx1
 op.8009BD30	ケガをしている子供を見つけて手当をしようと……。		ptrx1
 op.8009BD64	事件解決に向かった先での出来事		ptrx1
 op.8009BD84	魔獣襲撃		ptrx1
-op.8009BD90	セシアははじめて見た町の風景にとても、よろこぶ。		ptrx1
+op.8009BD90	セシアははじめて見た町の風景にとても、よろこぶ。	Cecia is delighted by her first sight of a town.	ptrx1
 op.8009BDC4	森を出て……		ptrx1
 op.8009BDD4	はじめての町		ptrx1
 op.8009BDE4	間違って天使に弓を向けてしまうセシア。		ptrx1
 op.8009BE0C	天使の見たレイフォリアの森		ptrx1
-op.8009BE28	セシアとのはじめての出会い		ptrx2
+op.8009BE28	セシアとのはじめての出会い	First Meeting with Cecia	ptrx2
 op.8009BE44	レイフォリアの森の少女		ptrx2
 op.8009BE5C	レイラのもとに現れたのは……		ptrx1
 op.8009BE7C	待ち人		ptrx2
@@ -104,13 +104,13 @@ op.8009BEFC	意外な一面		ptrx1
 op.8009BF08	海辺		ptrx1
 op.8009BF10	自然に自分の変化を受け入れていくレイラの横顔。		ptrx1
 op.8009BF40	ベランダにて		ptrx1
-op.8009BF50	天使にたいしていつもと違う表情を見せるレイラ。		ptrx1
+op.8009BF50	天使にたいしていつもと違う表情を見せるレイラ。	Leyla shows the angel an unusual expression.	ptrx1
 op.8009BF80	天使との食事		ptrx1
-op.8009BF90	ほんの少しのやすらぎ		ptrx2
+op.8009BF90	ほんの少しのやすらぎ	A Little Peace	ptrx2
 op.8009BFA8	いままで気づかなかった自然の美しさにふれて……。		ptrx1
 op.8009BFDC	夕日の中でたたずむ		ptrx1
 op.8009BFF0	自然の中		ptrx1
-op.8009BFFC	それを心配そうに見つめるレイラ。		ptrx1
+op.8009BFFC	それを心配そうに見つめるレイラ。	Leyla watches anxiously.	ptrx1
 op.8009C020	自分のために天使を傷つけたことで彼女も傷つく。		ptrx1
 op.8009C050	自分の行動の無謀さと失敗に落ち込んで……		ptrx1
 op.8009C07C	悔し涙		ptrx1
@@ -120,7 +120,7 @@ op.8009C0CC	彼女はいっしょにいる天使に姿を現せと迫る。		ptr
 op.8009C0F8	レイラの前に現れたセレニス		ptrx1
 op.8009C114	アルベリックの態度に嫌悪をあらわにするレイラ。		ptrx1
 op.8009C144	皇帝暗殺に失敗しアルベリックに囚われて		ptrx1
-op.8009C16C	身をひそめてクロイツフェルドを待ちかまえる……。		ptrx1
+op.8009C16C	身をひそめてクロイツフェルドを待ちかまえる……。	Lying in wait for Kreutzfeld...	ptrx1
 op.8009C1A0	戦勝記念の夜会		ptrx1
 op.8009C1B0	これから危険な賭けに出ることを話すレイラ。		ptrx1
 op.8009C1DC	戦勝記念の夜会へ向かう……		ptrx1
@@ -131,14 +131,14 @@ op.8009C24C	母との再会		ptrx1
 op.8009C258	彼女は自分の小手が父の形見であることを話す。		ptrx1
 op.8009C288	天使に思い出を語るレイラ		ptrx1
 op.8009C2A4	両親の思い出		ptrx1
-op.8009C2B4	彼らの変わり果てた姿にレイラは……。		ptrx1
+op.8009C2B4	彼らの変わり果てた姿にレイラは……。	Seeing them so changed, Leyla...	ptrx1
 op.8009C2DC	自分を助けてくれた部下たち		ptrx1
 op.8009C2F8	イエーナ侵攻	Jena Invaded	ptrx1
-op.8009C308	アルベリックにいわれのない罪で囚えられた彼女。		ptrx1
+op.8009C308	アルベリックにいわれのない罪で囚えられた彼女。	Imprisoned by Alberic on a false charge.	ptrx1
 op.8009C338	レイラとの最初の出会い		ptrx1
 op.8009C350	裏切りの帝国騎士		ptrx1
 op.8009C364	塔で待つアイリーン		ptrx1
-op.8009C378	ずっといっしょに……		ptrx2
+op.8009C378	ずっといっしょに……	Together Forever...	ptrx2
 op.8009C390	手紙を届けてとウェスタを放つアイリーン。		ptrx1
 op.8009C3BC	フェインへの想いをつづった手紙		ptrx1
 op.8009C3DC	手紙		ptrx1
@@ -150,30 +150,30 @@ op.8009C47C	魔石の塔の見える場所で姉を想うアイリーン。		ptr
 op.8009C4A8	花を手向けて		ptrx1
 op.8009C4B8	孤独		ptrx1
 op.8009C4C0	がれきの山を見つめるアイリーンと天使。		ptrx1
-op.8009C4E8	それを心配そうに見つめるアイリーン。		ptrx1
-op.8009C510	セレニスが変わってしまった原因を話す。		ptrx1
-op.8009C538	アイリーンの悲しみ		ptrx1
+op.8009C4E8	それを心配そうに見つめるアイリーン。	Irene watches anxiously.	ptrx1
+op.8009C510	セレニスが変わってしまった原因を話す。	She explains why Serenis changed.	ptrx1
+op.8009C538	アイリーンの悲しみ	Irene's Sorrow	ptrx1
 op.8009C54C	呪われた魂		ptrx1
-op.8009C558	川を見つけて水浴びをしようとしているアイリーン。		ptrx1
+op.8009C558	川を見つけて水浴びをしようとしているアイリーン。	Irene finds a river and is about to bathe.	ptrx1
 op.8009C58C	閉じこめられた森の中で		ptrx1
 op.8009C5A4	祖父とセレニス、フェインとの幸せな過去の生活……。		ptrx1
-op.8009C5D8	アイリーンの語る思い出		ptrx1
+op.8009C5D8	アイリーンの語る思い出	Irene's Memories	ptrx1
 op.8009C5F0	塔		ptrx1
 op.8009C5F4	雪合戦で平和な時間を楽しむふたり。		ptrx1
-op.8009C618	はしゃぐアイリーン		ptrx1
+op.8009C618	はしゃぐアイリーン	Irene at Play	ptrx1
 op.8009C62C	雪合戦		ptrx1
-op.8009C634	にぎやかな街でアイリーンは天使を誘って出かける。		ptrx1
+op.8009C634	にぎやかな街でアイリーンは天使を誘って出かける。	In the lively city, Irene invites the angel out.	ptrx1
 op.8009C668	聖都で買い物を楽しむ		ptrx1
 op.8009C680	聖都を眺める		ptrx1
 op.8009C690	魔石が見つかったという伝説をアイリーンから聞く。		ptrx1
 op.8009C6C4	デルフィニア山		ptrx1
 op.8009C6D4	史跡		ptrx1
-op.8009C6DC	食事に招待されたアイリーンは居心地が悪くて……。		ptrx1
-op.8009C710	ウェスタを見つけてくれた男の子と……		ptrx1
-op.8009C738	いなくなったウェスタ		ptrx1
+op.8009C6DC	食事に招待されたアイリーンは居心地が悪くて……。	Invited to dinner, Irene feels out of place...	ptrx1
+op.8009C710	ウェスタを見つけてくれた男の子と……	With the boy who found Vesta...	ptrx1
+op.8009C738	いなくなったウェスタ	Vesta Goes Missing	ptrx1
 op.8009C750	魔法をとなえたアイリーンは天使を見て……。		ptrx1
 op.8009C77C	アイリーンの住む魔導士の塔		ptrx1
-op.8009C798	アイリーンとの最初の出会い		ptrx2
+op.8009C798	アイリーンとの最初の出会い	First Meeting with Irene	ptrx2
 op.8009C7B4	魔導士の少女		ptrx2
 op.8009C7C4	聖堂の中		ptrx1
 op.8009C7D0	真実		ptrx2

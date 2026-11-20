@@ -3,8 +3,8 @@ pro.8009B4E0	名前を決定します。		luix1
 pro.8009B4F4	性別を決定します。		luix1
 pro.8009B508	誕生日を決定します。		luix1
 pro.8009B520	これでいいですか？		luix1
-pro.8009B534	はい		luix2
-pro.8009B53C	いいえ		luix2
+pro.8009B534	はい	Yes	luix2
+pro.8009B53C	いいえ	No	luix2
 pro.8009B544	前作「フェイバリットディア」のデータを		luix1
 pro.8009B56C	読み込むことができます。		luix1
 pro.8009B588	フェイバリットディアのデータを読み込みますか？		luix1

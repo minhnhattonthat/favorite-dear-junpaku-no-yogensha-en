@@ -2,23 +2,23 @@ id	jp	en	notes
 roev20_02.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_02.00DE	フェイン	Fein	unit name (32-byte field)
 roev20_02.04C8	ロクス	Rocus	speaker
-roev20_02.04DD	魔導士殿、{n}また難儀をしているようだが？		text
+roev20_02.04DD	魔導士殿、{n}また難儀をしているようだが？	Sir Mage, in trouble again, are we?	text
 roev20_02.0514	フェイン	Fein	speaker
-roev20_02.052B	ロクス……といったな。		text
+roev20_02.052B	ロクス……といったな。	Rocus... wasn't it?	text
 roev20_02.0550	ロクス	Rocus	speaker
-roev20_02.0565	そう、{n}たしかあなたはフェインとかいう名だったな。{n}前に天使に聞いたが、よく思いだせん。		text
+roev20_02.0565	そう、{n}たしかあなたはフェインとかいう名だったな。{n}前に天使に聞いたが、よく思いだせん。	That's right. And you were Fein or some{n}such, I believe. The angel told me before,{n}but I can't quite recall.	text
 roev20_02.05CC	フェイン	Fein	speaker
 roev20_02.05E3	そうだ……	Yes...	text
 roev20_02.05FC	ロクス	Rocus	speaker
-roev20_02.0611	手を貸そう。{n}＄＄＄＄＄＄もそれを望んでいる。		text
+roev20_02.0611	手を貸そう。{n}＄＄＄＄＄＄もそれを望んでいる。	I'll lend you a hand. ＄＄＄＄＄＄ wants it{n}too.	text
 roev20_02.064E	フェイン	Fein	speaker
-roev20_02.0665	すまない……		text
+roev20_02.0665	すまない……	I'm sorry...	text
 roev20_02.06D4	フェイン	Fein	speaker
-roev20_02.06EB	こう何度も助けられるとはな……借りができた。		text
+roev20_02.06EB	こう何度も助けられるとはな……借りができた。	To be saved by you so many times... I owe{n}you one.	text
 roev20_02.077E	ロクス	Rocus	speaker
-roev20_02.0793	まあ、これからもよく戦ってくれ。		text
-roev20_02.07C2	僕は争いごとが苦手だからね。{n}あなたのようなのにがんばってもらわないと困る。		text
+roev20_02.0793	まあ、これからもよく戦ってくれ。	Well, keep up the good fight.	text
+roev20_02.07C2	僕は争いごとが苦手だからね。{n}あなたのようなのにがんばってもらわないと困る。	I'm not one for fighting, you see. I need{n}people like you to do their best.	text
 roev20_02.081D	フェイン	Fein	speaker
-roev20_02.0834	わかった……		text
+roev20_02.0834	わかった……	Understood...	text
 roev20_02.084F	ロクス	Rocus	speaker
-roev20_02.0864	今度はまた会おうとは言わないようにしよう。{n}さよなら、魔導士殿。		text
+roev20_02.0864	今度はまた会おうとは言わないようにしよう。{n}さよなら、魔導士殿。	This time I won't say we'll meet again.{n}Goodbye, Sir Mage.	text

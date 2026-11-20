@@ -8,35 +8,35 @@ loev27_01.0518	ルディ	Rudi	speaker
 loev27_01.052D	あなたは……？	Who are you...?	text
 loev27_01.054A	聖母	Holy Mother	speaker
 loev27_01.055D	私は、このレイフォリアの森を守護する{n}ディアナという者です。	I am Diana, guardian of this Forest of{n}Reyforia.	text
-loev27_01.05A8	あなたの胸に輝いているのは、{n}レグランス王国の紋章ですね……。{n}あなたは、レグランスの王家の方なのですか？		text
+loev27_01.05A8	あなたの胸に輝いているのは、{n}レグランス王国の紋章ですね……。{n}あなたは、レグランスの王家の方なのですか？	That crest shining on your chest is the{n}crest of the Kingdom of Legrance... Are you{n}of Legrance's royal family?	text
 loev27_01.0621	ルディ	Rudi	speaker
-loev27_01.0636	はい、そうです。{n}おれは、ルディエール・トライアといいます。		text
+loev27_01.0636	はい、そうです。{n}おれは、ルディエール・トライアといいます。	Yes, I am. My name is Rudiere Trier.	text
 loev27_01.0681	聖母	Holy Mother	speaker
-loev27_01.0694	そうですか、責任のある立場のあなたが、{n}よくここまで来てくださいましたね。		text
-loev27_01.06ED	それに、ここには祝福を受けた者以外は{n}入れない場所なのです。{n}あなたは、天使様とともにあるのですね。		text
+loev27_01.0694	そうですか、責任のある立場のあなたが、{n}よくここまで来てくださいましたね。	I see. For someone in a position of such{n}responsibility, you've done well to come all{n}this way.	text
+loev27_01.06ED	それに、ここには祝福を受けた者以外は{n}入れない場所なのです。{n}あなたは、天使様とともにあるのですね。	What's more, only the blessed may enter this{n}place. You are with the angel, aren't you?	text
 loev27_01.0760	ルディ	Rudi	speaker
-loev27_01.0775	はい……天使とは、一緒にいます。{n}ただ、祝福というのは……。		text
+loev27_01.0775	はい……天使とは、一緒にいます。{n}ただ、祝福というのは……。	Yes... The angel is with me. But about being{n}blessed...	text
 loev27_01.07C0	聖母	Holy Mother	speaker
-loev27_01.07D3	よくわからない気持ちも、わかります。{n}ルディエール、もう少し近くに来てくれませんか？		text
+loev27_01.07D3	よくわからない気持ちも、わかります。{n}ルディエール、もう少し近くに来てくれませんか？	I understand that it may be hard to grasp.{n}Rudiere, would you come a little closer?	text
 loev27_01.0836	ルディ	Rudi	speaker
-loev27_01.084B	あ！　は、はい……。		text
+loev27_01.084B	あ！　は、はい……。	Ah! Y-yes...	text
 loev27_01.08BE	聖母	Holy Mother	speaker
-loev27_01.08D1	世界に混乱の兆しが見えるとき、{n}人の子は天使様に祝福され、導かれるのです。		text
-loev27_01.092A	あなたは、いま、邪悪な影が満ちようとしている{n}この世界を救う者のひとりとして、{n}天使様に見いだされたのです。		text
-loev27_01.09A5	これから、あなたにはたくさんの困難が{n}待ち受けていることでしょう。{n}ですが、強い意志を持ってください。		text
-loev27_01.0A1A	敵は迷い悩む弱い心につけ込んでくるのですから。		text
+loev27_01.08D1	世界に混乱の兆しが見えるとき、{n}人の子は天使様に祝福され、導かれるのです。	When signs of chaos appear in the world,{n}children of man are blessed and guided by{n}the angels.	text
+loev27_01.092A	あなたは、いま、邪悪な影が満ちようとしている{n}この世界を救う者のひとりとして、{n}天使様に見いだされたのです。	The angel has chosen you as one of those who{n}will save this world, now that an evil{n}shadow is spreading over it.	text
+loev27_01.09A5	これから、あなたにはたくさんの困難が{n}待ち受けていることでしょう。{n}ですが、強い意志を持ってください。	Many hardships surely await you from here{n}on. But please, keep a strong will.	text
+loev27_01.0A1A	敵は迷い悩む弱い心につけ込んでくるのですから。	For the enemy preys on weak hearts that{n}waver and doubt.	text
 loev27_01.0A57	ルディ	Rudi	speaker
-loev27_01.0A6C	……わかりました……。{n}あの……聞いてもいいでしょうか？		text
+loev27_01.0A6C	……わかりました……。{n}あの……聞いてもいいでしょうか？	...I understand... Um... May I ask you{n}something?	text
 loev27_01.0AB3	聖母	Holy Mother	speaker
-loev27_01.0AC6	なんですか？		text
+loev27_01.0AC6	なんですか？	What is it?	text
 loev27_01.0AE1	ルディ	Rudi	speaker
-loev27_01.0AF6	あなたは、この世界を混乱させている者の正体が{n}わかっていらっしゃるのですか？		text
+loev27_01.0AF6	あなたは、この世界を混乱させている者の正体が{n}わかっていらっしゃるのですか？	Do you know the true identity of the one{n}throwing this world into chaos?	text
 loev27_01.0B51	聖母	Holy Mother	speaker
 loev27_01.0B64	いいえ。{n}天使様がおわかりにならないことが、{n}ひとにわかるはずがありません。	No. What the Angel does not know, no person{n}could know.	text
-loev27_01.0BBF	ただ、とても昔の出来事を……{n}いまでは伝説になってしまったことを{n}思い出しています。		text
-loev27_01.0C22	いずれ、あなたは、もっと悲惨な戦いへと{n}向かうことになるでしょう。		text
-loev27_01.0C73	ですが、どうか自分を信じて前へと進んでください。{n}きっと、天使様があなたを導いてくださるはずです。		text
+loev27_01.0BBF	ただ、とても昔の出来事を……{n}いまでは伝説になってしまったことを{n}思い出しています。	I am only recalling events from long, long{n}ago... things that have since become legend.	text
+loev27_01.0C22	いずれ、あなたは、もっと悲惨な戦いへと{n}向かうことになるでしょう。	In time, you will face an even more terrible{n}battle.	text
+loev27_01.0C73	ですが、どうか自分を信じて前へと進んでください。{n}きっと、天使様があなたを導いてくださるはずです。	But please, believe in yourself and keep{n}moving forward. I'm sure the angel will{n}guide you.	text
 loev27_01.0CE4	ルディ	Rudi	speaker
-loev27_01.0CF9	わかりました……。{n}お話ししてくださり、ありがとうございました。		text
+loev27_01.0CF9	わかりました……。{n}お話ししてくださり、ありがとうございました。	I understand... Thank you for speaking with{n}me.	text
 loev27_01.0D48	聖母	Holy Mother	speaker
-loev27_01.0D5B	気をつけて、ルディエール。		text
+loev27_01.0D5B	気をつけて、ルディエール。	Take care, Rudiere.	text

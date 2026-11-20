@@ -1,63 +1,63 @@
 id	jp	en	notes
-roev14b.0002	イオンの家(ロクス編)		dev label (guess: not shown)
+roev14b.0002	イオンの家(ロクス編)	Ion's House (Rocus)	dev label (guess: not shown)
 roev14b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev14b.00DE	イオン	Ion	unit name (32-byte field)
 roev14b.011A	セレニス	Serenis	unit name (32-byte field)
 roev14b.0156	イオンの母	Ion's Mother	unit name (32-byte field)
-roev14b.0192	死んだ母さん		unit name (32-byte field)
+roev14b.0192	死んだ母さん	Dead Mother	unit name (32-byte field)
 roev14b.04AC	ロクス	Rocus	speaker
-roev14b.04C1	もう、無駄な真似はやめるんだ……		text
+roev14b.04C1	もう、無駄な真似はやめるんだ……	Stop this pointless act...	text
 roev14b.0540	イオン	Ion	speaker
-roev14b.0555	う、うるさい……		text
+roev14b.0555	う、うるさい……	Sh-shut up...	text
 roev14b.05D0	セレニス	Serenis	speaker
-roev14b.05E7	魔石をもらいに来たわ。{n}イオン。		text
-roev14b.062A	……ん？　誰だお前は。		text
+roev14b.05E7	魔石をもらいに来たわ。{n}イオン。	I've come for the Demon Stone, Ion.	text
+roev14b.062A	……ん？　誰だお前は。	...Hm? Who are you?	text
 roev14b.06B3	ロクス	Rocus	speaker
 roev14b.06C8	お前は……。	You...	text
 roev14b.06E3	セレニス	Serenis	speaker
 roev14b.06FA	その雰囲気……天使の勇者か。	That aura... the angel's hero, is it?	text
 roev14b.0725	ロクス	Rocus	speaker
-roev14b.073A	この子をだましていたのは、お前か。		text
+roev14b.073A	この子をだましていたのは、お前か。	So you're the one who deceived this boy.	text
 roev14b.076B	セレニス	Serenis	speaker
-roev14b.0782	だましてなどいない。{n}私は約束を果たすわ。		text
-roev14b.07BB	さあ、イオン{n}お母さんを元気にしてあげるわ。		text
-roev14b.07F6	だから、聖母の持っていた魔石を渡しなさい。		text
+roev14b.0782	だましてなどいない。{n}私は約束を果たすわ。	I deceived no one. I keep my promises.	text
+roev14b.07BB	さあ、イオン{n}お母さんを元気にしてあげるわ。	Now, Ion, I'll make your mother well again.	text
+roev14b.07F6	だから、聖母の持っていた魔石を渡しなさい。	So hand over the Demon Stone the Holy Mother{n}had.	text
 roev14b.0887	イオン	Ion	speaker
 roev14b.089C	ああ……。	Yeah...	text
 roev14b.093D	セレニス	Serenis	speaker
-roev14b.0954	ありがとう。確かに魔石だわ。		text
+roev14b.0954	ありがとう。確かに魔石だわ。	Thank you. This is the Demon Stone, all{n}right.	text
 roev14b.097F	イオン	Ion	speaker
-roev14b.0994	さあ、かあさんを……もとに戻して……。		text
+roev14b.0994	さあ、かあさんを……もとに戻して……。	Now, my mom... make her like she was...	text
 roev14b.09C9	セレニス	Serenis	speaker
-roev14b.09E0	ええ、いいわ。見ていなさい。		text
+roev14b.09E0	ええ、いいわ。見ていなさい。	Yes, of course. Watch.	text
 roev14b.0B3B	イオン	Ion	speaker
-roev14b.0B50	母さん……。		text
+roev14b.0B50	母さん……。	Mom...	text
 roev14b.0BBB	ロクス	Rocus	speaker
-roev14b.0BD0	近づくな……イオン！{n}そのお母さんはちがう！		text
+roev14b.0BD0	近づくな……イオン！{n}そのお母さんはちがう！	Get away... Ion! That's not your mother!	text
 roev14b.0C0B	母親	Mother	speaker
 roev14b.0C1E	…………。	.....	text
 roev14b.0C37	イオン	Ion	speaker
-roev14b.0C4C	母さん……？		text
+roev14b.0C4C	母さん……？	Mom...?	text
 roev14b.0CB7	イオン	Ion	speaker
-roev14b.0CCC	違う……母さん……じゃない……！		text
+roev14b.0CCC	違う……母さん……じゃない……！	No... You're not... my mom...!	text
 roev14b.0D73	セレニス	Serenis	speaker
-roev14b.0D8A	フフ……しかたがないわね……。{n}あなたもお母さんのところへお行きなさい、イオン。		text
+roev14b.0D8A	フフ……しかたがないわね……。{n}あなたもお母さんのところへお行きなさい、イオン。	Hehe... Oh well... You can go join your{n}mother, Ion.	text
 roev14b.0E55	イオン	Ion	speaker
-roev14b.0E6A	うあっ……！		text
+roev14b.0E6A	うあっ……！	Aagh...!	text
 roev14b.0E85	ロクス	Rocus	speaker
-roev14b.0E9A	イオン……！		text
+roev14b.0E9A	イオン……！	Ion...!	text
 roev14b.0F05	ロクス	Rocus	speaker
-roev14b.0F1A	魔女め！　なんて事を！		text
+roev14b.0F1A	魔女め！　なんて事を！	You witch! How could you!	text
 roev14b.0F3F	セレニス	Serenis	speaker
-roev14b.0F56	ハハハハ。		text
+roev14b.0F56	ハハハハ。	Hahahaha.	text
 roev14b.0F8F	ロクス	Rocus	speaker
-roev14b.0FA4	貴様……っ！		text
+roev14b.0FA4	貴様……っ！	You...!	text
 roev14b.0FBF	セレニス	Serenis	speaker
-roev14b.0FD6	魔石を手に入れた今、ここに用などないわ。		text
+roev14b.0FD6	魔石を手に入れた今、ここに用などないわ。	Now that I have the Demon Stone, I have no{n}more business here.	text
 roev14b.1055	ロクス	Rocus	speaker
-roev14b.106A	くっ！		text
-roev14b.10A3	イオン……僕の力で助けてやるから……。		text
+roev14b.106A	くっ！	Ngh!	text
+roev14b.10A3	イオン……僕の力で助けてやるから……。	Ion... I'll save you with my power...	text
 roev14b.10D8	イオン	Ion	speaker
-roev14b.10ED	いいよ……お兄ちゃん……。{n}僕は……お母さんのところへ……行くよ……。		text
+roev14b.10ED	いいよ……お兄ちゃん……。{n}僕は……お母さんのところへ……行くよ……。	It's okay... mister... I'm going... to my{n}mom...	text
 roev14b.1142	ロクス	Rocus	speaker
-roev14b.1157	イオン……イオンっ！		text
+roev14b.1157	イオン……イオンっ！	Ion... Ion!	text

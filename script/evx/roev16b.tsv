@@ -1,21 +1,21 @@
 id	jp	en	notes
-roev16b.0002	ヴァイパーの最後（戦闘勝ち後）		dev label (guess: not shown)
+roev16b.0002	ヴァイパーの最後（戦闘勝ち後）	Viper's End (Won)	dev label (guess: not shown)
 roev16b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev16b.00DE	クラレンス	Clarence	unit name (32-byte field)
 roev16b.04A8	クラレンス	Clarence	speaker
-roev16b.04C1	ちっ……負けたぜ……。		text
-roev16b.04F6	お前は強いよ……		text
+roev16b.04C1	ちっ……負けたぜ……。	Tch... I lost...	text
+roev16b.04F6	お前は強いよ……	You're strong...	text
 roev16b.0575	ロクス	Rocus	speaker
-roev16b.058A	お前にとどめは刺せない……。		text
+roev16b.058A	お前にとどめは刺せない……。	I can't finish you off...	text
 roev16b.05C5	クラレンス	Clarence	speaker
-roev16b.05DE	おお、やっと俺の友情に気づいてくれたか……。{n}うれしいぜ。		text
+roev16b.05DE	おお、やっと俺の友情に気づいてくれたか……。{n}うれしいぜ。	Oh, you've finally noticed our friendship...{n}I'm touched.	text
 roev16b.0637	ロクス	Rocus	speaker
-roev16b.064C	ちがう……そんな価値もないからだ……。		text
+roev16b.064C	ちがう……そんな価値もないからだ……。	No... It's because you're not even worth{n}it...	text
 roev16b.0691	クラレンス	Clarence	speaker
-roev16b.06AA	そりゃひでえ……{n}ふふ、まあ……その通りだよ……		text
-roev16b.06F9	だがな……俺はここで死ぬ……		text
-roev16b.0734	どのみち俺の身体は……もう、だめなんだ……		text
-roev16b.077D	俺が死ぬまでに……{n}世界の終わりを見てみてえと思ったんだけどよ……。		text
-roev16b.07E0	かなわなかったぜ……。		text
-roev16b.0815	ロクス……そばに来てくれ……		text
-roev16b.0850	治して欲しくなんてねえよ……{n}ただ……お前にそばにいて欲しいんだ……。		text
+roev16b.06AA	そりゃひでえ……{n}ふふ、まあ……その通りだよ……	That's harsh... Heh, well... you're right...	text
+roev16b.06F9	だがな……俺はここで死ぬ……	But you know... I'm dying here...	text
+roev16b.0734	どのみち俺の身体は……もう、だめなんだ……	This body of mine... was done for anyway...	text
+roev16b.077D	俺が死ぬまでに……{n}世界の終わりを見てみてえと思ったんだけどよ……。	I wanted to see the end of the world before{n}I died...	text
+roev16b.07E0	かなわなかったぜ……。	Didn't get my wish...	text
+roev16b.0815	ロクス……そばに来てくれ……	Rocus... come here...	text
+roev16b.0850	治して欲しくなんてねえよ……{n}ただ……お前にそばにいて欲しいんだ……。	I don't want you to heal me... I just...{n}want you by my side...	text

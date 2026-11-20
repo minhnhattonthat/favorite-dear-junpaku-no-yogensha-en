@@ -1,37 +1,37 @@
 id	jp	en	notes
-roev18b.0002	深い流れ		dev label (guess: not shown)
+roev18b.0002	深い流れ	Deep Currents	dev label (guess: not shown)
 roev18b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev18b.00DE	セシア	Cecia	unit name (32-byte field)
 roev18b.0538	ロクス	Rocus	speaker
-roev18b.054D	これは美しい……神秘的な女性だ。		text
-roev18b.058C	君も天使に仕える身なのか？		text
+roev18b.054D	これは美しい……神秘的な女性だ。	How beautiful... A mysterious woman.	text
+roev18b.058C	君も天使に仕える身なのか？	Do you serve the angel too?	text
 roev18b.05C5	セシア	Cecia	speaker
-roev18b.05DA	はい。あなたは癒しの手をもつ勇者ですね。		text
+roev18b.05DA	はい。あなたは癒しの手をもつ勇者ですね。	Yes. You must be the hero with the healing{n}hands.	text
 roev18b.0621	ロクス	Rocus	speaker
-roev18b.0636	そう、ロクスという。{n}天使から聞いていないか？		text
-roev18b.0683	勇気と誠実さにあふれた勇者だと。		text
+roev18b.0636	そう、ロクスという。{n}天使から聞いていないか？	That's right, I'm Rocus. Hasn't the angel{n}told you about me?	text
+roev18b.0683	勇気と誠実さにあふれた勇者だと。	A hero overflowing with courage and{n}sincerity.	text
 roev18b.06C2	セシア	Cecia	speaker
-roev18b.06D7	いいえ……特に。		text
+roev18b.06D7	いいえ……特に。	No... not really.	text
 roev18b.071A	ロクス	Rocus	speaker
-roev18b.072F	天使のやつめ{n}僕を勇者のうちにいれていないな……。		text
+roev18b.072F	天使のやつめ{n}僕を勇者のうちにいれていないな……。	That angel doesn't even count me as one of{n}the heroes...	text
 roev18b.0780	セシア	Cecia	speaker
-roev18b.0795	ふふふ……。		text
+roev18b.0795	ふふふ……。	Hehehe...	text
 roev18b.07C0	ロクス	Rocus	speaker
-roev18b.07D5	たくあいつはいつも……		text
+roev18b.07D5	たくあいつはいつも……	Honestly, the angel's always...	text
 roev18b.080A	セシア	Cecia	speaker
-roev18b.081F	変わっていませんね……。		text
+roev18b.081F	変わっていませんね……。	You haven't changed...	text
 roev18b.08AE	ロクス	Rocus	speaker
-roev18b.08C3	ん？　君とは初めて……会ったと思うんだが……		text
+roev18b.08C3	ん？　君とは初めて……会ったと思うんだが……	Hm? I believe this is the first time...{n}we've met...	text
 roev18b.090E	セシア	Cecia	speaker
 roev18b.0923	ええ……そうです。	Yes... that's right.	text
-roev18b.0954	ただ、あなたとよく似た人を昔、{n}知っていたのです……。		text
+roev18b.0954	ただ、あなたとよく似た人を昔、{n}知っていたのです……。	It's just that I once knew someone very much{n}like you, long ago...	text
 roev18b.09A9	ロクス	Rocus	speaker
-roev18b.09BE	それは……？		text
+roev18b.09BE	それは……？	Someone like me...?	text
 roev18b.09E9	セシア	Cecia	speaker
-roev18b.09FE	いえ、いいんです……気にしないでください。		text
+roev18b.09FE	いえ、いいんです……気にしないでください。	No, never mind... Please don't worry about{n}it.	text
 roev18b.0A37	ロクス	Rocus	speaker
-roev18b.0A4C	？		text
+roev18b.0A4C	？	?	text
 roev18b.0A6D	セシア	Cecia	speaker
-roev18b.0A82	またどこかで会えるといいですね。{n}さよなら、ロクス。		text
+roev18b.0A82	またどこかで会えるといいですね。{n}さよなら、ロクス。	I hope we meet again somewhere. Goodbye,{n}Rocus.	text
 roev18b.0AD5	ロクス	Rocus	speaker
-roev18b.0AEA	ああ、さよなら……		text
+roev18b.0AEA	ああ、さよなら……	Yes, goodbye...	text

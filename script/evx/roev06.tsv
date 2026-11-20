@@ -1,5 +1,5 @@
 id	jp	en	notes
-roev06.0002	もう一つの魔石		dev label (guess: not shown)
+roev06.0002	もう一つの魔石	The Other Demon Stone	dev label (guess: not shown)
 roev06.00A2	ロクス	Rocus	unit name (32-byte field)
 roev06.00DE	帝國戦士	Imperial Warrior	unit name (32-byte field)
 roev06.011A	帝國戦士	Imperial Warrior	unit name (32-byte field)
@@ -7,16 +7,16 @@ roev06.0156	帝国戦士	Warrior	unit name (32-byte field)
 roev06.0192	帝国戦士	Warrior	unit name (32-byte field)
 roev06.01CE	クラレンス	Clarence	unit name (32-byte field)
 roev06.05C8	ロクス	Rocus	speaker
-roev06.05DD	ヴァイパー！		text
+roev06.05DD	ヴァイパー！	Viper!	text
 roev06.05F8	クラレンス	Clarence	speaker
-roev06.0611	おっと、ロクスか？{n}こんなところで会うとは意外だな。		text
+roev06.0611	おっと、ロクスか？{n}こんなところで会うとは意外だな。	Whoa, Rocus? Didn't expect to run into you{n}here.	text
 roev06.0654	ロクス	Rocus	speaker
-roev06.0669	お前……なぜ帝国軍に紛れている！		text
+roev06.0669	お前……なぜ帝国軍に紛れている！	You... Why are you hiding among the imperial{n}army?!	text
 roev06.0698	クラレンス	Clarence	speaker
-roev06.06B1	おっと……悪いな{n}今日はかまってやれねえ。		text
-roev06.06EA	ちょっとしたついででな、{n}もうずらかる時間なんだ。		text
-roev06.072B	じゃあな……		text
+roev06.06B1	おっと……悪いな{n}今日はかまってやれねえ。	Whoops... Sorry, I can't play with you{n}today.	text
+roev06.06EA	ちょっとしたついででな、{n}もうずらかる時間なんだ。	I was just passing through. Time for me to{n}scram.	text
+roev06.072B	じゃあな……	See ya...	text
 roev06.0816	ロクス	Rocus	speaker
-roev06.082B	待て！		text
+roev06.082B	待て！	Wait!	text
 roev06.08BC	ロクス	Rocus	speaker
-roev06.08D1	邪魔だ！		text
+roev06.08D1	邪魔だ！	Out of my way!	text

@@ -2,16 +2,16 @@ id	jp	en	notes
 roev20_10.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_10.00DE	レイラ	Leyla	unit name (32-byte field)
 roev20_10.04C8	ロクス	Rocus	speaker
-roev20_10.04DD	大丈夫ですか？　レイラ様。		text
+roev20_10.04DD	大丈夫ですか？　レイラ様。	Are you all right, Leyla-sama?	text
 roev20_10.0506	レイラ	Leyla	speaker
-roev20_10.051B	ロクス……		text
+roev20_10.051B	ロクス……	Rocus...	text
 roev20_10.0534	ロクス	Rocus	speaker
-roev20_10.0549	失礼。		text
+roev20_10.0549	失礼。	Excuse me.	text
 roev20_10.05BE	ロクス	Rocus	speaker
-roev20_10.05D3	あまり、無理をなさらない方がいいと{n}思いますよ。		text
+roev20_10.05D3	あまり、無理をなさらない方がいいと{n}思いますよ。	I think you'd better not push yourself so{n}hard.	text
 roev20_10.066A	レイラ	Leyla	speaker
-roev20_10.067F	……ありがとう、ロクス。{n}何度も迷惑をかけてしまいました。		text
+roev20_10.067F	……ありがとう、ロクス。{n}何度も迷惑をかけてしまいました。	...Thank you, Rocus. I've troubled you so{n}many times.	text
 roev20_10.06C8	ロクス	Rocus	speaker
-roev20_10.06DD	いいえ、いいのです。		text
-roev20_10.0700	ただ、美しいあなたが傷ついた姿を{n}これ以上みるのは忍びない。		text
-roev20_10.074B	その金色の髪に血の赤は似合いません。{n}どうかご自愛ください。		text
+roev20_10.06DD	いいえ、いいのです。	No, it's quite all right.	text
+roev20_10.0700	ただ、美しいあなたが傷ついた姿を{n}これ以上みるのは忍びない。	It's just that I can't bear to see a beauty{n}like you hurt any longer.	text
+roev20_10.074B	その金色の髪に血の赤は似合いません。{n}どうかご自愛ください。	Red blood doesn't suit that golden hair.{n}Please take care of yourself.	text

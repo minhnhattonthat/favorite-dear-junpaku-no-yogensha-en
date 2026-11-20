@@ -2,18 +2,18 @@ id	jp	en	notes
 roev20_04.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_04.00DE	クライヴ	Clive	unit name (32-byte field)
 roev20_04.04C8	クライヴ	Clive	speaker
-roev20_04.04DF	お前は……		text
+roev20_04.04DF	お前は……	You...	text
 roev20_04.04F8	ロクス	Rocus	speaker
-roev20_04.050D	また会ったな。		text
+roev20_04.050D	また会ったな。	We meet again.	text
 roev20_04.052A	クライヴ	Clive	speaker
-roev20_04.0541	人の手をわずらわせるつもりはない。		text
+roev20_04.0541	人の手をわずらわせるつもりはない。	I don't intend to trouble anyone.	text
 roev20_04.0572	ロクス	Rocus	speaker
-roev20_04.0587	天使に言われてきたんだ。{n}いつまでも動けない体でいてもしかたあるまい。		text
+roev20_04.0587	天使に言われてきたんだ。{n}いつまでも動けない体でいてもしかたあるまい。	The angel sent me. There's no point in lying{n}there unable to move forever.	text
 roev20_04.05DC	ロクス	Rocus	speaker
-roev20_04.05F1	強がるな。		text
+roev20_04.05F1	強がるな。	Don't act tough.	text
 roev20_04.0672	クライヴ	Clive	speaker
-roev20_04.0689	……すまん。		text
+roev20_04.0689	……すまん。	...Thanks.	text
 roev20_04.06E8	ロクス	Rocus	speaker
-roev20_04.06FD	まあ、プライドを守りたかったら{n}強くなることだ……		text
-roev20_04.073E	気持ちはわかるがな……。		text
-roev20_04.0765	じゃあな。		text
+roev20_04.06FD	まあ、プライドを守りたかったら{n}強くなることだ……	Well, if you want to protect your pride, get{n}stronger...	text
+roev20_04.073E	気持ちはわかるがな……。	I know how you feel, though...	text
+roev20_04.0765	じゃあな。	See you.	text

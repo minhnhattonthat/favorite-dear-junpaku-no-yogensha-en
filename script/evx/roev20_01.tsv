@@ -2,27 +2,27 @@ id	jp	en	notes
 roev20_01.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_01.00DE	フェイン	Fein	unit name (32-byte field)
 roev20_01.04C8	ロクス	Rocus	speaker
-roev20_01.04DD	天使の勇者らしいな……		text
+roev20_01.04DD	天使の勇者らしいな……	You must be one of the angel's heroes...	text
 roev20_01.0502	フェイン	Fein	speaker
 roev20_01.0519	だとしたらなんだ？	And what if we are?	text
 roev20_01.053A	ロクス	Rocus	speaker
-roev20_01.054F	そんな怖い顔でにらむな。{n}私も勇者の一人だ。		text
-roev20_01.058A	けがをしているのだろう。{n}僕が手当をしてもいい。		text
+roev20_01.054F	そんな怖い顔でにらむな。{n}私も勇者の一人だ。	Don't glare at me with such a scary face.{n}I'm one of the heroes too.	text
+roev20_01.058A	けがをしているのだろう。{n}僕が手当をしてもいい。	You're hurt, aren't you? I can treat you if{n}you like.	text
 roev20_01.05C9	フェイン	Fein	speaker
-roev20_01.05E0	……本当か？		text
+roev20_01.05E0	……本当か？	...Really?	text
 roev20_01.05FB	ロクス	Rocus	speaker
-roev20_01.0610	見てのとおりの僧侶だ。{n}人の困っている姿は捨て置くわけにはいかない。		text
+roev20_01.0610	見てのとおりの僧侶だ。{n}人の困っている姿は捨て置くわけにはいかない。	I'm a priest, as you can see. I can't just{n}leave someone in trouble.	text
 roev20_01.0663	フェイン	Fein	speaker
-roev20_01.067A	そうか……ならば頼む……。		text
+roev20_01.067A	そうか……ならば頼む……。	I see... Then please...	text
 roev20_01.0703	フェイン	Fein	speaker
-roev20_01.071A	この力は？		text
+roev20_01.071A	この力は？	This power...?	text
 roev20_01.0733	ロクス	Rocus	speaker
-roev20_01.0748	なに……別に大したもんじゃない。		text
+roev20_01.0748	なに……別に大したもんじゃない。	Oh... it's nothing special.	text
 roev20_01.07CF	フェイン	Fein	speaker
-roev20_01.07E6	ありがとう。{n}世話になった。		text
+roev20_01.07E6	ありがとう。{n}世話になった。	Thank you. I owe you.	text
 roev20_01.0811	ロクス	Rocus	speaker
-roev20_01.0826	礼はいい。{n}布施は天使に請求しておく。		text
+roev20_01.0826	礼はいい。{n}布施は天使に請求しておく。	No need for thanks. I'll send the angel the{n}bill for the offering.	text
 roev20_01.085B	フェイン	Fein	speaker
-roev20_01.0872	フフ……変わった男だな。		text
+roev20_01.0872	フフ……変わった男だな。	Heh... You're an odd one.	text
 roev20_01.0899	ロクス	Rocus	speaker
-roev20_01.08AE	よく言われるよ。{n}まあ、機会があればまた会おう。		text
+roev20_01.08AE	よく言われるよ。{n}まあ、機会があればまた会おう。	So I'm told. Well, if the chance comes,{n}we'll meet again.	text

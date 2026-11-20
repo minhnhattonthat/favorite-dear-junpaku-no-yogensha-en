@@ -5,16 +5,16 @@ loev20.00DE	クラレンス	Clarence	unit name (32-byte field)
 loev20.04A8	クラレンス	Clarence	speaker
 loev20.04C1	なんだお前は？	Who the hell are you?	text
 loev20.04DE	ルディエール	Rudiere	speaker
-loev20.04F9	盗んだもの返してもらうぜ、どろぼうさん。		text
+loev20.04F9	盗んだもの返してもらうぜ、どろぼうさん。	I'll be taking back what you stole, Mr.{n}Thief.	text
 loev20.0530	クラレンス	Clarence	speaker
-loev20.0549	人聞きが悪いな、{n}俺はこれをひとから譲り受けたんだぜ。		text
-loev20.058E	ま、相手にはだまってだけどな。		text
+loev20.0549	人聞きが悪いな、{n}俺はこれをひとから譲り受けたんだぜ。	Don't make it sound so bad. Somebody handed{n}this over to me.	text
+loev20.058E	ま、相手にはだまってだけどな。	Well, without telling them, but still.	text
 loev20.05FF	ルディエール	Rudiere	speaker
-loev20.061A	ばかなこと言ってないで、早く返せ！		text
+loev20.061A	ばかなこと言ってないで、早く返せ！	Quit talking nonsense and give it back!	text
 loev20.064B	クラレンス	Clarence	speaker
-loev20.0664	ふう、短気な兄ちゃんだな。{n}俺はそういう切れやすいやつは苦手だよ。		text
-loev20.06B5	わかった。どうせ頼まれごとなんだ……		text
-loev20.06E8	返すよ。		text
-loev20.0743	ただし天使様にだぜ。		text
-loev20.0766	いるんだろ？{n}天使様よ。		text
-loev20.078D	お前がほしがってんだろ。{n}ほんとは。		text
+loev20.0664	ふう、短気な兄ちゃんだな。{n}俺はそういう切れやすいやつは苦手だよ。	Whew, you're a hothead, pal. I can't stand{n}guys with short fuses.	text
+loev20.06B5	わかった。どうせ頼まれごとなんだ……	Fine. I was only doing a favor anyway...	text
+loev20.06E8	返すよ。	I'll give it back.	text
+loev20.0743	ただし天使様にだぜ。	But only to the angel.	text
+loev20.0766	いるんだろ？{n}天使様よ。	You're there, right, Angel?	text
+loev20.078D	お前がほしがってんだろ。{n}ほんとは。	You're the one who really wants it, aren't{n}you?	text

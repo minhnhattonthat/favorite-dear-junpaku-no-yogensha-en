@@ -4,8 +4,8 @@ roev14.00DE	イオン	Ion	unit name (32-byte field)
 roev14.011A	イオンの母	Ion's Mother	unit name (32-byte field)
 roev14.0156	ベッド	Bed	unit name (32-byte field)
 roev14.0518	ロクス	Rocus	speaker
-roev14.052D	＄＄＄＄＄＄、あそこにいる子供……。{n}聖母の森に現れた魔獣使いじゃないか？		text
-roev14.0586	気づいていないのか？{n}追おう、＄＄＄＄＄＄。		text
+roev14.052D	＄＄＄＄＄＄、あそこにいる子供……。{n}聖母の森に現れた魔獣使いじゃないか？	＄＄＄＄＄＄, that child over there... Isn't{n}that the beast tamer who appeared in the{n}Forest of the Holy Mother?	text
+roev14.0586	気づいていないのか？{n}追おう、＄＄＄＄＄＄。	He hasn't noticed us? Let's follow him,{n}＄＄＄＄＄＄.	text
 roev14.0695	イオン	Ion	speaker
 roev14.06AA	母さん、今帰ったよ。	Mom, I'm home.	text
 roev14.072D	イオン	Ion	speaker
@@ -14,19 +14,19 @@ roev14.0783	きっともうすぐ、あの人がやってきて{n}母さんを�
 roev14.07E4	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。	Because me and Stern and the others found{n}the stone she promised.	text
 roev14.083B	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。	You'll get well for sure... Don't worry...{n}Oh, right, you need water. I'll go get some.	text
 roev14.0938	ロクス	Rocus	speaker
-roev14.094D	石？{n}まさか、魔石か？		text
+roev14.094D	石？{n}まさか、魔石か？	A stone? Don't tell me... the Demon Stone?	text
 roev14.09C2	ロクス	Rocus	speaker
-roev14.09D7	これは……		text
-roev14.09F0	あの子は……{n}亡くなったお母さんと話していたのか？		text
+roev14.09D7	これは……	This is...	text
+roev14.09F0	あの子は……{n}亡くなったお母さんと話していたのか？	Was that boy... talking to his dead mother?	text
 roev14.0A65	イオン	Ion	speaker
-roev14.0A7A	お前！{n}母さんに近づくな！！		text
-roev14.0ACD	……魔石を取り戻しに来たな！		text
+roev14.0A7A	お前！{n}母さんに近づくな！！	You! Stay away from my mom!!	text
+roev14.0ACD	……魔石を取り戻しに来たな！	...You came to take back the Demon Stone!	text
 roev14.0B3C	イオン	Ion	speaker
-roev14.0B51	絶対返さないからな……{n}これがあれば、ぼくに力をくれた女の人が{n}母さんを元気にしてくれるんだ……。		text
+roev14.0B51	絶対返さないからな……{n}これがあれば、ぼくに力をくれた女の人が{n}母さんを元気にしてくれるんだ……。	I'll never give it back... With this, the{n}lady who gave me power will make my mom well{n}again...	text
 roev14.0BC2	ロクス	Rocus	speaker
-roev14.0BD7	……誰も死者をよみがえらすことなどできない。		text
-roev14.0C12	僕はどんな魔術師にも{n}それができないことを知ってる。		text
-roev14.0C55	君は信じられなくとも……{n}それが真実だ……		text
+roev14.0BD7	……誰も死者をよみがえらすことなどできない。	...No one can bring back the dead.	text
+roev14.0C12	僕はどんな魔術師にも{n}それができないことを知ってる。	I know that no sorcerer can do it.	text
+roev14.0C55	君は信じられなくとも……{n}それが真実だ……	Even if you can't believe it... that's the{n}truth...	text
 roev14.0C8E	イオン	Ion	speaker
-roev14.0CA3	う、うるさい！　ぼくの邪魔をするな！		text
+roev14.0CA3	う、うるさい！　ぼくの邪魔をするな！	Sh-shut up! Don't get in my way!	text
 roev14.0CD6	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！	Sonne! Mond! Stern! Get her!	text

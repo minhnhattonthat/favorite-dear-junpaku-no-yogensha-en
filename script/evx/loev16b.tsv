@@ -1,20 +1,20 @@
 id	jp	en	notes
-loev16b.0002	兄弟戦闘（勝利後）		dev label (guess: not shown)
+loev16b.0002	兄弟戦闘（勝利後）	Sibling Battle (Won)	dev label (guess: not shown)
 loev16b.00A2	サヴィア	Savia	unit name (32-byte field)
 loev16b.00DE	ルディ	Rudi	unit name (32-byte field)
 loev16b.04A8	ルディエール	Rudiere	speaker
-loev16b.04C3	サヴィア！！		text
+loev16b.04C3	サヴィア！！	Savia!!	text
 loev16b.04EE	サヴィア	Savia	speaker
-loev16b.0505	……サヴィオは？		text
+loev16b.0505	……サヴィオは？	...Where's Savio?	text
 loev16b.0534	ルディエール	Rudiere	speaker
-loev16b.054F	鎧に……取り込まれて……{n}しかたなかった……		text
+loev16b.054F	鎧に……取り込まれて……{n}しかたなかった……	The armor... swallowed him... I had no{n}choice...	text
 loev16b.059A	サヴィア	Savia	speaker
-loev16b.05B1	……そう、可哀想なサヴィオ……{n}でももう、終わったのね……。		text
+loev16b.05B1	……そう、可哀想なサヴィオ……{n}でももう、終わったのね……。	...I see. Poor Savio... But it's over now,{n}isn't it...	text
 loev16b.060C	ルディエール	Rudiere	speaker
-loev16b.0627	すまない……		text
+loev16b.0627	すまない……	I'm sorry...	text
 loev16b.0652	サヴィア	Savia	speaker
-loev16b.0669	いいの……もう……		text
-loev16b.069A	ルディ…ありがとう……{n}あなたに出会えてうれしかった……		text
-loev16b.06F1	さよなら……		text
+loev16b.0669	いいの……もう……	It's all right... now...	text
+loev16b.069A	ルディ…ありがとう……{n}あなたに出会えてうれしかった……	Rudi... thank you... I'm glad I got to meet{n}you...	text
+loev16b.06F1	さよなら……	Goodbye...	text
 loev16b.071C	ルディエール	Rudiere	speaker
-loev16b.0737	サヴィア！！		text
+loev16b.0737	サヴィア！！	Savia!!	text

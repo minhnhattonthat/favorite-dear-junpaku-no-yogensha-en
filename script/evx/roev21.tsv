@@ -11,10 +11,10 @@ roev21.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 roev21.04E8	セレニス	Serenis	speaker
 roev21.04FF	フフフ、{n}よく来たわね。天使の勇者。	Heh heh heh, welcome, hero of the angel.	text
 roev21.0532	ロクス	Rocus	speaker
-roev21.0547	帝国の魔女……。{n}ここでお前を止めなければならない。		text
-roev21.058A	元凶がお前だと言うことは{n}わかっているんだ。		text
+roev21.0547	帝国の魔女……。{n}ここでお前を止めなければならない。	The Empire's witch... I have to stop you{n}here.	text
+roev21.058A	元凶がお前だと言うことは{n}わかっているんだ。	I know you're the root of all this.	text
 roev21.05C5	セレニス	Serenis	speaker
-roev21.05DC	ハハハ、あなた達に私を止めることなど{n}できないわ。		text
+roev21.05DC	ハハハ、あなた達に私を止めることなど{n}できないわ。	Hahaha, you can't stop me.	text
 roev21.0691	セレニス	Serenis	speaker
 roev21.06A8	そこでじっとしていなさい。{n}天使の勇者よ。	Stay right there, hero of the angel.	text
 roev21.06E1	偉大な力がよみがえるのを見せてあげるわ。	I'll show you a great power reborn.	text

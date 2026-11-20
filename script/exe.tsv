@@ -476,14 +476,14 @@ SLPS.80021894	リリィ	Lily	ptrx1
 SLPS.8002189C	シェリー	Shelly	ptrx1
 SLPS.800218A8	フロリンダ	Florinda	ptrx1
 SLPS.800218B4	ローザ	Rosa	ptrx1
-SLPS.800218BC	ラビエル		luix1
+SLPS.800218BC	ラビエル	Raviel	luix1
 SLPS.80021B9C	FontEntryBuf() ～ Font Manager Buffer Locate Error...{0A}		luix1
 SLPS.80021BD4	FontEntryBuf() ～ UnKnown Code...{0A}		luix2
 SLPS.80021BF8	FontEntryBuf() ～ Font Data Transer VRAM Error...{0A}		luix1
 SLPS.80021C80	・・・・・		luix1
 SLPS.80021C8C	＄＄＄＄＄＄	＄＄＄＄＄＄	luix1
-SLPS.8008CCA8	いいえ		ptrx1
-SLPS.8008CCB0	はい		ptrx1
+SLPS.8008CCA8	いいえ	No	ptrx1
+SLPS.8008CCB0	はい	Yes	ptrx1
 SLPS.8008CCB8	スロット２		ptrx1
 SLPS.8008CCC4	スロット１		ptrx1
 SLPS.8008CCD0	ロード		ptrx1
