@@ -1,0 +1,35 @@
+scene	kind	arg	host	after	frames	card	post	proof	note
+title	title			hold	7300				title menu (NEW GAME / LOAD GAME / OPTION)
+title_load	title			hold	9000		6 down;45 -;6 circle;900 -		LOAD GAME: memory-card screen
+title_option	title			hold	9000		6 down;45 -;6 down;45 -;6 circle;900 -		OPTION screen
+name_entry	title			hold	8200		6 circle;600 -;6 circle;120 -		New Game: name entry, kana grid open
+prologue	event	prologue.ssb		mash	12000				opening event (Raphael), as New Game plays it
+map	event	TheEnd.ssb		hold	14000		2400 -		world map (hub) after a one-op event that returns to the map
+map_menu	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -		map command menu: 勇者 / 妖精 / ステータス / 天界へ
+map_fairy	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 circle;120 -		map menu -> 妖精: fairy list
+map_status	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 circle;120 -		map menu -> ステータス submenu
+map_status_fairy	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 circle;120 -;6 circle;120 -;6 circle;200 -		fairy status sheet (Rosa)
+map_heaven	event	TheEnd.ssb		hold	14000		2400 -;6 start;90 -;6 down;45 -;6 down;45 -;6 circle;300 -		map menu -> 天界へ (to Heaven)
+tutorial	event	alkaya.ssb		mash	16000				fairy's map tutorial (largest script)
+heaven	event	tenkai.ssb		mash	16000				天界 event (Raphael, garden)
+exam	event	exam_01.ssb		mash	14000				exam_01: the owl examiner
+demo_menu	event	taiken00.ssb		mash	14000				TGS demo (taiken00): demo menu loop
+visit	event	visit_01.ssb		mash	14000				visit_01
+maseki	event	maseki.ssb		mash	14000				maseki
+year1	event	Y01ev_01.ssb		mash	14000				Y01ev_01 (yearly event)
+ev_cecia	event	ceev01_01.ssb		mash	14000				Cecia route: first event
+ev_claire	event	clev01_01.ssb		mash	14000				cl route: first event
+ev_lo	event	loev01_01.ssb		mash	14000				lo route: first event
+ev_ro	event	roev01_01.ssb		mash	14000				ro route: first event
+ev_ei	event	eiev01_01.ssb		mash	14000				ei route: first event
+ev_la	event	laev01_01.ssb		mash	14000				la route: first event
+ev_fe	event	Feev01_01.ssb		mash	14000				Fe route: first event
+end_cecia	event	ceed01.ssb		mash	20000				Cecia ending: event, .end narration, Fin, clear-data save
+end_cl	event	cled01.ssb		mash	20000				cl ending
+end_lo	event	loed01.ssb		mash	20000				lo ending
+end_ro	event	roed01.ssb		mash	20000				ro ending
+end_ei	event	eied01.ssb		mash	20000				ei ending
+end_la	event	laed01.ssb		mash	20000				la ending
+end_fe	event	Feed01.ssb		mash	20000				Fe ending
+end_raphael	event	Raph_end.ssb		mash	20000				Raphael (angel) ending: narration, Fin
+tgs_end	event	TGS_END.ssb		mash	14000				TGS demo end

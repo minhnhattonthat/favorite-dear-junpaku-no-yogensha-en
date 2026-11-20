@@ -2,31 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 2. Debug tool: not started (phase 1 recon done 2026-11-20). No build yet.
+- **Phase:** 2. Debug tool in progress: event warp works; battle, game over, credits, album, キャラ劇 not reached yet.
 - **Done (2026-11-20):**
-  - Step 0: rom.sha1 pinned, `tools/check.py` + pre-commit hook (a failing test blocks a commit: verified), guard hook
-    in `.claude/settings.json` (canary blocked: verified), `tools/skill.py`, tools copied from `../favorite-dear-en`
-    (PCSX-Redux, BIOS, mkpsxiso, armips, xdelta; gitignored), boot route `tools/routes/boot.txt` (title menu at ~f6600;
-    the original boots, smoke ok, scripted input works). Keyboard input: same PCSX-Redux build and settings as the
-    sibling project, not separately tested.
-  - Phase 1 recon (`docs/re/`, index in `docs/re/README.md`): disc = EXE + 4 `+LKF` archives opened by file name,
-    entries by index; text is plain Shift-JIS (MSG banks, inline ssb, EVX, .end, EXE/overlay strings); text-bearing
-    files listed with volumes (`text.md`); EXE strings all reached by u32 pointer arrays (467) or lui/addiu (52);
-    overlays load at 0x8009b4b0 (op.bin tables, rfd2/ed lui; pro.bin only 16/70 found); font FD2Font.FPK carries an
-    SJIS character list; graphics survey complete for the static sweep: rows G1-G15 in `graphics.md` (title logo,
-    status tags, skill banners, 88 name plates `Name_NNN.PIX`, album profile atlas, キャラ劇 card, glyph strips,
-    DEMO/ENDING FMV captions and the Japanese staff roll). No earlier patch or tools exist (web search).
-- **Next (phase 2, debug tool):** `tools/debug/warp.py <scene>` + `tools/debug/scenes.tsv`: reach any ssb event,
-  menu, battle, ending and the credits from a cold boot, each with a proof shot, no user save. Start points:
-  - find the ssb loader/interpreter (event index = SSB_DATA entry index; `events.md`) and the story-flag/day
-    variables in RAM (`$SKILL/scripts/ramsearch.py`, Lua `watch.lua`), then warp by writing the next-event id or by
-    patching the loader in RAM via Lua;
-  - New Game needs the name entry: Start->END, and the "これでいいですか？" confirm defaults to No;
-  - scene list must include one entry per character route, each ending (`*.end`, ENDING.STR), the album
-    (GRPDATA_1454), キャラ劇, a battle with name plates, game over, the option and memory-card screens.
-  - `save.py` (memory-card save editor) only if the warp can't cover something.
-  Phase 3 then: identity build (mkpsxiso from `work/disc/layout.xml`), plus the LKF grow-one-entry boot test
-  (`space.md`).
+  - Step 0 and phase 1 recon (see git history; `docs/re/README.md`).
+  - Phase 2 (part): `tools/debug/warp.py` + `warp.lua` + `scenes.tsv` (how it works: `docs/re/debug.md`). Cold boot
+    -> New Game -> any `.ssb` event in place of `prologue.ssb`, by patching the prologue's record in the game's
+    by-name LKF directory in RAM (the CD read uses the BCD MSF at record +0x25). ~30 s per warp. Every run gets a
+    fresh copy of `tools/debug/cards/fd1_clear.mcd` (first-game clear data, which New Game asks to import).
+    Scenes reached with a proof shot (`work/qa/warp/<scene>/`, contact sheet of the menus: `work/qa/warp/proof_menus.png`):
+    title, title_load, title_option, name_entry, prologue, map, map_menu, map_fairy, map_status, map_status_fairy,
+    map_heaven, tutorial, heaven, exam, demo_menu, visit, maseki, year1, ev_cecia, ev_claire, ev_lo, ev_ro, ev_ei,
+    ev_la, ev_fe (arrived; proof shot missing because the run was cut), end_cecia (arrived; ceed01 seen earlier in
+    full: event, .end narration, Fin, clear-data save). `tests/test_debug.py` checks scenes.tsv.
+  - Also learned: the game takes every LKF entry's disc position from the archive header at boot (good for phase 3);
+    overlays at 0x8009B4B0: pro.bin = title + name entry, rfd2.bin = events + map, Battle.bin, ed.bin.
+- **Next (phase 2, to finish):**
+  - Re-run the rows not yet proven: `python -X utf8 tools/debug/warp.py ev_fe end_cecia end_cl end_lo end_ro end_ei end_la end_fe end_raphael tgs_end -j 2`
+    (the last `--all -j 4` was stopped by the OS reaper for low memory; use -j 2).
+  - Battle with name plates (`kind swap` on an EVX is ready once one battle is reachable), game over, credits
+    (ENDING.STR staff roll: no `*ed01.ssb` nor `Raph_end.ssb` plays it), album, キャラ劇 (try OPTION -> OMAKE),
+    memory-card save/load screens in game. Leads in `docs/re/debug.md` §Not reached yet.
+  - Then `--all --state` to build `work/states/`, and phase 3 (identity build + LKF grow-one-entry boot test).
 - **Open bugs:** none (no build).
 - **Waiting on the user:** nothing. Non-blocking, for phase 8: the FMV captions and the Japanese staff roll in
   DEMO.STR/ENDING.STR (D3 says credits in English): re-encode the MDEC video or overlay subtitles; default plan is to
