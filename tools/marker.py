@@ -98,6 +98,9 @@ def ruler_char(p):
     return str(p // 10 % 10) if p % 10 == 0 else ":" if p % 5 == 0 else "."
 
 
+RULER_MIN = 0     # build.py --ruler-min N: every line with text is at least N letters
+
+
 def ruler_text(lab, jp, scale=3):
     """Width-gate build (build.py --ruler): each Japanese character becomes `scale` letters (3 = 1.5 cells) of a
     position ruler that restarts at every line break, so the clip column of each box variant reads off the screen;
@@ -105,10 +108,20 @@ def ruler_text(lab, jp, scale=3):
     if marker_text(lab, jp) is None:
         return None
     out, p, first = [], 0, True
+
+    def pad():
+        # RULER_MIN (build.py --ruler-min): stretch every line that has text to at least that many letters
+        nonlocal p
+        if 0 < p < RULER_MIN:
+            s = "".join(ruler_char(q) for q in range(p + 1, RULER_MIN + 1))
+            p = RULER_MIN
+            out.append(s + (" " if len(s) % 2 else ""))
     for part in font_en.FMT.split(jp):
         if not part:
             continue
         if font_en.FMT.fullmatch(part):
+            if part in LINE_TAGS or "clear" in part or "wait" in part:
+                pad()
             out.append(part)
             if part in LINE_TAGS or "clear" in part:
                 p = 0
@@ -128,6 +141,8 @@ def ruler_text(lab, jp, scale=3):
             first = False
         letters = sum(1 for c in s if c not in KEEP)
         out.append(s + (" " if letters % 2 else ""))
+        p += letters % 2                     # the pad space takes a position too
+    pad()
     return "".join(out)
 
 

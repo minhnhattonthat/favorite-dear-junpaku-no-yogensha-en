@@ -2,19 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build in progress (font done; marker build reaches 64/66 scenes; width gate
-  partly measured).
-- **Phase 5 so far (2026-11-21):** pair-glyph English font in the EXE (commit 498b584, `text.md` §English font).
-  `build.py --marker` (same-length markers) boots and reached 64 of 66 warp scenes (`work/qa/p5/marker/<scene>/`;
-  not run: `game_over`, `game_over2`, stopped by the OS for low memory). Labels starting with `O` are base-36
-  indices >= 864, not zero. Width gate so far: `text.md` §Width gate (dialogue, system box, map/heaven/choice
-  buttons). New `build.py --ruler` (`build/fd2_ruler.cue`, built): growable rows get 1.5x width as a position ruler
-  (`....:....1....:....2`) so each box's clip column reads off a shot. Debug printfs excluded; `%s` kept raw.
-- **Next for phase 5:** run `game_over game_over2` on the marker build; run the event, battle and ending scenes on
-  the ruler build (`warp.py <scenes> --cue C:/.../build/fd2_ruler.cue -j 1 --out-dir work/qa/p5/ruler`, in batches
-  of ~10: a 41-scene batch was killed for low memory while another project's emulator ran) and fill the rest of the
-  width gate (name tag, visit MSG, battle messages, .end, exam/quiz). Name entry: kana grid (G6) has A-Z a-z on the
-  keyboard font; decide the Latin page in phase 8.
+- **Phase:** 6. Translate (phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase 5 result:** width gate complete in `docs/re/text.md` §Width gate: dialogue / MSG / exam / battle boxes 44
+  letters per line (3 lines; battle 2; last line 43 for the page gem), name tags 12 letters, .end narration 42,
+  menu buttons ~12-14, help bar ~40. Glyph torture line renders all 84 glyphs (`work/qa/p5/torture/zoom.png`).
+  Marker build reached all 66 scenes (game_over/game_over2 added). New `build.py --ruler-min N` stretches every
+  line to N letters for clip tests. Non-text rows excluded: debug printfs, memory-card titles, printf `%s`.
+- **Next (phase 6):** translate in batches with the plugin's translator agents (no nested workers under Orca: do
+  it yourself in batches), glossary from `../favorite-dear-en`. Budgets above; BTL_EVT banks have a 64 KB cap
+  (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
+  Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**
   - Step 0, phases 1-3 (see git history; `docs/re/README.md`, `docs/re/debug.md`, `docs/re/disc.md`): 66 warp scenes
     from cold boots, `save.py`, 40 states in `work/states/`; identity build byte-identical as a test; grown LKF
@@ -25,10 +22,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Dummy00.DAT, EXE + overlay strings with their pointer/lui sites (pro.bin quiz = fixed tables). `tests/test_text.py`:
     rows and files round-trip, coverage (every SJIS run inside a row), script/ in sync, ssb/EVX grow tests.
     `tools/insert.py` turns `en` columns into the build's changes; default build = original sha1 (0 rows translated).
-- **Next (phase 5, marker build):** font/VWF decision (FD2Font.FPK char list, `text.md` §Fonts; does the printer draw
-  ASCII?), then a marker build: every row's `en` = `[id]`-style marker (write it to a scratch language column or
-  pass texts to `insert.changes` directly, don't fill `en`), boot and warp through scenes, find non-text "strings",
-  and measure every box variant's width in game (width gate). Open items found in phase 4:
+- **Open items from phase 4 (still open):**
   - ssb name rows: op 0x19 counts characters; `ssb.build` asserts an even byte count. Decide how ASCII names count.
   - EVX growth only re-parse-tested; boot-test a grown EVX battle (warp `battle_*`).
   - EXE/overlay strings are replaced in place only (`codetext.replace_in_place`); relocation for longer English is

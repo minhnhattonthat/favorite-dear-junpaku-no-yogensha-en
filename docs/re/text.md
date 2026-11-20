@@ -54,8 +54,17 @@ known**: test in phase 5.
 | Heaven menu / choice buttons (データ, 休　息, セーブ / ロード) | ~14 letters (frame ~92-96 px, centred) | `map_heaven`, `heaven_data`, `load_save` final.png; clip not yet seen |
 | Heaven help bar (rfd2.8009D084) | to the screen edge, ~40 letters (bar from x 64) | `map_heaven/final.png`; whether the bar sizes to the text: unknown |
 
-Still to measure (ruler build, `build.py --ruler` -> `build/fd2_ruler.cue`, run the event, battle and ending scenes
-on it): name tag, MSG conversation (visit), battle messages (BTL_EVT, EVX), .end narration, exam/quiz, status window.
+| MSG conversation (visit), event scripts (ev_cecia, end_cecia, tutorial), exam | 44 letters, 3 lines (same box) | `build.py --ruler --ruler-min 60` (every line >= 60 letters) -> `work/qa/p5/r60/sheet_all.png`: clip after letter 44-45 in every one |
+| Battle message box (BTL_EVT) | 44 letters, 2 lines | `--qa BTL_EVT0.01E9=<60-letter ruler>{n}<ruler>` -> `work/qa/p5/tags/` (battle): clip after 44 |
+| Name tag (event speaker, battle speaker) | **12 letters** (13th touches the frame, 14th clipped; a 20-letter event tag drew nothing at all) | `--qa ceev01_01.006E=ABCDEFGHIJKLMN`, `BTL_EVT0.01E0S=...`: `work/qa/p5/tags/sheet_all.png` |
+| .end narration (full screen, 15 lines) | 42 letters per line (the Japanese maximum, 21 chars, draws in full from x 35 to 284) | `work/qa/p5/r60m/end_cecia/f014880.png`: a 60-letter line wraps back over the start of its own line, so > 42 corrupts |
+| Status windows (angel / hero) | labels are English graphics in the original; only the player name is text | `work/qa/p5/marker/heaven_status_angel/final.png` |
+| Glyph torture line (all 84 glyphs + double spaces) | renders correctly, no missing glyph | `build.py --stem torture --qa prologue.03E6=...` -> `work/qa/p5/torture/zoom.png` |
+
+Limits for phase 7: BTL_EVT banks pass 64 KB (16-bit offsets) when every line grows to 60 letters, so battle text
+growth is bounded per bank (largest JP bank now ~27 KB in T_Msg; check BTL_EVT sizes in the fit lint). EvName records
+hold 22 bytes = 22 letters. The prologue quiz (pro.bin fixed 0x8C/0x30 records) and EXE/overlay strings are
+same-length until relocation (phase 7).
 Non-text rows excluded from marker builds: the debug printfs `FontEntryBuf() ～ ...`, `BraveChgStat() ～ ...`
 (TTY only) and the memory-card titles. printf `%s` (4 rfd2 rows) stays raw ASCII (`font_en.FMT`).
 - EXE 0x5e9d9 and 0x5efe9: two more SJIS character lists (`：ゞ‥《≠￠□ ５ＤＳｂｑあけだはまろ ェザヅフャヲΓΣβρ ...`,
