@@ -7,27 +7,27 @@ feev02_03.0156	モブ２	Mob 2	unit name (32-byte field)
 feev02_03.0192	椅子１	Chair 1	unit name (32-byte field)
 feev02_03.01CE	椅子２	Chair 2	unit name (32-byte field)
 feev02_03.04D8	グレザ	Greza	speaker
-feev02_03.04ED	フェイン……じゃな。	Fein... is it.	text
+feev02_03.04ED	フェイン……じゃな。	Ah... Fein, is it.	text
 feev02_03.0510	フェイン	Fein	speaker
 feev02_03.0527	はい、マスター・グレザ。	Yes, Master Greza.	text
 feev02_03.054E	グレザ	Greza	speaker
-feev02_03.0563	よく来た……と言いたいところじゃが、{n}あまりゆっくり話はできん。{n}ワシは今からグランドロッジに向かう。	I'd like to say welcome... but we can't talk{n}long. I'm leaving for the Grand Lodge now.	text
+feev02_03.0563	よく来た……と言いたいところじゃが、{n}あまりゆっくり話はできん。{n}ワシは今からグランドロッジに向かう。	I'd like to bid you welcome, lad... but{n}there's no time for a long talk. I'm off to{n}the Grand Lodge this very moment.	text
 feev02_03.05D8	フェイン	Fein	speaker
 feev02_03.05EF	グランドロッジへですか？{n}どうして？	For the Grand Lodge? Why?	text
 feev02_03.0622	グレザ	Greza	speaker
-feev02_03.0637	恐ろしい予言が出たのじゃ……。{n}すぐにグランド・マスターに報告せねば……。	A terrible prophecy has appeared... I must{n}report it to the Grand Master at once...	text
+feev02_03.0637	恐ろしい予言が出たのじゃ……。{n}すぐにグランド・マスターに報告せねば……。	A dreadful prophecy has come forth... I must{n}report it to the Grand Master at once...	text
 feev02_03.0690	フェイン	Fein	speaker
 feev02_03.06A7	マスター・グレザ、その予言とはいったい？	Master Greza, what is this prophecy?	text
 feev02_03.06DE	グレザ	Greza	speaker
 feev02_03.06F3	千年の時を越えて{n}あの伝説がよみがえるかもしれん……。	That legend may rise again across a thousand{n}years...	text
-feev02_03.0738	これだけで、お前にもわかるじゃろう……。{n}どんなことが起きるのか……。	That alone should tell you... what sort of{n}thing is coming...	text
+feev02_03.0738	これだけで、お前にもわかるじゃろう……。{n}どんなことが起きるのか……。	That much alone ought to tell you, eh...{n}what manner of thing is coming...	text
 feev02_03.078D	フェイン	Fein	speaker
 feev02_03.07A4	まさか……。	It can't be...	text
 feev02_03.07BF	グレザ	Greza	speaker
-feev02_03.07D4	いや……そのまさかだが、{n}ワシの予言はたしかにそれを示している。	No... it can, and my prophecy clearly points{n}to it.	text
+feev02_03.07D4	いや……そのまさかだが、{n}ワシの予言はたしかにそれを示している。	Aye... it's just what you fear. My prophecy{n}shows it plain as day.	text
 feev02_03.0823	急がねばならん……。	I must hurry...	text
-feev02_03.0846	ワシはここには二度ともどらん。{n}グランドマスターへ報告をしたら、南に逃げる。	I won't be coming back here. Once I've{n}reported to the Grand Master, I'm fleeing{n}south.	text
+feev02_03.0846	ワシはここには二度ともどらん。{n}グランドマスターへ報告をしたら、南に逃げる。	I'll not be coming back here. Once I've told{n}the Grand Master, I'm off to the south.	text
 feev02_03.08D1	グレザ	Greza	speaker
-feev02_03.08E6	生きていたらまた会おう、フェイン。	If we're still alive, we'll meet again,{n}Fein.	text
+feev02_03.08E6	生きていたらまた会おう、フェイン。	If we both live through this, we'll meet{n}again, Fein.	text
 feev02_03.0977	フェイン	Fein	speaker
 feev02_03.098E	予言……。	A prophecy...	text

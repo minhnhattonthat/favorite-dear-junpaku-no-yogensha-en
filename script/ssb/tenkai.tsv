@@ -6,15 +6,15 @@ tenkai.008C	私では悲劇を止められない……。{n}天使の使命と�
 tenkai.00DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 tenkai.00EE	私では悲劇を止められない……。{n}天使の使命とは、いったいなに……！？{wait}{clear}	I can't stop the tragedy... What is an{n}angel's mission, then...?!{wait}{clear}	
 tenkai.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.015A	ラファエル様！　ラファエル様っ！！！{wait}{clear}	Lord Raphael! Lord Raphael!!!{wait}{clear}	
+tenkai.015A	ラファエル様！　ラファエル様っ！！！{wait}{clear}	Raphael-sama! Raphael-sama!!!{wait}{clear}	
 tenkai.0194	ラファエル	Raphael	speaker
 tenkai.01A2	＄＄＄＄＄＄、{n}そんなに慌てて、どうしたのですか？{n}{wait}{clear}	＄＄＄＄＄＄, what's the matter, in such a{n}hurry?{n}{wait}{clear}	
 tenkai.01E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.01F2	ラファエル様……{n}勇者クライヴが死にました……。{n}{wait}{clear}彼は、自分の中の吸血鬼の血の誘惑に{n}ずっと耐えていたのです……。{n}{wait}{clear}それなのに……彼はその血に負け、{n}他の勇者の手によって、倒されました。{n}私の言葉も、まったく届くことなく……。{wait}{clear}	Lord Raphael... The hero Clive has died...{n}{wait}{clear}He had long resisted the lure of the vampire{n}blood within him...{n}{wait}{clear}And yet... he gave in to that blood, and was{n}struck down by another hero. My words never{n}reached him at all...{wait}{clear}	
+tenkai.01F2	ラファエル様……{n}勇者クライヴが死にました……。{n}{wait}{clear}彼は、自分の中の吸血鬼の血の誘惑に{n}ずっと耐えていたのです……。{n}{wait}{clear}それなのに……彼はその血に負け、{n}他の勇者の手によって、倒されました。{n}私の言葉も、まったく届くことなく……。{wait}{clear}	Raphael-sama... The hero Clive has died...{n}{wait}{clear}He had long resisted the lure of the vampire{n}blood within him...{n}{wait}{clear}And yet... he gave in to that blood, and was{n}struck down by another hero. My words never{n}reached him at all...{wait}{clear}	
 tenkai.02E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.02F4	ラファエル様……{n}勇者フェインが死にました……。{n}{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}	Lord Raphael... The hero Fein has died...{n}{wait}{clear}To save his wife, whose soul was taken by a{n}devil because of a spell he cast, and to{n}atone for his sin...{wait}{clear}	
+tenkai.02F4	ラファエル様……{n}勇者フェインが死にました……。{n}{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}	Raphael-sama... The hero Fein has died...{n}{wait}{clear}To save his wife, whose soul was taken by a{n}devil because of a spell he cast, and to{n}atone for his sin...{wait}{clear}	
 tenkai.0384	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.0394	私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}	I couldn't save him... because my own power{n}wasn't enough.{wait}{clear}But, Lord Raphael, I don't understand{n}anymore.{wait}{clear}Is it really right for angels to force{n}humans to fight, the way I'm doing now?{wait}{clear}	
+tenkai.0394	私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}	I couldn't save him... because my own power{n}wasn't enough.{wait}{clear}But, Raphael-sama, I don't understand{n}anymore.{wait}{clear}Is it really right for angels to force{n}humans to fight, the way I'm doing now?{wait}{clear}	
 tenkai.048A	ラファエル	Raphael	speaker
 tenkai.0498	…………。{wait}{clear}……＄＄＄＄＄＄……私についてきなさい。{wait}{clear}	......{wait}{clear}...＄＄＄＄＄＄... come with me.{wait}{clear}	
 tenkai.04D8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -26,11 +26,11 @@ tenkai.0562	誰かを探していらっしゃるのですか？{wait}{clear}	Are
 tenkai.0588	ラファエル	Raphael	speaker
 tenkai.0596	ミカエルに会えればと思って、{n}ここへ来てみたのですが……残念です……。{wait}{clear}	I came here hoping to see Michael... It's a{n}pity...{wait}{clear}	
 tenkai.05FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.060A	ミカエル様ですか？{wait}{clear}	Lord Michael?{wait}{clear}	
+tenkai.060A	ミカエル様ですか？{wait}{clear}	Michael-sama?{wait}{clear}	
 tenkai.0620	ラファエル	Raphael	speaker
 tenkai.062E	ええ。{wait}{clear}	Of course.{wait}{clear}	
 tenkai.0644	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.0654	ミカエル様とは、一度、お会いしたことがあります。{wait}{clear}	I've met Lord Michael once.{wait}{clear}	
+tenkai.0654	ミカエル様とは、一度、お会いしたことがあります。{wait}{clear}	I've met Michael-sama once.{wait}{clear}	
 tenkai.0688	ラファエル	Raphael	speaker
 tenkai.0696	では、彼はあなたに堕天使たちのことを{n}話してくれませんでしたか？{wait}{clear}	Then did he not tell you about the fallen{n}angels?{wait}{clear}	
 tenkai.06DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -44,11 +44,11 @@ tenkai.07F0	…………。{wait}{clear}	.........{wait}{clear}
 tenkai.07FE	ラファエル	Raphael	speaker
 tenkai.080C	＄＄＄＄＄＄、このバラを見なさい。{wait}{clear}ミカエルは、大天使の長として、{n}天使たちを堕天使との戦いへと導きました。{wait}{clear}しかし、天使たちの多くは、{n}戦いの中で力つきていったのです……。{wait}{clear}魂だけの存在である天使の死は、本当の消滅です。{wait}{clear}ミカエルが自分とともに戦い、{n}死んでいった者を想って植えたのが{n}このバラなのです。{wait}{clear}	＄＄＄＄＄＄, look at these roses.{wait}{clear}As chief of the archangels, Michael led the{n}angels into battle against the fallen{n}angels.{wait}{clear}But many of the angels were spent in that{n}battle...{wait}{clear}For an angel, a being of soul alone, death{n}is true oblivion.{wait}{clear}Michael planted these roses in memory of{n}those who fought beside him and died.{wait}{clear}	
 tenkai.094A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.095A	ミカエル様が、そんなことを……。{wait}{clear}	Lord Michael did that...{wait}{clear}	
+tenkai.095A	ミカエル様が、そんなことを……。{wait}{clear}	Michael-sama did that...{wait}{clear}	
 tenkai.097E	ラファエル	Raphael	speaker
 tenkai.098C	きびしく激しいミカエルでさえ、そうなのですから、{n}私たちが迷い、悩み、苦しむのは、{n}当然なのかもしれません。{wait}{clear}そして、あなたのように地上界にいれば、{n}なおさらのことでしょう……。{wait}{clear}あなたが、人を救えなかったことを悔やむ気持ちは{n}よくわかります。{wait}{clear}一度でも地上界を守護した天使なら、{n}誰でも感じる想いです。{wait}{clear}ただ、私たちがいくら彼らに道を示したとしても{n}彼ら自身に未来を切り開こうとする意志がない限り、{n}運命は彼らを飲み込んでしまうのです。{wait}{clear}	If even stern, fierce Michael feels this{n}way, perhaps it is only natural that we{n}waver, worry and suffer.{wait}{clear}All the more so in the world below, as you{n}are...{wait}{clear}I understand very well your regret at{n}failing to save someone.{wait}{clear}Any angel who has ever protected the world{n}below has felt it.{wait}{clear}But however we show them the way, unless{n}they themselves have the will to carve out{n}their future, fate will swallow them.{wait}{clear}	
 tenkai.0B4E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.0B5E	ラファエル様……{n}運命を変える力を人が持っていることはわかります。{wait}{clear}ですが、それでも私には{n}彼らを救う力がなかったとしか……思えません。{wait}{clear}	Lord Raphael... I know that people have the{n}power to change fate.{wait}{clear}But even so, I can't help thinking... that I{n}simply lacked the power to save them.{wait}{clear}	
+tenkai.0B5E	ラファエル様……{n}運命を変える力を人が持っていることはわかります。{wait}{clear}ですが、それでも私には{n}彼らを救う力がなかったとしか……思えません。{wait}{clear}	Raphael-sama... I know that people have the{n}power to change fate.{wait}{clear}But even so, I can't help thinking... that I{n}simply lacked the power to save them.{wait}{clear}	
 tenkai.0BEC	ラファエル	Raphael	speaker
 tenkai.0BFA	＄＄＄＄＄＄、あなたの悲しみはわかります。{n}自分を責める気持ちも、とてもわかります。{wait}{clear}ですが、あなたの悲しみが続くように、{n}残された者たちの悲しみも続くのですよ。{n}その気持ちを救ってあげられるは、誰なのですか？{wait}{clear}	＄＄＄＄＄＄, I understand your sorrow. I{n}understand all too well how you blame{n}yourself.{wait}{clear}But just as your sorrow goes on, so does the{n}sorrow of those left behind. Who can comfort{n}their hearts?{wait}{clear}	
 tenkai.0CD2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -66,7 +66,7 @@ tenkai.0F60	あっ……！{n}まさか……そんな……{wait}{clear}	Ah...!
 tenkai.0FAA	ラファエル	Raphael	speaker
 tenkai.0FB8	私たちも、堕天使も、{n}なにを成すべきかわかっているのです。{n}そのために人が必要であることも……。{wait}{clear}そして、人自身の立場も役割も……。{wait}{clear}ただ、堕天使には、{n}私たちのような葛藤はないのです。{n}あるのは、ただ、欲望のみです。{wait}{clear}無限の力、支配と混沌を欲し、{n}すべてのものをむさぼるためだけの欲望……。{wait}{clear}悲しみや、憎しみは、欲望につながっていきます。{n}しかし、その誘惑に負けてはなりません。{n}私たちも、そして、人も……。{wait}{clear}	We know what we must do, and so do the{n}fallen angels. We know, too, that humans are{n}needed for it...{wait}{clear}And we know the place and the role of humans{n}themselves...{wait}{clear}But the fallen angels feel none of the{n}conflict we feel. All they have is desire.{wait}{clear}A desire for boundless power, for dominion{n}and chaos, a desire only to devour all{n}things...{wait}{clear}Sorrow and hatred lead to desire. But we{n}must not give in to that temptation. Neither{n}we, nor humans...{wait}{clear}	
 tenkai.115E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.116E	ラファエル様……{n}すみませんでした……。{wait}{clear}私は大切な人を失った悲しみにだけ{n}とらわれていました。{n}それでは、なにも変わらないのですね……。{wait}{clear}今、私がしっかりしなければ、{n}もっと悲劇が生まれるかもしれない……。{wait}{clear}	Lord Raphael... I'm sorry...{wait}{clear}I was caught up in nothing but the grief of{n}losing someone dear. That changes nothing,{n}does it...?{wait}{clear}If I don't pull myself together now, even{n}more tragedy may come of it...{wait}{clear}	
+tenkai.116E	ラファエル様……{n}すみませんでした……。{wait}{clear}私は大切な人を失った悲しみにだけ{n}とらわれていました。{n}それでは、なにも変わらないのですね……。{wait}{clear}今、私がしっかりしなければ、{n}もっと悲劇が生まれるかもしれない……。{wait}{clear}	Raphael-sama... I'm sorry...{wait}{clear}I was caught up in nothing but the grief of{n}losing someone dear. That changes nothing,{n}does it...?{wait}{clear}If I don't pull myself together now, even{n}more tragedy may come of it...{wait}{clear}	
 tenkai.1246	ラファエル	Raphael	speaker
 tenkai.1254	善なる者が正しき道を歩めるよう、{n}なにがあっても導いていかねばなりません。{n}それが、またすべてを守ることになるでしょう。{wait}{clear}なにが正しいことなのか判断に迷ったときは、{n}心の声に耳を澄ませなさい。{wait}{clear}誰のためなのか……{n}誰のために、あなたの存在があるのか……{wait}{clear}あなたは、わかっているのですから。{wait}{clear}	Whatever happens, we must guide the good so{n}that they may walk the right path. That, in{n}turn, will protect everything.{wait}{clear}When you cannot tell what is right, listen{n}closely to the voice of your heart.{wait}{clear}For whose sake... For whose sake do you{n}exist...?{wait}{clear}You already know the answer.{wait}{clear}	
 tenkai.137E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -74,4 +74,4 @@ tenkai.138E	……はい……。{wait}{clear}	...Yes...{wait}{clear}
 tenkai.13A0	ラファエル	Raphael	speaker
 tenkai.13AE	さあ、悲しんでいる人のもとへお行きなさい。{n}きっと、あなたを待っていますよ。{wait}{clear}	Now go to the one who grieves. I am sure{n}they are waiting for you.{wait}{clear}	
 tenkai.13FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.140E	はい……。{wait}{clear}ラファエル様……ありがとうございました。{wait}{clear}	Yes...{wait}{clear}Lord Raphael... thank you.{wait}{clear}	
+tenkai.140E	はい……。{wait}{clear}ラファエル様……ありがとうございました。{wait}{clear}	Yes...{wait}{clear}Raphael-sama... thank you.{wait}{clear}	

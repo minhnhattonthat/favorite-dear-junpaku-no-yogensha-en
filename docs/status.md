@@ -2,8 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check (phase 6 done 2026-11-21: all 92 batches translated and reviewed; phase 5 done
-  2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase:** 7. Insert, fit, check (phase 6 done pending review, 2026-11-21: all 92 batches translated; the reviewer
+  pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
+  phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase 6 external review fixes (2026-11-21, 15th worker; review in `../.harness/reviews/...-phase6.md`):**
+  Important 2: 様 on personal names was "Lord/Lady X" or dropped in 225 rows; D9 (`docs/decisions.md`) applies D1
+  as written like game 1's D12 ("Raphael-sama", "Leyla Vigrid-sama", "＜勇者名＞-sama"); every row read
+  (`work/qa/review/honorifics.tsv`, 8 by hand), new lint `tools/honorifics.py` runs in `batches.py check` (tests in
+  `tests/test_honorifics.py`), glossary rulings line updated, Souza/Leoni rows added. Important 3: new
+  `docs/style-reference.md` (voice rows for heroes, fairies, angels, villains, old men; JP markers -> EN devices
+  with pairs; `tools/voices.py` lists speakers/markers/examples); Greza's old-man voice fixed (polish ticked).
+  Minor 3: `check` fails an ordinal suffix after a variable. Minor 5: glossary says which D2 source applied.
+  Important 1 (OPEN, before phase 9): the full per-batch review. `python -X utf8 tools/review_pairs.py` writes
+  `work/qa/review/pairs/bNNN.txt` (`>> id | speaker | kind`, JP, EN); run `codex exec -s read-only` (credits back
+  2026-11-26 10:32) with the reviewer brief, 3-5 batches per run, reports to `work/qa/review/bNNN.md`, fix
+  Critical/Important per batch (voice flattening = Important per the style reference), Minors to polish.md. Point
+  it at the late reveals in `docs/synopsis.md` (Serenis possessed, Viper = Clarence, Dark Clive, Savio) so early
+  foreshadowing is checked (Minor 1). Without codex, do it in fresh read-only passes, a few batches per worker.
 - **Phase 6 reviewer pass (2026-11-21, 14th worker; codex out of credits, so done in-session):** all 92 batches
   `check` OK; whole-script scans with the new `tools/review_scan.py` (near-miss names, katakana -> English
   consistency, the angel gendered, EN/JP length outliers for omissions; median EN/JP 2.06, no gutted rows), voice
@@ -129,6 +144,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   than the JP; sites known via `codetext.strings()` refs), the name-tag table (heaven tag ラファエル still JP), the
   runtime placeholder value tables (hero/fairy names, EvName titles, regions), rebalance one-word orphan pages from
   the wrap, find the script buffer size before more scripts grow, check rfd2 sentence fragments in game.
+  Cuts to revisit when the name-tag table is relocated (D4, review Minor 2): 帝国兵 "Soldier", 帝国戦士 "Warrior",
+  第10節「王暗殺」 "Regicide" and the other 12-letter name-tag / chapter-label shortenings in the glossary notes;
+  restore the full forms if the relocated table allows, else waive each in polish.md with the reason.
   Budgets: BTL_EVT banks 64 KB cap, EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

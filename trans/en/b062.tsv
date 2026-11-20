@@ -2,7 +2,7 @@ id	en
 FryMsg4.2D24	Angel!! A man named Rocus Las Flores of Linares in the Holy Nation of Ecclesia would've been perfect as a hero candidate, but...{wait}{clear}When the Empire wrecked the Holy City, he went missing.{wait}{clear}We can't find him anymore. It's really sad, but one of Arcaya's hopes is gone now.
 FryMsg4.2E64	Angel!! A girl named Irene Tirnag of Bremes Isle would've been perfect as a hero candidate, but...{wait}{clear}She went missing in the incident with the Heavenly Dragon coming back.{wait}{clear}We can't find her anymore. It's really sad, but one of Arcaya's hopes is gone now.
 FryMsg4.2F96	Angel!! A woman named Leyla Vigrid of Reizefut in the Grosain Empire would've been perfect as a hero candidate, but...{wait}{clear}She was framed for treason and got killed...{wait}{clear}It's really sad, but one of Arcaya's hopes is gone now.
-FryMsg4.30A0	Angel!! A girl named Cecia of Fes in the untamed lands would've been perfect as a hero candidate, but...{wait}{clear}She got caught up in the attack on St. Diana, who protected the Reyforia Forest, and went missing.{wait}{clear}We can't find her anymore. It's really sad, but one of Arcaya's hopes is gone now.
+FryMsg4.30A0	Angel!! A girl named Cecia of Fes in the untamed lands would've been perfect as a hero candidate, but...{wait}{clear}She got caught up in the attack on St. Diana-sama, who protected the Reyforia Forest, and went missing.{wait}{clear}We can't find her anymore. It's really sad, but one of Arcaya's hopes is gone now.
 FryMsg4.31FC	Angel!! Leyla-sama tried to assassinate the Emperor at an evening ball, and Alberic killed her!{wait}{clear}She seemed really tormented over her dad's and mom's deaths... Leyla-sama...{wait}{clear}Angel, I'm so sad... One of Arcaya's hopes is gone now.
 FryMsg5.008E	Angel, the chaos in the world seems to be spreading. Please be careful...
 FryMsg5.00D4	Um, uh, Angel! I can't stop the chaos in the world! It's no use anymore!
@@ -11,25 +11,25 @@ FryMsg5.0180	Um, Angel, it looks like your AP has run out. You'll have to go bac
 FryMsg5.01DA	Um, Angel, I'm, um, a little tired...{wait}{clear}I'd like a day off. Could I ask you for one? Oh, um, it doesn't have to be right away...{wait}{clear}Please, Angel.
 FryMsg5.0282	Um, do you have a moment? Angel?{wait}{clear}＜妖精名＞ seems very tired. Um, could you give them a day off?
 FryMsg5.0300	Um... Angel, I'm so sorry.{wait}{clear}＜妖精名＞ went back to the Heavens without permission.
-FryMsg5.0354	Um, Angel, there's a hero who'd like to meet with you...{wait}{clear}Will you go see ＜勇者名＞?
+FryMsg5.0354	Um, Angel, there's a hero who'd like to meet with you...{wait}{clear}Will you go see ＜勇者名＞-sama?
 FryMsg5.03C0	I see. Then I'll tell them so.
-FryMsg5.03E8	Um, Angel, there are heroes who'd like to meet with you...{wait}{clear}Who will you go see, ＜勇者名１＞ or ＜勇者名２＞?
-FryMsg5.0498	Um, Angel, a report.{wait}{clear}＜勇者名＞'s level has gone up.
-FryMsg5.04DC	Um, Angel, a report.{wait}{clear}＜勇者名＞'s level has gone up by ○○.
-FryMsg5.0550	Then please hurry, Angel! Um, and please support ＜勇者名＞ in the battle!
+FryMsg5.03E8	Um, Angel, there are heroes who'd like to meet with you...{wait}{clear}Who will you go see, ＜勇者名１＞-sama or ＜勇者名２＞-sama?
+FryMsg5.0498	Um, Angel, a report.{wait}{clear}＜勇者名＞-sama's level has gone up.
+FryMsg5.04DC	Um, Angel, a report.{wait}{clear}＜勇者名＞-sama's level has gone up by ○○.
+FryMsg5.0550	Then please hurry, Angel! Um, and please support ＜勇者名＞-sama in the battle!
 FryMsg5.05AA	Is that so? Um, we can't support them, but let's at least go watch the battle!
-FryMsg5.060A	Angel! ＜勇者名＞ has run into the enemy!{wait}{clear}Um, we can't support them in battle, but let's at least go watch!
-FryMsg5.067E	Angel, it's terrible! ＜勇者名＞ was badly wounded in battle.{wait}{clear}Um, Angel, please go to ＜勇者名＞.{wait}{clear}And when you get there, please give them a healing item, or go with them and give your blessing.
-FryMsg5.075C	Um... Angel... Aren't you going to ＜勇者名＞, who's badly wounded?{wait}{clear}Please hurry and give them a healing item, or go with them and give your blessing.
-FryMsg5.07F8	It's terrible, Angel! ＜勇者名＞ has gone missing.{wait}{clear}Um, they seemed very unhappy about something... What should we do, Angel?
-FryMsg5.0886	Um, Angel, it's been quite a while since ＜勇者名＞ went missing. Is that all right?
+FryMsg5.060A	Angel! ＜勇者名＞-sama has run into the enemy!{wait}{clear}Um, we can't support them in battle, but let's at least go watch!
+FryMsg5.067E	Angel, it's terrible! ＜勇者名＞-sama was badly wounded in battle.{wait}{clear}Um, Angel, please go to ＜勇者名＞-sama.{wait}{clear}And when you get there, please give them a healing item, or go with them and give your blessing.
+FryMsg5.075C	Um... Angel... Aren't you going to ＜勇者名＞-sama, who's badly wounded?{wait}{clear}Please hurry and give them a healing item, or go with them and give your blessing.
+FryMsg5.07F8	It's terrible, Angel! ＜勇者名＞-sama has gone missing.{wait}{clear}Um, they seemed very unhappy about something... What should we do, Angel?
+FryMsg5.0886	Um, Angel, it's been quite a while since ＜勇者名＞-sama went missing. Is that all right?
 FryMsg5.0920	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, is happening in ＜地方名＞. Would you ask a hero to handle it?
-FryMsg5.09C6	Um, Angel... It seems ＜勇者名＞ failed to resolve ＜イベント名＞.
-FryMsg5.0A82	Angel, the incident has vanished.{wait}{clear}It seems ＜イベント名＞ in ＜地方名＞ has gone away.{wait}{clear}Um, ＜勇者名＞, who was heading there, didn't make it in time.
-FryMsg5.0B30	＜勇者名＞ has arrived at ＜目的地名＞.
+FryMsg5.09C6	Um, Angel... It seems ＜勇者名＞-sama failed to resolve ＜イベント名＞.
+FryMsg5.0A82	Angel, the incident has vanished.{wait}{clear}It seems ＜イベント名＞ in ＜地方名＞ has gone away.{wait}{clear}Um, ＜勇者名＞-sama, who was heading there, didn't make it in time.
+FryMsg5.0B30	＜勇者名＞-sama has arrived at ＜目的地名＞.
 FryMsg5.0B66	Um, Angel, a report.{wait}{clear}I searched ＜地方名＞, but there was nothing especially out of the ordinary.
-FryMsg5.0BCE	Um, Angel, a report.{wait}{clear}Your level seems about to go up. When you go back to the Heavens, I think you should go see Lord Raphael.
-FryMsg5.0C54	Angel, it's terrible! ＜勇者名＞ has lost their life in battle with an enemy bewitched by a fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞'s soul can never be brought back.
+FryMsg5.0BCE	Um, Angel, a report.{wait}{clear}Your level seems about to go up. When you go back to the Heavens, I think you should go see Raphael-sama.
+FryMsg5.0C54	Angel, it's terrible! ＜勇者名＞-sama has lost their life in battle with an enemy bewitched by a fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞-sama's soul can never be brought back.
 FryMsg5.0D0C	Angel, I've found a hero candidate.
 FryMsg5.0D2E	Um, his name is Fein Lu Lugus, and he was in Sayak, Celesta, in the Six Kingdoms Alliance.{wait}{clear}He's a Warlock by trade, and he seems to travel around doing all sorts of jobs for the Guild of mages.{wait}{clear}Um, I think that's why he knows so much, especially about magic and history.{wait}{clear}I'm sure he'll help you too, Angel. Please do go and meet him.
 FryMsg5.0E98	Um, his name is Clive Saingrent, and he was in Leszno, Slatina, in the Duchy of Courrege.{wait}{clear}He's a vampire hunter who specializes in slaying undead.{wait}{clear}Um, when I saw him in the graveyard at night, I was very scared... But his sword skill is the real thing!{wait}{clear}There's something about him that bothers me a little, but maybe it's just my imagination...{wait}{clear}Um, anyway, please go and meet him once.

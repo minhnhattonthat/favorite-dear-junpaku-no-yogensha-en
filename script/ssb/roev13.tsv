@@ -16,9 +16,9 @@ roev13.021E	……よかった{n}平気か？{wait}{clear}	...Thank goodness. Yo
 roev13.0264	ロクス	Rocus	speaker
 roev13.026E	クソッ……ヴァイパーには逃げられた……。{wait}{clear}	Damn it... Viper got away...{wait}{clear}	
 roev13.029A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.02AA	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	I see...{wait}{clear}(What on earth was that just now...? I'll{n}ask Lord Raphael...){wait}{clear}	
+roev13.02AA	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	I see...{wait}{clear}(What on earth was that just now...? I'll{n}ask Raphael-sama...){wait}{clear}	
 roev13.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.032E	ラファエル様、いらっしゃいますか？{wait}{clear}	Lord Raphael, are you there?{wait}{clear}	
+roev13.032E	ラファエル様、いらっしゃいますか？{wait}{clear}	Raphael-sama, are you there?{wait}{clear}	
 roev13.0362	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0372	すみません、お聞きしたいことがあるのですが……。{wait}{clear}	Excuse me, there is something I would like{n}to ask...{wait}{clear}	
 roev13.03A6	ミカエル	Michael	speaker
@@ -32,7 +32,7 @@ roev13.045C	そうですか……。{wait}{clear}	I see...{wait}{clear}
 roev13.0470	ミカエル	Michael	speaker
 roev13.047C	どうしたんだ、深刻そうな顔をして。{n}なにかあったのなら、俺が話を聞くぞ。{wait}{clear}	What's wrong? You look so serious. If{n}something happened, I'll hear you out.{wait}{clear}	
 roev13.04C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.04D8	え？　ミカエル様がですか！？{wait}{clear}	What? You, Lord Michael?!{wait}{clear}	
+roev13.04D8	え？　ミカエル様がですか！？{wait}{clear}	What? You, Michael-sama?!{wait}{clear}	
 roev13.04F8	ミカエル	Michael	speaker
 roev13.0504	なにもそんなに驚くことはないだろう？{n}それとも、俺では不服なのか？{wait}{clear}	There's no need to look so surprised, is{n}there? Or am I not good enough for you?{wait}{clear}	
 roev13.0556	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -52,7 +52,7 @@ roev13.0772	はい……。{wait}{clear}	Yes...{wait}{clear}
 roev13.0780	ミカエル	Michael	speaker
 roev13.078C	そうか……悪かったな……。{wait}{clear}	I see... I'm sorry...{wait}{clear}	
 roev13.07AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.07BA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}	Sorry...? What do you mean, Lord Michael?{wait}{clear}	
+roev13.07BA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}	Sorry...? What do you mean, Michael-sama?{wait}{clear}	
 roev13.07F6	ミカエル	Michael	speaker
 roev13.0802	あれは……{n}あの石は俺が砕いたサタンの魂の一部だ……。{wait}{clear}	That... that stone is a fragment of Satan's{n}soul, which I shattered...{wait}{clear}	
 roev13.083C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -68,7 +68,7 @@ roev13.0A4A	ですが、それでは地上界は……。{wait}{clear}	But then 
 roev13.0A6C	ミカエル	Michael	speaker
 roev13.0A78	それは、そうなのだが……{n}我々は人間にすべてを任せるしかないのだ。{n}たとえ、それが無責任だと思われてもな。{wait}{clear}心正しい人間が魔石を守っていくことこそ、{n}我々が望むこと……。{wait}{clear}それに、天使と堕天使、人間との関係は、{n}簡単にわりきれるような単純なものではない。{wait}{clear}悲しいことだがな……。{wait}{clear}天使であっても、いや、天使であるからこそ{n}我々は、堕天使にも人間にもなり得るのだ……。{n}それが、どういうことなのか……わかるか？{wait}{clear}お前も、悩むだろう？{n}地上界の守護をしているときは、特にな……。{wait}{clear}	That is so, but... we have no choice but to{n}leave everything to humans. Even if it seems{n}irresponsible.{wait}{clear}What we wish is for humans with righteous{n}hearts to guard the Demon Stone...{wait}{clear}Besides, the bonds between angels, fallen{n}angels and humans are not so simple as to be{n}easily sorted out.{wait}{clear}Sad as it is...{wait}{clear}Even as angels... no, precisely because we{n}are angels, we can become fallen angels, or{n}humans... Do you understand what that means?{wait}{clear}You struggle too, don't you? Especially{n}while guarding the surface world...{wait}{clear}	
 roev13.0C60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.0C70	ミカエル様……？{wait}{clear}	Lord Michael...?{wait}{clear}	
+roev13.0C70	ミカエル様……？{wait}{clear}	Michael-sama...?{wait}{clear}	
 roev13.0C84	ミカエル	Michael	speaker
 roev13.0C90	ああ、なんだか関係ないことまで話しているな。{wait}{clear}それにしても、地上界アルカヤでその石が見つかり、{n}お前がそれと出会ったとすると、{n}邪悪な意志を感じずにはいられないな……。{wait}{clear}	Ah, I seem to be talking about unrelated{n}things.{wait}{clear}Even so, if that stone was found in Arcaya,{n}the world below, and you came across it, I{n}can't help but sense an evil will at work...{wait}{clear}	
 roev13.0D3E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -78,11 +78,11 @@ roev13.0D8C	そうか……。{n}堕天使の誰かが後ろで……いった�
 roev13.0DC8	ミカエル	Michael	speaker
 roev13.0DD4	お前たちには、本当にすまないことをしている……。{n}地上界で危険な目にあわせているというのに、{n}俺は、こうして言葉しかかけてやれない……。{wait}{clear}	I'm truly sorry for what I'm putting you all{n}through... You face danger in the world{n}below, and all I can give you is words...{wait}{clear}	
 roev13.0E60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.0E70	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}	No, Lord Michael. Being able to talk with{n}you like this is more than enough.{wait}{clear}	
+roev13.0E70	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}	No, Michael-sama. Being able to talk with{n}you like this is more than enough.{wait}{clear}	
 roev13.0EAE	ミカエル	Michael	speaker
 roev13.0EBA	そうか……そう言ってもらえるだけで、ありがたい。{n}また、こうして話ができるといいな。{wait}{clear}では、魔石のことは、ラファエルに話しておこう。{n}お前は、早く地上界へ戻った方がいい。{n}そんなことが起こっているなら、なおさらだ。{wait}{clear}	I see... Just hearing you say that makes me{n}grateful. I hope we can talk like this{n}again.{wait}{clear}Now, I'll tell Raphael about the Demon{n}Stone. You should return to the surface{n}world quickly. All the more if such things{wait}{clear}are happening.{wait}{clear}	
 roev13.0F96	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.0FA6	はい、わかりました。{wait}{clear}本当に、ありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}	Yes, I understand.{wait}{clear}Thank you so much, Lord Michael. Excuse me.{wait}{clear}	
+roev13.0FA6	はい、わかりました。{wait}{clear}本当に、ありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}	Yes, I understand.{wait}{clear}Thank you so much, Michael-sama. Excuse me.{wait}{clear}	
 roev13.0FFC	ミカエル	Michael	speaker
 roev13.1008	くれぐれも気をつけろ。{n}堕天使のやり方は、いつも汚いからな。{wait}{clear}	Be very careful. The fallen angels always{n}fight dirty.{wait}{clear}	
 roev13.1048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

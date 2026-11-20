@@ -678,13 +678,13 @@ BTL_EVT6.4FA2	ざまみろ！　	Serves you right!
 BTL_EVT6.4FB2S	私兵	Hired Guard	speaker
 BTL_EVT6.4FB7	ざまみろ！　	Serves you right!	
 BTL_EVT6.4FEBS	帝国騎士	Knight	speaker
-BTL_EVT6.4FF4	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Lord Alberic, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT6.4FF4	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
 BTL_EVT6.5058S	セシア	Cecia	speaker
 BTL_EVT6.505F	そんな人、私には関係ありません！{n}人々を苦しめる、あなたたちと戦うだけです！！	I don't care about him! I'll just fight you,{n}who make people suffer!!	
 BTL_EVT6.50B1S	帝国騎士	Knight	speaker
 BTL_EVT6.50BA	なんだと、貴様！{n}我々に逆らうのなら死ね！！	What did you say?! If you defy us, die!!	
 BTL_EVT6.50EAS	帝国騎士	Knight	speaker
-BTL_EVT6.50F3	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Lord Alberic... forgive me...{wait}{clear}Ugh...	
+BTL_EVT6.50F3	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Alberic-sama... forgive me...{wait}{clear}Ugh...	
 BTL_EVT6.512DS	セシア	Cecia	speaker
 BTL_EVT6.5134	どうして、こんな無意味な戦いが……。	Why must there be such a meaningless{n}fight...	
 BTL_EVT6.515CS	帝国騎士	Knight	speaker
@@ -768,7 +768,7 @@ BTL_EVT6.5C57	ばかね！　ここでもずくと消えなさい！！	Fool! Tu
 BTL_EVT6.5C81S	セシア	Cecia	speaker
 BTL_EVT6.5C88	…………。{wait}{clear}城が消えた……。	......{wait}{clear}The castle vanished...	
 BTL_EVT6.5CAAS	王の女	King's Lady	speaker
-BTL_EVT6.5CB1	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
+BTL_EVT6.5CB1	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Ravenruft-sama.	
 BTL_EVT6.5CF3S	王の女	King's Lady	speaker
 BTL_EVT6.5CFA	逃げましたわよ……。{n}ホホホホ……	They ran away... Ohohohoho...	
 BTL_EVT6.5D8CS	ノスフェラトゥ	Nosferatu	speaker

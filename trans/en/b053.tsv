@@ -157,21 +157,21 @@ FryMsg0.017A	Angel, your AP has run out. You must return to the Heavens.
 FryMsg0.01C8	Angel, I'm terribly sorry. I've grown a little tired...{wait}{clear}It would help if I could have a day off soon...{wait}{clear}Thank you for considering it, Angel.
 FryMsg0.025C	Excuse me, Angel?{wait}{clear}＜妖精名＞ seems very tired. Please let them rest once in a while.
 FryMsg0.02D0	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens without permission.
-FryMsg0.031C	Angel, a hero wishes to meet with you.{wait}{clear}Will you see ＜勇者名＞?
+FryMsg0.031C	Angel, a hero wishes to meet with you.{wait}{clear}Will you see ＜勇者名＞-sama?
 FryMsg0.0378	Then I'll let them know.
-FryMsg0.039A	Angel, heroes wish to meet with you.{wait}{clear}Which will you see, ＜勇者名１＞ or ＜勇者名２＞?
-FryMsg0.0436	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up.
-FryMsg0.0478	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up by ○○.
-FryMsg0.04BE	Angel! ＜勇者名＞ has encountered the enemy!
-FryMsg0.04EA	Then please hurry, Angel! And support ＜勇者名＞ in battle!
+FryMsg0.039A	Angel, heroes wish to meet with you.{wait}{clear}Which will you see, ＜勇者名１＞-sama or ＜勇者名２＞-sama?
+FryMsg0.0436	A report, Angel.{wait}{clear}＜勇者名＞-sama's level has gone up.
+FryMsg0.0478	A report, Angel.{wait}{clear}＜勇者名＞-sama's level has gone up by ○○.
+FryMsg0.04BE	Angel! ＜勇者名＞-sama has encountered the enemy!
+FryMsg0.04EA	Then please hurry, Angel! And support ＜勇者名＞-sama in battle!
 FryMsg0.0548	I see... Then we can't support them in battle, but let's at least go watch the fight!
-FryMsg0.05A2	Angel! ＜勇者名＞ has encountered the enemy!{wait}{clear}We can't support them in battle, but let's at least go watch the fight!
-FryMsg0.0612	Angel, it's terrible! ＜勇者名＞ was badly wounded in battle.{wait}{clear}Will you go to ＜勇者名＞?{wait}{clear}And when you reach the hero, please give them a healing item, or accompany them and give your blessing.
-FryMsg0.06EC	Won't you go to ＜勇者名＞, who is badly wounded?{wait}{clear}Please hurry and give them a healing item, or accompany them and give your blessing.
-FryMsg0.077A	It's terrible, Angel! ＜勇者名＞ has gone missing.{wait}{clear}They seemed unhappy lately... What shall we do, Angel?
-FryMsg0.0804	Angel, it's been quite a while since ＜勇者名＞ went missing. Is that all right?
-FryMsg0.085C	We've found ＜勇者名＞, who had gone missing.
+FryMsg0.05A2	Angel! ＜勇者名＞-sama has encountered the enemy!{wait}{clear}We can't support them in battle, but let's at least go watch the fight!
+FryMsg0.0612	Angel, it's terrible! ＜勇者名＞-sama was badly wounded in battle.{wait}{clear}Will you go to ＜勇者名＞-sama?{wait}{clear}And when you reach the hero, please give them a healing item, or accompany them and give your blessing.
+FryMsg0.06EC	Won't you go to ＜勇者名＞-sama, who is badly wounded?{wait}{clear}Please hurry and give them a healing item, or accompany them and give your blessing.
+FryMsg0.077A	It's terrible, Angel! ＜勇者名＞-sama has gone missing.{wait}{clear}They seemed unhappy lately... What shall we do, Angel?
+FryMsg0.0804	Angel, it's been quite a while since ＜勇者名＞-sama went missing. Is that all right?
+FryMsg0.085C	We've found ＜勇者名＞-sama, who had gone missing.
 FryMsg0.0896	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in ＜地方名＞. Will you ask a hero to handle it?
-FryMsg0.0912	＜勇者名＞ has resolved ＜イベント名＞.
-FryMsg0.0944	＜勇者名＞ has failed to resolve ＜イベント名＞.
+FryMsg0.0912	＜勇者名＞-sama has resolved ＜イベント名＞.
+FryMsg0.0944	＜勇者名＞-sama has failed to resolve ＜イベント名＞.
 FryMsg0.0982	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.

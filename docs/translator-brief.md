@@ -15,7 +15,8 @@ Output: `trans/en/bNNN.tsv`, header `id<TAB>en`, every batch id once, plain ASCI
 
 Check: `python -X utf8 tools/batches.py check bNNN` until it prints OK; then `python -X utf8 tools/batches.py merge`.
 
-Voices:
+Voices: every recurring speaker's JP markers -> EN devices, with paired examples, are in `docs/style-reference.md`
+(binding; read it in parts). A neutral line where the JP carries a voice is Important in review. Short form:
 - Rosa (ローザ): formal, composed, complete sentences, no contractions in narration-style reports.
 - Florinda (フロリンダ): childish and bubbly, calls herself "Florin" in the third person, stretched vowels
   (わかりましたぁ "Okaaay!"), ですぅ as exclamation marks and "super", "kinda".

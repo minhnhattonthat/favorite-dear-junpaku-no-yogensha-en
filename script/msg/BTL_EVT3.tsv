@@ -774,7 +774,7 @@ BTL_EVT3.5D06	化け物！？　なんて失敬な！{wait}{clear}ここでも�
 BTL_EVT3.5D44S	ロクス	Rocus	speaker
 BTL_EVT3.5D4B	あの手の化け物は一番始末が悪い……。{wait}{clear}おや！？　城が見えなくなった……。{n}ここから先へは進めないということか？	That sort of monster is the worst to deal{n}with...{wait}{clear}Oh?! The castle's gone from sight... So I{n}can't go any further?	
 BTL_EVT3.5DBFS	王の女	King's Lady	speaker
-BTL_EVT3.5DC6	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
+BTL_EVT3.5DC6	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Ravenruft-sama.	
 BTL_EVT3.5E08S	王の女	King's Lady	speaker
 BTL_EVT3.5E0F	逃げましたわよ……。{n}ホホホホ……	They ran away... Ohohohoho...	
 BTL_EVT3.5EA1S	ノスフェラトゥ	Nosferatu	speaker

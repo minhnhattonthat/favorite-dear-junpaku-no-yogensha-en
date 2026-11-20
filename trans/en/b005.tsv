@@ -9,7 +9,7 @@ ceev10_03.0104	Angel... I am to undergo the rite of succession to become the Hol
 ceev10_03.0152	What kind of rite is it?{wait}{clear}
 ceev10_03.0184	It's... I will receive the Holy Mother's memories, the memories she holds as Holy Mother.{wait}{clear}
 ceev10_03.01D2	Inherit her memories?{wait}{clear}
-ceev10_03.01F0	Yes... that's right. I will inherit the memories of the Holy Mother... no, of Saint Diana herself.{wait}{clear}But...{wait}{clear}
+ceev10_03.01F0	Yes... that's right. I will inherit the memories of the Holy Mother... no, of Saint Diana-sama herself.{wait}{clear}But...{wait}{clear}
 ceev10_03.026A	Angel... I... I don't know what to do...{wait}{clear}
 ceev10_03.02A4	Cecia... I'm sorry, there's nothing I can tell you...{wait}{clear}All I can say is that I think it's best to follow your own heart.{wait}{clear}
 ceev10_03.0348	If anything, I'm proud... I've been chosen by the Holy Mother, after all...{wait}{clear}
@@ -57,24 +57,24 @@ ceev14.0906	I can't know what the archangel who protected the surface world a th
 ceev14.0A80	Thank you, truly, for telling me about the battle a thousand years ago.{wait}{clear}
 ceev14.0AD8	Cecia, get some good rest, all right?{wait}{clear}
 ceev14.0B08	Thank you, Angel.{wait}{clear}
-ceev14.0B42	(Who could the archangel who protected Arcaya a thousand years ago have been...? I'll ask Lord Raphael...){wait}{clear}
-ceev14.0BDE	Lord Raphael, are you there?{wait}{clear}
+ceev14.0B42	(Who could the archangel who protected Arcaya a thousand years ago have been...? I'll ask Raphael-sama...){wait}{clear}
+ceev14.0BDE	Raphael-sama, are you there?{wait}{clear}
 ceev14.0C04	Raphael
 ceev14.0C12	Is that you, ＄＄＄＄＄＄?{wait}{clear}
 ceev14.0C4E	What is it? Is something troubling you in the world below?{wait}{clear}
-ceev14.0CA2	Yes... Cecia, a hero of Arcaya, has inherited memories from a thousand years ago through a certain rite.{wait}{clear}She told me about the battle of a thousand years ago and about the Heavenly Dragon.{wait}{clear}She said the heroes who fought then were guarded by an archangel.{wait}{clear}If I could speak with the archangel who protected Arcaya, I think I could help Arcaya's heroes far more than I do now...{wait}{clear}Lord Raphael, do you know who the archangel who protected Arcaya was?{wait}{clear}
+ceev14.0CA2	Yes... Cecia, a hero of Arcaya, has inherited memories from a thousand years ago through a certain rite.{wait}{clear}She told me about the battle of a thousand years ago and about the Heavenly Dragon.{wait}{clear}She said the heroes who fought then were guarded by an archangel.{wait}{clear}If I could speak with the archangel who protected Arcaya, I think I could help Arcaya's heroes far more than I do now...{wait}{clear}Raphael-sama, do you know who the archangel who protected Arcaya was?{wait}{clear}
 ceev14.0E7C	......{wait}{clear}I see... So Diana went as far as gaining such a power to pass the memory of that battle on to later ages.{wait}{clear}
-ceev14.0F00	Lord Raphael... it can't be...?{wait}{clear}
+ceev14.0F00	Raphael-sama... it can't be...?{wait}{clear}
 ceev14.0F32	＄＄＄＄＄＄, I'm sorry I kept silent. It was I who protected Arcaya a thousand years ago.{wait}{clear}
 ceev14.0FA2	When you ordered me to protect Arcaya, why didn't you tell me anything?!{wait}{clear}
 ceev14.1010	I meant to tell you when the time was right. Now, I suppose that sounds like nothing but a convenient excuse...{wait}{clear}I never imagined it would come to this...{wait}{clear}
-ceev14.10C2	Lord Raphael...{wait}{clear}
+ceev14.10C2	Raphael-sama...{wait}{clear}
 ceev14.10E6	It is true that I protected Arcaya and guided them. They defeated the Heavenly Dragon with their own hands, and I entrusted the future to them and to all the people of Arcaya...{wait}{clear}We angels are by no means all-powerful. The world below belongs to humans, first and last. It is not a world we angels should rightly meddle in.{wait}{clear}
 ceev14.120C	But leaving the Demon Stones with them...{wait}{clear}
 ceev14.1244	Yes, I understand how you feel. I agonized over it too, over whether I should simply leave the surface world...{wait}{clear}But we cannot so much as touch those stones.{wait}{clear}
 ceev14.12FE	Michael
 ceev14.130A	You have learned that firsthand...{wait}{clear}
-ceev14.1360	But Lord Raphael, to leave something so dangerous in the world below!{wait}{clear}
+ceev14.1360	But Raphael-sama, to leave something so dangerous in the world below!{wait}{clear}
 ceev14.13B4	That is why I entrusted the Demon Stones to heroes with righteous hearts. There was no other way...{wait}{clear}Diana knew how I felt, and surely...{wait}{clear}But if someone means to misuse the Demon Stones, it is very dangerous. It may even be one of the fallen angels...{wait}{clear}
 ceev14.14CE	Someone is certainly gathering the Demon Stones. But whether a fallen angel is behind it, I can't tell yet... I'm sorry...{wait}{clear}
 ceev14.155C	No, there is no need to apologize. As you say, if the Demon Stones are being gathered, what we must fear is the Heavenly Dragon's revival.{wait}{clear}It seems all we can do is ask you to work with the heroes to stop it somehow.{wait}{clear}This has become a hard mission for you, hasn't it...{wait}{clear}

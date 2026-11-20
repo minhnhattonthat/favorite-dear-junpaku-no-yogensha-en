@@ -682,13 +682,13 @@ BTL_EVT1.45EE	ざまみろ！　	Serves you right!
 BTL_EVT1.45FES	私兵	Hired Guard	speaker
 BTL_EVT1.4603	ざまみろ！　	Serves you right!	
 BTL_EVT1.4637S	帝国騎士	Knight	speaker
-BTL_EVT1.4640	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Lord Alberic, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT1.4640	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
 BTL_EVT1.46A4S	クライヴ	Clive	speaker
 BTL_EVT1.46AD	……俺には関係ない……。	...It's nothing to do with me...	
 BTL_EVT1.46C9S	帝国騎士	Knight	speaker
 BTL_EVT1.46D2	なんだと、貴様！{n}我々に逆らうのなら死ね！！	What did you say?! If you defy us, die!!	
 BTL_EVT1.4702S	帝国騎士	Knight	speaker
-BTL_EVT1.470B	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Lord Alberic... forgive me...{wait}{clear}Ugh...	
+BTL_EVT1.470B	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Alberic-sama... forgive me...{wait}{clear}Ugh...	
 BTL_EVT1.4745S	クライヴ	Clive	speaker
 BTL_EVT1.474E	くだらん……。	Pointless...	
 BTL_EVT1.4760S	帝国騎士	Knight	speaker
@@ -778,11 +778,11 @@ BTL_EVT1.5240	ふん、いい腕だ。{wait}{clear}しかし時はまだ熟さ�
 BTL_EVT1.528CS	クライヴ	Clive	speaker
 BTL_EVT1.5295	待てレイブンルフト！{n}俺と戦え！！	Wait, Ravenruft! Fight me!!	
 BTL_EVT1.52BBS	王の女	King's Lady	speaker
-BTL_EVT1.52C2	わたくしの働きをご覧いただけました？{wait}{clear}王、レイブンルフト様。	Did you witness my work,{wait}{clear}my king, Lord Ravenruft?	
+BTL_EVT1.52C2	わたくしの働きをご覧いただけました？{wait}{clear}王、レイブンルフト様。	Did you witness my work,{wait}{clear}my king, Ravenruft-sama?	
 BTL_EVT1.5304S	王の女	King's Lady	speaker
 BTL_EVT1.530B	逃げましたわよ……。ホホホホ……	They ran away... Ohohohoho...	
 BTL_EVT1.5353S	王の女	King's Lady	speaker
-BTL_EVT1.535A	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
+BTL_EVT1.535A	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様	I trust you witnessed my work,{wait}{clear}my king, Ravenruft-sama.	
 BTL_EVT1.539AS	王の女	King's Lady	speaker
 BTL_EVT1.53A1	逃げましたわよ……。ホホホホ……	They ran away... Ohohohoho...	
 BTL_EVT1.5455S	ノスフェラトゥ	Nosferatu	speaker

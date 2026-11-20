@@ -148,6 +148,8 @@ def check(b):
     errs += [f"{i}: missing" for i in inp if i not in seen]
     errs += [f"{i}: not in the batch" for i in seen if i not in inp]
     gl = glossary()
+    import honorifics     # noqa: E402 (it imports this module)
+    hnames = honorifics.names()
     for i, en in seen.items():
         if i not in inp:
             continue
@@ -185,6 +187,9 @@ def check(b):
             for word in re.split(r"[ ]|\{[^}]*\}", en):
                 if len(word) > w:
                     errs.append(f"{i}: word longer than a line: {word[:20]}")
+        errs += [f"{i}: {e}" for e in honorifics.missing(jp, en, hnames)]
+        if re.search(r"(＄＄＄＄＄＄|＜[^＞]+＞|\{[^}]+\})(st|nd|rd|th)\b", en):
+            errs.append(f"{i}: ordinal suffix after a variable (rephrase: \"No. N\")")
         rest = jp             # a term inside a longer matched term (ルディ in ウルディピア) is that term's
         for gjp, gen, avoid in sorted(gl, key=lambda g: -len(g[0])):
             # a capitalised first letter or title case (menu labels, "Chaos Level") also counts

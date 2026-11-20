@@ -668,13 +668,13 @@ BTL_EVT2.4F0F	我々に逆らうからだ！　ははははは！	That's what yo
 BTL_EVT2.4F35S	帝国騎士	Knight	speaker
 BTL_EVT2.4F3E	ぶざまだな！　ははははは！	How pathetic! Hahahaha!	
 BTL_EVT2.4FA4S	帝国騎士	Knight	speaker
-BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Lord Alberic, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
+BTL_EVT2.4FAD	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Alberic-sama, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
 BTL_EVT2.5011S	ルディ	Rudi	speaker
 BTL_EVT2.5018	アルベリック？{n}そんなやつ、おれには関係ない！{wait}{clear}関係ない人々を巻き込むんなら、{n}お前らは皆、おれの敵だ！	Alberic? I don't care about him!{wait}{clear}If you drag innocent people into this,{n}you're all my enemies!	
 BTL_EVT2.5086S	帝国騎士	Knight	speaker
 BTL_EVT2.508F	なんだと、貴様！{n}我々に逆らうのなら死ね！！	What did you say?! If you defy us, die!!	
 BTL_EVT2.50BFS	帝国騎士	Knight	speaker
-BTL_EVT2.50C8	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Lord Alberic... forgive me...{wait}{clear}Ugh...	
+BTL_EVT2.50C8	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Alberic-sama... forgive me...{wait}{clear}Ugh...	
 BTL_EVT2.5102S	ルディ	Rudi	speaker
 BTL_EVT2.5109	とうとうバーゼルのアルクマールまで……。{wait}{clear}レグランスまでの進軍も時間の問題か！？	So they've reached Alkmaar in Basel...{wait}{clear}Is a march on Legrance just a matter of{n}time?!	
 BTL_EVT2.515FS	帝国騎士	Knight	speaker
@@ -774,7 +774,7 @@ BTL_EVT2.5E30	ばかね！　ここでもずくと消えなさい！！	Fool! Tu
 BTL_EVT2.5E5AS	ルディエール	Rudiere	speaker
 BTL_EVT2.5E67	なんだったんだあいつらは……。{wait}{clear}あっ、城が消えてる！{wait}{clear}この先には進めないってことか……？	What was with them...?{wait}{clear}Ah, the castle's gone!{wait}{clear}So I can't go any further...?	
 BTL_EVT2.5EC7S	王の女	King's Lady	speaker
-BTL_EVT2.5ECE	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
+BTL_EVT2.5ECE	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Ravenruft-sama.	
 BTL_EVT2.5F10S	王の女	King's Lady	speaker
 BTL_EVT2.5F17	逃げましたわよ……。{n}ホホホホ……	They ran away... Ohohohoho...	
 BTL_EVT2.5FA9S	ノスフェラトゥ	Nosferatu	speaker

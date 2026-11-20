@@ -8,8 +8,12 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 - Honorifics (D1): kept, hyphenated, on personal names: さん "-san", くん/君 "-kun", ちゃん "-chan", 様/さま "-sama",
   殿/どの "-dono". Titles that are words stay English: 王子 Prince, 姫 Princess, 卿 Lord. Address nouns stay
   English: 天使様 "Angel" (capitalised as an address), 勇者様 "the hero", お父様 "Father". Name order: Western.
-- Romanisation (D2): no official English; Western-style spellings of the katakana names, angel/demon names in their
-  standard English forms (Raphael, Beelzebub, Satan, Morax, Balam). Names shared with game 1 keep its spelling.
+  D9: this holds for angels, demons, kings and nobles too (ラファエル様 "Raphael-sama", never "Lord Raphael"; サタン様
+  "Satan-sama"), for full names ("Leyla Vigrid-sama") and for the placeholders (＜勇者名＞様 "＜勇者名＞-sama",
+  ＄＄＄＄＄＄様). The English title the honorific replaced goes. Linted by `batches.py check` (`tools/honorifics.py`).
+- Romanisation (D2): no official English source exists. Names shared with game 1 keep its fan patch's spelling
+  (`../favorite-dear-en`); the rest are Western-style spellings of the katakana (not strict Hepburn: Arcaya,
+  Reyforia), angel/demon names in their standard English forms (Raphael, Beelzebub, Satan, Morax, Balam).
 - Credits: English (D3). Abbreviations: full names and terms, engine work first (D4).
 - Register: warm fantasy drama, natural modern English, no archaisms except for the higher angels and demons
   (formal, measured). Interjections and SFX: English equivalents (うふふ "Hehe", ククク "Heh heh heh", えっ "Huh?",
@@ -90,6 +94,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | アズリア | Azuria | | Archbishop Azuria (name tag "Azuria") | |
 | ライアン | Ryan | | Cardinal Ryan (name tag "Ryan") | |
 | サタン | Satan | | | |
+| ソーザ | Souza | | great noble of Legrance (Loev03); "Souza-sama" (D9) | |
+| レオニ | Leoni | | boy in Rudiere's route | |
 | ベルゼバブ | Beelzebub | | | |
 | ノスフェラトゥ | Nosferatu | | | |
 | モラクス | Morax | | | |
@@ -148,7 +154,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | 魔石 | Demon Stone | | shattered into three, one per ancient hero | |
 | 天竜 | Heavenly Dragon | | | |
 | 紅月王 | Crimson Moon King | | | |
-| 大天使 | archangel | | the archangel / Lord Raphael | |
+| 大天使 | archangel | | the archangel / Raphael-sama (D9) | |
 | ウォーロック | Warlock | | sword-trained guild mage (Fein) | |
 | 黒衣の魔導士 | Black Mage | | name tag, Feev01_01 | |
 | 混乱度 | chaos level | | world gauge in the fairy reports | |
@@ -223,7 +229,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   聖者のローブ saint's robe, 年代物のワイン vintage wine, タローカード tarot cards, 金のメダイユ gold medallion.
   戒律 "precept(s)". menX 同行しますか？ "Accompany <name>?" with "  Yes" / "  No" (full-width space -> two spaces).
 - Name tags: 柄の悪い男 "Thug", 酒場の女達 "Tavern Girls". Rocus to the angel early on: formal and flirty ("my
-  beautiful angel"), crude when angry (俺, てめえ). ミカエル様 "Lord Michael" like "Lord Raphael".
+  beautiful angel"), crude when angry (俺, てめえ). ミカエル様 "Michael-sama" like "Raphael-sama" (D9).
 - Rocus's route (b034-b037): 教皇 "Pope" (教皇候補 "candidate for Pope"; Clarence's mocking 教皇さま "His Holiness"),
   大司教 "archbishop", 枢機卿 "cardinal", 宝玉 "the sacred jewel" (= the Church's Demon Stone), 秘宝 "the treasure",
   癒しの手 "healing hands" (the mark of the Pope); 蛇君/毒蛇君 "Mr. Snake"/"Mr. Viper". Name tags: ロクスの知人
@@ -239,7 +245,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   Broken-speech monsters (オーク, ホブゴブリン, 融合兵 in katakana) are written in CAPITALS.
 - Runtime placeholders ＜勇者名＞ ＜勇者名１＞ ＜勇者名２＞ ＜妖精名＞ ＜イベント名＞ ＜地方名＞ ＜目的地名＞ ○○ (FryMsg*,
   T_Msg01): the game substitutes them by string match (table in FD2BN.LKF 0xE0FC), so keep them byte-exact in the
-  English (`batches.py check` allows them). Drop the 様 after ＜勇者名＞; the angel's pronoun for a hero stays "them".
+  English (`batches.py check` allows them). ＜勇者名＞様 is "＜勇者名＞-sama" (D9); the angel's pronoun for a hero stays "them".
   EvName incident titles (22 bytes): short title case ("Leus Invaded", "Camp Carrara", "General Kaiser"). Fairy
   report towns: テルエル Teruel, レウス Leus, ラミア Lamia, イエーナ Jena, ケナー Kenner, キエラング Kierang, ファーノ
   Fano, カラーラ Carrara, グラーツ Graz, アールスト Aalst, クングル Kungur, アーラウ Aarau, ラジェス Rajes, リエージュ

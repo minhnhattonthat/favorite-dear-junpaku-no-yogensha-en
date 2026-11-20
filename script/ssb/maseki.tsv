@@ -1,6 +1,6 @@
 id	jp	en	notes
 maseki.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0044	ラファエル様、いらっしゃいますか？{wait}{clear}	Lord Raphael, are you there?{wait}{clear}	
+maseki.0044	ラファエル様、いらっしゃいますか？{wait}{clear}	Raphael-sama, are you there?{wait}{clear}	
 maseki.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 maseki.0088	すみません、お聞きしたいことがあるのですが……。{wait}{clear}	Excuse me, there is something I would like{n}to ask...{wait}{clear}	
 maseki.00BC	ミカエル	Michael	speaker
@@ -14,7 +14,7 @@ maseki.0172	そうですか……。{wait}{clear}	I see...{wait}{clear}
 maseki.0186	ミカエル	Michael	speaker
 maseki.0192	どうしたんだ、深刻そうな顔をして。{n}なにかあったのなら俺が話を聞くぞ。{wait}{clear}	What's wrong? You look serious. If something{n}happened, I'll hear you out.{wait}{clear}	
 maseki.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.01EC	え？　ミカエル様がですか！？{wait}{clear}	What? You, Lord Michael?!{wait}{clear}	
+maseki.01EC	え？　ミカエル様がですか！？{wait}{clear}	What? You, Michael-sama?!{wait}{clear}	
 maseki.020C	ミカエル	Michael	speaker
 maseki.0218	なにもそんなに驚くことはないだろう？{n}それとも俺では不服なのか？{wait}{clear}	No need to look so surprised, is there? Or{n}am I not good enough for you?{wait}{clear}	
 maseki.0268	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -34,7 +34,7 @@ maseki.0482	はい……。{wait}{clear}	Yes...{wait}{clear}
 maseki.0490	ミカエル	Michael	speaker
 maseki.049C	そうか……悪かったな……。{wait}{clear}	I see... I'm sorry...{wait}{clear}	
 maseki.04BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.04CA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}	Sorry...? What do you mean, Lord Michael?{wait}{clear}	
+maseki.04CA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}	Sorry...? What do you mean, Michael-sama?{wait}{clear}	
 maseki.0506	ミカエル	Michael	speaker
 maseki.0512	あれは……{n}あの石は俺が砕いたサタンの魂の一部だ……。{wait}{clear}	That... that stone is a fragment of Satan's{n}soul, which I shattered...{wait}{clear}	
 maseki.054C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -54,7 +54,7 @@ maseki.0922	…………。{wait}{clear}	.........{wait}{clear}
 maseki.0930	ミカエル	Michael	speaker
 maseki.093C	お前も、悩むだろう？{n}地上界の守護をしているときは、特にな……。{wait}{clear}	You struggle with it too, don't you?{n}Especially while guarding the world below...{wait}{clear}	
 maseki.0980	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0990	ミカエル様……？{wait}{clear}	Lord Michael...?{wait}{clear}	
+maseki.0990	ミカエル様……？{wait}{clear}	Michael-sama...?{wait}{clear}	
 maseki.09A4	ミカエル	Michael	speaker
 maseki.09B0	ああ、なんだか関係ないことまで話しているな。{wait}{clear}それにしても地上界アルカヤでその石が見つかり、{n}お前がそれと出会ったとすると、{n}邪悪な意志を感じずにはいられないな……。{wait}{clear}	Ah, I'm rambling about things that have{n}nothing to do with this.{wait}{clear}Still, if that stone turned up in Arcaya and{n}you came across it, I can't help sensing an{n}evil will behind it...{wait}{clear}	
 maseki.0A5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -64,11 +64,11 @@ maseki.0AAA	そうか……。{n}堕天使の誰かが後ろで……{n}いっ�
 maseki.0AE8	ミカエル	Michael	speaker
 maseki.0AF4	お前たちには、本当にすまないことをしている……。{n}地上界で危険な目にあわせているというのに、{n}俺は、こうして言葉しかかけてやれない……。{wait}{clear}	I'm truly sorry for what I'm putting you all{n}through... You face danger in the world{n}below, and all I can give you is words...{wait}{clear}	
 maseki.0B80	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0B90	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}	No, Lord Michael. Being able to talk with{n}you like this is more than enough.{wait}{clear}	
+maseki.0B90	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}	No, Michael-sama. Being able to talk with{n}you like this is more than enough.{wait}{clear}	
 maseki.0BCE	ミカエル	Michael	speaker
 maseki.0BDA	そうか……そう言ってもらえるだけで、ありがたい。{n}また、こうして話ができるといいな。{wait}{clear}魔石のことはラファエルに話しておこう。{n}お前は早く地上界へ戻った方がいい。{n}そんなことが起こっているなら、なおさらだ。{wait}{clear}	I see... Just hearing you say that means a{n}lot. I hope we can talk like this again.{wait}{clear}I'll tell Raphael about the Demon Stones.{n}You'd best hurry back to the world below.{n}All the more so if that's what's happening.{wait}{clear}	
 maseki.0CAC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-maseki.0CBC	はい、わかりました。{wait}{clear}本当にありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}	Yes, I understand.{wait}{clear}Thank you so much, Lord Michael. Please{n}excuse me.{wait}{clear}	
+maseki.0CBC	はい、わかりました。{wait}{clear}本当にありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}	Yes, I understand.{wait}{clear}Thank you so much, Michael-sama. Please{n}excuse me.{wait}{clear}	
 maseki.0D10	ミカエル	Michael	speaker
 maseki.0D1C	くれぐれも気をつけろ。{n}堕天使のやり方は、いつも汚いからな。{wait}{clear}	Be very careful. The fallen angels always{n}fight dirty.{wait}{clear}	
 maseki.0D5C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
