@@ -1,359 +1,359 @@
 id	jp	en	notes
 op.8009B4B4	{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}ラビエル	{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}{0A}Raviel	luix1
 op.8009B4EC	ラビエル	Raviel	luix1
-op.8009B5D4	天界に戻るラファエルとミカエル。		ptrx1
-op.8009B5F8	戦いを終えて		ptrx1
-op.8009B608	勇者と天使のために現れたラファエルとミカエル。		ptrx1
-op.8009B638	ベルゼバブと天竜との戦い		ptrx1
-op.8009B654	伝説の城		ptrx2
-op.8009B660	ホタルの光りにつつまれるレーパス。		ptrx1
+op.8009B5D4	天界に戻るラファエルとミカエル。	Raphael and Michael return to the Heavens.	ptrx1
+op.8009B5F8	戦いを終えて	After the Battle	ptrx1
+op.8009B608	勇者と天使のために現れたラファエルとミカエル。	Raphael and Michael appear for the hero and the angel.	ptrx1
+op.8009B638	ベルゼバブと天竜との戦い	Battle with Beelzebub and the Heavenly Dragon	ptrx1
+op.8009B654	伝説の城	Castle of Legend	ptrx2
+op.8009B660	ホタルの光りにつつまれるレーパス。	Lepus bathed in the light of fireflies.	ptrx1
 op.8009B684	やさしいかがやき	Gentle Glow	ptrx1
 op.8009B698	レーパス	Lepus	ptrx1
 op.8009B6A4	タンポポに座ってスーツ姿でお茶を飲むシータス。	Cetus in a suit, drinking tea on a dandelion.	ptrx1
 op.8009B6D4	ティータイム	Tea Time	ptrx1
 op.8009B6E4	シータス	Cetus	ptrx1
 op.8009B6F0	アルマジロを天使にぶつけてしまったリンクス。	Lynx, who hit the angel with an armadillo.	ptrx1
-op.8009B720	戦いの準備		ptrx1
+op.8009B720	戦いの準備	Battle Preparations	ptrx1
 op.8009B72C	リンクス	Lynx	ptrx1
-op.8009B738	オウムと遊ぶアクイラ。		ptrx1
+op.8009B738	オウムと遊ぶアクイラ。	Aquila playing with a parrot.	ptrx1
 op.8009B750	ストレス発散！	Stress Relief!	ptrx1
 op.8009B760	アクイラ	Aquila	ptrx1
-op.8009B76C	雪の夜にはしゃぐリリィ。		ptrx1
-op.8009B788	雪花		ptrx1
+op.8009B76C	雪の夜にはしゃぐリリィ。	Lily frolicking on a snowy night.	ptrx1
+op.8009B788	雪花	Snowflakes	ptrx1
 op.8009B790	リリィ	Lily	ptrx1
-op.8009B798	夕日を見つめて落ち込むシェリー。		ptrx1
-op.8009B7BC	ユウウツ		ptrx1
+op.8009B798	夕日を見つめて落ち込むシェリー。	Shelly, gloomy as she watches the sunset.	ptrx1
+op.8009B7BC	ユウウツ	The Blues	ptrx1
 op.8009B7C8	シェリー	Shelly	ptrx1
 op.8009B7D4	リスのあいだにまぎれ込むフロリンダ。	Florinda hiding among the squirrels.	ptrx1
-op.8009B7FC	かくれんぼ		ptrx1
+op.8009B7FC	かくれんぼ	Hide-and-Seek	ptrx1
 op.8009B808	フロリンダ	Florinda	ptrx1
 op.8009B814	クモの巣に引っかかったローザ。	Rosa caught in a spider web.	ptrx1
-op.8009B834	朝つゆとクモの巣		ptrx1
+op.8009B834	朝つゆとクモの巣	Morning Dew and Spider Web	ptrx1
 op.8009B848	ローザ	Rosa	ptrx1
-op.8009B850	妖精の女王		ptrx1
-op.8009B85C	フォータ離宮にて		ptrx1
+op.8009B850	妖精の女王	Queen of the Fairies	ptrx1
+op.8009B85C	フォータ離宮にて	At the Fota Villa	ptrx1
 op.8009B870	ティタニア	Titania	ptrx1
-op.8009B87C	復活を待つ魂の王		ptrx1
-op.8009B890	エミリア宮にて		ptrx1
+op.8009B87C	復活を待つ魂の王	King of Souls Awaiting Rebirth	ptrx1
+op.8009B890	エミリア宮にて	At the Emilia Palace	ptrx1
 op.8009B8A0	レミエル	Remiel	ptrx1
-op.8009B8AC	秘密の領域と神秘の天使		ptrx1
-op.8009B8C4	フロー宮にて		ptrx1
+op.8009B8AC	秘密の領域と神秘の天使	Secret Realms and the Angel of Mysteries	ptrx1
+op.8009B8C4	フロー宮にて	At the Flo Palace	ptrx1
 op.8009B8D4	ラツィエル	Raziel	ptrx1
-op.8009B8E0	天界の門を守る天使たち		ptrx1
-op.8009B8F8	堕天使との戦い		ptrx1
-op.8009B908	天界の門		ptrx1
-op.8009B914	ともに戦った者を想ってミカエルが植えたバラ。		ptrx1
+op.8009B8E0	天界の門を守る天使たち	Angels Guarding the Gate of Heaven	ptrx1
+op.8009B8F8	堕天使との戦い	Battle with the Fallen Angels	ptrx1
+op.8009B908	天界の門	The Gate of Heaven	ptrx1
+op.8009B914	ともに戦った者を想ってミカエルが植えたバラ。	Roses Michael planted in memory of those who fought beside him.	ptrx1
 op.8009B944	死んでいった天使たち	The Angels Who Died	ptrx1
-op.8009B95C	白バラの庭園		ptrx1
-op.8009B96C	神のごとき者		ptrx1
-op.8009B97C	大天使ミカエル		ptrx1
-op.8009B98C	癒しをおこなう輝ける者		ptrx1
-op.8009B9A4	聖アザリア宮にて		ptrx2
-op.8009B9B8	大天使ラファエル		ptrx1
-op.8009B9CC	ラキアとはラファエルが支配する第二天のこと。		ptrx1
-op.8009B9FC	ラキア宮から見える風景		ptrx1
-op.8009BA14	天界全景		ptrx1
-op.8009BA20	結婚式		ptrx1
-op.8009BA28	果たされた想い		ptrx2
-op.8009BA38	千年前にともに戦った仲間との別れ……。		ptrx1
-op.8009BA60	レイブンルフトを倒して		ptrx1
-op.8009BA78	セシアと地上に残る約束を交わして。		ptrx1
-op.8009BA9C	天竜が見える場所で話すふたり。		ptrx1
-op.8009BABC	千年の想い		ptrx2
-op.8009BAC8	がれきの山を見つめるセシアと天使。		ptrx1
-op.8009BAEC	母の死を理解させ、泣くイオンを抱きとめる。		ptrx1
-op.8009BB18	イオンとの戦い		ptrx1
-op.8009BB28	ファーノの少年		ptrx1
+op.8009B95C	白バラの庭園	The White Rose Garden	ptrx1
+op.8009B96C	神のごとき者	Who Is Like God	ptrx1
+op.8009B97C	大天使ミカエル	Michael the archangel	ptrx1
+op.8009B98C	癒しをおこなう輝ける者	The Shining One Who Heals	ptrx1
+op.8009B9A4	聖アザリア宮にて	At the Palace of St. Azaria	ptrx2
+op.8009B9B8	大天使ラファエル	Raphael the archangel	ptrx1
+op.8009B9CC	ラキアとはラファエルが支配する第二天のこと。	Raqia is the Second Heaven, ruled by Raphael.	ptrx1
+op.8009B9FC	ラキア宮から見える風景	The View from the Raqia Palace	ptrx1
+op.8009BA14	天界全景	The Heavens	ptrx1
+op.8009BA20	結婚式	The Wedding	ptrx1
+op.8009BA28	果たされた想い	A Wish Fulfilled	ptrx2
+op.8009BA38	千年前にともに戦った仲間との別れ……。	Parting with the comrades who fought together a thousand years ago...	ptrx1
+op.8009BA60	レイブンルフトを倒して	After Defeating Ravenruft	ptrx1
+op.8009BA78	セシアと地上に残る約束を交わして。	Promising Cecia to stay in the world below.	ptrx1
+op.8009BA9C	天竜が見える場所で話すふたり。	The two talk where the Heavenly Dragon can be seen.	ptrx1
+op.8009BABC	千年の想い	A Thousand Years of Longing	ptrx2
+op.8009BAC8	がれきの山を見つめるセシアと天使。	Cecia and the angel gaze at a mountain of rubble.	ptrx1
+op.8009BAEC	母の死を理解させ、泣くイオンを抱きとめる。	Making Ion understand his mother's death, and holding him as he cries.	ptrx1
+op.8009BB18	イオンとの戦い	Battle with Ion	ptrx1
+op.8009BB28	ファーノの少年	The Boy of Fano	ptrx1
 op.8009BB38	それを心配そうに見つめるセシア。	Cecia watches anxiously.	ptrx1
-op.8009BB5C	聖ディアナとして過去の戦いを語るセシア。		ptrx1
-op.8009BB88	千年前の出来事		ptrx1
-op.8009BB98	竜の湖		ptrx1
-op.8009BBA0	聖ディアナの証として、瞳の色が変わる……。		ptrx1
-op.8009BBCC	記憶を受け継いで		ptrx1
+op.8009BB5C	聖ディアナとして過去の戦いを語るセシア。	As St. Diana, Cecia tells of the battle of the past.	ptrx1
+op.8009BB88	千年前の出来事	Events of a Thousand Years Ago	ptrx1
+op.8009BB98	竜の湖	The Dragon Lake	ptrx1
+op.8009BBA0	聖ディアナの証として、瞳の色が変わる……。	Her eyes change color, the proof of St. Diana...	ptrx1
+op.8009BBCC	記憶を受け継いで	Inheriting the Memories	ptrx1
 op.8009BBE0	聖ディアナになるための儀式が始まる……。	The rite to become St. Diana begins...	ptrx1
-op.8009BC0C	儀式		ptrx1
-op.8009BC14	覚醒		ptrx2
-op.8009BC1C	自分の不安を天使に打ち明け、そして……。		ptrx1
-op.8009BC48	聖ディアナになると決めて		ptrx1
-op.8009BC64	決意		ptrx1
-op.8009BC6C	聖母の森で聖ディアナに会うセシアは……。		ptrx1
-op.8009BC98	胸騒ぎ		ptrx1
-op.8009BCA0	海ではしゃぐセシアは天使も泳ぎに誘う。		ptrx1
-op.8009BCC8	はじめて見た海で		ptrx1
-op.8009BCDC	海岸		ptrx1
-op.8009BCE4	壁画に描かれた聖母の伝説を見て感動するセシア。		ptrx1
-op.8009BD14	聖都を訪れて		ptrx1
-op.8009BD24	聖堂の壁画		ptrx1
-op.8009BD30	ケガをしている子供を見つけて手当をしようと……。		ptrx1
-op.8009BD64	事件解決に向かった先での出来事		ptrx1
-op.8009BD84	魔獣襲撃		ptrx1
+op.8009BC0C	儀式	The Rite	ptrx1
+op.8009BC14	覚醒	Awakening	ptrx2
+op.8009BC1C	自分の不安を天使に打ち明け、そして……。	She confides her fears to the angel, and then...	ptrx1
+op.8009BC48	聖ディアナになると決めて	Deciding to Become St. Diana	ptrx1
+op.8009BC64	決意	Resolve	ptrx1
+op.8009BC6C	聖母の森で聖ディアナに会うセシアは……。	Cecia meets St. Diana in the Forest of the Holy Mother...	ptrx1
+op.8009BC98	胸騒ぎ	Foreboding	ptrx1
+op.8009BCA0	海ではしゃぐセシアは天使も泳ぎに誘う。	Cecia frolics in the sea and invites the angel for a swim.	ptrx1
+op.8009BCC8	はじめて見た海で	Seeing the Sea for the First Time	ptrx1
+op.8009BCDC	海岸	The Seashore	ptrx1
+op.8009BCE4	壁画に描かれた聖母の伝説を見て感動するセシア。	Cecia, moved by the legend of the Holy Mother painted on a mural.	ptrx1
+op.8009BD14	聖都を訪れて	Visiting the Holy City	ptrx1
+op.8009BD24	聖堂の壁画	The Cathedral Mural	ptrx1
+op.8009BD30	ケガをしている子供を見つけて手当をしようと……。	Finding an injured child and trying to treat him...	ptrx1
+op.8009BD64	事件解決に向かった先での出来事	What happened on the way to solve an incident	ptrx1
+op.8009BD84	魔獣襲撃	Beast Attack	ptrx1
 op.8009BD90	セシアははじめて見た町の風景にとても、よろこぶ。	Cecia is delighted by her first sight of a town.	ptrx1
-op.8009BDC4	森を出て……		ptrx1
-op.8009BDD4	はじめての町		ptrx1
-op.8009BDE4	間違って天使に弓を向けてしまうセシア。		ptrx1
-op.8009BE0C	天使の見たレイフォリアの森		ptrx1
+op.8009BDC4	森を出て……	Leaving the Forest...	ptrx1
+op.8009BDD4	はじめての町	Her First Town	ptrx1
+op.8009BDE4	間違って天使に弓を向けてしまうセシア。	Cecia mistakenly aims her bow at the angel.	ptrx1
+op.8009BE0C	天使の見たレイフォリアの森	The Forest of Reyforia as the Angel Saw It	ptrx1
 op.8009BE28	セシアとのはじめての出会い	First Meeting with Cecia	ptrx2
-op.8009BE44	レイフォリアの森の少女		ptrx2
-op.8009BE5C	レイラのもとに現れたのは……		ptrx1
-op.8009BE7C	待ち人		ptrx2
-op.8009BE84	レイラと地上に残る約束を交わして。		ptrx1
-op.8009BEA8	約束		ptrx2
-op.8009BEB0	がれきの山を見つめるレイラと天使。		ptrx1
-op.8009BED4	海ではしゃぎ、くったくなく笑うレイラ。		ptrx1
-op.8009BEFC	意外な一面		ptrx1
-op.8009BF08	海辺		ptrx1
-op.8009BF10	自然に自分の変化を受け入れていくレイラの横顔。		ptrx1
-op.8009BF40	ベランダにて		ptrx1
+op.8009BE44	レイフォリアの森の少女	The Girl of the Forest of Reyforia	ptrx2
+op.8009BE5C	レイラのもとに現れたのは……	The one who came to Leyla was...	ptrx1
+op.8009BE7C	待ち人	The One She Waited For	ptrx2
+op.8009BE84	レイラと地上に残る約束を交わして。	Promising Leyla to stay in the world below.	ptrx1
+op.8009BEA8	約束	The Promise	ptrx2
+op.8009BEB0	がれきの山を見つめるレイラと天使。	Leyla and the angel gaze at a mountain of rubble.	ptrx1
+op.8009BED4	海ではしゃぎ、くったくなく笑うレイラ。	Leyla frolicking in the sea, laughing without a care.	ptrx1
+op.8009BEFC	意外な一面	An Unexpected Side	ptrx1
+op.8009BF08	海辺	The Seaside	ptrx1
+op.8009BF10	自然に自分の変化を受け入れていくレイラの横顔。	Leyla in profile, naturally accepting the change in herself.	ptrx1
+op.8009BF40	ベランダにて	On the Balcony	ptrx1
 op.8009BF50	天使にたいしていつもと違う表情を見せるレイラ。	Leyla shows the angel an unusual expression.	ptrx1
-op.8009BF80	天使との食事		ptrx1
+op.8009BF80	天使との食事	A Meal with the Angel	ptrx1
 op.8009BF90	ほんの少しのやすらぎ	A Little Peace	ptrx2
-op.8009BFA8	いままで気づかなかった自然の美しさにふれて……。		ptrx1
-op.8009BFDC	夕日の中でたたずむ		ptrx1
-op.8009BFF0	自然の中		ptrx1
+op.8009BFA8	いままで気づかなかった自然の美しさにふれて……。	Touched by a beauty in nature she had never noticed...	ptrx1
+op.8009BFDC	夕日の中でたたずむ	Standing in the Sunset	ptrx1
+op.8009BFF0	自然の中	In Nature	ptrx1
 op.8009BFFC	それを心配そうに見つめるレイラ。	Leyla watches anxiously.	ptrx1
-op.8009C020	自分のために天使を傷つけたことで彼女も傷つく。		ptrx1
-op.8009C050	自分の行動の無謀さと失敗に落ち込んで……		ptrx1
-op.8009C07C	悔し涙		ptrx1
-op.8009C084	セレニスにぶつかって天使をかばうレイラ。		ptrx1
-op.8009C0B0	セレニスの魔法に倒れた天使		ptrx1
-op.8009C0CC	彼女はいっしょにいる天使に姿を現せと迫る。		ptrx1
-op.8009C0F8	レイラの前に現れたセレニス		ptrx1
-op.8009C114	アルベリックの態度に嫌悪をあらわにするレイラ。		ptrx1
-op.8009C144	皇帝暗殺に失敗しアルベリックに囚われて		ptrx1
+op.8009C020	自分のために天使を傷つけたことで彼女も傷つく。	She is hurt too, because the angel was hurt for her sake.	ptrx1
+op.8009C050	自分の行動の無謀さと失敗に落ち込んで……	Downcast at her own recklessness and failure...	ptrx1
+op.8009C07C	悔し涙	Tears of Frustration	ptrx1
+op.8009C084	セレニスにぶつかって天使をかばうレイラ。	Leyla charges at Serenis to shield the angel.	ptrx1
+op.8009C0B0	セレニスの魔法に倒れた天使	The Angel Felled by Serenis's Magic	ptrx1
+op.8009C0CC	彼女はいっしょにいる天使に姿を現せと迫る。	She demands that the angel with Leyla reveal their presence.	ptrx1
+op.8009C0F8	レイラの前に現れたセレニス	Serenis Appears Before Leyla	ptrx1
+op.8009C114	アルベリックの態度に嫌悪をあらわにするレイラ。	Leyla openly shows her disgust at Alberic's attitude.	ptrx1
+op.8009C144	皇帝暗殺に失敗しアルベリックに囚われて	Captured by Alberic after the failed attempt on the Emperor	ptrx1
 op.8009C16C	身をひそめてクロイツフェルドを待ちかまえる……。	Lying in wait for Kreutzfeld...	ptrx1
-op.8009C1A0	戦勝記念の夜会		ptrx1
-op.8009C1B0	これから危険な賭けに出ることを話すレイラ。		ptrx1
-op.8009C1DC	戦勝記念の夜会へ向かう……		ptrx1
-op.8009C1F8	皇帝暗殺		ptrx5
-op.8009C204	危険をかえりみず帝都に戻ったレイラ。		ptrx1
-op.8009C22C	母が倒れたという知らせを受けて		ptrx1
-op.8009C24C	母との再会		ptrx1
-op.8009C258	彼女は自分の小手が父の形見であることを話す。		ptrx1
-op.8009C288	天使に思い出を語るレイラ		ptrx1
-op.8009C2A4	両親の思い出		ptrx1
+op.8009C1A0	戦勝記念の夜会	The Victory Ball	ptrx1
+op.8009C1B0	これから危険な賭けに出ることを話すレイラ。	Leyla tells of the dangerous gamble she is about to take.	ptrx1
+op.8009C1DC	戦勝記念の夜会へ向かう……	Heading to the victory ball...	ptrx1
+op.8009C1F8	皇帝暗殺	Assassinating the Emperor	ptrx5
+op.8009C204	危険をかえりみず帝都に戻ったレイラ。	Leyla returns to the imperial capital despite the danger.	ptrx1
+op.8009C22C	母が倒れたという知らせを受けて	Hearing that her mother has collapsed	ptrx1
+op.8009C24C	母との再会	Reunion with Her Mother	ptrx1
+op.8009C258	彼女は自分の小手が父の形見であることを話す。	She explains that her gauntlets were her father's keepsake.	ptrx1
+op.8009C288	天使に思い出を語るレイラ	Leyla Shares Her Memories with the Angel	ptrx1
+op.8009C2A4	両親の思い出	Memories of Her Parents	ptrx1
 op.8009C2B4	彼らの変わり果てた姿にレイラは……。	Seeing them so changed, Leyla...	ptrx1
-op.8009C2DC	自分を助けてくれた部下たち		ptrx1
+op.8009C2DC	自分を助けてくれた部下たち	The Subordinates Who Saved Her	ptrx1
 op.8009C2F8	イエーナ侵攻	Jena Invaded	ptrx1
 op.8009C308	アルベリックにいわれのない罪で囚えられた彼女。	Imprisoned by Alberic on a false charge.	ptrx1
-op.8009C338	レイラとの最初の出会い		ptrx1
-op.8009C350	裏切りの帝国騎士		ptrx1
-op.8009C364	塔で待つアイリーン		ptrx1
+op.8009C338	レイラとの最初の出会い	First Meeting with Leyla	ptrx1
+op.8009C350	裏切りの帝国騎士	The Traitor Knight of the Empire	ptrx1
+op.8009C364	塔で待つアイリーン	Irene Waiting in the Tower	ptrx1
 op.8009C378	ずっといっしょに……	Together Forever...	ptrx2
-op.8009C390	手紙を届けてとウェスタを放つアイリーン。		ptrx1
-op.8009C3BC	フェインへの想いをつづった手紙		ptrx1
-op.8009C3DC	手紙		ptrx1
-op.8009C3E4	アイリーンと地上に残る約束を交わして。		ptrx1
-op.8009C40C	お姉ちゃんに似ている？　と聞く彼女に天使は……。		ptrx1
-op.8009C440	魔法が解けてもとの姿に戻ったアイリーン。		ptrx1
-op.8009C46C	魔法が解けて		ptrx2
-op.8009C47C	魔石の塔の見える場所で姉を想うアイリーン。		ptrx1
-op.8009C4A8	花を手向けて		ptrx1
-op.8009C4B8	孤独		ptrx1
-op.8009C4C0	がれきの山を見つめるアイリーンと天使。		ptrx1
+op.8009C390	手紙を届けてとウェスタを放つアイリーン。	Irene releases Vesta to deliver a letter.	ptrx1
+op.8009C3BC	フェインへの想いをつづった手紙	A Letter of Her Feelings for Fein	ptrx1
+op.8009C3DC	手紙	The Letter	ptrx1
+op.8009C3E4	アイリーンと地上に残る約束を交わして。	Promising Irene to stay in the world below.	ptrx1
+op.8009C40C	お姉ちゃんに似ている？　と聞く彼女に天使は……。	When she asks, "Do I look like my sister?" the angel...	ptrx1
+op.8009C440	魔法が解けてもとの姿に戻ったアイリーン。	The spell broken, Irene returns to her true form.	ptrx1
+op.8009C46C	魔法が解けて	The Spell Is Broken	ptrx2
+op.8009C47C	魔石の塔の見える場所で姉を想うアイリーン。	Irene thinks of her sister within sight of the Demon Stone tower.	ptrx1
+op.8009C4A8	花を手向けて	Offering Flowers	ptrx1
+op.8009C4B8	孤独	Solitude	ptrx1
+op.8009C4C0	がれきの山を見つめるアイリーンと天使。	Irene and the angel gaze at a mountain of rubble.	ptrx1
 op.8009C4E8	それを心配そうに見つめるアイリーン。	Irene watches anxiously.	ptrx1
 op.8009C510	セレニスが変わってしまった原因を話す。	She explains why Serenis changed.	ptrx1
 op.8009C538	アイリーンの悲しみ	Irene's Sorrow	ptrx1
-op.8009C54C	呪われた魂		ptrx1
+op.8009C54C	呪われた魂	Cursed Soul	ptrx1
 op.8009C558	川を見つけて水浴びをしようとしているアイリーン。	Irene finds a river and is about to bathe.	ptrx1
-op.8009C58C	閉じこめられた森の中で		ptrx1
-op.8009C5A4	祖父とセレニス、フェインとの幸せな過去の生活……。		ptrx1
+op.8009C58C	閉じこめられた森の中で	In the Forest That Trapped Them	ptrx1
+op.8009C5A4	祖父とセレニス、フェインとの幸せな過去の生活……。	The happy life of the past with her grandfather, Serenis and Fein...	ptrx1
 op.8009C5D8	アイリーンの語る思い出	Irene's Memories	ptrx1
-op.8009C5F0	塔		ptrx1
-op.8009C5F4	雪合戦で平和な時間を楽しむふたり。		ptrx1
+op.8009C5F0	塔	Tower	ptrx1
+op.8009C5F4	雪合戦で平和な時間を楽しむふたり。	The two enjoy a peaceful time in a snowball fight.	ptrx1
 op.8009C618	はしゃぐアイリーン	Irene at Play	ptrx1
-op.8009C62C	雪合戦		ptrx1
+op.8009C62C	雪合戦	Snowball Fight	ptrx1
 op.8009C634	にぎやかな街でアイリーンは天使を誘って出かける。	In the lively city, Irene invites the angel out.	ptrx1
-op.8009C668	聖都で買い物を楽しむ		ptrx1
-op.8009C680	聖都を眺める		ptrx1
-op.8009C690	魔石が見つかったという伝説をアイリーンから聞く。		ptrx1
-op.8009C6C4	デルフィニア山		ptrx1
-op.8009C6D4	史跡		ptrx1
+op.8009C668	聖都で買い物を楽しむ	Shopping in the Holy City	ptrx1
+op.8009C680	聖都を眺める	Gazing at the Holy City	ptrx1
+op.8009C690	魔石が見つかったという伝説をアイリーンから聞く。	Irene tells the legend of where the Demon Stone was found.	ptrx1
+op.8009C6C4	デルフィニア山	Mount Delphinia	ptrx1
+op.8009C6D4	史跡	Historic Site	ptrx1
 op.8009C6DC	食事に招待されたアイリーンは居心地が悪くて……。	Invited to dinner, Irene feels out of place...	ptrx1
 op.8009C710	ウェスタを見つけてくれた男の子と……	With the boy who found Vesta...	ptrx1
 op.8009C738	いなくなったウェスタ	Vesta Goes Missing	ptrx1
-op.8009C750	魔法をとなえたアイリーンは天使を見て……。		ptrx1
-op.8009C77C	アイリーンの住む魔導士の塔		ptrx1
+op.8009C750	魔法をとなえたアイリーンは天使を見て……。	Irene casts a spell, sees the angel, and...	ptrx1
+op.8009C77C	アイリーンの住む魔導士の塔	The Mages' Tower Where Irene Lives	ptrx1
 op.8009C798	アイリーンとの最初の出会い	First Meeting with Irene	ptrx2
-op.8009C7B4	魔導士の少女		ptrx2
-op.8009C7C4	聖堂の中		ptrx1
-op.8009C7D0	真実		ptrx2
-op.8009C7D8	ロクスと地上に残る約束を交わして。		ptrx1
-op.8009C7FC	クラレンスとの最後の戦いで目に傷を負ったロクス。		ptrx1
-op.8009C830	ヴァイパーとの最後の戦い		ptrx1
-op.8009C84C	毒蛇の誘い		ptrx1
+op.8009C7B4	魔導士の少女	The Mage Girl	ptrx2
+op.8009C7C4	聖堂の中	Inside the Cathedral	ptrx1
+op.8009C7D0	真実	The Truth	ptrx2
+op.8009C7D8	ロクスと地上に残る約束を交わして。	Promising Rocus to stay in the world below.	ptrx1
+op.8009C7FC	クラレンスとの最後の戦いで目に傷を負ったロクス。	Rocus, his eye wounded in the last battle with Clarence.	ptrx1
+op.8009C830	ヴァイパーとの最後の戦い	The Last Battle with Viper	ptrx1
+op.8009C84C	毒蛇の誘い	The Viper's Lure	ptrx1
 op.8009C858	それを心配そうに見つめるロクス。	Rocus watches anxiously.	ptrx1
 op.8009C87C	ロクス、ヴァイパーにキレる	Rocus Loses It with Viper	ptrx1
-op.8009C898	ロクスは女天使に素直に自分の気持ちを話す。		ptrx1
-op.8009C8C4	女天使を誘って		ptrx1
-op.8009C8D4	寒い夜		ptrx1
-op.8009C8DC	酔っぱらった天使にあきれるロクス。		ptrx1
-op.8009C900	ロクスと飲みに行った男天使		ptrx1
-op.8009C91C	意外な天使		ptrx1
-op.8009C928	天使はロクスを信じると言うが彼は素直になれない。		ptrx1
+op.8009C898	ロクスは女天使に素直に自分の気持ちを話す。	Rocus honestly tells the female angel how he feels.	ptrx1
+op.8009C8C4	女天使を誘って	Inviting the Female Angel	ptrx1
+op.8009C8D4	寒い夜	A Cold Night	ptrx1
+op.8009C8DC	酔っぱらった天使にあきれるロクス。	Rocus, appalled at the drunken angel.	ptrx1
+op.8009C900	ロクスと飲みに行った男天使	The Male Angel Who Went Drinking with Rocus	ptrx1
+op.8009C91C	意外な天使	An Unexpected Angel	ptrx1
+op.8009C928	天使はロクスを信じると言うが彼は素直になれない。	The angel says they trust Rocus, but he can't open up.	ptrx1
 op.8009C95C	自分の不満をこういう形でしか表現できないロクス。	Rocus can only voice his frustration this way.	ptrx1
-op.8009C990	宿屋での出来事		ptrx1
-op.8009C9A0	自分にイラ立つロクスはいさめる天使とケンカに。		ptrx1
-op.8009C9D0	やけになって		ptrx1
-op.8009C9E0	荒れるロクス		ptrx1
-op.8009C9F0	会議の席でロクスをかばう副教皇を見て、彼は……。		ptrx1
-op.8009CA24	会議をのぞき見るロクス		ptrx1
-op.8009CA3C	副教皇と大司教たち		ptrx1
-op.8009CA50	ロクスは高台から聖都の様子を見て……。		ptrx1
-op.8009CA78	燃え上がる聖都		ptrx1
-op.8009CA88	聖都侵攻		ptrx1
-op.8009CA94	カードに負けたロクスは秘密をしゃべらせられる。		ptrx1
-op.8009CAC4	クラレンスとの勝負		ptrx1
-op.8009CAD8	毒蛇との賭け		ptrx1
+op.8009C990	宿屋での出来事	What Happened at the Inn	ptrx1
+op.8009C9A0	自分にイラ立つロクスはいさめる天使とケンカに。	Angry at himself, Rocus fights with the angel who scolds him.	ptrx1
+op.8009C9D0	やけになって	In Desperation	ptrx1
+op.8009C9E0	荒れるロクス	Rocus Runs Wild	ptrx1
+op.8009C9F0	会議の席でロクスをかばう副教皇を見て、彼は……。	Seeing the Vice Pope defend him at the council, Rocus...	ptrx1
+op.8009CA24	会議をのぞき見るロクス	Rocus Peeks at the Council	ptrx1
+op.8009CA3C	副教皇と大司教たち	The Vice Pope and the Archbishops	ptrx1
+op.8009CA50	ロクスは高台から聖都の様子を見て……。	From the heights, Rocus sees the state of the Holy City...	ptrx1
+op.8009CA78	燃え上がる聖都	The Holy City in Flames	ptrx1
+op.8009CA88	聖都侵攻	Holy City Invaded	ptrx1
+op.8009CA94	カードに負けたロクスは秘密をしゃべらせられる。	Having lost at cards, Rocus is made to tell his secret.	ptrx1
+op.8009CAC4	クラレンスとの勝負	The Game with Clarence	ptrx1
+op.8009CAD8	毒蛇との賭け	A Wager with the Viper	ptrx1
 op.8009CAE8	クラレンスに会ってロクスの運命が変わりはじめる。	Meeting Clarence, Rocus's fate begins to change.	ptrx1
 op.8009CB1C	ヴァイパー～毒蛇～というあだ名の男	The Man Called Viper	ptrx1
-op.8009CB40	毒蛇		ptrx1
-op.8009CB48	天使を誘って訪れた酒場でのロクス……。		ptrx1
-op.8009CB70	ロクスの夜		ptrx1
-op.8009CB7C	聖堂の中で話すロクスと副教皇。		ptrx1
-op.8009CB9C	聖堂への階段を上るロクスに声をかけると……。		ptrx1
-op.8009CBCC	天使の見た聖都の風景。		ptrx1
-op.8009CBE4	ロクスとの最初の出会い		ptrx3
-op.8009CBFC	聖王国の教皇		ptrx3
-op.8009CC0C	ゾウにゆられて		ptrx1
-op.8009CC1C	紙吹雪の中で		ptrx2
-op.8009CC2C	ルディと地上に残る約束を交わして。		ptrx1
-op.8009CC50	誓い		ptrx2
-op.8009CC58	がれきの山を見つめるルディと天使。		ptrx2
-op.8009CC7C	雨宿りをしながら天使に自分の想いを語る。		ptrx1
+op.8009CB40	毒蛇	Viper	ptrx1
+op.8009CB48	天使を誘って訪れた酒場でのロクス……。	Rocus at the tavern where he took the angel...	ptrx1
+op.8009CB70	ロクスの夜	Rocus's Night	ptrx1
+op.8009CB7C	聖堂の中で話すロクスと副教皇。	Rocus and the Vice Pope talk in the cathedral.	ptrx1
+op.8009CB9C	聖堂への階段を上るロクスに声をかけると……。	Calling out to Rocus as he climbs the cathedral steps...	ptrx1
+op.8009CBCC	天使の見た聖都の風景。	The Holy City as the angel saw it.	ptrx1
+op.8009CBE4	ロクスとの最初の出会い	First Meeting with Rocus	ptrx3
+op.8009CBFC	聖王国の教皇	Pope of the Holy Kingdom	ptrx3
+op.8009CC0C	ゾウにゆられて	Riding an Elephant	ptrx1
+op.8009CC1C	紙吹雪の中で	In the Confetti	ptrx2
+op.8009CC2C	ルディと地上に残る約束を交わして。	Promising Rudi to stay in the world below.	ptrx1
+op.8009CC50	誓い	The Vow	ptrx2
+op.8009CC58	がれきの山を見つめるルディと天使。	Rudi and the angel gaze at a mountain of rubble.	ptrx2
+op.8009CC7C	雨宿りをしながら天使に自分の想いを語る。	Sheltering from the rain, he tells the angel his feelings.	ptrx1
 op.8009CCA8	いままでの自分を振り返るルディ	Rudi Looks Back on Himself	ptrx1
-op.8009CCC8	雨		ptrx1
-op.8009CCCC	弟を止めようとするがその想いは届かずに……。		ptrx1
-op.8009CCFC	ルディとサヴィオの戦い		ptrx1
-op.8009CD14	呪いの鎧		ptrx1
+op.8009CCC8	雨	Rain	ptrx1
+op.8009CCCC	弟を止めようとするがその想いは届かずに……。	She tries to stop her brother, but her feelings don't reach him...	ptrx1
+op.8009CCFC	ルディとサヴィオの戦い	The Battle of Rudi and Savio	ptrx1
+op.8009CD14	呪いの鎧	The Cursed Armor	ptrx1
 op.8009CD20	それを心配そうに見つめるルディ。	Rudi watches anxiously.	ptrx1
-op.8009CD44	サヴィアはルディにユーグの印象を話す。		ptrx1
-op.8009CD6C	誤解がとけた二人		ptrx1
+op.8009CD44	サヴィアはルディにユーグの印象を話す。	Savia tells Rudi her impression of Hugues.	ptrx1
+op.8009CD6C	誤解がとけた二人	A Misunderstanding Cleared	ptrx1
 op.8009CD80	鎧～ルディとサヴィア２～	Armor: Rudi and Savia 2	ptrx1
 op.8009CD9C	王の死の原因がルディにあると責められる。	Rudi is blamed for the king's death.	ptrx1
-op.8009CDC8	自分のことばかり考えている貴族たち		ptrx1
-op.8009CDEC	政治		ptrx1
-op.8009CDF4	兄の死後、玉座の間で母と話すルディ。		ptrx1
-op.8009CE1C	兄の意志		ptrx1
-op.8009CE28	母		ptrx1
-op.8009CE2C	兄の亡きがらにすがるルディ。		ptrx1
-op.8009CE4C	悪いうわさを聞いて王宮に戻るが……		ptrx1
-op.8009CE70	王、暗殺		ptrx1
+op.8009CDC8	自分のことばかり考えている貴族たち	Nobles Who Think Only of Themselves	ptrx1
+op.8009CDEC	政治	Politics	ptrx1
+op.8009CDF4	兄の死後、玉座の間で母と話すルディ。	After his brother's death, Rudi talks with his mother in the throne room.	ptrx1
+op.8009CE1C	兄の意志	His Brother's Will	ptrx1
+op.8009CE28	母	Mother	ptrx1
+op.8009CE2C	兄の亡きがらにすがるルディ。	Rudi clings to his brother's body.	ptrx1
+op.8009CE4C	悪いうわさを聞いて王宮に戻るが……	Hearing a bad rumor, he returns to the palace, but...	ptrx1
+op.8009CE70	王、暗殺	The King Assassinated	ptrx1
 op.8009CE7C	ルディを助けにきたのは……？	Who came to rescue Rudi...?	ptrx1
-op.8009CE9C	赤い鎧の男に囚われたルディ		ptrx1
-op.8009CEB8	血色の鎧		ptrx1
-op.8009CEC4	昼間とは違った様子を見せる皇帝にルディは……。		ptrx1
-op.8009CEF4	宮殿のテラスで		ptrx1
+op.8009CE9C	赤い鎧の男に囚われたルディ	Rudi, Captured by the Man in Red Armor	ptrx1
+op.8009CEB8	血色の鎧	Blood-Red Armor	ptrx1
+op.8009CEC4	昼間とは違った様子を見せる皇帝にルディは……。	The Emperor seems different than in the daytime, and Rudi...	ptrx1
+op.8009CEF4	宮殿のテラスで	On the Palace Terrace	ptrx1
 op.8009CF04	皇帝エンディミオン	Emperor Endymion	ptrx1
-op.8009CF18	ルディは自分の気持ちを皇帝へぶつける。		ptrx1
-op.8009CF40	正装したルディの姿		ptrx1
-op.8009CF54	ルディは宰相の言葉に反感を抱く。		ptrx1
-op.8009CF78	帝国側の人間		ptrx1
-op.8009CF88	帝国を訪れたルディに、宰相は……。		ptrx1
-op.8009CFAC	帝国皇帝との会見の場にて		ptrx1
-op.8009CFC8	帝都		ptrx3
-op.8009CFD0	兄から帝国の真意を探ることを頼まれたルディ。		ptrx1
+op.8009CF18	ルディは自分の気持ちを皇帝へぶつける。	Rudi throws his feelings at the Emperor.	ptrx1
+op.8009CF40	正装したルディの姿	Rudi in Formal Dress	ptrx1
+op.8009CF54	ルディは宰相の言葉に反感を抱く。	Rudi resents the Chancellor's words.	ptrx1
+op.8009CF78	帝国側の人間	The Empire's People	ptrx1
+op.8009CF88	帝国を訪れたルディに、宰相は……。	When Rudi visits the Empire, the Chancellor...	ptrx1
+op.8009CFAC	帝国皇帝との会見の場にて	At the Audience with the Emperor	ptrx1
+op.8009CFC8	帝都	The Imperial Capital	ptrx3
+op.8009CFD0	兄から帝国の真意を探ることを頼まれたルディ。	Rudi's brother asks him to find out the Empire's true intent.	ptrx1
 op.8009D000	レグランス国王、ユーグ・ゼイント	Hugues Zeint, King of Legrance	ptrx1
-op.8009D024	帝国への特使		ptrx1
-op.8009D034	あまりの暑さに水浴びをするルディたち。		ptrx1
-op.8009D05C	ゾウのセネカとルディ		ptrx1
+op.8009D024	帝国への特使	Envoy to the Empire	ptrx1
+op.8009D034	あまりの暑さに水浴びをするルディたち。	Rudi and the others bathe in the river in the terrible heat.	ptrx1
+op.8009D05C	ゾウのセネカとルディ	Rudi and Seneca the Elephant	ptrx1
 op.8009D074	ひととき～遊んで～	A Moment at Play	ptrx1
 op.8009D088	寝ているルディを起こすと……。	Waking Rudi from his nap...	ptrx1
-op.8009D0A8	レグランス王国、王宮。		ptrx1
-op.8009D0C0	ルディとの最初の出会い		ptrx2
-op.8009D0D8	南国の王子		ptrx2
-op.8009D0E4	再び出会って		ptrx1
+op.8009D0A8	レグランス王国、王宮。	The royal palace of the Kingdom of Legrance.	ptrx1
+op.8009D0C0	ルディとの最初の出会い	First Meeting with Rudi	ptrx2
+op.8009D0D8	南国の王子	Prince of the South	ptrx2
+op.8009D0E4	再び出会って	Meeting Again	ptrx1
 op.8009D0F4	レイブンルフトを倒したクライヴは……。	Clive, having defeated Ravenruft...	ptrx1
-op.8009D11C	レイブンルフトを倒して。		ptrx1
-op.8009D138	レイブンルフトとの最後の戦いの場所。		ptrx1
-op.8009D160	レイブンルフト城の広間		ptrx1
-op.8009D178	闇の帝王		ptrx3
-op.8009D184	クライヴと地上に残る約束を交わして。		ptrx1
-op.8009D1AC	天竜の見える場所で話すふたり。		ptrx4
-op.8009D1CC	復活した天竜		ptrx5
-op.8009D1DC	光を求めて		ptrx2
+op.8009D11C	レイブンルフトを倒して。	After defeating Ravenruft.	ptrx1
+op.8009D138	レイブンルフトとの最後の戦いの場所。	Where the last battle with Ravenruft took place.	ptrx1
+op.8009D160	レイブンルフト城の広間	The Great Hall of Ravenruft Castle	ptrx1
+op.8009D178	闇の帝王	Emperor of Darkness	ptrx3
+op.8009D184	クライヴと地上に残る約束を交わして。	Promising Clive to stay in the world below.	ptrx1
+op.8009D1AC	天竜の見える場所で話すふたり。	The two talk where the Heavenly Dragon can be seen.	ptrx4
+op.8009D1CC	復活した天竜	The Heavenly Dragon Revived	ptrx5
+op.8009D1DC	光を求めて	Seeking the Light	ptrx2
 op.8009D1E8	明るい日差しは彼にとってはまだつらく……。	Bright sunlight is still hard on him...	ptrx1
-op.8009D214	陽の当たる場所		ptrx1
-op.8009D224	街へ		ptrx1
-op.8009D22C	がれきの山を見つめるクライヴと天使。		ptrx1
-op.8009D254	勇者だったころのレイブンルフトの剣を手に入れる。		ptrx1
-op.8009D288	天使の剣		ptrx2
-op.8009D294	占領された村		ptrx2
+op.8009D214	陽の当たる場所	A Place in the Sun	ptrx1
+op.8009D224	街へ	To the Town	ptrx1
+op.8009D22C	がれきの山を見つめるクライヴと天使。	Clive and the angel gaze at a mountain of rubble.	ptrx1
+op.8009D254	勇者だったころのレイブンルフトの剣を手に入れる。	Obtaining the sword Ravenruft bore when he was a hero.	ptrx1
+op.8009D288	天使の剣	The Angel's Sword	ptrx2
+op.8009D294	占領された村	Occupied Village	ptrx2
 op.8009D2A4	それを心配そうに見つめるクライヴ。	Clive watches anxiously.	ptrx1
 op.8009D2C8	吸血鬼の血がクライヴを苦しめる……そして……。	Vampire blood torments Clive... and then...	ptrx1
-op.8009D2F8	発作		ptrx1
-op.8009D300	血の葛藤		ptrx1
-op.8009D30C	レイブンルフトの力の前に、近づくことも出来ない。		ptrx1
+op.8009D2F8	発作	The Fit	ptrx1
+op.8009D300	血の葛藤	Struggle of the Blood	ptrx1
+op.8009D30C	レイブンルフトの力の前に、近づくことも出来ない。	Before Ravenruft's power, he cannot even get close.	ptrx1
 op.8009D340	レイブンルフトの玉座	Ravenruft's Throne	ptrx1
-op.8009D358	いつもは姿を見ることさえできない謎の城。		ptrx1
+op.8009D358	いつもは姿を見ることさえできない謎の城。	A mysterious castle that usually cannot even be seen.	ptrx1
 op.8009D384	レイブンルフト城	Ravenruft Castle	ptrx1
-op.8009D398	城への道		ptrx2
-op.8009D3A4	この村で起こった悲劇を語るクライヴ。		ptrx1
-op.8009D3CC	あるうち捨てられた村を訪れて		ptrx1
-op.8009D3EC	師、アーウィン		ptrx1
-op.8009D3FC	吸血鬼と化した彼女は彼を誘惑しようとするが……。		ptrx1
-op.8009D430	吸血鬼に襲われたクレージュ公国の姫		ptrx1
-op.8009D454	呪われた姫君		ptrx1
-op.8009D464	安らかな寝息……寝顔からは影は感じられない。		ptrx1
+op.8009D398	城への道	The Road to the Castle	ptrx2
+op.8009D3A4	この村で起こった悲劇を語るクライヴ。	Clive tells of the tragedy that happened in this village.	ptrx1
+op.8009D3CC	あるうち捨てられた村を訪れて	Visiting an Abandoned Village	ptrx1
+op.8009D3EC	師、アーウィン	Irwin, His Master	ptrx1
+op.8009D3FC	吸血鬼と化した彼女は彼を誘惑しようとするが……。	Turned into a vampire, she tries to seduce him, but...	ptrx1
+op.8009D430	吸血鬼に襲われたクレージュ公国の姫	The Princess of Courrege, Attacked by a Vampire	ptrx1
+op.8009D454	呪われた姫君	Cursed Princess	ptrx1
+op.8009D464	安らかな寝息……寝顔からは影は感じられない。	Peaceful breathing... No shadow in his sleeping face.	ptrx1
 op.8009D494	眠るクライヴ	Clive Asleep	ptrx1
 op.8009D4A4	安息と	Rest	ptrx1
-op.8009D4AC	月明かりの下、ゾンビを倒したクライヴは……。		ptrx1
+op.8009D4AC	月明かりの下、ゾンビを倒したクライヴは……。	Under the moonlight, having slain the zombies, Clive...	ptrx1
 op.8009D4DC	クライヴとの最初の出会い	First Meeting with Clive	ptrx1
 op.8009D4F8	吸血鬼ハンター	Vampire Hunter	ptrx1
-op.8009D508	荒野で……		ptrx1
-op.8009D514	未来へ		ptrx2
+op.8009D508	荒野で……	In the Wilderness...	ptrx1
+op.8009D514	未来へ	Toward the Future	ptrx2
 op.8009D520	エンディング	Ending	ptrx7
 op.8009D530	ウェスタが届けてくれた手紙で彼女の気持ちを知る。	Vesta's letter tells the angel how she feels.	ptrx1
-op.8009D564	手紙が届いて		ptrx1
+op.8009D564	手紙が届いて	The Letter Arrives	ptrx1
 op.8009D574	アイリーンからの手紙	A Letter from Irene	ptrx1
 op.8009D58C	フェインに呼び止められ天使は立ち止まる。	Called by Fein, the angel stops.	ptrx1
-op.8009D5B8	告白		ptrx11
-op.8009D5C0	死ねなかったことを悔やむフェインに天使は……。		ptrx1
-op.8009D5F0	月明かりだけが差し込む部屋		ptrx1
-op.8009D60C	夜		ptrx2
-op.8009D610	フェインは果たせなかった想いを語る。		ptrx1
-op.8009D638	魔石の塔の見える場所で……		ptrx1
-op.8009D654	崩れた塔を目の前にして天使は……。		ptrx1
-op.8009D678	天竜復活		ptrx7
-op.8009D684	崩れた魔石の塔		ptrx7
+op.8009D5B8	告白	Confession	ptrx11
+op.8009D5C0	死ねなかったことを悔やむフェインに天使は……。	Fein regrets that he could not die, and the angel...	ptrx1
+op.8009D5F0	月明かりだけが差し込む部屋	A Room Lit Only by Moonlight	ptrx1
+op.8009D60C	夜	Night	ptrx2
+op.8009D610	フェインは果たせなかった想いを語る。	Fein tells of the wish he could not fulfill.	ptrx1
+op.8009D638	魔石の塔の見える場所で……	Within sight of the Demon Stone tower...	ptrx1
+op.8009D654	崩れた塔を目の前にして天使は……。	Facing the fallen tower, the angel...	ptrx1
+op.8009D678	天竜復活	The Heavenly Dragon Revives	ptrx7
+op.8009D684	崩れた魔石の塔	The Fallen Demon Stone Tower	ptrx7
 op.8009D694	セレニスをひとりではいかせないと言う。	He says he won't let Serenis go alone.	ptrx1
-op.8009D6BC	罪の償いとは……		ptrx1
+op.8009D6BC	罪の償いとは……	Atoning for Sin...	ptrx1
 op.8009D6D0	フェインの死	Fein's Death	ptrx1
-op.8009D6E0	セレニスが死に、悪魔はエンディミオンの体へ。		ptrx7
-op.8009D710	セレニスに巣くっていた悪魔		ptrx7
+op.8009D6E0	セレニスが死に、悪魔はエンディミオンの体へ。	Serenis dies, and the devil moves into Endymion's body.	ptrx7
+op.8009D710	セレニスに巣くっていた悪魔	The Devil That Nested in Serenis	ptrx7
 op.8009D72C	エンディミオン覚醒	Endymion Awakens	ptrx7
-op.8009D740	自らの手で倒したセレニスを抱きとめ……。		ptrx1
+op.8009D740	自らの手で倒したセレニスを抱きとめ……。	Holding Serenis, whom he struck down with his own hands...	ptrx1
 op.8009D76C	フェインとの戦いによって倒れたセレニス。	Serenis, fallen in the battle with Fein.	ptrx1
-op.8009D798	セレニスの死		ptrx2
-op.8009D7A8	魔石がすべて集まり、天竜復活の儀式が行われる。		ptrx7
-op.8009D7D8	魔石の塔		ptrx7
-op.8009D7E4	復活の儀式		ptrx7
+op.8009D798	セレニスの死	The Death of Serenis	ptrx2
+op.8009D7A8	魔石がすべて集まり、天竜復活の儀式が行われる。	With all the Demon Stones gathered, the rite to revive the Heavenly Dragon begins.	ptrx7
+op.8009D7D8	魔石の塔	The Demon Stone Tower	ptrx7
+op.8009D7E4	復活の儀式	Rite of Revival	ptrx7
 op.8009D7F0	それを心配そうに見つめるフェイン。	Fein watches anxiously.	ptrx1
-op.8009D814	魔石を触った天使はその力のために傷つき倒れる。		ptrx7
-op.8009D844	ヴァイパーは魔石を手に天使を挑発する。		ptrx7
-op.8009D86C	魔石を奪った男と出会って		ptrx6
-op.8009D888	ヴァイパーの挑戦		ptrx14
-op.8009D89C	閉じられた森から出るために川を渡る。		ptrx1
-op.8009D8C4	魔導士の力によって森に閉じこめられて		ptrx1
-op.8009D8EC	わなの森		ptrx2
+op.8009D814	魔石を触った天使はその力のために傷つき倒れる。	Touching the Demon Stone, the angel is struck down by its power.	ptrx7
+op.8009D844	ヴァイパーは魔石を手に天使を挑発する。	Viper taunts the angel with the Demon Stone in hand.	ptrx7
+op.8009D86C	魔石を奪った男と出会って	Meeting the Man Who Stole the Demon Stone	ptrx6
+op.8009D888	ヴァイパーの挑戦	Viper's Challenge	ptrx14
+op.8009D89C	閉じられた森から出るために川を渡る。	Crossing the river to escape the closed forest.	ptrx1
+op.8009D8C4	魔導士の力によって森に閉じこめられて	Trapped in the forest by a mage's power	ptrx1
+op.8009D8EC	わなの森	The Trap Forest	ptrx2
 op.8009D8F8	寝ころんで本に夢中になっているフェイン。	Fein lying down, absorbed in a book.	ptrx1
 op.8009D924	つかのまの休息	A Brief Rest	ptrx1
 op.8009D934	休息	Rest	ptrx1
-op.8009D93C	殺された仲間を見て、怒りにふるえるフェイン。		ptrx1
-op.8009D96C	帝国に襲われたグランドロッジ		ptrx1
-op.8009D98C	アルベリック侵攻		ptrx1
-op.8009D9A0	聖母に会ったフェインは伝説の竜を思い出す。		ptrx1
-op.8009D9CC	レイフォリアの森にて		ptrx1
-op.8009D9E4	聖母の森		ptrx2
-op.8009D9F0	天使とフェインは伝説を描いた壁画を見る。		ptrx1
-op.8009DA1C	エクレシア教国首都の大聖堂		ptrx1
-op.8009DA38	聖都		ptrx1
-op.8009DA40	世界や悩みについてなどをお互いの気持ちを話す。		ptrx1
-op.8009DA70	フェインとの会話		ptrx1
-op.8009DA84	酒場にて		ptrx2
+op.8009D93C	殺された仲間を見て、怒りにふるえるフェイン。	Seeing his murdered comrades, Fein shakes with rage.	ptrx1
+op.8009D96C	帝国に襲われたグランドロッジ	The Grand Lodge Attacked by the Empire	ptrx1
+op.8009D98C	アルベリック侵攻	Alberic's Invasion	ptrx1
+op.8009D9A0	聖母に会ったフェインは伝説の竜を思い出す。	Meeting the Holy Mother, Fein recalls the legendary dragon.	ptrx1
+op.8009D9CC	レイフォリアの森にて	In the Forest of Reyforia	ptrx1
+op.8009D9E4	聖母の森	The Forest of the Holy Mother	ptrx2
+op.8009D9F0	天使とフェインは伝説を描いた壁画を見る。	The angel and Fein look at a mural of the legend.	ptrx1
+op.8009DA1C	エクレシア教国首都の大聖堂	The Great Cathedral in the Capital of the Holy Nation of Ecclesia	ptrx1
+op.8009DA38	聖都	The Holy City	ptrx1
+op.8009DA40	世界や悩みについてなどをお互いの気持ちを話す。	They share their feelings about the world and their worries.	ptrx1
+op.8009DA70	フェインとの会話	Talking with Fein	ptrx1
+op.8009DA84	酒場にて	At the Tavern	ptrx2
 op.8009DA90	グランドマスターとは何度か話をすることに。	Several talks with the Grand Master.	ptrx1
 op.8009DABC	バーゼルのアルクマールにあるグランドロッジ	The Grand Lodge in Alkmaar, Basel	ptrx1
 op.8009DAE8	グランドマスター	The Grand Master	ptrx1
-op.8009DAFC	死を覚悟したフェインの傷を天使は癒す……。		ptrx1
+op.8009DAFC	死を覚悟したフェインの傷を天使は癒す……。	Fein is ready to die, but the angel heals his wounds...	ptrx1
 op.8009DB28	黒衣の魔導士たちにフェインは命を狙われる。	The Black Mages are out for Fein's life.	ptrx1
 op.8009DB54	フェインとの最初の出会い	First Meeting with Fein	ptrx2
 op.8009DB70	狙われたウォーロック	The Hunted Warlock	ptrx2

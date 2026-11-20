@@ -144,9 +144,14 @@ def _code_source(name, where, data, tsv, prefix):
     rows = [Row(f"{prefix}.{base + o:08X}", e["bytes"], o, jtext.decode(e["bytes"]), _ref_note(e))
             for o, e in found.items()]
     offs = {r.id: r.off for r in rows}
-    return Source(tsv, where, data, rows,
-                  lambda new: codetext.replace_in_place(data, {offs[i]: v for i, v in new.items()}),
-                  lambda i, t: jtext.encode(t))
+
+    def build(new):
+        new = {offs[i]: v for i, v in new.items()}
+        return codetext.fit(name, data, new, src.heap) if src.heap else codetext.replace_in_place(data, new)
+    src = Source(tsv, where, data, rows, build, lambda i, t: jtext.encode(t))
+    src.code_name = name
+    src.heap = None     # insert.changes sets a codetext.Heap: strings longer than their slot are relocated
+    return src
 
 
 def sources(tree=TREE):

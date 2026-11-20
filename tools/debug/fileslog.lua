@@ -13,7 +13,15 @@ local function cstr(a)
   end
   return table.concat(t)
 end
+local function u32(a)
+  a = a & 0x1FFFFF
+  return mem[a] | (mem[a + 1] << 8) | (mem[a + 2] << 16) | (mem[a + 3] << 24)
+end
+-- blk=<size>: the heap block header 0x10 bytes before dst (prev, next, size incl. header; docs/re/space.md), so
+-- the buffer holds size - 0x10 bytes when next == dst - 0x10 + size
 L.on_exec(0x80038D74, function()
   local r = PCSX.getRegisters().GPR.n
-  L.log(string.format("FILE f%d %s dst=%08X mode=%d", L.frame, cstr(r.a2), r.a1, r.a0))
+  local h = r.a1 - 0x10
+  L.log(string.format("FILE f%d %s dst=%08X mode=%d blk=%X next=%08X", L.frame, cstr(r.a2), r.a1, r.a0,
+    u32(h + 8), u32(h + 4)))
 end)

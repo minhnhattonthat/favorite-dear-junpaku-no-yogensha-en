@@ -2,9 +2,30 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check (phase 6 done pending review, 2026-11-21: all 92 batches translated; the reviewer
+- **Phase:** 8. QA in the emulator (phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase 7 result (2026-11-21, 16th worker):** build green (sha1 423a5f2f...), every batch `check` OK (width, pages, control codes,
+  placeholders, glossary), 47 tests, smoke + 13 warps OK (`work/qa/p7`, `p7b`: map menus, fairy list, heaven,
+  OMAKE CG, prologue, exam, battle x2, game over, title load, Rocus ending). **EXE/overlay relocation:** all 451
+  held-back rows are in; `codetext.fit` moves 372 strings that outgrow their slot to a string heap at
+  0x80010000-0x8001E000 (prepended to the EXE: `EXE_PAD` 0x10000, ~0x2F00 used) and re-points every ptr/lui
+  reference, overlay refs to moved EXE strings too (`insert.repoint_exe_refs`). Per-file write logs
+  (`build/fd2_en_writes/`) pass `romdiff.py --writes` for the EXE and op/rfd2/pro/ed (`tests/test_codetext.py`
+  runs it, plus "no reader left" on every vacated address). Fixed on the way: `lui_pairs` kept pairing after the
+  register was overwritten (phantom string イラ at SLPS.80020114 inside ペレイラ, and relocation would have rewritten
+  unrelated loads; one debug printf row dropped too); tail-sharing strings (one string's tail is another's start)
+  move the head; inline literal copies (`char buf[] = "..."`, lw/lb into a stack buffer) cap the English at the
+  copied byte count (`codetext.copy_size`): 混乱度： "Chaos:" (9), 探索を中断し/同行を中断し "Stop search"/"Stop
+  escort" + " and stand by?" (13), "Choose a fairy to command." (29), "＄＄＄＄＄＄, you get" + N + " bonus AP." (27);
+  `batches.py merge` now holds back only rows that cannot be placed and says why (none left); `TERM_WAIVE` lets
+  one row drop a glossary term with a reason. **Buffers** (`docs/re/space.md`): .ssb and .EVX load into the
+  0x169B0-byte heap block at 0x801A4BB0 (largest built 0x6E3C), .end into 0x8000 at 0x80189B90; `insert.LOAD_CAPS`
+  enforces them (MSG capped at the largest original, unmeasured). `fileslog.lua` logs each load's block size.
+  **Placeholders:** the substitution code (rfd2 0x800BF280..) strncmps the tag and strcpys from EXE tables
+  (heroes 0x8006F538, fairies 0x8006FE18, 57 towns 0x8006F3FC), all English now; `batches.width` counts each
+  placeholder at its widest value (`PH_WIDTH`: event title 22, town 10, fairy 8...), 49 FryMsg/HVN rows rewrapped.
+  The heaven "ラビエル" tag is the player's name (＄＄＄＄＄＄) from the kana-grid default: phase 8 name entry.
 - **Phase 6 external review fixes (2026-11-21, 15th worker; review in `../.harness/reviews/...-phase6.md`):**
   Important 2: 様 on personal names was "Lord/Lady X" or dropped in 225 rows; D9 (`docs/decisions.md`) applies D1
   as written like game 1's D12 ("Raphael-sama", "Leyla Vigrid-sama", "＜勇者名＞-sama"); every row read
@@ -139,19 +160,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `これは N 個持っているわね。`): English fragments were written to read in JP order (", accompany " + "?",
   "Of these, you have " + "."), check them in game; rfd2.8009D958 (Titania on a fairy, 彼女) written neutral;
   SLPS パレーゼ treated as Valese (バレーゼ). Glossary gained the EXE town table, heaven palaces, Holy Nation.
-- **Next (phase 7):** done-when: build green with the width/overflow lint clean, control codes matched, `romdiff.py`
-  shows no writes outside allowed ranges. Work: relocate the 451 EXE/overlay rows `merge` holds back (English longer
-  than the JP; sites known via `codetext.strings()` refs), the name-tag table (heaven tag ラファエル still JP), the
-  runtime placeholder value tables (hero/fairy names, EvName titles, regions; the wrap still counts a ＜...＞
-  placeholder as its 5-6 JP characters, not the substituted English name's width), find the script buffer size
-  before more scripts grow, check rfd2 sentence fragments in game. DONE 2026-11-21 (15th worker): orphan pages:
+- **Next (phase 8):** QA in the emulator per the skill's phase 8 done-when (tour sheets + visual-QA verdicts via
+  `qa_gate.py`, graphics text G-rows incl. the OMAKE profile panel (stylized-font graphic, still JP), chapter cards,
+  game over, credits; `inkbox.py` on choice/menu boxes; stress saves; `textcover.py`). Carried from phase 7: add a
+  warp scene that shows a fairy report with placeholders (FryMsg: ＜イベント名＞ / ＜目的地名＞ lines) and check the
+  substituted English fits; check the rfd2 sentence fragments in game (fairy command confirmations "Stop search and
+  stand by?", "[fairy], accompany [hero]?", item counts); measure the OMAKE gallery caption width (op captions
+  are up to 73 letters, never measured); name entry Latin page + the default name ラビエル (kana grid). Polish
+  list gained the 12-letter name-tag / chapter-label cuts and the fixed-copy labels (engine work first, D4).
+  Earlier (15th worker): orphan pages:
   `batches.wrap` breaks an overflowing page at the latest sentence end that fills 2+ lines, else joins a lone short
   last line with the line before (`tests/test_wrap.py`); 177 rows rewrapped, short last pages 135 -> 4, page count
   unchanged; build + check.py (40) + smoke green (sha1 c13b00b5...), `warp.py --event laev14.ssb` OK.
   Cuts to revisit when the name-tag table is relocated (D4, review Minor 2): 帝国兵 "Soldier", 帝国戦士 "Warrior",
   第10節「王暗殺」 "Regicide" and the other 12-letter name-tag / chapter-label shortenings in the glossary notes;
   restore the full forms if the relocated table allows, else waive each in polish.md with the reason.
-  Budgets: BTL_EVT banks 64 KB cap, EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
+  Budgets: BTL_EVT banks 64 KB cap, EvName 22 bytes, EXE/overlay strings any length (relocated) except inline
+  literal copies, shared-lui and pro quiz table slots (`batches.py merge` says which).
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**
   - Step 0, phases 1-3 (see git history; `docs/re/README.md`, `docs/re/debug.md`, `docs/re/disc.md`): 66 warp scenes
@@ -166,12 +191,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Open items from phase 4 (still open):**
   - ssb name rows: op 0x19 counts characters; `ssb.build` asserts an even byte count. Decide how ASCII names count.
   - EVX growth only re-parse-tested; boot-test a grown EVX battle (warp `battle_*`).
-  - EXE/overlay strings are replaced in place only (`codetext.replace_in_place`); relocation for longer English is
-    phase 7 (every string's sites are known: `codetext.strings()` refs).
   - Prologue quiz text uses `￥` as its line break; EvName fields hold 22 bytes; EVX unit names 32 bytes.
   - Memory-card save titles in the EXE (`純白の預言者　ゲームデータ０１`) show in the BIOS card manager (full-width only).
   - Warp batches: run **-j 1** on this machine (-j 2 ran low on memory, -j 4 was killed by the OS).
-  - Script buffer size at 0x801A4BB0 unknown: find it before scripts grow (`docs/re/space.md`).
   - キャラ劇 (GRPDATA 558 battle.tim) is not in OMAKE and no script or traced scene loads it: probably unused.
     Phase 8: `--all --lua tools/debug/fileslog.lua --debugger`, grep for battle.tim (and Dummy00.DAT); if never
     loaded, drop G9.

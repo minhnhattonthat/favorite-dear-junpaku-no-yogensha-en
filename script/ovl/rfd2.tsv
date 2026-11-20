@@ -3,20 +3,20 @@ rfd2.8009B57C	同　行　中	In Party	luix1
 rfd2.8009B5F8	BraveChgStat() ～ UnKnown Brave State...{0A}		luix1
 rfd2.8009B6E0	　　		luix1
 rfd2.8009B6E8	事件：	Event:	luix1
-rfd2.8009B6F0	天界へ		ptrx1
+rfd2.8009B6F0	天界へ	To Heaven	ptrx1
 rfd2.8009B6F8	ステータス	Status	ptrx1
-rfd2.8009B704	妖　精		ptrx1
+rfd2.8009B704	妖　精	Fairies	ptrx1
 rfd2.8009B70C	勇　者	Heroes	ptrx1
-rfd2.8009B9B4	探索を行います。よろしいですか？		luix1
+rfd2.8009B9B4	探索を行います。よろしいですか？	Begin the search. Is this all right?	luix1
 rfd2.8009B9D8	　はい	  Yes	luix1
 rfd2.8009B9E0	　いいえ	  No	luix1
 rfd2.8009B9EC	国　境	Border	ptrx1
-rfd2.8009B9F4	混乱度		ptrx1
-rfd2.8009B9FC	辺境		ptrx1
+rfd2.8009B9F4	混乱度	Chaos Level	ptrx1
+rfd2.8009B9FC	辺境	Frontier	ptrx1
 rfd2.8009BA04	　　　　王国	Kingdom	ptrx1
 rfd2.8009BA14	レグランス	Legrance	ptrx1
 rfd2.8009BA20	未開地	Wilds	ptrx1
-rfd2.8009BA28	六王国連合		ptrx1
+rfd2.8009BA28	六王国連合	Six Kingdoms	ptrx1
 rfd2.8009BA34	　　　　教国	Holy Nation	ptrx1
 rfd2.8009BA44	エクレシア	Ecclesia	ptrx1
 rfd2.8009BA50	ブレメース島	Bremes Isle	ptrx1
@@ -26,17 +26,17 @@ rfd2.8009BA70	　　　　公国	Duchy	ptrx1
 rfd2.8009BA80	クレージュ　	Courrege	ptrx1
 rfd2.8009BA90	　　　　帝国	Empire	ptrx1
 rfd2.8009BAA0	グローサイン	Grosain	ptrx1
-rfd2.8009BAB0	世界混乱度		luix1
-rfd2.8009BABC	混乱度：		luix2
+rfd2.8009BAB0	世界混乱度	World Chaos Level	luix1
+rfd2.8009BABC	混乱度：	Chaos:	luix2
 rfd2.8009BAC8	探　索	Search	luix1
 rfd2.8009BB08	　		luix2
-rfd2.8009BB0C	発見		luix1
-rfd2.8009BB14	待機		luix1
-rfd2.8009BB1C	任務		luix1
-rfd2.8009BB24	不明		luix1
-rfd2.8009BB2C	負傷		luix1
+rfd2.8009BB0C	発見	Found	luix1
+rfd2.8009BB14	待機	Standby	luix1
+rfd2.8009BB1C	任務	Mission	luix1
+rfd2.8009BB24	不明	Unknown	luix1
+rfd2.8009BB2C	負傷	Injured	luix1
 rfd2.8009BB34	死亡	Dead	luix1
-rfd2.8009BB58	現在地：%s－%s		luix1
+rfd2.8009BB58	現在地：%s－%s	Location: %s - %s	luix1
 rfd2.8009BB68	%s　　　　　　　　混乱度　	%s        Chaos Level	luix1
 rfd2.8009BB84	睡眠中　　　　　　　	Sleeping	luix1
 rfd2.8009BB9C	修行中　　　　　　　	Training	luix1
@@ -50,9 +50,9 @@ rfd2.8009BC54	　はい	  Yes	luix2
 rfd2.8009BC5C	　いいえ	  No	luix2
 rfd2.8009BC68	%sを訪問します。よろしいですか？	Visit %s. Is this all right?	luix1
 rfd2.8009BC8C	ＡＰが足りません	Not enough AP.	luix1
-rfd2.8009BCC0	目的地はここでいいんだな？		luix1
-rfd2.8009BCDC	ここか……		luix1
-rfd2.8009BCE8	そこへ行けばいいんだな？		luix1
+rfd2.8009BCC0	目的地はここでいいんだな？	This is the destination, right?	luix1
+rfd2.8009BCDC	ここか……	Here, huh...	luix1
+rfd2.8009BCE8	そこへ行けばいいんだな？	So I should go there, right?	luix1
 rfd2.8009BD04	ここでいいんだな？	Here, right?	luix1
 rfd2.8009BD18	ふーん、そこへ行けばいいのね？	Hmm, so I should go there?	luix1
 rfd2.8009BD38	ここね？	Here?	luix1
@@ -62,28 +62,28 @@ rfd2.8009BD6C	　はい	  Yes	luix3
 rfd2.8009BD74	　いいえ	  No	luix3
 rfd2.8009BD9C	このアイテムを贈りますか。	Give this item?	luix1
 rfd2.8009BDB8	ＩＴＥＭ	Item	ptrx1
-rfd2.8009BDC4	任　務		ptrx1
+rfd2.8009BDC4	任　務	Mission	ptrx1
 rfd2.8009BDCC	会　話	Talk	ptrx1
-rfd2.8009BE24	まだ話があるのか？		luix1
+rfd2.8009BE24	まだ話があるのか？	Something else to talk about?	luix1
 rfd2.8009BE38	まだ、あるのか……。	More...?	luix1
-rfd2.8009BE50	まだなにか話したいことでもあるのか？		luix1
-rfd2.8009BE78	まだなにかあるのか？		luix1
-rfd2.8009BE90	まだなにかあるの？		luix1
-rfd2.8009BEA4	他にはなにかある？		luix1
-rfd2.8009BEB8	天使様、まだなにかお話がありますか？		luix1
-rfd2.8009BEE0	何の御用でしょう		luix1
-rfd2.8009BF14	目的地はどこだ？		luix1
+rfd2.8009BE50	まだなにか話したいことでもあるのか？	Is there something else you want to talk about?	luix1
+rfd2.8009BE78	まだなにかあるのか？	Is there something else?	luix1
+rfd2.8009BE90	まだなにかあるの？	Is there something else?	luix1
+rfd2.8009BEA4	他にはなにかある？	Is there anything else?	luix1
+rfd2.8009BEB8	天使様、まだなにかお話がありますか？	Angel, is there something else you wanted to talk about?	luix1
+rfd2.8009BEE0	何の御用でしょう	How may I help you?	luix1
+rfd2.8009BF14	目的地はどこだ？	Where's the destination?	luix1
 rfd2.8009BF28	どこへ行けばいいんだ。	Where should I go.	luix1
 rfd2.8009BF40	どこへ行けばいいんだ？	Where should I go?	luix2
-rfd2.8009BF58	どこへ行けばいいの？		luix2
-rfd2.8009BF70	目的地はどこですか？		luix1
+rfd2.8009BF58	どこへ行けばいいの？	Where should I go, then?	luix2
+rfd2.8009BF70	目的地はどこですか？	Where is the destination?	luix1
 rfd2.8009BFA4	あれ？	Huh?	luix1
 rfd2.8009BFAC	あら？	Oh?	luix1
 rfd2.8009BFB4	アイテムを持っていませんでしたね。	I don't have any items, do I?	luix1
 rfd2.8009BFD8	訪問を終了します。	End the visit.	luix1
 rfd2.8009BFEC	勇者に同行しますか？	Accompany the hero?	luix1
-rfd2.8009C004	　同行する		luix1
-rfd2.8009C010	　同行しない		luix1
+rfd2.8009C004	　同行する	  Accompany	luix1
+rfd2.8009C010	　同行しない	  Don't Accompany	luix1
 rfd2.8009C028	プレゼント　　	Present	ptrx1
 rfd2.8009C038	羽　　　　　　	Feather	ptrx1
 rfd2.8009C048	本　　　　　　	Book	ptrx1
@@ -108,8 +108,8 @@ rfd2.8009C168	ストレス：	Stress:	ptrx1
 rfd2.8009C174	正義感：	Justice:	ptrx1
 rfd2.8009C180	ＨＰ：	HP:	ptrx1
 rfd2.8009C188	素早さ：	Speed:	ptrx1
-rfd2.8009C194	防御：		ptrx1
-rfd2.8009C19C	攻撃：		ptrx1
+rfd2.8009C194	防御：	Defense:	ptrx1
+rfd2.8009C19C	攻撃：	Attack:	ptrx1
 rfd2.8009C1A4	９		ptrx1
 rfd2.8009C1A8	８		ptrx1
 rfd2.8009C1AC	７		ptrx1
@@ -121,44 +121,44 @@ rfd2.8009C1C0	２		ptrx1
 rfd2.8009C1C4	１		ptrx1
 rfd2.8009C1C8	０		ptrx1
 rfd2.8009C1CC	勇者に贈るアイテムを選んでください。	Choose an item to give the hero.	luix1
-rfd2.8009C1F4	装備：可		luix1
+rfd2.8009C1F4	装備：可	Equip: Yes	luix1
 rfd2.8009C200	装備：不可	Equip: No	luix1
 rfd2.8009C20C	ー		luix4
 rfd2.8009C210	　		luix3
-rfd2.8009C254	同行を中断します		luix1
+rfd2.8009C254	同行を中断します	Stop accompanying.	luix1
 rfd2.8009C268	　勇者に話しかける	  Talk to the Hero	luix1
-rfd2.8009C27C	　同行を終了する		luix1
-rfd2.8009C290	を		luix1
+rfd2.8009C27C	　同行を終了する	  End Accompanying	luix1
+rfd2.8009C290	を	, accompany	luix1
 rfd2.8009C294	に同行させますか？	?	luix1
 rfd2.8009C2A8	　はい	  Yes	luix3
 rfd2.8009C2B0	　いいえ	  No	luix3
-rfd2.8009C2BC	探索を中断し		luix1
-rfd2.8009C2CC	同行を中断し		luix1
-rfd2.8009C2DC	待機させますか？	 stand by?	luix1
+rfd2.8009C2BC	探索を中断し	Stop search	luix1
+rfd2.8009C2CC	同行を中断し	Stop escort	luix1
+rfd2.8009C2DC	待機させますか？	 and stand by?	luix1
 rfd2.8009C2F0	を天界に帰しますか？	: return to Heaven?	luix1
-rfd2.8009C308	指示を出す妖精を選択します。		luix1
-rfd2.8009C328	天界に帰還		ptrx1
-rfd2.8009C334	待　機		ptrx1
-rfd2.8009C33C	勇者に同行		ptrx1
+rfd2.8009C308	指示を出す妖精を選択します。	Choose a fairy to command.	luix1
+rfd2.8009C328	天界に帰還	Return to Heaven	ptrx1
+rfd2.8009C334	待　機	Standby	ptrx1
+rfd2.8009C33C	勇者に同行	Accompany Hero	ptrx1
 rfd2.8009C348	探　索	Search	ptrx1
 rfd2.8009C350	に指示を出します。	: awaiting orders.	luix1
-rfd2.8009C364	を勇者に同行させます。		luix1
+rfd2.8009C364	を勇者に同行させます。	 will accompany the hero.	luix1
 rfd2.8009C37C	を待機させます。	 will stand by.	luix1
-rfd2.8009C390	を帰還させます。		luix1
+rfd2.8009C390	を帰還させます。	 will return to Heaven.	luix1
 rfd2.8009C3A4	　		luix1
 rfd2.8009C3A8	：	:	luix1
-rfd2.8009C3AC	待機		luix1
-rfd2.8009C3B4	次の探索地域に移動中		luix1
-rfd2.8009C3CC	を探索中		luix1
-rfd2.8009C3D8	に同行中		luix1
+rfd2.8009C3AC	待機	Standby	luix1
+rfd2.8009C3B4	次の探索地域に移動中	Moving to the next search area	luix1
+rfd2.8009C3CC	を探索中	 (searching)	luix1
+rfd2.8009C3D8	に同行中	 (accompanying)	luix1
 rfd2.8009C450	天　使	Angel	ptrx1
-rfd2.8009C458	妖　精		ptrx1
+rfd2.8009C458	妖　精	Fairies	ptrx1
 rfd2.8009C460	勇　者	Heroes	ptrx1
 rfd2.8009C480	　		luix3
 rfd2.8009C4B8	　《はい》	  Yes	luix2
 rfd2.8009C4C4	　《いいえ》	  No	luix2
-rfd2.8009C4D4	に会う		luix1
-rfd2.8009C4DC	会わない		luix1
+rfd2.8009C4D4	に会う	 - Meet	luix1
+rfd2.8009C4DC	会わない	Don't Meet	luix1
 rfd2.8009C4E8	急行しますか	Hurry there?	luix1
 rfd2.8009C570	＜地方名＞		luix3
 rfd2.8009C57C	＜勇者名＞		luix3
@@ -183,90 +183,90 @@ rfd2.8009CFA8	２		ptrx1
 rfd2.8009CFAC	１		ptrx1
 rfd2.8009CFB0	０		ptrx1
 rfd2.8009CFD4	ラファエルに会う	Meet Raphael	luix1
-rfd2.8009CFE8	装備アイテムの入手		luix1
-rfd2.8009CFFC	消費アイテムの入手		luix1
-rfd2.8009D010	妖精を借りる　情報の入手		luix1
-rfd2.8009D02C	自分の部屋へ戻る		luix1
-rfd2.8009D040	地上界へ帰る		luix2
+rfd2.8009CFE8	装備アイテムの入手	Get equipment items	luix1
+rfd2.8009CFFC	消費アイテムの入手	Get consumable items	luix1
+rfd2.8009D010	妖精を借りる　情報の入手	Borrow fairies, get information	luix1
+rfd2.8009D02C	自分の部屋へ戻る	Return to your room	luix1
+rfd2.8009D040	地上界へ帰る	Return to the world below	luix2
 rfd2.8009D084	ゲームデータのセーブやロード	Save or load game data	luix1
 rfd2.8009D0A4	各キャラクターのステータスを確認	Check each character's status	luix1
-rfd2.8009D0C8	１日過ごしてＡＰを回復		luix1
-rfd2.8009D0E0	天界の他の宮へ移動		luix1
+rfd2.8009D0C8	１日過ごしてＡＰを回復	Spend a day to recover AP	luix1
+rfd2.8009D0E0	天界の他の宮へ移動	Go to another palace in the Heavens	luix1
 rfd2.8009D120	どうしたのです？　＄＄＄＄＄＄。	What is it, ＄＄＄＄＄＄?	luix1
 rfd2.8009D144	またいつでも来なさい、＄＄＄＄＄＄。	Come again anytime, ＄＄＄＄＄＄.	luix1
 rfd2.8009D16C	いらっしゃい。	Welcome.	luix1
 rfd2.8009D17C	なにか必要なものがあるのかしら。	Is there something you need?	luix1
-rfd2.8009D1A0	これは		luix2
+rfd2.8009D1A0	これは	Of these, you have	luix2
 rfd2.8009D1A8	個持っているわね。	.	luix2
-rfd2.8009D1BC	それ以上は持てないみたいね。		luix1
+rfd2.8009D1BC	それ以上は持てないみたいね。	It seems you can't carry any more.	luix1
 rfd2.8009D1DC	まずは、アイテムを勇者に渡していらっしゃい。	First, go and give your items to the hero.	luix1
 rfd2.8009D20C	これでいいのかしら？	Will this do?	luix2
 rfd2.8009D224	　はい	  Yes	luix7
 rfd2.8009D22C	　いいえ	  No	luix7
-rfd2.8009D238	あら、ＡＰが足りないみたいよ。		luix1
+rfd2.8009D238	あら、ＡＰが足りないみたいよ。	Oh, it seems you don't have enough AP.	luix1
 rfd2.8009D258	フロー宮から移動しますか？	Leave the Flo Palace?	luix1
-rfd2.8009D274	そう、これは必要ないのね。		luix2
+rfd2.8009D274	そう、これは必要ないのね。	I see, you don't need this.	luix2
 rfd2.8009D290	勇者によろこんでもらえるといいわね。	I hope the hero likes it.	luix2
 rfd2.8009D2B8	アイテムはしっかり活用しなさいね。	Make good use of your items.	luix1
 rfd2.8009D2DC	また必要なものがあったら、来るといいわ。	Come again if you need anything else.	luix1
 rfd2.8009D308	こんにちは、今日はどうしたのですか？	Hello. What brings you here today?	luix1
 rfd2.8009D330	あなたの勇者に、必要なものがあるのですか？	Does your hero need something?	luix1
 rfd2.8009D35C	そんなにたくさんは持てませんよ。	You can't carry that many.	luix1
-rfd2.8009D380	勇者に渡してから、またいらっしゃい。		luix1
-rfd2.8009D3A8	ＡＰが足りないみたいですね。		luix1
+rfd2.8009D380	勇者に渡してから、またいらっしゃい。	Give them to the hero, then come back.	luix1
+rfd2.8009D3A8	ＡＰが足りないみたいですね。	It seems you don't have enough AP.	luix1
 rfd2.8009D3C8	エミリア宮から移動しますか？	Leave the Emilia Palace?	luix1
 rfd2.8009D3E8	そうですか、これは必要ないのですね。	I see, so you don't need this.	luix2
-rfd2.8009D410	勇者のために、		luix1
+rfd2.8009D410	勇者のために、	For the hero's sake,	luix1
 rfd2.8009D420	アイテムはきちんと用意しておくのですよ。	be sure to keep your items well stocked.	luix1
-rfd2.8009D44C	あら、いらっしゃい。今日はどうしたの？		luix1
-rfd2.8009D474	妖精が必要なの？		luix5
-rfd2.8009D488	それとも誰かのことが聞きたいの？		luix5
+rfd2.8009D44C	あら、いらっしゃい。今日はどうしたの？	Oh, welcome. What brings you here today?	luix1
+rfd2.8009D474	妖精が必要なの？	Do you need a fairy?	luix5
+rfd2.8009D488	それとも誰かのことが聞きたいの？	Or do you want to hear about someone?	luix5
 rfd2.8009D4AC	フォータ離宮から移動しますか？	Leave the Fota Villa?	luix1
 rfd2.8009D4CC	この子でいい？	This one?	luix1
-rfd2.8009D4DC	じゃあ、この子といっしょにがんばってね。		luix1
+rfd2.8009D4DC	じゃあ、この子といっしょにがんばってね。	Then do your best together with this one.	luix1
 rfd2.8009D508	そう、この子じゃないのね。	I see, not this one.	luix1
-rfd2.8009D524	もう、手伝える子たちはいないわよ。		luix1
+rfd2.8009D524	もう、手伝える子たちはいないわよ。	There's no one left who can help you.	luix1
 rfd2.8009D548	の情報を聞きますか？	: hear about them?	luix1
-rfd2.8009D560	ＡＰが足りないわよ。		luix1
-rfd2.8009D578	あら、ＡＰが足りないみたいね。		luix1
+rfd2.8009D560	ＡＰが足りないわよ。	You don't have enough AP.	luix1
+rfd2.8009D578	あら、ＡＰが足りないみたいね。	Oh, it seems you don't have enough AP.	luix1
 rfd2.8009D598	妖精たちには、あまり無理させちゃダメよ。	Don't push the fairies too hard.	luix1
 rfd2.8009D5C4	またなにかあったら、いらっしゃい。	Come again if anything comes up.	luix1
-rfd2.8009D5E8	地上に戻る		ptrx2
-rfd2.8009D5F4	ラキア宮		ptrx1 luix1
+rfd2.8009D5E8	地上に戻る	Return Below	ptrx2
+rfd2.8009D5F4	ラキア宮	Raqia Palace	ptrx1 luix1
 rfd2.8009D600	フォータ離宮	Fota Villa	ptrx1
-rfd2.8009D610	エミリア宮		ptrx1
-rfd2.8009D61C	フロー宮		ptrx1
-rfd2.8009D628	聖アザリア宮		ptrx1
+rfd2.8009D610	エミリア宮	Emilia Palace	ptrx1
+rfd2.8009D61C	フロー宮	Flo Palace	ptrx1
+rfd2.8009D628	聖アザリア宮	St. Azaria Palace	ptrx1
 rfd2.8009D638	移動先を選択してください	Choose where to go.	luix1
 rfd2.8009D654	移　動	Move	ptrx1
 rfd2.8009D65C	休　息	Rest	ptrx1
 rfd2.8009D664	ステータス	Status	ptrx1
 rfd2.8009D670	データ	Data	ptrx1
-rfd2.8009D678	妖精雇用		luix1
+rfd2.8009D678	妖精雇用	Hire Fairy	luix1
 rfd2.8009D684	情　報	Info	luix1
 rfd2.8009D694	ＡＰ回復中・・・	Recovering AP...	luix1
-rfd2.8009D6A8	時が過ぎるのみ・・・		luix1
+rfd2.8009D6A8	時が過ぎるのみ・・・	Time simply passes...	luix1
 rfd2.8009D6C8	ローザはちょっと言葉づかいは冷たいけれど、	Rosa's way of speaking is a little cold,	luix1
-rfd2.8009D6F4	とても心のやさしい、いい子よ。		luix1
+rfd2.8009D6F4	とても心のやさしい、いい子よ。	but she's a very kind-hearted, good girl.	luix1
 rfd2.8009D714	きっと、あなたの役に立つと思うわ。	I'm sure she'll be a help to you.	luix1
 rfd2.8009D738	フロリンダはあんな格好をしているけど、	Florinda may dress like that,	luix1
-rfd2.8009D760	とっても真面目に仕事をするいい子よ。		luix1
+rfd2.8009D760	とっても真面目に仕事をするいい子よ。	but she's a good girl who works very seriously.	luix1
 rfd2.8009D788	シェリーは調子のいいところがちょっとあるけど、	Shelly can be a little too easygoing,	luix1
-rfd2.8009D7B8	仕事はしっかりこなしてくれる子よ。		luix1
-rfd2.8009D7DC	リリィはなんでもこなせるマイペースな子よ。		luix1
+rfd2.8009D7B8	仕事はしっかりこなしてくれる子よ。	but she gets her work done properly.	luix1
+rfd2.8009D7DC	リリィはなんでもこなせるマイペースな子よ。	Lily goes at her own pace and can handle anything.	luix1
 rfd2.8009D808	少しおとなしく見えるかもしれないけど、	He may look a little quiet,	luix1
-rfd2.8009D830	リンクスは人一倍のがんばり屋よ。		luix1
-rfd2.8009D854	ちょっと危なっかしく見えるけど、大丈夫！		luix1
+rfd2.8009D830	リンクスは人一倍のがんばり屋よ。	but Lynx works harder than anyone.	luix1
+rfd2.8009D854	ちょっと危なっかしく見えるけど、大丈夫！	He may seem a bit reckless, but he's fine!	luix1
 rfd2.8009D880	アクイラは少しおっとりしているかもしれないわね。	Aquila may be a little laid-back.	luix1
 rfd2.8009D8B4	でも、仕事はしっかりしてくれるから、	But she does her work properly, so	luix1
 rfd2.8009D8DC	シータスとてもしっかり者で、仕事はよくできるわ。	Cetus is very dependable and good at his work.	luix1
 rfd2.8009D910	見かけに惑わされたりしないでね。	Don't be fooled by appearances.	luix1
-rfd2.8009D934	レーパスはとても面倒見のいい子よ。		luix1
+rfd2.8009D934	レーパスはとても面倒見のいい子よ。	Lepus is very good at looking after others.	luix1
 rfd2.8009D958	真面目で正義感の強い彼女なら	Someone so earnest and just	luix1
-rfd2.8009D99C	誰のことが聞きたいの？		luix1
+rfd2.8009D99C	誰のことが聞きたいの？	Who do you want to hear about?	luix1
 rfd2.8009D9E4	ね。		luix1
 rfd2.8009D9F4	／		luix1
 rfd2.8009D9F8	００００		luix1
-rfd2.8009DA04	＄＄＄＄＄＄、ボーナスＡＰ		luix1
-rfd2.8009DA20	です。{n}アルカヤでのあなたの行動に役立ててください。	.{n}Put it to use in your actions in Arcaya.	luix1
+rfd2.8009DA04	＄＄＄＄＄＄、ボーナスＡＰ	＄＄＄＄＄＄, you get	luix1
+rfd2.8009DA20	です。{n}アルカヤでのあなたの行動に役立ててください。	 bonus AP.{n}Put it to use in your actions in Arcaya.	luix1
 rfd2.8009DBA4	＄＄＄＄＄＄	＄＄＄＄＄＄	luix1

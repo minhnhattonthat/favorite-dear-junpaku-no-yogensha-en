@@ -21,13 +21,13 @@ FryMsg2.06F0	大ケガを負われている＜勇者名＞様のところへ{n}�
 FryMsg2.0780	大変です、天使様！{n}＜勇者名＞様が行方不明になりました。{wait}{clear}なにか不満があったみたいですけど……。{n}天使様、どうしましょう？	It's terrible, Angel! ＜勇者名＞-sama has gone{n}missing.{wait}{clear}It seems they were unhappy about{n}something... Angel, what should we do?	
 FryMsg2.07FE	天使様……＜勇者名＞様が行方不明になってから、{n}ずいぶん経ちますけど……{n}いいんですか？	Angel... It's been quite a while since{n}＜勇者名＞-sama went missing... Is that all{n}right?	
 FryMsg2.0858	行方不明になっていた{n}＜勇者名＞様を発見しました。	We've found ＜勇者名＞-sama, who had gone{n}missing.	
-FryMsg2.088C	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけますか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, is happening in ＜地方名＞.{n}Would you ask a hero to handle it?	
-FryMsg2.0900	＜勇者名＞様が{n}＜イベント名＞を解決されました。	＜勇者名＞-sama has resolved ＜イベント名＞.	
+FryMsg2.088C	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけますか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, is{n}happening in ＜地方名＞. Would you ask a{n}hero to handle it?	
+FryMsg2.0900	＜勇者名＞様が{n}＜イベント名＞を解決されました。	＜勇者名＞-sama has resolved{n}＜イベント名＞.	
 FryMsg2.0932	＜勇者名＞様が{n}＜イベント名＞解決に失敗したみたいです……。	It looks like ＜勇者名＞-sama failed to resolve{n}＜イベント名＞...	
-FryMsg2.0970	天使様、事件が消えてしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったみたいです。	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in ＜地方名＞ has gone{n}away.	
-FryMsg2.09DC	天使様、事件が消えてしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったみたいです。{wait}{clear}そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in ＜地方名＞ has gone{n}away.{wait}{clear}＜勇者名＞-sama, who was heading there, didn't{n}make it in time.	
+FryMsg2.0970	天使様、事件が消えてしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったみたいです。	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in{n}＜地方名＞ has gone away.	
+FryMsg2.09DC	天使様、事件が消えてしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったみたいです。{wait}{clear}そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in{n}＜地方名＞ has gone away.{wait}{clear}＜勇者名＞-sama, who was heading there, didn't{n}make it in time.	
 FryMsg2.0A84	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着しました。	＜勇者名＞-sama has arrived at ＜目的地名＞.	
-FryMsg2.0ABA	報告します、天使様。{wait}{clear}＜地方名＞を探索してみたんですが、{n}別に変わったことはありませんでした。	A report, Angel.{wait}{clear}I searched ＜地方名＞, but there was nothing out{n}of the ordinary.	
+FryMsg2.0ABA	報告します、天使様。{wait}{clear}＜地方名＞を探索してみたんですが、{n}別に変わったことはありませんでした。	A report, Angel.{wait}{clear}I searched ＜地方名＞, but there was nothing{n}out of the ordinary.	
 FryMsg2.0B1C	報告します、天使様。{wait}{clear}天使様のレベルが上がりそうです。{n}天界へ戻られたときは、{n}ラファエル様のところへ行ってくださいね。	A report, Angel.{wait}{clear}Your level's about to go up. When you go{n}back to the Heavens, please go see{n}Raphael-sama.	
 FryMsg2.0B98	天使様、大変です！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}すごく悲しいことですけど、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできません。	Angel, it's terrible! ＜勇者名＞-sama has lost{n}their life in battle with an enemy bewitched{n}by a fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞-sama's soul can{n}never be brought back.	
 FryMsg2.0C4C	天使様、勇者候補を発見しました。	Angel, I've found a hero candidate.	

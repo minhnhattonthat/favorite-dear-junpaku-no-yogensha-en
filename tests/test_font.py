@@ -84,4 +84,4 @@ def test_patch_exe_prepends_block_and_hooks():
     hooked |= {a + 4 * k for a in (0x8002BF50, 0x8002C118, 0x8002C358) for k in range(6)}
     for va in range(0x80020000, 0x80020000 + len(orig) - 0x800, 4):
         if va not in hooked:
-            assert word(out, va, 0x8001E000) == word(orig, va, 0x80020000), hex(va)
+            assert word(out, va, 0x80020000 - build.EXE_PAD) == word(orig, va, 0x80020000), hex(va)

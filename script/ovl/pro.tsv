@@ -1,25 +1,25 @@
 id	jp	en	notes
 pro.8009B4E0	名前を決定します。	Choose your name.	luix1
 pro.8009B4F4	性別を決定します。	Choose your sex.	luix1
-pro.8009B508	誕生日を決定します。		luix1
+pro.8009B508	誕生日を決定します。	Choose your birthday.	luix1
 pro.8009B520	これでいいですか？	Is this all right?	luix1
 pro.8009B534	はい	Yes	luix2
 pro.8009B53C	いいえ	No	luix2
 pro.8009B544	前作「フェイバリットディア」のデータを	You can load your save data from	luix1
-pro.8009B56C	読み込むことができます。		luix1
+pro.8009B56C	読み込むことができます。	the previous game, "Favorite Dear".	luix1
 pro.8009B588	フェイバリットディアのデータを読み込みますか？	Load your "Favorite Dear" save data?	luix1
 pro.8009B684	　		luix1
 pro.8009B6A8	￥		luix1
 pro.8009B6AC	これから、	Now,	luix1
 pro.8009B6B8	あなたのパートナーを選ぶため、	to choose your partner,	luix1
-pro.8009B6D8	４つの質問をします。		luix1
-pro.8009B6F0	これで、質問は終了です。		luix1
-pro.800A03C4	あなたは広くて明るい部屋に￥置物を飾ろうと思っています。￥どちらの大理石の置物を選びますか？￥		luix1 tabx1
+pro.8009B6D8	４つの質問をします。	I will ask you four questions.	luix1
+pro.8009B6F0	これで、質問は終了です。	That is the end of the questions.	luix1
+pro.800A03C4	あなたは広くて明るい部屋に￥置物を飾ろうと思っています。￥どちらの大理石の置物を選びますか？￥	You want to decorate a large, bright room￥with an ornament. Which marble ornament￥do you choose?￥	luix1 tabx1
 pro.800A0450	あなたは誰かと一緒に月を見ています。￥相手は同性でも異性でもかまいません。￥そのとき見ていた月の形は？￥	You are watching the moon with someone.￥It can be anyone, of either sex.￥What shape was the moon?￥	table 800A03C4 stride 0x8c
 pro.800A04DC	あなたは熱があって起き上がれません。￥でも、今日はたいせつな用事があるのです。￥それはどんな用ですか？￥	You have a fever and can't get up.￥But today you have something important.￥What is it?￥	table 800A03C4 stride 0x8c
 pro.800A0568	あなたは１人で海辺の町を訪れました。￥いま、あなたは海の方を見ていると、￥ある景色が見えます。それはなんですか？￥	You visit a seaside town alone.￥As you look out at the sea,￥you see a sight. What is it?￥	table 800A03C4 stride 0x8c
-pro.800A05F4	やろうと思っていることは、￥計画を立てて、きちんと行動したい。￥		table 800A03C4 stride 0x8c
-pro.800A0680	海の彼方に太陽が見えます。￥その太陽を見ながらふたりで話しています。￥なにを話していると思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A05F4	やろうと思っていることは、￥計画を立てて、きちんと行動したい。￥	For the things I mean to do,￥I want to make a plan and act on it.￥	table 800A03C4 stride 0x8c
+pro.800A0680	海の彼方に太陽が見えます。￥その太陽を見ながらふたりで話しています。￥なにを話していると思いますか？￥	You can see the sun beyond the sea.￥Two people talk as they watch it.￥What do you think they talk about?￥	table 800A03C4 stride 0x8c
 pro.800A070C	あなたが旅で行きたいところは？　と聞かれて￥どこが最初に浮かびましたか？￥	Asked where you'd like to travel,￥where came to mind first?￥	table 800A03C4 stride 0x8c
 pro.800A0798	あなたと仲のいい友達の元気がないようです。￥いつもはよくしゃべる明るい人なのに……￥さて、あなたはどうしようと思いましたか？￥	A close friend seems down.￥They're usually so bright and chatty...￥What do you decide to do?￥	table 800A03C4 stride 0x8c
 pro.800A0824	あなたは物語を考えています。￥どんなストーリーにしようと思いましたか？￥	You are thinking up a tale.￥What kind of story will it be?￥	table 800A03C4 stride 0x8c
@@ -27,51 +27,51 @@ pro.800A08B0	目の前の水の入ったグラスがあります。￥のどが�
 pro.800A093C	あなたは急に友達から食事に招待されました。￥しかし、料理には嫌いなものが入っています。￥そのとき、あなたはどうしますか？￥	A friend suddenly invites you to dinner,￥but the food has something you dislike.￥What do you do?￥	table 800A03C4 stride 0x8c
 pro.800A09C8	大切な人と大ゲンカしたのですが、￥相手が花束を持ってきたので、許すことに。￥彼（彼女）が持ってきた花は何色ですか？￥	You had a big fight with someone dear,￥but they brought flowers, so you forgive.￥What color were the flowers?￥	table 800A03C4 stride 0x8c
 pro.800A0A54	家の中にランプがともっています。￥いくつのランプがついていると思いますか？￥	Lamps are lit inside a house.￥How many lamps do you think are lit?￥	table 800A03C4 stride 0x8c
-pro.800A0AE0	あなたは眠っていて、夢を見ていて、￥寝言も言っているようです。￥どんな夢を見ていると思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A0AE0	あなたは眠っていて、夢を見ていて、￥寝言も言っているようです。￥どんな夢を見ていると思いますか？￥	You are asleep and dreaming,￥and seem to be talking in your sleep.￥What are you dreaming about?￥	table 800A03C4 stride 0x8c
 pro.800A0B6C	とても高い場所に美しい花が咲いています。￥背伸びして手を伸ばすとぎりぎり届きました。￥あなたは何本の花を手にしましたか？￥	Lovely flowers bloom very high up.￥On tiptoe, you can just reach them.￥How many flowers did you pick?￥	table 800A03C4 stride 0x8c
-pro.800A0BF8	あなたは夢の中で海を小船で漂流しています。￥助けられるまで苦しかったことといえば、￥まず何でしょうか？￥		table 800A03C4 stride 0x8c
+pro.800A0BF8	あなたは夢の中で海を小船で漂流しています。￥助けられるまで苦しかったことといえば、￥まず何でしょうか？￥	In a dream, you drift at sea in a boat.￥Until rescue, what was the first￥thing that made you suffer?￥	table 800A03C4 stride 0x8c
 pro.800A0C84	あなたの友人どうしが口ゲンカをしています。￥かなりはげしいケンカのようですが、￥そのときのあなたのとる行動は？￥	Two of your friends are quarreling,￥and it looks like a fierce fight.￥What do you do?￥	table 800A03C4 stride 0x8c
-pro.800A0D10	あなたは大好きな人におくりものをしようと￥思っていて、あとは箱につめるだけです。￥中身に対する箱の大きさは？￥		table 800A03C4 stride 0x8c
+pro.800A0D10	あなたは大好きな人におくりものをしようと￥思っていて、あとは箱につめるだけです。￥中身に対する箱の大きさは？￥	You're giving a gift to someone you love,￥and all that's left is to box it.￥How big is the box for what's inside?￥	table 800A03C4 stride 0x8c
 pro.800A0D9C	あなたが大切に思っている人がいます。￥その人には自分のことも￥理解していて欲しいと思いますか？￥	There is someone dear to you.￥Do you want that person￥to understand you, too?￥	table 800A03C4 stride 0x8c
 pro.800A0E28	自分の判断に責任をもって行動できる！？￥	I take responsibility for my choices!?￥	table 800A03C4 stride 0x8c
 pro.800A0EB4	円すい形	A cone	luix1 tabx1
-pro.800A0EE4	三日月		table 800A0EB4 stride 0x30
-pro.800A0F14	恋人や友人との遊びの約束		table 800A0EB4 stride 0x30
+pro.800A0EE4	三日月	A crescent	table 800A0EB4 stride 0x30
+pro.800A0F14	恋人や友人との遊びの約束	A date with a lover or friend	table 800A0EB4 stride 0x30
 pro.800A0F44	漁をするために、船を出そうとしている漁師たち	Fishermen putting out to sea	table 800A0EB4 stride 0x30
 pro.800A0F74	計画立てるの大好き！	I love making plans!	table 800A0EB4 stride 0x30
 pro.800A0FA4	日の出って、活力がわきあがる感じがする。	A sunrise fills you with energy.	table 800A0EB4 stride 0x30
 pro.800A0FD4	せっかく旅するなら、いろいろ見てみたい！	If I'm traveling, I want to see it all!	table 800A0EB4 stride 0x30
 pro.800A1004	真っ先にその友達のところへ行って理由を聞く	Go straight to them and ask why	table 800A0EB4 stride 0x30
 pro.800A1034	前半は不幸だが、幸せな結末を迎える物語	Sad at first, but with a happy ending	table 800A0EB4 stride 0x30
-pro.800A1064	グラスの上の方		table 800A0EB4 stride 0x30
+pro.800A1064	グラスの上の方	Near the top of the glass	table 800A0EB4 stride 0x30
 pro.800A1094	嫌いなものは、やっぱり食べられない。	I just can't eat what I dislike.	table 800A0EB4 stride 0x30
-pro.800A10C4	黄色の花		table 800A0EB4 stride 0x30
+pro.800A10C4	黄色の花	Yellow flowers	table 800A0EB4 stride 0x30
 pro.800A10F4	ひとつ	One	table 800A0EB4 stride 0x30
-pro.800A1124	いろいろな場所を旅行をしている夢		table 800A0EB4 stride 0x30
-pro.800A1154	１本		table 800A0EB4 stride 0x30
-pro.800A1184	食料と水がない不安		table 800A0EB4 stride 0x30
-pro.800A11B4	ただただケンカの行方を見守る		table 800A0EB4 stride 0x30
-pro.800A11E4	箱が小さすぎる……。		table 800A0EB4 stride 0x30
-pro.800A1214	できたら、そうして欲しい。		table 800A0EB4 stride 0x30
+pro.800A1124	いろいろな場所を旅行をしている夢	A dream of traveling to many places	table 800A0EB4 stride 0x30
+pro.800A1154	１本	One flower	table 800A0EB4 stride 0x30
+pro.800A1184	食料と水がない不安	Fear of having no food or water	table 800A0EB4 stride 0x30
+pro.800A11B4	ただただケンカの行方を見守る	Just watch how the fight turns out	table 800A0EB4 stride 0x30
+pro.800A11E4	箱が小さすぎる……。	The box is too small...	table 800A0EB4 stride 0x30
+pro.800A1214	できたら、そうして欲しい。	If possible, I'd like that.	table 800A0EB4 stride 0x30
 pro.800A1244	もちろん！	Of course!	table 800A0EB4 stride 0x30
 pro.800A1274	立方体	A cube	luix1 tabx1
-pro.800A12A4	満月		table 800A0EB4 stride 0x30
+pro.800A12A4	満月	A full moon	table 800A0EB4 stride 0x30
 pro.800A12D4	たいせつな仕事	Important work	table 800A0EB4 stride 0x30
-pro.800A1304	砂浜で犬と転げまわって遊ぶ子供		table 800A0EB4 stride 0x30
+pro.800A1304	砂浜で犬と転げまわって遊ぶ子供	A child rolling on the beach with a dog	table 800A0EB4 stride 0x30
 pro.800A1334	行き当たりばったりが楽しい	Winging it is more fun.	table 800A0EB4 stride 0x30
 pro.800A1364	夕日は夢があるような気がする……。	A sunset feels full of dreams...	table 800A0EB4 stride 0x30
 pro.800A1394	あたたかくてのんびりしたところ。	Somewhere warm and relaxing.	table 800A0EB4 stride 0x30
 pro.800A13C4	自分に関係した事ではないか？　と考えてみる	Wonder if it's something to do with me	table 800A0EB4 stride 0x30
 pro.800A13F4	前半は楽しいが、悲しい結末を迎える物語	Fun at first, but with a sad ending	table 800A0EB4 stride 0x30
-pro.800A1424	グラスの下の方		table 800A0EB4 stride 0x30
+pro.800A1424	グラスの下の方	Near the bottom of the glass	table 800A0EB4 stride 0x30
 pro.800A1454	好きなものも嫌いなものも均等に食べる。	I eat what I like and dislike equally.	table 800A0EB4 stride 0x30
-pro.800A1484	緑の葉っぱ		table 800A0EB4 stride 0x30
+pro.800A1484	緑の葉っぱ	Green leaves	table 800A0EB4 stride 0x30
 pro.800A14B4	たくさん	Lots	table 800A0EB4 stride 0x30
 pro.800A14E4	知らない人に囲まれてちやほやされている夢	Being fussed over by strangers	table 800A0EB4 stride 0x30
-pro.800A1514	２本以上		table 800A0EB4 stride 0x30
+pro.800A1514	２本以上	Two or more	table 800A0EB4 stride 0x30
 pro.800A1544	海に囲まれて一人ぼっちの孤独	Loneliness, all alone at sea	table 800A0EB4 stride 0x30
-pro.800A1574	なんとかふたりをなだめる。		table 800A0EB4 stride 0x30
-pro.800A15A4	ちょうどいい感じ！		table 800A0EB4 stride 0x30
-pro.800A15D4	自分が信じているだけでいい！		table 800A0EB4 stride 0x30
-pro.800A1604	いや、自信がないときもある。		table 800A0EB4 stride 0x30
+pro.800A1574	なんとかふたりをなだめる。	Somehow calm the two of them down.	table 800A0EB4 stride 0x30
+pro.800A15A4	ちょうどいい感じ！	Just the right size!	table 800A0EB4 stride 0x30
+pro.800A15D4	自分が信じているだけでいい！	It's enough that I believe in them!	table 800A0EB4 stride 0x30
+pro.800A1604	いや、自信がないときもある。	No, sometimes I'm not so sure.	table 800A0EB4 stride 0x30
 pro.800A1864	ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ　　　　　　ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ？！・　　　あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん　　がぎぐげござじずぜぞだぢづでど　ばびぶべぼぱぴぷぺぽ　０１２３４ぁぃぅぇぉっゃゅょー　５６７８９アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン　　ガギグゲゴザジズゼゾダヂヅデド　バビブベボパピプペポヴ　　　　　ァィゥェォッャュョ　　　　　　　		luix1

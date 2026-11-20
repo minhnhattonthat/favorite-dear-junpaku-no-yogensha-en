@@ -4,11 +4,11 @@ FryMsg6.00D4	天使様！　もう無理です。{n}これ以上混乱を止め�
 FryMsg6.0116	天使様、ＡＰには気をつけてください。{n}なくなってしまった場合は、{n}天界に戻らないといけませんからね。	Angel, watch your AP. If it runs out, you'll{n}have to go back to the Heavens, you know.	
 FryMsg6.017C	天使様、ＡＰがなくなってしまいました。{n}天界に戻らないとダメですよ。	Angel, your AP's run out. You've gotta go{n}back to the Heavens.	
 FryMsg6.01C2	天使様、すいません。{n}さすがに疲れがたまってきたんですが……。{wait}{clear}近いうちに休みをいただけるとありがたいです。{n}考えておいてください、天使様。	Sorry, Angel. I'm really starting to get{n}worn out...{wait}{clear}I'd appreciate a day off sometime soon.{n}Think it over, Angel.	
-FryMsg6.0252	天使様、ちょっと、いいですか？{wait}{clear}＜妖精名＞がとても疲れているようです。{n}たまには休ませてあげてはいかがでしょうか。	Angel, got a second?{wait}{clear}＜妖精名＞ looks really tired. Why not let them{n}rest once in a while?	
-FryMsg6.02C8	天使様、申し訳ありません。{wait}{clear}＜妖精名＞が勝手に天界に戻ってしまいました。	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens without{n}permission.	
+FryMsg6.0252	天使様、ちょっと、いいですか？{wait}{clear}＜妖精名＞がとても疲れているようです。{n}たまには休ませてあげてはいかがでしょうか。	Angel, got a second?{wait}{clear}＜妖精名＞ looks really tired. Why not let{n}them rest once in a while?	
+FryMsg6.02C8	天使様、申し訳ありません。{wait}{clear}＜妖精名＞が勝手に天界に戻ってしまいました。	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens{n}without permission.	
 FryMsg6.0314	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名＞様にお会いになりますか？	Angel, there's a hero who wants to meet with{n}you.{wait}{clear}Will you see ＜勇者名＞-sama?	
 FryMsg6.036E	じゃあ、そのようにお伝えしておきます。	All right, I'll pass that along.	
-FryMsg6.0396	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名１＞様と＜勇者名２＞様の{n}どちらにお会いになられますか？	Angel, there are heroes who want to meet{n}with you.{wait}{clear}Who will you see, ＜勇者名１＞-sama or{n}＜勇者名２＞-sama?	
+FryMsg6.0396	天使様、{n}面会を希望している勇者様がいるのですが。{wait}{clear}＜勇者名１＞様と＜勇者名２＞様の{n}どちらにお会いになられますか？	Angel, there are heroes who want to meet{n}with you.{wait}{clear}Who will you see, ＜勇者名１＞-sama or ＜勇者名２＞-sama?	
 FryMsg6.040E	じゃあ、そのようにお伝えしておきます。	All right, I'll pass that along.	
 FryMsg6.0436	天使様、報告します。{wait}{clear}＜勇者名＞様のレベルが上がりました。	Angel, a report.{wait}{clear}＜勇者名＞-sama's level has gone up.	
 FryMsg6.0474	天使様、報告します。{wait}{clear}＜勇者名＞様のレベルが○○上がりました。	Angel, a report.{wait}{clear}＜勇者名＞-sama's level has gone up by ○○.	
@@ -21,13 +21,13 @@ FryMsg6.06E6	天使様、{n}大ケガを負われている＜勇者名＞様の�
 FryMsg6.077E	大変です、天使様！{n}＜勇者名＞様が行方不明になってしまいました。{wait}{clear}なにか不満があったようなのですが……。{n}天使様、どうしましょうか？	It's bad, Angel! ＜勇者名＞-sama has gone{n}missing.{wait}{clear}Looks like something was bugging them...{n}Angel, what do we do?	
 FryMsg6.0806	天使様、{n}＜勇者名＞様が行方不明になられてから、{n}ずいぶん経ちますが、このままでいいんですか？	Angel, it's been a good while since{n}＜勇者名＞-sama went missing. Are you okay{n}leaving it like this?	
 FryMsg6.0866	行方不明になっていた{n}＜勇者名＞様を発見しました。	We've found ＜勇者名＞-sama, who had gone{n}missing.	
-FryMsg6.089A	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけないでしょうか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in{n}＜地方名＞. Will you ask a hero to handle it?	
+FryMsg6.089A	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけないでしょうか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has{n}broken out in ＜地方名＞. Will you ask a{n}hero to handle it?	
 FryMsg6.0916	＜勇者名＞様が{n}＜イベント名＞を解決しました。	＜勇者名＞-sama resolved ＜イベント名＞.	
 FryMsg6.0946	＜勇者名＞様が{n}＜イベント名＞解決に失敗してしまったようです。	Looks like ＜勇者名＞-sama failed to resolve{n}＜イベント名＞.	
-FryMsg6.0986	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.	
-FryMsg6.09F2	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。{wait}{clear}また、そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。	Angel, the incident's disappeared.{wait}{clear}Looks like ＜イベント名＞ in ＜地方名＞ is gone.{wait}{clear}And ＜勇者名＞-sama, who was heading there,{n}didn't make it in time.	
+FryMsg6.0986	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems{n}to have gone away.	
+FryMsg6.09F2	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。{wait}{clear}また、そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。	Angel, the incident's disappeared.{wait}{clear}Looks like ＜イベント名＞ in{n}＜地方名＞ is gone.{wait}{clear}And ＜勇者名＞-sama, who was heading there,{n}didn't make it in time.	
 FryMsg6.0AA0	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着しました。	＜勇者名＞-sama has arrived at ＜目的地名＞.	
-FryMsg6.0AD6	天使様、報告します。{wait}{clear}＜地方名＞を探索してみたのですが{n}特別、変わったことなどありませんでした。	Angel, a report.{wait}{clear}I searched ＜地方名＞, but there was nothing out{n}of the ordinary.	
+FryMsg6.0AD6	天使様、報告します。{wait}{clear}＜地方名＞を探索してみたのですが{n}特別、変わったことなどありませんでした。	Angel, a report.{wait}{clear}I searched ＜地方名＞, but there was nothing{n}out of the ordinary.	
 FryMsg6.0B3A	天使様、報告します。{wait}{clear}天使様のレベルが上がりそうです。{n}天界へ戻られたときは、{n}ラファエル様のところへ行くといいと思います。	Angel, a report.{wait}{clear}Your level's about to go up. When you go{n}back to the Heavens, you should go see{n}Raphael-sama.	
 FryMsg6.0BBA	天使様、大変です！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}とても悲しいことなのですが、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできません。	Angel, it's terrible! ＜勇者名＞-sama has lost{n}their life in battle with an enemy bewitched{n}by a fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞-sama's soul can{n}never be brought back.	
 FryMsg6.0C70	天使様、勇者候補を発見しました！	Angel, I found a hero candidate!	

@@ -34,31 +34,56 @@ ARCHIVES = ["FD2BN", "FD2SN", "SSB_DATA", "GRPDATA"]
 EXE_NAME = "SLPS_027.54"
 ARMIPS = ROOT / "tools/armips/armips.exe"
 ASM = ROOT / "asm"
-EXE_PAD = 0x2000        # bytes prepended to the EXE image: the FREE block 0x8001E000-0x80020000 (asm/font.asm)
+EXE_PAD = 0x10000       # bytes prepended to the EXE image (t_addr 0x80020000 -> 0x80010000): the string heap
+                        # 0x80010000-0x8001E000 (tools/codetext.py Heap) and FREE 0x8001E000-0x80020000 (asm/font.asm)
 
 
-def patch_exe(exe):
-    """EXE bytes -> EXE with the FREE block prepended (t_addr 0x80020000 -> 0x8001E000) and asm/font.asm applied."""
+def patch_exe(exe, heap=None):
+    """EXE bytes -> EXE with the free block prepended, the string heap written at its start and asm/font.asm
+    applied."""
     import struct
     import tempfile
+    import codetext
     import font_en
     t_addr, t_size = struct.unpack_from("<II", exe, 0x18)
     assert t_addr == 0x80020000, f"EXE already patched (t_addr {t_addr:#x})"
+    load = t_addr - EXE_PAD
+    assert load == codetext.HEAP_LO
     head = bytearray(exe[:0x800])
-    struct.pack_into("<II", head, 0x18, t_addr - EXE_PAD, t_size + EXE_PAD)
-    padded = bytes(head) + b"\0" * EXE_PAD + exe[0x800:]
+    struct.pack_into("<II", head, 0x18, load, t_size + EXE_PAD)
+    pad = bytearray(EXE_PAD)
+    if heap is not None:
+        assert heap.lo == codetext.HEAP_LO and heap.lo + len(heap.buf) <= codetext.HEAP_HI
+        pad[:len(heap.buf)] = heap.buf
+    padded = bytes(head) + bytes(pad) + exe[0x800:]
     font_en.write_inc()
     with tempfile.TemporaryDirectory() as td:
         src, dst = Path(td) / "in.exe", Path(td) / "out.exe"
         src.write_bytes(padded)
         r = subprocess.run([str(ARMIPS), "font.asm", "-strequ", "EXE_IN", str(src), "-strequ", "EXE_OUT", str(dst),
-                            "-equ", "PAIR_G", str(font_en.G)],
+                            "-equ", "PAIR_G", str(font_en.G), "-equ", "LOAD_ADDR", hex(load)],
                            cwd=ASM, capture_output=True, text=True)
         if r.returncode:
             sys.exit(f"armips failed ({r.returncode}):\n{r.stdout}\n{r.stderr}")
         out = dst.read_bytes()
     assert len(out) == len(padded), "armips changed the EXE size"
     return out
+
+
+def write_logs(stem, heap, lkf_changes, files):
+    """build/<stem>_writes/<file>.bin (the file before patch_exe) + <file>.txt (its write log), for
+    `romdiff.py ORIG NEW --writes LOG` (tests/test_build.py runs it on every changed EXE/overlay)."""
+    d = BUILD / f"{stem}_writes"
+    d.mkdir(parents=True, exist_ok=True)
+    for f in d.iterdir():
+        f.unlink()
+    for name, log in heap.log.items():
+        data = files.get(name) or lkf_changes.get("FD2BN", {}).get(name)
+        if data is None:
+            continue
+        (d / f"{name}.bin").write_bytes(data)
+        (d / f"{name}.txt").write_text("".join(f"{o:X} {a.hex()} {b.hex()} {by}\n" for o, a, b, by in log),
+                                       encoding="utf-8", newline="\n")
 
 
 def unpack():
@@ -174,11 +199,16 @@ def main():
             import marker
             texts_for = marker.ruler_texts_for
             marker.RULER_MIN = a.ruler_min
-        lkf_changes, files, nrows = insert.changes("en", overrides=qa, texts_for=texts_for)
-        files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes())
+        import codetext
+        heap = codetext.Heap()
+        lkf_changes, files, nrows = insert.changes("en", overrides=qa, texts_for=texts_for, heap=heap)
         stem = a.stem or ("fd2_ruler" if a.ruler else "fd2_marker" if a.marker else "fd2_en")
+        write_logs(stem, heap, lkf_changes, files)
+        files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes(), heap)
         out = build(stem, lkf_changes=lkf_changes, files=files)
-        print(f"{nrows} translated rows")
+        moved = sum(len(v) for v in heap.moved.values())
+        print(f"{nrows} translated rows; {moved} EXE/overlay strings relocated, heap {len(heap.buf):#x} of "
+              f"{codetext.HEAP_HI - codetext.HEAP_LO:#x} bytes")
     print(f"{out}: sha1 {sha1(out)}")
 
 

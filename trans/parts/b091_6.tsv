@@ -3,8 +3,8 @@ rfd2.8009D99C	Who do you want to hear about?
 rfd2.8009D9E4	-
 rfd2.8009D9F4	-
 rfd2.8009D9F8	-
-rfd2.8009DA04	＄＄＄＄＄＄, your bonus AP is
-rfd2.8009DA20	.{n}Put it to use in your actions in Arcaya.
+rfd2.8009DA04	＄＄＄＄＄＄, you get
+rfd2.8009DA20	 bonus AP.{n}Put it to use in your actions in Arcaya.
 SLPS.80020088	Leyte
 SLPS.80020090	Mirzapur
 SLPS.8002009C	Tarlac
@@ -19,7 +19,6 @@ SLPS.800200EC	Dilolo
 SLPS.800200F8	Tijuana
 SLPS.80020104	Hofuf
 SLPS.80020110	Pereira
-SLPS.80020114	Ira
 SLPS.8002011C	Quilon
 SLPS.80020128	Lafayette
 SLPS.80020138	Faro

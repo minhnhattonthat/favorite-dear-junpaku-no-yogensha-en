@@ -243,7 +243,6 @@ SLPS.80021810	ptrx1		平野
 SLPS.80021818	ptrx1		街道
 SLPS.80021B9C	luix1		FontEntryBuf() ～ Font Manager Buffer Locate Error...{0A}
 SLPS.80021BD4	luix2		FontEntryBuf() ～ UnKnown Code...{0A}
-SLPS.80021BF8	luix1		FontEntryBuf() ～ Font Data Transer VRAM Error...{0A}
 SLPS.80021C80	luix1		・・・・・
 SLPS.8008CCB8	ptrx1		スロット２
 SLPS.8008CCC4	ptrx1		スロット１

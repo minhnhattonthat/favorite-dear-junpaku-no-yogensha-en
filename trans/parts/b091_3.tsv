@@ -41,10 +41,10 @@ rfd2.8009C268	  Talk to the Hero
 rfd2.8009C27C	  End Accompanying
 rfd2.8009C290	, accompany
 rfd2.8009C294	?
-rfd2.8009C2BC	Stop searching and
-rfd2.8009C2CC	Stop accompanying and
-rfd2.8009C2DC	 stand by?
+rfd2.8009C2BC	Stop search
+rfd2.8009C2CC	Stop escort
+rfd2.8009C2DC	 and stand by?
 rfd2.8009C2F0	: return to Heaven?
-rfd2.8009C308	Choose a fairy to give orders to.
+rfd2.8009C308	Choose a fairy to command.
 rfd2.8009C328	Return to Heaven
 rfd2.8009C334	Standby

@@ -1,9 +1,9 @@
 id	jp	en	notes
 ed.8009B6C0	ゲームのクリアデータを記録します。	Save your game clear data.	luix1
-ed.8009B6E4	データに情報を追加しますので、		luix1
+ed.8009B6E4	データに情報を追加しますので、	The new data will be added to it,	luix1
 ed.8009B704	今までのクリアデータをロードしてください。	so please load your existing clear data.	luix1
 ed.8009B730	新しくクリアデータを作成するときは、	To create new clear data,	luix1
-ed.8009B758	ロード画面で×ボタンを押して、		luix1
+ed.8009B758	ロード画面で×ボタンを押して、	press the X button on the load screen	luix1
 ed.8009B778	ロードをキャンセルしてください。	to cancel loading.	luix1
 ed.8009B79C	クリアデータをメモリーカードに記録しますか？	Save clear data to the Memory Card?	luix1
 ed.8009B7CC	はい	Yes	luix2

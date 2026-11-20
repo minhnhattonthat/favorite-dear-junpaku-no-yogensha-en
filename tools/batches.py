@@ -33,6 +33,10 @@ ALLOWED = set(font_en.CHARS)
 # Runtime placeholders the game substitutes by string match (table in FD2BN.LKF at 0xE0FC): keep them byte-exact.
 GAME_TAGS = ["＜勇者名１＞", "＜勇者名２＞", "＜勇者名＞", "＜妖精名＞", "＜イベント名＞", "＜地方名＞",
              "＜目的地名＞", "○○", "＜ボーナスＡＰ＞"]   # last: HVN_Msg00.259E, kept as in the JP
+# Rows allowed to drop one glossary term (row id -> JP term), each with the reason.
+TERM_WAIVE = {
+    "rfd2.8009BABC": "混乱度",   # "Chaos:" -- the code copies a fixed 9 bytes (codetext.copy_size): 8 letters max
+}
 
 
 def wrap_spec(path, row):
@@ -193,7 +197,8 @@ def check(b):
         rest = jp             # a term inside a longer matched term (ルディ in ウルディピア) is that term's
         for gjp, gen, avoid in sorted(gl, key=lambda g: -len(g[0])):
             # a capitalised first letter or title case (menu labels, "Chaos Level") also counts
-            if gjp in rest and gen and not any(f in en for f in (gen, gen[0].upper() + gen[1:], gen.title())):
+            if gjp in rest and gen and not any(f in en for f in (gen, gen[0].upper() + gen[1:], gen.title())) \
+                    and TERM_WAIVE.get(i) != gjp:
                 errs.append(f"{i}: glossary {gjp} -> {gen} missing")
             rest = rest.replace(gjp, "　")
             for a in avoid:
@@ -202,8 +207,19 @@ def check(b):
     return errs
 
 
+# Widest English each runtime placeholder becomes (rfd2 0x800BF280..: strncmp on the tag, then strcpy from an EXE
+# pointer table indexed by the report's ids): heroes 0x8006F538 (7, "Cecia"), fairies 0x8006FE18 (8, "Florinda"),
+# regions 0x8006F3FC (57 towns, "Frezelecia"); event titles are EvName records (22 bytes); destinations come from a
+# town lookup (0x800A8188), counted as 12 to be safe; ○○ is a level count.
+PH_WIDTH = {"＜勇者名＞": 5, "＜勇者名１＞": 5, "＜勇者名２＞": 5, "＜妖精名＞": 8, "＜イベント名＞": 22, "＜地方名＞": 10,
+            "＜目的地名＞": 12, "○○": 2, "＜ボーナスＡＰ＞": 4}
+
+
 def width(s):
-    return len(TAG.sub("", s).replace(NAME, "x" * 12))
+    s = TAG.sub("", s).replace(NAME, "x" * 12)
+    for t, w in PH_WIDTH.items():
+        s = s.replace(t, "x" * w)
+    return len(s)
 
 
 SENTENCE_END = re.compile(r"""(?:[.!?]|\.\.\.)["')]*$""")
@@ -272,21 +288,32 @@ def merge():
             rep[(p, r["id"])] = members[0][1]["id"]
     n = 0
     long_code = []
+    code_src = {s.tsv: s for s in extract.sources() if hasattr(s, "code_name")}
     for p in files():
         rows = extract.read_tsv(p)
         changed = False
-        code = p.parent.name == "ovl" or p.name == "exe.tsv"
+        src = code_src.get(p)
+        offs = {r.id: r.off for r in src.rows} if src else {}
         for r in rows:
             k = rep.get((p, r["id"]))
             if k not in trans:
                 continue
             spec = wrap_spec(p, r)
             en = wrap(trans[k], spec) if spec else trans[k]
-            # EXE/overlay strings are replaced in place until phase 7 relocates them: English longer than
-            # the JP bytes (a copy from a dialogue row, or the row's own translation) would break the build,
-            # so the script keeps the JP and trans/en keeps the English for phase 7.
-            if code and len(extract.jtext.encode(font_en.to_pairs(en))) > len(extract.jtext.encode(r["jp"])):
-                long_code.append(f"{r['id']} {r['jp']} -> {en}")
+            # EXE/overlay strings longer than their slot are relocated by the build (codetext.fit); one that
+            # cannot move (a fixed table slot, no reference to re-point) keeps the JP here and its English stays
+            # in trans/en: shorten it or give the table more room.
+            why = None
+            if src:
+                nb = len(extract.jtext.encode(font_en.to_pairs(en)))
+                o = offs[r["id"]]
+                c = extract.codetext.copy_size(src.code_name, src.data, o)
+                if c is not None and nb >= c:
+                    why = f"the code copies a fixed {c} bytes: at most {c - 1}"
+                elif nb > extract.codetext.room_at(src.data, o):
+                    why = extract.codetext.movable(src.code_name, src.data, o)
+            if why:
+                long_code.append(f"{r['id']} ({why}) {r['jp']} -> {en}")
                 if r["en"]:
                     r["en"] = ""
                     changed = True
@@ -298,7 +325,8 @@ def merge():
         if changed:
             extract.write_tsv(p, rows)
     if long_code:
-        print(f"{len(long_code)} EXE/overlay rows left for phase 7 (longer than the JP):", *long_code, sep="\n  ")
+        print(f"{len(long_code)} EXE/overlay rows held back (too long for their slot and cannot move):", *long_code,
+              sep="\n  ")
     print(f"merged {len(trans)} translations, {n} rows changed; failed batches: {bad or 'none'}")
     return 1 if bad else 0
 

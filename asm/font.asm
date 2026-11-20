@@ -10,7 +10,8 @@
 ; 0x8002C514 no longer rejects an index above the glyph count.
 
 .psx
-.open EXE_IN, EXE_OUT, 0x8001D800      ; file offset 0x800 = FREE
+.open EXE_IN, EXE_OUT, (LOAD_ADDR - 0x800)  ; LOAD_ADDR (-equ, build.patch_exe): the moved t_addr, below FREE
+                                            ; (the string heap of tools/codetext.py sits between them)
 
 FREE      equ 0x8001E000                ; below the original load address: zero in every RAM dump (docs/re/space.md)
 FREE_END  equ 0x80020000

@@ -13,7 +13,6 @@ SLPS.800200EC	ディロロ	Dilolo	ptrx1
 SLPS.800200F8	ティフアナ	Tijuana	ptrx1
 SLPS.80020104	フフーフ	Hofuf	ptrx1
 SLPS.80020110	ペレイラ	Pereira	ptrx1
-SLPS.80020114	イラ	Ira	luix5
 SLPS.8002011C	クイロン	Quilon	ptrx1
 SLPS.80020128	ラフィエット	Lafayette	ptrx1
 SLPS.80020138	ファロ	Faro	ptrx1
@@ -81,7 +80,7 @@ SLPS.800203F4	アイシア	Aisia	ptrx1
 SLPS.80020400	フィーシュ	Fisch	ptrx1
 SLPS.8002040C	ティクル	Ticul	ptrx1
 SLPS.80020418	ククタ	Cucuta	ptrx1
-SLPS.80020420	ガララテ		ptrx1
+SLPS.80020420	ガララテ	Gallarate	ptrx1
 SLPS.8002042C	ティエール	Thiers	ptrx1
 SLPS.80020438	セアラ	Ceara	ptrx1
 SLPS.80020440	アララス	Araras	ptrx1
@@ -129,7 +128,7 @@ SLPS.800205FC	アングレーム	Angouleme	ptrx1
 SLPS.8002060C	リメイラ	Limeira	ptrx1
 SLPS.80020618	メルクレア	Merclea	ptrx1
 SLPS.80020624	クングル	Kungur	ptrx1
-SLPS.80020630	アベビル		ptrx1
+SLPS.80020630	アベビル	Abbeville	ptrx1
 SLPS.8002063C	ラルナカ	Larnaca	ptrx1
 SLPS.80020648	ブロラ	Brora	ptrx1
 SLPS.80020650	アイオナ	Iona	ptrx1
@@ -187,10 +186,10 @@ SLPS.80020888	ハイランド	Highland	ptrx1
 SLPS.80020894	レイブンルフト城	Ravenruft Castle	ptrx1
 SLPS.800208A8	シグル	Sigul	ptrx1
 SLPS.800208B0	ヘルゴント	Helgond	ptrx1
-SLPS.800208BC	古い腕輪		ptrx1
-SLPS.800208C8	銘刀のつば		ptrx1
-SLPS.800208D4	銀のロザリオ		ptrx1
-SLPS.800208E4	銀の指輪		ptrx1
+SLPS.800208BC	古い腕輪	old bracelet	ptrx1
+SLPS.800208C8	銘刀のつば	guard of a famous sword	ptrx1
+SLPS.800208D4	銀のロザリオ	silver rosary	ptrx1
+SLPS.800208E4	銀の指輪	silver ring	ptrx1
 SLPS.800208F0	麦わら帽子	straw hat	ptrx1
 SLPS.800208FC	ホドフレイム	Hod Flame	ptrx1
 SLPS.8002090C	リーヴクロイツ	Lif Kreuz	ptrx1
@@ -238,11 +237,11 @@ SLPS.80020BC8	ファブスレイヤー	Fafslayer	ptrx1
 SLPS.80020BDC	ルグナサズ	Lughnasadh	ptrx1
 SLPS.80020BE8	カラズボルグ	Caladbolg	ptrx1
 SLPS.80020BF8	エリヴァーガル	Elivagar	ptrx1
-SLPS.80020C08	銀のレイピア		ptrx2
+SLPS.80020C08	銀のレイピア	silver rapier	ptrx2
 SLPS.80020C18	聖者のローブ	saint's robe	ptrx1
 SLPS.80020C28	魔よけのクリス	warding kris	ptrx1
-SLPS.80020C38	銀のてい鉄		ptrx1
-SLPS.80020C44	銀のナイフ		ptrx1
+SLPS.80020C38	銀のてい鉄	silver horseshoe	ptrx1
+SLPS.80020C44	銀のナイフ	silver knife	ptrx1
 SLPS.80020C50	魔導士のローブ	mage's robe	ptrx1
 SLPS.80020C60	ギルドの護符	Guild amulet	ptrx1
 SLPS.80020C70	ホーリークロイツ	Holy Kreuz	ptrx1
@@ -251,12 +250,12 @@ SLPS.80020C94	シルバーロザリオ	Silver Rosary	ptrx1
 SLPS.80020CA8	シルバーメダイユ	Silver Medallion	ptrx1
 SLPS.80020CBC	クロス	Cross	ptrx1
 SLPS.80020CC4	ロザリオ	Rosary	ptrx1
-SLPS.80020CD0	メダイユ		ptrx1
+SLPS.80020CD0	メダイユ	Medallion	ptrx1
 SLPS.80020CDC	エリアルブーツ	Aerial Boots	ptrx1
 SLPS.80020CEC	フェザーブーツ	Feather Boots	ptrx1
 SLPS.80020CFC	フェイブーツ	Fay Boots	ptrx1
 SLPS.80020D0C	ラピットブーツ	Rapid Boots	ptrx1
-SLPS.80020D1C	レザーブーツ		ptrx1
+SLPS.80020D1C	レザーブーツ	Leather Boots	ptrx1
 SLPS.80020D2C	プロテクトリング	Protect Ring	ptrx1
 SLPS.80020D40	ダイヤリング	Diamond Ring	ptrx1
 SLPS.80020D50	アメシストリング	Amethyst Ring	ptrx1
@@ -264,13 +263,13 @@ SLPS.80020D64	オニキスリング	Onyx Ring	ptrx1
 SLPS.80020D74	パールリング	Pearl Ring	ptrx1
 SLPS.80020D84	コーラルリング	Coral Ring	ptrx1
 SLPS.80020D94	ジャスパーリング	Jasper Ring	ptrx1
-SLPS.80020DA8	プラチナブレス		ptrx1
+SLPS.80020DA8	プラチナブレス	Platinum Bracelet	ptrx1
 SLPS.80020DB8	ゴールドブレス	Gold Bracelet	ptrx1
 SLPS.80020DC8	エメラルドブレス	Emerald Bracelet	ptrx1
 SLPS.80020DDC	ガーネットブレス	Garnet Bracelet	ptrx1
 SLPS.80020DF0	クリスタルブレス	Crystal Bracelet	ptrx1
-SLPS.80020E04	ターコイズブレス		ptrx1
-SLPS.80020E18	クォーツブレス		ptrx1
+SLPS.80020E04	ターコイズブレス	Turquoise Bracelet	ptrx1
+SLPS.80020E18	クォーツブレス	Quartz Bracelet	ptrx1
 SLPS.80020E28	ソウルペンダント	Soul Pendant	ptrx1
 SLPS.80020E3C	ダイヤペンダント	Diamond Pendant	ptrx1
 SLPS.80020E50	ローズペンダント	Rose Pendant	ptrx1
@@ -342,44 +341,44 @@ SLPS.80021220	エグゼキューター	Executioner	ptrx1
 SLPS.80021234	ツヴァイハンダー	Zweihander	ptrx1
 SLPS.80021248	フランベルジュ	Flambard	ptrx1
 SLPS.80021258	クレイモア	Claymore	ptrx1
-SLPS.80021264	花束		ptrx1
+SLPS.80021264	花束	bouquet	ptrx1
 SLPS.8002126C	オリーブの実	olives	ptrx1
-SLPS.8002127C	騎士道の教本		ptrx1
-SLPS.8002128C	決闘用の手袋		ptrx1
-SLPS.8002129C	金のメダイユ		ptrx1
+SLPS.8002127C	騎士道の教本	manual of chivalry	ptrx1
+SLPS.8002128C	決闘用の手袋	dueling gloves	ptrx1
+SLPS.8002129C	金のメダイユ	gold medallion	ptrx1
 SLPS.800212AC	森のしずく	Forest Dew	ptrx1
-SLPS.800212B8	サンザシの実		ptrx1
+SLPS.800212B8	サンザシの実	hawthorn berries	ptrx1
 SLPS.800212C8	ハシバミの実	hazelnuts	ptrx1
 SLPS.800212D8	クラダーリング	Claddagh ring	ptrx1
 SLPS.800212E8	タラブローチ	Tara brooch	ptrx1
-SLPS.800212F8	魔導書		ptrx1
+SLPS.800212F8	魔導書	grimoire	ptrx1
 SLPS.80021300	クマのぬいぐるみ	teddy bear	ptrx1
-SLPS.80021314	羽ペン		ptrx1
-SLPS.8002131C	ヤドリギの枝		ptrx1
+SLPS.80021314	羽ペン	quill pen	ptrx1
+SLPS.8002131C	ヤドリギの枝	mistletoe sprig	ptrx1
 SLPS.8002132C	タローカード	tarot cards	ptrx1
 SLPS.8002133C	年代物のワイン	vintage wine	ptrx1
-SLPS.8002134C	聖水		ptrx1
+SLPS.8002134C	聖水	holy water	ptrx1
 SLPS.80021354	珍しいスパイス	rare spices	ptrx1
 SLPS.80021364	象牙のナイフ	ivory knife	ptrx1
-SLPS.80021374	ゾウの置物		ptrx1
-SLPS.80021380	シルクのハンカチ		ptrx1
+SLPS.80021374	ゾウの置物	elephant figurine	ptrx1
+SLPS.80021380	シルクのハンカチ	silk handkerchief	ptrx1
 SLPS.80021394	ゾンビパウダー	zombie powder	ptrx1
-SLPS.800213A4	命の水		ptrx1
-SLPS.800213AC	ミカエルの羽		ptrx1
-SLPS.800213BC	ラファエルの羽		ptrx1
-SLPS.800213CC	ウリエルの羽		ptrx1
-SLPS.800213DC	ガブリエルの羽		ptrx1
-SLPS.800213EC	天使のリース		ptrx1
-SLPS.800213FC	プッティの羽		ptrx1
-SLPS.8002140C	妖精の羽		ptrx1
-SLPS.80021418	天使の羽		ptrx1
-SLPS.80021424	ラジエルの書		ptrx1
-SLPS.80021434	真実の書		ptrx1
-SLPS.80021440	勇者の本		ptrx1
-SLPS.8002144C	伝説の本		ptrx1
-SLPS.80021458	歴史の本		ptrx1
-SLPS.80021464	聖霊の本		ptrx1
-SLPS.80021470	妖精の本		ptrx1
+SLPS.800213A4	命の水	Water of Life	ptrx1
+SLPS.800213AC	ミカエルの羽	Michael's Feather	ptrx1
+SLPS.800213BC	ラファエルの羽	Raphael's Feather	ptrx1
+SLPS.800213CC	ウリエルの羽	Uriel's Feather	ptrx1
+SLPS.800213DC	ガブリエルの羽	Gabriel's Feather	ptrx1
+SLPS.800213EC	天使のリース	Angel's Wreath	ptrx1
+SLPS.800213FC	プッティの羽	Putto's Feather	ptrx1
+SLPS.8002140C	妖精の羽	Fairy's Feather	ptrx1
+SLPS.80021418	天使の羽	Angel's Feather	ptrx1
+SLPS.80021424	ラジエルの書	Book of Raziel	ptrx1
+SLPS.80021434	真実の書	Book of Truth	ptrx1
+SLPS.80021440	勇者の本	Book of Heroes	ptrx1
+SLPS.8002144C	伝説の本	Book of Legends	ptrx1
+SLPS.80021458	歴史の本	Book of History	ptrx1
+SLPS.80021464	聖霊の本	Book of the Spirit	ptrx1
+SLPS.80021470	妖精の本	Book of Fairies	ptrx1
 SLPS.8002147C	ナーシサス	Narcissus	ptrx1
 SLPS.80021488	アニス	Anise	ptrx1
 SLPS.80021490	サルフィア	Salvia	ptrx1
@@ -389,14 +388,14 @@ SLPS.800214B8	ミルラ	Myrrh	ptrx1
 SLPS.800214C0	オールポーション	All Potion	ptrx1
 SLPS.800214D4	ハイポーション	Hi-Potion	ptrx1
 SLPS.800214E4	ポーション	Potion	ptrx1
-SLPS.800214F0	辺境		ptrx1
-SLPS.800214F8	レグランス王国		ptrx1
-SLPS.80021508	未開の地		ptrx1
-SLPS.80021514	六王国連合		ptrx1
-SLPS.80021520	エクレシア教国		ptrx1
+SLPS.800214F0	辺境	Frontier	ptrx1
+SLPS.800214F8	レグランス王国	Kingdom of Legrance	ptrx1
+SLPS.80021508	未開の地	Untamed Lands	ptrx1
+SLPS.80021514	六王国連合	Six Kingdoms	ptrx1
+SLPS.80021520	エクレシア教国	Holy Nation of Ecclesia	ptrx1
 SLPS.80021530	ブレメース島	Bremes Isle	ptrx1
 SLPS.80021540	ゼルン公国	Zern	ptrx1
-SLPS.8002154C	クレージュ公国		ptrx1
+SLPS.8002154C	クレージュ公国	Duchy of Courrege	ptrx1
 SLPS.8002155C	グローサイン帝国	Grosain Empire	ptrx1
 SLPS.80021570	ガル	Gal	ptrx1
 SLPS.80021578	ターナ	Thana	ptrx1
@@ -454,13 +453,13 @@ SLPS.800217B4	アルマビラ	Almavila	ptrx1
 SLPS.800217C0	アナディール	Anadyr	ptrx1
 SLPS.800217D0	ラグニッツ	Ragnitz	ptrx1
 SLPS.800217DC	？？？？？	?????	ptrx1
-SLPS.800217E8	沼　		ptrx1
-SLPS.800217F0	水際		ptrx1
+SLPS.800217E8	沼　	Swamp	ptrx1
+SLPS.800217F0	水際	Shore	ptrx1
 SLPS.800217F8	街　	Town	ptrx1
-SLPS.80021800	森　		ptrx1
-SLPS.80021808	荒野		ptrx1
-SLPS.80021810	平野		ptrx1
-SLPS.80021818	街道		ptrx1
+SLPS.80021800	森　	Forest	ptrx1
+SLPS.80021808	荒野	Wilderness	ptrx1
+SLPS.80021810	平野	Plains	ptrx1
+SLPS.80021818	街道	Highway	ptrx1
 SLPS.80021820	セシア	Cecia	ptrx1
 SLPS.80021828	レイラ	Leyla	ptrx1
 SLPS.80021830	アイリーン	Irene	ptrx1
@@ -479,7 +478,6 @@ SLPS.800218B4	ローザ	Rosa	ptrx1
 SLPS.800218BC	ラビエル	Raviel	luix1
 SLPS.80021B9C	FontEntryBuf() ～ Font Manager Buffer Locate Error...{0A}		luix1
 SLPS.80021BD4	FontEntryBuf() ～ UnKnown Code...{0A}		luix2
-SLPS.80021BF8	FontEntryBuf() ～ Font Data Transer VRAM Error...{0A}		luix1
 SLPS.80021C80	・・・・・	.....	luix1
 SLPS.80021C8C	＄＄＄＄＄＄	＄＄＄＄＄＄	luix1
 SLPS.8008CCA8	いいえ	No	ptrx1
@@ -503,23 +501,23 @@ SLPS.8008CF00	純白の預言者　ゲームデータ１１　		luix1
 SLPS.8008CF24	純白の預言者　ゲームデータ１２　		luix1
 SLPS.8008D22C	フォーマットされていません	Not formatted.	luix1
 SLPS.8008D248	フォーマットしますか？	Format it?	luix1
-SLPS.8008D260	処理中にメモリーカードが抜かれました		luix9
-SLPS.8008D288	処理中はメモリーカードを抜かないでください		luix9
+SLPS.8008D260	処理中にメモリーカードが抜かれました	The Memory Card was removed during processing.	luix9
+SLPS.8008D288	処理中はメモリーカードを抜かないでください	Do not remove the Memory Card during processing.	luix9
 SLPS.8008D2B4	フォーマット中	Formatting	luix1
 SLPS.8008D2C4	メモリーカードを抜き差ししないで下さい。	Do not insert or remove the Memory Card.	luix3
 SLPS.8008D2F0	フォーマットしました	Formatted.	luix1
 SLPS.8008D308	フォーマット出来ませんでした	Could not format.	luix1
 SLPS.8008D35C	読み込み中・・・	Loading...	luix1
-SLPS.8008D370	読み込み終了		luix1
-SLPS.8008D380	データが壊れています		luix1
-SLPS.8008D398	読み込み失敗		luix1
+SLPS.8008D370	読み込み終了	Loading complete.	luix1
+SLPS.8008D380	データが壊れています	The data is corrupted.	luix1
+SLPS.8008D398	読み込み失敗	Loading failed.	luix1
 SLPS.8008D3A8	ファイルがありません	No file found.	luix2
 SLPS.8008D3C0	チェック中・・・	Checking...	luix1
 SLPS.8008D3D4	ファイルがすでに存在します	The file already exists.	luix1
 SLPS.8008D3F0	上書きしますか？	Overwrite it?	luix1
 SLPS.8008D404	書き込み中・・・	Saving...	luix1
-SLPS.8008D418	書き込み終了		luix1
-SLPS.8008D428	書き込み失敗		luix1
+SLPS.8008D418	書き込み終了	Saving complete.	luix1
+SLPS.8008D428	書き込み失敗	Saving failed.	luix1
 SLPS.8008D438	空きブロックが足りません	Not enough free blocks.	luix1
 SLPS.8008D4AC	クリアデータをロードする	Load clear data	luix1
 SLPS.8008D4C8	システムデータをロードする	Load system data	luix1
