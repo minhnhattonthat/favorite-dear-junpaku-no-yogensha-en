@@ -1,6 +1,9 @@
 -- Favorite Dear: Junpaku no Yogensha debug warp: cold boot -> any scene, no save and no savestate needed.
 -- Normally run through tools/debug/warp.py SCENE, which reads tools/debug/scenes.tsv and sets these globals:
---   KIND   'title' | 'event' | 'swap' | 'map'
+--   KIND   'title' | 'event' | 'swap' | 'battle' | 'ending' (ed.bin: the staff roll movie ENDING.STR)
+--   HERO, BATTLE  KIND 'battle': hero index (0-6) and battle id (3000 + n, the exe's battle table); nil keeps
+--          whatever the game holds (hero 0, no id: the default encounter). MAP_WAIT: frames on the map first
+--   ENDING KIND 'ending': the byte ed.bin branches on (16 = game over); nil keeps the game's value
 --   EVENT  KIND 'event'/'swap': SSB_DATA.LKF file name of an event script (e.g. 'ceev01_01.ssb', any .ssb), run
 --          in place of prologue.ssb right after the New Game name entry
 --   SWAP_HOST, SWAP_TARGET  KIND 'swap': when the game next loads file SWAP_HOST (any LKF file, e.g. a battle's
@@ -48,11 +51,21 @@ end
 KIND = KIND or "event"
 AFTER = AFTER or "mash"
 MASH_EVERY = MASH_EVERY or 45
-PROOF = PROOF or ((KIND == "event" or KIND == "swap") and 600 or 30)   -- a script's first frames are a black fade
+-- a script's first frames are a black fade; a battle's intro (camera sweep, first line) takes ~300 frames
+PROOF = PROOF or ((KIND == "event" or KIND == "swap") and 600 or KIND == "battle" and 300 or 30)
 SIGBUF = SIGBUF or SCRIPT_BUF
 -- record swaps, applied in order; arrival = the last one's target bytes (SIG) at SIGBUF + SIGOFF
 SWAPS = {}
-if KIND == "event" or KIND == "swap" then
+-- KIND 'battle' / 'ending': EVENT (TheEnd.ssb, a one-op event) leads to the world map; MAP_WAIT frames later the
+-- map overlay (rfd2.bin) is told to leave (sub-mode 6) for overlay LEAVE_TO (2 Battle.bin, 3 ed.bin: the staff
+-- roll, ENDING.STR), with HERO / BATTLE written where Battle.bin's setup reads them (docs/re/debug.md §Battle)
+local LEAVE = { battle = 2, ending = 3 }
+LEAVE_TO = LEAVE[KIND]
+if LEAVE_TO then
+  EVENT = EVENT or "TheEnd.ssb"
+  MAP_WAIT = MAP_WAIT or 2400
+end
+if KIND == "event" or KIND == "swap" or LEAVE_TO then
   assert(type(EVENT) == "string" and EVENT:match("%.ssb$"), "EVENT must be an .ssb name")
   SWAPS[#SWAPS + 1] = { host = "prologue.ssb", target = EVENT }
 end
@@ -70,8 +83,19 @@ for _ = 1, 25 do
   for _, s in ipairs({ {6, "up"}, {30, "-"}, {6, "circle"}, {40, "-"} }) do NEWGAME[#NEWGAME + 1] = s end
 end
 
+-- battle warp (docs/re/debug.md §Battle)
+local MODE = 0x8007F5B0          -- u16 main-loop mode: overlay index (0 op, 1 rfd2, 2 Battle, 3 ed, 4 pro)
+local OVL = 0x8009B4B0           -- overlay load address
+                                 -- each overlay's first word is 6 + its index (op 6 .. pro 10)
+local SUBMODE = 0x8008100C       -- rfd2 sub-mode request: u8 pending (+0), u8 sub-mode (+1)
+local NEXT_OVL = 0x8008103C      -- u32 overlay rfd2's sub-mode 6 leaves for (rfd2 init sets 2; endings set 3)
+local ENDING_ADDR = 0x8007F17A   -- u8 what ed.bin shows: 0x10 game over (g_over*.tim), other high-nibble values one
+                                 -- path, 0 another (rfd2 sets 0x0F / 0x10 before leaving for ed.bin)
+local HERO_ADDR = 0x80081010     -- u32 hero index the battle is for
+local BATTLE_ADDR = 0x80081014   -- u32 battle id (3000 + n): looked up in the exe's battle table at 0x8006EB30
+
 local stage = "boot"
-local arrived_at, post_done = nil, nil
+local arrived_at, post_done, map_at = nil, nil, nil
 local function go(s) stage = s; L.log(string.format("WARP %s f%d", s, L.frame)) end
 local function arrive(what)
   arrived_at = L.frame
@@ -116,9 +140,29 @@ L.on_frame(function(n)
         end
       end
       if TRACE and n % 30 == 0 then L.log(string.format("TRACE f%d buf %s", n, sig_at(SIGBUF + SIGOFF))) end
-      if SWAPS[#SWAPS].rec and sig_at(SIGBUF + SIGOFF) == SIG then arrive(SWAPS[#SWAPS].target) return end
+      if SWAPS[#SWAPS].rec and sig_at(SIGBUF + SIGOFF) == SIG then
+        if not LEAVE_TO then arrive(SWAPS[#SWAPS].target) return end
+        map_at = n
+        go("map")
+        return
+      end
     end
     if L.route_done() and n % MASH_EVERY == 0 then L.press("circle", 6) end
+  elseif stage == "map" then
+    -- the main loop's mode word (0x8007F5B0) reads 2 and Battle.bin's header sits at the overlay base
+    if rd16(MODE) == LEAVE_TO and rd32(OVL) == 6 + LEAVE_TO then
+      arrive(string.format("%s hero %s id %s", KIND, HERO, BATTLE))
+      return
+    end
+    if n - map_at == MAP_WAIT then
+      L.log(string.format("WARP leave map: hero %d battle %d -> %s %s f%d", rd32(HERO_ADDR), rd32(BATTLE_ADDR), HERO, BATTLE, n))
+      if HERO then wr32(HERO_ADDR, HERO) end
+      if BATTLE then wr32(BATTLE_ADDR, BATTLE) end
+      if ENDING then mem[ENDING_ADDR & 0x1FFFFF] = ENDING end
+      wr32(NEXT_OVL, LEAVE_TO)
+      mem[(SUBMODE + 1) & 0x1FFFFF] = 6   -- rfd2 sub-mode 6: leave the overlay for NEXT_OVL
+      mem[SUBMODE & 0x1FFFFF] = 1         -- sub-mode change pending
+    end
   elseif stage == "arrived" then
     local since = n - arrived_at
     if since == 1 and POST then

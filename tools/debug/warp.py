@@ -12,9 +12,11 @@ Results are appended to work/qa/warp/results.tsv. Lua side: tools/debug/warp.lua
 
 scenes.tsv columns:
   scene   name (also the output folder and state name)
-  kind    title | event | swap | map
+  kind    title | event | swap | battle | ending (map -> ed.bin, the staff roll movie)
   arg     kind event: the .ssb to run in place of prologue.ssb; kind swap: HOST=TARGET[@BUF] (when the game loads
-          HOST, it gets TARGET; arrival = TARGET's bytes at BUF, default the script buffer); kind map: unused
+          HOST, it gets TARGET; arrival = TARGET's bytes at BUF, default the script buffer); kind battle:
+          HERO[:ID] (hero index 0-6, battle id 3000+n from the exe's battle table; empty = the default encounter);
+          kind ending: the byte ed.bin branches on (0x8007F17A; 0x10 = game over; empty = the game's value)
   host    kind swap: the event that loads HOST (run in place of prologue.ssb first); else empty
   after   mash (default: circle every 45 frames after arrival) | hold
   frames  run length (default 16000)
@@ -30,6 +32,7 @@ import argparse
 import csv
 import glob
 import os
+import struct
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -48,6 +51,8 @@ import sheet  # noqa: E402
 
 ORIG_CUE = os.path.join(REPO, "rom", "Favorite Dear - Junpaku no Yogensha (Japan).cue")
 SSB_LKF = os.path.join(REPO, "work", "disc", "tree", "SSB_DATA.LKF")
+EXE = os.path.join(REPO, "work", "disc", "tree", "SLPS_027.54")
+EXE_BASE = 0x8001F800   # RAM address of file offset 0 (text 0x80020000 at 0x800)
 SCENES = os.path.join(HERE, "scenes.tsv")
 COLS = ["scene", "kind", "arg", "host", "after", "frames", "card", "post", "proof", "note"]
 SCRIPT_BUF = 0x801A4BB0
@@ -65,6 +70,19 @@ def lkf_file(name):
     if name not in _files:
         sys.exit(f"{name}: not in SSB_DATA.LKF (names are case-sensitive; lkf.py list shows them)")
     return _files[name]
+
+
+def battle_table():
+    """The exe's battle table (0x8006EB30, 14-byte rows, ends at a row whose first u16 >= 999): what Battle.bin's
+    setup looks the id at 0x80081014 up in. Fields after id: guesses (docs/re/debug.md §Battle)."""
+    d = open(EXE, "rb").read()
+    out, a = [], 0x8006EB30 - EXE_BASE
+    while True:
+        n, bid, b4, b5, w6, w8, wa, wc = struct.unpack_from("<HHBBHHHH", d, a)
+        if n >= 999:
+            return out
+        out.append({"n": n, "id": bid, "b4": b4, "b5": b5, "w6": w6, "w8": w8, "wa": wa, "wc": wc})
+        a += 14
 
 
 def sig(name):
@@ -107,6 +125,14 @@ def lua_vars(sc):
         o, h = sig(target)
         v += [f"EVENT='{sc['host']}'", f"SWAP_HOST='{host}'", f"SWAP_TARGET='{target}'", f"SIG='{h}'",
               f"SIGOFF={o}", f"SIGBUF={int(buf, 16) if buf else SCRIPT_BUF}"]
+    elif kind in ("battle", "ending"):
+        o, h = sig("TheEnd.ssb")
+        v += ["EVENT='TheEnd.ssb'", f"SIG='{h}'", f"SIGOFF={o}", f"SIGBUF={SCRIPT_BUF}"]
+        if sc["arg"] and kind == "ending":
+            v.append(f"ENDING={int(sc['arg'], 0)}")
+        elif sc["arg"]:
+            hero, _, bid = sc["arg"].partition(":")
+            v += [f"HERO={int(hero)}"] + ([f"BATTLE={int(bid)}"] if bid else [])
     if sc.get("post"):
         v.append(f"POST='{sc['post']}'")
     if sc.get("proof"):
