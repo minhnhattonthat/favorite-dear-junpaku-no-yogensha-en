@@ -2,15 +2,15 @@ id	jp	en	notes
 laev07b.00A2	レイラ	Leyla	unit name (32-byte field)
 laev07b.00DE	帝国騎士	Knight	unit name (32-byte field)
 laev07b.04C8	レイラ	Leyla	speaker
-laev07b.04DD	本気で戦ってくださらなかったですね……。		text
+laev07b.04DD	本気で戦ってくださらなかったですね……。	You didn't fight me in earnest...	text
 laev07b.0514	カイゼル	Kaiser	speaker
-laev07b.052B	いや……そんなことはない。{n}あなたが見事なのです……。{n}父上によく似た、力強い、気迫に満ちた剣だ……。		text
+laev07b.052B	いや……そんなことはない。{n}あなたが見事なのです……。{n}父上によく似た、力強い、気迫に満ちた剣だ……。	No... that's not so. You are simply{n}splendid... A strong sword full of spirit,{n}very like your father's...	text
 laev07b.05A0	カイゼル	Kaiser	speaker
-laev07b.05B7	あなたの部下たちは、若く優秀な騎士たちだった。{n}そんな者たちの前途を奪ったことは、{n}申し訳なかったと思っている……。		text
+laev07b.05B7	あなたの部下たちは、若く優秀な騎士たちだった。{n}そんな者たちの前途を奪ったことは、{n}申し訳なかったと思っている……。	Your men were young, able knights. I am{n}sorry that I robbed them of their futures...	text
 laev07b.063A	レイラ	Leyla	speaker
-laev07b.064F	カイゼル将軍……。		text
+laev07b.064F	カイゼル将軍……。	General Kaiser...	text
 laev07b.0670	カイゼル	Kaiser	speaker
-laev07b.0687	しかし、長い間、帝国騎士として生きてきた{n}私の信念は絶対だ……。{n}私は……騎士として生き、騎士として死ぬ……。		text
-laev07b.0704	さらばだ……。		text
+laev07b.0687	しかし、長い間、帝国騎士として生きてきた{n}私の信念は絶対だ……。{n}私は……騎士として生き、騎士として死ぬ……。	But my convictions, from long years as an{n}imperial knight, are absolute... I live as a{n}knight, and die as a knight...	text
+laev07b.0704	さらばだ……。	Farewell...	text
 laev07b.0731	レイラ	Leyla	speaker
 laev07b.0746	…………。	.....	text

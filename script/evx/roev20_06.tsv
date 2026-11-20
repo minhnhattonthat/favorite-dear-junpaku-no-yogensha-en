@@ -2,7 +2,7 @@ id	jp	en	notes
 roev20_06.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_06.00DE	ルディエール	Rudiere	unit name (32-byte field)
 roev20_06.04C8	ロクス	Rocus	speaker
-roev20_06.04DD	大丈夫か？		text
+roev20_06.04DD	大丈夫か？	You all right?	text
 roev20_06.04F6	ルディエール	Rudiere	speaker
 roev20_06.0511	ロクスか……{n}またドジをふんじまった……		text
 roev20_06.0548	ロクス	Rocus	speaker

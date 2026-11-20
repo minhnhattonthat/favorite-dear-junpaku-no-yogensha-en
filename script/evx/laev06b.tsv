@@ -7,28 +7,28 @@ laev06b.0192	帝国歩兵	Foot Soldier	unit name (32-byte field)
 laev06b.01CE	帝国騎士	Knight	unit name (32-byte field)
 laev06b.020A	帝国歩兵	Foot Soldier	unit name (32-byte field)
 laev06b.05D0	レイラ	Leyla	speaker
-laev06b.05E5	クッ、いくら倒しても……{n}これじゃ、らちがあかない……。		text
+laev06b.05E5	クッ、いくら倒しても……{n}これじゃ、らちがあかない……。	Ngh, no matter how many I defeat... this is{n}getting me nowhere...	text
 laev06b.0640	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev06b.065B	これ以上、あなた一人で{n}この軍勢を相手にするのは無理です。{n}ここはいったん引きましょう。		text
+laev06b.065B	これ以上、あなた一人で{n}この軍勢を相手にするのは無理です。{n}ここはいったん引きましょう。	You can't take on this whole army alone any{n}longer. Let us fall back for now.	text
 laev06b.06C2	レイラ	Leyla	speaker
-laev06b.06D7	アルベリックを……あの男を止めないと……。		text
-laev06b.0710	私がやらなければいったい誰が……{n}帝国の名誉を守れるの……。		text
-laev06b.075B	《冷静になってください！》{n}		choice
-laev06b.077A	《好機を待ちましょう。》{n}		choice
+laev06b.06D7	アルベリックを……あの男を止めないと……。	Alberic... I have to stop that man...	text
+laev06b.0710	私がやらなければいったい誰が……{n}帝国の名誉を守れるの……。	If I don't do it, who else... will protect{n}the Empire's honor...	text
+laev06b.075B	《冷静になってください！》{n}	Please calm down!{n}	choice
+laev06b.077A	《好機を待ちましょう。》{n}	Let's wait for a chance.{n}	choice
 laev06b.07A7	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev06b.07C2	無理です、レイラ、冷静になってください。		text
+laev06b.07C2	無理です、レイラ、冷静になってください。	It's impossible, Leyla. Please calm down.	text
 laev06b.080D	レイラ	Leyla	speaker
-laev06b.0822	やつらの横暴が帝国を、世界を狂わせているのよ！{n}ここで止めなければ……。		text
+laev06b.0822	やつらの横暴が帝国を、世界を狂わせているのよ！{n}ここで止めなければ……。	Their tyranny is driving the Empire, and the{n}world, mad! If I don't stop it here...	text
 laev06b.0879	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev06b.0894	お願いです、レイラ。{n}あなたをここで失うわけにはいかないのです。		text
+laev06b.0894	お願いです、レイラ。{n}あなたをここで失うわけにはいかないのです。	Please, Leyla. I cannot afford to lose you{n}here.	text
 laev06b.08F7	レイラ	Leyla	speaker
-laev06b.090C	……わかったわ。{n}今はあなたの言葉を聞くわ。		text
-laev06b.0947	……アルベリック、必ず私が止めてみせる……。		text
+laev06b.090C	……わかったわ。{n}今はあなたの言葉を聞くわ。	...All right. For now, I'll listen to you.	text
+laev06b.0947	……アルベリック、必ず私が止めてみせる……。	...Alberic, I swear I'll stop you...	text
 laev06b.0A02	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev06b.0A1D	レイラ、好機を待ちましょう。{n}いま戦い続けるのは無謀です。		text
+laev06b.0A1D	レイラ、好機を待ちましょう。{n}いま戦い続けるのは無謀です。	Leyla, let us wait for a chance. Fighting on{n}now would be reckless.	text
 laev06b.0A66	レイラ	Leyla	speaker
-laev06b.0A7B	好機……？		text
+laev06b.0A7B	好機……？	A chance...?	text
 laev06b.0A94	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev06b.0AAF	そうです。{n}また必ず彼に近づくことができる好機が{n}やってくるはずです。		text
+laev06b.0AAF	そうです。{n}また必ず彼に近づくことができる好機が{n}やってくるはずです。	Yes. A chance to get close to him again is{n}sure to come.	text
 laev06b.0B18	レイラ	Leyla	speaker
-laev06b.0B2D	わかったわ……{n}今はあなたの言葉を信じるわ……。		text
+laev06b.0B2D	わかったわ……{n}今はあなたの言葉を信じるわ……。	All right... for now, I'll trust your{n}words...	text

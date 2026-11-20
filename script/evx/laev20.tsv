@@ -11,8 +11,8 @@ laev20.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 laev20.04E8	セレニス	Serenis	speaker
 laev20.04FF	フフフ、{n}よく来たわね。天使の勇者。	Heh heh heh, welcome, hero of the angel.	text
 laev20.0532	レイラ	Leyla	speaker
-laev20.0547	セレニス……いえ、怖ろしい魔女……。{n}すべての元凶は、あなただったのね。		text
-laev20.059E	クロイツフェルド親子もあなたに……。		text
+laev20.0547	セレニス……いえ、怖ろしい魔女……。{n}すべての元凶は、あなただったのね。	Serenis... no, you dreadful witch... You{n}were the root of all this.	text
+laev20.059E	クロイツフェルド親子もあなたに……。	The Kreutzfelds, father and son, were your{n}doing too...	text
 laev20.05D1	セレニス	Serenis	speaker
 laev20.05E8	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。	And what will you do now that you know? You{n}can't stop me.	text
 laev20.06B9	セレニス	Serenis	speaker

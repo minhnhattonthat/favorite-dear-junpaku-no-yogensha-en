@@ -3,18 +3,18 @@ laev19_01.0002	1		dev label (guess: not shown)
 laev19_01.00A2	レイラ	Leyla	unit name (32-byte field)
 laev19_01.00DE	セシア	Cecia	unit name (32-byte field)
 laev19_01.0530	セシア	Cecia	speaker
-laev19_01.0545	あなたは帝国の人ですね？		text
+laev19_01.0545	あなたは帝国の人ですね？	You're from the Empire, aren't you?	text
 laev19_01.056C	レイラ	Leyla	speaker
-laev19_01.0581	ええ、そうだけど……あなたは？		text
+laev19_01.0581	ええ、そうだけど……あなたは？	Yes, I am... And you?	text
 laev19_01.05AE	セシア	Cecia	speaker
-laev19_01.05C3	帝国に侵略されたレイフォリアの森の者です。		text
+laev19_01.05C3	帝国に侵略されたレイフォリアの森の者です。	I'm from the Forest of Reyforia, which the{n}Empire invaded.	text
 laev19_01.05FC	レイラ	Leyla	speaker
 laev19_01.0611	…………。	.....	text
 laev19_01.062A	セシア	Cecia	speaker
-laev19_01.063F	森などなんの害にもならないはずなのに、{n}どうして帝国はあんなにひどいことをするのですか？		text
+laev19_01.063F	森などなんの害にもならないはずなのに、{n}どうして帝国はあんなにひどいことをするのですか？	A forest can't do anyone any harm, so why{n}does the Empire do such terrible things?	text
 laev19_01.06A6	レイラ	Leyla	speaker
-laev19_01.06BB	それは……私にもわからない……。		text
+laev19_01.06BB	それは……私にもわからない……。	That... I don't know either...	text
 laev19_01.06EA	セシア	Cecia	speaker
-laev19_01.06FF	なにか知っているのかと思いましたけど、{n}その軍服は、見せかけなのですね……。		text
+laev19_01.06FF	なにか知っているのかと思いましたけど、{n}その軍服は、見せかけなのですね……。	I thought you might know something, but that{n}uniform is just for show, isn't it...	text
 laev19_01.07EA	レイラ	Leyla	speaker
-laev19_01.07FF	あっ……！		text
+laev19_01.07FF	あっ……！	Ah...!	text

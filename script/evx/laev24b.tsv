@@ -4,7 +4,7 @@ laev24b.00A2	ロクス	Rocus	unit name (32-byte field)
 laev24b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 laev24b.011A	天竜	Heavenly Dragon	unit name (32-byte field)
 laev24b.04A8	レイラ	Leyla	speaker
-laev24b.04BD	うっ…………		text
+laev24b.04BD	うっ…………	Ugh......	text
 laev24b.04E8	エンディミオン	Endymion	speaker
 laev24b.0505	どうだ、わかったか？	Well? Do you understand now?	text
 laev24b.0538	これが、支配者の力だ。	This is the power of a ruler.	text
@@ -28,7 +28,7 @@ laev24b.09FD	エンディミオン	Endymion	speaker
 laev24b.0A1A	ふふ、すばらしい。{n}いい心ばえだ……	Heh, splendid. A fine spirit...	text
 laev24b.0A5D	では……この勇者を救ってやろう……。	Then... I shall save this hero...	text
 laev24b.0AE4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev24b.0AFF	レイラ！！！		text
+laev24b.0AFF	レイラ！！！	Leyla!!!	text
 laev24b.0B2A	エンディミオン	Endymion	speaker
 laev24b.0B47	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……	Ha ha ha ha ha ha! Yes! That look... the{n}look of your despair...	text
 laev24b.0BA0	すべてを失ったその顔が見たかったのだ！	I wanted to see that face, the face of one{n}who has lost everything!	text
@@ -65,7 +65,7 @@ laev24b.12F4	やつらを、ともに倒そう。	Let's defeat them together.	te
 laev24b.132B	ラファエル	Raphael	speaker
 laev24b.1344	さあ、勇者よ、よみがえりなさい。	Now, hero, rise again.	text
 laev24b.1417	レイラ	Leyla	speaker
-laev24b.142C	……この光は？		text
+laev24b.142C	……この光は？	...This light...?	text
 laev24b.1459	ラファエル	Raphael	speaker
 laev24b.1472	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。	Hero of the world below, show the devil the{n}strength of humans once more.	text
 laev24b.14C5	ベルゼバブ	Beelzebub	speaker

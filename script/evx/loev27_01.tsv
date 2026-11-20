@@ -5,9 +5,9 @@ loev27_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 loev27_01.04D8	聖母	Holy Mother	speaker
 loev27_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
 loev27_01.0518	ルディ	Rudi	speaker
-loev27_01.052D	あなたは……？		text
+loev27_01.052D	あなたは……？	Who are you...?	text
 loev27_01.054A	聖母	Holy Mother	speaker
-loev27_01.055D	私は、このレイフォリアの森を守護する{n}ディアナという者です。		text
+loev27_01.055D	私は、このレイフォリアの森を守護する{n}ディアナという者です。	I am Diana, guardian of this Forest of{n}Reyforia.	text
 loev27_01.05A8	あなたの胸に輝いているのは、{n}レグランス王国の紋章ですね……。{n}あなたは、レグランスの王家の方なのですか？		text
 loev27_01.0621	ルディ	Rudi	speaker
 loev27_01.0636	はい、そうです。{n}おれは、ルディエール・トライアといいます。		text
@@ -32,7 +32,7 @@ loev27_01.0AC6	なんですか？		text
 loev27_01.0AE1	ルディ	Rudi	speaker
 loev27_01.0AF6	あなたは、この世界を混乱させている者の正体が{n}わかっていらっしゃるのですか？		text
 loev27_01.0B51	聖母	Holy Mother	speaker
-loev27_01.0B64	いいえ。{n}天使様がおわかりにならないことが、{n}ひとにわかるはずがありません。		text
+loev27_01.0B64	いいえ。{n}天使様がおわかりにならないことが、{n}ひとにわかるはずがありません。	No. What the Angel does not know, no person{n}could know.	text
 loev27_01.0BBF	ただ、とても昔の出来事を……{n}いまでは伝説になってしまったことを{n}思い出しています。		text
 loev27_01.0C22	いずれ、あなたは、もっと悲惨な戦いへと{n}向かうことになるでしょう。		text
 loev27_01.0C73	ですが、どうか自分を信じて前へと進んでください。{n}きっと、天使様があなたを導いてくださるはずです。		text

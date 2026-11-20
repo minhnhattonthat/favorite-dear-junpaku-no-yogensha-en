@@ -97,7 +97,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   with English. Event names: `lkf.py list work/disc/tree/SSB_DATA.LKF` (EVX file names like eiev05e are not events).
   `batches.py check` now fails EVX titles (.0002) over 30 bytes (evx.build asserts it). New names: レイジハー
   Reijiher, グレザ Greza, ランド Rand (guild masters/mages, feev02-03); 帝国戦士 tag "Warrior".
-- **Next (phase 6):** continue at b083 (`batches.py todo`; laev/loev/roev EVX b083-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
+  Same worker: **b083-b084** done (Leyla laev05-laev25 incl. General Kaiser's duel and Alberic's breakdown, Rudiere
+  loev02-Loev15A_01 incl. Savia/Savio's backstory; b084 ends at Loev15A_01.0C8A). Build + check.py green; `warp.py
+  --event laev07_01.ssb --event loev09.ssb` both OK. New names: ソーザ Souza (noble), レオニ Leoni (boy); tags 衛兵
+  "Guard", 街の娘 "Town Girl"; Rudi's alias ルディ・トライア "Rudi Trier".
+- **Next (phase 6):** continue at b085 (`batches.py todo`; loev/roev EVX b085-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

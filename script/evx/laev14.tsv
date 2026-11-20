@@ -3,23 +3,23 @@ laev14.0002	天使の大けが	Angel Badly Hurt	dev label (guess: not shown)
 laev14.00A2	レイラ	Leyla	unit name (32-byte field)
 laev14.00DE	クラレンス	Clarence	unit name (32-byte field)
 laev14.04EC	レイラ	Leyla	speaker
-laev14.0501	あなたが、ヴァイパーね？		text
+laev14.0501	あなたが、ヴァイパーね？	You're Viper, aren't you?	text
 laev14.0528	クラレンス	Clarence	speaker
-laev14.0541	おいおい、ひとにものをたずねるときは、{n}自分の名前を名乗るってのが礼儀じゃねえのか？		text
+laev14.0541	おいおい、ひとにものをたずねるときは、{n}自分の名前を名乗るってのが礼儀じゃねえのか？	Hey now, when you ask somebody something,{n}ain't it polite to give your own name first?	text
 laev14.05A4	レイラ	Leyla	speaker
-laev14.05B9	盗みを働くようなやつに名乗る名前などないわ。{n}さっさと、魔石を返しなさい。		text
+laev14.05B9	盗みを働くようなやつに名乗る名前などないわ。{n}さっさと、魔石を返しなさい。	I have no name to give a thief. Return the{n}Demon Stone at once.	text
 laev14.0612	クラレンス	Clarence	speaker
 laev14.061F			speaker
-laev14.062B	あんた、味方じゃないのか？{n}帝国の軍服なんて着てるから、{n}てっきりそうだと思ったんだがな。		text
-laev14.0694	じゃあ、あんたは反逆者ってわけだな。		text
+laev14.062B	あんた、味方じゃないのか？{n}帝国の軍服なんて着てるから、{n}てっきりそうだと思ったんだがな。	You ain't on my side? I figured you were,{n}what with you wearing an imperial uniform.	text
+laev14.0694	じゃあ、あんたは反逆者ってわけだな。	So you're a traitor, then.	text
 laev14.06C7	レイラ	Leyla	speaker
-laev14.06DC	あなたには関係のないことよ。{n}それに、いまの帝国は、{n}私の知っている誇り高き国ではないわ。		text
+laev14.06DC	あなたには関係のないことよ。{n}それに、いまの帝国は、{n}私の知っている誇り高き国ではないわ。	That's none of your concern. Besides, the{n}Empire now isn't the proud nation I know.	text
 laev14.0795	レイラ	Leyla	speaker
-laev14.07AA	さあ、よけいなおしゃべりはここまでよ。{n}渡してくれないのなら、力ずくで奪うわ！		text
+laev14.07AA	さあ、よけいなおしゃべりはここまでよ。{n}渡してくれないのなら、力ずくで奪うわ！	Now, enough chatter. If you won't hand it{n}over, I'll take it by force!	text
 laev14.086B	クラレンス	Clarence	speaker
-laev14.0884	まあまあ、そんな怖い顔するなよ。{n}俺は戦いは苦手なんだ。		text
-laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。		text
-laev14.0950	さ、返すぜ！　天使様にな。		text
+laev14.0884	まあまあ、そんな怖い顔するなよ。{n}俺は戦いは苦手なんだ。	Whoa, whoa, don't make such a scary face. I{n}ain't good at fighting.	text
+laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。	If you put it like that, fine. An empire{n}that's got troublemakers like you in it... I{n}bet it'd use this Demon Stone for something{wait}{clear}shady too.	text
+laev14.0950	さ、返すぜ！　天使様にな。	There, I'll give it back! To the angel, that{n}is.	text
 laev14.0999	レイラ	Leyla	speaker
 laev14.09AE	え？	Huh?	text
 laev14.0A11	クラレンス	Clarence	speaker

@@ -1,15 +1,15 @@
 id	jp	en	notes
-Loev08.0002	鎧の男		dev label (guess: not shown)
+Loev08.0002	鎧の男	Armored Man	dev label (guess: not shown)
 Loev08.00A2	ルディ	Rudi	unit name (32-byte field)
-Loev08.00DE	ミリシア→反乱兵		unit name (32-byte field)
-Loev08.011A	ミリシア→反乱兵		unit name (32-byte field)
-Loev08.0156	ミリシア→反乱兵		unit name (32-byte field)
+Loev08.00DE	ミリシア→反乱兵	Militia/Rebel	unit name (32-byte field)
+Loev08.011A	ミリシア→反乱兵	Militia/Rebel	unit name (32-byte field)
+Loev08.0156	ミリシア→反乱兵	Militia/Rebel	unit name (32-byte field)
 Loev08.0192	サヴィオ通常	Savio (normal)	unit name (32-byte field)
 Loev08.04A8	ルディエール	Rudiere	speaker
-Loev08.04C3	おい、お前らか、{n}このあたりで物騒なマネしてんのは？		text
+Loev08.04C3	おい、お前らか、{n}このあたりで物騒なマネしてんのは？	Hey, are you the ones causing trouble around{n}here?	text
 Loev08.0506	暗殺者	Assassin	speaker
-Loev08.051B	だとしたらなんだ？		text
+Loev08.051B	だとしたらなんだ？	And what if we are?	text
 Loev08.053C	ルディエール	Rudiere	speaker
-Loev08.0557	おれのいる前でこんな真似もうさせないぜ。		text
+Loev08.0557	おれのいる前でこんな真似もうさせないぜ。	I won't let you pull this kind of thing{n}while I'm around.	text
 Loev08.058E	暗殺者	Assassin	speaker
-Loev08.05A3	生意気な小僧め！		text
+Loev08.05A3	生意気な小僧め！	Cheeky brat!	text

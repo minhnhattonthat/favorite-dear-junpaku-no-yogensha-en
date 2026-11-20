@@ -1,31 +1,31 @@
 id	jp	en	notes
-loev09.0002	密会		dev label (guess: not shown)
+loev09.0002	密会	Secret Meeting	dev label (guess: not shown)
 loev09.00A2	ルディ	Rudi	unit name (32-byte field)
 loev09.00DE	サヴィア	Savia	unit name (32-byte field)
 loev09.0554	ルディエール	Rudiere	speaker
-loev09.056F	サヴィアどうしてここに？		text
+loev09.056F	サヴィアどうしてここに？	Savia, what are you doing here?	text
 loev09.0596	サヴィア	Savia	speaker
-loev09.05AD	ごめんなさい。急に。		text
+loev09.05AD	ごめんなさい。急に。	I'm sorry. This is so sudden.	text
 loev09.05D0	ルディエール	Rudiere	speaker
-loev09.05EB	いや、あの時はありがとう、助かった……。		text
+loev09.05EB	いや、あの時はありがとう、助かった……。	No, thanks for back then. You saved me...	text
 loev09.0672	ルディ	Rudi	speaker
-loev09.0687	君を探してたんだぜ。{n}礼をいいたくて……。		text
+loev09.0687	君を探してたんだぜ。{n}礼をいいたくて……。	I was looking for you, you know. I wanted to{n}thank you...	text
 loev09.06C0	サヴィア	Savia	speaker
-loev09.06D7	……ルディ、そのことで助けて欲しいの。		text
-loev09.070C	私あれから、あなたをつかまえた、鎧の男たちに{n}追われてるの……。		text
-loev09.075B	ずっと逃げ回っていたのだけど、{n}もう、行く場所がなくて……。		text
+loev09.06D7	……ルディ、そのことで助けて欲しいの。	...Rudi, I need your help with that.	text
+loev09.070C	私あれから、あなたをつかまえた、鎧の男たちに{n}追われてるの……。	Ever since then, I've been chased by the{n}armored men who captured you...	text
+loev09.075B	ずっと逃げ回っていたのだけど、{n}もう、行く場所がなくて……。	I've been running all this time, but I have{n}nowhere left to go...	text
 loev09.07A6	ルディエール	Rudiere	speaker
-loev09.07C1	そうか……おれのせいで……		text
-loev09.07FE	……そうだ、良い考えがある。{n}西に逃げるんだ。		text
+loev09.07C1	そうか……おれのせいで……	I see... it's my fault...	text
+loev09.07FE	……そうだ、良い考えがある。{n}西に逃げるんだ。	...I know, I've got a good idea. Run west.	text
 loev09.083B	サヴィア	Savia	speaker
 loev09.0852	え？	Huh?	text
-loev09.0865	王宮さ。{n}これでも結構、おれは自由がきくんだ。		text
-loev09.08A2	いますぐ手紙を書く。それをもって、{n}王宮の者、誰にでもいいから見せるといい。		text
-loev09.08FD	きっと、君を雇ってくれる。{n}やつらも西方の大王宮までは追ってこれないだろう？		text
+loev09.0865	王宮さ。{n}これでも結構、おれは自由がきくんだ。	To the royal palace. Believe it or not, I've{n}got a fair bit of pull.	text
+loev09.08A2	いますぐ手紙を書く。それをもって、{n}王宮の者、誰にでもいいから見せるといい。	I'll write a letter right now. Take it and{n}show it to anyone at the palace.	text
+loev09.08FD	きっと、君を雇ってくれる。{n}やつらも西方の大王宮までは追ってこれないだろう？	I'm sure they'll take you on. Those guys{n}can't chase you all the way to the great{n}palace in the west, right?	text
 loev09.0958	サヴィア	Savia	speaker
-loev09.096F	……ええ……でも、いいの？		text
+loev09.096F	……ええ……でも、いいの？	...Yes... but are you sure?	text
 loev09.0998	ルディエール	Rudiere	speaker
-loev09.09B3	ああ、かまわないさ。{n}助けてもらったのはおれのほうなんだ。		text
-loev09.09FC	今度はおれの番さ。		text
+loev09.09B3	ああ、かまわないさ。{n}助けてもらったのはおれのほうなんだ。	Yeah, it's fine. I'm the one you saved.	text
+loev09.09FC	今度はおれの番さ。	Now it's my turn.	text
 loev09.0A6D	サヴィア	Savia	speaker
-loev09.0A84	ありがとう。ルディ。		text
+loev09.0A84	ありがとう。ルディ。	Thank you, Rudi.	text
