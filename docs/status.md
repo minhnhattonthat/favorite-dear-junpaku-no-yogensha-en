@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (22nd worker: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -251,12 +251,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   pair-glyph gap "Ravi el" and the help-bar cuts. The re-tour of the 17 scenes finished OK (all arrived).
   **Build 757dbe6a** (help bar), check.py 65 passed + lint 0, smoke OK; heaven_move re-warped on it shows "Go to
   another palace" in the pill (`work/qa/p8/w22/heaven_move/qa_sheet_3.png`, verdict `fixed`).
-- **Next (phase 8):** read the sheets still without a verdict: `qa_gate.py todo work/qa/manifest.tsv
-  work/qa/verdicts` (end_cecia_clear 2-6, end_cl, end_ei, end_fe, end_la, end_lo, end_ro (same Fein narration
-  scrolled differently; first sheet of each is the hero's ending event), tgs_end, credits (G15 issue), ev_fe after
-  its re-warp, and the 17 re-toured scenes: omake, omake_cg, album_2-8, battle*, where G3/G4/G10 English should show).
-  The build changed after the tour (help bar, rfd2 only), so before phase 9 run one full re-tour on the final
-  build, `qa_sheets.py`, `qa_gate.py init` (unchanged sheets keep their verdicts). Then the FMV work (G14/G15).
+- **Phase 8 progress (2026-11-21, 23rd worker):** the 17 re-toured scenes had frames but no sheets: `qa_sheets.py`
+  made them, `qa_gate.py init`, and every one of the 191 sheets now has a verdict (`verdicts/w23_001.tsv`, 99 rows):
+  `check` = 0 without a verdict, 14 not ok, all FMV (G14 DEMO.STR captions x3, G15 ENDING.STR staff roll x11).
+  **Fixed:** fairy reports splice ＜イベント名＞ as whole pair glyphs, so a 21-22 letter EvName title had no zero pair
+  and ran into the next record ("Mountain Monster Bird   Giant Centipede Swarm", battle_h4; JP checked on the original
+  disc, `work/qa/jp/battle_h4`) and an odd title ended in a space pair ("Giant Spider Plague ."). All 89 titles are
+  now even and <= 20 letters (48 reworded, e.g. "Roc of the Mountains", "Giant Spider Swarm", "X Under Attack" for
+  侵攻 towns); `msg.py` asserts 20, `lint.py` fails odd/long EvName rows. Re-warped h4/h5 on the new build: fixed.
+  Same class, not fixed (polish.md, needs a re-pairing hook after rfd2 0x800BF280): odd hero names "Cecia -sama has
+  resolved", odd town names before "." Battle black boxes over sprites (battle_h1) predate the plates (tour_da353c51):
+  not ours. **Build 68d392eb**, check.py 65 passed + lint 0.
+- **Next (phase 8):** remaining done-when items: (1) G14/G15 FMV: English captions for DEMO.STR (3 caption cards in
+  the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
+  in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
+  choice / centred menu boxes (menX_* Yes/No, heaven buttons); (3) stress saves (longest names, full lists, max
+  numbers) with menu sheets; (4) `textcover.py` exit 0; (5) final full re-tour on the final build (`warp.py --all -j
+  1`), `qa_sheets.py`, `qa_gate.py init`, verdicts for changed sheets only. Carried items below still apply.
   Older next list: re-tour on 2e18e967 the 17 scenes above (`warp.py omake omake_cg album_2 .. album_8 battle
   battle_h1 .. battle_h6 battle_3152 -j 1 --cue <abs>/build/fd2_en.cue --out-dir work/qa/tour`, with no other
   emulators running); the other 50 scenes' text is identical between 47e8c2eb and 2e18e967 (only GRPDATA 0057/1454

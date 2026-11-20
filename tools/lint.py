@@ -75,6 +75,10 @@ def row_errors(p, r, spec, bud):
         if (jp[side:] or " ")[0] in BLANK and jp.strip(BLANK) and (en[side:] or "x")[0] not in BLANK \
                 and B.width(en) < footprint(jp):         # padding to the JP's width (tools/padlabels.py)
             errs.append(f"the JP {'starts' if side == 0 else 'ends'} with a blank, the English does not")
+    if i.startswith("EvName.") and en and (len(en) % 2 or len(en) > 20):
+        # fairy reports splice the title in pairs: an odd one ends "Plague ." and 21+ letters run into the next
+        # record (battle_h4, 2026-11-21); the record holds 22 bytes and needs a zero pair
+        errs.append(f"event title of {len(en)} letters: needs an even count, at most 20")
     if spec:
         w, lines_max, _ = spec
         for page in en.split(B.PAGE):

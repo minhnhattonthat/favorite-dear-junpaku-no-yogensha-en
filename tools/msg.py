@@ -146,7 +146,9 @@ def build(bank):
         ids = bank.meta["ids"]
         out = bytearray(struct.pack("<I", len(ids)))
         for (_, s), _id in zip(strings, ids):
-            assert len(s) <= 22, f"EvName text over 22 bytes: {s!r}"  # guess: a NUL is not required at 22
+            # the reader stops on a zero u16 pair: 21-22 bytes ran into the next record in game
+            # ("Mountain Monster Bird   Giant Centipede Swarm", battle_h4 fairy report), so 20 bytes max
+            assert len(s) <= 20, f"EvName text over 20 bytes: {s!r}"
             out += struct.pack("<H", _id) + s + b"\0" * (22 - len(s))
         return bytes(out)
     # battle
