@@ -2,9 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (28th worker: textcover tool hardened, bulk runs started then killed by the host
-  for low memory, ~27 of 288 events + 24 of 72 scenes logged; MSG forcing researched. NEXT, in order: (d) finish the
-  textcover bulk runs (28th worker entry) and decide MSG/EVX coverage; (e) final re-tour on the
+- **Phase:** 8. QA in the emulator (29th worker: forcing tools built and piloted (msgforce MSG/EVX/overlay through
+  the MSG box, ssbforce VM jumps, unshown.py waivers); bulk runs stopped by Claude Code for low system memory,
+  resume commands in the 29th worker entry. NEXT, in order: (d) resume the forced runs + .end swap scenes,
+  `unshown.py`, `textcover.py` exit 0 (29th worker entry); (e) final re-tour on the
   final build + verdicts for changed sheets. 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
@@ -389,8 +390,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     caption screen" item is closed: there is none), Dummy00.DAT (35, never loaded).
   - scenes.tsv: 20 `end_<x>ed<n>` swap scenes (each ending event with feed3.end, the one a fresh warp loads,
     swapped for the other 20 `.end` narrations).
-  Runs in flight when this entry was written: msgforce `--all --group 1200` (work/qa/msgforce), ssbforce
-  (work/qa/ssbforce, -j 2, 271 events, ~3 min each), the 48 unlogged scenes (work/qa/cover_scenes). Still to run:
+  **All three runs were stopped by Claude Code for critically low system memory** (the first game's project keeps
+  5 PCSX instances up on this 16 GB host; ours were 4). Done before the stop: msgforce groups up to BMsgQ110_0
+  (every bank in them complete; BMsgQ116_0 .. HVN_Msg00_0 left: BMsgQ116, B_ItemRes, BTL_EVT0-6, BVisit, T_Msg00/01,
+  HVN_Msg00, EQP_Item, SUP_Item), ssbforce 13 events (ceev01..ceev14), cover_scenes 29 of 72 + results. Coverage now
+  (`textcover.py work/qa/cover work/qa/cover_scenes work/qa/ssbforce work/qa/msgforce work/qa/p8`): ssb 2323/9821,
+  evx 481/5855, msg 9166/15130, end 7/198, ovl 63/716, misc 0/35; 18126 not reached and not waived. **Resume**
+  (all resumable, same commands; run at most 2 emulators, and only when the other project is not running 5):
+  `python -X utf8 tools/msgforce.py --all --group 1200 -j 1`, `python -X utf8 tools/ssbforce.py --have work/qa/cover
+  --have work/qa/cover_scenes --have work/qa/ssbforce -j 1` (skips events with "SFORCE done"), the scenes left in
+  `work/qa/cover_scenes_todo.txt` (skip folders with "final frame" and " size=") via `warp.py S --lua
+  tools/debug/textcover.lua --debugger -j 1 --out-dir work/qa/cover_scenes`. Then still to run:
   the 20 end_* scenes with textcover.lua, `msgforce.py --ovl`, `msgforce.py --evx` (with the ssbforce dirs as
   --have), an ssbforce second pass (new --out-dir, `--base 30000`) for events that go into a battle (ceev06), then
   `unshown.py` and `textcover.py` over every dir.
