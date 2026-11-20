@@ -186,7 +186,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   substituted English fits; check the rfd2 sentence fragments in game (fairy command confirmations "Stop search and
   stand by?", "[fairy], accompany [hero]?", item counts); measure the OMAKE gallery caption width (op captions
   are up to 73 letters, never measured); name entry Latin page + the default name ラビエル (kana grid). From the
-  phase 7 review: inkbox the menX_* `Yes`/`No` choices (JP indents one cell, maybe for the cursor) and the
+  phase 7 review: inkbox the menX_* `Yes`/`No` choices (JP indents one cell, maybe for the cursor; `warp.py --event
+  menX_Ce01.ssb --out-dir work/qa/p8` reaches the scene, text fine at f010350, but the mash clicks past the choice
+  between shots: add a scenes.tsv row with after=hold and a short route) and the
   right-aligned region suffixes; find out whether EVX unit names (151 over 12 letters, e.g. ceev20.0192) are ever
   drawn (battle plates are PIX graphics) and apply the 12-letter budget if so, else record it in text.md. Polish
   list gained the 12-letter name-tag / chapter-label cuts and the fixed-copy labels (engine work first, D4).
