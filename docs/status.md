@@ -36,6 +36,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Rocus roev01_01-roev02; b033 ends at roev02.046C). Build + check.py green; `warp.py --event roev01_01.ssb --event
   men3_Ei02.ssb --cue <abs>/build/fd2_en.cue` both OK with English (Vice Pope tag fits). Glossary gained Aquila, Cetus,
   Lepus, Titania, Gabriel, Vice Pope, the gift item list (EXE item names must match it in phase 7), Thug / Tavern Girls.
+  2026-11-21 (7th worker): **b034-b037** done (Rocus roev02-roev25: tavern, Clarence "Viper" Langerack and the stolen
+  Demon Stone, exile from the Holy City, the council in Ilyus, drunk-angel night, healing-hands story, confession and
+  ending; then taiken/TGS preview notices, tenkai, visit_01 debug labels "01-00", Rosa's Y01ev_01 spider web; b037
+  ends at Y01ev_01.0496). Build + check.py green; `warp.py --event roev05_02.ssb --event roev12.ssb --cue
+  <abs>/build/fd2_en.cue` both OK with English. Glossary gained Langerack, Elias, Zeam/Azuria/Ryan (tags), Valese,
+  Ilyus, Azaria, and Rocus-route rulings (Pope, archbishop, cardinal, sacred jewel, healing hands).
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -50,7 +56,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b034 (`batches.py todo`; Rocus's roev02 tavern scene continues there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b038 (`batches.py todo`; Rosa's Y01ev_01 fairy event continues there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

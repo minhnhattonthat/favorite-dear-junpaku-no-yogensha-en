@@ -1,48 +1,48 @@
 id	jp	en	notes
 roev11.004E	ロクス	Rocus	speaker
-roev11.005C	いるのか……＄＄＄＄＄＄。{wait}{clear}		
-roev11.008C	君に謝りたい……。{wait}{clear}		
-roev11.00A6	すまなかった……{wait}{clear}		
-roev11.00BE	あのとき、{n}僕は君に酷いことを言ってしまった……。{wait}{clear}		
-roev11.00F8	どうかしていた……僕を許してくれ……{wait}{clear}		
-roev11.0132	……そばに来てくれないか……＄＄＄＄＄＄。{wait}{clear}		
+roev11.005C	いるのか……＄＄＄＄＄＄。{wait}{clear}	Are you there... ＄＄＄＄＄＄?{wait}{clear}	
+roev11.008C	君に謝りたい……。{wait}{clear}	I want to apologize to you...{wait}{clear}	
+roev11.00A6	すまなかった……{wait}{clear}	I'm sorry...{wait}{clear}	
+roev11.00BE	あのとき、{n}僕は君に酷いことを言ってしまった……。{wait}{clear}	Back then, I said terrible things to you...{wait}{clear}	
+roev11.00F8	どうかしていた……僕を許してくれ……{wait}{clear}	I wasn't myself... Please forgive me...{wait}{clear}	
+roev11.0132	……そばに来てくれないか……＄＄＄＄＄＄。{wait}{clear}	...Won't you come closer... ＄＄＄＄＄＄?{wait}{clear}	
 roev11.0166	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev11.0176	きゃっ！{wait}{clear}		
+roev11.0176	きゃっ！{wait}{clear}	Eek!{wait}{clear}	
 roev11.019E	ロクス	Rocus	speaker
 roev11.01A8	……＄＄＄＄＄＄。{wait}{clear}	...＄＄＄＄＄＄.{wait}{clear}	
 roev11.01BE	ＮＵＬＬ	NULL	speaker
-roev11.01CE	《逃げる》{n}		
-roev11.01E0	《逃げない》{n}		
+roev11.01CE	《逃げる》{n}	Get away{n}	
+roev11.01E0	《逃げない》{n}	Don't get away{n}	
 roev11.01FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev11.020C	ロクス……どうして……。{wait}{clear}でも、私はロクスのことを信じています。{n}ごめんなさい……。{wait}{clear}		
+roev11.020C	ロクス……どうして……。{wait}{clear}でも、私はロクスのことを信じています。{n}ごめんなさい……。{wait}{clear}	Rocus... why...{wait}{clear}But I believe in you, Rocus. I'm sorry...{wait}{clear}	
 roev11.0268	ロクス	Rocus	speaker
-roev11.0276	ふん……{wait}{clear}		
+roev11.0276	ふん……{wait}{clear}	Hmph...{wait}{clear}	
 roev11.028C	ロクス	Rocus	speaker
-roev11.029A	僕はこうされて喜ぶご婦人を何人も知ってる。{wait}{clear}		
-roev11.02CC	君はどうだ？{wait}{clear}		
+roev11.029A	僕はこうされて喜ぶご婦人を何人も知ってる。{wait}{clear}	I know plenty of ladies who'd be delighted{n}to be treated like this.{wait}{clear}	
+roev11.02CC	君はどうだ？{wait}{clear}	What about you?{wait}{clear}	
 roev11.02DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev11.02EC	…………。{wait}{clear}	.........{wait}{clear}	
 roev11.02FA	ロクス	Rocus	speaker
-roev11.0308	なぜ、抵抗しない？{wait}{clear}		
+roev11.0308	なぜ、抵抗しない？{wait}{clear}	Why don't you resist?{wait}{clear}	
 roev11.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev11.032E	あなたは本当に{n}そんなことをするひとなのですか？{wait}{clear}		
+roev11.032E	あなたは本当に{n}そんなことをするひとなのですか？{wait}{clear}	Are you really the kind of person who would{n}do this?{wait}{clear}	
 roev11.0362	ロクス	Rocus	speaker
 roev11.036C	…………。{wait}{clear}	.........{wait}{clear}	
 roev11.037A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev11.038A	…………。{wait}{clear}	.........{wait}{clear}	
 roev11.03B0	ロクス	Rocus	speaker
-roev11.03BE	……フン……もう行け。面白くない。{wait}{clear}		
+roev11.03BE	……フン……もう行け。面白くない。{wait}{clear}	...Hmph... Just go. This is no fun.{wait}{clear}	
 roev11.03E4	ＮＵＬＬ	NULL	speaker
-roev11.03F4	《なにを求めているのです？》{n}		
-roev11.0418	《あなたを信頼しています》{n}		
+roev11.03F4	《なにを求めているのです？》{n}	What do you want from me?{n}	
+roev11.0418	《あなたを信頼しています》{n}	I trust you{n}	
 roev11.0440	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev11.0450	あなたは私になにを求めているのです？{wait}{clear}		
+roev11.0450	あなたは私になにを求めているのです？{wait}{clear}	What is it you want from me?{wait}{clear}	
 roev11.0478	ロクス	Rocus	speaker
-roev11.0486	ふん……あんまりうぬぼれるな……{n}僕には君なんか……必要じゃない。{wait}{clear}		
-roev11.04DE	……もう出て行け！{wait}{clear}		
+roev11.0486	ふん……あんまりうぬぼれるな……{n}僕には君なんか……必要じゃない。{wait}{clear}	Hmph... Don't flatter yourself... I don't...{n}need you.{wait}{clear}	
+roev11.04DE	……もう出て行け！{wait}{clear}	...Get out!{wait}{clear}	
 roev11.0504	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev11.0514	私は勇者としてのあなたを信頼しています……。{wait}{clear}		
+roev11.0514	私は勇者としてのあなたを信頼しています……。{wait}{clear}	I trust you as a hero...{wait}{clear}	
 roev11.0544	ロクス	Rocus	speaker
-roev11.0552	君は……信用や信頼だなんて、{n}無神経な関係をよく軽々しく口にできるな……。{wait}{clear}		
-roev11.05A4	……そんな言葉、僕は嫌いだ……。{wait}{clear}		
-roev11.05CC	出て行ってくれ……＄＄＄＄＄＄。{wait}{clear}		
+roev11.0552	君は……信用や信頼だなんて、{n}無神経な関係をよく軽々しく口にできるな……。{wait}{clear}	You... how can you so lightly speak of trust{n}and faith, such careless bonds...{wait}{clear}	
+roev11.05A4	……そんな言葉、僕は嫌いだ……。{wait}{clear}	...I hate words like that...{wait}{clear}	
+roev11.05CC	出て行ってくれ……＄＄＄＄＄＄。{wait}{clear}	Please leave... ＄＄＄＄＄＄.{wait}{clear}	

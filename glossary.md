@@ -84,6 +84,11 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | ティタニア | Titania | | fairy queen; "Titania-sama" | |
 | ガブリエル | Gabriel | | archangel (game 1's superior) | |
 | 副教皇 | Vice Pope | | Ecclesia, Rocus's superior (name tag roev01_01) | |
+| ランゲラック | Langerack | | Clarence Langerack, "Viper" (ヴァイパー), the gambler who beats Rocus (roev03-roev16) | |
+| エリアス | Elias | | first Pope, founder of Ecclesia | |
+| ゼアム | Zeam | | Archbishop Zeam (name tag "Zeam", roev09_02) | |
+| アズリア | Azuria | | Archbishop Azuria (name tag "Azuria") | |
+| ライアン | Ryan | | Cardinal Ryan (name tag "Ryan") | |
 | サタン | Satan | | | |
 | ベルゼバブ | Beelzebub | | | |
 | ノスフェラトゥ | Nosferatu | | | |
@@ -104,6 +109,9 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | 六王国 | Six Kingdoms | | | |
 | バーゼル | Basel | | country; Alkmaar is in Basel | |
 | レフカス | Lefkas | | where the Demon Stone was kept before Alkmaar | |
+| バレーゼ | Valese | | country; its church in Ilyus shelters the clergy after the Holy City falls | |
+| イリュウス | Ilyus | | town in Valese | |
+| アザリア | Azaria | | 聖アザリア宮 the Palace of St. Azaria (Raphael's seat) | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -143,4 +151,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   戒律 "precept(s)". menX 同行しますか？ "Accompany <name>?" with "  Yes" / "  No" (full-width space -> two spaces).
 - Name tags: 柄の悪い男 "Thug", 酒場の女達 "Tavern Girls". Rocus to the angel early on: formal and flirty ("my
   beautiful angel"), crude when angry (俺, てめえ). ミカエル様 "Lord Michael" like "Lord Raphael".
+- Rocus's route (b034-b037): 教皇 "Pope" (教皇候補 "candidate for Pope"; Clarence's mocking 教皇さま "His Holiness"),
+  大司教 "archbishop", 枢機卿 "cardinal", 宝玉 "the sacred jewel" (= the Church's Demon Stone), 秘宝 "the treasure",
+  癒しの手 "healing hands" (the mark of the Pope); 蛇君/毒蛇君 "Mr. Snake"/"Mr. Viper". Name tags: ロクスの知人
+  "Rocus's Pal", 男の声 "Man's Voice". Debug labels ０１＿００ (visit_01) -> "01-00" (no _ in the font).
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

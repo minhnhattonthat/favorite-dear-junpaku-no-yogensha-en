@@ -1,28 +1,28 @@
 id	jp	en	notes
 roev10.0052	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev10.0062	ロクス……どうしたのです……。{wait}{clear}		
+roev10.0062	ロクス……どうしたのです……。{wait}{clear}	Rocus... What's wrong...?{wait}{clear}	
 roev10.0084	ロクス	Rocus	speaker
-roev10.0092	……お前か……。{wait}{clear}		
+roev10.0092	……お前か……。{wait}{clear}	...Oh, it's you...{wait}{clear}	
 roev10.00A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev10.00B6	大丈夫ですか？{wait}{clear}		
+roev10.00B6	大丈夫ですか？{wait}{clear}	Are you all right?{wait}{clear}	
 roev10.00C8	ロクス	Rocus	speaker
-roev10.00D6	大丈夫ですか？……か。{n}口先だけのなぐさめ、ありがとう。{wait}{clear}		
-roev10.0116	いつも感謝してるよ……。{wait}{clear}		
+roev10.00D6	大丈夫ですか？……か。{n}口先だけのなぐさめ、ありがとう。{wait}{clear}	"Are you all right?" Thanks for the{n}lip-service comfort.{wait}{clear}	
+roev10.0116	いつも感謝してるよ……。{wait}{clear}	I'm always so grateful...{wait}{clear}	
 roev10.0132	ＮＵＬＬ	NULL	speaker
-roev10.0142	《宿へ戻りましょう。》{n}		
-roev10.0160	《少しお酒をつつしんで……。》{n}		
+roev10.0142	《宿へ戻りましょう。》{n}	Let's go back to the inn{n}	
+roev10.0160	《少しお酒をつつしんで……。》{n}	Go easy on the drinking...{n}	
 roev10.0186	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev10.0196	もう宿に戻って休みませんか？{n}疲れているのですよ、あなたは。{wait}{clear}		
+roev10.0196	もう宿に戻って休みませんか？{n}疲れているのですよ、あなたは。{wait}{clear}	Why don't we go back to the inn and rest?{n}You're tired.{wait}{clear}	
 roev10.01DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev10.01EA	お酒はもう少し慎んだほうがいいのでは？{n}ロクス……。{wait}{clear}		
+roev10.01EA	お酒はもう少し慎んだほうがいいのでは？{n}ロクス……。{wait}{clear}	Shouldn't you go a little easier on the{n}drinking, Rocus...?{wait}{clear}	
 roev10.0222	ロクス	Rocus	speaker
-roev10.0230	……ふん。{n}知った風な口を……{wait}{clear}		
-roev10.0256	……どいつも一緒だな……。{wait}{clear}		
-roev10.0278	俺に命令ばかりする……。{wait}{clear}		
-roev10.0298	なにをしろ……これをしろ{n}これをするな……あれをするな……{wait}{clear}		
-roev10.02DA	聞き飽きたよ……。{wait}{clear}		
-roev10.02F4	いつもそうだ……。{wait}{clear}		
-roev10.030E	お前らは……{n}俺がどう思っていようと関係ねえんだろ！{wait}{clear}		
-roev10.034A	ばかにしやがって……{wait}{clear}		
-roev10.0366	他人のことなど知ったことか！{wait}{clear}		
-roev10.038A	もう顔を見せるな……＄＄＄＄＄＄！！{wait}{clear}		
+roev10.0230	……ふん。{n}知った風な口を……{wait}{clear}	...Hmph. Talking like you know...{wait}{clear}	
+roev10.0256	……どいつも一緒だな……。{wait}{clear}	...You're all the same...{wait}{clear}	
+roev10.0278	俺に命令ばかりする……。{wait}{clear}	Always giving me orders...{wait}{clear}	
+roev10.0298	なにをしろ……これをしろ{n}これをするな……あれをするな……{wait}{clear}	Do this... do that, don't do this... don't{n}do that...{wait}{clear}	
+roev10.02DA	聞き飽きたよ……。{wait}{clear}	I'm sick of hearing it...{wait}{clear}	
+roev10.02F4	いつもそうだ……。{wait}{clear}	It's always like that...{wait}{clear}	
+roev10.030E	お前らは……{n}俺がどう思っていようと関係ねえんだろ！{wait}{clear}	You people... don't give a damn what I{n}think, do you?!{wait}{clear}	
+roev10.034A	ばかにしやがって……{wait}{clear}	Making a fool of me...{wait}{clear}	
+roev10.0366	他人のことなど知ったことか！{wait}{clear}	To hell with everyone else!{wait}{clear}	
+roev10.038A	もう顔を見せるな……＄＄＄＄＄＄！！{wait}{clear}	Don't show your face again... ＄＄＄＄＄＄!!{wait}{clear}	

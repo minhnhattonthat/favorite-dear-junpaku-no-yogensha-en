@@ -1,34 +1,34 @@
 id	jp	en	notes
 roev17.004E	ロクス	Rocus	speaker
-roev17.005C	時間はあるかい、＄＄＄＄＄＄？{wait}{clear}		
+roev17.005C	時間はあるかい、＄＄＄＄＄＄？{wait}{clear}	Do you have time, ＄＄＄＄＄＄?{wait}{clear}	
 roev17.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev17.008E	ええ、平気です。{wait}{clear}		
+roev17.008E	ええ、平気です。{wait}{clear}	Yes, I'm free.{wait}{clear}	
 roev17.00A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev17.00B2	目の傷は、大丈夫ですか？{wait}{clear}		
+roev17.00B2	目の傷は、大丈夫ですか？{wait}{clear}	Is the wound by your eye all right?{wait}{clear}	
 roev17.00CE	ロクス	Rocus	speaker
-roev17.00DC	ああ、とくに問題はない。{n}かすり傷だ。{wait}{clear}		
-roev17.010A	傷跡は残ったけどね……。{wait}{clear}		
-roev17.012A	ま、君との冒険の思い出にするさ。{wait}{clear}		
+roev17.00DC	ああ、とくに問題はない。{n}かすり傷だ。{wait}{clear}	Yes, it's no problem. Just a scratch.{wait}{clear}	
+roev17.010A	傷跡は残ったけどね……。{wait}{clear}	It left a scar, though...{wait}{clear}	
+roev17.012A	ま、君との冒険の思い出にするさ。{wait}{clear}	Well, I'll keep it as a memento of our{n}adventures.{wait}{clear}	
 roev17.014E	ロクス	Rocus	speaker
-roev17.015C	＄＄＄＄＄＄、{n}……君のほかの勇者たちにとっては{n}知らないけど……{wait}{clear}		
-roev17.01A6	僕は人のために戦うなんてできない。{wait}{clear}		
-roev17.01D0	そんなことをするのは僕にとっては偽善だ……{wait}{clear}		
-roev17.0202	でも……僕は好きな女性……{n}女の子のためにならできる……。{wait}{clear}		
-roev17.0244	この体がどうなろうと知ったこっちゃない……。{wait}{clear}		
-roev17.0278	なんでもできる……きっと。{wait}{clear}		
-roev17.029A	＄＄＄＄＄＄……僕は君の笑顔が好きだ……{wait}{clear}		
-roev17.02CA	君の髪も、やさしいその声も、{n}僕は君のすべてが……{n}大好きだ。{wait}{clear}		
-roev17.0310	僕は……{n}こんなことを人間の女性には{n}聞いたことなどないけど……{wait}{clear}		
-roev17.0358	君にキスしてもいいか？{wait}{clear}		
+roev17.015C	＄＄＄＄＄＄、{n}……君のほかの勇者たちにとっては{n}知らないけど……{wait}{clear}	＄＄＄＄＄＄... I don't know about your{n}other heroes, but...{wait}{clear}	
+roev17.01A6	僕は人のために戦うなんてできない。{wait}{clear}	I can't fight for the sake of others.{wait}{clear}	
+roev17.01D0	そんなことをするのは僕にとっては偽善だ……{wait}{clear}	For me, doing that would be hypocrisy...{wait}{clear}	
+roev17.0202	でも……僕は好きな女性……{n}女の子のためにならできる……。{wait}{clear}	But... for the woman I love... the girl I{n}love, I can do it...{wait}{clear}	
+roev17.0244	この体がどうなろうと知ったこっちゃない……。{wait}{clear}	I don't care what happens to this body...{wait}{clear}	
+roev17.0278	なんでもできる……きっと。{wait}{clear}	I could do anything... I'm sure.{wait}{clear}	
+roev17.029A	＄＄＄＄＄＄……僕は君の笑顔が好きだ……{wait}{clear}	＄＄＄＄＄＄... I love your smile...{wait}{clear}	
+roev17.02CA	君の髪も、やさしいその声も、{n}僕は君のすべてが……{n}大好きだ。{wait}{clear}	Your hair, your gentle voice... I love{n}everything about you.{wait}{clear}	
+roev17.0310	僕は……{n}こんなことを人間の女性には{n}聞いたことなどないけど……{wait}{clear}	I've... never asked a human woman this{n}before, but...{wait}{clear}	
+roev17.0358	君にキスしてもいいか？{wait}{clear}	May I kiss you?{wait}{clear}	
 roev17.0372	ＮＵＬＬ	NULL	speaker
-roev17.0382	《受け入れる》{n}		
-roev17.0398	《受け入れない》{n}		
+roev17.0382	《受け入れる》{n}	Accept{n}	
+roev17.0398	《受け入れない》{n}	Refuse{n}	
 roev17.03DC	ロクス	Rocus	speaker
-roev17.03EA	君を愛している……。{wait}{clear}		
+roev17.03EA	君を愛している……。{wait}{clear}	I love you...{wait}{clear}	
 roev17.04BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev17.04CA	ごめんなさい、ロクス……{wait}{clear}		
+roev17.04CA	ごめんなさい、ロクス……{wait}{clear}	I'm sorry, Rocus...{wait}{clear}	
 roev17.04E6	ロクス	Rocus	speaker
 roev17.04F4	そうか……{wait}{clear}	I see...{wait}{clear}	
-roev17.0506	振られたわけか……{wait}{clear}		
-roev17.0520	ふう……{wait}{clear}		
-roev17.053C	僕のような男を振るなんて{n}たぶん、後悔するよ。＄＄＄＄＄＄。{wait}{clear}		
+roev17.0506	振られたわけか……{wait}{clear}	So I've been turned down...{wait}{clear}	
+roev17.0520	ふう……{wait}{clear}	Sigh...{wait}{clear}	
+roev17.053C	僕のような男を振るなんて{n}たぶん、後悔するよ。＄＄＄＄＄＄。{wait}{clear}	Turning down a man like me... you'll{n}probably regret it, ＄＄＄＄＄＄.{wait}{clear}	

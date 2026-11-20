@@ -1,58 +1,58 @@
 id	jp	en	notes
 roev05_02.0052	副教皇	Vice Pope	speaker
-roev05_02.005C	ロクス……{n}これは大事なことだ、真面目に答えて欲しい。{wait}{clear}先日、教会の宝玉が何者かによって盗まれた……。{n}心当たりはないか？{wait}{clear}		
+roev05_02.005C	ロクス……{n}これは大事なことだ、真面目に答えて欲しい。{wait}{clear}先日、教会の宝玉が何者かによって盗まれた……。{n}心当たりはないか？{wait}{clear}	Rocus... This is important, so I want a{n}serious answer.{wait}{clear}The other day, someone stole the Church's{n}sacred jewel... Do you know anything about{n}it?{wait}{clear}	
 roev05_02.00DC	ロクス	Rocus	speaker
-roev05_02.00E6	……僕が盗んだとでも？{wait}{clear}		
+roev05_02.00E6	……僕が盗んだとでも？{wait}{clear}	...You think I stole it?{wait}{clear}	
 roev05_02.0100	副教皇	Vice Pope	speaker
-roev05_02.010A	そうは思っておらん。{n}もしそうなら、私の元に戻っては来まい。{wait}{clear}ただ、あの秘宝の在処を知っているのは{n}私とお前しかいないのだ。{wait}{clear}手がかりはなにもない。{n}少しでも何か聞けたらと思って呼んだのだ。{wait}{clear}		
+roev05_02.010A	そうは思っておらん。{n}もしそうなら、私の元に戻っては来まい。{wait}{clear}ただ、あの秘宝の在処を知っているのは{n}私とお前しかいないのだ。{wait}{clear}手がかりはなにもない。{n}少しでも何か聞けたらと思って呼んだのだ。{wait}{clear}	I don't think that. If you had, you would{n}not have come back to me.{wait}{clear}But the only ones who know where that{n}treasure was kept are you and I.{wait}{clear}We have no leads. I called you here hoping{n}to learn even a little.{wait}{clear}	
 roev05_02.01D0	ロクス	Rocus	speaker
-roev05_02.01DA	心当たりはあります……。{n}ある男に秘宝の在処を教えました……。{wait}{clear}		
+roev05_02.01DA	心当たりはあります……。{n}ある男に秘宝の在処を教えました……。{wait}{clear}	I do know something... I told a man where{n}the treasure was kept...{wait}{clear}	
 roev05_02.021C	副教皇	Vice Pope	speaker
-roev05_02.0226	どういう意味だ？{wait}{clear}		
+roev05_02.0226	どういう意味だ？{wait}{clear}	What do you mean?{wait}{clear}	
 roev05_02.023A	ロクス	Rocus	speaker
-roev05_02.0244	……賭けです。{wait}{clear}賭けに負け、{n}その男に秘宝の隠し場所を話したのです。{wait}{clear}		
+roev05_02.0244	……賭けです。{wait}{clear}賭けに負け、{n}その男に秘宝の隠し場所を話したのです。{wait}{clear}	...A bet.{wait}{clear}I lost a bet, and told that man where the{n}treasure was hidden.{wait}{clear}	
 roev05_02.028E	副教皇	Vice Pope	speaker
-roev05_02.0298	宝玉の在処を賭けの代償としたのか？{n}ロクス！{wait}{clear}なんということだ！　お前は……{wait}{clear}		
+roev05_02.0298	宝玉の在処を賭けの代償としたのか？{n}ロクス！{wait}{clear}なんということだ！　お前は……{wait}{clear}	You staked the location of the sacred jewel{n}on a wager? Rocus!{wait}{clear}How could you! You...{wait}{clear}	
 roev05_02.02EA	ロクス	Rocus	speaker
 roev05_02.02F4	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.0302	副教皇	Vice Pope	speaker
-roev05_02.030C	それで、その男の名は？{wait}{clear}		
+roev05_02.030C	それで、その男の名は？{wait}{clear}	And what was that man's name?{wait}{clear}	
 roev05_02.0326	ロクス	Rocus	speaker
-roev05_02.0330	本名はクラレンス……確かランゲラック。{wait}{clear}仲間からはあだ名の{n}ヴァイパーと呼ばれていました。{wait}{clear}		
+roev05_02.0330	本名はクラレンス……確かランゲラック。{wait}{clear}仲間からはあだ名の{n}ヴァイパーと呼ばれていました。{wait}{clear}	His real name is Clarence... Langerack, I{n}believe.{wait}{clear}His friends called him by his nickname,{n}Viper.{wait}{clear}	
 roev05_02.0390	副教皇	Vice Pope	speaker
-roev05_02.039A	一刻も早くその男を探し出さねば……。{wait}{clear}しかしロクス……{n}お前には心底失望した……。{wait}{clear}		
+roev05_02.039A	一刻も早くその男を探し出さねば……。{wait}{clear}しかしロクス……{n}お前には心底失望した……。{wait}{clear}	We must find that man as soon as possible...{wait}{clear}But Rocus... I am truly disappointed in{n}you...{wait}{clear}	
 roev05_02.03F2	ロクス	Rocus	speaker
 roev05_02.03FC	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.040A	副教皇	Vice Pope	speaker
-roev05_02.0414	金と教皇としての責任を{n}取り引きしてしまうとはな……。{wait}{clear}お前に分別を期待していた{n}私が愚かだったようだ……。{wait}{clear}		
+roev05_02.0414	金と教皇としての責任を{n}取り引きしてしまうとはな……。{wait}{clear}お前に分別を期待していた{n}私が愚かだったようだ……。{wait}{clear}	To barter away your duty as Pope for{n}money...{wait}{clear}It seems I was a fool to expect any judgment{n}from you...{wait}{clear}	
 roev05_02.0486	ロクス	Rocus	speaker
-roev05_02.0490	僕は……{wait}{clear}		
+roev05_02.0490	僕は……{wait}{clear}	I...{wait}{clear}	
 roev05_02.049C	副教皇	Vice Pope	speaker
-roev05_02.04A6	言い訳はもう聞き飽きた……。{n}なぜ聖なる力がお前のような男に……。{wait}{clear}		
+roev05_02.04A6	言い訳はもう聞き飽きた……。{n}なぜ聖なる力がお前のような男に……。{wait}{clear}	I am tired of your excuses... Why was the{n}holy power given to a man like you...?{wait}{clear}	
 roev05_02.04EC	ロクス	Rocus	speaker
-roev05_02.04F6	僕は……{n}好きでここにいたんじゃない！{wait}{clear}誰がこんな力を望むものか！{wait}{clear}あんたらが勝手に{n}僕を教皇に祭り上げようとしたんじゃないか！{wait}{clear}		
+roev05_02.04F6	僕は……{n}好きでここにいたんじゃない！{wait}{clear}誰がこんな力を望むものか！{wait}{clear}あんたらが勝手に{n}僕を教皇に祭り上げようとしたんじゃないか！{wait}{clear}	I... I never wanted to be here!{wait}{clear}Who would ever wish for this power?!{wait}{clear}You're the ones who decided on your own to{n}make me Pope!{wait}{clear}	
 roev05_02.057E	副教皇	Vice Pope	speaker
-roev05_02.0588	ロクス……{wait}{clear}お前は二度と聖都に戻って来るな。{wait}{clear}これは命令だ。{wait}{clear}		
+roev05_02.0588	ロクス……{wait}{clear}お前は二度と聖都に戻って来るな。{wait}{clear}これは命令だ。{wait}{clear}	Rocus...{wait}{clear}Never return to the Holy City again.{wait}{clear}That is an order.{wait}{clear}	
 roev05_02.05CC	ロクス	Rocus	speaker
-roev05_02.05D6	言われなくとも、{n}二度と戻るつもりなどない！{wait}{clear}		
+roev05_02.05D6	言われなくとも、{n}二度と戻るつもりなどない！{wait}{clear}	You don't have to tell me! I have no{n}intention of ever coming back!{wait}{clear}	
 roev05_02.0630	ロクス	Rocus	speaker
 roev05_02.063A	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.0648	ＮＵＬＬ	NULL	speaker
-roev05_02.0658	《宝玉とは？》{n}		
+roev05_02.0658	《宝玉とは？》{n}	The sacred jewel?{n}	
 roev05_02.066E	《落ち着いてください。》{n}	Please calm down.{n}	
 roev05_02.0694	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_02.06A4	ロクス……宝玉というのは何なのですか？{wait}{clear}		
+roev05_02.06A4	ロクス……宝玉というのは何なのですか？{wait}{clear}	Rocus... What is this sacred jewel?{wait}{clear}	
 roev05_02.06DA	ロクス	Rocus	speaker
-roev05_02.06E4	……この教会で守られている魔石のことだ。{wait}{clear}開祖の初代教皇エリアスが世界を守った証だ……。{wait}{clear}二度と人の手に渡らないように守られていた。{wait}{clear}		
+roev05_02.06E4	……この教会で守られている魔石のことだ。{wait}{clear}開祖の初代教皇エリアスが世界を守った証だ……。{wait}{clear}二度と人の手に渡らないように守られていた。{wait}{clear}	...It's the Demon Stone that was guarded in{n}this church.{wait}{clear}Proof that our founder, the first Pope{n}Elias, saved the world...{wait}{clear}It was guarded so that it would never fall{n}into human hands again.{wait}{clear}	
 roev05_02.077C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_02.078C	デルフィニアの魔石……天竜の卵と呼ばれる{n}千年前に起きた混乱の元凶ですね。{wait}{clear}		
+roev05_02.078C	デルフィニアの魔石……天竜の卵と呼ばれる{n}千年前に起きた混乱の元凶ですね。{wait}{clear}	The Demon Stone of Delphinia... The egg of{n}the Heavenly Dragon, the root of the chaos a{n}thousand years ago.{wait}{clear}	
 roev05_02.07DA	ロクス	Rocus	speaker
-roev05_02.07E4	そうだ……そうとも呼ばれているな……。{wait}{clear}		
+roev05_02.07E4	そうだ……そうとも呼ばれているな……。{wait}{clear}	Yes... It's called that too...{wait}{clear}	
 roev05_02.081A	ロクス	Rocus	speaker
-roev05_02.0824	しかし……{n}僕は自分の意志で{n}秘宝の在処をしゃべったのではない……。{wait}{clear}カードに負けた瞬間……{n}やつの言葉に逆らえなかった。{wait}{clear}まるで強い魔法にかかったかのように……。{wait}{clear}		
-roev05_02.08DC	クソッ……{wait}{clear}この落とし前は必ずつけさせてもらう。{n}ヴァイパーめ……。{wait}{clear}		
+roev05_02.0824	しかし……{n}僕は自分の意志で{n}秘宝の在処をしゃべったのではない……。{wait}{clear}カードに負けた瞬間……{n}やつの言葉に逆らえなかった。{wait}{clear}まるで強い魔法にかかったかのように……。{wait}{clear}	But... I didn't reveal where the treasure{n}was of my own free will...{wait}{clear}The moment I lost at cards... I couldn't{n}defy his words.{wait}{clear}As if I'd fallen under a powerful spell...{wait}{clear}	
+roev05_02.08DC	クソッ……{wait}{clear}この落とし前は必ずつけさせてもらう。{n}ヴァイパーめ……。{wait}{clear}	Damn it...{wait}{clear}I'll make him pay for this, I swear. That{n}Viper...{wait}{clear}	
 roev05_02.093C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_02.094C	ロクス、落ち着いてください……。{wait}{clear}		
+roev05_02.094C	ロクス、落ち着いてください……。{wait}{clear}	Rocus, please calm down...{wait}{clear}	
 roev05_02.097C	ロクス	Rocus	speaker
-roev05_02.0986	……別になんともない。{n}もともと、ここになど戻ってきたくはなかった……。{wait}{clear}ヴァイパー……{n}僕はやつに借りができた……。{wait}{clear}この聖都を追われるのはかまわない……{n}だが、コケにされて終わりにはしない……。{wait}{clear}		
-roev05_02.0A60	やつのカードに負けたとき、僕はしゃべらされた。{n}まるで魔法にかかったように。{wait}{clear}探し出してみせる……ヴァイパーを。{wait}{clear}		
+roev05_02.0986	……別になんともない。{n}もともと、ここになど戻ってきたくはなかった……。{wait}{clear}ヴァイパー……{n}僕はやつに借りができた……。{wait}{clear}この聖都を追われるのはかまわない……{n}だが、コケにされて終わりにはしない……。{wait}{clear}	...I'm fine. I never wanted to come back{n}here in the first place...{wait}{clear}Viper... I owe him one now...{wait}{clear}I don't care if I'm driven out of the Holy{n}City... but I won't let it end with him{n}making a fool of me...{wait}{clear}	
+roev05_02.0A60	やつのカードに負けたとき、僕はしゃべらされた。{n}まるで魔法にかかったように。{wait}{clear}探し出してみせる……ヴァイパーを。{wait}{clear}	When I lost to him at cards, he made me{n}talk. As if I were under a spell.{wait}{clear}I'll find him... I'll find Viper.{wait}{clear}	

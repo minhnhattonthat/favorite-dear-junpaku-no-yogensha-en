@@ -1,101 +1,101 @@
 id	jp	en	notes
-roev03_01.004E	ロクスの知人		speaker
-roev03_01.005E	おうロクス、お前に会いたいってやつが来てるぜ。{wait}{clear}		
+roev03_01.004E	ロクスの知人	Rocus's Pal	speaker
+roev03_01.005E	おうロクス、お前に会いたいってやつが来てるぜ。{wait}{clear}	Hey, Rocus. Somebody's here wanting to see{n}you.{wait}{clear}	
 roev03_01.0090	ロクス	Rocus	speaker
-roev03_01.009E	誰だ？{wait}{clear}		
-roev03_01.00A8	ロクスの知人		speaker
-roev03_01.00B8	あそこにいるやつだ。{n}ヴァイパーって仲間うちじゃ呼ばれているらしい。{wait}{clear}		
+roev03_01.009E	誰だ？{wait}{clear}	Who?{wait}{clear}	
+roev03_01.00A8	ロクスの知人	Rocus's Pal	speaker
+roev03_01.00B8	あそこにいるやつだ。{n}ヴァイパーって仲間うちじゃ呼ばれているらしい。{wait}{clear}	That guy over there. Seems his crowd calls{n}him "Viper."{wait}{clear}	
 roev03_01.0100	ロクス	Rocus	speaker
-roev03_01.010E	ふーん、毒蛇か。勇ましいあだ名だな。{wait}{clear}		
-roev03_01.0136	ロクスの知人		speaker
-roev03_01.0146	なんでもすご腕のギャンブラーって話で{n}六王国周辺じゃ有名なんだと。{wait}{clear}		
+roev03_01.010E	ふーん、毒蛇か。勇ましいあだ名だな。{wait}{clear}	Hmm, a venomous snake, eh? What a brave{n}nickname.{wait}{clear}	
+roev03_01.0136	ロクスの知人	Rocus's Pal	speaker
+roev03_01.0146	なんでもすご腕のギャンブラーって話で{n}六王国周辺じゃ有名なんだと。{wait}{clear}	Word is he's an ace gambler, famous all{n}around the Six Kingdoms.{wait}{clear}	
 roev03_01.0198	ロクス	Rocus	speaker
-roev03_01.01A6	面白い、会ってこよう。{wait}{clear}		
+roev03_01.01A6	面白い、会ってこよう。{wait}{clear}	Interesting. I'll go meet him.{wait}{clear}	
 roev03_01.01E4	クラレンス	Clarence	speaker
-roev03_01.01F6	よう、ロクス。待ってたぜ。{wait}{clear}		
+roev03_01.01F6	よう、ロクス。待ってたぜ。{wait}{clear}	Hey, Rocus. I've been waiting.{wait}{clear}	
 roev03_01.0214	ロクス	Rocus	speaker
-roev03_01.0222	僕になんの用だ。毒蛇君。{wait}{clear}		
+roev03_01.0222	僕になんの用だ。毒蛇君。{wait}{clear}	What do you want with me, Mr. Viper?{wait}{clear}	
 roev03_01.023E	クラレンス	Clarence	speaker
-roev03_01.0250	なに、顔見せさ。{wait}{clear}		
-roev03_01.0268	俺の名はクラレンス・ランゲラック。{n}あだ名はその通り、ヴァイパーだ。{wait}{clear}		
+roev03_01.0250	なに、顔見せさ。{wait}{clear}	Nothing. Just showing my face.{wait}{clear}	
+roev03_01.0268	俺の名はクラレンス・ランゲラック。{n}あだ名はその通り、ヴァイパーだ。{wait}{clear}	My name's Clarence Langerack. And like the{n}nickname says, I'm Viper.{wait}{clear}	
 roev03_01.02B0	ロクス	Rocus	speaker
-roev03_01.02BE	僕の名は、名乗る必要がないな。{wait}{clear}		
+roev03_01.02BE	僕の名は、名乗る必要がないな。{wait}{clear}	I don't suppose I need to give you my name.{wait}{clear}	
 roev03_01.02E0	クラレンス	Clarence	speaker
-roev03_01.02F2	ああ、知ってる。{n}女たらしの不良僧侶で借金王の{n}ロクス・ラス・フロレスだろう。{wait}{clear}		
+roev03_01.02F2	ああ、知ってる。{n}女たらしの不良僧侶で借金王の{n}ロクス・ラス・フロレスだろう。{wait}{clear}	Yeah, I know it. Rocus Las Flores, the{n}womanizing delinquent priest and king of{n}debt.{wait}{clear}	
 roev03_01.0344	ロクス	Rocus	speaker
-roev03_01.0352	ふん、{n}まあ、不良と借金の部分はよけいだがな。{wait}{clear}		
+roev03_01.0352	ふん、{n}まあ、不良と借金の部分はよけいだがな。{wait}{clear}	Hmph. Well, you can leave out the{n}"delinquent" and "debt" parts.{wait}{clear}	
 roev03_01.0384	クラレンス	Clarence	speaker
-roev03_01.0396	ま、今日は挨拶だけだ。{wait}{clear}		
-roev03_01.03B4	今度会ったとき俺はお前と勝負したい。{wait}{clear}		
+roev03_01.0396	ま、今日は挨拶だけだ。{wait}{clear}	Anyway, today's just a hello.{wait}{clear}	
+roev03_01.03B4	今度会ったとき俺はお前と勝負したい。{wait}{clear}	Next time we meet, I want to play you.{wait}{clear}	
 roev03_01.03DC	ロクス	Rocus	speaker
-roev03_01.03EA	勝負？{wait}{clear}		
-roev03_01.03F8	ケンカか？　カードか？{wait}{clear}		
+roev03_01.03EA	勝負？{wait}{clear}	Play?{wait}{clear}	
+roev03_01.03F8	ケンカか？　カードか？{wait}{clear}	A fight? Or cards?{wait}{clear}	
 roev03_01.0412	クラレンス	Clarence	speaker
-roev03_01.0424	ばか、別になぐりあいなんてのはしたかねえ。{wait}{clear}		
-roev03_01.0456	カードの方さ。{wait}{clear}		
-roev03_01.046C	お前も好きなただのギャンブルさ。{wait}{clear}		
+roev03_01.0424	ばか、別になぐりあいなんてのはしたかねえ。{wait}{clear}	Idiot, I've got no wish to trade punches.{wait}{clear}	
+roev03_01.0456	カードの方さ。{wait}{clear}	Cards.{wait}{clear}	
+roev03_01.046C	お前も好きなただのギャンブルさ。{wait}{clear}	Just a bit of gambling. You like it too.{wait}{clear}	
 roev03_01.0490	ロクス	Rocus	speaker
-roev03_01.049E	ハハ、僕の借金を知ってそんな申し込みか？{wait}{clear}		
-roev03_01.04CE	ずいぶんと弱い者いじめが好きなのだな。{wait}{clear}		
+roev03_01.049E	ハハ、僕の借金を知ってそんな申し込みか？{wait}{clear}	Ha ha, you make that offer knowing about my{n}debts?{wait}{clear}	
+roev03_01.04CE	ずいぶんと弱い者いじめが好きなのだな。{wait}{clear}	You certainly enjoy picking on the weak.{wait}{clear}	
 roev03_01.04F8	クラレンス	Clarence	speaker
-roev03_01.050A	心配すんな。{n}金なんかいらねえよ。{wait}{clear}		
-roev03_01.0534	お前が負けても俺は手前からはなんにも取らねえ。{wait}{clear}		
-roev03_01.056A	ただ、もし俺が負けたら、{n}借金を帳消しにする金をやるよ。{wait}{clear}		
+roev03_01.050A	心配すんな。{n}金なんかいらねえよ。{wait}{clear}	Don't worry. I don't want your money.{wait}{clear}	
+roev03_01.0534	お前が負けても俺は手前からはなんにも取らねえ。{wait}{clear}	Even if you lose, I won't take a thing from{n}you.{wait}{clear}	
+roev03_01.056A	ただ、もし俺が負けたら、{n}借金を帳消しにする金をやるよ。{wait}{clear}	But if I lose, I'll give you enough money to{n}wipe out your debts.{wait}{clear}	
 roev03_01.05A6	ロクス	Rocus	speaker
-roev03_01.05B4	ふん？　話がうますぎるな。{wait}{clear}		
+roev03_01.05B4	ふん？　話がうますぎるな。{wait}{clear}	Hm? That sounds too good to be true.{wait}{clear}	
 roev03_01.05D2	クラレンス	Clarence	speaker
-roev03_01.05E4	なに、嫌ならいいんだ。{wait}{clear}		
-roev03_01.0602	俺は、ここいらへんで有名な女たらしのお前を{n}負かしたって証が欲しいのさ。{wait}{clear}		
-roev03_01.0652	そうすりゃ、俺に冷たいここの女たちも{n}振り向いてくれるだろ。{wait}{clear}		
+roev03_01.05E4	なに、嫌ならいいんだ。{wait}{clear}	Hey, if you don't want to, that's fine.{wait}{clear}	
+roev03_01.0602	俺は、ここいらへんで有名な女たらしのお前を{n}負かしたって証が欲しいのさ。{wait}{clear}	I just want proof that I beat you, the most{n}famous womanizer around these parts.{wait}{clear}	
+roev03_01.0652	そうすりゃ、俺に冷たいここの女たちも{n}振り向いてくれるだろ。{wait}{clear}	Then maybe the girls here, who're so cold to{n}me, will finally look my way.{wait}{clear}	
 roev03_01.0692	ロクス	Rocus	speaker
-roev03_01.06A0	名誉と金をてんびんにかけるわけか。{wait}{clear}		
+roev03_01.06A0	名誉と金をてんびんにかけるわけか。{wait}{clear}	So you're weighing honor against money.{wait}{clear}	
 roev03_01.06C6	クラレンス	Clarence	speaker
-roev03_01.06D8	そうさ、所詮ギャンブルはギャンブル{n}気楽にやるのが俺の趣味さ。{wait}{clear}		
+roev03_01.06D8	そうさ、所詮ギャンブルはギャンブル{n}気楽にやるのが俺の趣味さ。{wait}{clear}	That's right. Gambling's just gambling,{n}after all. Taking it easy is my style.{wait}{clear}	
 roev03_01.071A	ロクス	Rocus	speaker
-roev03_01.0728	僕の借金は、ぼう大だぞ。{wait}{clear}		
+roev03_01.0728	僕の借金は、ぼう大だぞ。{wait}{clear}	My debts are enormous, you know.{wait}{clear}	
 roev03_01.0744	クラレンス	Clarence	speaker
-roev03_01.0756	なあに、心配するな、金には困ってねえ。{wait}{clear}		
-roev03_01.0784	大船に乗った気でいろ。{wait}{clear}		
+roev03_01.0756	なあに、心配するな、金には困ってねえ。{wait}{clear}	Hey, don't worry. Money's no problem for me.{wait}{clear}	
+roev03_01.0784	大船に乗った気でいろ。{wait}{clear}	You're in safe hands.{wait}{clear}	
 roev03_01.079E	ロクス	Rocus	speaker
-roev03_01.07AC	泥船じゃなきゃいいがな。{wait}{clear}		
+roev03_01.07AC	泥船じゃなきゃいいがな。{wait}{clear}	As long as they're not butterfingers.{wait}{clear}	
 roev03_01.07C8	クラレンス	Clarence	speaker
-roev03_01.07DA	ははは、まあ好きに言え。{wait}{clear}		
-roev03_01.07FA	今夜は俺がおごってやるよ。{n}たくさん飲んでいけ、遠慮するな。{wait}{clear}		
+roev03_01.07DA	ははは、まあ好きに言え。{wait}{clear}	Ha ha ha, say what you like.{wait}{clear}	
+roev03_01.07FA	今夜は俺がおごってやるよ。{n}たくさん飲んでいけ、遠慮するな。{wait}{clear}	Tonight's on me. Drink all you want, don't{n}hold back.{wait}{clear}	
 roev03_01.083A	ロクス	Rocus	speaker
-roev03_01.0848	ああ、誰が金を払おうと酒は酒だ。{wait}{clear}		
-roev03_01.0870	遠慮なく飲ませてもらうよ。{wait}{clear}		
+roev03_01.0848	ああ、誰が金を払おうと酒は酒だ。{wait}{clear}	Sure. No matter who pays, a drink is a{n}drink.{wait}{clear}	
+roev03_01.0870	遠慮なく飲ませてもらうよ。{wait}{clear}	I'll drink without holding back, then.{wait}{clear}	
 roev03_01.08B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.08C4	さて、どうしましょう？{wait}{clear}		
+roev03_01.08C4	さて、どうしましょう？{wait}{clear}	Now, what should I do?{wait}{clear}	
 roev03_01.08DE	ＮＵＬＬ	NULL	speaker
-roev03_01.08EE	《話しかける。》{n}		
-roev03_01.0906	《話しかけない。》{n}		
+roev03_01.08EE	《話しかける。》{n}	Talk to him{n}	
+roev03_01.0906	《話しかけない。》{n}	Don't talk to him{n}	
 roev03_01.0924	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0934	ロクス、いいですか？{wait}{clear}		
+roev03_01.0934	ロクス、いいですか？{wait}{clear}	Rocus, do you have a moment?{wait}{clear}	
 roev03_01.094C	ロクス	Rocus	speaker
-roev03_01.095A	ああ、いたのですか？{wait}{clear}		
-roev03_01.097E	人の姿でいる時も美しいですね。{wait}{clear}		
-roev03_01.09B0	どうです？　今日はタダ酒だ。{wait}{clear}		
-roev03_01.09D4	一緒に飲みましょう。{wait}{clear}		
+roev03_01.095A	ああ、いたのですか？{wait}{clear}	Oh, you were here?{wait}{clear}	
+roev03_01.097E	人の姿でいる時も美しいですね。{wait}{clear}	You're beautiful even in human form.{wait}{clear}	
+roev03_01.09B0	どうです？　今日はタダ酒だ。{wait}{clear}	How about it? The drinks are free tonight.{wait}{clear}	
+roev03_01.09D4	一緒に飲みましょう。{wait}{clear}	Let's drink together.{wait}{clear}	
 roev03_01.09EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.09FC	え？　ええ……。{n}あの、ロクス聞いてもいいですか？{wait}{clear}		
+roev03_01.09FC	え？　ええ……。{n}あの、ロクス聞いてもいいですか？{wait}{clear}	Huh? Oh, well... Um, Rocus, may I ask you{n}something?{wait}{clear}	
 roev03_01.0A32	ＮＵＬＬ	NULL	speaker
-roev03_01.0A42	《ヴァイパーについて》{n}		
-roev03_01.0A60	《お酒について》{n}		
+roev03_01.0A42	《ヴァイパーについて》{n}	About Viper{n}	
+roev03_01.0A60	《お酒について》{n}	About drinking{n}	
 roev03_01.0A82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0A92	ヴァイパーという彼は、いったい何者なのですか？{wait}{clear}		
+roev03_01.0A92	ヴァイパーという彼は、いったい何者なのですか？{wait}{clear}	That man called Viper... who in the world is{n}he?{wait}{clear}	
 roev03_01.0AD0	ロクス	Rocus	speaker
-roev03_01.0ADE	さあ、よくいる手合いです。{n}僕にからんでくる相手は多い。{wait}{clear}		
-roev03_01.0B2A	まあ、有名税みたいなものかな。{wait}{clear}		
+roev03_01.0ADE	さあ、よくいる手合いです。{n}僕にからんでくる相手は多い。{wait}{clear}	Who knows? The usual type. Plenty of people{n}pick fights with me.{wait}{clear}	
+roev03_01.0B2A	まあ、有名税みたいなものかな。{wait}{clear}	Call it the price of fame.{wait}{clear}	
 roev03_01.0B4C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0B5C	はあ……そう、ですか……。{wait}{clear}		
+roev03_01.0B5C	はあ……そう、ですか……。{wait}{clear}	I see... Is that so...{wait}{clear}	
 roev03_01.0B8A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0B9A	あまり飲み過ぎるのはよくありませんよ。{wait}{clear}		
+roev03_01.0B9A	あまり飲み過ぎるのはよくありませんよ。{wait}{clear}	It isn't good to drink too much.{wait}{clear}	
 roev03_01.0BC4	ロクス	Rocus	speaker
-roev03_01.0BD2	飲み過ぎ？{n}まあ、たまにはかまわないでしょう？{wait}{clear}		
-roev03_01.0C08	せっかくの夜、一緒に楽しみましょう。{wait}{clear}		
+roev03_01.0BD2	飲み過ぎ？{n}まあ、たまにはかまわないでしょう？{wait}{clear}	Too much? Well, once in a while doesn't{n}hurt, does it?{wait}{clear}	
+roev03_01.0C08	せっかくの夜、一緒に楽しみましょう。{wait}{clear}	It's a fine night. Let's enjoy it together.{wait}{clear}	
 roev03_01.0C38	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0C48	はあ……でも……。{wait}{clear}		
+roev03_01.0C48	はあ……でも……。{wait}{clear}	Well... but...{wait}{clear}	
 roev03_01.0C68	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0C78	あ、あの……でも……。{wait}{clear}		
+roev03_01.0C78	あ、あの……でも……。{wait}{clear}	Ah, um... but...{wait}{clear}	
 roev03_01.0C9C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev03_01.0CAC	……このまま黙って帰りましょう……。{wait}{clear}		
+roev03_01.0CAC	……このまま黙って帰りましょう……。{wait}{clear}	...I'll just quietly go home...{wait}{clear}	

@@ -1,87 +1,87 @@
 id	jp	en	notes
-roev15.0012	第１１節「宿屋にて」		speaker
+roev15.0012	第１１節「宿屋にて」	At the Inn	speaker
 roev15.0060	ロクス	Rocus	speaker
-roev15.006E	……いるか、＄＄＄＄＄＄？{wait}{clear}		
+roev15.006E	……いるか、＄＄＄＄＄＄？{wait}{clear}	...Are you there, ＄＄＄＄＄＄?{wait}{clear}	
 roev15.008C	ロクス	Rocus	speaker
-roev15.009A	一緒に出かけないか？{wait}{clear}		
-roev15.00B6	なにもしない……、なんていう{n}約束を僕はできないけど、{n}つき合ってくれたら嬉しい。{wait}{clear}		
+roev15.009A	一緒に出かけないか？{wait}{clear}	Would you like to go out together?{wait}{clear}	
+roev15.00B6	なにもしない……、なんていう{n}約束を僕はできないけど、{n}つき合ってくれたら嬉しい。{wait}{clear}	I can't promise I won't try anything... but{n}I'd be happy if you'd come along.{wait}{clear}	
 roev15.010C	ＮＵＬＬ	NULL	speaker
 roev15.011C	《ええ……》{n}	Yes...{n}	
-roev15.0130	《今は忙しいので……》{n}		
+roev15.0130	《今は忙しいので……》{n}	I'm busy right now...{n}	
 roev15.0154	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.0164	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
 roev15.0188	ロクス	Rocus	speaker
-roev15.0196	ありがとう。{wait}{clear}		
+roev15.0196	ありがとう。{wait}{clear}	Thank you.{wait}{clear}	
 roev15.01B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.01C0	今は忙しいので……{wait}{clear}		
+roev15.01C0	今は忙しいので……{wait}{clear}	I'm busy right now...{wait}{clear}	
 roev15.01E4	ロクス	Rocus	speaker
-roev15.01F2	そうか……{n}じゃあ、また今度にしよう……{wait}{clear}		
+roev15.01F2	そうか……{n}じゃあ、また今度にしよう……{wait}{clear}	I see... Then let's make it another time...{wait}{clear}	
 roev15.0248	ロクス	Rocus	speaker
-roev15.0256	今日は冷えるな……{n}寒くないか？{wait}{clear}		
+roev15.0256	今日は冷えるな……{n}寒くないか？{wait}{clear}	It's cold today... Aren't you cold?{wait}{clear}	
 roev15.027A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.028A	ええ、私は平気です。{wait}{clear}		
+roev15.028A	ええ、私は平気です。{wait}{clear}	No, I'm fine.{wait}{clear}	
 roev15.02B0	ロクス	Rocus	speaker
-roev15.02BE	君は平気でも、見ているこちらが寒い。{n}ほら……。{wait}{clear}		
+roev15.02BE	君は平気でも、見ているこちらが寒い。{n}ほら……。{wait}{clear}	You may be fine, but it makes me cold just{n}looking at you. Here...{wait}{clear}	
 roev15.0306	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.0316	ありがとう……ロクス。{wait}{clear}		
+roev15.0316	ありがとう……ロクス。{wait}{clear}	Thank you... Rocus.{wait}{clear}	
 roev15.034E	ロクス	Rocus	speaker
-roev15.035C	……君にはたくさん迷惑をかけた……{n}すまなかった……。{wait}{clear}		
+roev15.035C	……君にはたくさん迷惑をかけた……{n}すまなかった……。{wait}{clear}	...I've caused you a lot of trouble... I'm{n}sorry...{wait}{clear}	
 roev15.0396	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.03A6	いえ、いいんです。もう。{wait}{clear}		
+roev15.03A6	いえ、いいんです。もう。{wait}{clear}	No, it's all right. Really.{wait}{clear}	
 roev15.03C2	ロクス	Rocus	speaker
 roev15.03CC	…………。{wait}{clear}	.........{wait}{clear}	
 roev15.03DA	ＮＵＬＬ	NULL	speaker
-roev15.03EA	《あなたの話を聞かせてください》{n}		
-roev15.0412	《癒しの手について……》{n}		
+roev15.03EA	《あなたの話を聞かせてください》{n}	Tell me about yourself{n}	
+roev15.0412	《癒しの手について……》{n}	About your healing hands...{n}	
 roev15.0438	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.0448	あなたの話を聞かせてください。ロクス。{wait}{clear}		
+roev15.0448	あなたの話を聞かせてください。ロクス。{wait}{clear}	Please tell me about yourself, Rocus.{wait}{clear}	
 roev15.0472	ロクス	Rocus	speaker
-roev15.0480	僕の話？　面白くはないよ……きっと。{wait}{clear}		
+roev15.0480	僕の話？　面白くはないよ……きっと。{wait}{clear}	About me? It isn't interesting... I'm sure.{wait}{clear}	
 roev15.04A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.04B8	かまいません……。{n}私が聞きたいと思っているのですから、{n}話していただけませんか？{wait}{clear}		
+roev15.04B8	かまいません……。{n}私が聞きたいと思っているのですから、{n}話していただけませんか？{wait}{clear}	I don't mind... I want to hear it, so won't{n}you tell me?{wait}{clear}	
 roev15.050E	ロクス	Rocus	speaker
-roev15.051C	僕は……子供のころ、教会に引き取られた。{wait}{clear}		
-roev15.054C	この手の能力を見いだされて……。{wait}{clear}		
-roev15.0574	教会では僕は教皇になるべく{n}いろんな知識を教えられた。{n}作法や、教皇として義務の話だ。{wait}{clear}		
-roev15.05D2	その一方で、まわりの司教達は未来の{n}教皇である僕にいろんなおべっかを使ってきた。{wait}{clear}		
-roev15.062A	子供相手のつまんないものさ……{wait}{clear}		
-roev15.0650	まあ、そのときはそれなりだまされたけどね。{wait}{clear}		
-roev15.0682	聖職者つったって、人間さ、{n}うわっつらじゃいい顔してても中身はただの強欲な{n}オッサンたちだ。{wait}{clear}		
-roev15.06E6	口ではいいことをいうから、{n}ただの悪人よりずっとたちが悪い……。{wait}{clear}		
-roev15.072E	そんな人間たち相手にだましだまされ{n}やっているうちに、なんだか……{wait}{clear}		
-roev15.0778	教皇になるのがばからしくなった……。{wait}{clear}		
-roev15.07A4	結局利用されているだけに感じたから。{wait}{clear}		
-roev15.07D0	それで適当に遊びほうけていたら、{n}副教皇に聖都から追い出された……。{wait}{clear}		
-roev15.081C	ま、こんなところだ……{n}つまんない話さ……。{wait}{clear}		
+roev15.051C	僕は……子供のころ、教会に引き取られた。{wait}{clear}	I... was taken in by the Church as a child.{wait}{clear}	
+roev15.054C	この手の能力を見いだされて……。{wait}{clear}	Because they discovered the power in these{n}hands...{wait}{clear}	
+roev15.0574	教会では僕は教皇になるべく{n}いろんな知識を教えられた。{n}作法や、教皇として義務の話だ。{wait}{clear}	At the Church, I was taught all sorts of{n}things so I could become Pope. Etiquette,{n}and the duties of a Pope.{wait}{clear}	
+roev15.05D2	その一方で、まわりの司教達は未来の{n}教皇である僕にいろんなおべっかを使ってきた。{wait}{clear}	Meanwhile, the bishops around me flattered{n}me in all sorts of ways, since I was the{n}future Pope.{wait}{clear}	
+roev15.062A	子供相手のつまんないものさ……{wait}{clear}	Petty things, the kind you use on a kid...{wait}{clear}	
+roev15.0650	まあ、そのときはそれなりだまされたけどね。{wait}{clear}	Well, back then they fooled me well enough.{wait}{clear}	
+roev15.0682	聖職者つったって、人間さ、{n}うわっつらじゃいい顔してても中身はただの強欲な{n}オッサンたちだ。{wait}{clear}	They may be clergy, but they're human. Nice{n}faces on the outside, and just greedy old{n}men inside.{wait}{clear}	
+roev15.06E6	口ではいいことをいうから、{n}ただの悪人よりずっとたちが悪い……。{wait}{clear}	They say all the right things, which makes{n}them far worse than plain villains...{wait}{clear}	
+roev15.072E	そんな人間たち相手にだましだまされ{n}やっているうちに、なんだか……{wait}{clear}	While I was fooling and being fooled by{n}people like that, somehow...{wait}{clear}	
+roev15.0778	教皇になるのがばからしくなった……。{wait}{clear}	becoming Pope started to seem ridiculous...{wait}{clear}	
+roev15.07A4	結局利用されているだけに感じたから。{wait}{clear}	Because I felt like I was only being used.{wait}{clear}	
+roev15.07D0	それで適当に遊びほうけていたら、{n}副教皇に聖都から追い出された……。{wait}{clear}	So I spent my time idly playing around, and{n}the Vice Pope threw me out of the Holy{n}City...{wait}{clear}	
+roev15.081C	ま、こんなところだ……{n}つまんない話さ……。{wait}{clear}	Well, that's about it... A boring story...{wait}{clear}	
 roev15.084C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.085C	そんなことはありません……。{n}話してくれて、ありがとうございました。{wait}{clear}ところで……{n}ロクスのご両親は今どうしているのですか？{wait}{clear}		
+roev15.085C	そんなことはありません……。{n}話してくれて、ありがとうございました。{wait}{clear}ところで……{n}ロクスのご両親は今どうしているのですか？{wait}{clear}	That's not true... Thank you for telling me.{wait}{clear}By the way... what are your parents doing{n}now, Rocus?{wait}{clear}	
 roev15.08DE	ロクス	Rocus	speaker
-roev15.08EC	ああ、両親は普通の人たちさ。{wait}{clear}		
-roev15.0910	でも、ずっと別々に暮らしていたから……{wait}{clear}		
-roev15.093E	大きくなって会ったときには{n}ほとんど他人みたいな感じだった。{wait}{clear}		
-roev15.0982	今でもほとんど会わないし、{n}お互い話すこともない……。{wait}{clear}		
-roev15.09C0	苦手だ……あの人達は。{wait}{clear}…………。{wait}{clear}		
+roev15.08EC	ああ、両親は普通の人たちさ。{wait}{clear}	Oh, my parents are ordinary people.{wait}{clear}	
+roev15.0910	でも、ずっと別々に暮らしていたから……{wait}{clear}	But we always lived apart...{wait}{clear}	
+roev15.093E	大きくなって会ったときには{n}ほとんど他人みたいな感じだった。{wait}{clear}	When I met them after I'd grown up, they{n}felt almost like strangers.{wait}{clear}	
+roev15.0982	今でもほとんど会わないし、{n}お互い話すこともない……。{wait}{clear}	Even now we hardly see each other, and we{n}have nothing to say to each other...{wait}{clear}	
+roev15.09C0	苦手だ……あの人達は。{wait}{clear}…………。{wait}{clear}	I'm not good with them... those people.{wait}{clear}......{wait}{clear}	
 roev15.09F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev15.0A02	あなたの癒しの手の話を{n}聞かせてくれませんか？{wait}{clear}		
+roev15.0A02	あなたの癒しの手の話を{n}聞かせてくれませんか？{wait}{clear}	Won't you tell me about your healing hands?{wait}{clear}	
 roev15.0A34	ロクス	Rocus	speaker
-roev15.0A42	この手の話か……。{wait}{clear}		
-roev15.0A5C	……自分の手の力に気づいたのは{n}８才か９才くらいのときかな……{wait}{clear}		
-roev15.0AA2	一番最初は飼っていた子犬だった……{n}まだ生まれてまもない子犬が馬車にひかれて……{wait}{clear}		
-roev15.0AFA	大けがしてとても助からないって思った。{wait}{clear}		
-roev15.0B28	僕はそのときすごく悔しかった……{wait}{clear}		
-roev15.0B50	なんのためにこいつは生まれてきたんだって、{n}まだ小さくてなんにも知らないのに……{wait}{clear}		
-roev15.0BA8	こんな風に死ぬなんて許せなかった……。{wait}{clear}		
-roev15.0BD6	でも僕がその子犬をなでていると{n}子犬の血が止まって、傷が治って……{wait}{clear}		
-roev15.0C20	初めは気づかなかった。{n}ただ、子犬が元気になったことが{n}うれしかった……自分の思いがかなったって。{wait}{clear}		
-roev15.0C8A	そして、そんなことが何回かあって……{n}大人達は僕の力に気づいた……{wait}{clear}		
-roev15.0CD4	教会は……教皇の証である{n}癒しの手の使いを求めていたから{n}すぐに引き取られた。{wait}{clear}		
-roev15.0D2A	でも、教会が僕のこの手にやらせたことは{n}布施を多くする貴族や王族、大商人たちの{n}治療ばかりだった……。{wait}{clear}		
-roev15.0D98	僕はそのうち面倒になってきて{n}適当にいいわけをつくって力を使うのをやめた……。{wait}{clear}		
-roev15.0DEE	他人に利用されるのは御免だから……。{wait}{clear}		
-roev15.0E1A	……べつに……{n}今の僕には必要なんてない……{n}こんな力は……{wait}{clear}…………。{wait}{clear}		
+roev15.0A42	この手の話か……。{wait}{clear}	About these hands, huh...{wait}{clear}	
+roev15.0A5C	……自分の手の力に気づいたのは{n}８才か９才くらいのときかな……{wait}{clear}	...I first noticed the power in my hands{n}when I was eight or nine, I think...{wait}{clear}	
+roev15.0AA2	一番最初は飼っていた子犬だった……{n}まだ生まれてまもない子犬が馬車にひかれて……{wait}{clear}	The very first time was a puppy I had... It{n}was barely born, and it got run over by a{n}carriage...{wait}{clear}	
+roev15.0AFA	大けがしてとても助からないって思った。{wait}{clear}	It was so badly hurt, I thought there was no{n}saving it.{wait}{clear}	
+roev15.0B28	僕はそのときすごく悔しかった……{wait}{clear}	I was so frustrated then...{wait}{clear}	
+roev15.0B50	なんのためにこいつは生まれてきたんだって、{n}まだ小さくてなんにも知らないのに……{wait}{clear}	What was it even born for? It was still so{n}little, and it didn't know anything...{wait}{clear}	
+roev15.0BA8	こんな風に死ぬなんて許せなかった……。{wait}{clear}	I couldn't stand it dying like that...{wait}{clear}	
+roev15.0BD6	でも僕がその子犬をなでていると{n}子犬の血が止まって、傷が治って……{wait}{clear}	But while I was stroking the puppy, its{n}bleeding stopped, and its wounds healed...{wait}{clear}	
+roev15.0C20	初めは気づかなかった。{n}ただ、子犬が元気になったことが{n}うれしかった……自分の思いがかなったって。{wait}{clear}	At first I didn't realize. I was just glad{n}the puppy was well again... that my wish had{n}come true.{wait}{clear}	
+roev15.0C8A	そして、そんなことが何回かあって……{n}大人達は僕の力に気づいた……{wait}{clear}	Then it happened a few more times... and the{n}adults noticed my power...{wait}{clear}	
+roev15.0CD4	教会は……教皇の証である{n}癒しの手の使いを求めていたから{n}すぐに引き取られた。{wait}{clear}	The Church... was looking for someone with{n}the healing hands, the mark of the Pope, so{n}they took me in right away.{wait}{clear}	
+roev15.0D2A	でも、教会が僕のこの手にやらせたことは{n}布施を多くする貴族や王族、大商人たちの{n}治療ばかりだった……。{wait}{clear}	But all the Church had my hands do was treat{n}nobles, royals and rich merchants who gave{n}big donations...{wait}{clear}	
+roev15.0D98	僕はそのうち面倒になってきて{n}適当にいいわけをつくって力を使うのをやめた……。{wait}{clear}	Eventually I got tired of it, made up some{n}excuse, and stopped using my power...{wait}{clear}	
+roev15.0DEE	他人に利用されるのは御免だから……。{wait}{clear}	Because I refuse to be used by others...{wait}{clear}	
+roev15.0E1A	……べつに……{n}今の僕には必要なんてない……{n}こんな力は……{wait}{clear}…………。{wait}{clear}	...It's not like... I need it now... a power{n}like this...{wait}{clear}......{wait}{clear}	
 roev15.0E68	ロクス	Rocus	speaker
 roev15.0E76	……うん？{wait}{clear}	...Hm?{wait}{clear}	
 roev15.0E8C	ロクス	Rocus	speaker
-roev15.0E9A	雪だ……。{wait}{clear}		
-roev15.0EAC	どうりで寒いはずだ……。{wait}{clear}		
-roev15.0ECC	宿へもどろう……。{wait}{clear}		
+roev15.0E9A	雪だ……。{wait}{clear}	It's snow...{wait}{clear}	
+roev15.0EAC	どうりで寒いはずだ……。{wait}{clear}	No wonder it's so cold...{wait}{clear}	
+roev15.0ECC	宿へもどろう……。{wait}{clear}	Let's go back to the inn...{wait}{clear}	

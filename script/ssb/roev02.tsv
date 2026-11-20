@@ -29,59 +29,59 @@ roev02.0434	勘弁してくれ、今日は一人じゃないんだ。{wait}{clea
 roev02.045E	酒場の女達	Tavern Girls	speaker
 roev02.046C	ええっ、誰と来たの？{n}まさか、ロクスさまの彼女？{wait}{clear}	Whaaat, who'd you come with? Don't tell me{n}it's your girlfriend, Rocus-sama?{wait}{clear}	
 roev02.04A0	ロクス	Rocus	speaker
-roev02.04AA	違うよ。{n}そこにいる彼さ、一緒に旅をしている……{wait}{clear}		
+roev02.04AA	違うよ。{n}そこにいる彼さ、一緒に旅をしている……{wait}{clear}	No. It's him, right over there. We're{n}traveling together...{wait}{clear}	
 roev02.04DE	酒場の女達	Tavern Girls	speaker
-roev02.04EC	えー、どこー？{wait}{clear}		
+roev02.04EC	えー、どこー？{wait}{clear}	Huh? Where?{wait}{clear}	
 roev02.04FE	ロクス	Rocus	speaker
-roev02.0508	……あれ？{n}もしかして、天使ってフツーの人には見えないのか？{wait}{clear}		
+roev02.0508	……あれ？{n}もしかして、天使ってフツーの人には見えないのか？{wait}{clear}	...Huh? Wait, can ordinary people not see{n}angels?{wait}{clear}	
 roev02.0548	酒場の女達	Tavern Girls	speaker
-roev02.0556	嫌ね、誰もいないじゃない。{n}まーた、ここに来る前に飲んでたんでしょ？{wait}{clear}他の店で飲めて、{n}ここで私たちと飲めない理由はないわよね。{wait}{clear}		
+roev02.0556	嫌ね、誰もいないじゃない。{n}まーた、ここに来る前に飲んでたんでしょ？{wait}{clear}他の店で飲めて、{n}ここで私たちと飲めない理由はないわよね。{wait}{clear}	Oh, stop it, there's nobody there. You were{n}drinking before you came here again, weren't{n}you?{wait}{clear}If you can drink at some other place,{n}there's no reason you can't drink here with{n}us.{wait}{clear}	
 roev02.05DC	ロクス	Rocus	speaker
-roev02.05E6	……ま、いいか。{wait}{clear}よし、もっと持ってきてくれ。{n}飲もう。みんな！{wait}{clear}		
+roev02.05E6	……ま、いいか。{wait}{clear}よし、もっと持ってきてくれ。{n}飲もう。みんな！{wait}{clear}	...Oh, well.{wait}{clear}All right, bring us more. Let's drink,{n}everyone!{wait}{clear}	
 roev02.062C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.063C	ふう……{n}困った人のようですね……彼は……。{wait}{clear}ほうっておいて先に帰りましょう……。{wait}{clear}		
+roev02.063C	ふう……{n}困った人のようですね……彼は……。{wait}{clear}ほうっておいて先に帰りましょう……。{wait}{clear}	Sigh... He seems to be a troublesome man...{wait}{clear}Let's leave him be and go back first...{wait}{clear}	
 roev02.06B0	ロクス	Rocus	speaker
-roev02.06BA	天使様……いるんですか？{wait}{clear}		
+roev02.06BA	天使様……いるんですか？{wait}{clear}	Angel... are you there?{wait}{clear}	
 roev02.06D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.06E6	はい、なんですか？{wait}{clear}	Yes, what is it?{wait}{clear}	
 roev02.06FC	ロクス	Rocus	speaker
-roev02.0706	なぜ、帰ってしまったのです？{wait}{clear}ひょっとして{n}天使様には刺激が強すぎたのですか？{wait}{clear}		
+roev02.0706	なぜ、帰ってしまったのです？{wait}{clear}ひょっとして{n}天使様には刺激が強すぎたのですか？{wait}{clear}	Why did you go home?{wait}{clear}Was it perhaps a little too stimulating for{n}an angel?{wait}{clear}	
 roev02.075A	ＮＵＬＬ	NULL	speaker
 roev02.076A	《…………。》{n}	......{n}	
-roev02.0780	《羽目をはずしすぎるのも……》{n}		
+roev02.0780	《羽目をはずしすぎるのも……》{n}	Going a little too wild...{n}	
 roev02.07AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.07BA	…………。{wait}{clear}	.........{wait}{clear}	
 roev02.07D6	ロクス	Rocus	speaker
-roev02.07E0	おっと、失礼。{n}怒っているのですか？{wait}{clear}		
+roev02.07E0	おっと、失礼。{n}怒っているのですか？{wait}{clear}	Oops, my apologies. Are you angry?{wait}{clear}	
 roev02.0808	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0818	いいえ、少しあきれてしまっただけです。{wait}{clear}		
+roev02.0818	いいえ、少しあきれてしまっただけです。{wait}{clear}	No, I was just a little appalled.{wait}{clear}	
 roev02.0850	ロクス	Rocus	speaker
-roev02.085A	ははは、手厳しいですね。{n}だが、僕はこんな男なんですよ。{wait}{clear}		
-roev02.08A2	もし、それが気にくわないのなら、{n}二度と僕にかまわないでくださいね。{wait}{clear}じゃあ、もう眠いので。{wait}{clear}また、来たかったら来てください。{n}お休みなさい。{wait}{clear}		
+roev02.085A	ははは、手厳しいですね。{n}だが、僕はこんな男なんですよ。{wait}{clear}	Ha ha ha, you're harsh. But this is the kind{n}of man I am.{wait}{clear}	
+roev02.08A2	もし、それが気にくわないのなら、{n}二度と僕にかまわないでくださいね。{wait}{clear}じゃあ、もう眠いので。{wait}{clear}また、来たかったら来てください。{n}お休みなさい。{wait}{clear}	If that doesn't suit you, then please never{n}bother with me again.{wait}{clear}Well, I'm sleepy now.{wait}{clear}Come by again if you want to. Good night.{wait}{clear}	
 roev02.0942	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0952	羽目をはずしすぎるのは{n}あまりよくないと思いますよ。{wait}{clear}		
+roev02.0952	羽目をはずしすぎるのは{n}あまりよくないと思いますよ。{wait}{clear}	I don't think it's very good to go so wild.{wait}{clear}	
 roev02.0998	ロクス	Rocus	speaker
-roev02.09A2	ははは、真面目なんですね。{wait}{clear}		
-roev02.09CC	あれぐらいのことでなんですか？{n}短い人生なんですから、楽しまないと損でしょう？{wait}{clear}		
-roev02.0A2A	まあ、僕のことが気にくわないのならしかたがない。{n}僕があなたに合わせるつもりはないですから。{wait}{clear}では、用があったらまた来てください。{n}お休みなさい。{wait}{clear}		
+roev02.09A2	ははは、真面目なんですね。{wait}{clear}	Ha ha ha, you're so serious.{wait}{clear}	
+roev02.09CC	あれぐらいのことでなんですか？{n}短い人生なんですから、楽しまないと損でしょう？{wait}{clear}	What, over something like that? Life is{n}short. It's a waste not to enjoy it, don't{n}you think?{wait}{clear}	
+roev02.0A2A	まあ、僕のことが気にくわないのならしかたがない。{n}僕があなたに合わせるつもりはないですから。{wait}{clear}では、用があったらまた来てください。{n}お休みなさい。{wait}{clear}	Well, if you don't like me, there's nothing{n}to be done. I have no intention of changing{n}to suit you.{wait}{clear}Now, if you need anything, come by again.{n}Good night.{wait}{clear}	
 roev02.0ACC	ロクス	Rocus	speaker
-roev02.0AD6	あ、天使様でしたか。{n}今から、ちょっと出かけてきます。{wait}{clear}なにかお話があるのでしたら、{n}また、明日にしてください。{wait}{clear}		
+roev02.0AD6	あ、天使様でしたか。{n}今から、ちょっと出かけてきます。{wait}{clear}なにかお話があるのでしたら、{n}また、明日にしてください。{wait}{clear}	Ah, it's you, Angel. I'm just about to step{n}out for a bit.{wait}{clear}If there's something you want to talk about,{n}please make it tomorrow.{wait}{clear}	
 roev02.0B52	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0B62	あ！　ロクス……！{n}ふう……行ってしまいましたね……。{wait}{clear}		
+roev02.0B62	あ！　ロクス……！{n}ふう……行ってしまいましたね……。{wait}{clear}	Ah! Rocus...! Sigh... He's gone...{wait}{clear}	
 roev02.0B9C	ＮＵＬＬ	NULL	speaker
-roev02.0BAC	《そっとついて行く。》{n}		
-roev02.0BCA	《ついて行かない。》{n}		
+roev02.0BAC	《そっとついて行く。》{n}	Quietly follow him{n}	
+roev02.0BCA	《ついて行かない。》{n}	Don't follow him{n}	
 roev02.0BEA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0BFA	どこへ行くのか気になります……。{n}ついて行ってみましょう。{wait}{clear}		
+roev02.0BFA	どこへ行くのか気になります……。{n}ついて行ってみましょう。{wait}{clear}	I wonder where he's going... Let's try{n}following him.{wait}{clear}	
 roev02.0C5A	酒場の女達	Tavern Girls	speaker
-roev02.0C68	私たち、ずっと待っていたのよ、{n}どうしてしばらく来てくれなかったのぉ？{wait}{clear}		
+roev02.0C68	私たち、ずっと待っていたのよ、{n}どうしてしばらく来てくれなかったのぉ？{wait}{clear}	We've been waiting for you all this time.{n}Why didn't you come for so long?{wait}{clear}	
 roev02.0CB2	ロクス	Rocus	speaker
-roev02.0CBC	ん、ああ、ちょっと忙しかったんだ。{n}今夜は楽しもう。{wait}{clear}		
+roev02.0CBC	ん、ああ、ちょっと忙しかったんだ。{n}今夜は楽しもう。{wait}{clear}	Hm? Oh, I've just been a little busy. Let's{n}have fun tonight.{wait}{clear}	
 roev02.0CF4	酒場の女達	Tavern Girls	speaker
-roev02.0D02	ほんと？{wait}{clear}じゃあ、ロクスさまぁ、もっと飲みましょう？{wait}{clear}		
+roev02.0D02	ほんと？{wait}{clear}じゃあ、ロクスさまぁ、もっと飲みましょう？{wait}{clear}	Really?{wait}{clear}Then, Rocus-samaaa, let's drink some more!{wait}{clear}	
 roev02.0D3C	ロクス	Rocus	speaker
-roev02.0D46	ああ、もっと持ってきてくれ！{n}みんな、僕のおごりだ、楽しんでくれ！{wait}{clear}		
+roev02.0D46	ああ、もっと持ってきてくれ！{n}みんな、僕のおごりだ、楽しんでくれ！{wait}{clear}	Yes, bring more! It's on me, everyone, enjoy{n}yourselves!{wait}{clear}	
 roev02.0D8C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0D9C	ロクス……大丈夫でしょうか……。{wait}{clear}		
+roev02.0D9C	ロクス……大丈夫でしょうか……。{wait}{clear}	Rocus... I wonder if he's all right...{wait}{clear}	
 roev02.0DCA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.0DDA	行くところは、だいたいわかりますけど……{n}大丈夫でしょうか……。{wait}{clear}		
+roev02.0DDA	行くところは、だいたいわかりますけど……{n}大丈夫でしょうか……。{wait}{clear}	I can more or less guess where he's going...{n}but will he be all right...?{wait}{clear}	

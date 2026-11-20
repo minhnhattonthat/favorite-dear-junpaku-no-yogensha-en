@@ -1,53 +1,53 @@
 id	jp	en	notes
-visit_01.003C	０１＿００{wait}{clear}		
-visit_01.0056	０１＿００{wait}{clear}		
-visit_01.0070	０１＿０１{wait}{clear}		
-visit_01.008A	０２＿００{wait}{clear}		
-visit_01.00A4	０２＿０１{wait}{clear}		
-visit_01.00BE	０３＿００{wait}{clear}		
-visit_01.00D8	０３＿０１{wait}{clear}		
-visit_01.00F2	０４＿００{wait}{clear}		
-visit_01.010C	０４＿０１{wait}{clear}		
-visit_01.0126	０５＿００{wait}{clear}０５＿０１		
-visit_01.015A	０６＿００{wait}{clear}		
-visit_01.0174	０６＿０１{wait}{clear}		
-visit_01.018E	０７＿００{wait}{clear}		
-visit_01.01A8	０７＿０１{wait}{clear}		
-visit_01.01C2	０８＿００{wait}{clear}		
-visit_01.01DC	０８＿０１{wait}{clear}		
-visit_01.01F6	０９＿００{wait}{clear}		
-visit_01.0210	０９＿０１{wait}{clear}		
-visit_01.022A	１１＿００{wait}{clear}		
-visit_01.0244	１１＿０１{wait}{clear}		
-visit_01.025E	１２＿００{wait}{clear}		
-visit_01.0278	１２＿０１{wait}{clear}		
-visit_01.0292	１６＿０１{wait}{clear}		
-visit_01.02AC	１６＿０２{wait}{clear}		
-visit_01.02C6	１９＿００{wait}{clear}		
-visit_01.02E0	１９＿０１{wait}{clear}		
-visit_01.02FA	２０＿００{wait}{clear}		
-visit_01.0314	２０＿０１{wait}{clear}		
-visit_01.032E	２１＿００{wait}{clear}		
-visit_01.0348	２２＿０１{wait}{clear}		
-visit_01.0362	２３＿００{wait}{clear}		
-visit_01.037C	２３＿０１{wait}{clear}		
-visit_01.0396	２４＿００{wait}{clear}		
-visit_01.03B0	２４＿０１{wait}{clear}		
-visit_01.03CA	２５＿００{wait}{clear}		
-visit_01.03E4	２５＿０１{wait}{clear}		
-visit_01.03FE	２６＿００{wait}{clear}		
-visit_01.0418	２６＿０１{wait}{clear}		
-visit_01.0432	２８＿００{wait}{clear}		
-visit_01.044C	２８＿０１{wait}{clear}		
-visit_01.0466	２９＿００{wait}{clear}		
-visit_01.0480	２９＿０１{wait}{clear}		
-visit_01.049A	３０＿００{wait}{clear}		
-visit_01.04B4	３０＿０１{wait}{clear}		
-visit_01.04CE	３１＿００{wait}{clear}		
-visit_01.04E8	３１＿０１{wait}{clear}		
-visit_01.0502	３２＿００{wait}{clear}		
-visit_01.051C	３２＿０１{wait}{clear}		
-visit_01.0536	３３＿００{wait}{clear}		
-visit_01.0550	３３＿０１{wait}{clear}		
-visit_01.056A	３４＿００{wait}{clear}		
-visit_01.0584	３５＿００{wait}{clear}		
+visit_01.003C	０１＿００{wait}{clear}	01-00{wait}{clear}	
+visit_01.0056	０１＿００{wait}{clear}	01-00{wait}{clear}	
+visit_01.0070	０１＿０１{wait}{clear}	01-01{wait}{clear}	
+visit_01.008A	０２＿００{wait}{clear}	02-00{wait}{clear}	
+visit_01.00A4	０２＿０１{wait}{clear}	02-01{wait}{clear}	
+visit_01.00BE	０３＿００{wait}{clear}	03-00{wait}{clear}	
+visit_01.00D8	０３＿０１{wait}{clear}	03-01{wait}{clear}	
+visit_01.00F2	０４＿００{wait}{clear}	04-00{wait}{clear}	
+visit_01.010C	０４＿０１{wait}{clear}	04-01{wait}{clear}	
+visit_01.0126	０５＿００{wait}{clear}０５＿０１	05-00{wait}{clear}05-01	
+visit_01.015A	０６＿００{wait}{clear}	06-00{wait}{clear}	
+visit_01.0174	０６＿０１{wait}{clear}	06-01{wait}{clear}	
+visit_01.018E	０７＿００{wait}{clear}	07-00{wait}{clear}	
+visit_01.01A8	０７＿０１{wait}{clear}	07-01{wait}{clear}	
+visit_01.01C2	０８＿００{wait}{clear}	08-00{wait}{clear}	
+visit_01.01DC	０８＿０１{wait}{clear}	08-01{wait}{clear}	
+visit_01.01F6	０９＿００{wait}{clear}	09-00{wait}{clear}	
+visit_01.0210	０９＿０１{wait}{clear}	09-01{wait}{clear}	
+visit_01.022A	１１＿００{wait}{clear}	11-00{wait}{clear}	
+visit_01.0244	１１＿０１{wait}{clear}	11-01{wait}{clear}	
+visit_01.025E	１２＿００{wait}{clear}	12-00{wait}{clear}	
+visit_01.0278	１２＿０１{wait}{clear}	12-01{wait}{clear}	
+visit_01.0292	１６＿０１{wait}{clear}	16-01{wait}{clear}	
+visit_01.02AC	１６＿０２{wait}{clear}	16-02{wait}{clear}	
+visit_01.02C6	１９＿００{wait}{clear}	19-00{wait}{clear}	
+visit_01.02E0	１９＿０１{wait}{clear}	19-01{wait}{clear}	
+visit_01.02FA	２０＿００{wait}{clear}	20-00{wait}{clear}	
+visit_01.0314	２０＿０１{wait}{clear}	20-01{wait}{clear}	
+visit_01.032E	２１＿００{wait}{clear}	21-00{wait}{clear}	
+visit_01.0348	２２＿０１{wait}{clear}	22-01{wait}{clear}	
+visit_01.0362	２３＿００{wait}{clear}	23-00{wait}{clear}	
+visit_01.037C	２３＿０１{wait}{clear}	23-01{wait}{clear}	
+visit_01.0396	２４＿００{wait}{clear}	24-00{wait}{clear}	
+visit_01.03B0	２４＿０１{wait}{clear}	24-01{wait}{clear}	
+visit_01.03CA	２５＿００{wait}{clear}	25-00{wait}{clear}	
+visit_01.03E4	２５＿０１{wait}{clear}	25-01{wait}{clear}	
+visit_01.03FE	２６＿００{wait}{clear}	26-00{wait}{clear}	
+visit_01.0418	２６＿０１{wait}{clear}	26-01{wait}{clear}	
+visit_01.0432	２８＿００{wait}{clear}	28-00{wait}{clear}	
+visit_01.044C	２８＿０１{wait}{clear}	28-01{wait}{clear}	
+visit_01.0466	２９＿００{wait}{clear}	29-00{wait}{clear}	
+visit_01.0480	２９＿０１{wait}{clear}	29-01{wait}{clear}	
+visit_01.049A	３０＿００{wait}{clear}	30-00{wait}{clear}	
+visit_01.04B4	３０＿０１{wait}{clear}	30-01{wait}{clear}	
+visit_01.04CE	３１＿００{wait}{clear}	31-00{wait}{clear}	
+visit_01.04E8	３１＿０１{wait}{clear}	31-01{wait}{clear}	
+visit_01.0502	３２＿００{wait}{clear}	32-00{wait}{clear}	
+visit_01.051C	３２＿０１{wait}{clear}	32-01{wait}{clear}	
+visit_01.0536	３３＿００{wait}{clear}	33-00{wait}{clear}	
+visit_01.0550	３３＿０１{wait}{clear}	33-01{wait}{clear}	
+visit_01.056A	３４＿００{wait}{clear}	34-00{wait}{clear}	
+visit_01.0584	３５＿００{wait}{clear}	35-00{wait}{clear}	

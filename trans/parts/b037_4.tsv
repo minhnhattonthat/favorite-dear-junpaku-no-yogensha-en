@@ -1,0 +1,44 @@
+visit_01.02FA	20-00{wait}{clear}
+visit_01.0314	20-01{wait}{clear}
+visit_01.032E	21-00{wait}{clear}
+visit_01.0348	22-01{wait}{clear}
+visit_01.0362	23-00{wait}{clear}
+visit_01.037C	23-01{wait}{clear}
+visit_01.0396	24-00{wait}{clear}
+visit_01.03B0	24-01{wait}{clear}
+visit_01.03CA	25-00{wait}{clear}
+visit_01.03E4	25-01{wait}{clear}
+visit_01.03FE	26-00{wait}{clear}
+visit_01.0418	26-01{wait}{clear}
+visit_01.0432	28-00{wait}{clear}
+visit_01.044C	28-01{wait}{clear}
+visit_01.0466	29-00{wait}{clear}
+visit_01.0480	29-01{wait}{clear}
+visit_01.049A	30-00{wait}{clear}
+visit_01.04B4	30-01{wait}{clear}
+visit_01.04CE	31-00{wait}{clear}
+visit_01.04E8	31-01{wait}{clear}
+visit_01.0502	32-00{wait}{clear}
+visit_01.051C	32-01{wait}{clear}
+visit_01.0536	33-00{wait}{clear}
+visit_01.0550	33-01{wait}{clear}
+visit_01.056A	34-00{wait}{clear}
+visit_01.0584	35-00{wait}{clear}
+visit_02.0054	Visiting Irene{wait}{clear}
+Y01ev_01.0044	I wonder if Rosa is getting proper rest...{wait}{clear}
+Y01ev_01.0080	Eeeek!{wait}{clear}
+Y01ev_01.009E	Huh? What was that?{wait}{clear}
+Y01ev_01.00BE	Eek, eek! Angel, please help me!{wait}{clear}
+Y01ev_01.00FC	Y-Yes! I'm coming right now!{wait}{clear}
+Y01ev_01.0150	Oh, Angel, you came.{wait}{clear}
+Y01ev_01.018A	What in the world happened, Rosa? What's going on?{wait}{clear}
+Y01ev_01.01D8	W-Well... the morning dew was so beautiful... I was lost in admiring it, and then this happened...{wait}{clear}
+Y01ev_01.0242	I see. I'll get you out right now.{wait}{clear}
+Y01ev_01.0286	I am sorry, Angel... Thank you very much.{wait}{clear}
+Y01ev_01.02D0	But it's a good thing the spider wasn't home.{wait}{clear}
+Y01ev_01.0308	Yes, truly... The very thought of a spider being there makes me shudder.{wait}{clear}
+Y01ev_01.0360	There, you're free now.{wait}{clear}
+Y01ev_01.03A6	Oh, thank goodness... Angel, thank you so very much.{wait}{clear}
+Y01ev_01.03FE	Not at all, you're welcome. It was fun to see an unexpected side of you, Rosa.{wait}{clear}
+Y01ev_01.045A	Oh, Angel, please do not tease me.{n}{wait}{clear}
+Y01ev_01.0496	But it is embarrassing, so please keep this a secret from everyone.{wait}{clear}

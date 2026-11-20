@@ -1,45 +1,45 @@
 id	jp	en	notes
 roev09_02.0052	ロクス	Rocus	speaker
 roev09_02.005C	…………。{wait}{clear}	.........{wait}{clear}	
-roev09_02.006A	ゼアム大司教		speaker
-roev09_02.007A	失礼します、副教皇。{wait}{clear}まず、副教皇のお話の前に。{n}一つ、確認しておきたいのです。{wait}{clear}		
+roev09_02.006A	ゼアム大司教	Zeam	speaker
+roev09_02.007A	失礼します、副教皇。{wait}{clear}まず、副教皇のお話の前に。{n}一つ、確認しておきたいのです。{wait}{clear}	Excuse me, Vice Pope.{wait}{clear}Before you speak, there is one thing I wish{n}to confirm.{wait}{clear}	
 roev09_02.00D0	副教皇	Vice Pope	speaker
-roev09_02.00DA	確認？{wait}{clear}		
-roev09_02.00E4	ゼアム大司教		speaker
-roev09_02.00F4	そうです……{n}奪われた秘宝のことです。{wait}{clear}あの魔石が{n}帝国の軍事力増大の原因だという話があります。{wait}{clear}帝国が紅月王の名をかたり、{n}伝説をよみがえらそうとしているのは{n}もう明らか……{wait}{clear}		
-roev09_02.01AC	アズリア大司教		speaker
-roev09_02.01BE	つまり……秘宝が奪われたからこそ、{n}こんな事態を招いたのでは？{wait}{clear}我々の聖都が失われたのですぞ……。{n}千年守り続けた、あの聖都が……{wait}{clear}そしてその責任は副教皇と教皇候補である{n}ロクスにあるのではありませんか？{wait}{clear}		
-roev09_02.0292	ゼアム大司教		speaker
-roev09_02.02A2	なぜ、最高の秘密である宝玉が{n}敵に奪われてしまったのか？{n}まずそれを説明していただきたいのです。{wait}{clear}		
+roev09_02.00DA	確認？{wait}{clear}	Confirm?{wait}{clear}	
+roev09_02.00E4	ゼアム大司教	Zeam	speaker
+roev09_02.00F4	そうです……{n}奪われた秘宝のことです。{wait}{clear}あの魔石が{n}帝国の軍事力増大の原因だという話があります。{wait}{clear}帝国が紅月王の名をかたり、{n}伝説をよみがえらそうとしているのは{n}もう明らか……{wait}{clear}	Yes... It concerns the stolen treasure.{wait}{clear}It's said that the Demon Stone is behind the{n}Empire's growing military might.{wait}{clear}It is already clear that the Empire, using{n}the Crimson Moon King's name, means to{n}revive the legend...{wait}{clear}	
+roev09_02.01AC	アズリア大司教	Azuria	speaker
+roev09_02.01BE	つまり……秘宝が奪われたからこそ、{n}こんな事態を招いたのでは？{wait}{clear}我々の聖都が失われたのですぞ……。{n}千年守り続けた、あの聖都が……{wait}{clear}そしてその責任は副教皇と教皇候補である{n}ロクスにあるのではありませんか？{wait}{clear}	In other words... wasn't it the theft of the{n}treasure that brought this about?{wait}{clear}Our Holy City has been lost... the Holy City{n}we guarded for a thousand years...{wait}{clear}And doesn't the responsibility lie with you,{n}Vice Pope, and with Rocus, the candidate for{n}Pope?{wait}{clear}	
+roev09_02.0292	ゼアム大司教	Zeam	speaker
+roev09_02.02A2	なぜ、最高の秘密である宝玉が{n}敵に奪われてしまったのか？{n}まずそれを説明していただきたいのです。{wait}{clear}	How was the sacred jewel, our greatest{n}secret, stolen by the enemy? We would like{n}you to explain that first.{wait}{clear}	
 roev09_02.0306	副教皇	Vice Pope	speaker
-roev09_02.0310	魔石が実際に帝国に渡ったのか……{n}私は確認してはいない。{wait}{clear}しかし帝国には魔導士が暗躍しているとの{n}情報は得ている。{wait}{clear}そして……魔石を奪われたことに{n}弁解するつもりはない。{wait}{clear}現に秘宝は奪われ、戻ってきておらず、{n}聖都は陥れられてしまったのだから。{wait}{clear}しかしだ……{n}今は、そのことで自分が枢機卿でもあるあなた方と、{n}争うことはできない。{wait}{clear}今の帝国の力に対抗する方策を{n}考えなければならないのだ。{wait}{clear}今、我々が一致しなければ、それこそ帝国の前に{n}我が教会は滅ぼされてしまうだろう。{wait}{clear}		
-roev09_02.04F6	ライアン枢機卿		speaker
-roev09_02.0508	わかっております……それは。{n}副教皇……{wait}{clear}あなたの長きにわたる教会への貢献、指導力は{n}ここにいるすべての司教、司祭が知っています。{wait}{clear}そのあなたをここで弾劾しようとする者は{n}おりますまい。{wait}{clear}ただ、確認をしたいのです……。{n}やはり、あのロクスが魔石を……{n}秘宝を持ち出したのか。{wait}{clear}		
+roev09_02.0310	魔石が実際に帝国に渡ったのか……{n}私は確認してはいない。{wait}{clear}しかし帝国には魔導士が暗躍しているとの{n}情報は得ている。{wait}{clear}そして……魔石を奪われたことに{n}弁解するつもりはない。{wait}{clear}現に秘宝は奪われ、戻ってきておらず、{n}聖都は陥れられてしまったのだから。{wait}{clear}しかしだ……{n}今は、そのことで自分が枢機卿でもあるあなた方と、{n}争うことはできない。{wait}{clear}今の帝国の力に対抗する方策を{n}考えなければならないのだ。{wait}{clear}今、我々が一致しなければ、それこそ帝国の前に{n}我が教会は滅ぼされてしまうだろう。{wait}{clear}	I have not confirmed... that the Demon Stone{n}actually went to the Empire.{wait}{clear}But I have word that mages are working in{n}the shadows of the Empire.{wait}{clear}And... I do not intend to make excuses for{n}the Demon Stone's theft.{wait}{clear}The treasure was taken and has not come{n}back, and the Holy City has fallen.{wait}{clear}However... I cannot quarrel with you over{n}this now, you who are cardinals as well.{wait}{clear}We must think of a way to stand against the{n}Empire's power as it is now.{wait}{clear}If we do not unite now, our Church will{n}surely be destroyed before the Empire.{wait}{clear}	
+roev09_02.04F6	ライアン枢機卿	Ryan	speaker
+roev09_02.0508	わかっております……それは。{n}副教皇……{wait}{clear}あなたの長きにわたる教会への貢献、指導力は{n}ここにいるすべての司教、司祭が知っています。{wait}{clear}そのあなたをここで弾劾しようとする者は{n}おりますまい。{wait}{clear}ただ、確認をしたいのです……。{n}やはり、あのロクスが魔石を……{n}秘宝を持ち出したのか。{wait}{clear}	We understand that, Vice Pope...{wait}{clear}Every bishop and priest here knows of your{n}long service to the Church, and your{n}leadership.{wait}{clear}No one here would seek to impeach you.{wait}{clear}We only wish to confirm... whether that{n}Rocus did, in fact, take the Demon Stone...{n}the treasure.{wait}{clear}	
 roev09_02.0624	副教皇	Vice Pope	speaker
-roev09_02.062E	違う、秘宝の事にロクスは関係ない。{n}その事について、私は彼に会って確認した……。{wait}{clear}まだ、彼は若い。{n}過去の行いも、そしていまの行いも{n}好ましいものとは言えないが……。{wait}{clear}未だ彼はこの教会ただ一人の次期教皇候補なのだ。{wait}{clear}彼は教会を裏切るようなことはしていないし、{n}これからもありえない。{wait}{clear}これは彼の後見人でもある私が保証する。{wait}{clear}		
-roev09_02.077C	ゼアム大司教		speaker
-roev09_02.078C	……では、敵の魔導士の力か……{wait}{clear}		
-roev09_02.07AE	アズリア大司教		speaker
-roev09_02.07C0	どうすればいいのだ……{n}西方の戦では悪魔の形をした怪物が{n}帝国軍の中にいるとも聞いた……{wait}{clear}……なんとか和解できないものか？{wait}{clear}		
-roev09_02.0840	ライアン枢機卿		speaker
-roev09_02.0852	帝国の、ましてや紅月王復活を願う者と、{n}和平などできん……。{wait}{clear}		
-roev09_02.0892	アズリア大司教		speaker
-roev09_02.08A4	そんな……{n}では、このまま我々は滅ぼされるのを待つのか？{wait}{clear}		
+roev09_02.062E	違う、秘宝の事にロクスは関係ない。{n}その事について、私は彼に会って確認した……。{wait}{clear}まだ、彼は若い。{n}過去の行いも、そしていまの行いも{n}好ましいものとは言えないが……。{wait}{clear}未だ彼はこの教会ただ一人の次期教皇候補なのだ。{wait}{clear}彼は教会を裏切るようなことはしていないし、{n}これからもありえない。{wait}{clear}これは彼の後見人でもある私が保証する。{wait}{clear}	No. Rocus has nothing to do with the{n}treasure. I met with him and confirmed it...{wait}{clear}He is still young. His past conduct, and his{n}present conduct, can hardly be called{n}admirable, but...{wait}{clear}He is still the one and only candidate to be{n}the next Pope of this Church.{wait}{clear}He has done nothing to betray the Church,{n}nor will he ever.{wait}{clear}I, as his guardian, vouch for that.{wait}{clear}	
+roev09_02.077C	ゼアム大司教	Zeam	speaker
+roev09_02.078C	……では、敵の魔導士の力か……{wait}{clear}	...Then it was the power of the enemy's{n}mages...{wait}{clear}	
+roev09_02.07AE	アズリア大司教	Azuria	speaker
+roev09_02.07C0	どうすればいいのだ……{n}西方の戦では悪魔の形をした怪物が{n}帝国軍の中にいるとも聞いた……{wait}{clear}……なんとか和解できないものか？{wait}{clear}	What are we to do...? I heard there were{n}monsters shaped like devils among the{n}imperial army in the western war...{wait}{clear}...Is there no way to make peace?{wait}{clear}	
+roev09_02.0840	ライアン枢機卿	Ryan	speaker
+roev09_02.0852	帝国の、ましてや紅月王復活を願う者と、{n}和平などできん……。{wait}{clear}	There can be no peace with the Empire, much{n}less with those who wish for the Crimson{n}Moon King's return...{wait}{clear}	
+roev09_02.0892	アズリア大司教	Azuria	speaker
+roev09_02.08A4	そんな……{n}では、このまま我々は滅ぼされるのを待つのか？{wait}{clear}	But... then are we to simply wait to be{n}destroyed?{wait}{clear}	
 roev09_02.08E0	副教皇	Vice Pope	speaker
-roev09_02.08EA	今は耐える時だ。{n}帝国の力も未だなぞが多い。{wait}{clear}まだ、この地へ侵攻する様子はない。{n}しばし、帝国の情勢を見極めよう。{wait}{clear}		
+roev09_02.08EA	今は耐える時だ。{n}帝国の力も未だなぞが多い。{wait}{clear}まだ、この地へ侵攻する様子はない。{n}しばし、帝国の情勢を見極めよう。{wait}{clear}	Now is the time to endure. Much about the{n}Empire's power is still a mystery.{wait}{clear}They show no sign yet of invading this land.{n}Let us watch the Empire's situation for a{n}while.{wait}{clear}	
 roev09_02.0962	ロクス	Rocus	speaker
 roev09_02.096C	…………。{wait}{clear}	.........{wait}{clear}	
 roev09_02.0996	ロクス	Rocus	speaker
-roev09_02.09A0	……教会を裏切るようなことはない……か。{wait}{clear}よく言うよ……{n}このていたらくな僕を知りながらね……。{wait}{clear}		
+roev09_02.09A0	……教会を裏切るようなことはない……か。{wait}{clear}よく言うよ……{n}このていたらくな僕を知りながらね……。{wait}{clear}	"...He would never betray the Church," was{n}it?{wait}{clear}Easy to say... when he knows what a sorry{n}mess I am...{wait}{clear}	
 roev09_02.0A06	ＮＵＬＬ	NULL	speaker
-roev09_02.0A16	《副教皇はあなたを信じている》{n}		
-roev09_02.0A3C	《いい加減に……》{n}		
+roev09_02.0A16	《副教皇はあなたを信じている》{n}	The Vice Pope believes in you{n}	
+roev09_02.0A3C	《いい加減に……》{n}	That's enough...{n}	
 roev09_02.0A56	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev09_02.0A66	ロクス……{n}副教皇は信じているのですよ、あなたを。{wait}{clear}		
+roev09_02.0A66	ロクス……{n}副教皇は信じているのですよ、あなたを。{wait}{clear}	Rocus... The Vice Pope believes in you, you{n}know.{wait}{clear}	
 roev09_02.0A9C	ロクス	Rocus	speaker
-roev09_02.0AA6	ふん、違うね……。{n}ああでも言わなきゃ収拾がつかないから言ったのさ。{wait}{clear}この状況で、{n}僕のせいで秘宝が奪われたなんて公表すれば、{n}教会は崩壊するからな。{wait}{clear}この地上に教皇はいないことになるから……。{n}それほど……僕の力は神聖視されてるのさ……。{wait}{clear}心底くだらない……。{n}茶番だ、あんなのは。{wait}{clear}		
+roev09_02.0AA6	ふん、違うね……。{n}ああでも言わなきゃ収拾がつかないから言ったのさ。{wait}{clear}この状況で、{n}僕のせいで秘宝が奪われたなんて公表すれば、{n}教会は崩壊するからな。{wait}{clear}この地上に教皇はいないことになるから……。{n}それほど……僕の力は神聖視されてるのさ……。{wait}{clear}心底くだらない……。{n}茶番だ、あんなのは。{wait}{clear}	Hmph, no, he doesn't... He said that only{n}because nothing else would settle things.{wait}{clear}If he announced now that the treasure was{n}stolen because of me, the Church would{n}collapse.{wait}{clear}There would be no Pope left on this earth...{n}That's how sacred they consider my power...{wait}{clear}It's utterly ridiculous... A farce, all of{n}it.{wait}{clear}	
 roev09_02.0BDC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev09_02.0BEC	ロクスいい加減にしてください。{n}あなたがそんなことでどうするのです？{wait}{clear}多くの人が……苦しみながら{n}戦おうとしているときに……。{wait}{clear}		
+roev09_02.0BEC	ロクスいい加減にしてください。{n}あなたがそんなことでどうするのです？{wait}{clear}多くの人が……苦しみながら{n}戦おうとしているときに……。{wait}{clear}	Rocus, that's enough. What good does it do{n}for you to be like this?{wait}{clear}When so many people... are suffering and{n}trying to fight...{wait}{clear}	
 roev09_02.0C70	ロクス	Rocus	speaker
-roev09_02.0C7A	ご立派なお言葉だね。{n}だけど、僕にそれがなんの関係がある？{wait}{clear}		
-roev09_02.0CC4	どうだっていいだろ。{n}自分以外のことなんて！{wait}{clear}僕には……他人なんて……{wait}{clear}そんなものこれっぽっちも関係ない！{wait}{clear}		
+roev09_02.0C7A	ご立派なお言葉だね。{n}だけど、僕にそれがなんの関係がある？{wait}{clear}	What admirable words. But what does any of{n}that have to do with me?{wait}{clear}	
+roev09_02.0CC4	どうだっていいだろ。{n}自分以外のことなんて！{wait}{clear}僕には……他人なんて……{wait}{clear}そんなものこれっぽっちも関係ない！{wait}{clear}	Who cares, as long as it's not about me?!{wait}{clear}Other people... to me...{wait}{clear}they don't matter one bit!{wait}{clear}	

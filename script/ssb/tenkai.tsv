@@ -10,9 +10,9 @@ tenkai.015A	ラファエル様！　ラファエル様っ！！！{wait}{clear}	
 tenkai.0194	ラファエル	Raphael	speaker
 tenkai.01A2	＄＄＄＄＄＄、{n}そんなに慌てて、どうしたのですか？{n}{wait}{clear}	＄＄＄＄＄＄, what's the matter, in such a{n}hurry?{n}{wait}{clear}	
 tenkai.01E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.01F2	ラファエル様……{n}勇者クライヴが死にました……。{n}{wait}{clear}彼は、自分の中の吸血鬼の血の誘惑に{n}ずっと耐えていたのです……。{n}{wait}{clear}それなのに……彼はその血に負け、{n}他の勇者の手によって、倒されました。{n}私の言葉も、まったく届くことなく……。{wait}{clear}		
+tenkai.01F2	ラファエル様……{n}勇者クライヴが死にました……。{n}{wait}{clear}彼は、自分の中の吸血鬼の血の誘惑に{n}ずっと耐えていたのです……。{n}{wait}{clear}それなのに……彼はその血に負け、{n}他の勇者の手によって、倒されました。{n}私の言葉も、まったく届くことなく……。{wait}{clear}	Lord Raphael... The hero Clive has died...{n}{wait}{clear}He had long resisted the lure of the vampire{n}blood within him...{n}{wait}{clear}And yet... he gave in to that blood, and was{n}struck down by another hero. My words never{n}reached him at all...{wait}{clear}	
 tenkai.02E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.02F4	ラファエル様……{n}勇者フェインが死にました……。{n}{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}		
+tenkai.02F4	ラファエル様……{n}勇者フェインが死にました……。{n}{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}	Lord Raphael... The hero Fein has died...{n}{wait}{clear}To save his wife, whose soul was taken by a{n}devil because of a spell he cast, and to{n}atone for his sin...{wait}{clear}	
 tenkai.0384	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 tenkai.0394	私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}	I couldn't save him... because my own power{n}wasn't enough.{wait}{clear}But, Lord Raphael, I don't understand{n}anymore.{wait}{clear}Is it really right for angels to force{n}humans to fight, the way I'm doing now?{wait}{clear}	
 tenkai.048A	ラファエル	Raphael	speaker
@@ -58,7 +58,7 @@ tenkai.0CFE	私たち大天使が、{n}なによりもしなくてはならな�
 tenkai.0D74	ラファエル	Raphael	speaker
 tenkai.0D82	サタンが天界の門をくぐり、{n}神の御座に手をかけたときこそが{n}すべての世界の破滅です。{wait}{clear}それだけは、たとえどんなことがあろうとも{n}はばまなければいけないのです。{wait}{clear}	The moment Satan passes through the gate of{n}the Heavens and lays a hand on God's throne,{n}every world will be destroyed.{wait}{clear}That alone we must prevent, whatever{n}happens.{wait}{clear}	
 tenkai.0E26	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-tenkai.0E36	それは、わかっています。{n}私たちがサタンと戦う理由は……。{wait}{clear}ですが、それと人とのあいだに{n}なにか関係あるというのですか？{n}戦ってもらう理由にはならないと……{wait}{clear}		
+tenkai.0E36	それは、わかっています。{n}私たちがサタンと戦う理由は……。{wait}{clear}ですが、それと人とのあいだに{n}なにか関係あるというのですか？{n}戦ってもらう理由にはならないと……{wait}{clear}	I understand that. The reason we fight{n}Satan...{wait}{clear}But what does that have to do with humans?{n}It's no reason to make them fight...{wait}{clear}	
 tenkai.0EE2	ラファエル	Raphael	speaker
 tenkai.0EF0	あなたは忘れてしまったようですね。{n}人の血筋のことを……。{n}人は、誰から生まれたのかを……。{wait}{clear}	It seems you have forgotten. The lineage of{n}humans... From whom were humans born...?{wait}{clear}	
 tenkai.0F50	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

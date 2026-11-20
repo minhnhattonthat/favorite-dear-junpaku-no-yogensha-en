@@ -1,117 +1,117 @@
 id	jp	en	notes
 roev12.0048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0058	ロクス、今日もお酒ですか……？{wait}{clear}		
+roev12.0058	ロクス、今日もお酒ですか……？{wait}{clear}	Rocus, drinking again today...?{wait}{clear}	
 roev12.007A	ロクス	Rocus	speaker
-roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}		
+roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}	Oh, ＄＄＄＄＄＄. How about it, want a drink{n}too?{wait}{clear}I'm not in the mood for raising a ruckus{n}today. Drinking man to man for once might{n}not be bad.{wait}{clear}	
 roev12.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0124	そうですか……？{wait}{clear}		
+roev12.0124	そうですか……？{wait}{clear}	Is that so...?{wait}{clear}	
 roev12.0138	ＮＵＬＬ	NULL	speaker
-roev12.0148	《わかりました、おつき合いします。》{n}		
-roev12.0174	《やっぱりお酒はちょっと……。》{n}		
+roev12.0148	《わかりました、おつき合いします。》{n}	All right, I'll keep you company{n}	
+roev12.0174	《やっぱりお酒はちょっと……。》{n}	I'd rather not drink...{n}	
 roev12.01A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.01B8	わかりました。{n}ロクスがそう言うのなら、おつき合いします。{wait}{clear}		
+roev12.01B8	わかりました。{n}ロクスがそう言うのなら、おつき合いします。{wait}{clear}	All right. If you say so, Rocus, I'll keep{n}you company.{wait}{clear}	
 roev12.0204	ロクス	Rocus	speaker
-roev12.020E	じゃあ、人の姿になれよ。{n}行こう。{wait}{clear}		
+roev12.020E	じゃあ、人の姿になれよ。{n}行こう。{wait}{clear}	Then take human form. Let's go.{wait}{clear}	
 roev12.0250	ロクス	Rocus	speaker
-roev12.025A	バカをしていることは自分でわかってるさ。{n}ただ……自分じゃどうにもならない。{n}なにか納得できないから、いつも無茶をしてしまう。{wait}{clear}		
+roev12.025A	バカをしていることは自分でわかってるさ。{n}ただ……自分じゃどうにもならない。{n}なにか納得できないから、いつも無茶をしてしまう。{wait}{clear}	I know I'm acting like a fool. It's just...{n}I can't help myself. Something never sits{n}right with me, so I always go too far.{wait}{clear}	
 roev12.02DC	ＮＵＬＬ	NULL	speaker
-roev12.02EC	《そうでしょうか……。》{n}		
-roev12.030C	《それを望んでいるのですか？》{n}		
+roev12.02EC	《そうでしょうか……。》{n}	Is that really so...?{n}	
+roev12.030C	《それを望んでいるのですか？》{n}	Is that what you want?{n}	
 roev12.0338	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0348	そうでしょうか……。{n}ただ、あなたは甘えているのではないですか？{wait}{clear}		
+roev12.0348	そうでしょうか……。{n}ただ、あなたは甘えているのではないですか？{wait}{clear}	Is that really so...? Aren't you just being{n}spoiled?{wait}{clear}	
 roev12.039A	ロクス	Rocus	speaker
-roev12.03A4	きびしいな……{n}ああ、確かにそうさ……{n}俺は自分一人じゃなにもできない……。{wait}{clear}たいした人間じゃない。{n}だからいらだってる……。{wait}{clear}		
-roev12.0436	人に当たって、酒に逃げて……{n}まわりからの期待からも逃げてる……。{wait}{clear}		
+roev12.03A4	きびしいな……{n}ああ、確かにそうさ……{n}俺は自分一人じゃなにもできない……。{wait}{clear}たいした人間じゃない。{n}だからいらだってる……。{wait}{clear}	That's harsh... Yes, you're right... I can't{n}do anything on my own...{wait}{clear}I'm no great man. That's why I'm so{n}frustrated...{wait}{clear}	
+roev12.0436	人に当たって、酒に逃げて……{n}まわりからの期待からも逃げてる……。{wait}{clear}	Taking it out on others, running to drink...{n}running from what everyone expects of me...{wait}{clear}	
 roev12.047C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.048C	いいえ、ロクス、{n}あなたは弱い人ではないと思いますよ……。{wait}{clear}ただ、自分が本当はどんな人間なのか、{n}それを知らないだけです……。{n}私はそう思います。{wait}{clear}		
+roev12.048C	いいえ、ロクス、{n}あなたは弱い人ではないと思いますよ……。{wait}{clear}ただ、自分が本当はどんな人間なのか、{n}それを知らないだけです……。{n}私はそう思います。{wait}{clear}	No, Rocus, I don't think you're a weak{n}person...{wait}{clear}You just don't know what kind of person you{n}really are... That's what I think.{wait}{clear}	
 roev12.052E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.053E	あなたは本当にそれを望んでいるのですか？{wait}{clear}		
+roev12.053E	あなたは本当にそれを望んでいるのですか？{wait}{clear}	Is that truly what you want?{wait}{clear}	
 roev12.056A	ロクス	Rocus	speaker
-roev12.0574	望んじゃあいないさ……べつにな……。{wait}{clear}		
+roev12.0574	望んじゃあいないさ……べつにな……。{wait}{clear}	I don't want it... not really...{wait}{clear}	
 roev12.059C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.05AC	では、いつか変わることができると思いますよ。{n}ロクスは。{wait}{clear}		
+roev12.05AC	では、いつか変わることができると思いますよ。{n}ロクスは。{wait}{clear}	Then I think someday you'll be able to{n}change, Rocus.{wait}{clear}	
 roev12.05E8	ロクス	Rocus	speaker
-roev12.05F2	いいかげんな断言だな。{wait}{clear}		
+roev12.05F2	いいかげんな断言だな。{wait}{clear}	That's a careless thing to declare.{wait}{clear}	
 roev12.060C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.061C	いいえ、いいかげんに言っているのではありません。{wait}{clear}今は、あなたは自分が本当はどんな人間なのかを{n}知らないだけだと……そう思っているのです。{wait}{clear}		
+roev12.061C	いいえ、いいかげんに言っているのではありません。{wait}{clear}今は、あなたは自分が本当はどんな人間なのかを{n}知らないだけだと……そう思っているのです。{wait}{clear}	No, I'm not saying it carelessly.{wait}{clear}I just think that, right now, you don't know{n}what kind of person you really are.{wait}{clear}	
 roev12.06AC	ロクス	Rocus	speaker
-roev12.06B6	自分のことが完全にわかるヤツなどいるものか……{wait}{clear}		
+roev12.06B6	自分のことが完全にわかるヤツなどいるものか……{wait}{clear}	As if anyone could understand themselves{n}completely...{wait}{clear}	
 roev12.06E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.06F8	たしかに自分のことを知るのは{n}むずかしいことかもしれません。{wait}{clear}でも、知ろうとすれば、{n}少しずつ、わかってゆくはずです。{wait}{clear}たとえ迷い、間違いながらであっても……。{n}それが生きるということだと……思います。{wait}{clear}		
+roev12.06F8	たしかに自分のことを知るのは{n}むずかしいことかもしれません。{wait}{clear}でも、知ろうとすれば、{n}少しずつ、わかってゆくはずです。{wait}{clear}たとえ迷い、間違いながらであっても……。{n}それが生きるということだと……思います。{wait}{clear}	It may certainly be hard to know yourself.{wait}{clear}But if you try to know, you should{n}understand little by little.{wait}{clear}Even if you lose your way and make{n}mistakes... I think that's what living is.{wait}{clear}	
 roev12.07D8	ロクス	Rocus	speaker
-roev12.07E2	天使のお前に人の生き方を説教されるとは……。{wait}{clear}		
-roev12.081E	天使の考えに迷いなんてないのかと思ったがな。{wait}{clear}		
+roev12.07E2	天使のお前に人の生き方を説教されるとは……。{wait}{clear}	To think an angel like you would lecture me{n}on how humans should live...{wait}{clear}	
+roev12.081E	天使の考えに迷いなんてないのかと思ったがな。{wait}{clear}	I thought angels never had any doubts.{wait}{clear}	
 roev12.084E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.085E	私たちは魂だけの存在であっても、{n}考え方は人となんら変わりはありません。{wait}{clear}		
+roev12.085E	私たちは魂だけの存在であっても、{n}考え方は人となんら変わりはありません。{wait}{clear}	Even though we exist only as souls, we think{n}no differently from humans.{wait}{clear}	
 roev12.08B8	ロクス	Rocus	speaker
-roev12.08C2	……そういえば……{n}悪魔はたしか昔天使だったという{n}神話を聞いたことがあるな……。{wait}{clear}		
+roev12.08C2	……そういえば……{n}悪魔はたしか昔天使だったという{n}神話を聞いたことがあるな……。{wait}{clear}	...Come to think of it... I've heard a myth{n}that devils were once angels...{wait}{clear}	
 roev12.0918	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0928	そうです……。{n}多くの天使が欲望に負け、天を追放されました。{wait}{clear}		
+roev12.0928	そうです……。{n}多くの天使が欲望に負け、天を追放されました。{wait}{clear}	That's right... Many angels gave in to{n}desire and were cast out of the Heavens.{wait}{clear}	
 roev12.0968	ロクス	Rocus	speaker
-roev12.0972	天使でさえ、悩み、{n}欲望と戦っているというのか……？{wait}{clear}		
-roev12.09B8	ふん、俺ごときがこうなのもしかたないのかもな。{wait}{clear}		
+roev12.0972	天使でさえ、悩み、{n}欲望と戦っているというのか……？{wait}{clear}	You mean even angels worry, and fight their{n}desires...?{wait}{clear}	
+roev12.09B8	ふん、俺ごときがこうなのもしかたないのかもな。{wait}{clear}	Hmph, then maybe it can't be helped that{n}someone like me is like this.{wait}{clear}	
 roev12.09EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.09FA	少しは気が楽になりましたか？　ロクス？{wait}{clear}		
+roev12.09FA	少しは気が楽になりましたか？　ロクス？{wait}{clear}	Do you feel a little better now, Rocus?{wait}{clear}	
 roev12.0A24	ロクス	Rocus	speaker
-roev12.0A2E	ふん！　さあな……。{wait}{clear}もうこんな話はヤメだ。{n}飲んで、もっとくだらん話をしよう。{wait}{clear}		
+roev12.0A2E	ふん！　さあな……。{wait}{clear}もうこんな話はヤメだ。{n}飲んで、もっとくだらん話をしよう。{wait}{clear}	Hmph! Who knows...{wait}{clear}Enough of this talk. Let's drink and talk{n}about stupider things.{wait}{clear}	
 roev12.0AA6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0AB6	もっと飲んでくださいよ～。{n}私の酒は飲めないって言うんじゃないでしょうね。{wait}{clear}		
+roev12.0AB6	もっと飲んでくださいよ～。{n}私の酒は飲めないって言うんじゃないでしょうね。{wait}{clear}	Drink some more~. Don't tell me you won't{n}drink with me~.{wait}{clear}	
 roev12.0B04	ロクス	Rocus	speaker
-roev12.0B0E	おい、なんだよ。{n}少し飲み過ぎたんじゃないのか？{wait}{clear}		
+roev12.0B0E	おい、なんだよ。{n}少し飲み過ぎたんじゃないのか？{wait}{clear}	Hey, what's with you? Haven't you had a bit{n}too much?{wait}{clear}	
 roev12.0B42	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0B52	そんなことないですよ～。{n}なんだか、とっても楽しいです～！{wait}{clear}それに～、大変なんですからね、私だって～。{n}たまにはいいですよね～。{n}少しくらい羽目をはずしても～。{wait}{clear}		
-roev12.0C04	まえの任務のときだって、{n}もう、あれはヤダ～、これはヤダ～って{n}ロクスみたいにわがままな人がいて～。{wait}{clear}ここでは、ロクスって人がいて～。{n}も～、大変で大変で～。{wait}{clear}		
+roev12.0B52	そんなことないですよ～。{n}なんだか、とっても楽しいです～！{wait}{clear}それに～、大変なんですからね、私だって～。{n}たまにはいいですよね～。{n}少しくらい羽目をはずしても～。{wait}{clear}	Not at all~. Somehow I'm having so much{n}fun~!{wait}{clear}And besides~, I have it tough too, you{n}know~. Once in a while it's fine, right~?{n}Letting loose a little~.{wait}{clear}	
+roev12.0C04	まえの任務のときだって、{n}もう、あれはヤダ～、これはヤダ～って{n}ロクスみたいにわがままな人がいて～。{wait}{clear}ここでは、ロクスって人がいて～。{n}も～、大変で大変で～。{wait}{clear}	On my last mission too, there was this{n}selfish person, "I hate this~, I hate{n}that~," just like you, Rocus~.{wait}{clear}And here, there's this person called Rocus~.{n}Ohh~, it's so tough, so tough~.{wait}{clear}	
 roev12.0CA8	ロクス	Rocus	speaker
-roev12.0CB2	＄＄＄＄＄＄、本当に大丈夫か？{n}{wait}{clear}		
+roev12.0CB2	＄＄＄＄＄＄、本当に大丈夫か？{n}{wait}{clear}	＄＄＄＄＄＄, are you really all right?{n}{wait}{clear}	
 roev12.0CD6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0CE6	あははは～。{n}平気ですよ、このくらい～。{n}あれ、ロクス、なんの話してたんでしたっけ？{wait}{clear}		
+roev12.0CE6	あははは～。{n}平気ですよ、このくらい～。{n}あれ、ロクス、なんの話してたんでしたっけ？{wait}{clear}	Ahahaha~. I'm fine, this much is nothing~.{n}Huh, Rocus, what were we talking about{n}again?{wait}{clear}	
 roev12.0D3E	ロクス	Rocus	speaker
-roev12.0D48	……そろそろ正体がなくなってきたな。{n}出るぞ、＄＄＄＄＄＄。{wait}{clear}		
+roev12.0D48	……そろそろ正体がなくなってきたな。{n}出るぞ、＄＄＄＄＄＄。{wait}{clear}	...You're starting to lose it. We're{n}leaving, ＄＄＄＄＄＄.{wait}{clear}	
 roev12.0D88	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0D98	そうですね、戻りましょうか～。{n}ロクスはお酒、飲み過ぎですからね～。{wait}{clear}		
+roev12.0D98	そうですね、戻りましょうか～。{n}ロクスはお酒、飲み過ぎですからね～。{wait}{clear}	You're right, let's go back~. You drink way{n}too much, Rocus~.{wait}{clear}	
 roev12.0DE0	ロクス	Rocus	speaker
-roev12.0DEA	なんだよ……。{wait}{clear}おい！？{n}羽が見えてるぞ、平気なのか？{wait}{clear}		
+roev12.0DEA	なんだよ……。{wait}{clear}おい！？{n}羽が見えてるぞ、平気なのか？{wait}{clear}	Look who's talking...{wait}{clear}Hey!? Your wings are showing, is that all{n}right?{wait}{clear}	
 roev12.0E26	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0E36	だいじょ～ぶ、ですぅ……。{n}フツーの人には見えていませんよ～。{wait}{clear}たぶん……。{wait}{clear}		
+roev12.0E36	だいじょ～ぶ、ですぅ……。{n}フツーの人には見えていませんよ～。{wait}{clear}たぶん……。{wait}{clear}	I'm fi~ne... Ordinary people can't see{n}them~.{wait}{clear}Probably...{wait}{clear}	
 roev12.0E88	ロクス	Rocus	speaker
-roev12.0E92	……おいおい。{n}まあ、いい出よう。{wait}{clear}		
+roev12.0E92	……おいおい。{n}まあ、いい出よう。{wait}{clear}	...Oh, come on. Well, fine, let's go.{wait}{clear}	
 roev12.0ED4	ロクス	Rocus	speaker
-roev12.0EDE	宿屋に帰ってきたぞ、＄＄＄＄＄＄。{n}どうするんだ？　戻れるのか？{wait}{clear}		
+roev12.0EDE	宿屋に帰ってきたぞ、＄＄＄＄＄＄。{n}どうするんだ？　戻れるのか？{wait}{clear}	We're back at the inn, ＄＄＄＄＄＄. What{n}now? Can you get back?{wait}{clear}	
 roev12.0F22	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0F32	はい？　戻れますよ。{n}ぜ～んぜん、大丈夫です～。{wait}{clear}ほ～ら、体も消せますし……。{wait}{clear}		
+roev12.0F32	はい？　戻れますよ。{n}ぜ～んぜん、大丈夫です～。{wait}{clear}ほ～ら、体も消せますし……。{wait}{clear}	Hm? Of course I can. I'm totally,{n}compleeetely fine~.{wait}{clear}See~? I can make my body vanish too...{wait}{clear}	
 roev12.0F86	ロクス	Rocus	speaker
-roev12.0F90	……ちっとも消えてないぞ。{wait}{clear}		
+roev12.0F90	……ちっとも消えてないぞ。{wait}{clear}	...You're not vanishing one bit.{wait}{clear}	
 roev12.0FAE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.0FBE	……あれ……。{n}気のせいじゃないですか～？{wait}{clear}		
+roev12.0FBE	……あれ……。{n}気のせいじゃないですか～？{wait}{clear}	...Huh... Isn't that just your imagination~?{wait}{clear}	
 roev12.0FFA	ロクス	Rocus	speaker
-roev12.1004	もう、かまってられん……。{n}僕は寝るぞ、あとは勝手にしろ！{wait}{clear}		
+roev12.1004	もう、かまってられん……。{n}僕は寝るぞ、あとは勝手にしろ！{wait}{clear}	I can't deal with you anymore... I'm going{n}to bed. Do whatever you want!{wait}{clear}	
 roev12.1046	ロクス	Rocus	speaker
 roev12.1050	…………。{wait}{clear}	.........{wait}{clear}	
 roev12.105E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.106E	ＺＺＺＺＺＺＺＺ……。{wait}{clear}		
+roev12.106E	ＺＺＺＺＺＺＺＺ……。{wait}{clear}	Zzzzzzzz...{wait}{clear}	
 roev12.1088	ロクス	Rocus	speaker
-roev12.1092	……ったく。{wait}{clear}		
+roev12.1092	……ったく。{wait}{clear}	...Honestly.{wait}{clear}	
 roev12.10A8	ロクス	Rocus	speaker
-roev12.10B2	おい、起きろ！{wait}{clear}		
+roev12.10B2	おい、起きろ！{wait}{clear}	Hey, wake up!{wait}{clear}	
 roev12.10DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.10EE	……はい？{wait}{clear}		
+roev12.10EE	……はい？{wait}{clear}	...Hm?{wait}{clear}	
 roev12.10FC	ロクス	Rocus	speaker
-roev12.1106	いつまで寝てるんだ？{wait}{clear}		
+roev12.1106	いつまで寝てるんだ？{wait}{clear}	How long are you going to sleep?{wait}{clear}	
 roev12.111E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.112E	あ、あれ？{n}どうしてここにロクスが？{wait}{clear}		
+roev12.112E	あ、あれ？{n}どうしてここにロクスが？{wait}{clear}	Huh? Wh-Why is Rocus here?{wait}{clear}	
 roev12.1156	ロクス	Rocus	speaker
-roev12.1160	ノー天気だな。{n}飲んだこと、覚えているか？{wait}{clear}		
+roev12.1160	ノー天気だな。{n}飲んだこと、覚えているか？{wait}{clear}	Without a care in the world, huh. Do you{n}remember drinking?{wait}{clear}	
 roev12.118E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.119E	はい？{n}ええ、お酒を飲んだことですよね。{wait}{clear}ちゃんと覚えてますよ。{n}えっと、ロクスの話を聞いて……それから……{wait}{clear}……それから……{wait}{clear}……覚えてません……。{n}あの……私、なにかしたんでしょうか？{wait}{clear}		
+roev12.119E	はい？{n}ええ、お酒を飲んだことですよね。{wait}{clear}ちゃんと覚えてますよ。{n}えっと、ロクスの話を聞いて……それから……{wait}{clear}……それから……{wait}{clear}……覚えてません……。{n}あの……私、なにかしたんでしょうか？{wait}{clear}	Hm? Oh, yes, drinking, right.{wait}{clear}I remember it perfectly. Um, I listened to{n}Rocus talk... and then...{wait}{clear}...and then...{wait}{clear}...I don't remember... Um... did I do{n}something?{wait}{clear}	
 roev12.1264	ロクス	Rocus	speaker
-roev12.126E	僕のベッドに寝ていたんだ。{n}自分でちゃんと考えてみたらどうだ？{wait}{clear}		
+roev12.126E	僕のベッドに寝ていたんだ。{n}自分でちゃんと考えてみたらどうだ？{wait}{clear}	You were asleep in my bed. Why don't you{n}think about it yourself?{wait}{clear}	
 roev12.12B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.12C0	え？　ここで寝てしまったんですか？{n}……すみません。{wait}{clear}……あ！{n}とするとずいぶん時間がたってしまったのですね。{n}やらなくてはいけないことが……！{wait}{clear}失礼します！！{wait}{clear}		
+roev12.12C0	え？　ここで寝てしまったんですか？{n}……すみません。{wait}{clear}……あ！{n}とするとずいぶん時間がたってしまったのですね。{n}やらなくてはいけないことが……！{wait}{clear}失礼します！！{wait}{clear}	Huh? I fell asleep here...? I'm sorry.{wait}{clear}...Ah! Then a lot of time must have passed.{n}There are things I have to do...!{wait}{clear}Excuse me!!{wait}{clear}	
 roev12.1376	ロクス	Rocus	speaker
-roev12.1380	おい！　ちょっと待て！！{wait}{clear}		
-roev12.13AA	……やれやれ、あいつめ。{n}人のことをとやかく言えないぞ……。{wait}{clear}		
+roev12.1380	おい！　ちょっと待て！！{wait}{clear}	Hey! Wait a minute!!{wait}{clear}	
+roev12.13AA	……やれやれ、あいつめ。{n}人のことをとやかく言えないぞ……。{wait}{clear}	...Good grief, that one. No right to lecture{n}anyone else...{wait}{clear}	
 roev12.13FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev12.140A	やっぱりお酒はちょっと……。{n}ロクスも少しお酒から離れた方がいいと思いますよ。{wait}{clear}		
+roev12.140A	やっぱりお酒はちょっと……。{n}ロクスも少しお酒から離れた方がいいと思いますよ。{wait}{clear}	I'd rather not drink... I think you should{n}stay away from drinking for a while too,{n}Rocus.{wait}{clear}	
 roev12.146A	ロクス	Rocus	speaker
-roev12.1474	ふん……あいかわらず、かたぶつだな。{wait}{clear}		
-roev12.14A8	ま、いい……{n}たまには一人で静かに飲むさ。{wait}{clear}じゃあな。{wait}{clear}		
+roev12.1474	ふん……あいかわらず、かたぶつだな。{wait}{clear}	Hmph... Stiff as ever.{wait}{clear}	
+roev12.14A8	ま、いい……{n}たまには一人で静かに飲むさ。{wait}{clear}じゃあな。{wait}{clear}	Oh, well... I'll drink quietly alone for{n}once.{wait}{clear}See you.{wait}{clear}	

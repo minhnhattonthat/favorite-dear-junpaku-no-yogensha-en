@@ -1,7 +1,7 @@
 id	jp	en	notes
 roev16.00EE	ロクス	Rocus	speaker
-roev16.00FC	ヴァイパー、お前！{wait}{clear}		
+roev16.00FC	ヴァイパー、お前！{wait}{clear}	Viper, you!{wait}{clear}	
 roev16.0112	クラレンス	Clarence	speaker
-roev16.0124	はははは、ロクス。{n}お前はほんと、お人好しだよ。{wait}{clear}		
-roev16.015C	……気をつけろ{n}かすり傷ですまない場合もある……。{wait}{clear}		
-roev16.0196	じゃあな、楽しかったぜ……。{wait}{clear}		
+roev16.0124	はははは、ロクス。{n}お前はほんと、お人好しだよ。{wait}{clear}	Ha ha ha ha, Rocus. You really are a soft{n}touch.{wait}{clear}	
+roev16.015C	……気をつけろ{n}かすり傷ですまない場合もある……。{wait}{clear}	...Be careful. Sometimes it's more than a{n}scratch...{wait}{clear}	
+roev16.0196	じゃあな、楽しかったぜ……。{wait}{clear}	See ya. It was fun...{wait}{clear}	

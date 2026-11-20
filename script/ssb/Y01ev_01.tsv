@@ -1,40 +1,40 @@
 id	jp	en	notes
 Y01ev_01.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.0044	ローザはちゃんと休んでいるでしょうか……。{wait}{clear}		
+Y01ev_01.0044	ローザはちゃんと休んでいるでしょうか……。{wait}{clear}	I wonder if Rosa is getting proper rest...{wait}{clear}	
 Y01ev_01.0072	ローザ	Rosa	speaker
-Y01ev_01.0080	きゃーっ！{wait}{clear}		
+Y01ev_01.0080	きゃーっ！{wait}{clear}	Eeeek!{wait}{clear}	
 Y01ev_01.008E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.009E	え？　今のは？{wait}{clear}		
+Y01ev_01.009E	え？　今のは？{wait}{clear}	Huh? What was that?{wait}{clear}	
 Y01ev_01.00B0	ローザ	Rosa	speaker
-Y01ev_01.00BE	きゃあ、きゃぁ、天使様、助けてくださいっ！{wait}{clear}		
+Y01ev_01.00BE	きゃあ、きゃぁ、天使様、助けてくださいっ！{wait}{clear}	Eek, eek! Angel, please help me!{wait}{clear}	
 Y01ev_01.00EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.00FC	は、はい！　今、行きますっ！{wait}{clear}		
+Y01ev_01.00FC	は、はい！　今、行きますっ！{wait}{clear}	Y-Yes! I'm coming right now!{wait}{clear}	
 Y01ev_01.0142	ローザ	Rosa	speaker
-Y01ev_01.0150	ああ、天使様、来てくださったんですね。{wait}{clear}		
+Y01ev_01.0150	ああ、天使様、来てくださったんですね。{wait}{clear}	Oh, Angel, you came.{wait}{clear}	
 Y01ev_01.017A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.018A	いったい、どうしたのですか、ローザ？{n}なにがおこったのです？{wait}{clear}		
+Y01ev_01.018A	いったい、どうしたのですか、ローザ？{n}なにがおこったのです？{wait}{clear}	What in the world happened, Rosa? What's{n}going on?{wait}{clear}	
 Y01ev_01.01CA	ローザ	Rosa	speaker
-Y01ev_01.01D8	あ、あの……{n}朝露があまりにも美しくて……。{n}思わず見とれていたら、こんなことに……。{wait}{clear}		
+Y01ev_01.01D8	あ、あの……{n}朝露があまりにも美しくて……。{n}思わず見とれていたら、こんなことに……。{wait}{clear}	W-Well... the morning dew was so{n}beautiful... I was lost in admiring it, and{n}then this happened...{wait}{clear}	
 Y01ev_01.0232	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.0242	そうだったんですか。{n}今、はずしてあげますからね。{wait}{clear}		
+Y01ev_01.0242	そうだったんですか。{n}今、はずしてあげますからね。{wait}{clear}	I see. I'll get you out right now.{wait}{clear}	
 Y01ev_01.0278	ローザ	Rosa	speaker
-Y01ev_01.0286	すいません、天使様……ありがとうございます。{wait}{clear}		
+Y01ev_01.0286	すいません、天使様……ありがとうございます。{wait}{clear}	I am sorry, Angel... Thank you very much.{wait}{clear}	
 Y01ev_01.02C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.02D0	でも、よかったですね、クモがいなくて。{wait}{clear}		
+Y01ev_01.02D0	でも、よかったですね、クモがいなくて。{wait}{clear}	But it's a good thing the spider wasn't{n}home.{wait}{clear}	
 Y01ev_01.02FA	ローザ	Rosa	speaker
-Y01ev_01.0308	ええ、本当に……。{n}クモがいたなんて思ったら、ぞっとしてしまいます。{wait}{clear}		
+Y01ev_01.0308	ええ、本当に……。{n}クモがいたなんて思ったら、ぞっとしてしまいます。{wait}{clear}	Yes, truly... The very thought of a spider{n}being there makes me shudder.{wait}{clear}	
 Y01ev_01.0350	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.0360	はい、もう大丈夫ですよ。{wait}{clear}		
+Y01ev_01.0360	はい、もう大丈夫ですよ。{wait}{clear}	There, you're free now.{wait}{clear}	
 Y01ev_01.0398	ローザ	Rosa	speaker
-Y01ev_01.03A6	はぁ、よかった……。{n}天使様、本当にありがとうございました。{wait}{clear}		
+Y01ev_01.03A6	はぁ、よかった……。{n}天使様、本当にありがとうございました。{wait}{clear}	Oh, thank goodness... Angel, thank you so{n}very much.{wait}{clear}	
 Y01ev_01.03EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.03FE	いえ、どういたしまして。{n}ローザの意外な一面が見られて、楽しかったですよ。{wait}{clear}		
+Y01ev_01.03FE	いえ、どういたしまして。{n}ローザの意外な一面が見られて、楽しかったですよ。{wait}{clear}	Not at all, you're welcome. It was fun to{n}see an unexpected side of you, Rosa.{wait}{clear}	
 Y01ev_01.044C	ローザ	Rosa	speaker
-Y01ev_01.045A	そんな、天使様、からかわないでください。{n}{wait}{clear}		
+Y01ev_01.045A	そんな、天使様、からかわないでください。{n}{wait}{clear}	Oh, Angel, please do not tease me.{n}{wait}{clear}	
 Y01ev_01.0488	ローザ	Rosa	speaker
-Y01ev_01.0496	でも、恥ずかしいので、{n}このことは、みんなには{n}内緒にしておいてくださいね。{wait}{clear}		
+Y01ev_01.0496	でも、恥ずかしいので、{n}このことは、みんなには{n}内緒にしておいてくださいね。{wait}{clear}	But it is embarrassing, so please keep this{n}a secret from everyone.{wait}{clear}	
 Y01ev_01.04E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.04F6	はい、わかりました。{wait}{clear}		
+Y01ev_01.04F6	はい、わかりました。{wait}{clear}	Yes, I understand.{wait}{clear}	
 Y01ev_01.0518	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y01ev_01.0528	いえ、どういたしまして。{wait}{clear}		
 Y01ev_01.0544	ローザ	Rosa	speaker

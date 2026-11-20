@@ -1,46 +1,46 @@
 id	jp	en	notes
-roev05_01.0012	第０５節「副教皇」		speaker
+roev05_01.0012	第０５節「副教皇」	Vice Pope	speaker
 roev05_01.006A	ロクス	Rocus	speaker
-roev05_01.0074	悪いが、ちょっと用ができた……。{n}聖都に戻ってもかまわないか？{wait}{clear}		
+roev05_01.0074	悪いが、ちょっと用ができた……。{n}聖都に戻ってもかまわないか？{wait}{clear}	Sorry, but something's come up... Would you{n}mind if we went back to the Holy City?{wait}{clear}	
 roev05_01.00B6	ＮＵＬＬ	NULL	speaker
 roev05_01.00C6	《ええ、かまいません。》{n}	Yes, that's fine.{n}	
-roev05_01.00E6	《ちょっと、いまは……》{n}		
+roev05_01.00E6	《ちょっと、いまは……》{n}	Not right now...{n}	
 roev05_01.010C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev05_01.011C	ええ、かまいませんよ。{wait}{clear}	Yes, I don't mind at all.{wait}{clear}	
 roev05_01.0136	ロクス	Rocus	speaker
-roev05_01.0140	すまないな……。{wait}{clear}副教皇がなにか話があるらしい。{n}面倒だがしかたない。{wait}{clear}		
+roev05_01.0140	すまないな……。{wait}{clear}副教皇がなにか話があるらしい。{n}面倒だがしかたない。{wait}{clear}	Sorry...{wait}{clear}The Vice Pope apparently has something to{n}discuss. It's a bother, but it can't be{n}helped.{wait}{clear}	
 roev05_01.0192	ＮＵＬＬ	NULL	speaker
-roev05_01.01A2	《なにかあったのですか？》{n}		
-roev05_01.01C4	《副教皇という方は……》{n}		
+roev05_01.01A2	《なにかあったのですか？》{n}	Did something happen?{n}	
+roev05_01.01C4	《副教皇という方は……》{n}	This Vice Pope...{n}	
 roev05_01.01EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev05_01.01FA	なにかあったのですか？{wait}{clear}	Did something happen?{wait}{clear}	
 roev05_01.021C	ロクス	Rocus	speaker
-roev05_01.0226	べつに、たいしたことじゃない……。{wait}{clear}		
+roev05_01.0226	べつに、たいしたことじゃない……。{wait}{clear}	Nothing, nothing important...{wait}{clear}	
 roev05_01.0250	ロクス	Rocus	speaker
-roev05_01.025A	詳しくは直接、話したいそうだ。{n}使者はそう言っていた。{wait}{clear}		
+roev05_01.025A	詳しくは直接、話したいそうだ。{n}使者はそう言っていた。{wait}{clear}	He wants to tell me the details in person.{n}That's what the messenger said.{wait}{clear}	
 roev05_01.0294	ＮＵＬＬ	NULL	speaker
-roev05_01.02A4	《心当たりはあるのですか？》{n}		
-roev05_01.02C8	《またお金のことですか？》{n}		
+roev05_01.02A4	《心当たりはあるのですか？》{n}	Do you have any idea why?{n}	
+roev05_01.02C8	《またお金のことですか？》{n}	Is it about money again?{n}	
 roev05_01.02F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.0300	なにか、心当たりはあるのですか？{wait}{clear}		
+roev05_01.0300	なにか、心当たりはあるのですか？{wait}{clear}	Do you have any idea what it might be?{wait}{clear}	
 roev05_01.0324	ロクス	Rocus	speaker
-roev05_01.032E	さあね。{n}ありすぎてわからない。{wait}{clear}		
-roev05_01.035E	ただ……{wait}{clear}		
+roev05_01.032E	さあね。{n}ありすぎてわからない。{wait}{clear}	Who knows? There are too many possibilities{n}to say.{wait}{clear}	
+roev05_01.035E	ただ……{wait}{clear}	Only...{wait}{clear}	
 roev05_01.036A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.037A	なにか気になることでも？{wait}{clear}		
+roev05_01.037A	なにか気になることでも？{wait}{clear}	Is something bothering you?{wait}{clear}	
 roev05_01.03A2	ロクス	Rocus	speaker
-roev05_01.03AC	いや……{n}それは会えばわかることだな……。{wait}{clear}		
+roev05_01.03AC	いや……{n}それは会えばわかることだな……。{wait}{clear}	No... I'll find out when I see him...{wait}{clear}	
 roev05_01.03DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.03EE	またお金のことですか？{wait}{clear}		
+roev05_01.03EE	またお金のことですか？{wait}{clear}	Is it about money again?{wait}{clear}	
 roev05_01.0414	ロクス	Rocus	speaker
-roev05_01.041E	ふん、かもしれないな。{n}まあ、いまさらだ……そんなことだったら。{wait}{clear}		
+roev05_01.041E	ふん、かもしれないな。{n}まあ、いまさらだ……そんなことだったら。{wait}{clear}	Hmph, it might be. Well, if that's all it{n}is, it's nothing new...{wait}{clear}	
 roev05_01.0472	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.0482	副教皇とは、どういう方なのですか？{wait}{clear}		
+roev05_01.0482	副教皇とは、どういう方なのですか？{wait}{clear}	What sort of person is the Vice Pope?{wait}{clear}	
 roev05_01.04A8	ロクス	Rocus	speaker
-roev05_01.04B2	もうずいぶん長い間、{n}不在の教皇の代わりに教会を率いている人だ。{wait}{clear}聖職者の中の聖職者だな……。{wait}{clear}		
-roev05_01.0522	ま、僕は会えば毎回、説教だ。{wait}{clear}今度もそうだろう……。{wait}{clear}		
+roev05_01.04B2	もうずいぶん長い間、{n}不在の教皇の代わりに教会を率いている人だ。{wait}{clear}聖職者の中の聖職者だな……。{wait}{clear}	He's led the Church in place of the absent{n}Pope for a very long time now.{wait}{clear}The cleric of clerics, I suppose...{wait}{clear}	
+roev05_01.0522	ま、僕は会えば毎回、説教だ。{wait}{clear}今度もそうだろう……。{wait}{clear}	Well, every time I see him, I get a sermon.{wait}{clear}This time will be no different...{wait}{clear}	
 roev05_01.056C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev05_01.057C	なにかあるかもしれません。{n}また、今度にしてもらえませんか？{wait}{clear}		
+roev05_01.057C	なにかあるかもしれません。{n}また、今度にしてもらえませんか？{wait}{clear}	Something may happen. Couldn't you ask him{n}to make it another time?{wait}{clear}	
 roev05_01.05C8	ロクス	Rocus	speaker
-roev05_01.05D2	悪いが、副教皇の呼び出しを断るわけにはいかない。{wait}{clear}僕だって面倒さ……{wait}{clear}		
-roev05_01.0628	まあ、いい{n}勝手に行かせてもらうよ。{wait}{clear}不満なら、僕を君の勇者とやらから{n}はずしてもらってかまわん。{wait}{clear}		
+roev05_01.05D2	悪いが、副教皇の呼び出しを断るわけにはいかない。{wait}{clear}僕だって面倒さ……{wait}{clear}	Sorry, but I can't refuse a summons from the{n}Vice Pope.{wait}{clear}It's a bother for me too...{wait}{clear}	
+roev05_01.0628	まあ、いい{n}勝手に行かせてもらうよ。{wait}{clear}不満なら、僕を君の勇者とやらから{n}はずしてもらってかまわん。{wait}{clear}	Well, fine. I'll go as I please.{wait}{clear}If you don't like it, feel free to drop me{n}from your list of heroes or whatever they{n}are.{wait}{clear}	
