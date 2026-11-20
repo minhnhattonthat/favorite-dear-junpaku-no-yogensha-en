@@ -142,8 +142,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Next (phase 7):** done-when: build green with the width/overflow lint clean, control codes matched, `romdiff.py`
   shows no writes outside allowed ranges. Work: relocate the 451 EXE/overlay rows `merge` holds back (English longer
   than the JP; sites known via `codetext.strings()` refs), the name-tag table (heaven tag ラファエル still JP), the
-  runtime placeholder value tables (hero/fairy names, EvName titles, regions), rebalance one-word orphan pages from
-  the wrap, find the script buffer size before more scripts grow, check rfd2 sentence fragments in game.
+  runtime placeholder value tables (hero/fairy names, EvName titles, regions; the wrap still counts a ＜...＞
+  placeholder as its 5-6 JP characters, not the substituted English name's width), find the script buffer size
+  before more scripts grow, check rfd2 sentence fragments in game. DONE 2026-11-21 (15th worker): orphan pages:
+  `batches.wrap` breaks an overflowing page at the latest sentence end that fills 2+ lines, else joins a lone short
+  last line with the line before (`tests/test_wrap.py`); 177 rows rewrapped, short last pages 135 -> 4, page count
+  unchanged; build + check.py (40) + smoke green (sha1 c13b00b5...), `warp.py --event laev14.ssb` OK.
   Cuts to revisit when the name-tag table is relocated (D4, review Minor 2): 帝国兵 "Soldier", 帝国戦士 "Warrior",
   第10節「王暗殺」 "Regicide" and the other 12-letter name-tag / chapter-label shortenings in the glossary notes;
   restore the full forms if the relocated table allows, else waive each in polish.md with the reason.
