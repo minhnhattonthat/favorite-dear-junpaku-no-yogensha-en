@@ -188,7 +188,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
   --out-dir work/qa/cover`) and `tools/textcover.py` (maps reads to script/ rows, waivers in docs/text_unshown.tsv;
   EXE strings not watched yet). First test: one event scene; check that loading does not read whole files (memcpy
   would fake full coverage) and that the run speed is usable.
-- **Next (phase 8):** QA in the emulator per the skill's phase 8 done-when (tour sheets + visual-QA verdicts via
+- **Phase 8 progress (2026-11-21, 19th worker):** tour COMPLETE: all 66 scenes in `work/qa/tour` on build
+  da353c51 (tgs_end's proof frame is blank as before; the scene runs). `tools/qa_sheets.py work/qa/tour` writes
+  `qa_sheet*.png` per scene (frames from arrival-300, near-duplicates dropped, full size 3x3), and
+  `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build build/fd2_en.bin --glob "qa_sheet*.png"` made a
+  186-sheet manifest. Verdicts so far: `work/qa/verdicts/w19_001.tsv` (13 sheets: title*, name_entry, load_save p1,
+  omake, album_3 p2, omake_cg p2, demo_menu, prologue p1, tutorial p1, heaven p1, heaven_status p3). Also looked at
+  the final frames of heaven_*/map_*/exam/visit/year1/maseki/load_edited (`work/qa/p8/finals_sheet*.png`): fine
+  except below. **Fixed:** (1) name entry: pro.bin hard-coded the default ラビエル as kana-grid indices (+0x5E4,
+  at 0x8009BF80 and 0x8009D7F4); `asm/pro.asm` (new, `build.patch_pro`) sets "Raviel" and points the commit
+  memcpy(0x8007F480, entry+0x612, 12) at `asm/name.asm` (EXE FREE 0x8001FC00), which turns full-width Latin into
+  pair codes (model + tests: `font_en.name_to_pairs`, `tests/test_name.py`); prologue now says "Raviel, welc..."
+  (`work/qa/p8/name/`). (2) fixture cards: name set to Raviel (save header indices + stored name at data +0x2DC);
+  load list shows "Raviel". (3) heaven Move button "St. Azaria Palace" clipped both ends: budget 14 in
+  `tools/widths.tsv`, now "Azaria Palace" (polish.md). Not bugs: visit_01.ssb lines "29-00" etc. are the
+  original's placeholder ids (JP ２９＿００). **build/fd2_en.bin is still da353c51 (the toured build); the fixes
+  are in `build/fd2_name.bin` (e967f0c9...) only** until the next `build.py`; after all fixes, rebuild fd2_en,
+  re-tour (`warp.py --all -j 1`), `qa_sheets.py`, `qa_gate.py init` again (unchanged sheets keep their verdicts).
+- **Next (phase 8):** read the remaining 173 sheets (`qa_gate.py todo work/qa/manifest.tsv work/qa/verdicts --size
+  20 --out-dir work/qa/chunks`; ~1k tokens per sheet, so ~60 sheets per worker; write `verdicts/w<N>_NNN.tsv`):
+  battles (G3/G4/G7/G8 graphics likely still JP), credits (13 pages, D3: English credits = ENDING.STR FMV work),
+  the 7 endings, game over, tgs_end, ev_*, exam, year1, maseki, end_cecia*. Then the graphics redraws (G3, G4, G8
+  88 plates, G10 album atlas, G9 if used) and the FMV captions/credits (G14/G15).
+  Earlier list: QA in the emulator per the skill's phase 8 done-when (tour sheets + visual-QA verdicts via
   `qa_gate.py`, graphics text G-rows incl. the OMAKE profile panel (stylized-font graphic, still JP), chapter cards,
   game over, credits; `inkbox.py` on choice/menu boxes; stress saves; `textcover.py`). Carried from phase 7: add a
   warp scene that shows a fairy report with placeholders (FryMsg: ＜イベント名＞ / ＜目的地名＞ lines) and check the
