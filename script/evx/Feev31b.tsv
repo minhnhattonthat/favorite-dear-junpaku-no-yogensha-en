@@ -1,7 +1,7 @@
 id	jp	en	notes
 Feev31b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
-Feev31b.00A2	フェイン		unit name (32-byte field)
-Feev31b.00DE	ベルゼバブ		unit name (32-byte field)
+Feev31b.00A2	フェイン	Fein	unit name (32-byte field)
+Feev31b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 Feev31b.011A	天竜		unit name (32-byte field)
 Feev31b.04A8	エンディミオン		speaker
 Feev31b.04C5	どうだ、わかったか？		text
@@ -46,25 +46,25 @@ Feev31b.0ED9	エンディミオン		speaker
 Feev31b.0EF6	私の真の名を呼ぶとは……		text
 Feev31b.0F2D	男の声		speaker
 Feev31b.0F42	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
-Feev31b.0F99	ベルゼバブ		speaker
+Feev31b.0F99	ベルゼバブ	Beelzebub	speaker
 Feev31b.0FB2	その声……この波動は！！		text
-Feev31b.1079	ミカエル		speaker
+Feev31b.1079	ミカエル	Michael	speaker
 Feev31b.1090	久しぶりだな、ハエの王。		text
-Feev31b.10C7	ベルゼバブ		speaker
+Feev31b.10C7	ベルゼバブ	Beelzebub	speaker
 Feev31b.10E0	ミカエル！　ラファエル！		text
-Feev31b.1117	ミカエル		speaker
+Feev31b.1117	ミカエル	Michael	speaker
 Feev31b.112E	遅れてすまなかったな、＄＄＄＄＄＄。		text
-Feev31b.1171	ラファエル		speaker
+Feev31b.1171	ラファエル	Raphael	speaker
 Feev31b.118A	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
 Feev31b.11ED	そして、影にいる堕天使の存在の強大さも……。		text
-Feev31b.1238	ミカエル		speaker
+Feev31b.1238	ミカエル	Michael	speaker
 Feev31b.124F	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
 Feev31b.12AC	やつらを、ともに倒そう。		text
-Feev31b.12E3	ラファエル		speaker
+Feev31b.12E3	ラファエル	Raphael	speaker
 Feev31b.12FC	さあ、勇者よ、よみがえりなさい。		text
-Feev31b.13CF	フェイン		speaker
+Feev31b.13CF	フェイン	Fein	speaker
 Feev31b.13E6	……これは……		text
-Feev31b.1413	ラファエル		speaker
+Feev31b.1413	ラファエル	Raphael	speaker
 Feev31b.142C	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
-Feev31b.147F	ベルゼバブ		speaker
+Feev31b.147F	ベルゼバブ	Beelzebub	speaker
 Feev31b.1498	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text

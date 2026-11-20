@@ -5,14 +5,14 @@ ceev10_02.00F4	ＮＵＬＬ	NULL	speaker
 ceev10_02.0104	《今は無理です。》{n}	Not now.{n}	
 ceev10_02.011E	《わかりました。》{n}	All right.{n}	
 ceev10_02.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev10_02.015A	今の任務をきちんと行って欲しいのですが……。{n}この任務が終わってからではいけませんか？{wait}{clear}		
+ceev10_02.015A	今の任務をきちんと行って欲しいのですが……。{n}この任務が終わってからではいけませんか？{wait}{clear}	I'd like you to carry out your current{n}mission properly... Couldn't it wait until{n}this mission is over?{wait}{clear}	
 ceev10_02.01B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev10_02.01C8	なにか急な事件が起こるかもしれません。{n}なので、できれば森へは行かないで欲しいのですが。{wait}{clear}		
+ceev10_02.01C8	なにか急な事件が起こるかもしれません。{n}なので、できれば森へは行かないで欲しいのですが。{wait}{clear}	Something urgent may come up. So, if you{n}can, I'd rather you didn't go to the forest.{wait}{clear}	
 ceev10_02.0230	セシア	Cecia	speaker
-ceev10_02.023A	わかりました……。{wait}{clear}		
+ceev10_02.023A	わかりました……。{wait}{clear}	I understand...{wait}{clear}	
 ceev10_02.025A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev10_02.026A	セシアにとってはとても心配なことでしょう。{n}森へ行ってもいいですよ。{wait}{clear}		
+ceev10_02.026A	セシアにとってはとても心配なことでしょう。{n}森へ行ってもいいですよ。{wait}{clear}	This must worry you a great deal, Cecia. You{n}may go to the forest.{wait}{clear}	
 ceev10_02.02B2	セシア	Cecia	speaker
-ceev10_02.02BC	ありがとうございます、天使様。{n}では、今度、天使様が訪問されるときに{n}必ずお願いします。{wait}{clear}		
+ceev10_02.02BC	ありがとうございます、天使様。{n}では、今度、天使様が訪問されるときに{n}必ずお願いします。{wait}{clear}	Thank you, Angel. Then, the next time you{n}visit, I'll be sure to ask you.{wait}{clear}	
 ceev10_02.0318	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev10_02.0328	わかりました。{wait}{clear}		
+ceev10_02.0328	わかりました。{wait}{clear}	All right.{wait}{clear}	

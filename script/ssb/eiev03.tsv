@@ -1,23 +1,23 @@
 id	jp	en	notes
-eiev03.003C	アイリーン		speaker
+eiev03.003C	アイリーン	Irene	speaker
 eiev03.004E	ここ、デルフィニア山の近くね。{wait}{clear}		
 eiev03.0070	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev03.0080	デルフィニア山？{wait}{clear}アイリーンがそんな風に言うなんて、{n}なにかいわれのある場所なのですか？{wait}{clear}		
-eiev03.00EC	アイリーン		speaker
+eiev03.00EC	アイリーン	Irene	speaker
 eiev03.00FE	デルフィニア山はね、{n}あの紅月王が魔石を初めて見つけたところよ。{wait}{clear}		
 eiev03.0142	ＮＵＬＬ	NULL	speaker
 eiev03.0152	《紅月王とは？》{n}		
 eiev03.016A	《魔石とは？》{n}		
 eiev03.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev03.0190	紅月王とは誰ですか？{wait}{clear}		
-eiev03.01A8	アイリーン		speaker
+eiev03.01A8	アイリーン	Irene	speaker
 eiev03.01BA	今のグローサイン帝国を建国したといわれてる{n}伝説の皇帝のこと。{wait}{clear}		
 eiev03.0200	銀の髪と赤い目を持ち、{n}深紅の月を紋章にしていて、{n}そう名乗ったと言われているわ。{wait}{clear}		
 eiev03.0260	魔石というのは、なんですか？{wait}{clear}		
-eiev03.0280	アイリーン		speaker
+eiev03.0280	アイリーン	Irene	speaker
 eiev03.0292	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石……と、{n}伝説では語られているわ。{wait}{clear}		
 eiev03.0302	紅月王は若いころ、ここでそれを見つけたの。{wait}{clear}		
-eiev03.0336	アイリーン		speaker
+eiev03.0336	アイリーン	Irene	speaker
 eiev03.0348	ここの話もおじいちゃんはしてくれたわ。{wait}{clear}		
 eiev03.0376	おじいちゃんは魔石こそ魔法のみなもとをさぐる{n}重要なカギだと考えていたから……。{wait}{clear}		
 eiev03.03CE	紅月王が伝説のなかで使っているたくさんの奇跡は{n}その後の魔法の発展に{n}大きな影響を与えたって話してた。{wait}{clear}		

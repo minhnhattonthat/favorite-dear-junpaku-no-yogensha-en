@@ -1,9 +1,9 @@
 id	jp	en	notes
-roev14.00A2	ロクス		unit name (32-byte field)
+roev14.00A2	ロクス	Rocus	unit name (32-byte field)
 roev14.00DE	イオン	Ion	unit name (32-byte field)
 roev14.011A	イオンの母		unit name (32-byte field)
 roev14.0156	ベッド		unit name (32-byte field)
-roev14.0518	ロクス		speaker
+roev14.0518	ロクス	Rocus	speaker
 roev14.052D	＄＄＄＄＄＄、あそこにいる子供……。{n}聖母の森に現れた魔獣使いじゃないか？		text
 roev14.0586	気づいていないのか？{n}追おう、＄＄＄＄＄＄。		text
 roev14.0695	イオン	Ion	speaker
@@ -13,9 +13,9 @@ roev14.0742	村から食べ物を持ってきたんだ……。		text
 roev14.0783	きっともうすぐ、あの人がやってきて{n}母さんを元気にしてくれる……。		text
 roev14.07E4	ぼくとスターンたちで約束の石を{n}探し出してきたんだから。		text
 roev14.083B	必ず、元気になるよ……{n}心配しないで……。{n}そうだ、お水がいるね、くんでくる。		text
-roev14.0938	ロクス		speaker
+roev14.0938	ロクス	Rocus	speaker
 roev14.094D	石？{n}まさか、魔石か？		text
-roev14.09C2	ロクス		speaker
+roev14.09C2	ロクス	Rocus	speaker
 roev14.09D7	これは……		text
 roev14.09F0	あの子は……{n}亡くなったお母さんと話していたのか？		text
 roev14.0A65	イオン	Ion	speaker
@@ -23,7 +23,7 @@ roev14.0A7A	お前！{n}母さんに近づくな！！		text
 roev14.0ACD	……魔石を取り戻しに来たな！		text
 roev14.0B3C	イオン	Ion	speaker
 roev14.0B51	絶対返さないからな……{n}これがあれば、ぼくに力をくれた女の人が{n}母さんを元気にしてくれるんだ……。		text
-roev14.0BC2	ロクス		speaker
+roev14.0BC2	ロクス	Rocus	speaker
 roev14.0BD7	……誰も死者をよみがえらすことなどできない。		text
 roev14.0C12	僕はどんな魔術師にも{n}それができないことを知ってる。		text
 roev14.0C55	君は信じられなくとも……{n}それが真実だ……		text

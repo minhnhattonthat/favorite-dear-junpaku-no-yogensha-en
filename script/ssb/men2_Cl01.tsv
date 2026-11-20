@@ -1,26 +1,26 @@
 id	jp	en	notes
-men2_Cl01.0052	クライヴ		speaker
+men2_Cl01.0052	クライヴ	Clive	speaker
 men2_Cl01.005E	すまない……呼び出して。{wait}{clear}		
 men2_Cl01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl01.008A	いえ、べつに大丈夫です……。{n}あの、なにかお話でも？{wait}{clear}		
-men2_Cl01.00C2	クライヴ		speaker
+men2_Cl01.00C2	クライヴ	Clive	speaker
 men2_Cl01.00CE	ああ……{n}少し時間をもらえないか……？{wait}{clear}		
 men2_Cl01.00F8	ＮＵＬＬ	NULL	speaker
-men2_Cl01.0108	《ええ……。》{n}		
+men2_Cl01.0108	《ええ……。》{n}	Sure...{n}	
 men2_Cl01.011E	《もちろんです。》{n}		
 men2_Cl01.0138	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl01.0148	ええ……。{n}クライヴが呼んでくれたのですから……。{wait}{clear}		
-men2_Cl01.018A	クライヴ		speaker
+men2_Cl01.018A	クライヴ	Clive	speaker
 men2_Cl01.0196	…………。{wait}{clear}そうか……たいしたことではないのだが、{n}少し、話をしようか……。{wait}{clear}		
 men2_Cl01.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl01.01F8	ええ、よろこんで。{wait}{clear}		
-men2_Cl01.020E	クライヴ		speaker
+men2_Cl01.020E	クライヴ	Clive	speaker
 men2_Cl01.021A	……すまない……。{wait}{clear}		
 men2_Cl01.0234	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl01.0244	もちろんです。{n}なにか気になることでもあったのですか？{wait}{clear}		
-men2_Cl01.027E	クライヴ		speaker
+men2_Cl01.027E	クライヴ	Clive	speaker
 men2_Cl01.028A	いや、そういうわけじゃない……。{wait}{clear}ただ、少し話がしたいと思っただけだ……。{n}いいか？{wait}{clear}		
 men2_Cl01.02E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl01.02F4	ええ。{wait}{clear}		
-men2_Cl01.02FE	クライヴ		speaker
+men2_Cl01.02F4	ええ。{wait}{clear}	Of course.{wait}{clear}	
+men2_Cl01.02FE	クライヴ	Clive	speaker
 men2_Cl01.030A	そうか……すまない……。{wait}{clear}		

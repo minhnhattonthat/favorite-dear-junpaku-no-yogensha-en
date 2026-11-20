@@ -1,23 +1,23 @@
 id	jp	en	notes
-clev12_03a.00A2	クライヴ		unit name (32-byte field)
+clev12_03a.00A2	クライヴ	Clive	unit name (32-byte field)
 clev12_03a.00DE	セシア	Cecia	unit name (32-byte field)
 clev12_03a.04F8	セシア	Cecia	speaker
 clev12_03a.050D	また、会えましたね。		text
-clev12_03a.0530	クライヴ		speaker
+clev12_03a.0530	クライヴ	Clive	speaker
 clev12_03a.0547	誰だ？{n}俺は記憶にないが……。		text
 clev12_03a.0574	セシア	Cecia	speaker
 clev12_03a.0589	私は森の聖母の記憶を受け継いだ{n}セシアと言うものです。		text
 clev12_03a.05CE	レイフォリアの森の聖母と呼ばれる私たちは、{n}千年前の記憶を失わないために{n}記憶を後継者にすべて与えるのです。		text
-clev12_03a.0649	クライヴ		speaker
+clev12_03a.0649	クライヴ	Clive	speaker
 clev12_03a.0660	そんなことが、できるのか……。		text
 clev12_03a.068D	セシア	Cecia	speaker
 clev12_03a.06A2	クライヴ……{n}あなたは、ヴァスティールには会ったのですか？		text
-clev12_03a.06EB	クライヴ		speaker
+clev12_03a.06EB	クライヴ	Clive	speaker
 clev12_03a.0702	いや、まだだ……。		text
 clev12_03a.0723	セシア	Cecia	speaker
 clev12_03a.0738	そうですか……。		text
 clev12_03a.0757	クライヴは、ヴァスティールの剣について{n}聞いたことはありますか？		text
-clev12_03a.07A6	クライヴ		speaker
+clev12_03a.07A6	クライヴ	Clive	speaker
 clev12_03a.07BD	いや、知らん。		text
 clev12_03a.07DA	セシア	Cecia	speaker
 clev12_03a.07EF	彼の剣は天使様の祝福を受けた特別な剣でした。		text
@@ -25,5 +25,5 @@ clev12_03a.082A	魔王となった今のヴァスティールが{n}それを持�
 clev12_03a.087B	ですから、あの剣がどこにあるのか、{n}今はわかりません……。		text
 clev12_03a.08C4	クライヴ……どうか探し出してください。{n}剣はきっと、あなたの力になるはずです。		text
 clev12_03a.0921	そして彼を倒し、その魂を呪われた{n}肉体から救ってあげてください……。		text
-clev12_03a.0974	クライヴ		speaker
+clev12_03a.0974	クライヴ	Clive	speaker
 clev12_03a.098B	俺は……俺自身のためにやつを倒す。{n}ほかのことに興味はない……。		text

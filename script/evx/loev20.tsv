@@ -1,17 +1,17 @@
 id	jp	en	notes
 loev20.0002	ヴァイパーの罠		dev label (guess: not shown)
 loev20.00A2	ルディ		unit name (32-byte field)
-loev20.00DE	クラレンス		unit name (32-byte field)
-loev20.04A8	クラレンス		speaker
+loev20.00DE	クラレンス	Clarence	unit name (32-byte field)
+loev20.04A8	クラレンス	Clarence	speaker
 loev20.04C1	なんだお前は？		text
-loev20.04DE	ルディエール		speaker
+loev20.04DE	ルディエール	Rudiere	speaker
 loev20.04F9	盗んだもの返してもらうぜ、どろぼうさん。		text
-loev20.0530	クラレンス		speaker
+loev20.0530	クラレンス	Clarence	speaker
 loev20.0549	人聞きが悪いな、{n}俺はこれをひとから譲り受けたんだぜ。		text
 loev20.058E	ま、相手にはだまってだけどな。		text
-loev20.05FF	ルディエール		speaker
+loev20.05FF	ルディエール	Rudiere	speaker
 loev20.061A	ばかなこと言ってないで、早く返せ！		text
-loev20.064B	クラレンス		speaker
+loev20.064B	クラレンス	Clarence	speaker
 loev20.0664	ふう、短気な兄ちゃんだな。{n}俺はそういう切れやすいやつは苦手だよ。		text
 loev20.06B5	わかった。どうせ頼まれごとなんだ……		text
 loev20.06E8	返すよ。		text

@@ -1,28 +1,28 @@
 id	jp	en	notes
-men2_La01.0052	レイラ		speaker
+men2_La01.0052	レイラ	Leyla	speaker
 men2_La01.005C	呼び出して悪いわね。{wait}{clear}		
 men2_La01.0074	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La01.0084	いいえ、そんなことは気にしないでください。{n}ところで、なにかあったのですか？　レイラ？{wait}{clear}		
-men2_La01.00EA	レイラ		speaker
+men2_La01.00EA	レイラ	Leyla	speaker
 men2_La01.00F4	いえ、なにかがあったわけじゃないの。{n}ただ、＄＄＄＄＄＄と{n}話したいと思っただけ……。{wait}{clear}		
 men2_La01.014E	ＮＵＬＬ	NULL	speaker
 men2_La01.015E	《そうですか……。》{n}		
 men2_La01.017A	《おつきあいしますよ。》{n}		
 men2_La01.019A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La01.01AA	そうですか……。{n}そんなの、ぜんぜんかまいませんよ。{wait}{clear}私もこうしてレイラに会えるのは、{n}とても、うれしいですし。{wait}{clear}		
-men2_La01.0220	レイラ		speaker
+men2_La01.0220	レイラ	Leyla	speaker
 men2_La01.022A	そうなの……？{n}でも、こんな大変なときに話をしたいだけで{n}あなたに来てもらうなんて……。{wait}{clear}		
 men2_La01.0286	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La01.0296	大丈夫ですよ、少しくらいなら。{wait}{clear}		
-men2_La01.02C4	レイラ		speaker
+men2_La01.02C4	レイラ	Leyla	speaker
 men2_La01.02CE	そう……。{wait}{clear}じゃあ、少し話しましょうか……{n}いい、＄＄＄＄＄＄？{wait}{clear}		
 men2_La01.0314	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_La01.0324	はい。{wait}{clear}		
+men2_La01.0324	はい。{wait}{clear}	Yes.{wait}{clear}	
 men2_La01.0332	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La01.0342	もちろん、おつきあいしますよ。{wait}{clear}		
-men2_La01.0370	レイラ		speaker
+men2_La01.0370	レイラ	Leyla	speaker
 men2_La01.037A	いいの？{wait}{clear}		
 men2_La01.0386	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_La01.0396	ええ、もちろんです。{n}レイラと話す少しの時間くらい、{n}ぜんぜん問題ないですよ。{wait}{clear}		
-men2_La01.03F4	レイラ		speaker
+men2_La01.03F4	レイラ	Leyla	speaker
 men2_La01.03FE	ありがとう、＄＄＄＄＄＄。{wait}{clear}		

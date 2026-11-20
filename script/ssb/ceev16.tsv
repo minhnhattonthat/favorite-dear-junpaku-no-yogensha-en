@@ -1,33 +1,33 @@
 id	jp	en	notes
-ceev16.00D6	フェイン		speaker
-ceev16.00E2	こんな子供まで……利用して……。{wait}{clear}ただ、人より強い、{n}特別な力をもっていただけだ……あの子は。{wait}{clear}		
-ceev16.015E	フェイン		speaker
-ceev16.016A	昔の俺と同じように……。{wait}{clear}		
-ceev16.0196	フェイン		speaker
-ceev16.01A2	俺はジグと出会って救われた……{n}だが、彼は悪魔に利用されて死んでしまった……。{wait}{clear}		
-ceev16.0200	彼を助けられれば良かったのだが……。{wait}{clear}		
+ceev16.00D6	フェイン	Fein	speaker
+ceev16.00E2	こんな子供まで……利用して……。{wait}{clear}ただ、人より強い、{n}特別な力をもっていただけだ……あの子は。{wait}{clear}	Using even a kid like this...{wait}{clear}All he had was a special power, stronger{n}than other people's... that boy.{wait}{clear}	
+ceev16.015E	フェイン	Fein	speaker
+ceev16.016A	昔の俺と同じように……。{wait}{clear}	Just like me, back then...{wait}{clear}	
+ceev16.0196	フェイン	Fein	speaker
+ceev16.01A2	俺はジグと出会って救われた……{n}だが、彼は悪魔に利用されて死んでしまった……。{wait}{clear}	Meeting Zig saved me... but he was used by a{n}devil, and he died...{wait}{clear}	
+ceev16.0200	彼を助けられれば良かったのだが……。{wait}{clear}	If only I could have saved him...{wait}{clear}	
 ceev16.0348	セシア	Cecia	speaker
-ceev16.0356	……もういいの……{wait}{clear}		
-ceev16.0370	泣いていいのよ……。{wait}{clear}		
+ceev16.0356	……もういいの……{wait}{clear}	...It's all right now...{wait}{clear}	
+ceev16.0370	泣いていいのよ……。{wait}{clear}	You can cry...{wait}{clear}	
 ceev16.0388	イオン	Ion	speaker
-ceev16.0396	母さん……。{wait}{clear}		
+ceev16.0396	母さん……。{wait}{clear}	Mom...{wait}{clear}	
 ceev16.03CE	セシア	Cecia	speaker
-ceev16.03DC	……もういいの……{wait}{clear}		
-ceev16.03F6	泣いていいのよ……。{wait}{clear}		
+ceev16.03DC	……もういいの……{wait}{clear}	...It's all right now...{wait}{clear}	
+ceev16.03F6	泣いていいのよ……。{wait}{clear}	You can cry...{wait}{clear}	
 ceev16.040E	イオン	Ion	speaker
-ceev16.041C	母さん……。{wait}{clear}		
+ceev16.041C	母さん……。{wait}{clear}	Mom...{wait}{clear}	
 ceev16.043E	セシア	Cecia	speaker
-ceev16.044C	イオン……お母さんと会えた？{wait}{clear}		
+ceev16.044C	イオン……お母さんと会えた？{wait}{clear}	Ion... did you get to see your mother?{wait}{clear}	
 ceev16.04A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev16.04B2	彼は自分の魔力で……{n}私の魔法を……拒んでいました……。{wait}{clear}		
+ceev16.04B2	彼は自分の魔力で……{n}私の魔法を……拒んでいました……。{wait}{clear}	He used his own magic... to reject... my{n}spell...{wait}{clear}	
 ceev16.04EE	セシア	Cecia	speaker
-ceev16.04FC	可哀想……。{wait}{clear}		
-ceev16.0510	力を……{n}結局、死のためにしか使えなかったなんて……。{wait}{clear}		
-ceev16.054E	もっと、イオンには別の生き方があったはず……。{wait}{clear}		
-ceev16.0584	なのに……{wait}{clear}		
-ceev16.0596	あんなわなにかかって……。{wait}{clear}		
+ceev16.04FC	可哀想……。{wait}{clear}	Poor thing...{wait}{clear}	
+ceev16.0510	力を……{n}結局、死のためにしか使えなかったなんて……。{wait}{clear}	All that power... and in the end he could{n}only use it for death...{wait}{clear}	
+ceev16.054E	もっと、イオンには別の生き方があったはず……。{wait}{clear}	There should have been another way for Ion{n}to live...{wait}{clear}	
+ceev16.0584	なのに……{wait}{clear}	And yet...{wait}{clear}	
+ceev16.0596	あんなわなにかかって……。{wait}{clear}	he fell into a trap like that...{wait}{clear}	
 ceev16.05B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev16.05C4	悪が地上を覆っています……{n}それをくいとめないと……。{wait}{clear}		
+ceev16.05C4	悪が地上を覆っています……{n}それをくいとめないと……。{wait}{clear}	Evil is covering the land... We have to stop{n}it...{wait}{clear}	
 ceev16.060C	セシア	Cecia	speaker
-ceev16.061A	ええ……。{n}私たちがやらなければ……。{wait}{clear}		
-ceev16.0648	こんな悲劇を二度と起こさせてはいけない……。{wait}{clear}		
+ceev16.061A	ええ……。{n}私たちがやらなければ……。{wait}{clear}	Yes... It's up to us...{wait}{clear}	
+ceev16.0648	こんな悲劇を二度と起こさせてはいけない……。{wait}{clear}	We must never let a tragedy like this happen{n}again...{wait}{clear}	

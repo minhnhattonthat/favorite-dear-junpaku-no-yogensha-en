@@ -1,24 +1,24 @@
 id	jp	en	notes
-men1_Lo02.0052	ルディエール		speaker
+men1_Lo02.0052	ルディエール	Rudiere	speaker
 men1_Lo02.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
 men1_Lo02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo02.008A	どうしたのです？{n}なにか気になることでもあるのですか、ルディ？{wait}{clear}		
-men1_Lo02.00CC	ルディエール		speaker
+men1_Lo02.00CC	ルディエール	Rudiere	speaker
 men1_Lo02.00DC	ちょっと＄＄＄＄＄＄と話がしたいと思ったんだ。{n}迷惑だったかな？{wait}{clear}		
 men1_Lo02.0120	ＮＵＬＬ	NULL	speaker
 men1_Lo02.0130	《いいえ、とんでもない。》{n}		
 men1_Lo02.0152	《ええ、ちょっと……。》{n}		
 men1_Lo02.0172	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo02.0182	いいえ、とんでもないです。{wait}{clear}こうして呼んでいただけると、{n}いろいろお話しできて{n}私もうれしいですよ。{wait}{clear}		
-men1_Lo02.01F8	ルディエール		speaker
+men1_Lo02.01F8	ルディエール	Rudiere	speaker
 men1_Lo02.0208	そう言ってもらえると助かるよ。{n}＄＄＄＄＄＄は、いつも忙しそうだからな。{wait}{clear}じゃあ、悪いけど、少しだけつきあってくれよ。{wait}{clear}		
 men1_Lo02.0284	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men1_Lo02.0294	はい。{wait}{clear}		
+men1_Lo02.0294	はい。{wait}{clear}	Yes.{wait}{clear}	
 men1_Lo02.02A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo02.02B2	ええ、ちょっと……{n}ルディには申し訳ないのですが、{n}あまり時間がなくて……。{wait}{clear}		
-men1_Lo02.0302	ルディエール		speaker
+men1_Lo02.0302	ルディエール	Rudiere	speaker
 men1_Lo02.0312	そうか……やっぱり忙しいんだ。{wait}{clear}そんな＄＄＄＄＄＄を{n}無理につきあわせるわけにはいかないな。{wait}{clear}		
 men1_Lo02.0374	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo02.0384	すみません……。{wait}{clear}		
-men1_Lo02.03A4	ルディエール		speaker
+men1_Lo02.03A4	ルディエール	Rudiere	speaker
 men1_Lo02.03B4	いや、そんなたいした話じゃないし。{n}いいよ、またの機会にしよう。{wait}{clear}じゃあな。{wait}{clear}		

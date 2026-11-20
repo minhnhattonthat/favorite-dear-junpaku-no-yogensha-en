@@ -1,20 +1,20 @@
 id	jp	en	notes
-clev15_02b.00A2	クライヴ		unit name (32-byte field)
+clev15_02b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev15_02b.00DE	レイブンルフト劇		unit name (32-byte field)
 clev15_02b.011A	椅子		unit name (32-byte field)
-clev15_02b.04A8	レイブンルフト		speaker
+clev15_02b.04A8	レイブンルフト	Ravenruft	speaker
 clev15_02b.04C5	ふん、いい腕だ。私の子にふさわしい。		text
-clev15_02b.050C	クライヴ		speaker
+clev15_02b.050C	クライヴ	Clive	speaker
 clev15_02b.0523	……クッ、体が動かん……。		text
-clev15_02b.054C	レイブンルフト		speaker
+clev15_02b.054C	レイブンルフト	Ravenruft	speaker
 clev15_02b.0569	今のお前の力では私に近づくことすらできん。		text
 clev15_02b.05A2	血にあらがうお前の意気は認めよう……		text
 clev15_02b.05D5	だが、我が血に逆らうことはムダなことだ。{n}いずれお前もこちら側の住人となるだろう。		text
-clev15_02b.0636	クライヴ		speaker
+clev15_02b.0636	クライヴ	Clive	speaker
 clev15_02b.064D	くっ……俺は死んでもお前の血には屈せんぞ！！		text
-clev15_02b.0688	レイブンルフト		speaker
+clev15_02b.0688	レイブンルフト	Ravenruft	speaker
 clev15_02b.06A5	ふふ、わかった。さあ、行け。{n}お前が堕ちる姿を見守ってやろう。		text
-clev15_02b.06F2	クライヴ		speaker
+clev15_02b.06F2	クライヴ	Clive	speaker
 clev15_02b.0709	待て！！　レイブンルフト！！！		text
-clev15_02b.0736	レイブンルフト		speaker
+clev15_02b.0736	レイブンルフト	Ravenruft	speaker
 clev15_02b.0753	いつかお前も私の前にひれふす時がくる。{n}また会おう。		text

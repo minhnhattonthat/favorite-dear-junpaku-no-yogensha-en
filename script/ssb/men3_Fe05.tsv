@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Fe05.005C	フェイン		speaker
+men3_Fe05.005C	フェイン	Fein	speaker
 men3_Fe05.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
 men3_Fe05.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
-men3_Fe05.00C2	フェイン		speaker
+men3_Fe05.00C2	フェイン	Fein	speaker
 men3_Fe05.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの銀の指輪をわたそうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
 men3_Fe05.0162	ＮＵＬＬ	NULL	speaker
 men3_Fe05.0172	《ありがとうございます。》{n}		
 men3_Fe05.0194	《戒律があるので……。》{n}		
 men3_Fe05.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.01C4	ありがとうございます。{wait}{clear}えっと、これは……？{wait}{clear}		
-men3_Fe05.01F6	フェイン		speaker
+men3_Fe05.01F6	フェイン	Fein	speaker
 men3_Fe05.0202	銀は魔除けの力も持っていると言われている。{n}なにかの役に立ててもらえばと思うんだが……。{wait}{clear}		
 men3_Fe05.025E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.026E	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}		
 men3_Fe05.02C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.02D0	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Fe05.0334	フェイン		speaker
+men3_Fe05.0334	フェイン	Fein	speaker
 men3_Fe05.0340	そうか……。{n}それならばしかたがない。{wait}{clear}		
 men3_Fe05.036A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe05.037A	本当にすみません。{wait}{clear}		

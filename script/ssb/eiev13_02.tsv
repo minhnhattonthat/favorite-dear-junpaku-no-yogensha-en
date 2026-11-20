@@ -1,102 +1,102 @@
 id	jp	en	notes
-eiev13_02.005C	アイリーン		speaker
+eiev13_02.005C	アイリーン	Irene	speaker
 eiev13_02.006A	また、ここに来ちゃったね……。{n}今度はグランドマスターに会いに行ってみようかな。{wait}{clear}		
 eiev13_02.00BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.00CE	せっかくですから、そうしたらどうですか？{n}{wait}{clear}		
-eiev13_02.00FC	アイリーン		speaker
+eiev13_02.00FC	アイリーン	Irene	speaker
 eiev13_02.010A	うん……そうだね……。{wait}{clear}		
-eiev13_02.0138	アイリーン		speaker
+eiev13_02.0138	アイリーン	Irene	speaker
 eiev13_02.0146	ついてきてね、＄＄＄＄＄＄。{n}ちょっと不安だからさ。{wait}{clear}		
 eiev13_02.017E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_02.018E	はい。{wait}{clear}		
+eiev13_02.018E	はい。{wait}{clear}	Yes.{wait}{clear}	
 eiev13_02.01A8	＄＄＄＄＄＄も来るんでしょう？{wait}{clear}		
 eiev13_02.01CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.01DA	ええ、アイリーンさえよければ……。{wait}{clear}		
-eiev13_02.0200	アイリーン		speaker
+eiev13_02.0200	アイリーン	Irene	speaker
 eiev13_02.020E	なに言ってるの。{n}ダメって言ったって、こっそりついてくるんでしょ？{wait}{clear}		
 eiev13_02.0254	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.0264	え？　ええ……そうですね……。{wait}{clear}		
-eiev13_02.0286	アイリーン		speaker
+eiev13_02.0286	アイリーン	Irene	speaker
 eiev13_02.0294	うそはつけないんだね、＄＄＄＄＄＄って。{n}じゃあ、行こう、グランドマスターに会いに。{wait}{clear}		
-eiev13_02.030A	アイリーン		speaker
+eiev13_02.030A	アイリーン	Irene	speaker
 eiev13_02.0318	グランドマスター、突然の訪問、失礼します。{n}私は……{wait}{clear}		
 eiev13_02.0350	マスター		speaker
 eiev13_02.035C	ジグの孫娘か……？{wait}{clear}		
-eiev13_02.0372	アイリーン		speaker
+eiev13_02.0372	アイリーン	Irene	speaker
 eiev13_02.0380	はい、アイリーンといいます。{wait}{clear}		
 eiev13_02.03A0	マスター		speaker
 eiev13_02.03AC	アイリーン、会えてうれしい。{wait}{clear}		
-eiev13_02.03CC	アイリーン		speaker
+eiev13_02.03CC	アイリーン	Irene	speaker
 eiev13_02.03DA	ありがとうございます。{n}私もグランドマスターに会えて、光栄です。{wait}{clear}		
 eiev13_02.041E	マスター		speaker
 eiev13_02.042A	まあ、そんなにかしこまらなくてもいい。{n}それにしても、君の力の立ちのぼる雰囲気は{n}ジグとそっくりだ。{wait}{clear}		
-eiev13_02.0492	アイリーン		speaker
+eiev13_02.0492	アイリーン	Irene	speaker
 eiev13_02.04A0	そう……ですか？{wait}{clear}		
 eiev13_02.04B4	マスター		speaker
 eiev13_02.04C0	ああ……それに、君の方が力はかなり強い……。{n}ここまでの能力を持つ者は大陸のギルドにもおらん。{wait}{clear}		
-eiev13_02.0522	アイリーン		speaker
+eiev13_02.0522	アイリーン	Irene	speaker
 eiev13_02.0530	そんな……私は祖父にはまだまだ……。{wait}{clear}		
 eiev13_02.0558	マスター		speaker
 eiev13_02.0564	技術はそうかもしれんが、{n}魔導士が生まれつき持つ魔力というのは{n}生涯かわらんものだ。{wait}{clear}すばらしい才能をジグは残していったようだな。{wait}{clear}		
-eiev13_02.05EC	アイリーン		speaker
+eiev13_02.05EC	アイリーン	Irene	speaker
 eiev13_02.05FA	ありがとうございます、グランドマスター。{wait}{clear}		
 eiev13_02.0626	マスター		speaker
 eiev13_02.0632	さて、アイリーン、{n}君がわざわざこんなところまで来たのは、{n}なにか話でもあるのではないのか？{wait}{clear}		
-eiev13_02.0692	アイリーン		speaker
+eiev13_02.0692	アイリーン	Irene	speaker
 eiev13_02.06A0	はい……そうです……。{n}グランドマスターにお聞きしたいことがあります。{wait}{clear}		
 eiev13_02.06EA	マスター		speaker
 eiev13_02.06F6	なんだ？{wait}{clear}		
-eiev13_02.0702	アイリーン		speaker
+eiev13_02.0702	アイリーン	Irene	speaker
 eiev13_02.0710	あの……フェインと姉について{n}なにかご存じのことはありませんか？{wait}{clear}		
 eiev13_02.0754	マスター		speaker
 eiev13_02.0760	フェイン……{n}彼には残念な事をした……。{wait}{clear}私が強く引き留めていれば{n}あんなことにはならなかったろう……。{wait}{clear}		
-eiev13_02.07CE	アイリーン		speaker
+eiev13_02.07CE	アイリーン	Irene	speaker
 eiev13_02.07DC	フェインになにかあったのですか？{wait}{clear}		
 eiev13_02.0800	マスター		speaker
 eiev13_02.080C	知らなかったのか？{wait}{clear}セレニスを追って帝国に向かう途中で{n}何者かに襲われ、命を落としたのだ……。{wait}{clear}		
-eiev13_02.0870	アイリーン		speaker
+eiev13_02.0870	アイリーン	Irene	speaker
 eiev13_02.087E	そんな……！{n}それは、本当ですか！？{wait}{clear}		
 eiev13_02.08A6	マスター		speaker
 eiev13_02.08B2	ああ……ギルドが確認している。{wait}{clear}		
-eiev13_02.08D4	アイリーン		speaker
+eiev13_02.08D4	アイリーン	Irene	speaker
 eiev13_02.08E2	フェインが……そんな……{n}信じられない……。{wait}{clear}		
 eiev13_02.0912	マスター		speaker
 eiev13_02.091E	彼はジグの思いを継いだ立派な男だった。{wait}{clear}このギルドでウォーロックとしても{n}よくやってくれていたのだ……。{wait}{clear}その彼がこんなことになるなんて……{n}私もなにより悔しい……。{wait}{clear}		
-eiev13_02.09CC	アイリーン		speaker
+eiev13_02.09CC	アイリーン	Irene	speaker
 eiev13_02.09DA	なぜです？　なぜそんなことに？{wait}{clear}		
 eiev13_02.09FC	マスター		speaker
 eiev13_02.0A08	これをジグの孫娘である君に伝えねばならんことは{n}とてもつらい……{n}だが、言わねばならんことだろう。{wait}{clear}		
-eiev13_02.0A6E	アイリーン		speaker
+eiev13_02.0A6E	アイリーン	Irene	speaker
 eiev13_02.0A7C	グランドマスター？{n}いったい……{wait}{clear}		
 eiev13_02.0AA0	マスター		speaker
 eiev13_02.0AAC	……セレニスが……{n}フェインを殺させたのかもしれん……。{wait}{clear}		
-eiev13_02.0AE8	アイリーン		speaker
+eiev13_02.0AE8	アイリーン	Irene	speaker
 eiev13_02.0AF6	そんな……嘘です……。{wait}{clear}		
 eiev13_02.0B10	マスター		speaker
 eiev13_02.0B1C	セレニスは帝国に渡って{n}宮廷で暗躍しているとの噂が流れてきている。{wait}{clear}それにあの悲劇を起こした秘術が本当であれば、{n}彼女はもう正気ではあるまい。{wait}{clear}何が起こっても、不思議ではない。{n}彼女のやることは人間のものでは……。{wait}{clear}		
-eiev13_02.0BFA	アイリーン		speaker
+eiev13_02.0BFA	アイリーン	Irene	speaker
 eiev13_02.0C08	……私は信じられません。{wait}{clear}姉さんが、フェインを手にかけるなんて……。{n}どんなことがあっても……そんなこと……{wait}{clear}		
 eiev13_02.0C7A	マスター		speaker
 eiev13_02.0C86	私も信じたくない出来事だ……。{n}アイリーン……君のつらい気持ちはよくわかる。{wait}{clear}たしかに、セレニスのことは噂でしかない。{n}セレニスがフェインを殺したという{n}確証はまったくないのだが……。{wait}{clear}もし、それが事実だとしたら……{n}つらいだろうがそれを受け止めるしかないのだ。{wait}{clear}どんなに残酷なことであっても、{n}真実であるならば、受け止めなければならない……。{wait}{clear}		
-eiev13_02.0DE8	アイリーン		speaker
+eiev13_02.0DE8	アイリーン	Irene	speaker
 eiev13_02.0DF6	…………。{wait}{clear}	.........{wait}{clear}	
 eiev13_02.0E04	マスター		speaker
 eiev13_02.0E10	セレニスのことが真実だとしたら、{n}この悲劇を終わらせることができるのは、{n}君だけだろう……。{wait}{clear}親友の弟子、孫娘が死んだのだ……。{n}最後の忘れ形見である君まで失うことは耐えられん。{wait}{clear}		
-eiev13_02.0EC8	アイリーン		speaker
+eiev13_02.0EC8	アイリーン	Irene	speaker
 eiev13_02.0ED6	グランドマスター……{wait}{clear}でも、たしかなことはわからないのですよね？{n}だったら……私が……{wait}{clear}		
 eiev13_02.0F32	マスター		speaker
 eiev13_02.0F3E	無茶はするんじゃない、アイリーン。{wait}{clear}		
-eiev13_02.0F64	アイリーン		speaker
+eiev13_02.0F64	アイリーン	Irene	speaker
 eiev13_02.0F72	わかっています……。{n}ただ、私は真実が知りたいだけです。{n}失礼します。{wait}{clear}		
-eiev13_02.0FDE	アイリーン		speaker
+eiev13_02.0FDE	アイリーン	Irene	speaker
 eiev13_02.0FEC	……フェインが……信じられない……。{wait}{clear}		
 eiev13_02.1014	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.1024	アイリーン……あの……{wait}{clear}		
-eiev13_02.103E	アイリーン		speaker
+eiev13_02.103E	アイリーン	Irene	speaker
 eiev13_02.104C	ごめん……＄＄＄＄＄＄……。{n}私が塔に閉じこもってるうちに、{n}こんなことになるなんて……。{wait}{clear}		
 eiev13_02.10AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.10BA	あの……こんなときに聞くのは、{n}本当に申し訳ないのですが……{wait}{clear}フェインとセレニスという方のこと{n}聞かせてもらえませんか？{wait}{clear}		
-eiev13_02.1138	アイリーン		speaker
+eiev13_02.1138	アイリーン	Irene	speaker
 eiev13_02.1146	うん……。{wait}{clear}フェインは……義理の兄なの……。{n}セレニス姉さんと結婚して……{n}それなのに……姉さんがフェインを……{wait}{clear}絶対に信じられない……{wait}{clear}		
 eiev13_02.11D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.11E6	アイリーン……{wait}{clear}		
@@ -107,109 +107,109 @@ eiev13_02.125A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.126A	元気を出してください、アイリーン。{n}あなたのつらい気持ちはわかります。{wait}{clear}でも、まだ本当のことなのかは、{n}なにもわかっていないのでしょう？{wait}{clear}だったら、一緒に確かめましょう。{n}私もできる限り協力します。{wait}{clear}		
 eiev13_02.1342	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.1352	アイリーン、しっかりしてください。{n}まだなにが真実なのかわからないのでしょう？{n}それを知るのが先ではないですか？{wait}{clear}アイリーンのつらい気持ちはわかります。{n}でも、ここで立ち止まってはなにもわかりませんよ。{wait}{clear}私もできる限り協力します。{n}だから、元気を出してください。{wait}{clear}		
-eiev13_02.1460	アイリーン		speaker
+eiev13_02.1460	アイリーン	Irene	speaker
 eiev13_02.146E	＄＄＄＄＄＄……ありがとう……。{wait}{clear}そうだよね……。{n}確かめなくちゃ……姉さんに会って……。{wait}{clear}行こう、＄＄＄＄＄＄。{n}なにが本当なのか、確かめに。{wait}{clear}		
-eiev13_02.1512	アイリーン		speaker
+eiev13_02.1512	アイリーン	Irene	speaker
 eiev13_02.1520	また、ここに来ちゃったね……。{n}今度はグランドマスターに会いに行ってみようかな。{wait}{clear}		
 eiev13_02.1574	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.1584	せっかくですから、そうしたらどうですか？{wait}{clear}		
-eiev13_02.15B0	アイリーン		speaker
+eiev13_02.15B0	アイリーン	Irene	speaker
 eiev13_02.15BE	うん……そうだね……。{wait}{clear}		
 eiev13_02.15E0	ついてきてね、＄＄＄＄＄＄。{n}ちょっと不安だからさ。{wait}{clear}		
 eiev13_02.1618	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev13_02.1628	はい。{wait}{clear}		
-eiev13_02.1642	アイリーン		speaker
+eiev13_02.1628	はい。{wait}{clear}	Yes.{wait}{clear}	
+eiev13_02.1642	アイリーン	Irene	speaker
 eiev13_02.1650	＄＄＄＄＄＄も来るんでしょう？{wait}{clear}		
 eiev13_02.1672	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.1682	ええ、アイリーンさえよければ……。{wait}{clear}		
-eiev13_02.16A8	アイリーン		speaker
+eiev13_02.16A8	アイリーン	Irene	speaker
 eiev13_02.16B6	なに言ってるの。{n}ダメって言ったって、こっそりついてくるんでしょ？{wait}{clear}		
 eiev13_02.16FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.170C	え？　ええ……そうですね……。{wait}{clear}		
-eiev13_02.172E	アイリーン		speaker
+eiev13_02.172E	アイリーン	Irene	speaker
 eiev13_02.173C	うそはつけないんだね、＄＄＄＄＄＄って。{n}じゃあ、行こう、グランドマスターに会いに。{wait}{clear}		
-eiev13_02.17B2	アイリーン		speaker
+eiev13_02.17B2	アイリーン	Irene	speaker
 eiev13_02.17C0	グランドマスター、突然の訪問、失礼します。{n}私は……{wait}{clear}		
 eiev13_02.17F8	マスター		speaker
 eiev13_02.1804	ジグの孫娘か……？{wait}{clear}		
-eiev13_02.181A	アイリーン		speaker
+eiev13_02.181A	アイリーン	Irene	speaker
 eiev13_02.1828	はい、アイリーンといいます。{wait}{clear}		
 eiev13_02.1848	マスター		speaker
 eiev13_02.1854	アイリーン、会えてうれしい。{wait}{clear}		
-eiev13_02.1874	アイリーン		speaker
+eiev13_02.1874	アイリーン	Irene	speaker
 eiev13_02.1882	ありがとうございます。{n}私もグランドマスターに会えて、光栄です。{wait}{clear}		
 eiev13_02.18C6	マスター		speaker
 eiev13_02.18D2	まあ、そんなにかしこまらなくてもいい。{n}それにしても、君の力の立ちのぼる雰囲気は{n}ジグとそっくりだ。{wait}{clear}		
-eiev13_02.193A	アイリーン		speaker
+eiev13_02.193A	アイリーン	Irene	speaker
 eiev13_02.1948	そう……ですか？{wait}{clear}		
 eiev13_02.195C	マスター		speaker
 eiev13_02.1968	ああ……それに、君の方が力はかなり強い……。{n}ここまでの能力を持つ者は大陸のギルドにもおらん。{wait}{clear}		
-eiev13_02.19CA	アイリーン		speaker
+eiev13_02.19CA	アイリーン	Irene	speaker
 eiev13_02.19D8	そんな……私は祖父にはまだまだ……。{wait}{clear}		
 eiev13_02.1A00	マスター		speaker
 eiev13_02.1A0C	技術はそうかもしれんが、{n}魔導士が生まれつき持つ魔力というのは{n}生涯かわらんものだ。{wait}{clear}すばらしい才能をジグは残していったようだな。{wait}{clear}		
-eiev13_02.1A94	アイリーン		speaker
+eiev13_02.1A94	アイリーン	Irene	speaker
 eiev13_02.1AA2	ありがとうございます、グランドマスター。{wait}{clear}		
 eiev13_02.1ACE	マスター		speaker
 eiev13_02.1ADA	さて、アイリーン、{n}君がわざわざこんなところまで来たのは、{n}なにか話でもあるのではないのか？{wait}{clear}		
-eiev13_02.1B3A	アイリーン		speaker
+eiev13_02.1B3A	アイリーン	Irene	speaker
 eiev13_02.1B48	はい……そうです……。{n}グランドマスターにお聞きしたいことがあります。{wait}{clear}		
 eiev13_02.1B92	マスター		speaker
 eiev13_02.1B9E	なんだ？{wait}{clear}		
-eiev13_02.1BAA	アイリーン		speaker
+eiev13_02.1BAA	アイリーン	Irene	speaker
 eiev13_02.1BB8	あの……フェインと姉について{n}なにかご存じのことはありませんか？{wait}{clear}		
 eiev13_02.1BFC	マスター		speaker
 eiev13_02.1C08	やはり、フェインとセレニスのことか……{wait}{clear}フェインは、旅を続けている。{n}本当にときどきだが、ここへも顔を出していく。{wait}{clear}		
-eiev13_02.1C80	アイリーン		speaker
+eiev13_02.1C80	アイリーン	Irene	speaker
 eiev13_02.1C8E	そうですか……まだ旅を……。{n}姉のことは、なにか……{wait}{clear}		
 eiev13_02.1CC6	マスター		speaker
 eiev13_02.1CD2	セレニスか……確証のある話ではないが、{n}彼女はグローサイン帝国にいると聞いた。{wait}{clear}		
-eiev13_02.1D24	アイリーン		speaker
+eiev13_02.1D24	アイリーン	Irene	speaker
 eiev13_02.1D32	帝国に？{n}それで、それをフェインは知っているのですか？{wait}{clear}		
 eiev13_02.1D6C	マスター		speaker
 eiev13_02.1D78	いや、彼から聞いた話ではない。{n}最近、北方から来た男が語った話だ。{wait}{clear}		
-eiev13_02.1DBE	アイリーン		speaker
+eiev13_02.1DBE	アイリーン	Irene	speaker
 eiev13_02.1DCC	姉さんが……帝国に……{n}どうして……。{wait}{clear}		
 eiev13_02.1DF6	マスター		speaker
 eiev13_02.1E02	アイリーン……{n}あの悲劇の内容はフェインから聞いた……。{wait}{clear}セレニスもジグも残念なことだった……。{n}だが、秘術の話が本当ならば{n}セレニスが正気を取り戻すことは決してないだろう。{wait}{clear}		
-eiev13_02.1EB6	アイリーン		speaker
+eiev13_02.1EB6	アイリーン	Irene	speaker
 eiev13_02.1EC4	そんな……。{n}でも、それじゃ、フェインが……。{wait}{clear}		
 eiev13_02.1EF6	マスター		speaker
 eiev13_02.1F02	残念だが……あの秘術はそういうものだ……。{wait}{clear}だが、フェインはそれをわかろうとしない……。{n}いや、知っていても心がそれを許さないのだろう。{wait}{clear}		
-eiev13_02.1F90	アイリーン		speaker
+eiev13_02.1F90	アイリーン	Irene	speaker
 eiev13_02.1F9E	フェインは、姉に責任を感じているのです……。{n}姉がああなってしまったのは、自分のせいだと……。{wait}{clear}		
 eiev13_02.2000	マスター		speaker
 eiev13_02.200C	そうだろうな……。{wait}{clear}あの男はもがき、苦しんでいる……{n}忘れることも、あきらめることもできないのだろう。{wait}{clear}アイリーン、君は親友であったジグの忘れ形見だ。{n}そしてフェインはギルドにとって大切な同志だ……{wait}{clear}これ以上悲劇を大きくすることは私は望まない……{n}残酷な選択も、時には必要なのだ……。{wait}{clear}すまんな、アイリーン……。{n}老いた私が語れる忠告はこれぐらいだ……。{wait}{clear}		
-eiev13_02.217A	アイリーン		speaker
+eiev13_02.217A	アイリーン	Irene	speaker
 eiev13_02.2188	ありがとうございます、グランドマスター。{wait}{clear}		
 eiev13_02.21BC	マスター		speaker
 eiev13_02.21C8	……君に守護者がいるな？{wait}{clear}不思議な感覚だ……{n}今までに感じたことはない……。{wait}{clear}気づいているかね？{wait}{clear}		
-eiev13_02.2230	アイリーン		speaker
+eiev13_02.2230	アイリーン	Irene	speaker
 eiev13_02.223E	はい……。{wait}{clear}	Yes...{wait}{clear}	
 eiev13_02.224C	マスター		speaker
 eiev13_02.2258	そうか……{n}幸運を授ける守護者であることを祈ろう。{wait}{clear}アイリーン、またいつでもきなさい。{wait}{clear}		
-eiev13_02.22B4	アイリーン		speaker
+eiev13_02.22B4	アイリーン	Irene	speaker
 eiev13_02.22C2	はい……グランドマスター。{wait}{clear}		
 eiev13_02.22E4	マスター		speaker
 eiev13_02.22F0	……君にも守護者がいるようだな。{wait}{clear}		
-eiev13_02.2314	アイリーン		speaker
-eiev13_02.2322	はい？{wait}{clear}		
+eiev13_02.2314	アイリーン	Irene	speaker
+eiev13_02.2322	はい？{wait}{clear}	Pardon?{wait}{clear}	
 eiev13_02.232C	マスター		speaker
 eiev13_02.2338	フェインがここに来たときにも感じた……。{n}不思議な感覚だ……{n}なにかの幸運を君たちに授けていることを願おう。{wait}{clear}アイリーン、またいつでもきなさい。{wait}{clear}		
-eiev13_02.23CE	アイリーン		speaker
+eiev13_02.23CE	アイリーン	Irene	speaker
 eiev13_02.23DC	はい……グランドマスター。{wait}{clear}		
-eiev13_02.241C	アイリーン		speaker
+eiev13_02.241C	アイリーン	Irene	speaker
 eiev13_02.242A	フェイン……{wait}{clear}…………。{wait}{clear}		
 eiev13_02.2448	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.2458	あの、アイリーン……{wait}{clear}なにかいろいろな事情があるみたいですが、{n}よかったら、話してもらえるところだけでも{n}私に聞かせていただけませんか？{wait}{clear}		
-eiev13_02.24E6	アイリーン		speaker
+eiev13_02.24E6	アイリーン	Irene	speaker
 eiev13_02.24F4	…………。{wait}{clear}うん……そうだね……。{n}天使のあなたにだったら、{n}少しくらいなら話してもいいかもしれない……。{wait}{clear}あのね、フェインは義理の兄よ。{n}セレニス姉さんと結婚したの……。{wait}{clear}＄＄＄＄＄＄も想像がついてると思うけど、{n}おじいちゃんは大魔導士だったの……。{wait}{clear}おじいちゃんが、世界中を旅して{n}魔導の研究を続けていたとき、{n}フェインが弟子になったの。{wait}{clear}そして、おじいちゃんが旅をやめたとき、{n}フェインも島へやってきて、{n}それから、私たちと一緒に暮らしていたの。{wait}{clear}大きくなって……お互いを好きになった{n}姉さんとフェインは一緒になって……。{wait}{clear}でも……。{wait}{clear}…………。{wait}{clear}ごめん、これ以上は……また、今度話すよ……。{wait}{clear}		
 eiev13_02.2760	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.2770	アイリーン……？{wait}{clear}		
-eiev13_02.2784	アイリーン		speaker
+eiev13_02.2784	アイリーン	Irene	speaker
 eiev13_02.2792	……＄＄＄＄＄＄、いまはひとりにさせてくれる？{wait}{clear}		
 eiev13_02.27C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev13_02.27D4	はい、わかりました……。{wait}{clear}		
-eiev13_02.27F0	アイリーン		speaker
+eiev13_02.27F0	アイリーン	Irene	speaker
 eiev13_02.27FE	ごめんね……。{wait}{clear}		
 eiev13_02.2816	/イベント/終了		

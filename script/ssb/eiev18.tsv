@@ -1,16 +1,16 @@
 id	jp	en	notes
-eiev18.0052	アイリーン		speaker
+eiev18.0052	アイリーン	Irene	speaker
 eiev18.0060	外、雪でしょ。{wait}{clear}		
 eiev18.0072	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0082	ええ、そうですね。{wait}{clear}		
-eiev18.00A4	アイリーン		speaker
+eiev18.00A4	アイリーン	Irene	speaker
 eiev18.00B2	へへ……ね、雪合戦しよっか。{wait}{clear}		
 eiev18.00D2	ＮＵＬＬ	NULL	speaker
 eiev18.00E2	《子供っぽいですね》{n}		
 eiev18.00FE	《雪合戦？》{n}		
 eiev18.011C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.012C	子供っぽいですね、なんだか。{wait}{clear}		
-eiev18.0158	アイリーン		speaker
+eiev18.0158	アイリーン	Irene	speaker
 eiev18.0166	ふーん、いいの。{n}やりたいんだから。{wait}{clear}		
 eiev18.019A	ね、やるの？　やらないの？{wait}{clear}		
 eiev18.01B8	ＮＵＬＬ	NULL	speaker
@@ -18,36 +18,36 @@ eiev18.01C8	《やる》{n}
 eiev18.01D8	《やらない》{n}		
 eiev18.01F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0206	やりましょう。{wait}{clear}		
-eiev18.0224	アイリーン		speaker
+eiev18.0224	アイリーン	Irene	speaker
 eiev18.0232	じゃ、外に出よっ！{n}ウェスタ、行こっ。{wait}{clear}		
 eiev18.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0270	やめておきます。{wait}{clear}		
-eiev18.0290	アイリーン		speaker
+eiev18.0290	アイリーン	Irene	speaker
 eiev18.029E	なんでよ、つまんない。{wait}{clear}あーあ。{n}じゃ、ウェスタ、私たちだけで行こ。{wait}{clear}		
-eiev18.0304	アイリーン		speaker
+eiev18.0304	アイリーン	Irene	speaker
 eiev18.0312	知らないの？{n}雪をぶつけるのよ。{n}まるめて、手に持って、どかって。{wait}{clear}		
 eiev18.0358	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0368	どかっ、ですか？{wait}{clear}		
-eiev18.037C	アイリーン		speaker
+eiev18.037C	アイリーン	Irene	speaker
 eiev18.038A	そ。{wait}{clear}		
 eiev18.0392	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.03A2	…………。{wait}{clear}	.........{wait}{clear}	
-eiev18.03B0	アイリーン		speaker
+eiev18.03B0	アイリーン	Irene	speaker
 eiev18.03BE	なに、ボサっとしてんの？　行こっ！{wait}{clear}		
-eiev18.0418	アイリーン		speaker
+eiev18.0418	アイリーン	Irene	speaker
 eiev18.0426	それっ！{wait}{clear}		
 eiev18.0432	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0442	やりましたね！{wait}{clear}		
-eiev18.0454	アイリーン		speaker
+eiev18.0454	アイリーン	Irene	speaker
 eiev18.0462	あっとととと、ヘタァ！！{wait}{clear}えいっ！{wait}{clear}		
 eiev18.048A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.049A	あっ…………！{wait}{clear}		
-eiev18.04AC	アイリーン		speaker
+eiev18.04AC	アイリーン	Irene	speaker
 eiev18.04BA	はははは、真っ白ね。{n}よく似合ってるよ、＄＄＄＄＄＄。{wait}{clear}		
-eiev18.050C	アイリーン		speaker
+eiev18.050C	アイリーン	Irene	speaker
 eiev18.051A	はあ、はあ、はあ。{n}ふー。{wait}{clear}疲れたー。{n}ちょっと、はしゃぎ過ぎたね。{wait}{clear}		
 eiev18.0572	さ、戻ろう、＄＄＄＄＄＄。{wait}{clear}		
-eiev18.05BC	アイリーン		speaker
+eiev18.05BC	アイリーン	Irene	speaker
 eiev18.05CA	あー、楽しかった。{n}ずいぶんバカなことしてるね、私たち。{wait}{clear}		
 eiev18.0612	ま、いっか……{n}たまにはね。{wait}{clear}ふー……。{wait}{clear}		
 eiev18.064C	久しぶりに、こんなに笑ったな……。{wait}{clear}		
@@ -56,31 +56,31 @@ eiev18.0682	《元気が戻って……》{n}
 eiev18.069E	《いつでも、また……》{n}		
 eiev18.06C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.06D6	元気が戻ってよかった……。{n}アイリーンには笑顔が似合いますよ。{wait}{clear}		
-eiev18.0726	アイリーン		speaker
+eiev18.0726	アイリーン	Irene	speaker
 eiev18.0734	えっ！？{n}なに……急に。{wait}{clear}		
 eiev18.0750	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0760	心配だったので……。{wait}{clear}		
-eiev18.0786	アイリーン		speaker
+eiev18.0786	アイリーン	Irene	speaker
 eiev18.0794	うん……すこし楽になった。{n}そんな、いつまでも情けない顔してられないよ……。{wait}{clear}		
-eiev18.0810	アイリーン		speaker
+eiev18.0810	アイリーン	Irene	speaker
 eiev18.081E	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}		
-eiev18.086A	アイリーン		speaker
+eiev18.086A	アイリーン	Irene	speaker
 eiev18.0878	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}		
-eiev18.08C2	アイリーン		speaker
+eiev18.08C2	アイリーン	Irene	speaker
 eiev18.08D0	私にはまだ、やらなきゃいけないこと、{n}たくさんあるんだから……。{wait}{clear}悲しむのは後でもできるでしょ……。{n}最後まで、がんばらなきゃ。{wait}{clear}さ、＄＄＄＄＄＄、また、何かあったら来て。{n}待ってるから。{wait}{clear}じゃね……。{wait}{clear}		
 eiev18.09B0	ありがと、今日は楽しかったよ。{wait}{clear}		
 eiev18.09E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.09F2	いつでもまた、声をかけてください。{n}つき合いますよ。{wait}{clear}		
-eiev18.0A38	アイリーン		speaker
+eiev18.0A38	アイリーン	Irene	speaker
 eiev18.0A46	そんなこと言っていいの？{n}いつも、忙しそうにしてるのに。{wait}{clear}		
 eiev18.0A82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.0A92	アイリーンが元気になるのだったらかまいませんよ。{wait}{clear}		
-eiev18.0AD4	アイリーン		speaker
+eiev18.0AD4	アイリーン	Irene	speaker
 eiev18.0AE2	そう……ありがと。{n}もう、いつまでも情けない顔してられないもんね。{wait}{clear}		
-eiev18.0B54	アイリーン		speaker
+eiev18.0B54	アイリーン	Irene	speaker
 eiev18.0B62	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}		
-eiev18.0BB0	アイリーン		speaker
+eiev18.0BB0	アイリーン	Irene	speaker
 eiev18.0BBE	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}		
-eiev18.0C06	アイリーン		speaker
+eiev18.0C06	アイリーン	Irene	speaker
 eiev18.0C14	私たちにやらなきゃいけないこと、{n}たくさんあるんでしょう？{n}悲しむのは後にする。{wait}{clear}さ、またなにかあったら来て。{wait}{clear}		
 eiev18.0C94	今日は楽しかったよ。{n}ありがと、＄＄＄＄＄＄……。{wait}{clear}		

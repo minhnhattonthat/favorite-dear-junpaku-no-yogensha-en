@@ -1,28 +1,28 @@
 id	jp	en	notes
 laev15_01.0002	1		dev label (guess: not shown)
-laev15_01.00A2	レイラ		unit name (32-byte field)
+laev15_01.00A2	レイラ	Leyla	unit name (32-byte field)
 laev15_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 laev15_01.04D8	聖母	Holy Mother	speaker
 laev15_01.04EB	戦士よ、よくここまで来ました。		text
-laev15_01.0518	レイラ		speaker
+laev15_01.0518	レイラ	Leyla	speaker
 laev15_01.052D	あなたは……？		text
 laev15_01.054A	聖母	Holy Mother	speaker
 laev15_01.055D	私は、このレイフォリアの森を守護する{n}ディアナという者です。		text
-laev15_01.05A8	レイラ		speaker
+laev15_01.05A8	レイラ	Leyla	speaker
 laev15_01.05BD	私はレイラ・ヴィグリードといいます。		text
 laev15_01.05F0	聖母	Holy Mother	speaker
 laev15_01.0603	あなたは、よくここまでたどり着きましたね。{n}ここには祝福された者以外は入れないのですよ。		text
-laev15_01.066A	レイラ		speaker
+laev15_01.066A	レイラ	Leyla	speaker
 laev15_01.067F	祝福された者？		text
 laev15_01.069C	聖母	Holy Mother	speaker
 laev15_01.06AF	ええ……そうです。		text
 laev15_01.06D0	世界に混乱の兆しが見えるとき、{n}人の子は祝福され、導かれるのです。{n}天使様によって……。		text
 laev15_01.0737	いま、この世界には邪悪な影が渦巻いています。{n}ですから、あなたも天使様に導かれる者として、{n}強い意志を持ってください。		text
 laev15_01.07BC	敵は、迷い悩む弱い心につけ込んでくるのですから。		text
-laev15_01.07FB	レイラ		speaker
+laev15_01.07FB	レイラ	Leyla	speaker
 laev15_01.0810	あなたは、この世界を混乱させている者の正体が{n}わかっているのですか？		text
 laev15_01.0863	聖母	Holy Mother	speaker
 laev15_01.0876	いいえ。{n}天使様がおわかりにならないことが、{n}ひとにわかるはずがありません。		text
 laev15_01.08D1	ただ、帝国の始祖皇帝の伝説を思い出します。{n}デルフィニアの魔石から生まれた天竜のことを……。		text
-laev15_01.093C	レイラ		speaker
+laev15_01.093C	レイラ	Leyla	speaker
 laev15_01.0951	天竜……。		text

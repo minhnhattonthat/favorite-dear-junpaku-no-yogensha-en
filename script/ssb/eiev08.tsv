@@ -1,5 +1,5 @@
 id	jp	en	notes
-eiev08.004E	アイリーン		speaker
+eiev08.004E	アイリーン	Irene	speaker
 eiev08.0060	ね、一度、塔に戻っていい？{wait}{clear}		
 eiev08.0082	ここまで来たんだからよってもいいでしょ？{wait}{clear}		
 eiev08.00AE	ＮＵＬＬ	NULL	speaker
@@ -7,16 +7,16 @@ eiev08.00BE	《ええ》{n}
 eiev08.00CE	《今はちょっと》{n}		
 eiev08.00F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.0100	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
-eiev08.011A	アイリーン		speaker
+eiev08.011A	アイリーン	Irene	speaker
 eiev08.012C	よかった。{wait}{clear}		
 eiev08.013E	ちょっと調べたいことがあるから、{n}行きたかったんだ。{wait}{clear}		
 eiev08.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.0190	今はちょっと。{n}また今度にしてもらえせんか？{wait}{clear}		
-eiev08.01CC	アイリーン		speaker
+eiev08.01CC	アイリーン	Irene	speaker
 eiev08.01DE	そう……{wait}{clear}		
 eiev08.01EE	ちょっと調べたいことがあったんだけどな……。{wait}{clear}		
 eiev08.022E	まあいいや……。今度にする。{wait}{clear}		
-eiev08.0282	アイリーン		speaker
+eiev08.0282	アイリーン	Irene	speaker
 eiev08.0294	久しぶりに戻ったら……{n}なんだか自分の家じゃないみたい。{wait}{clear}		
 eiev08.02D4	へんな気分……。{wait}{clear}		
 eiev08.02EC	さて……おじいちゃんのあの本どこやったっけ……{wait}{clear}		
@@ -30,7 +30,7 @@ eiev08.03C2	ええ、いいですよ、アイリーン。{wait}{clear}
 eiev08.03EC	ＮＵＬＬ	NULL	speaker
 eiev08.03F8	がさ、がさ。{wait}{clear}		
 eiev08.040C	ごそごそ……{wait}{clear}		
-eiev08.0438	アイリーン		speaker
+eiev08.0438	アイリーン	Irene	speaker
 eiev08.044A	ふう……{n}ありがと、手伝ってくれて。{wait}{clear}		
 eiev08.0476	大体調べたかったこと、わかったわ。{wait}{clear}		
 eiev08.04A0	あーあ、なんだか疲れちゃった……。{wait}{clear}		
@@ -41,9 +41,9 @@ eiev08.055A	どうしてだろ……{wait}{clear}
 eiev08.0572	一人で住んでたころは思い出さなかったのに……。{wait}{clear}		
 eiev08.05A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.05B4	どんな、思い出です？{wait}{clear}		
-eiev08.05CC	アイリーン		speaker
+eiev08.05CC	アイリーン	Irene	speaker
 eiev08.05DE	うん……。{wait}{clear}		
-eiev08.060C	アイリーン		speaker
+eiev08.060C	アイリーン	Irene	speaker
 eiev08.061E	みんなが元気で一緒に暮らしてた頃……。{wait}{clear}		
 eiev08.064C	お姉ちゃんとフェインが幸せそうで……{wait}{clear}		
 eiev08.0678	おじいちゃんもいて……{wait}{clear}		
@@ -54,17 +54,17 @@ eiev08.0744	おじいちゃんはなんでも知っていて、{n}いろんな�
 eiev08.0790	フェインはやさしかった……。{wait}{clear}		
 eiev08.07B4	そんな頃の……いろんなこと……{wait}{clear}		
 eiev08.07DA	もう二度と……戻ってこない……。{wait}{clear}		
-eiev08.0820	アイリーン		speaker
+eiev08.0820	アイリーン	Irene	speaker
 eiev08.082E	…………。{wait}{clear}	.........{wait}{clear}	
 eiev08.083C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.084C	アイリーン……{wait}{clear}		
-eiev08.086A	アイリーン		speaker
+eiev08.086A	アイリーン	Irene	speaker
 eiev08.087C	あ、ごめん……{n}なんだか……変よね……{wait}{clear}		
 eiev08.08AA	ハハ……私らしくないよね……{wait}{clear}		
 eiev08.08DA	忘れて……＄＄＄＄＄＄。{wait}{clear}		
 eiev08.090C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.091C	ごめんなさい、アイリーン。{n}もう戻らなくてはなりません。{wait}{clear}		
-eiev08.0964	アイリーン		speaker
+eiev08.0964	アイリーン	Irene	speaker
 eiev08.0976	ケチ……。{wait}{clear}		
 eiev08.0988	じゃあ一人でやるわ。{wait}{clear}		
 eiev08.09A4	じゃあね！{wait}{clear}		

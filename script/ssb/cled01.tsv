@@ -1,17 +1,17 @@
 id	jp	en	notes
-cled01.0012	クライヴ・告白エンディング		speaker
-cled01.0076	クライヴ		speaker
-cled01.0082	＄＄＄＄＄＄！{wait}{clear}		
+cled01.0012	クライヴ・告白エンディング	Clive Ending	speaker
+cled01.0076	クライヴ	Clive	speaker
+cled01.0082	＄＄＄＄＄＄！{wait}{clear}	＄＄＄＄＄＄!{wait}{clear}	
 cled01.0094	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-cled01.00A4	クライヴ！{wait}{clear}		
-cled01.00B2	クライヴ		speaker
-cled01.00C2	残れるのだな！{wait}{clear}		
+cled01.00A4	クライヴ！{wait}{clear}	Clive!{wait}{clear}	
+cled01.00B2	クライヴ	Clive	speaker
+cled01.00C2	残れるのだな！{wait}{clear}	You can stay!{wait}{clear}	
 cled01.00D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-cled01.00E4	はい。{wait}{clear}		
-cled01.00EE	クライヴ		speaker
-cled01.00FE	いいのか？　本当に……{wait}{clear}		
+cled01.00E4	はい。{wait}{clear}	Yes.{wait}{clear}	
+cled01.00EE	クライヴ	Clive	speaker
+cled01.00FE	いいのか？　本当に……{wait}{clear}	Are you sure? Really...?{wait}{clear}	
 cled01.0118	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-cled01.0128	ええ。{n}私をクライヴのそばに……いさせてください。{wait}{clear}		
-cled01.0186	クライヴ		speaker
-cled01.0196	……ありがとう、＄＄＄＄＄＄。{wait}{clear}		
-cled01.01BC	愛している……。{wait}{clear}		
+cled01.0128	ええ。{n}私をクライヴのそばに……いさせてください。{wait}{clear}	Yes. Please... let me stay by your side,{n}Clive.{wait}{clear}	
+cled01.0186	クライヴ	Clive	speaker
+cled01.0196	……ありがとう、＄＄＄＄＄＄。{wait}{clear}	...Thank you, ＄＄＄＄＄＄.{wait}{clear}	
+cled01.01BC	愛している……。{wait}{clear}	I love you...{wait}{clear}	

@@ -1,9 +1,9 @@
 id	jp	en	notes
-laev05_0.00A2	レイラ		unit name (32-byte field)
+laev05_0.00A2	レイラ	Leyla	unit name (32-byte field)
 laev05_0.00DE	村女		unit name (32-byte field)
 laev05_0.011A	村女		unit name (32-byte field)
 laev05_0.0156	村男		unit name (32-byte field)
 laev05_0.0192	村男		unit name (32-byte field)
 laev05_0.01CE	男子		unit name (32-byte field)
-laev05_0.04DC	フェイン		speaker
+laev05_0.04DC	フェイン	Fein	speaker
 laev05_0.04F3	くっ……間に合わなかったのか……。{n}帝国は歴史を繰り返すつもりなのか……？		text

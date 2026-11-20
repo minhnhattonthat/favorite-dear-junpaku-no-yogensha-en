@@ -1,23 +1,23 @@
 id	jp	en	notes
-clev09_02.00A2	クライヴ		unit name (32-byte field)
+clev09_02.00A2	クライヴ	Clive	unit name (32-byte field)
 clev09_02.00DE	ヴァンパイア		unit name (32-byte field)
 clev09_02.011A	スケルトン		unit name (32-byte field)
 clev09_02.0156	スケルトン		unit name (32-byte field)
-clev09_02.0518	クライヴ		speaker
+clev09_02.0518	クライヴ	Clive	speaker
 clev09_02.052F	！		text
 clev09_02.0540	吸血鬼ブラス		speaker
 clev09_02.055B	お父上に会いに行かれるのかな？		text
-clev09_02.0588	クライヴ		speaker
+clev09_02.0588	クライヴ	Clive	speaker
 clev09_02.059F	貴様……。		text
 clev09_02.05B8	吸血鬼ブラス		speaker
 clev09_02.05D3	ははは、物騒な表情をしていますな。		text
 clev09_02.0604	私はあなたを丁重にお招きしようと{n}参ったのですがね。		text
-clev09_02.0647	クライヴ		speaker
+clev09_02.0647	クライヴ	Clive	speaker
 clev09_02.065E	……吸血鬼どもはすべて殺す。		text
 clev09_02.0689	吸血鬼ブラス		speaker
 clev09_02.06A4	王の血をひくあなたがそんな心を持っているとは、{n}残念ですな。		text
 clev09_02.06EF	やはり、あのとき殺しておくべきでしたかな。		text
-clev09_02.0728	クライヴ		speaker
+clev09_02.0728	クライヴ	Clive	speaker
 clev09_02.073F	だまれ！		text
 clev09_02.0756	吸血鬼ブラス		speaker
 clev09_02.0771	ふむ。まあ、いいでしょう。		text

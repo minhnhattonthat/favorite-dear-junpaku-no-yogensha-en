@@ -1,47 +1,47 @@
 id	jp	en	notes
-eiev23_03.004C	アイリーン		speaker
+eiev23_03.004C	アイリーン	Irene	speaker
 eiev23_03.005A	あ、＄＄＄＄＄＄……来てくれたんだ……。{wait}{clear}		
 eiev23_03.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.0096	少しは気持ちが落ち着きましたか？{wait}{clear}		
-eiev23_03.00BA	アイリーン		speaker
+eiev23_03.00BA	アイリーン	Irene	speaker
 eiev23_03.00C8	うん……。{wait}{clear}		
 eiev23_03.00D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.00E6	どうしたのですか？　アイリーン？{wait}{clear}		
-eiev23_03.010A	アイリーン		speaker
+eiev23_03.010A	アイリーン	Irene	speaker
 eiev23_03.0118	いろいろ考えたの。{n}あれから、ずっと……。{wait}{clear}でも……やっぱり、すべてを受け止められない。{wait}{clear}だから……私、勇者をやめたい……。{n}それをあなたに伝えようと思って……。{wait}{clear}		
 eiev23_03.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.01D2	アイリーン……。{wait}{clear}		
-eiev23_03.01E6	アイリーン		speaker
+eiev23_03.01E6	アイリーン	Irene	speaker
 eiev23_03.01F4	だって、私、{n}大切な人を助けることができなかったんだよ。{wait}{clear}それなのに勇者だなんて……{n}やっぱり、おかしいよ……。{wait}{clear}		
 eiev23_03.026A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.027A	アイリーン、またここに閉じこもるのですか？{n}それで、なにかが変わると思っているのですか？{wait}{clear}		
-eiev23_03.02D6	アイリーン		speaker
+eiev23_03.02D6	アイリーン	Irene	speaker
 eiev23_03.02E4	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.0302	大切な人を失った悲しみは、私にもよくわかります。{wait}{clear}私だって、アイリーンと同じ気持ちです。{n}この地上界を守護するためにやってきているのに、{n}フェインを救えなかったのですから……。{wait}{clear}		
-eiev23_03.03B8	アイリーン		speaker
+eiev23_03.03B8	アイリーン	Irene	speaker
 eiev23_03.03C6	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.03D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.03E4	私も、あなたたちに戦ってもらうのは、{n}とてもつらい……。{wait}{clear}ですが、あなたたち勇者は{n}世界のすべての希望であり、未来なのです。{wait}{clear}すべてがなくなってしまう前に、{n}すべてが悪の手に落ちる前に{n}もう少しだけ、一緒に戦ってくれませんか？{wait}{clear}フェインのためにも……。{wait}{clear}		
-eiev23_03.04EA	アイリーン		speaker
+eiev23_03.04EA	アイリーン	Irene	speaker
 eiev23_03.04F8	＄＄＄＄＄＄……。{wait}{clear}		
 eiev23_03.050E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.051E	…………。{wait}{clear}	.........{wait}{clear}	
-eiev23_03.052C	アイリーン		speaker
+eiev23_03.052C	アイリーン	Irene	speaker
 eiev23_03.053A	そうだよね……{n}おじいちゃんも、おねえちゃんも、フェインも……{n}みんな、もういない……。{wait}{clear}でも、私と同じように大切な人を失った人って、{n}この世界にはたくさんいるよね……。{wait}{clear}ただ、なにもできないんだよね……{n}勇者って呼ばれる私たち以外は……。{wait}{clear}		
 eiev23_03.0632	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.0642	ええ、そうです……。{wait}{clear}		
-eiev23_03.065A	アイリーン		speaker
+eiev23_03.065A	アイリーン	Irene	speaker
 eiev23_03.0668	私は、＄＄＄＄＄＄と一緒に戦えるんだもんね。{n}まだ、天竜と悪魔を倒すことができるんだよね。{wait}{clear}		
 eiev23_03.06C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.06D6	ええ。{wait}{clear}		
-eiev23_03.06EC	アイリーン		speaker
+eiev23_03.06D6	ええ。{wait}{clear}	Of course.{wait}{clear}	
+eiev23_03.06EC	アイリーン	Irene	speaker
 eiev23_03.06FA	わかった……。{n}戦うよ、私、最後まで。{wait}{clear}もう、誰も失いたくないから……。{n}一緒にいてくれる、＄＄＄＄＄＄？{wait}{clear}		
 eiev23_03.076A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.077A	ええ、もちろんです。{wait}{clear}		
-eiev23_03.0792	アイリーン		speaker
+eiev23_03.0792	アイリーン	Irene	speaker
 eiev23_03.07A0	ごめんね……今まで話もしないで心配かけて。{n}もう、大丈夫。{n}また、がんばるから。{wait}{clear}		
 eiev23_03.07F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.0804	一緒にがんばりましょうね、アイリーン。{wait}{clear}		
-eiev23_03.083A	アイリーン		speaker
+eiev23_03.083A	アイリーン	Irene	speaker
 eiev23_03.0848	うん。{wait}{clear}		

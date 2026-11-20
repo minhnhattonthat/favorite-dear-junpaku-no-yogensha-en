@@ -1,51 +1,51 @@
 id	jp	en	notes
-laev24.0092	ラファエル		speaker
+laev24.0092	ラファエル	Raphael	speaker
 laev24.00A4	勇者レイラ、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
-laev24.00D8	ミカエル		speaker
-laev24.00E8	この勝利はお前たちの勝利だ。{wait}{clear}		
-laev24.0108	ラファエル		speaker
-laev24.011A	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}		
-laev24.0154	ミカエル		speaker
-laev24.0164	また天界で会おう。{wait}{clear}		
-laev24.01C2	レイラ		speaker
+laev24.00D8	ミカエル	Michael	speaker
+laev24.00E8	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
+laev24.0108	ラファエル	Raphael	speaker
+laev24.011A	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}	We will wait for you in the Heavens. Say{n}farewell to your hero.{wait}{clear}	
+laev24.0154	ミカエル	Michael	speaker
+laev24.0164	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
+laev24.01C2	レイラ	Leyla	speaker
 laev24.01D0	お別れね……。{wait}{clear}		
 laev24.01E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.01F2	はい……。{wait}{clear}	Yes...{wait}{clear}	
-laev24.0200	レイラ		speaker
+laev24.0200	レイラ	Leyla	speaker
 laev24.020E	二度と地上へは戻らないの？{wait}{clear}		
 laev24.022C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.023C	ええ、多分。{wait}{clear}		
-laev24.024C	レイラ		speaker
+laev24.024C	レイラ	Leyla	speaker
 laev24.025A	そう……でも、もし、戻ったら会いに来て……{wait}{clear}		
 laev24.028C	いつでも待ってる……。{wait}{clear}		
 laev24.02A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev24.02B6	はい。{wait}{clear}		
-laev24.02C0	レイラ		speaker
+laev24.02B6	はい。{wait}{clear}	Yes.{wait}{clear}	
+laev24.02C0	レイラ	Leyla	speaker
 laev24.02CE	いろいろありがとう……＄＄＄＄＄＄。{wait}{clear}		
-laev24.02FA	さよなら、天使様……。{wait}{clear}		
+laev24.02FA	さよなら、天使様……。{wait}{clear}	Goodbye, Angel...{wait}{clear}	
 laev24.0314	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.0324	さよなら、レイラ。{wait}{clear}		
-laev24.035E	レイラ		speaker
+laev24.035E	レイラ	Leyla	speaker
 laev24.036C	行くのね……。{wait}{clear}		
 laev24.037E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.038E	はい……でも必ずあなたの元に戻ります……。{wait}{clear}		
-laev24.03BC	レイラ		speaker
+laev24.03BC	レイラ	Leyla	speaker
 laev24.03CA	……これが、最後じゃないわね……。{wait}{clear}		
 laev24.03F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.0400	はい……。{wait}{clear}	Yes...{wait}{clear}	
-laev24.040E	レイラ		speaker
+laev24.040E	レイラ	Leyla	speaker
 laev24.041C	待ってる……。{wait}{clear}		
-laev24.0458	レイラ		speaker
+laev24.0458	レイラ	Leyla	speaker
 laev24.0466	行くのね……。{wait}{clear}		
 laev24.0478	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.0488	はい……。{wait}{clear}	Yes...{wait}{clear}	
-laev24.0496	レイラ		speaker
+laev24.0496	レイラ	Leyla	speaker
 laev24.04A4	もう二度と会えないのね……{wait}{clear}		
 laev24.04C6	私……あなたのことを愛していたわ……{n}＄＄＄＄＄＄……{wait}{clear}		
 laev24.0504	ずっと忘れない……。{wait}{clear}		
 laev24.0520	さよなら……＄＄＄＄＄＄。{wait}{clear}		
 laev24.053E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev24.054E	さよなら……レイラ……。{wait}{clear}		
-laev24.0586	ベルゼバブ		speaker
-laev24.0598	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}		
-laev24.05CA	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}		
+laev24.0586	ベルゼバブ	Beelzebub	speaker
+laev24.0598	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
+laev24.05CA	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

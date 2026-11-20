@@ -1,24 +1,24 @@
 id	jp	en	notes
-eiev14.005E	セレニス		speaker
+eiev14.005E	セレニス	Serenis	speaker
 eiev14.006E	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……{wait}{clear}		
-eiev14.00B2	アイリーン		speaker
+eiev14.00B2	アイリーン	Irene	speaker
 eiev14.00C4	これが……伝説の天竜……{wait}{clear}		
-eiev14.00E0	セレニス		speaker
+eiev14.00E0	セレニス	Serenis	speaker
 eiev14.00F0	そう！{n}これこそがサタン様の魂の化身である{n}天竜よ！{wait}{clear}		
-eiev14.012C	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}		
-eiev14.015E	アイリーン		speaker
+eiev14.012C	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}	Isn't it magnificent? That form, that{n}majesty...{wait}{clear}	
+eiev14.015E	アイリーン	Irene	speaker
 eiev14.0170	やめて……{n}もう、そんな言葉、聞きたくない……{wait}{clear}		
-eiev14.01A2	セレニス		speaker
+eiev14.01A2	セレニス	Serenis	speaker
 eiev14.01B2	……ふふ、そうね{n}もう聞かせる必要はないわね。{wait}{clear}		
 eiev14.01E8	さあ、来なさい。{wait}{clear}		
 eiev14.0200	あなたを殺して、魂を天竜に捧げてあげるわ。{wait}{clear}		
 eiev14.028E	ＮＵＬＬ	NULL	speaker
-eiev14.029A	ゴゴゴゴゴ……{wait}{clear}		
+eiev14.029A	ゴゴゴゴゴ……{wait}{clear}	Rumble rumble...{wait}{clear}	
 eiev14.02C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev14.02D0	アイリーン……大丈夫ですか？{wait}{clear}		
-eiev14.02FE	アイリーン		speaker
+eiev14.02FE	アイリーン	Irene	speaker
 eiev14.030C	うん……。{wait}{clear}でも……お姉ちゃんの……{wait}{clear}		
 eiev14.0336	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev14.0346	帝国の誰かが来ては危険です。{n}いったん、ここから離れましょう。{wait}{clear}		
-eiev14.0388	アイリーン		speaker
+eiev14.0388	アイリーン	Irene	speaker
 eiev14.0396	……わかった……。{wait}{clear}		

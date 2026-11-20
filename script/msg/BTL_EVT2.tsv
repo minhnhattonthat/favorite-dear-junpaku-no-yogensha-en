@@ -71,11 +71,11 @@ BTL_EVT2.0A3AS	アルベリック		speaker
 BTL_EVT2.0A47	天使の勇者か……		
 BTL_EVT2.0A5BS	アルベリック		speaker
 BTL_EVT2.0A68	我が魔剣の餌食となりにきたな……		
-BTL_EVT2.0A8CS	ルディエール		speaker
+BTL_EVT2.0A8CS	ルディエール	Rudiere	speaker
 BTL_EVT2.0A99	餌食になんかなるものか！		
 BTL_EVT2.0AB5S	アルベリック		speaker
 BTL_EVT2.0AC2	ふん、私の魔剣は無敵だ……。{n}貴様ごときには負けぬ！		
-BTL_EVT2.0AFAS	ルディエール		speaker
+BTL_EVT2.0AFAS	ルディエール	Rudiere	speaker
 BTL_EVT2.0B07	魔剣に魂を奪われた男か……。{wait}{clear}哀れだな……。		
 BTL_EVT2.0B39S	アルベリック		speaker
 BTL_EVT2.0B46	この剣も喜んでいる……		
@@ -179,17 +179,17 @@ BTL_EVT2.1538S	サヴィオ		speaker
 BTL_EVT2.1541	邪魔者は……死ね。		
 BTL_EVT2.1557S	サヴィオ		speaker
 BTL_EVT2.1560	うおーっ！		
-BTL_EVT2.1592S	クラレンス		speaker
+BTL_EVT2.1592S	クラレンス	Clarence	speaker
 BTL_EVT2.159D	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
 BTL_EVT2.15D7S	ルディ		speaker
 BTL_EVT2.15DE	どうしてそんなにこの世界を憎むんだ？		
-BTL_EVT2.1606S	クラレンス		speaker
+BTL_EVT2.1606S	クラレンス	Clarence	speaker
 BTL_EVT2.1611	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。		
 BTL_EVT2.1647S	ルディ		speaker
 BTL_EVT2.164E	ヴァイパー……。		
-BTL_EVT2.1662S	クラレンス		speaker
+BTL_EVT2.1662S	クラレンス	Clarence	speaker
 BTL_EVT2.166D	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
-BTL_EVT2.16AFS	クラレンス		speaker
+BTL_EVT2.16AFS	クラレンス	Clarence	speaker
 BTL_EVT2.16BA	ははは！　いい様だぜ！		
 BTL_EVT2.171CS	ルディ		speaker
 BTL_EVT2.1723	帝国は、なにを考えてるんだ！？		
@@ -685,41 +685,41 @@ BTL_EVT2.51BDS	帝国兵		speaker
 BTL_EVT2.51C4	帝国バンザイ！！		
 BTL_EVT2.51D8S	帝国兵		speaker
 BTL_EVT2.51DF	帝国バンザイ！！		
-BTL_EVT2.5283S	レイブンルフト		speaker
+BTL_EVT2.5283S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5292	ようこそ、我が城へ。{n}天使の勇者。		
-BTL_EVT2.52B8S	ルディエール		speaker
+BTL_EVT2.52B8S	ルディエール	Rudiere	speaker
 BTL_EVT2.52C5	吸血鬼王レイブンルフト！{n}おれがお前を倒しにきた！		
-BTL_EVT2.52FBS	レイブンルフト		speaker
+BTL_EVT2.52FBS	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.530A	勇ましさは認めよう。{n}小僧。{wait}{clear}だが、その勇ましさは{n}無謀でしかないいことを教えてやろう。{wait}{clear}死ぬがいい！		
-BTL_EVT2.5378S	レイブンルフト		speaker
+BTL_EVT2.5378S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5387	なかなかの力だ……。		
-BTL_EVT2.539FS	レイブンルフト		speaker
+BTL_EVT2.539FS	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.53AE	だが、私の力はこんなものではないぞ……		
-BTL_EVT2.53D8S	レイブンルフト		speaker
+BTL_EVT2.53D8S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.53E7	ウォオオオオオオ！！！		
-BTL_EVT2.5401S	レイブンルフト		speaker
+BTL_EVT2.5401S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5410	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT2.543ES	レイブンルフト		speaker
+BTL_EVT2.543ES	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.544D	この勇者はお前が殺したのだぞ！！		
-BTL_EVT2.5471S	レイブンルフト		speaker
+BTL_EVT2.5471S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5480	フハハハハ！！		
-BTL_EVT2.5492S	レイブンルフト		speaker
+BTL_EVT2.5492S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.54A1	……なにが天使の勇者だ。		
-BTL_EVT2.54BDS	レイブンルフト		speaker
+BTL_EVT2.54BDS	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.54CC	無様な敗北者が……。		
-BTL_EVT2.5508S	レイブンルフト		speaker
+BTL_EVT2.5508S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5517	私は闇の中に帰るだけだ……。		
-BTL_EVT2.5537S	レイブンルフト		speaker
+BTL_EVT2.5537S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5546	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT2.5574S	レイブンルフト		speaker
+BTL_EVT2.5574S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5583	この勇者はお前が殺したのだぞ！！		
-BTL_EVT2.55A7S	レイブンルフト		speaker
+BTL_EVT2.55A7S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.55B6	フハハハハ！！		
-BTL_EVT2.55C8S	レイブンルフト		speaker
+BTL_EVT2.55C8S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.55D7	……なにが天使の勇者だ。		
-BTL_EVT2.55F3S	レイブンルフト		speaker
+BTL_EVT2.55F3S	レイブンルフト	Ravenruft	speaker
 BTL_EVT2.5602	無様な敗北者が……。		
-BTL_EVT2.563ES	ルディエール		speaker
+BTL_EVT2.563ES	ルディエール	Rudiere	speaker
 BTL_EVT2.564B	どうして、こんな小さな子供まで……。{n}こいつも誰かに利用されてたのか……？		
 BTL_EVT2.5699S	イオン	Ion	speaker
 BTL_EVT2.56A0	ぼくの邪魔をするから……。		
@@ -761,17 +761,17 @@ BTL_EVT2.5B63S	ラルヴァ		speaker
 BTL_EVT2.5B6C	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
 BTL_EVT2.5BC8S	ラルヴァ		speaker
 BTL_EVT2.5BD1	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
-BTL_EVT2.5C59S	セレニス		speaker
+BTL_EVT2.5C59S	セレニス	Serenis	speaker
 BTL_EVT2.5C62	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT2.5C98S	セレニス		speaker
+BTL_EVT2.5C98S	セレニス	Serenis	speaker
 BTL_EVT2.5CA1	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
 BTL_EVT2.5D8BS	王の女		speaker
 BTL_EVT2.5D92	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
-BTL_EVT2.5DE2S	ルディエール		speaker
+BTL_EVT2.5DE2S	ルディエール	Rudiere	speaker
 BTL_EVT2.5DEF	なんだ！　いきなり！{wait}{clear}お前たちには関係のないことだ。		
 BTL_EVT2.5E29S	王の女		speaker
 BTL_EVT2.5E30	ばかね！　ここでもずくと消えなさい！！		
-BTL_EVT2.5E5AS	ルディエール		speaker
+BTL_EVT2.5E5AS	ルディエール	Rudiere	speaker
 BTL_EVT2.5E67	なんだったんだあいつらは……。{wait}{clear}あっ、城が消えてる！{wait}{clear}この先には進めないってことか……？		
 BTL_EVT2.5EC7S	王の女		speaker
 BTL_EVT2.5ECE	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
@@ -785,17 +785,17 @@ BTL_EVT2.601FS	ノスフェラトゥ		speaker
 BTL_EVT2.602E	人間など、我らの敵ではない！		
 BTL_EVT2.604ES	ノスフェラトゥ		speaker
 BTL_EVT2.605D	逃げていきおったわ！		
-BTL_EVT2.60E1S	ルディエール		speaker
+BTL_EVT2.60E1S	ルディエール	Rudiere	speaker
 BTL_EVT2.60EE	あんた、勇者だったんだろ？{n}なんで吸血鬼になんか……。		
-BTL_EVT2.6128S	クライヴ		speaker
+BTL_EVT2.6128S	クライヴ	Clive	speaker
 BTL_EVT2.6131	…………。		
-BTL_EVT2.613FS	ルディエール		speaker
+BTL_EVT2.613FS	ルディエール	Rudiere	speaker
 BTL_EVT2.614C	もう言葉も通じないのか？		
-BTL_EVT2.6168S	ルディエール		speaker
+BTL_EVT2.6168S	ルディエール	Rudiere	speaker
 BTL_EVT2.6175	こんなの……。{wait}{clear}なんだか……やりきれない……。		
-BTL_EVT2.61A9S	クライヴ		speaker
+BTL_EVT2.61A9S	クライヴ	Clive	speaker
 BTL_EVT2.61B2	…………。		
-BTL_EVT2.61C0S	クライヴ		speaker
+BTL_EVT2.61C0S	クライヴ	Clive	speaker
 BTL_EVT2.61C9	…………。		
 BTL_EVT2.621FS	ルディ		speaker
 BTL_EVT2.6226	くそ……きりがないぜ……。		

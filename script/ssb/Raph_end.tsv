@@ -1,33 +1,33 @@
 id	jp	en	notes
-Raph_end.004C	ミカエル		speaker
+Raph_end.004C	ミカエル	Michael	speaker
 Raph_end.0058	おう、＄＄＄＄＄＄。{n}もう、戻ってこないのかと思っていたぞ。{wait}{clear}		
 Raph_end.0098	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.00A8	え！？{n}そんな、あの……ミカエル様……。{wait}{clear}		
-Raph_end.00D4	ミカエル		speaker
+Raph_end.00D4	ミカエル	Michael	speaker
 Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}		
 Raph_end.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.01D0	お礼を言われるなんて……とんでもありません。{n}私は、私のできることをしただけですし、{n}アルカヤを救ったのはなによりも勇者たちの力です。{wait}{clear}		
-Raph_end.025A	ミカエル		speaker
+Raph_end.025A	ミカエル	Michael	speaker
 Raph_end.0266	そうか……そうだな……。{n}まっすぐにそう言うお前が俺は好きだぞ。{wait}{clear}		
 Raph_end.02AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.02BA	え！？　ミ、ミカエル様……！？{wait}{clear}		
-Raph_end.02DC	ミカエル		speaker
+Raph_end.02DC	ミカエル	Michael	speaker
 Raph_end.02E8	ははは……！{n}これからは、お前もこの天界にいるのだ。{n}また、いつでも話をしよう。{wait}{clear}ラファエルやガブリエルのところだけではなく、{n}俺のところにもたまには来てくれよ。{n}じゃあな。{wait}{clear}		
 Raph_end.03A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.03B2	あ、あの……ミカエル様っ！{wait}{clear}		
-Raph_end.03E4	ラファエル		speaker
+Raph_end.03E4	ラファエル	Raphael	speaker
 Raph_end.03F2	ふふふ……すみませんね、＄＄＄＄＄＄。{n}ミカエルがどうしてもあなたに会いたいと言って、{n}ずっとここで待っていたのですよ。{wait}{clear}		
 Raph_end.046E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.047E	ミカエル様に待っていていただけるなんて、{n}とてもうれしいです。{wait}{clear}		
-Raph_end.04C0	ラファエル		speaker
+Raph_end.04C0	ラファエル	Raphael	speaker
 Raph_end.04CE	そうですか……ありがとう、＄＄＄＄＄＄。{wait}{clear}そして、本当によくここまでやり遂げましたね。{n}これもあなたと勇者たちが信頼し合い、{n}すべての力を合わせたからでしょう。{wait}{clear}あなたが彼らの持つ可能性と、{n}運命に立ち向かう力を引き出したのです。{wait}{clear}そして、彼らを希望へと導くことができたからこそ、{n}アルカヤに平穏が訪れたのです。{wait}{clear}私からも心から礼を言わせてください。{n}ありがとう、＄＄＄＄＄＄。{wait}{clear}		
 Raph_end.0654	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Raph_end.0664	ラファエル様……。{wait}{clear}		
-Raph_end.067A	ラファエル		speaker
+Raph_end.0664	ラファエル様……。{wait}{clear}	Lord Raphael...{wait}{clear}	
+Raph_end.067A	ラファエル	Raphael	speaker
 Raph_end.0688	あなたは、これからは天界に戻って、{n}また新しいつとめを果たしてもらうことになります。{wait}{clear}あの勇者たちと会えなくなるのは{n}とても残念なことだと思いますが、{n}もう、アルカヤの地へは降りることができませんよ。{wait}{clear}		
 Raph_end.0792	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.07A2	あの、すみません、ラファエル様、{n}その件についてですが……。{wait}{clear}		
-Raph_end.07E2	ラファエル		speaker
+Raph_end.07E2	ラファエル	Raphael	speaker
 Raph_end.07F0	なんですか？　＄＄＄＄＄＄。{wait}{clear}		
 Raph_end.0810	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0820	あの……。{wait}{clear}		
@@ -36,19 +36,19 @@ Raph_end.083E	《地上に降りたい。》{n}
 Raph_end.085A	《いえ……。》{n}		
 Raph_end.0870	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0880	地上に……アルカヤに戻りたいのです。{n}そこで一人の人間としての生を全うしたいのです。{wait}{clear}……ある人とともに……。{wait}{clear}		
-Raph_end.08F4	ラファエル		speaker
+Raph_end.08F4	ラファエル	Raphael	speaker
 Raph_end.0902	…………。{wait}{clear}地上界へ降りた天使は、{n}その決断に悩むものです……。{n}やはり、あなたもその道を選ぶのですか……。{wait}{clear}		
 Raph_end.0974	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0984	お願いします、ラファエル様！{wait}{clear}		
-Raph_end.09A4	ラファエル		speaker
+Raph_end.09A4	ラファエル	Raphael	speaker
 Raph_end.09B2	わかりました……。{n}アルカヤで生きることを許しましょう。{wait}{clear}ただ、忘れないでください。{n}人間となる以上あの血も受け継ぐということを……。{n}それは、とてもつらいことですよ。{wait}{clear}		
 Raph_end.0A60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0A70	はい……わかっています。{n}私は決してあの血に屈服したりしません。{wait}{clear}		
-Raph_end.0AB4	ラファエル		speaker
+Raph_end.0AB4	ラファエル	Raphael	speaker
 Raph_end.0AC2	そうですね……。{n}あなたなら、きっと大丈夫でしょう。{wait}{clear}＄＄＄＄＄＄……{n}どうか、その純白の翼とともに、{n}あなたの大切なものまで、なくさないように……。{wait}{clear}		
 Raph_end.0B5E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.0B6E	はい……。{n}ありがとうございました、ラファエル様。{wait}{clear}		
-Raph_end.0BA4	ラファエル		speaker
+Raph_end.0BA4	ラファエル	Raphael	speaker
 Raph_end.0BB2	さあ、アルカヤへ行く前に、{n}会っていかなければならない子たちがいますよ。{wait}{clear}		
 Raph_end.0C56	ローザ	Rosa	speaker
 Raph_end.0C64	人間として地上で生きられることに決めたのですね。{wait}{clear}		
@@ -93,23 +93,23 @@ Raph_end.151A	これから、ご苦労も多いかと思いますが、{n}きっ
 Raph_end.1572	いつまでもお元気で、がんばってくださいね。{wait}{clear}		
 Raph_end.15A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.15B8	……ありがとう……。{wait}{clear}		
-Raph_end.15DE	ラファエル		speaker
+Raph_end.15DE	ラファエル	Raphael	speaker
 Raph_end.15EC	では、気をつけておいきなさい。{n}誰かのために生きるという決意も、{n}とても大切な想いです……。{wait}{clear}		
 Raph_end.164C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.165C	はい……。{n}本当にありがとうございます……ラファエル様。{wait}{clear}		
-Raph_end.16A8	ラファエル		speaker
+Raph_end.16A8	ラファエル	Raphael	speaker
 Raph_end.16BA	お別れですね、我が愛しい弟よ。{wait}{clear}		
-Raph_end.16E0	ラファエル		speaker
+Raph_end.16E0	ラファエル	Raphael	speaker
 Raph_end.16F2	お別れですね、我が愛しい妹よ。{wait}{clear}		
-Raph_end.1718	ラファエル		speaker
+Raph_end.1718	ラファエル	Raphael	speaker
 Raph_end.172A	慈しみは永久に……。{wait}{clear}		
 Raph_end.1818	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.1828	いえ……なんでもありません……。{wait}{clear}		
-Raph_end.184C	ラファエル		speaker
+Raph_end.184C	ラファエル	Raphael	speaker
 Raph_end.185A	＄＄＄＄＄＄……。{n}本当にいいのですね？{wait}{clear}		
 Raph_end.1886	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.1896	はい……。{wait}{clear}	Yes...{wait}{clear}	
-Raph_end.18A4	ラファエル		speaker
+Raph_end.18A4	ラファエル	Raphael	speaker
 Raph_end.18B2	さあ、妖精もあなたに会いたがっていますよ。{wait}{clear}		
 Raph_end.1938	ローザ	Rosa	speaker
 Raph_end.1946	地上界でのお仕事、本当にお疲れさまでした。{wait}{clear}		
@@ -151,11 +151,11 @@ Raph_end.2108	これからも、私でお役に立てるなら、{n}いつでも
 Raph_end.214C	ティタニア様には内緒で飛んできますから。{wait}{clear}		
 Raph_end.2180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.2190	……ありがとう……。{wait}{clear}		
-Raph_end.21BA	ラファエル		speaker
+Raph_end.21BA	ラファエル	Raphael	speaker
 Raph_end.21C8	あなたは、みんなに好かれているのですね。{wait}{clear}その心を忘れることがなければ、{n}あなたを必要としている者のところへ{n}また、いつか訪れることになるでしょう……。{wait}{clear}		
 Raph_end.2266	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.2276	はい……。{wait}{clear}	Yes...{wait}{clear}	
-Raph_end.2284	ラファエル		speaker
+Raph_end.2284	ラファエル	Raphael	speaker
 Raph_end.2292	これからも、あなたの純白の翼とともに、{n}人と世界を見守ってゆきましょう……。{wait}{clear}		
-Raph_end.22E2	ラファエル		speaker
+Raph_end.22E2	ラファエル	Raphael	speaker
 Raph_end.22F4	慈しみは永久に……。{wait}{clear}		

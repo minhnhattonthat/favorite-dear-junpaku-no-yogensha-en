@@ -1,18 +1,18 @@
 id	jp	en	notes
 laev15_02.0002	聖母2		dev label (guess: not shown)
-laev15_02.00A2	レイラ		unit name (32-byte field)
+laev15_02.00A2	レイラ	Leyla	unit name (32-byte field)
 laev15_02.00DE	聖母	Holy Mother	unit name (32-byte field)
 laev15_02.011A	イオン	Ion	unit name (32-byte field)
-laev15_02.04D8	レイラ		speaker
+laev15_02.04D8	レイラ	Leyla	speaker
 laev15_02.04ED	あなたは！		text
 laev15_02.051A	イオン	Ion	speaker
 laev15_02.052F	…………。		text
-laev15_02.05E8	レイラ		speaker
+laev15_02.05E8	レイラ	Leyla	speaker
 laev15_02.05FD	聖母様！		text
 laev15_02.0634	聖母	Holy Mother	speaker
 laev15_02.0647	……魔石を奪われてしまいました。		text
 laev15_02.0676	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
 laev15_02.06EB	そうなってしまっては、世界は破滅してしまいます。		text
 laev15_02.072A	レイラ……どうか世界を守ってください。{n}そして、天使様の助けになってあげてください……。		text
-laev15_02.0791	レイラ		speaker
+laev15_02.0791	レイラ	Leyla	speaker
 laev15_02.07A6	はい、わかりました。		text

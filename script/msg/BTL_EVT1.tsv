@@ -1,11 +1,11 @@
 id	jp	en	notes
-BTL_EVT1.01E0S	クライヴ		speaker
+BTL_EVT1.01E0S	クライヴ	Clive	speaker
 BTL_EVT1.01E9	村を襲ったのは、お前らか……？		
 BTL_EVT1.020BS	タイタン		speaker
 BTL_EVT1.0214	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！		
-BTL_EVT1.02BCS	クライヴ		speaker
+BTL_EVT1.02BCS	クライヴ	Clive	speaker
 BTL_EVT1.02C5	向かってくるのなら、倒す……。		
-BTL_EVT1.02E7S	クライヴ		speaker
+BTL_EVT1.02E7S	クライヴ	Clive	speaker
 BTL_EVT1.02F0	…………。		
 BTL_EVT1.02FES	タイタン		speaker
 BTL_EVT1.0307	ふん！　口ほどにもない！！		
@@ -17,17 +17,17 @@ BTL_EVT1.03A9S	帝国兵		speaker
 BTL_EVT1.03B0	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
 BTL_EVT1.03E0S	帝国兵		speaker
 BTL_EVT1.03E7	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
-BTL_EVT1.043BS	クライヴ		speaker
+BTL_EVT1.043BS	クライヴ	Clive	speaker
 BTL_EVT1.0444	ここから退け……。		
 BTL_EVT1.045AS	帝国騎士		speaker
 BTL_EVT1.0463	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！		
-BTL_EVT1.04ABS	クライヴ		speaker
+BTL_EVT1.04ABS	クライヴ	Clive	speaker
 BTL_EVT1.04B4	…………。		
 BTL_EVT1.04C2S	帝国騎士		speaker
 BTL_EVT1.04CB	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
 BTL_EVT1.050FS	帝国騎士		speaker
 BTL_EVT1.0518	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
-BTL_EVT1.0580S	クライヴ		speaker
+BTL_EVT1.0580S	クライヴ	Clive	speaker
 BTL_EVT1.0589	…………。		
 BTL_EVT1.0597S	ファントム		speaker
 BTL_EVT1.05A2	…………。		
@@ -37,21 +37,21 @@ BTL_EVT1.05EDS	イオン	Ion	speaker
 BTL_EVT1.05F4	ぼくの邪魔をするから……。		
 BTL_EVT1.0612S	イオン	Ion	speaker
 BTL_EVT1.0619	ぼくの邪魔をするから……。		
-BTL_EVT1.065BS	クライヴ		speaker
+BTL_EVT1.065BS	クライヴ	Clive	speaker
 BTL_EVT1.0664	ここから退け……。		
 BTL_EVT1.067AS	帝国兵		speaker
 BTL_EVT1.0681	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！		
-BTL_EVT1.06C9S	クライヴ		speaker
+BTL_EVT1.06C9S	クライヴ	Clive	speaker
 BTL_EVT1.06D2	…………。		
 BTL_EVT1.06E0S	帝国兵		speaker
 BTL_EVT1.06E7	我々の邪魔をするなど……{n}愚かなやつめ！		
 BTL_EVT1.0713S			speaker
 BTL_EVT1.0714	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT1.0764S	クライヴ		speaker
+BTL_EVT1.0764S	クライヴ	Clive	speaker
 BTL_EVT1.076D	……くだらん連中だ……。		
 BTL_EVT1.0789S	帝国兵		speaker
 BTL_EVT1.0790	なんだと、貴様！！{n}我々の邪魔をする気なら死ね！		
-BTL_EVT1.07C4S	クライヴ		speaker
+BTL_EVT1.07C4S	クライヴ	Clive	speaker
 BTL_EVT1.07CD	…………。		
 BTL_EVT1.07DBS	帝国兵		speaker
 BTL_EVT1.07E2	我々の邪魔をするなど……{n}愚かなやつめ！		
@@ -71,11 +71,11 @@ BTL_EVT1.09DCS	アルベリック		speaker
 BTL_EVT1.09E9	天使の勇者か……		
 BTL_EVT1.09FDS	アルベリック		speaker
 BTL_EVT1.0A0A	我が魔剣の餌食となりにきたな……		
-BTL_EVT1.0A2ES	クライヴ		speaker
+BTL_EVT1.0A2ES	クライヴ	Clive	speaker
 BTL_EVT1.0A37	倒されるのはお前だ。{n}悪魔の騎士。		
 BTL_EVT1.0A5DS	アルベリック		speaker
 BTL_EVT1.0A6A	ふん、私の魔剣は無敵だ……。{n}貴様ごときには負けぬ！		
-BTL_EVT1.0AA2S	クライヴ		speaker
+BTL_EVT1.0AA2S	クライヴ	Clive	speaker
 BTL_EVT1.0AAB	魔剣に魂を奪われたか……。		
 BTL_EVT1.0AC9S	アルベリック		speaker
 BTL_EVT1.0AD6	この剣も喜んでいる……		
@@ -89,7 +89,7 @@ BTL_EVT1.0BA7S	騎士隊長		speaker
 BTL_EVT1.0BB0	帝国バンザイ！！		
 BTL_EVT1.0BE8S	帝国兵		speaker
 BTL_EVT1.0BEF	我々に、歯向かうやつはどこだ！！		
-BTL_EVT1.0C13S	クライヴ		speaker
+BTL_EVT1.0C13S	クライヴ	Clive	speaker
 BTL_EVT1.0C1C	くっ……きりがない……。		
 BTL_EVT1.0C38S	帝国兵		speaker
 BTL_EVT1.0C3F	我々に勝てると思っているのか！！		
@@ -105,11 +105,11 @@ BTL_EVT1.0D25S	帝国騎士		speaker
 BTL_EVT1.0D2E	おれに勝てるはずなどない！　わはははは！		
 BTL_EVT1.0D7ES	盗賊		speaker
 BTL_EVT1.0D83	てめえ、やっちまうぞ。		
-BTL_EVT1.0D9DS	クライヴ		speaker
+BTL_EVT1.0D9DS	クライヴ	Clive	speaker
 BTL_EVT1.0DA6	…………。		
 BTL_EVT1.0DB4S	盗賊		speaker
 BTL_EVT1.0DB9	びびりやがって、声も出ないのか！		
-BTL_EVT1.0DDDS	クライヴ		speaker
+BTL_EVT1.0DDDS	クライヴ	Clive	speaker
 BTL_EVT1.0DE6	…………。		
 BTL_EVT1.0DF4S	盗賊		speaker
 BTL_EVT1.0DF9	はん！　オレたちにかなうわけねえんだよ！		
@@ -117,11 +117,11 @@ BTL_EVT1.0E25S	盗賊		speaker
 BTL_EVT1.0E2A	はん！　オレたちにかなうわけねえんだよ！		
 BTL_EVT1.0E7AS	帝国兵		speaker
 BTL_EVT1.0E81	なんだ貴様は？		
-BTL_EVT1.0E93S	クライヴ		speaker
+BTL_EVT1.0E93S	クライヴ	Clive	speaker
 BTL_EVT1.0E9C	…………。		
 BTL_EVT1.0EAAS	帝国兵		speaker
 BTL_EVT1.0EB1	格好つけているつもりか？{n}行くぞ！！		
-BTL_EVT1.0ED9S	クライヴ		speaker
+BTL_EVT1.0ED9S	クライヴ	Clive	speaker
 BTL_EVT1.0EE2	…………。		
 BTL_EVT1.0EF0S	帝国兵		speaker
 BTL_EVT1.0EF7	我々も甘く見られたものだな。		
@@ -129,9 +129,9 @@ BTL_EVT1.0F17S	帝国兵		speaker
 BTL_EVT1.0F1E	我々も甘く見られたものだな。		
 BTL_EVT1.0F62S	ゾンビ		speaker
 BTL_EVT1.0F69	ヴヴヴ……。		
-BTL_EVT1.0F79S	クライヴ		speaker
+BTL_EVT1.0F79S	クライヴ	Clive	speaker
 BTL_EVT1.0F82	俺の刀のサビとなれ。		
-BTL_EVT1.0F9AS	クライヴ		speaker
+BTL_EVT1.0F9AS	クライヴ	Clive	speaker
 BTL_EVT1.0FA3	これだけか……。		
 BTL_EVT1.0FB7S	ゾンビ		speaker
 BTL_EVT1.0FBE	ウウヴッッ……。		
@@ -139,21 +139,21 @@ BTL_EVT1.0FD2S	ゾンビ		speaker
 BTL_EVT1.0FD9	ウウヴッッ……。		
 BTL_EVT1.1059S	暗殺者		speaker
 BTL_EVT1.1060	なんだー、お前は？{n}オレたちの邪魔をするな！		
-BTL_EVT1.1090S	クライヴ		speaker
+BTL_EVT1.1090S	クライヴ	Clive	speaker
 BTL_EVT1.1099	…………。		
 BTL_EVT1.10A7S	暗殺者		speaker
 BTL_EVT1.10AE	いい気味だぜ。		
 BTL_EVT1.10C0S	暗殺者		speaker
 BTL_EVT1.10C7	はっ！　逃げて行きやがったぜ！		
-BTL_EVT1.110DS	クライヴ		speaker
+BTL_EVT1.110DS	クライヴ	Clive	speaker
 BTL_EVT1.1116	化け物が帝国軍に……？		
-BTL_EVT1.1130S	クライヴ		speaker
+BTL_EVT1.1130S	クライヴ	Clive	speaker
 BTL_EVT1.1139	…………。		
 BTL_EVT1.1147S	帝国軍		speaker
 BTL_EVT1.114E	ははははは！		
 BTL_EVT1.115ES	帝国軍		speaker
 BTL_EVT1.1165	ははははは！		
-BTL_EVT1.1199S	クライヴ		speaker
+BTL_EVT1.1199S	クライヴ	Clive	speaker
 BTL_EVT1.11A2	お前ら……。		
 BTL_EVT1.11B2S	暗殺者		speaker
 BTL_EVT1.11B9	我々の邪魔をするな！		
@@ -171,7 +171,7 @@ BTL_EVT1.12A2S	サヴィオ		speaker
 BTL_EVT1.12AB	お前は……{n}セレニスの言っていた天使の勇者だな……。		
 BTL_EVT1.12E3S	サヴィオ		speaker
 BTL_EVT1.12EC	殺す。		
-BTL_EVT1.12F6S	クライヴ		speaker
+BTL_EVT1.12F6S	クライヴ	Clive	speaker
 BTL_EVT1.12FF	倒されるのは、お前だ……。		
 BTL_EVT1.131DS	サヴィオ		speaker
 BTL_EVT1.1326	なんだと？{n}ひねりつぶしてくれる……。		
@@ -183,293 +183,293 @@ BTL_EVT1.1388S	サヴィオ		speaker
 BTL_EVT1.1391	邪魔者は……死ね。		
 BTL_EVT1.13A7S	サヴィオ		speaker
 BTL_EVT1.13B0	うおーっ！		
-BTL_EVT1.13E2S	クラレンス		speaker
+BTL_EVT1.13E2S	クラレンス	Clarence	speaker
 BTL_EVT1.13ED	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
-BTL_EVT1.1427S	クライヴ		speaker
+BTL_EVT1.1427S	クライヴ	Clive	speaker
 BTL_EVT1.1430	貴様……{n}まだ、そんなことを……。		
-BTL_EVT1.1456S	クラレンス		speaker
+BTL_EVT1.1456S	クラレンス	Clarence	speaker
 BTL_EVT1.1461	先に地獄で待ってるぜ……。		
-BTL_EVT1.147FS	クライヴ		speaker
+BTL_EVT1.147FS	クライヴ	Clive	speaker
 BTL_EVT1.1488	…………。		
-BTL_EVT1.1496S	クラレンス		speaker
+BTL_EVT1.1496S	クラレンス	Clarence	speaker
 BTL_EVT1.14A1	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
-BTL_EVT1.14E3S	クラレンス		speaker
+BTL_EVT1.14E3S	クラレンス	Clarence	speaker
 BTL_EVT1.14EE	ははは！　いい様だぜ！		
-BTL_EVT1.1550S	クライヴ		speaker
+BTL_EVT1.1550S	クライヴ	Clive	speaker
 BTL_EVT1.1559	……こんなところまで……。		
 BTL_EVT1.1577S	帝国兵		speaker
 BTL_EVT1.157E	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！		
-BTL_EVT1.15C2S	クライヴ		speaker
+BTL_EVT1.15C2S	クライヴ	Clive	speaker
 BTL_EVT1.15CB	…………。		
 BTL_EVT1.15D9S	帝国兵		speaker
 BTL_EVT1.15E0	お前ひとりにやられる我が軍ではないわ！		
 BTL_EVT1.160AS	帝国兵		speaker
 BTL_EVT1.1611	お前ひとりにやられる我が軍ではないわ！		
-BTL_EVT1.165FS	クライヴ		speaker
+BTL_EVT1.165FS	クライヴ	Clive	speaker
 BTL_EVT1.1668	くそっ……お前ら……。		
 BTL_EVT1.1682S	帝国兵		speaker
 BTL_EVT1.1689	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT1.16D5S	クライヴ		speaker
+BTL_EVT1.16D5S	クライヴ	Clive	speaker
 BTL_EVT1.16DE	……帝国め……。		
 BTL_EVT1.16F2S	帝国兵		speaker
 BTL_EVT1.16F9	わはははっ！{n}偉大なる帝国に栄えあれ！		
 BTL_EVT1.1723S	帝国兵		speaker
 BTL_EVT1.172A	わはははっ！{n}偉大なる帝国に栄えあれ！		
-BTL_EVT1.1778S	クライヴ		speaker
+BTL_EVT1.1778S	クライヴ	Clive	speaker
 BTL_EVT1.1781	俺には関係ないが、{n}帝国のやり方は許せないからな……。		
 BTL_EVT1.17BBS	帝国騎士		speaker
 BTL_EVT1.17C4	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！		
-BTL_EVT1.1824S	クライヴ		speaker
+BTL_EVT1.1824S	クライヴ	Clive	speaker
 BTL_EVT1.182D	……くだらん……。		
-BTL_EVT1.1843S	クライヴ		speaker
+BTL_EVT1.1843S	クライヴ	Clive	speaker
 BTL_EVT1.184C	…………。		
 BTL_EVT1.185AS	帝国騎士		speaker
 BTL_EVT1.1863	我々に逆らうなど、むだなこと！		
 BTL_EVT1.1885S	帝国騎士		speaker
 BTL_EVT1.188E	我々に逆らうなど、むだなこと！		
-BTL_EVT1.18D4S	クライヴ		speaker
+BTL_EVT1.18D4S	クライヴ	Clive	speaker
 BTL_EVT1.18DD	俺には関係ないが、{n}帝国のやり方は許せん……。		
 BTL_EVT1.190FS	帝国兵		speaker
 BTL_EVT1.1916	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT1.1962S	クライヴ		speaker
+BTL_EVT1.1962S	クライヴ	Clive	speaker
 BTL_EVT1.196B	…………。		
 BTL_EVT1.1979S	帝国騎士		speaker
 BTL_EVT1.1982	我らには紅月王がついておられる！　わはははは！		
 BTL_EVT1.19B4S	帝国騎士		speaker
 BTL_EVT1.19BD	我らには紅月王がついておられる！　わはははは！		
-BTL_EVT1.1A13S	クライヴ		speaker
+BTL_EVT1.1A13S	クライヴ	Clive	speaker
 BTL_EVT1.1A1C	俺には関係ないが、{n}帝国のやり方は許せん……。		
 BTL_EVT1.1A4ES	帝国騎士		speaker
 BTL_EVT1.1A57	我らの進軍、誰にも止めることなどできん！		
-BTL_EVT1.1A83S	クライヴ		speaker
+BTL_EVT1.1A83S	クライヴ	Clive	speaker
 BTL_EVT1.1A8C	…………。		
 BTL_EVT1.1A9AS	帝国騎士		speaker
 BTL_EVT1.1AA3	我が戦いは、皇帝のため！		
 BTL_EVT1.1ABFS	帝国騎士		speaker
 BTL_EVT1.1AC8	我が戦いは、皇帝のため！		
-BTL_EVT1.1B08S	クライヴ		speaker
+BTL_EVT1.1B08S	クライヴ	Clive	speaker
 BTL_EVT1.1B11	魔族など、この世界には必要ない……。		
 BTL_EVT1.1B39S	融合兵		speaker
 BTL_EVT1.1B40	愚かな人間どもこそ、この世界には不要だ！		
-BTL_EVT1.1B6CS	クライヴ		speaker
+BTL_EVT1.1B6CS	クライヴ	Clive	speaker
 BTL_EVT1.1B75	……魔族どもめ……。{n}俺はやつらを倒す……。		
 BTL_EVT1.1BA5S	融合兵		speaker
 BTL_EVT1.1BAC	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
 BTL_EVT1.1BECS	融合兵		speaker
 BTL_EVT1.1BF3	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
-BTL_EVT1.1C57S	クライヴ		speaker
+BTL_EVT1.1C57S	クライヴ	Clive	speaker
 BTL_EVT1.1C60	お前たちも血に狂っているのか……。		
-BTL_EVT1.1C86S	クライヴ		speaker
+BTL_EVT1.1C86S	クライヴ	Clive	speaker
 BTL_EVT1.1C8F	…………。		
 BTL_EVT1.1C9DS	カオスジェリー		speaker
 BTL_EVT1.1CAC	ギュルギュルゥ……。		
 BTL_EVT1.1CC4S	カオスジェリー		speaker
 BTL_EVT1.1CD3	ギュルギュルゥ……。		
-BTL_EVT1.1D0FS	クライヴ		speaker
+BTL_EVT1.1D0FS	クライヴ	Clive	speaker
 BTL_EVT1.1D18	お前たちなど、すぐに倒してやる……。		
-BTL_EVT1.1D40S	クライヴ		speaker
+BTL_EVT1.1D40S	クライヴ	Clive	speaker
 BTL_EVT1.1D49	…………。		
 BTL_EVT1.1D57S	デッドプラント		speaker
 BTL_EVT1.1D66	ひゅるひゅる……。		
 BTL_EVT1.1D7CS	デッドプラント		speaker
 BTL_EVT1.1D8B	ひゅるひゅる……。		
-BTL_EVT1.1DC5S	クライヴ		speaker
+BTL_EVT1.1DC5S	クライヴ	Clive	speaker
 BTL_EVT1.1DCE	……くだらん連中だ……。		
 BTL_EVT1.1DEAS	シーフ		speaker
 BTL_EVT1.1DF1	なんだと！{n}殺されてぇのか、てめえ！		
-BTL_EVT1.1E19S	クライヴ		speaker
+BTL_EVT1.1E19S	クライヴ	Clive	speaker
 BTL_EVT1.1E22	…………。		
 BTL_EVT1.1E30S	シーフ		speaker
 BTL_EVT1.1E37	はっはは！　ざまあみやがれ！		
 BTL_EVT1.1E57S	シーフ		speaker
 BTL_EVT1.1E5E	はっはは！　ざまあみやがれ！		
-BTL_EVT1.1EA2S	クライヴ		speaker
+BTL_EVT1.1EA2S	クライヴ	Clive	speaker
 BTL_EVT1.1EAB	……水は苦手だが……しかたがない……。{n}とっとと片をつけさせてもらうぞ。		
-BTL_EVT1.1EF7S	クライヴ		speaker
+BTL_EVT1.1EF7S	クライヴ	Clive	speaker
 BTL_EVT1.1F00	やはり、水はごめんだ……。		
 BTL_EVT1.1F1ES	海竜		speaker
 BTL_EVT1.1F23	グギャア～！		
 BTL_EVT1.1F33S	海竜		speaker
 BTL_EVT1.1F38	グギャア～！		
-BTL_EVT1.1F6CS	クライヴ		speaker
+BTL_EVT1.1F6CS	クライヴ	Clive	speaker
 BTL_EVT1.1F75	さっさと片づけてやろう。		
-BTL_EVT1.1F91S	クライヴ		speaker
+BTL_EVT1.1F91S	クライヴ	Clive	speaker
 BTL_EVT1.1F9A	…………。		
 BTL_EVT1.1FA8S	海竜		speaker
 BTL_EVT1.1FAD	グギギャア～！		
 BTL_EVT1.1FBFS	海竜		speaker
 BTL_EVT1.1FC4	グギギャア～！		
-BTL_EVT1.1FFAS	クライヴ		speaker
+BTL_EVT1.1FFAS	クライヴ	Clive	speaker
 BTL_EVT1.2003	邪魔な連中は倒すだけだ。		
-BTL_EVT1.201FS	クライヴ		speaker
+BTL_EVT1.201FS	クライヴ	Clive	speaker
 BTL_EVT1.2028	終わったか……。		
 BTL_EVT1.203CS	ヴェノム		speaker
 BTL_EVT1.2045	シューシューシュー……		
 BTL_EVT1.205FS	ヴェノム		speaker
 BTL_EVT1.2068	シューシューシュー……		
-BTL_EVT1.20A6S	クライヴ		speaker
+BTL_EVT1.20A6S	クライヴ	Clive	speaker
 BTL_EVT1.20AF	お前らにかかわるなど、時間のむだだ……。{n}さっさと片づけてやる。		
-BTL_EVT1.20F3S	クライヴ		speaker
+BTL_EVT1.20F3S	クライヴ	Clive	speaker
 BTL_EVT1.20FC	…………。		
 BTL_EVT1.210AS	ロック		speaker
 BTL_EVT1.2111	クワァアアー！		
 BTL_EVT1.2123S	ロック		speaker
 BTL_EVT1.212A	クワァアアー！		
-BTL_EVT1.2160S	クライヴ		speaker
+BTL_EVT1.2160S	クライヴ	Clive	speaker
 BTL_EVT1.2169	邪魔な連中は倒すだけだ。		
-BTL_EVT1.2185S	クライヴ		speaker
+BTL_EVT1.2185S	クライヴ	Clive	speaker
 BTL_EVT1.218E	終わったか……。		
 BTL_EVT1.21A2S	ミリピード		speaker
 BTL_EVT1.21AD	ギシギシギシギシギシギシ……		
 BTL_EVT1.21CDS	ミリピード		speaker
 BTL_EVT1.21D8	ギシギシギシギシギシギシ……		
-BTL_EVT1.221CS	クライヴ		speaker
+BTL_EVT1.221CS	クライヴ	Clive	speaker
 BTL_EVT1.2225	やはり、アンデッドだったな……。		
-BTL_EVT1.2249S	クライヴ		speaker
+BTL_EVT1.2249S	クライヴ	Clive	speaker
 BTL_EVT1.2252	死人は土に還れ……。		
 BTL_EVT1.226AS	スカルナイト		speaker
 BTL_EVT1.2277	ニンゲン……イラナイ……{n}クカカカカカカ……！		
 BTL_EVT1.22A9S	スカルナイト		speaker
 BTL_EVT1.22B6	ニンゲン……イラナイ……{n}クカカカカカカ……！		
-BTL_EVT1.230CS	クライヴ		speaker
+BTL_EVT1.230CS	クライヴ	Clive	speaker
 BTL_EVT1.2315	やはりバンシーの仕業か……。		
-BTL_EVT1.2335S	クライヴ		speaker
+BTL_EVT1.2335S	クライヴ	Clive	speaker
 BTL_EVT1.233E	…………。		
 BTL_EVT1.234CS	バンシー		speaker
 BTL_EVT1.2355	ひひひひひ……		
 BTL_EVT1.2367S	バンシー		speaker
 BTL_EVT1.2370	ひひひひひ……		
-BTL_EVT1.23A6S	クライヴ		speaker
+BTL_EVT1.23A6S	クライヴ	Clive	speaker
 BTL_EVT1.23AF	村を襲ってるのは、お前らか……。		
 BTL_EVT1.23D3S	バーグラー		speaker
 BTL_EVT1.23DE	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT1.2452S	クライヴ		speaker
+BTL_EVT1.2452S	クライヴ	Clive	speaker
 BTL_EVT1.245B	……くだらん連中だ……。		
 BTL_EVT1.2477S	バーグラー		speaker
 BTL_EVT1.2482	はははっ！{n}てめえひとりで、なにができるってんだよ！		
 BTL_EVT1.24BAS	バーグラー		speaker
 BTL_EVT1.24C5	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT1.2521S	クライヴ		speaker
+BTL_EVT1.2521S	クライヴ	Clive	speaker
 BTL_EVT1.252A	村を襲ってるのは、お前らか……。		
 BTL_EVT1.254ES	バーグラー		speaker
 BTL_EVT1.2559	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT1.25CDS	クライヴ		speaker
+BTL_EVT1.25CDS	クライヴ	Clive	speaker
 BTL_EVT1.25D6	……くだらん連中だ……。		
 BTL_EVT1.25F2S	バーグラー		speaker
 BTL_EVT1.25FD	はははっ！{n}てめえひとりで、なにができるってんだよ！		
 BTL_EVT1.2635S	バーグラー		speaker
 BTL_EVT1.2640	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT1.269CS	クライヴ		speaker
+BTL_EVT1.269CS	クライヴ	Clive	speaker
 BTL_EVT1.26A5	お前は……魔族……。		
 BTL_EVT1.26BDS	リベザル		speaker
 BTL_EVT1.26C6	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！		
-BTL_EVT1.2726S	クライヴ		speaker
+BTL_EVT1.2726S	クライヴ	Clive	speaker
 BTL_EVT1.272F	…………。		
 BTL_EVT1.273DS	リベザル		speaker
 BTL_EVT1.2746	人間など我らの敵ではない！{n}ふははははは……っ！		
 BTL_EVT1.277AS	リベザル		speaker
 BTL_EVT1.2783	人間など我らの敵ではない！{n}ふははははは……っ！		
-BTL_EVT1.27DBS	クライヴ		speaker
+BTL_EVT1.27DBS	クライヴ	Clive	speaker
 BTL_EVT1.27E4	お前ら、何者だ？		
 BTL_EVT1.27F8S	反乱兵		speaker
 BTL_EVT1.27FF	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！		
-BTL_EVT1.285BS	クライヴ		speaker
+BTL_EVT1.285BS	クライヴ	Clive	speaker
 BTL_EVT1.2864	…………。		
 BTL_EVT1.2872S	反乱兵		speaker
 BTL_EVT1.2879	我々の邪魔などさせん！		
 BTL_EVT1.2893S	反乱兵		speaker
 BTL_EVT1.289A	我々の邪魔などさせん！		
-BTL_EVT1.28D8S	クライヴ		speaker
+BTL_EVT1.28D8S	クライヴ	Clive	speaker
 BTL_EVT1.28E1	お前たちなど、すぐに倒してやる……。		
 BTL_EVT1.2909S	ジャイアント		speaker
 BTL_EVT1.2916	人間ごときがおれに勝てると思うな！		
-BTL_EVT1.293CS	クライヴ		speaker
+BTL_EVT1.293CS	クライヴ	Clive	speaker
 BTL_EVT1.2945	…………。		
 BTL_EVT1.2953S	ジャイアント		speaker
 BTL_EVT1.2960	おれが負けるわけなどない！{n}ぐわはははっ！		
 BTL_EVT1.298ES	ジャイアント		speaker
 BTL_EVT1.299B	おれが負けるわけなどない！{n}ぐわはははっ！		
-BTL_EVT1.29EDS	クライヴ		speaker
+BTL_EVT1.29EDS	クライヴ	Clive	speaker
 BTL_EVT1.29F6	村からおとなしく去れ……。		
 BTL_EVT1.2A14S	オーク		speaker
 BTL_EVT1.2A1B	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
-BTL_EVT1.2A4DS	クライヴ		speaker
+BTL_EVT1.2A4DS	クライヴ	Clive	speaker
 BTL_EVT1.2A56	…………。		
 BTL_EVT1.2A64S	オーク		speaker
 BTL_EVT1.2A6B	ニンゲン　ジャマ……！		
 BTL_EVT1.2A85S	オーク		speaker
 BTL_EVT1.2A8C	ニンゲン　ジャマ……！		
-BTL_EVT1.2ACAS	クライヴ		speaker
+BTL_EVT1.2ACAS	クライヴ	Clive	speaker
 BTL_EVT1.2AD3	…………。		
 BTL_EVT1.2AE1S	グレムリン		speaker
 BTL_EVT1.2AEC	キシシシシシ！		
-BTL_EVT1.2AFES	クライヴ		speaker
+BTL_EVT1.2AFES	クライヴ	Clive	speaker
 BTL_EVT1.2B07	終わったか……。		
 BTL_EVT1.2B1BS	グレムリン		speaker
 BTL_EVT1.2B26	キシシシシシ！		
 BTL_EVT1.2B38S	グレムリン		speaker
 BTL_EVT1.2B43	キシシシシシ！		
-BTL_EVT1.2B79S	クライヴ		speaker
+BTL_EVT1.2B79S	クライヴ	Clive	speaker
 BTL_EVT1.2B82	貴様ら……		
 BTL_EVT1.2B90S	ゴーゴン		speaker
 BTL_EVT1.2B99	あら……？{n}私のところに来てくれるなんて光栄だわ。{n}一生ここにいてもいいのよ？		
-BTL_EVT1.2BEBS	クライヴ		speaker
+BTL_EVT1.2BEBS	クライヴ	Clive	speaker
 BTL_EVT1.2BF4	……俺はお前を倒す……。		
-BTL_EVT1.2C10S	クライヴ		speaker
+BTL_EVT1.2C10S	クライヴ	Clive	speaker
 BTL_EVT1.2C19	終わりだ……。		
 BTL_EVT1.2C2BS	ゴーゴン		speaker
 BTL_EVT1.2C34	ふふふふ……{n}あはははは……！		
 BTL_EVT1.2C56S	ゴーゴン		speaker
 BTL_EVT1.2C5F	ふふふふ……{n}あはははは……！		
-BTL_EVT1.2CA5S	クライヴ		speaker
+BTL_EVT1.2CA5S	クライヴ	Clive	speaker
 BTL_EVT1.2CAE	来るなら、斬る。		
-BTL_EVT1.2CC2S	クライヴ		speaker
+BTL_EVT1.2CC2S	クライヴ	Clive	speaker
 BTL_EVT1.2CCB	終わりだな……。		
 BTL_EVT1.2CDFS	ヘルハウンド		speaker
 BTL_EVT1.2CEC	うおおお～んっ！！		
 BTL_EVT1.2D02S	ヘルハウンド		speaker
 BTL_EVT1.2D0F	うおおお～んっ！！		
-BTL_EVT1.2D49S	クライヴ		speaker
+BTL_EVT1.2D49S	クライヴ	Clive	speaker
 BTL_EVT1.2D52	原因は、キメラか……。		
 BTL_EVT1.2D6CS	キメラ		speaker
 BTL_EVT1.2D73	きえ～！　きえ～！		
-BTL_EVT1.2D89S	クライヴ		speaker
+BTL_EVT1.2D89S	クライヴ	Clive	speaker
 BTL_EVT1.2D92	これでいいだろう……。		
 BTL_EVT1.2DACS	キメラ		speaker
 BTL_EVT1.2DB3	きえ～！　きえ～！		
 BTL_EVT1.2DC9S	キメラ		speaker
 BTL_EVT1.2DD0	きえ～！　きえ～！		
-BTL_EVT1.2E0AS	クライヴ		speaker
+BTL_EVT1.2E0AS	クライヴ	Clive	speaker
 BTL_EVT1.2E13	…………。		
-BTL_EVT1.2E21S	クライヴ		speaker
+BTL_EVT1.2E21S	クライヴ	Clive	speaker
 BTL_EVT1.2E2A	…………。		
 BTL_EVT1.2E38S	グリズリー		speaker
 BTL_EVT1.2E43	ぐがあ～！		
 BTL_EVT1.2E51S	グリズリー		speaker
 BTL_EVT1.2E5C	ぐがあ～！		
-BTL_EVT1.2E8ES	クライヴ		speaker
+BTL_EVT1.2E8ES	クライヴ	Clive	speaker
 BTL_EVT1.2E97	さっさと片づけてやろう。		
-BTL_EVT1.2EB3S	クライヴ		speaker
+BTL_EVT1.2EB3S	クライヴ	Clive	speaker
 BTL_EVT1.2EBC	…………。		
 BTL_EVT1.2ECAS	海竜		speaker
 BTL_EVT1.2ECF	グギギャア～！		
 BTL_EVT1.2EE1S	海竜		speaker
 BTL_EVT1.2EE6	グギギャア～！		
-BTL_EVT1.2F1CS	クライヴ		speaker
+BTL_EVT1.2F1CS	クライヴ	Clive	speaker
 BTL_EVT1.2F25	このあたりを荒らしているのは、{n}お前らか？		
 BTL_EVT1.2F53S	ミリシア		speaker
 BTL_EVT1.2F5C	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！		
-BTL_EVT1.2FACS	クライヴ		speaker
+BTL_EVT1.2FACS	クライヴ	Clive	speaker
 BTL_EVT1.2FB5	…………。		
 BTL_EVT1.2FC3S	ミリシア		speaker
 BTL_EVT1.2FCC	はははっ！　まだまだ暴れるぜ！		
 BTL_EVT1.2FEES	ミリシア		speaker
 BTL_EVT1.2FF7	はははっ！　まだまだ暴れるぜ！		
-BTL_EVT1.303DS	クライヴ		speaker
+BTL_EVT1.303DS	クライヴ	Clive	speaker
 BTL_EVT1.3046	やはりな……。{n}貴様らなど、滅びの道を歩むがいい……。		
 BTL_EVT1.3080S	ノスフェラトゥ		speaker
 BTL_EVT1.308F	王の血を引く者が、なんということを！		
-BTL_EVT1.30B7S	クライヴ		speaker
+BTL_EVT1.30B7S	クライヴ	Clive	speaker
 BTL_EVT1.30C0	地獄へ堕ちろ……。		
 BTL_EVT1.30D6S	ノスフェラトゥ		speaker
 BTL_EVT1.30E5	王には遠くおよばぬわ！		
@@ -477,9 +477,9 @@ BTL_EVT1.30FFS	ノスフェラトゥ		speaker
 BTL_EVT1.310E	人間はすべて我らにひざまずくがいい！		
 BTL_EVT1.315AS	ヘルハウンド		speaker
 BTL_EVT1.3167	グルル……！		
-BTL_EVT1.3177S	クライヴ		speaker
+BTL_EVT1.3177S	クライヴ	Clive	speaker
 BTL_EVT1.3180	お前らが村人を……。		
-BTL_EVT1.3198S	クライヴ		speaker
+BTL_EVT1.3198S	クライヴ	Clive	speaker
 BTL_EVT1.31A1	終わったな。		
 BTL_EVT1.31B1S	ヘルハウンド		speaker
 BTL_EVT1.31BE	ウワオオ～ン！		
@@ -487,35 +487,35 @@ BTL_EVT1.31D0S	ヘルハウンド		speaker
 BTL_EVT1.31DD	ウワオオ～ン！		
 BTL_EVT1.3213S	グレムリン		speaker
 BTL_EVT1.321E	キシー！　キシシシー！		
-BTL_EVT1.3238S	クライヴ		speaker
+BTL_EVT1.3238S	クライヴ	Clive	speaker
 BTL_EVT1.3241	こいつらが子供を……。		
-BTL_EVT1.325BS	クライヴ		speaker
+BTL_EVT1.325BS	クライヴ	Clive	speaker
 BTL_EVT1.3264	終わりだ……。		
 BTL_EVT1.3276S	グレムリン		speaker
 BTL_EVT1.3281	キシー！　キシシシー！		
 BTL_EVT1.329BS	グレムリン		speaker
 BTL_EVT1.32A6	キシー！　キシシシー！		
-BTL_EVT1.32E4S	クライヴ		speaker
+BTL_EVT1.32E4S	クライヴ	Clive	speaker
 BTL_EVT1.32ED	…………。		
-BTL_EVT1.32FBS	クライヴ		speaker
+BTL_EVT1.32FBS	クライヴ	Clive	speaker
 BTL_EVT1.3304	……終わりだ……。		
 BTL_EVT1.331AS	デスウィドウ		speaker
 BTL_EVT1.3327	ギーギーギー		
 BTL_EVT1.3337S	デスウィドウ		speaker
 BTL_EVT1.3344	ギーギーギー		
-BTL_EVT1.3378S	クライヴ		speaker
+BTL_EVT1.3378S	クライヴ	Clive	speaker
 BTL_EVT1.3381	お前らにかかわるなど、時間のむだだ……。{n}さっさと片づけてやる。		
-BTL_EVT1.33C5S	クライヴ		speaker
+BTL_EVT1.33C5S	クライヴ	Clive	speaker
 BTL_EVT1.33CE	…………。		
 BTL_EVT1.33DCS	ベルクート		speaker
 BTL_EVT1.33E7	クワァアアー！		
 BTL_EVT1.33F9S	ベルクート		speaker
 BTL_EVT1.3404	クワァアアー！		
-BTL_EVT1.343AS	クライヴ		speaker
+BTL_EVT1.343AS	クライヴ	Clive	speaker
 BTL_EVT1.3443	どうして村を襲った？		
 BTL_EVT1.345BS	ホブゴブリン		speaker
 BTL_EVT1.3468	コノむら、モラッタ。{n}オレタチノむらニスル！		
-BTL_EVT1.3498S	クライヴ		speaker
+BTL_EVT1.3498S	クライヴ	Clive	speaker
 BTL_EVT1.34A1	…………。		
 BTL_EVT1.34AFS	ホブゴブリン		speaker
 BTL_EVT1.34BC	オレタチノむら、マモッタ！		
@@ -523,17 +523,17 @@ BTL_EVT1.34DAS	ホブゴブリン		speaker
 BTL_EVT1.34E7	オレタチノむら、マモッタ！		
 BTL_EVT1.3529S	海竜		speaker
 BTL_EVT1.352E	グギギャギャ～！		
-BTL_EVT1.3542S	クライヴ		speaker
+BTL_EVT1.3542S	クライヴ	Clive	speaker
 BTL_EVT1.354B	水は苦手だが……倒してやろう……。		
-BTL_EVT1.3571S	クライヴ		speaker
+BTL_EVT1.3571S	クライヴ	Clive	speaker
 BTL_EVT1.357A	…………。		
 BTL_EVT1.3588S	海竜		speaker
 BTL_EVT1.358D	グギャア～！　グギャア～！		
 BTL_EVT1.35ABS	海竜		speaker
 BTL_EVT1.35B0	グギャア～！　グギャア～！		
-BTL_EVT1.35F2S	クライヴ		speaker
+BTL_EVT1.35F2S	クライヴ	Clive	speaker
 BTL_EVT1.35FB	声の正体は海竜か……。		
-BTL_EVT1.3615S	クライヴ		speaker
+BTL_EVT1.3615S	クライヴ	Clive	speaker
 BTL_EVT1.361E	…………。		
 BTL_EVT1.362CS	海竜		speaker
 BTL_EVT1.3631	ギャアアア～ギャアアア～		
@@ -541,15 +541,15 @@ BTL_EVT1.364DS	海竜		speaker
 BTL_EVT1.3652	ギャアアア～ギャアアア～		
 BTL_EVT1.3692S	ノスフェラトゥ		speaker
 BTL_EVT1.36A1	これはこれは……{n}王の子でありながら、{n}天使にたぶらかされた愚か者……。{wait}{clear}我らの王に許しをこう気になりましたか？		
-BTL_EVT1.3717S	クライヴ		speaker
+BTL_EVT1.3717S	クライヴ	Clive	speaker
 BTL_EVT1.3720	許しだと……？{wait}{clear}貴様こそ俺を倒せなかった許しを{n}やつにこうことだ……{n}地獄で……。		
-BTL_EVT1.3778S	クライヴ		speaker
+BTL_EVT1.3778S	クライヴ	Clive	speaker
 BTL_EVT1.3781	俺は貴様らを許しはしない……。		
 BTL_EVT1.37A3S	ノスフェラトゥ		speaker
 BTL_EVT1.37B2	はははは……！{n}お前など、王の足下にもおよばぬ！		
 BTL_EVT1.37E6S	ノスフェラトゥ		speaker
 BTL_EVT1.37F5	はははは……！{n}お前など、王の足下にもおよばぬ！		
-BTL_EVT1.384DS	クライヴ		speaker
+BTL_EVT1.384DS	クライヴ	Clive	speaker
 BTL_EVT1.3856	お前……何者だ……？		
 BTL_EVT1.386ES	アロケン		speaker
 BTL_EVT1.3877	愚かな人間に名乗る名などない。行くぞ！		
@@ -559,7 +559,7 @@ BTL_EVT1.38DES	アロケン		speaker
 BTL_EVT1.38E7	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
 BTL_EVT1.3921S	アロケン		speaker
 BTL_EVT1.392A	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
-BTL_EVT1.3988S	クライヴ		speaker
+BTL_EVT1.3988S	クライヴ	Clive	speaker
 BTL_EVT1.3991	お前……何者だ……？		
 BTL_EVT1.39A9S	ウジャト		speaker
 BTL_EVT1.39B2	愚かな人間に名乗る名などない。{n}行くわよ！		
@@ -569,7 +569,7 @@ BTL_EVT1.3A21S	ウジャト		speaker
 BTL_EVT1.3A2A	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
 BTL_EVT1.3A64S	ウジャト		speaker
 BTL_EVT1.3A6D	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
-BTL_EVT1.3ACBS	クライヴ		speaker
+BTL_EVT1.3ACBS	クライヴ	Clive	speaker
 BTL_EVT1.3AD4	お前……何者だ……？		
 BTL_EVT1.3AECS	リベザル		speaker
 BTL_EVT1.3AF5	愚かな人間に名乗る名はない。行くぜ！		
@@ -587,19 +587,19 @@ BTL_EVT1.3C7ES	ゴーゴン		speaker
 BTL_EVT1.3C87	私が会いたいのは、ただひとりよ！		
 BTL_EVT1.3CABS	ゴーゴン		speaker
 BTL_EVT1.3CB4	私が会いたいのは、ただひとりよ！		
-BTL_EVT1.3CFCS	クライヴ		speaker
+BTL_EVT1.3CFCS	クライヴ	Clive	speaker
 BTL_EVT1.3D05	邪魔な連中は倒すだけだ。		
-BTL_EVT1.3D21S	クライヴ		speaker
+BTL_EVT1.3D21S	クライヴ	Clive	speaker
 BTL_EVT1.3D2A	終わったか……。		
 BTL_EVT1.3D3ES	スキュラ		speaker
 BTL_EVT1.3D47	きえ～！　きえ～！		
 BTL_EVT1.3D5DS	スキュラ		speaker
 BTL_EVT1.3D66	きえ～！　きえ～！		
-BTL_EVT1.3DA0S	クライヴ		speaker
+BTL_EVT1.3DA0S	クライヴ	Clive	speaker
 BTL_EVT1.3DA9	お前ら、何をする気だ？		
 BTL_EVT1.3DC3S	バラム		speaker
 BTL_EVT1.3DCA	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！		
-BTL_EVT1.3E0AS	クライヴ		speaker
+BTL_EVT1.3E0AS	クライヴ	Clive	speaker
 BTL_EVT1.3E13	魔族と人が手を結ぶのか……。		
 BTL_EVT1.3E33S	バラム		speaker
 BTL_EVT1.3E3A	誰も俺を止めることなどできん！		
@@ -613,11 +613,11 @@ BTL_EVT1.3EFFS	融合兵		speaker
 BTL_EVT1.3F06	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
 BTL_EVT1.3F38S	融合兵		speaker
 BTL_EVT1.3F3F	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
-BTL_EVT1.3F95S	クライヴ		speaker
+BTL_EVT1.3F95S	クライヴ	Clive	speaker
 BTL_EVT1.3F9E	お前らを倒す！		
 BTL_EVT1.3FB0S	ノスフェラトゥ		speaker
 BTL_EVT1.3FBF	ふふふ……{n}では、あなたを私は王にささげましょう！		
-BTL_EVT1.3FF5S	クライヴ		speaker
+BTL_EVT1.3FF5S	クライヴ	Clive	speaker
 BTL_EVT1.3FFE	地獄へ堕ちろ……。		
 BTL_EVT1.4014S	ノスフェラトゥ		speaker
 BTL_EVT1.4023	ふふふふ……まだまだ王にはおよばぬな！		
@@ -625,19 +625,19 @@ BTL_EVT1.404DS	ノスフェラトゥ		speaker
 BTL_EVT1.405C	人間はすべて我らにひざまずくがいい！		
 BTL_EVT1.40A8S	ウィザード		speaker
 BTL_EVT1.40B3	あの方をよみがえらせるには、{n}まだまだ女が足りん……。		
-BTL_EVT1.40EDS	クライヴ		speaker
+BTL_EVT1.40EDS	クライヴ	Clive	speaker
 BTL_EVT1.40F6	貴様らだな……。		
-BTL_EVT1.410AS	クライヴ		speaker
+BTL_EVT1.410AS	クライヴ	Clive	speaker
 BTL_EVT1.4113	…………。		
 BTL_EVT1.4121S	ウィザード		speaker
 BTL_EVT1.412C	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
 BTL_EVT1.416AS	ウィザード		speaker
 BTL_EVT1.4175	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
-BTL_EVT1.41D7S	クライヴ		speaker
+BTL_EVT1.41D7S	クライヴ	Clive	speaker
 BTL_EVT1.41E0	…………。		
 BTL_EVT1.41EES	グレムリン		speaker
 BTL_EVT1.41F9	キシシシシシ！		
-BTL_EVT1.420BS	クライヴ		speaker
+BTL_EVT1.420BS	クライヴ	Clive	speaker
 BTL_EVT1.4214	終わったか……。		
 BTL_EVT1.4228S	グレムリン		speaker
 BTL_EVT1.4233	キシシシシシ！		
@@ -645,29 +645,29 @@ BTL_EVT1.4245S	グレムリン		speaker
 BTL_EVT1.4250	キシシシシシ！		
 BTL_EVT1.4286S	リベザル		speaker
 BTL_EVT1.428F	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！		
-BTL_EVT1.42D5S	クライヴ		speaker
+BTL_EVT1.42D5S	クライヴ	Clive	speaker
 BTL_EVT1.42DE	減らず口はそのくらいにしておけ……。		
-BTL_EVT1.4306S	クライヴ		speaker
+BTL_EVT1.4306S	クライヴ	Clive	speaker
 BTL_EVT1.430F	この森に魔族が……。		
 BTL_EVT1.4327S	リベザル		speaker
 BTL_EVT1.4330	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
 BTL_EVT1.436ES	リベザル		speaker
 BTL_EVT1.4377	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
-BTL_EVT1.43D9S	クライヴ		speaker
+BTL_EVT1.43D9S	クライヴ	Clive	speaker
 BTL_EVT1.43E2	正体は、シャドウか……。		
-BTL_EVT1.43FES	クライヴ		speaker
+BTL_EVT1.43FES	クライヴ	Clive	speaker
 BTL_EVT1.4407	終わったか……。		
 BTL_EVT1.441BS	ファントム		speaker
 BTL_EVT1.4426	ひゅうひゅう……		
 BTL_EVT1.443AS	ファントム		speaker
 BTL_EVT1.4445	ひゅうひゅう……		
-BTL_EVT1.447DS	クライヴ		speaker
+BTL_EVT1.447DS	クライヴ	Clive	speaker
 BTL_EVT1.4486	聖都まで、帝国の手に落ちるのか……？		
 BTL_EVT1.44AES	帝国騎士		speaker
 BTL_EVT1.44B7	貴様ひとりで、{n}我々の兵力相手に何ができると言うのだ？		
-BTL_EVT1.44F1S	クライヴ		speaker
+BTL_EVT1.44F1S	クライヴ	Clive	speaker
 BTL_EVT1.44FA	くそ……。		
-BTL_EVT1.4508S	クライヴ		speaker
+BTL_EVT1.4508S	クライヴ	Clive	speaker
 BTL_EVT1.4511	終わりか……？{wait}{clear}なに！　新手か！？		
 BTL_EVT1.4539S	帝国騎士		speaker
 BTL_EVT1.4542	我々に逆らうからだ！　ははははは！		
@@ -675,7 +675,7 @@ BTL_EVT1.4568S	帝国騎士		speaker
 BTL_EVT1.4571	ぶざまだな！　ははははは！		
 BTL_EVT1.45B3S	私兵		speaker
 BTL_EVT1.45B8	痛い目にあいてえのか！		
-BTL_EVT1.45D2S	クライヴ		speaker
+BTL_EVT1.45D2S	クライヴ	Clive	speaker
 BTL_EVT1.45DB	…………。		
 BTL_EVT1.45E9S	私兵		speaker
 BTL_EVT1.45EE	ざまみろ！　		
@@ -683,13 +683,13 @@ BTL_EVT1.45FES	私兵		speaker
 BTL_EVT1.4603	ざまみろ！　		
 BTL_EVT1.4637S	帝国騎士		speaker
 BTL_EVT1.4640	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！		
-BTL_EVT1.46A4S	クライヴ		speaker
+BTL_EVT1.46A4S	クライヴ	Clive	speaker
 BTL_EVT1.46AD	……俺には関係ない……。		
 BTL_EVT1.46C9S	帝国騎士		speaker
 BTL_EVT1.46D2	なんだと、貴様！{n}我々に逆らうのなら死ね！！		
 BTL_EVT1.4702S	帝国騎士		speaker
 BTL_EVT1.470B	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。		
-BTL_EVT1.4745S	クライヴ		speaker
+BTL_EVT1.4745S	クライヴ	Clive	speaker
 BTL_EVT1.474E	くだらん……。		
 BTL_EVT1.4760S	帝国騎士		speaker
 BTL_EVT1.4769	帝国バンザイ！！		
@@ -699,51 +699,51 @@ BTL_EVT1.47BES	帝国兵		speaker
 BTL_EVT1.47C5	帝国バンザイ！！		
 BTL_EVT1.47D9S	帝国兵		speaker
 BTL_EVT1.47E0	帝国バンザイ！！		
-BTL_EVT1.4884S	レイブンルフト		speaker
+BTL_EVT1.4884S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4893	なかなか力をつけたようだな……		
-BTL_EVT1.48B5S	レイブンルフト		speaker
+BTL_EVT1.48B5S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.48C4	私も本気を出させてもらおう。		
-BTL_EVT1.48E4S	レイブンルフト		speaker
+BTL_EVT1.48E4S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.48F3	ウォオオオオオオ！！！		
-BTL_EVT1.490DS	レイブンルフト		speaker
+BTL_EVT1.490DS	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.491C	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT1.494AS	レイブンルフト		speaker
+BTL_EVT1.494AS	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4959	この勇者はお前が殺したのだぞ！！		
-BTL_EVT1.497DS	レイブンルフト		speaker
+BTL_EVT1.497DS	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.498C	フハハハハ！！		
-BTL_EVT1.499ES	レイブンルフト		speaker
+BTL_EVT1.499ES	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.49AD	……なにが天使の勇者だ。		
-BTL_EVT1.49C9S	レイブンルフト		speaker
+BTL_EVT1.49C9S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.49D8	無様な敗北者が……。		
-BTL_EVT1.4A14S	レイブンルフト		speaker
+BTL_EVT1.4A14S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4A23	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT1.4A51S	レイブンルフト		speaker
+BTL_EVT1.4A51S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4A60	この勇者はお前が殺したのだぞ！！		
-BTL_EVT1.4A84S	レイブンルフト		speaker
+BTL_EVT1.4A84S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4A93	フハハハハ！！		
-BTL_EVT1.4AA5S	レイブンルフト		speaker
+BTL_EVT1.4AA5S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4AB4	……なにが天使の勇者だ。		
-BTL_EVT1.4AD0S	レイブンルフト		speaker
+BTL_EVT1.4AD0S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.4ADF	無様な敗北者が……。		
-BTL_EVT1.4B1BS	クライヴ		speaker
+BTL_EVT1.4B1BS	クライヴ	Clive	speaker
 BTL_EVT1.4B24	…………。		
 BTL_EVT1.4B32S	イオン	Ion	speaker
 BTL_EVT1.4B39	ぼくの邪魔をするから……。		
 BTL_EVT1.4B57S	イオン	Ion	speaker
 BTL_EVT1.4B5E	ぼくの邪魔をするから……。		
-BTL_EVT1.4BC4S	クライヴ		speaker
+BTL_EVT1.4BC4S	クライヴ	Clive	speaker
 BTL_EVT1.4BCD	…………。		
 BTL_EVT1.4BDBS	サヴィオ		speaker
 BTL_EVT1.4BE4	グハハハハハ。		
 BTL_EVT1.4BF6S	サヴィオ		speaker
 BTL_EVT1.4BFF	グハハハハハ。		
-BTL_EVT1.4C35S	クライヴ		speaker
+BTL_EVT1.4C35S	クライヴ	Clive	speaker
 BTL_EVT1.4C3E	あいつの話は本当だったのか……。{n}どうしてこいつらが……。		
 BTL_EVT1.4C7CS	モラクス		speaker
 BTL_EVT1.4C85	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！		
 BTL_EVT1.4CD3S	モラクス		speaker
 BTL_EVT1.4CDC	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。		
-BTL_EVT1.4D2CS	クライヴ		speaker
+BTL_EVT1.4D2CS	クライヴ	Clive	speaker
 BTL_EVT1.4D35	…………。		
 BTL_EVT1.4D43S	モラクス		speaker
 BTL_EVT1.4D4C	首を洗って出直して来い！{n}ワハハハっ！		
@@ -751,13 +751,13 @@ BTL_EVT1.4D76S	モラクス		speaker
 BTL_EVT1.4D7F	ワハハハ！　天使の勇者など、赤子のようだ！		
 BTL_EVT1.4DD1S	ラルヴァ		speaker
 BTL_EVT1.4DDA	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！		
-BTL_EVT1.4E6CS	クライヴ		speaker
+BTL_EVT1.4E6CS	クライヴ	Clive	speaker
 BTL_EVT1.4E75	くだらん話になど、俺もつきあう気はない……。		
 BTL_EVT1.4EA5S	ラルヴァ		speaker
 BTL_EVT1.4EAE	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！		
 BTL_EVT1.4EFES	ラルヴァ		speaker
 BTL_EVT1.4F07	な、なんで……あたしが……。		
-BTL_EVT1.4F27S	クライヴ		speaker
+BTL_EVT1.4F27S	クライヴ	Clive	speaker
 BTL_EVT1.4F30	消えろ……。		
 BTL_EVT1.4F40S	ラルヴァ		speaker
 BTL_EVT1.4F49	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！		
@@ -769,13 +769,13 @@ BTL_EVT1.506DS	吸血鬼ブラス		speaker
 BTL_EVT1.507A	王の血をひく者だと……。{n}ふん、笑わせてくれるわ……。{wait}{clear}ハッハッハッ……		
 BTL_EVT1.50C8S	吸血鬼ブラス		speaker
 BTL_EVT1.50D5	王の血をひく者だと……。{n}ふん、笑わせてくれるわ……。{wait}{clear}ハッハッハッ……		
-BTL_EVT1.5147S	セレニス		speaker
+BTL_EVT1.5147S	セレニス	Serenis	speaker
 BTL_EVT1.5150	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT1.5186S	セレニス		speaker
+BTL_EVT1.5186S	セレニス	Serenis	speaker
 BTL_EVT1.518F	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT1.5231S	レイブンルフト		speaker
+BTL_EVT1.5231S	レイブンルフト	Ravenruft	speaker
 BTL_EVT1.5240	ふん、いい腕だ。{wait}{clear}しかし時はまだ熟さん。{n}去れ！{wait}{clear}ハハハハハ…………		
-BTL_EVT1.528CS	クライヴ		speaker
+BTL_EVT1.528CS	クライヴ	Clive	speaker
 BTL_EVT1.5295	待てレイブンルフト！{n}俺と戦え！！		
 BTL_EVT1.52BBS	王の女		speaker
 BTL_EVT1.52C2	わたくしの働きをご覧いただけました？{wait}{clear}王、レイブンルフト様。		
@@ -787,31 +787,31 @@ BTL_EVT1.539AS	王の女		speaker
 BTL_EVT1.53A1	逃げましたわよ……。ホホホホ……		
 BTL_EVT1.5455S	ノスフェラトゥ		speaker
 BTL_EVT1.5464	人間ごときに、我らの邪魔などさせるものか！		
-BTL_EVT1.5492S	クライヴ		speaker
+BTL_EVT1.5492S	クライヴ	Clive	speaker
 BTL_EVT1.549B	地獄へ堕ちろ……。		
 BTL_EVT1.54B1S	ノスフェラトゥ		speaker
 BTL_EVT1.54C0	貴様が王の血を継ぐ者だとはな……。		
 BTL_EVT1.54E6S	ノスフェラトゥ		speaker
 BTL_EVT1.54F5	半分の人間の血が貴様の弱さだ！		
-BTL_EVT1.55CBS	クライヴ		speaker
+BTL_EVT1.55CBS	クライヴ	Clive	speaker
 BTL_EVT1.55D4	くそ……きりがない……。		
-BTL_EVT1.55F0S	クライヴ		speaker
+BTL_EVT1.55F0S	クライヴ	Clive	speaker
 BTL_EVT1.55F9	俺ひとりでは……。{wait}{clear}ここは退くしかない……。		
 BTL_EVT1.562BS	帝国歩兵		speaker
 BTL_EVT1.5634	皇帝陛下バンザイ！		
 BTL_EVT1.564AS	帝国歩兵		speaker
 BTL_EVT1.5653	皇帝陛下バンザイ！		
-BTL_EVT1.568DS	クライヴ		speaker
+BTL_EVT1.568DS	クライヴ	Clive	speaker
 BTL_EVT1.5696	来るなら、斬る。		
-BTL_EVT1.56AAS	クライヴ		speaker
+BTL_EVT1.56AAS	クライヴ	Clive	speaker
 BTL_EVT1.56B3	終わりだな……。		
 BTL_EVT1.56C7S	ティンダロス		speaker
 BTL_EVT1.56D4	うおおお～んっ！！		
 BTL_EVT1.56EAS	ティンダロス		speaker
 BTL_EVT1.56F7	うおおお～んっ！！		
-BTL_EVT1.5731S	クライヴ		speaker
+BTL_EVT1.5731S	クライヴ	Clive	speaker
 BTL_EVT1.573A	くだらんことはやめろ……。		
-BTL_EVT1.5758S	クライヴ		speaker
+BTL_EVT1.5758S	クライヴ	Clive	speaker
 BTL_EVT1.5761	…………。		
 BTL_EVT1.576FS	ウォーロック		speaker
 BTL_EVT1.577C	我らの儀式の意味……わかるはずはない……。		
@@ -819,15 +819,15 @@ BTL_EVT1.57AAS	ウォーロック		speaker
 BTL_EVT1.57B7	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT1.5809S	ウジャト		speaker
 BTL_EVT1.5812	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		
-BTL_EVT1.585AS	クライヴ		speaker
+BTL_EVT1.585AS	クライヴ	Clive	speaker
 BTL_EVT1.5863	くそ……。		
 BTL_EVT1.5871S	ウジャト		speaker
 BTL_EVT1.587A	あははは！{n}情けない勇者だこと！		
 BTL_EVT1.589ES	ウジャト		speaker
 BTL_EVT1.58A7	あははは！{n}情けない勇者だこと！		
-BTL_EVT1.58EFS	クライヴ		speaker
+BTL_EVT1.58EFS	クライヴ	Clive	speaker
 BTL_EVT1.58F8	お前らにつき合ってるひまなどない……！		
-BTL_EVT1.5922S	クライヴ		speaker
+BTL_EVT1.5922S	クライヴ	Clive	speaker
 BTL_EVT1.592B	…………。		
 BTL_EVT1.5939S	ティンダロス		speaker
 BTL_EVT1.5946	ウオォ～ン！！		
@@ -835,7 +835,7 @@ BTL_EVT1.5958S	ティンダロス		speaker
 BTL_EVT1.5965	ウオォ～ン！！		
 BTL_EVT1.599BS	モラクス		speaker
 BTL_EVT1.59A4	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！		
-BTL_EVT1.59F8S	クライヴ		speaker
+BTL_EVT1.59F8S	クライヴ	Clive	speaker
 BTL_EVT1.5A01	…………。		
 BTL_EVT1.5A0FS	モラクス		speaker
 BTL_EVT1.5A18	ふははは！　出直してこい！		

@@ -1,45 +1,45 @@
 id	jp	en	notes
 ceev11.004E	セシア	Cecia	speaker
-ceev11.0058	天使様……明日、聖母を継ぐための{n}儀式を行うことになりました。{wait}{clear}		
+ceev11.0058	天使様……明日、聖母を継ぐための{n}儀式を行うことになりました。{wait}{clear}	Angel... tomorrow I am to undergo the rite{n}of succession to become the Holy Mother.{wait}{clear}	
 ceev11.009A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev11.00AA	その儀式とはどういうものなのですか？{wait}{clear}		
+ceev11.00AA	その儀式とはどういうものなのですか？{wait}{clear}	What kind of rite is it?{wait}{clear}	
 ceev11.00D2	セシア	Cecia	speaker
-ceev11.00DC	それは……{n}聖母様から、聖母としての記憶を受け継ぐのです。{wait}{clear}		
+ceev11.00DC	それは……{n}聖母様から、聖母としての記憶を受け継ぐのです。{wait}{clear}	It's... I will receive the Holy Mother's{n}memories, the memories she holds as Holy{n}Mother.{wait}{clear}	
 ceev11.011A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev11.012A	記憶を受け継ぐ？{wait}{clear}		
+ceev11.012A	記憶を受け継ぐ？{wait}{clear}	Inherit her memories?{wait}{clear}	
 ceev11.013E	セシア	Cecia	speaker
-ceev11.0148	はい……そうです。{n}聖母様……いえ、聖ディアナ様の記憶を{n}受け継ぐのです。{wait}{clear}ですが……。{wait}{clear}		
+ceev11.0148	はい……そうです。{n}聖母様……いえ、聖ディアナ様の記憶を{n}受け継ぐのです。{wait}{clear}ですが……。{wait}{clear}	Yes... that's right. I will inherit the{n}memories of the Holy Mother... no, of Saint{n}Diana herself.{wait}{clear}But...{wait}{clear}	
 ceev11.01B2	セシア	Cecia	speaker
-ceev11.01C0	天使様……私……どうしたらいいか……。{wait}{clear}		
+ceev11.01C0	天使様……私……どうしたらいいか……。{wait}{clear}	Angel... I... I don't know what to do...{wait}{clear}	
 ceev11.01EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev11.01FA	セシア……。{n}すみません、私はなにも言うことができません……。{wait}{clear}ただ、ひとつだけ言えることは、{n}あなた自身の心に従うことがいいことだと思います。{wait}{clear}		
+ceev11.01FA	セシア……。{n}すみません、私はなにも言うことができません……。{wait}{clear}ただ、ひとつだけ言えることは、{n}あなた自身の心に従うことがいいことだと思います。{wait}{clear}	Cecia... I'm sorry, there's nothing I can{n}tell you...{wait}{clear}All I can say is that I think it's best to{n}follow your own heart.{wait}{clear}	
 ceev11.0290	セシア	Cecia	speaker
-ceev11.029E	むしろ、誇りに思います……。{n}聖母に選ばれるのですから……。{wait}{clear}		
+ceev11.029E	むしろ、誇りに思います……。{n}聖母に選ばれるのですから……。{wait}{clear}	If anything, I'm proud... I've been chosen{n}by the Holy Mother, after all...{wait}{clear}	
 ceev11.02DE	セシア	Cecia	speaker
-ceev11.02EC	ただ、あまりに突然で……{n}私にそれがつとまるかどうか……。{wait}{clear}		
+ceev11.02EC	ただ、あまりに突然で……{n}私にそれがつとまるかどうか……。{wait}{clear}	It's just so sudden... I don't know if I'm{n}equal to it...{wait}{clear}	
 ceev11.033E	ＮＵＬＬ	NULL	speaker
-ceev11.034E	《迷うのはわかります。》{n}		
-ceev11.036E	《きっと大丈夫ですよ。》{n}		
+ceev11.034E	《迷うのはわかります。》{n}	I understand your doubts.{n}	
+ceev11.036E	《きっと大丈夫ですよ。》{n}	I'm sure you'll be fine.{n}	
 ceev11.0398	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev11.03A8	迷う気持ちはわかります。{wait}{clear}ですが、セシア……自分を信じてください。{n}あなたには……{n}あなたにしかできないことがあるのですから。{wait}{clear}		
+ceev11.03A8	迷う気持ちはわかります。{wait}{clear}ですが、セシア……自分を信じてください。{n}あなたには……{n}あなたにしかできないことがあるのですから。{wait}{clear}	I understand why you're torn.{wait}{clear}But Cecia... please believe in yourself.{n}There are things that only you... only you{n}can do.{wait}{clear}	
 ceev11.0436	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev11.0446	大丈夫ですよ。{n}きっとセシアなら立派な聖母になれるでしょう。{wait}{clear}私はそう思います。{wait}{clear}		
+ceev11.0446	大丈夫ですよ。{n}きっとセシアなら立派な聖母になれるでしょう。{wait}{clear}私はそう思います。{wait}{clear}	You'll be fine. I'm sure you'll make a{n}wonderful Holy Mother, Cecia.{wait}{clear}I truly believe that.{wait}{clear}	
 ceev11.04A8	セシア	Cecia	speaker
-ceev11.04B6	…………。{n}ありがとうございます……天使様。{wait}{clear}		
+ceev11.04B6	…………。{n}ありがとうございます……天使様。{wait}{clear}	......Thank you... Angel.{wait}{clear}	
 ceev11.04F0	セシア	Cecia	speaker
-ceev11.04FE	ただ……不安なのです。{wait}{clear}		
-ceev11.051C	私が聖母さまの記憶を受け継いだとき……{wait}{clear}		
-ceev11.054A	私は、私でいられるのでしょうか……。{wait}{clear}		
-ceev11.0582	天使様……{wait}{clear}		
-ceev11.0594	私は天使様のことが好きです……。{wait}{clear}		
-ceev11.05BC	この思いが、{n}もし……{n}どこかにいっていまうとしたら……{wait}{clear}		
-ceev11.05FC	私……{wait}{clear}		
-ceev11.060A	天使様……{wait}{clear}		
-ceev11.061C	お願いがあります……{wait}{clear}		
-ceev11.0638	最後に私が私であるうちに……{n}あなたに……{wait}{clear}		
+ceev11.04FE	ただ……不安なのです。{wait}{clear}	It's just... I'm afraid.{wait}{clear}	
+ceev11.051C	私が聖母さまの記憶を受け継いだとき……{wait}{clear}	When I inherit the Holy Mother's memories...{wait}{clear}	
+ceev11.054A	私は、私でいられるのでしょうか……。{wait}{clear}	will I still be able to be myself...?{wait}{clear}	
+ceev11.0582	天使様……{wait}{clear}	Angel...{wait}{clear}	
+ceev11.0594	私は天使様のことが好きです……。{wait}{clear}	I love you, Angel...{wait}{clear}	
+ceev11.05BC	この思いが、{n}もし……{n}どこかにいっていまうとしたら……{wait}{clear}	If these feelings were to... slip away{n}somewhere...{wait}{clear}	
+ceev11.05FC	私……{wait}{clear}	I...{wait}{clear}	
+ceev11.060A	天使様……{wait}{clear}	Angel...{wait}{clear}	
+ceev11.061C	お願いがあります……{wait}{clear}	I have a favor to ask...{wait}{clear}	
+ceev11.0638	最後に私が私であるうちに……{n}あなたに……{wait}{clear}	One last time, while I'm still myself... I{n}want you to...{wait}{clear}	
 ceev11.0666	ＮＵＬＬ	NULL	speaker
-ceev11.0676	《セシアにキスする》{n}		
-ceev11.0692	《セシアを抱きしめる》{n}		
+ceev11.0676	《セシアにキスする》{n}	Kiss Cecia{n}	
+ceev11.0692	《セシアを抱きしめる》{n}	Hold Cecia close{n}	
 ceev11.06EC	セシア	Cecia	speaker
-ceev11.06FA	天使様……ありがとう。{wait}{clear}		
-ceev11.0718	これで、私……{n}心を決めることができると思います……。{wait}{clear}		
+ceev11.06FA	天使様……ありがとう。{wait}{clear}	Angel... thank you.{wait}{clear}	
+ceev11.0718	これで、私……{n}心を決めることができると思います……。{wait}{clear}	Now I think... I can make up my mind...{wait}{clear}	

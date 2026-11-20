@@ -1,13 +1,13 @@
 id	jp	en	notes
 roev19_02b.0002	1		dev label (guess: not shown)
-roev19_02b.00A2	ロクス		unit name (32-byte field)
+roev19_02b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev19_02b.00DE	聖母	Holy Mother	unit name (32-byte field)
-roev19_02b.0498	ロクス		speaker
+roev19_02b.0498	ロクス	Rocus	speaker
 roev19_02b.04AD	ディアナ様！		text
 roev19_02b.0518	聖母	Holy Mother	speaker
 roev19_02b.052B	ロクス……魔石を奪われてしまいました。		text
 roev19_02b.0560	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
 roev19_02b.05D5	そうなってしまっては、世界は破滅してしまいます。		text
 roev19_02b.0614	ロクス……どうか世界を守ってください。{n}そして、天使様の助けになってあげてください……。		text
-roev19_02b.067B	ロクス		speaker
+roev19_02b.067B	ロクス	Rocus	speaker
 roev19_02b.0690	はい……わかりました。		text

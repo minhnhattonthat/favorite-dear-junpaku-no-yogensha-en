@@ -1,8 +1,8 @@
 id	jp	en	notes
-clev04.00A2	クライヴ		unit name (32-byte field)
+clev04.00A2	クライヴ	Clive	unit name (32-byte field)
 clev04.00DE	吸血鬼		unit name (32-byte field)
 clev04.0498	吸血鬼		speaker
 clev04.04AD	なんだ貴様は？		text
-clev04.04CA	クライヴ		speaker
+clev04.04CA	クライヴ	Clive	speaker
 clev04.04E1	化け物に名乗る名はもっていない。		text
 clev04.0510	行くぞ！！		text

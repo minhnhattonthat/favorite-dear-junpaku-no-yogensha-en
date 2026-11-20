@@ -1,9 +1,9 @@
 id	jp	en	notes
-eiev16.0032	アイリーン		speaker
+eiev16.0032	アイリーン	Irene	speaker
 eiev16.0044	驚いた？{wait}{clear}		
 eiev16.0050	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.0060	……ええ。どうしたのですか？{wait}{clear}		
-eiev16.0080	アイリーン		speaker
+eiev16.0080	アイリーン	Irene	speaker
 eiev16.0092	魔法が解けたみたい……{wait}{clear}		
 eiev16.00B0	なんでだろうね……。{wait}{clear}		
 eiev16.00CC	ねえ……＄＄＄＄＄＄。{n}私、お姉ちゃんに似てる？{wait}{clear}		
@@ -12,17 +12,17 @@ eiev16.0110	《ええ……》{n}
 eiev16.0124	《いいえ……》{n}		
 eiev16.0144	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.0154	ええ、面影を……感じます。{wait}{clear}		
-eiev16.0172	アイリーン		speaker
+eiev16.0172	アイリーン	Irene	speaker
 eiev16.0184	そうね……。{wait}{clear}		
 eiev16.0198	私も鏡見て、思った……。{wait}{clear}		
 eiev16.01B8	やっぱりお姉ちゃんに似てるなって。{wait}{clear}		
 eiev16.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.01F8	いいえ……{n}アイリーンはアイリーンですよ。{wait}{clear}		
-eiev16.0226	アイリーン		speaker
+eiev16.0226	アイリーン	Irene	speaker
 eiev16.0238	……そう？{wait}{clear}		
 eiev16.024A	私は鏡見て思ったんだ……。{wait}{clear}		
 eiev16.026C	やっぱりお姉ちゃんに似てるなって……。{wait}{clear}		
-eiev16.0296	アイリーン		speaker
+eiev16.0296	アイリーン	Irene	speaker
 eiev16.02A8	ねえ……＄＄＄＄＄＄。{wait}{clear}		
 eiev16.02C6	今まで、いろいろありがとう。{wait}{clear}		
 eiev16.02EA	私、ずっとわがままばかり言ってたでしょう……{wait}{clear}		
@@ -34,7 +34,7 @@ eiev16.03C6	あなたはこの世界が、もし平和になったら……{wait
 eiev16.03F8	天界へ帰ってしまうの？{wait}{clear}		
 eiev16.0412	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.0422	はい……{wait}{clear}それが天使としてのつとめです。{wait}{clear}		
-eiev16.0450	アイリーン		speaker
+eiev16.0450	アイリーン	Irene	speaker
 eiev16.0462	そうなんだ……。{wait}{clear}		
 eiev16.047A	…………。{wait}{clear}	.........{wait}{clear}	
 eiev16.048C	絶対に残れないの？{wait}{clear}		
@@ -43,17 +43,17 @@ eiev16.04B2	《はい……。》{n}
 eiev16.04C8	《いいえ……。》{n}		
 eiev16.04E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev16.04F4	はい……。{wait}{clear}	Yes...{wait}{clear}	
-eiev16.0502	アイリーン		speaker
+eiev16.0502	アイリーン	Irene	speaker
 eiev16.0514	そっか……。{wait}{clear}		
 eiev16.0528	私……{n}もうわがままは反省したんだもんね。{wait}{clear}		
 eiev16.055A	これ以上……あなたを困らせたら{n}いけないよね……。{wait}{clear}		
 eiev16.0594	ね、天界に帰っても、私のこと、{n}たまには思い出してね……。{wait}{clear}		
 eiev16.05D6	私も、あなたのこと忘れないから……。{wait}{clear}		
 eiev16.060E	いいえ……{n}私は……この地上に残りたいと思っています。{wait}{clear}たとえつとめを破ることとなろうとも……。{wait}{clear}あなたのために……。{wait}{clear}		
-eiev16.068C	アイリーン		speaker
+eiev16.068C	アイリーン	Irene	speaker
 eiev16.069E	本当……！？{wait}{clear}		
 eiev16.06D8	ありがとう……＄＄＄＄＄＄。{wait}{clear}		
-eiev16.06FE	アイリーン		speaker
+eiev16.06FE	アイリーン	Irene	speaker
 eiev16.070C	…………。{wait}{clear}	.........{wait}{clear}	
 eiev16.071E	でも約束は……絶対だからね……{wait}{clear}		
 eiev16.0744	破ったりしないでね……。{wait}{clear}		

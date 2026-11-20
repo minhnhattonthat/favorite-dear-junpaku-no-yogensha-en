@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Ei01.005C	アイリーン		speaker
+men3_Ei01.005C	アイリーン	Irene	speaker
 men3_Ei01.006A	ごめん、急に呼んで。{wait}{clear}		
 men3_Ei01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei01.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
-men3_Ei01.00CC	アイリーン		speaker
+men3_Ei01.00CC	アイリーン	Irene	speaker
 men3_Ei01.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、このヤドリギの枝を{n}あげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
 men3_Ei01.0174	ＮＵＬＬ	NULL	speaker
 men3_Ei01.0184	《ありがとうございます。》{n}		
 men3_Ei01.01A6	《戒律があるので……。》{n}		
 men3_Ei01.01C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei01.01D6	ありがとうございます。{n}この枝には、どんな意味が？{wait}{clear}		
-men3_Ei01.020C	アイリーン		speaker
+men3_Ei01.020C	アイリーン	Irene	speaker
 men3_Ei01.021A	そんなに重要な意味があるわけじゃないけど、{n}いちおう魔術には必要な材料のひとつなんだ。{wait}{clear}		
 men3_Ei01.0274	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei01.0284	そうなのですね。{n}では、いただいていきます。{wait}{clear}本当にありがとうございました。{wait}{clear}		
 men3_Ei01.02DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei01.02EA	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Ei01.035A	アイリーン		speaker
+men3_Ei01.035A	アイリーン	Irene	speaker
 men3_Ei01.0368	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}		
 men3_Ei01.03BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei01.03CC	本当にすみません。{wait}{clear}		

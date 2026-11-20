@@ -1,13 +1,13 @@
 id	jp	en	notes
 ceev24e.0002	ラストバトル(負ける)		dev label (guess: not shown)
 ceev24e.00A2	セシア	Cecia	unit name (32-byte field)
-ceev24e.00DE	ベルゼバブ		unit name (32-byte field)
+ceev24e.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 ceev24e.011A	天竜		unit name (32-byte field)
-ceev24e.04A8	ベルゼバブ		speaker
+ceev24e.04A8	ベルゼバブ	Beelzebub	speaker
 ceev24e.04C1	……くっ、サタン様の魂が……こんなことに……		text
-ceev24e.050C	ミカエル		speaker
+ceev24e.050C	ミカエル	Michael	speaker
 ceev24e.0523	これが正義だ。ベルゼバブ。		text
-ceev24e.055C	ベルゼバブ		speaker
+ceev24e.055C	ベルゼバブ	Beelzebub	speaker
 ceev24e.0575	ふん、なにを言うか……{n}これしきのことで……いい気になるな……		text
 ceev24e.05D2	今はたしかに引き下がろう……{n}だが、いつかまた、必ずサタン様はよみがえり……		text
 ceev24e.063D	魔軍を率いて貴様らの天界を焼き払うだろう……		text

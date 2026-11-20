@@ -1,5 +1,5 @@
 id	jp	en	notes
-prologue.006A	ラファエル		speaker
+prologue.006A	ラファエル	Raphael	speaker
 prologue.0084	よく来ました、＄＄＄＄＄＄。{wait}{clear}		
 prologue.00A8	今日はあなたに新しい任務を与えるため、{n}ここへ呼びました。{wait}{clear}		
 prologue.00EA	ある地上界の混乱の原因を{n}あなたに探ってきて欲しいのです。{wait}{clear}		
@@ -74,7 +74,7 @@ prologue.10B0	はじめまして、天使様。レーパスと申します。{wa
 prologue.10E2	天使様と勇者様のサポートができるなんて、{n}大変、光栄に思います。{wait}{clear}		
 prologue.112A	しっかりつとめさせていただきたいと{n}思いますので、よろしくお願いいたします。{wait}{clear}		
 prologue.117A	ＮＵＬＬ	NULL	speaker
-prologue.11A4	ラファエル		speaker
+prologue.11A4	ラファエル	Raphael	speaker
 prologue.11C6	彼女はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		
 prologue.1212	彼はあなたの任務について{n}いろいろと助言をしてくれるでしょう。{wait}{clear}		
 prologue.1258	さあ、お行きなさい、＄＄＄＄＄＄よ。{wait}{clear}		

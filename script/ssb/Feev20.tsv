@@ -1,5 +1,5 @@
 id	jp	en	notes
-Feev20.0056	フェイン		speaker
+Feev20.0056	フェイン	Fein	speaker
 Feev20.0066	……＄＄＄＄＄＄。{n}セレニスが死んだというのは本当か？{wait}{clear}		
 Feev20.00A4	……帝国の魔女が死んだと……噂を聞いた。{wait}{clear}		
 Feev20.0104	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -15,10 +15,10 @@ Feev20.0254	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev20.0264	……はい、勇者レイラが、倒しました。{wait}{clear}		
 Feev20.0290	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev20.02A0	……はい、勇者セシアが、倒しました。{wait}{clear}		
-Feev20.02CC	フェイン		speaker
+Feev20.02CC	フェイン	Fein	speaker
 Feev20.02DC	……そうか。{wait}{clear}		
 Feev20.02F0	……セレニス……。{wait}{clear}		
 Feev20.0306	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev20.0316	フェイン……{wait}{clear}		
-Feev20.0334	フェイン		speaker
+Feev20.0334	フェイン	Fein	speaker
 Feev20.0344	今は、一人にしてくれ……。{wait}{clear}		

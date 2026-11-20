@@ -1,14 +1,14 @@
 id	jp	en	notes
-clev17b.00A2	クライヴ		unit name (32-byte field)
+clev17b.00A2	クライヴ	Clive	unit name (32-byte field)
 clev17b.00DE	レイブンルフト劇		unit name (32-byte field)
 clev17b.011A	ヴァンパイア		unit name (32-byte field)
 clev17b.0156	レイブンルフト椅子		unit name (32-byte field)
-clev17b.04D8	レイブンルフト		speaker
+clev17b.04D8	レイブンルフト	Ravenruft	speaker
 clev17b.04F5	よく来た……。		text
-clev17b.0522	クライヴ		speaker
+clev17b.0522	クライヴ	Clive	speaker
 clev17b.0539	最後だ。レイブンルフト。		text
 clev17b.0570	今日、すべてを終わらせる。		text
-clev17b.05A9	レイブンルフト		speaker
+clev17b.05A9	レイブンルフト	Ravenruft	speaker
 clev17b.05C6	終わりか……いい響きの言葉だ。		text
 clev17b.0603	有限の命をお前が選ぶというのなら{n}しかたあるまい。		text
 clev17b.0654	我が手で葬ってくれる。		text

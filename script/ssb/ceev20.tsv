@@ -1,19 +1,19 @@
 id	jp	en	notes
-ceev20.007C	セレニス		speaker
-ceev20.008C	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……。{wait}{clear}		
+ceev20.007C	セレニス	Serenis	speaker
+ceev20.008C	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……。{wait}{clear}	Ah, Lord Satan... I have waited... for the{n}day I would meet you...{wait}{clear}	
 ceev20.00D2	セシア	Cecia	speaker
-ceev20.00DC	天竜……そんな……。{wait}{clear}		
-ceev20.00F4	セレニス		speaker
-ceev20.0104	そう！{n}これこそがサタン様の魂の化身である天竜よ！{wait}{clear}		
-ceev20.013E	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}		
+ceev20.00DC	天竜……そんな……。{wait}{clear}	The Heavenly Dragon... no...{wait}{clear}	
+ceev20.00F4	セレニス	Serenis	speaker
+ceev20.0104	そう！{n}これこそがサタン様の魂の化身である天竜よ！{wait}{clear}	Yes! This is the Heavenly Dragon, the{n}incarnation of Lord Satan's soul!{wait}{clear}	
+ceev20.013E	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}	Isn't it magnificent? That form, that{n}majesty...{wait}{clear}	
 ceev20.0170	セシア	Cecia	speaker
-ceev20.017A	これ以上、あなたの思い通りにはさせません！{wait}{clear}		
+ceev20.017A	これ以上、あなたの思い通りにはさせません！{wait}{clear}	I won't let you have your way any longer!{wait}{clear}	
 ceev20.0204	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev20.0214	塔が崩れます、セシア！{wait}{clear}		
+ceev20.0214	塔が崩れます、セシア！{wait}{clear}	The tower's collapsing, Cecia!{wait}{clear}	
 ceev20.0234	ＮＵＬＬ	NULL	speaker
-ceev20.0240	ゴゴゴゴゴ……{wait}{clear}		
+ceev20.0240	ゴゴゴゴゴ……{wait}{clear}	Rumble rumble...{wait}{clear}	
 ceev20.0282	セシア	Cecia	speaker
-ceev20.028C	天使様……あのとき……{n}あの最後のとき……彼女はわざと……。{wait}{clear}どうして……。{wait}{clear}		
+ceev20.028C	天使様……あのとき……{n}あの最後のとき……彼女はわざと……。{wait}{clear}どうして……。{wait}{clear}	Angel... back then... at the very end... she{n}did it on purpose...{wait}{clear}Why...{wait}{clear}	
 ceev20.02EE	セシア	Cecia	speaker
-ceev20.02F8	天竜が……。{n}復活を阻止できないなんて……。{wait}{clear}		
-ceev20.0334	でも、天使様、私はあきらめません。{n}ぜったいに悪魔を倒します。{wait}{clear}		
+ceev20.02F8	天竜が……。{n}復活を阻止できないなんて……。{wait}{clear}	The Heavenly Dragon... We couldn't stop its{n}revival...{wait}{clear}	
+ceev20.0334	でも、天使様、私はあきらめません。{n}ぜったいに悪魔を倒します。{wait}{clear}	But, Angel, I won't give up. I will defeat{n}the devils, no matter what.{wait}{clear}	

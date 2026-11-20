@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Ei02.005C	アイリーン		speaker
+men3_Ei02.005C	アイリーン	Irene	speaker
 men3_Ei02.006A	ごめん、急に呼んで。{wait}{clear}		
 men3_Ei02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
-men3_Ei02.00CC	アイリーン		speaker
+men3_Ei02.00CC	アイリーン	Irene	speaker
 men3_Ei02.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この羽ペンをあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
 men3_Ei02.016C	ＮＵＬＬ	NULL	speaker
 men3_Ei02.017C	《ありがとうございます。》{n}		
 men3_Ei02.019E	《戒律があるので……。》{n}		
 men3_Ei02.01BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.01CE	ありがとうございます。{n}でも、まさか、この羽は……？{wait}{clear}		
-men3_Ei02.0212	アイリーン		speaker
+men3_Ei02.0212	アイリーン	Irene	speaker
 men3_Ei02.0220	なに想像してるのよ！{n}そんなわけないでしょう？{wait}{clear}		
 men3_Ei02.0252	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.0262	そう、ですよね……すみません。{wait}{clear}では、いただいていきますね。{n}本当にありがとうございました。{wait}{clear}		
 men3_Ei02.02C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.02D8	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Ei02.0348	アイリーン		speaker
+men3_Ei02.0348	アイリーン	Irene	speaker
 men3_Ei02.0356	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}		
 men3_Ei02.03AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ei02.03BA	本当にすみません。{wait}{clear}		

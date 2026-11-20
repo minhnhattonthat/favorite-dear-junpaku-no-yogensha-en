@@ -1,7 +1,7 @@
 id	jp	en	notes
 roev08d.0002	聖都陥落		dev label (guess: not shown)
-roev08d.00A2	ロクス		unit name (32-byte field)
+roev08d.00A2	ロクス	Rocus	unit name (32-byte field)
 roev08d.00DE	帝国騎士		unit name (32-byte field)
 roev08d.011A	帝国騎士		unit name (32-byte field)
-roev08d.0548	ロクス		speaker
+roev08d.0548	ロクス	Rocus	speaker
 roev08d.055D	ダメだ……僕一人ではどうにもならない。{n}クソッ…		text

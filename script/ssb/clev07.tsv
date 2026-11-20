@@ -1,32 +1,32 @@
 id	jp	en	notes
 clev07.00B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.00C0	どうしたのです？　クライヴ。{n}顔色がよくないですが……。{wait}{clear}		
-clev07.00FC	クライヴ		speaker
+clev07.00C0	どうしたのです？　クライヴ。{n}顔色がよくないですが……。{wait}{clear}	What's wrong, Clive? You don't look well...{wait}{clear}	
+clev07.00FC	クライヴ	Clive	speaker
 clev07.0108	…………。{wait}{clear}	.........{wait}{clear}	
 clev07.0116	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.0126	大丈夫ですか！　クライヴ！{wait}{clear}		
-clev07.0144	クライヴ		speaker
-clev07.0154	……クソッ！！{wait}{clear}		
+clev07.0126	大丈夫ですか！　クライヴ！{wait}{clear}	Are you all right?! Clive!{wait}{clear}	
+clev07.0144	クライヴ	Clive	speaker
+clev07.0154	……クソッ！！{wait}{clear}	...Damn it!!{wait}{clear}	
 clev07.0166	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.0176	クライヴ……{n}あなたの体の話を詳しく聞かせてください……。{wait}{clear}		
-clev07.01B4	クライヴ		speaker
-clev07.01C4	お前には関係ない……。{wait}{clear}		
+clev07.0176	クライヴ……{n}あなたの体の話を詳しく聞かせてください……。{wait}{clear}	Clive... please tell me everything about{n}what's happening to your body...{wait}{clear}	
+clev07.01B4	クライヴ	Clive	speaker
+clev07.01C4	お前には関係ない……。{wait}{clear}	It's none of your business...{wait}{clear}	
 clev07.01DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.01EE	クライヴ……。{wait}{clear}		
+clev07.01EE	クライヴ……。{wait}{clear}	Clive...{wait}{clear}	
 clev07.0218	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.0228	少しでいいので、聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}		
+clev07.0228	少しでいいので、聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}	Just a little is enough, please tell me... I{n}can't bear to watch you suffer any longer.{wait}{clear}	
 clev07.0288	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.0298	もしかしたら、{n}レイブンルフトに関係があるのですか？{wait}{clear}聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}		
-clev07.031C	クライヴ		speaker
-clev07.032C	この血……{n}やつの血だ……。{wait}{clear}		
-clev07.0350	……この血が俺を狂わせる……{wait}{clear}		
-clev07.0374	……もういい、向こうへ行け……。{n}俺から離れろ……。{wait}{clear}		
+clev07.0298	もしかしたら、{n}レイブンルフトに関係があるのですか？{wait}{clear}聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}	Does it have something to do with Ravenruft?{wait}{clear}Please tell me... I can't bear to watch you{n}suffer any longer.{wait}{clear}	
+clev07.031C	クライヴ	Clive	speaker
+clev07.032C	この血……{n}やつの血だ……。{wait}{clear}	This blood... it's his blood...{wait}{clear}	
+clev07.0350	……この血が俺を狂わせる……{wait}{clear}	...This blood is driving me mad...{wait}{clear}	
+clev07.0374	……もういい、向こうへ行け……。{n}俺から離れろ……。{wait}{clear}	...Enough, go away... Get away from me...{wait}{clear}	
 clev07.03BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev07.03CE	そんなあなたをほうってはおけません！{n}クライヴ……きちんと話していただけませんか？{wait}{clear}		
-clev07.0432	クライヴ		speaker
-clev07.043E	…………。{wait}{clear}俺は……レイブンルフトの生けにえとなった{n}女から生まれた……{wait}{clear}		
-clev07.0494	クライヴ		speaker
-clev07.04A0	俺の父親はレイブンルフトという吸血鬼の王だ。{wait}{clear}		
-clev07.04D0	やつらにさらわれた母親は{n}ハンターに救われて村へ戻ってきた……{n}だがその体はすでに吸血鬼と化していた……{wait}{clear}それを知った村人は母親を殺し、墓場に捨て、{n}その死んだ体から俺は生まれた……{wait}{clear}俺は殺されかかったが{n}村の信心深い老夫婦に助けられた。{wait}{clear}		
-clev07.05E8	クライヴ		speaker
-clev07.05F4	老夫婦は俺を普通の人間として{n}育てようとしてくれたが、{n}それも……やつらが戻ってきて……終わった……。{wait}{clear}俺の村は俺をのこして全員殺された。{wait}{clear}やつらはわざと俺を殺さなかった……{n}俺がいつか血に狂った吸血鬼になると思って……{wait}{clear}そして俺は、{n}めちゃめちゃにされた村に現れた{n}ハンターに拾われた。{wait}{clear}俺の母親を救い出したハンターだった。{wait}{clear}それが……アーウィンだ……。{wait}{clear}俺はやつのもとで{n}吸血鬼やアンデッドと戦う術を学んだ。{n}暗い闇の中で呪われた悪魔どもと戦う方法だ……。{wait}{clear}俺は血に負けるわけにはいかん……絶対に……。{n}やつを倒すまでは……{wait}{clear}		
+clev07.03CE	そんなあなたをほうってはおけません！{n}クライヴ……きちんと話していただけませんか？{wait}{clear}	I can't leave you like this! Clive... won't{n}you tell me properly?{wait}{clear}	
+clev07.0432	クライヴ	Clive	speaker
+clev07.043E	…………。{wait}{clear}俺は……レイブンルフトの生けにえとなった{n}女から生まれた……{wait}{clear}	......{wait}{clear}I was born... of a woman who was offered up{n}as Ravenruft's sacrifice...{wait}{clear}	
+clev07.0494	クライヴ	Clive	speaker
+clev07.04A0	俺の父親はレイブンルフトという吸血鬼の王だ。{wait}{clear}	My father is Ravenruft, the king of the{n}vampires.{wait}{clear}	
+clev07.04D0	やつらにさらわれた母親は{n}ハンターに救われて村へ戻ってきた……{n}だがその体はすでに吸血鬼と化していた……{wait}{clear}それを知った村人は母親を殺し、墓場に捨て、{n}その死んだ体から俺は生まれた……{wait}{clear}俺は殺されかかったが{n}村の信心深い老夫婦に助けられた。{wait}{clear}	They kidnapped my mother, and a hunter{n}rescued her and brought her back to the{n}village... but her body had already turned{wait}{clear}into a vampire's...{wait}{clear}When the villagers found out, they killed{n}her and threw her away in the graveyard, and{n}I was born from her dead body...{wait}{clear}They nearly killed me too, but a devout old{n}couple in the village saved me.{wait}{clear}	
+clev07.05E8	クライヴ	Clive	speaker
+clev07.05F4	老夫婦は俺を普通の人間として{n}育てようとしてくれたが、{n}それも……やつらが戻ってきて……終わった……。{wait}{clear}俺の村は俺をのこして全員殺された。{wait}{clear}やつらはわざと俺を殺さなかった……{n}俺がいつか血に狂った吸血鬼になると思って……{wait}{clear}そして俺は、{n}めちゃめちゃにされた村に現れた{n}ハンターに拾われた。{wait}{clear}俺の母親を救い出したハンターだった。{wait}{clear}それが……アーウィンだ……。{wait}{clear}俺はやつのもとで{n}吸血鬼やアンデッドと戦う術を学んだ。{n}暗い闇の中で呪われた悪魔どもと戦う方法だ……。{wait}{clear}俺は血に負けるわけにはいかん……絶対に……。{n}やつを倒すまでは……{wait}{clear}	The old couple tried to raise me as an{n}ordinary human, but that... ended when they{n}came back...{wait}{clear}Everyone in my village was killed except me.{wait}{clear}They left me alive on purpose... thinking{n}that someday I'd become a vampire mad with{n}blood...{wait}{clear}Then a hunter who came to the ruined village{n}took me in.{wait}{clear}It was the hunter who had rescued my mother.{wait}{clear}That was... Irwin...{wait}{clear}Under him I learned how to fight vampires{n}and the undead. How to fight cursed demons{n}in the deep dark...{wait}{clear}I can't let the blood win... never... Not{n}until I've killed him...{wait}{clear}	

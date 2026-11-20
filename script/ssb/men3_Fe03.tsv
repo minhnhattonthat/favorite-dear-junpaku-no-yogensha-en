@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Fe03.005C	フェイン		speaker
+men3_Fe03.005C	フェイン	Fein	speaker
 men3_Fe03.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
 men3_Fe03.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe03.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
-men3_Fe03.00C2	フェイン		speaker
+men3_Fe03.00C2	フェイン	Fein	speaker
 men3_Fe03.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこの命の水をわたそうと思ったのだ。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
 men3_Fe03.0160	ＮＵＬＬ	NULL	speaker
 men3_Fe03.0170	《ありがとうございます。》{n}		
 men3_Fe03.0192	《戒律があるので……。》{n}		
 men3_Fe03.01B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe03.01C2	ありがとうございます。{wait}{clear}えっと、{n}この命の水というのは、なんなのですか？{wait}{clear}		
-men3_Fe03.021C	フェイン		speaker
+men3_Fe03.021C	フェイン	Fein	speaker
 men3_Fe03.0228	ああ、これは酒だ。{n}{wait}{clear}		
 men3_Fe03.0240	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe03.0250	そうなのですね。{n}では、いただいていきます。{wait}{clear}本当にありがとうございました。{wait}{clear}		
 men3_Fe03.02A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe03.02B6	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Fe03.031A	フェイン		speaker
+men3_Fe03.031A	フェイン	Fein	speaker
 men3_Fe03.0326	そうか……。{n}それならばしかたがない。{wait}{clear}		
 men3_Fe03.0350	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe03.0360	本当にすみません。{wait}{clear}		

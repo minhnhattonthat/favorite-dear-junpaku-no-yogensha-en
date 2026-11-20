@@ -1,19 +1,19 @@
 id	jp	en	notes
-clev16.011E	クライヴ		speaker
+clev16.011E	クライヴ	Clive	speaker
 clev16.012A	…………。{wait}{clear}	.........{wait}{clear}	
-clev16.015A	クライヴ		speaker
-clev16.0166	人は誰もいないようだな。{wait}{clear}		
+clev16.015A	クライヴ	Clive	speaker
+clev16.0166	人は誰もいないようだな。{wait}{clear}	Looks like there's nobody here.{wait}{clear}	
 clev16.0182	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev16.0192	この街はティタンたちに占領されて、{n}ずいぶんたつみたいです……。{wait}{clear}		
-clev16.01D6	クライヴ		speaker
-clev16.01E2	そうか……{wait}{clear}！？{wait}{clear}		
+clev16.0192	この街はティタンたちに占領されて、{n}ずいぶんたつみたいです……。{wait}{clear}	It seems this town has been occupied by the{n}Titans for quite a while...{wait}{clear}	
+clev16.01D6	クライヴ	Clive	speaker
+clev16.01E2	そうか……{wait}{clear}！？{wait}{clear}	I see...{wait}{clear}?!{wait}{clear}	
 clev16.01F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev16.0208	どうしました？{wait}{clear}		
-clev16.021A	クライヴ		speaker
-clev16.0226	なにか、向こうに気配がする……。{wait}{clear}あの聖堂だ。{wait}{clear}		
-clev16.0268	クライヴ		speaker
-clev16.0274	あれは……{wait}{clear}		
+clev16.0208	どうしました？{wait}{clear}	What is it?{wait}{clear}	
+clev16.021A	クライヴ	Clive	speaker
+clev16.0226	なにか、向こうに気配がする……。{wait}{clear}あの聖堂だ。{wait}{clear}	I sense something over there...{wait}{clear}That cathedral.{wait}{clear}	
+clev16.0268	クライヴ	Clive	speaker
+clev16.0274	あれは……{wait}{clear}	That's...{wait}{clear}	
 clev16.0282	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev16.0292	あの剣がティタンの言っていた宝？{wait}{clear}		
-clev16.02D6	クライヴ		speaker
-clev16.02E2	…………。{wait}{clear}この剣が俺を呼んだ……。{wait}{clear}…………。{wait}{clear}この剣、まるで何年も、{n}いや何十年も使い続けてきたような……{n}そんな感覚が……ある。{wait}{clear}なぜだ……？{wait}{clear}		
+clev16.0292	あの剣がティタンの言っていた宝？{wait}{clear}	Is that sword the treasure the Titans were{n}talking about?{wait}{clear}	
+clev16.02D6	クライヴ	Clive	speaker
+clev16.02E2	…………。{wait}{clear}この剣が俺を呼んだ……。{wait}{clear}…………。{wait}{clear}この剣、まるで何年も、{n}いや何十年も使い続けてきたような……{n}そんな感覚が……ある。{wait}{clear}なぜだ……？{wait}{clear}	......{wait}{clear}This sword called me...{wait}{clear}......{wait}{clear}This sword... it feels as if I've been using{n}it for years, no, for decades...{wait}{clear}Why...?{wait}{clear}	

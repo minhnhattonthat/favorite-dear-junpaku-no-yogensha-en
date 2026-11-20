@@ -1,15 +1,15 @@
 id	jp	en	notes
-roev17.004E	ロクス		speaker
+roev17.004E	ロクス	Rocus	speaker
 roev17.005C	時間はあるかい、＄＄＄＄＄＄？{wait}{clear}		
 roev17.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev17.008E	ええ、平気です。{wait}{clear}		
 roev17.00A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev17.00B2	目の傷は、大丈夫ですか？{wait}{clear}		
-roev17.00CE	ロクス		speaker
+roev17.00CE	ロクス	Rocus	speaker
 roev17.00DC	ああ、とくに問題はない。{n}かすり傷だ。{wait}{clear}		
 roev17.010A	傷跡は残ったけどね……。{wait}{clear}		
 roev17.012A	ま、君との冒険の思い出にするさ。{wait}{clear}		
-roev17.014E	ロクス		speaker
+roev17.014E	ロクス	Rocus	speaker
 roev17.015C	＄＄＄＄＄＄、{n}……君のほかの勇者たちにとっては{n}知らないけど……{wait}{clear}		
 roev17.01A6	僕は人のために戦うなんてできない。{wait}{clear}		
 roev17.01D0	そんなことをするのは僕にとっては偽善だ……{wait}{clear}		
@@ -23,12 +23,12 @@ roev17.0358	君にキスしてもいいか？{wait}{clear}
 roev17.0372	ＮＵＬＬ	NULL	speaker
 roev17.0382	《受け入れる》{n}		
 roev17.0398	《受け入れない》{n}		
-roev17.03DC	ロクス		speaker
+roev17.03DC	ロクス	Rocus	speaker
 roev17.03EA	君を愛している……。{wait}{clear}		
 roev17.04BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev17.04CA	ごめんなさい、ロクス……{wait}{clear}		
-roev17.04E6	ロクス		speaker
-roev17.04F4	そうか……{wait}{clear}		
+roev17.04E6	ロクス	Rocus	speaker
+roev17.04F4	そうか……{wait}{clear}	I see...{wait}{clear}	
 roev17.0506	振られたわけか……{wait}{clear}		
 roev17.0520	ふう……{wait}{clear}		
 roev17.053C	僕のような男を振るなんて{n}たぶん、後悔するよ。＄＄＄＄＄＄。{wait}{clear}		

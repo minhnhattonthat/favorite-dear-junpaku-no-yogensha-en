@@ -1,8 +1,8 @@
 id	jp	en	notes
 roev13d.0002	ヴァイパ－の罠（戦闘負け後）		dev label (guess: not shown)
-roev13d.00A2	ロクス		unit name (32-byte field)
-roev13d.00DE	クラレンス		unit name (32-byte field)
-roev13d.04DC	クラレンス		speaker
+roev13d.00A2	ロクス	Rocus	unit name (32-byte field)
+roev13d.00DE	クラレンス	Clarence	unit name (32-byte field)
+roev13d.04DC	クラレンス	Clarence	speaker
 roev13d.04F5	ふん……まあまあの腕だ。		text
 roev13d.052C	ま、とどめは刺さねえでおいてやるよ。		text
 roev13d.057F	ギャンブル仲間を失いたかねえ。		text

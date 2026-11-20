@@ -1,59 +1,59 @@
 id	jp	en	notes
 laev01_01.0044	アルベリック		speaker
 laev01_01.0058	どうだレイラ、考えをあらためてくれたか？{wait}{clear}		
-laev01_01.0084	レイラ		speaker
+laev01_01.0084	レイラ	Leyla	speaker
 laev01_01.0092	あなたと話すことなどなにもないわ……。{wait}{clear}		
 laev01_01.00BC	アルベリック		speaker
 laev01_01.00D0	手厳しいな。{n}君は私を誤解している。{wait}{clear}		
 laev01_01.00FC	私は君が思っているほどふらちな男ではない。{wait}{clear}		
 laev01_01.012E	たしかに君の父上とのことは{n}残念な出来事だった……{wait}{clear}		
 laev01_01.0168	しかしあれは、{n}正当な騎士道に乗っ取った決闘……{n}そのことは君だってわかっているだろう。{wait}{clear}		
-laev01_01.01C4	レイラ		speaker
+laev01_01.01C4	レイラ	Leyla	speaker
 laev01_01.01D2	よく言う……{n}あなたの策略でしょう……。{wait}{clear}		
 laev01_01.01FE	アルベリック		speaker
 laev01_01.0212	取りつく島もないな……。{wait}{clear}		
 laev01_01.0232	まあ、君もしばらくここにいれば{n}私への考えも変わるだろう……。{wait}{clear}		
-laev01_01.0274	レイラ		speaker
+laev01_01.0274	レイラ	Leyla	speaker
 laev01_01.0282	もう二度とあなたの顔など見たくないわ。{wait}{clear}		
 laev01_01.02AC	アルベリック		speaker
 laev01_01.02C0	ハッハッハッハ、{n}君のそういう直せつな物言いが私は好きだよ。{wait}{clear}		
 laev01_01.0304	だが、そんな強情がいつまで続くかな。{wait}{clear}		
 laev01_01.0330	いずれ、必ず君を手に入れる……{wait}{clear}		
-laev01_01.0352	レイラ		speaker
+laev01_01.0352	レイラ	Leyla	speaker
 laev01_01.035C	…………。{wait}{clear}	.........{wait}{clear}	
 laev01_01.036A	アルベリック		speaker
 laev01_01.037E	いい夜を……。{n}おやすみレイラ。{wait}{clear}		
-laev01_01.03A2	レイラ		speaker
+laev01_01.03A2	レイラ	Leyla	speaker
 laev01_01.03B0	…………。{wait}{clear}	.........{wait}{clear}	
-laev01_01.03D4	レイラ		speaker
+laev01_01.03D4	レイラ	Leyla	speaker
 laev01_01.03E2	下衆な男……。{wait}{clear}		
 laev01_01.03F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.0404	レイラ……？{wait}{clear}		
-laev01_01.0414	レイラ		speaker
+laev01_01.0414	レイラ	Leyla	speaker
 laev01_01.0422	誰！{wait}{clear}		
 laev01_01.0446	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.0456	初めまして、レイラ。{n}私は天使としてあなたに頼みたいことがあって{n}ここに来ました。{wait}{clear}		
-laev01_01.04AC	レイラ		speaker
+laev01_01.04AC	レイラ	Leyla	speaker
 laev01_01.04BA	天使が私に？{wait}{clear}		
 laev01_01.04CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.04DA	はい。{n}あなたは今、いわれのない理由で{n}ここに囚われていますね。{wait}{clear}		
-laev01_01.051E	レイラ		speaker
-laev01_01.052C	ええ……。{wait}{clear}		
+laev01_01.051E	レイラ	Leyla	speaker
+laev01_01.052C	ええ……。{wait}{clear}	Yes...{wait}{clear}	
 laev01_01.053A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.054A	ではここを出てから話をしましょう。{wait}{clear}		
 laev01_01.057A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.058A	さあ、カギははずしました。{n}ここを出ましょう。{wait}{clear}		
-laev01_01.05E0	レイラ		speaker
+laev01_01.05E0	レイラ	Leyla	speaker
 laev01_01.05EE	あそこから出してくれたことに{n}礼を言わないといけないわね。{wait}{clear}		
 laev01_01.0630	ありがとう、天使……{wait}{clear}		
 laev01_01.0648	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.0658	＄＄＄＄＄＄といいます。{wait}{clear}		
-laev01_01.0674	レイラ		speaker
+laev01_01.0674	レイラ	Leyla	speaker
 laev01_01.0682	ありがとう、＄＄＄＄＄＄。{wait}{clear}		
 laev01_01.06A4	で、あなたの話は？{wait}{clear}		
 laev01_01.06BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.06CA	はい。{n}今この地上には様々な混乱が起きています。{wait}{clear}目に見えるもの、目に見えないものも含めて{n}いまだ多くがなにかのきざしでしかないのですが。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}		
-laev01_01.079E	レイラ		speaker
+laev01_01.079E	レイラ	Leyla	speaker
 laev01_01.07AC	話はわかったわ……。{wait}{clear}		
 laev01_01.07C8	私もこのまま、帝国の領内に{n}残るわけにはいかない。{wait}{clear}		
 laev01_01.0802	それに、騎士としての地位も奪われてしまった……{wait}{clear}		
@@ -61,18 +61,18 @@ laev01_01.0838	天の御使いの言葉に従うわ。{wait}{clear}
 laev01_01.085A	なにをすればいいの？{wait}{clear}		
 laev01_01.0872	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.0882	あなたに頼むべきことができたとき{n}また会いに来ます。{wait}{clear}		
-laev01_01.08BA	レイラ		speaker
+laev01_01.08BA	レイラ	Leyla	speaker
 laev01_01.08C8	そう……。{n}では待っているわ。{wait}{clear}		
-laev01_01.08FA	レイラ		speaker
+laev01_01.08FA	レイラ	Leyla	speaker
 laev01_01.0904	話はわかったわ……。{wait}{clear}でも、少し時間をもらえない？{n}整理したいの……考えを。{wait}{clear}		
 laev01_01.0956	ＮＵＬＬ	NULL	speaker
 laev01_01.0966	《どうしても頼みたい》{n}	I really need you{n}	
-laev01_01.0984	《わかりました》{n}		
+laev01_01.0984	《わかりました》{n}	I understand{n}	
 laev01_01.09A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev01_01.09B2	協力してもらえませんか？{wait}{clear}		
-laev01_01.09CE	レイラ		speaker
+laev01_01.09CE	レイラ	Leyla	speaker
 laev01_01.09D8	今は答えられないわ。{wait}{clear}すこし時間をもらいたいの。{wait}{clear}また、あとで来て。{wait}{clear}		
 laev01_01.0A34	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev01_01.0A44	わかりました。{wait}{clear}		
-laev01_01.0A56	レイラ		speaker
+laev01_01.0A44	わかりました。{wait}{clear}	All right.{wait}{clear}	
+laev01_01.0A56	レイラ	Leyla	speaker
 laev01_01.0A60	ありがとう。{n}また、すこし時間がたったら来て。{wait}{clear}答えは用意しておくわ。{wait}{clear}		

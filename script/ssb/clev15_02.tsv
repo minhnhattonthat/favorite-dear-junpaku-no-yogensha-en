@@ -1,24 +1,24 @@
 id	jp	en	notes
 clev15_02.006C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev15_02.007C	大丈夫ですか、クライヴ！{wait}{clear}		
-clev15_02.00AE	クライヴ		speaker
-clev15_02.00BA	＄＄＄＄＄＄か……。{wait}{clear}やつの城は？{wait}{clear}		
+clev15_02.007C	大丈夫ですか、クライヴ！{wait}{clear}	Are you all right, Clive?!{wait}{clear}	
+clev15_02.00AE	クライヴ	Clive	speaker
+clev15_02.00BA	＄＄＄＄＄＄か……。{wait}{clear}やつの城は？{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}Where's his castle?{wait}{clear}	
 clev15_02.00E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev15_02.00F2	もう、見えません……{wait}{clear}巨大な魔力で存在を隠してしまったようです。{wait}{clear}		
-clev15_02.0146	クライヴ		speaker
-clev15_02.0152	クッ……{wait}{clear}		
+clev15_02.00F2	もう、見えません……{wait}{clear}巨大な魔力で存在を隠してしまったようです。{wait}{clear}	I can't see it anymore...{wait}{clear}It seems he hid it with enormous magic.{wait}{clear}	
+clev15_02.0146	クライヴ	Clive	speaker
+clev15_02.0152	クッ……{wait}{clear}	Ngh...{wait}{clear}	
 clev15_02.015E	ＮＵＬＬ	NULL	speaker
-clev15_02.016E	《どうか怒りを……》{n}		
-clev15_02.018A	《なぜそこまで……》{n}		
+clev15_02.016E	《どうか怒りを……》{n}	Please, your anger...{n}	
+clev15_02.018A	《なぜそこまで……》{n}	Why go so far...{n}	
 clev15_02.01B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev15_02.01C0	どうか怒りを……{wait}{clear}そんな感情だけでは……なにも解決できません。{wait}{clear}		
-clev15_02.0212	クライヴ		speaker
+clev15_02.01C0	どうか怒りを……{wait}{clear}そんな感情だけでは……なにも解決できません。{wait}{clear}	Please, put your anger...{wait}{clear}Anger alone... won't solve anything.{wait}{clear}	
+clev15_02.0212	クライヴ	Clive	speaker
 clev15_02.021E	…………。{wait}{clear}	.........{wait}{clear}	
-clev15_02.023C	何がわかる……{n}お前に……{wait}{clear}		
-clev15_02.025E	何がわかる……{n}君に……{wait}{clear}		
+clev15_02.023C	何がわかる……{n}お前に……{wait}{clear}	What would you know... about it...{wait}{clear}	
+clev15_02.025E	何がわかる……{n}君に……{wait}{clear}	How could you understand... any of it...{wait}{clear}	
 clev15_02.0284	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev15_02.0294	なぜそこまで……{wait}{clear}		
-clev15_02.02B0	クライヴ		speaker
-clev15_02.02BC	言う必要はない……{wait}{clear}		
-clev15_02.02E8	クライヴ		speaker
-clev15_02.02F4	怒りだ……{wait}{clear}ただ……それだけだ……{wait}{clear}		
+clev15_02.0294	なぜそこまで……{wait}{clear}	Why go so far...{wait}{clear}	
+clev15_02.02B0	クライヴ	Clive	speaker
+clev15_02.02BC	言う必要はない……{wait}{clear}	I don't have to tell you...{wait}{clear}	
+clev15_02.02E8	クライヴ	Clive	speaker
+clev15_02.02F4	怒りだ……{wait}{clear}ただ……それだけだ……{wait}{clear}	Anger...{wait}{clear}That's... all there is...{wait}{clear}	

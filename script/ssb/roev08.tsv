@@ -1,5 +1,5 @@
 id	jp	en	notes
-roev08.00AE	ロクス		speaker
+roev08.00AE	ロクス	Rocus	speaker
 roev08.00BC	都が……{wait}{clear}		
 roev08.00CC	聖なる都……教国の象徴が……{n}燃えている……。{wait}{clear}		
 roev08.00FE	ＮＵＬＬ	NULL	speaker
@@ -7,7 +7,7 @@ roev08.010E	《声をかける》{n}
 roev08.0124	《かけない》{n}		
 roev08.0138	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev08.0148	ロクス……{wait}{clear}		
-roev08.0156	ロクス		speaker
+roev08.0156	ロクス	Rocus	speaker
 roev08.0164	……僕は……{wait}{clear}…………。{wait}{clear}		
 roev08.0192	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev08.01A2	……{wait}{clear}いや、そっとしておきましょう……。{wait}{clear}		

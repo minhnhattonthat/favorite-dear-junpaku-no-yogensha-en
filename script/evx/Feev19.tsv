@@ -1,7 +1,7 @@
 id	jp	en	notes
 Feev19.0002	セレニスとの戦い		dev label (guess: not shown)
-Feev19.00A2	フェイン		unit name (32-byte field)
-Feev19.00DE	セレニス		unit name (32-byte field)
+Feev19.00A2	フェイン	Fein	unit name (32-byte field)
+Feev19.00DE	セレニス	Serenis	unit name (32-byte field)
 Feev19.011A	魔法		unit name (32-byte field)
 Feev19.0156	エンディミオン		unit name (32-byte field)
 Feev19.0192	魔石（初期）		unit name (32-byte field)
@@ -9,26 +9,26 @@ Feev19.01CE	魔石（点滅）		unit name (32-byte field)
 Feev19.020A	魔石（赤）		unit name (32-byte field)
 Feev19.0246	魔石の台		unit name (32-byte field)
 Feev19.0282	光りの柱		unit name (32-byte field)
-Feev19.04E8	セレニス		speaker
+Feev19.04E8	セレニス	Serenis	speaker
 Feev19.04FF	……フェインか。		text
-Feev19.052E	フェイン		speaker
+Feev19.052E	フェイン	Fein	speaker
 Feev19.0545	セレニス……やっと会えたな。		text
-Feev19.0580	セレニス		speaker
+Feev19.0580	セレニス	Serenis	speaker
 Feev19.0597	ふん……まだ死んでいなかったのね。		text
-Feev19.05D8	フェイン		speaker
+Feev19.05D8	フェイン	Fein	speaker
 Feev19.05EF	……君を俺は止めなければならない。		text
-Feev19.0630	セレニス		speaker
+Feev19.0630	セレニス	Serenis	speaker
 Feev19.0647	ハハハ、止める？{n}お前にそんなことはさせないわ。		text
-Feev19.0696	フェイン		speaker
+Feev19.0696	フェイン	Fein	speaker
 Feev19.06AD	セレニス！		text
-Feev19.074A	セレニス		speaker
+Feev19.074A	セレニス	Serenis	speaker
 Feev19.0761	そこでじっとしていなさい、フェイン。		text
 Feev19.07A4	偉大な力がよみがえるのを見せてあげるわ。		text
 Feev19.07FF	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 Feev19.0846	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
 Feev19.08EF	エンディミオン		speaker
 Feev19.090C	セレニス……お前はなにを……。		text
-Feev19.0949	セレニス		speaker
+Feev19.0949	セレニス	Serenis	speaker
 Feev19.0960	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 Feev19.09C9	さあ……始めましょう……。		text
 Feev19.0A7E	エンディミオン		speaker

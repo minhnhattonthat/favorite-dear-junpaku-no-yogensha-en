@@ -1,9 +1,9 @@
 id	jp	en	notes
-clev13.0042	クライヴ		speaker
-clev13.004E	この森は……{wait}{clear}		
+clev13.0042	クライヴ	Clive	speaker
+clev13.004E	この森は……{wait}{clear}	This forest is...{wait}{clear}	
 clev13.0072	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev13.0082	ここはレイフォリアの森に住む一族たちが{n}聖母の森と呼んでいる場所のようです。{wait}{clear}		
-clev13.00D2	クライヴ		speaker
-clev13.00DE	聖母の森か……{n}{wait}{clear}		
-clev13.00F2	クライヴ		speaker
-clev13.00FE	……誰だ！{wait}{clear}		
+clev13.0082	ここはレイフォリアの森に住む一族たちが{n}聖母の森と呼んでいる場所のようです。{wait}{clear}	It seems this is the place the clans living{n}in Reyforia Forest call the Forest of the{n}Holy Mother.{wait}{clear}	
+clev13.00D2	クライヴ	Clive	speaker
+clev13.00DE	聖母の森か……{n}{wait}{clear}	The Forest of the Holy Mother...{n}{wait}{clear}	
+clev13.00F2	クライヴ	Clive	speaker
+clev13.00FE	……誰だ！{wait}{clear}	...Who's there?!{wait}{clear}	

@@ -1,30 +1,30 @@
 id	jp	en	notes
-men1_Ei01.0052	アイリーン		speaker
+men1_Ei01.0052	アイリーン	Irene	speaker
 men1_Ei01.0060	ごめん、急に呼んで。{wait}{clear}		
 men1_Ei01.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.0088	妖精から話があると聞いたのですが、{n}なにかあったのですか？　アイリーン？{wait}{clear}		
-men1_Ei01.00D4	アイリーン		speaker
+men1_Ei01.00D4	アイリーン	Irene	speaker
 men1_Ei01.00E2	うん……。{n}妖精が、＄＄＄＄＄＄は呼んだら来るって{n}言ってたから、本当かどうか試してみたかったの。{wait}{clear}		
 men1_Ei01.0148	ＮＵＬＬ	NULL	speaker
 men1_Ei01.0158	《そうだったのですか……。》{n}		
 men1_Ei01.017C	《これで信じてもらえますよね？》{n}		
 men1_Ei01.01A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.01B4	そうだったのですか……。{wait}{clear}やっぱり、私たちの存在は、{n}なかなか理解してもらえないのでしょうか？{wait}{clear}		
-men1_Ei01.0218	アイリーン		speaker
+men1_Ei01.0218	アイリーン	Irene	speaker
 men1_Ei01.0226	ううん、そんなわけじゃないんだけど。{wait}{clear}でも、やっぱり人間とは違うから、{n}気になることはいっぱいあるじゃない。{wait}{clear}でも、こういうやり方はよくなかったかもしれない。{n}ごめんね、＄＄＄＄＄＄。{wait}{clear}		
 men1_Ei01.02E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.02F6	いえ、いいんです。{n}こうやって少しずつわかりあえれば……。{wait}{clear}		
-men1_Ei01.0334	アイリーン		speaker
+men1_Ei01.0334	アイリーン	Irene	speaker
 men1_Ei01.0342	そう言ってもらえると、私もうれしいよ。{wait}{clear}		
 men1_Ei01.0370	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.0380	これで信じてもらえますよね？{wait}{clear}		
-men1_Ei01.03A0	アイリーン		speaker
+men1_Ei01.03A0	アイリーン	Irene	speaker
 men1_Ei01.03AE	うん、来ることはね。{n}それに、あなたが本当に真面目だってことも{n}よくわかったわ。{wait}{clear}		
 men1_Ei01.0402	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.0412	じゃあ、今度は用事のあるときに呼んでくださいね。{wait}{clear}		
-men1_Ei01.0446	アイリーン		speaker
+men1_Ei01.0446	アイリーン	Irene	speaker
 men1_Ei01.0454	そうね。{n}でも、こんなことで呼んでも怒らないの？{n}もっと怒るのかと思ったのに……。{wait}{clear}		
 men1_Ei01.04AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ei01.04BA	呼ばれたら、その勇者のもとを訪れるのは、{n}天使のつとめですから。{wait}{clear}		
-men1_Ei01.050A	アイリーン		speaker
+men1_Ei01.050A	アイリーン	Irene	speaker
 men1_Ei01.0518	あ、そうなの……。{wait}{clear}よ～く、わかったわ。{n}じゃあね、＄＄＄＄＄＄。{wait}{clear}		

@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Fe01.005C	フェイン		speaker
+men3_Fe01.005C	フェイン	Fein	speaker
 men3_Fe01.0068	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
 men3_Fe01.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe01.009C	どうしたのですか？{n}なにか用でも？{wait}{clear}		
-men3_Fe01.00C2	フェイン		speaker
+men3_Fe01.00C2	フェイン	Fein	speaker
 men3_Fe01.00CE	いや、たいしたことではなくて悪いのだが、{n}君にこのギルドの護符を渡そうと思ってな。{wait}{clear}なにかの役に立てばと思うのだが、{n}受け取ってもらえないか？{wait}{clear}		
 men3_Fe01.0162	ＮＵＬＬ	NULL	speaker
 men3_Fe01.0172	《ありがとうございます。》{n}		
 men3_Fe01.0194	《戒律があるので……。》{n}		
 men3_Fe01.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe01.01C4	ありがとうございます。{wait}{clear}えっと、これはお守りですね？{wait}{clear}		
-men3_Fe01.01FE	フェイン		speaker
+men3_Fe01.01FE	フェイン	Fein	speaker
 men3_Fe01.020A	ああ、そうだ。{n}少しでも役に立てばいいのだが……。{wait}{clear}		
 men3_Fe01.0240	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe01.0250	そんなに、気をつかわないでください。{n}でも、本当にありがとうございました。{wait}{clear}		
 men3_Fe01.02A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe01.02B2	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Fe01.0316	フェイン		speaker
+men3_Fe01.0316	フェイン	Fein	speaker
 men3_Fe01.0322	そうか……。{n}それならばしかたがない。{wait}{clear}		
 men3_Fe01.034C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Fe01.035C	本当にすみません。{wait}{clear}		

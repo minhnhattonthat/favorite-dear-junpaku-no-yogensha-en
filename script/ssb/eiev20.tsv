@@ -1,40 +1,40 @@
 id	jp	en	notes
-eiev20.005C	アイリーン		speaker
+eiev20.005C	アイリーン	Irene	speaker
 eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
 eiev20.0172	ＮＵＬＬ	NULL	speaker
 eiev20.0182	《わかりました……。》{n}		
 eiev20.01A0	《なぜ……？》{n}		
 eiev20.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev20.01D0	わかりました。{wait}{clear}		
-eiev20.01E2	アイリーン		speaker
+eiev20.01D0	わかりました。{wait}{clear}	All right.{wait}{clear}	
+eiev20.01E2	アイリーン	Irene	speaker
 eiev20.01F0	ありがと……お願いね。{wait}{clear}		
 eiev20.0216	……私がやらなくちゃいけない。{wait}{clear}逃げちゃいけないから。{wait}{clear}		
 eiev20.0262	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.0272	なぜ……フェインがそこまで……？{wait}{clear}		
-eiev20.02AE	アイリーン		speaker
+eiev20.02AE	アイリーン	Irene	speaker
 eiev20.02BC	今の姉さんにフェインが会ったら絶望する……。{wait}{clear}		
-eiev20.02FC	アイリーン		speaker
+eiev20.02FC	アイリーン	Irene	speaker
 eiev20.030A	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}		
-eiev20.033C	アイリーン		speaker
+eiev20.033C	アイリーン	Irene	speaker
 eiev20.034A	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}		
 eiev20.03A0	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}		
-eiev20.03F6	アイリーン		speaker
+eiev20.03F6	アイリーン	Irene	speaker
 eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
 eiev20.050C	ＮＵＬＬ	NULL	speaker
 eiev20.051C	《詳しく教えて欲しい。》{n}		
 eiev20.053C	《なぜ……？》{n}		
 eiev20.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.056C	アイリーン、聞かせてください。{n}お姉さんのことを……。{wait}{clear}		
-eiev20.05B2	アイリーン		speaker
+eiev20.05B2	アイリーン	Irene	speaker
 eiev20.05C0	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}あの日……{wait}{clear}		
-eiev20.0610	アイリーン		speaker
+eiev20.0610	アイリーン	Irene	speaker
 eiev20.0622	フェインと結婚式をあげたその日の夜……{wait}{clear}		
 eiev20.0650	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}		
 eiev20.0684	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}		
 eiev20.06E8	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}		
 eiev20.0742	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}		
 eiev20.0786	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}		
-eiev20.07EC	アイリーン		speaker
+eiev20.07EC	アイリーン	Irene	speaker
 eiev20.07FE	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}		
 eiev20.0862	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}		
 eiev20.089E	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}		
@@ -44,11 +44,11 @@ eiev20.099E	フェインはいなくなったセレニス姉さんを探して{n
 eiev20.09E8	私は塔に残って……ずっと魔法の勉強を続けた……{wait}{clear}		
 eiev20.0A1E	なにがおこったのか……知るために……{wait}{clear}		
 eiev20.0A4A	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}		
-eiev20.0A9C	アイリーン		speaker
+eiev20.0A9C	アイリーン	Irene	speaker
 eiev20.0AAA	フェインは罪を一身で背負ってる……{wait}{clear}一人で全部……{n}だから……{wait}{clear}		
 eiev20.0AF8	なぜ……フェインがそこまで……？{wait}{clear}		
-eiev20.0B2A	アイリーン		speaker
+eiev20.0B2A	アイリーン	Irene	speaker
 eiev20.0B38	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}		
-eiev20.0B6A	アイリーン		speaker
+eiev20.0B6A	アイリーン	Irene	speaker
 eiev20.0B78	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}		
 eiev20.0BCE	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}		

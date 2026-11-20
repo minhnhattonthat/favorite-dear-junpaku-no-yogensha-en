@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_La01.005C	レイラ		speaker
+men3_La01.005C	レイラ	Leyla	speaker
 men3_La01.0066	呼び出して悪いわね。{wait}{clear}		
 men3_La01.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La01.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
-men3_La01.00AE	レイラ		speaker
+men3_La01.00AE	レイラ	Leyla	speaker
 men3_La01.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}タラブローチなんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
 men3_La01.011E	ＮＵＬＬ	NULL	speaker
 men3_La01.012E	《ありがとうございます。》{n}		
 men3_La01.0150	《戒律があるので……。》{n}		
 men3_La01.0170	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La01.0180	ありがとうございます。{n}こんなブローチは、はじめて見ました。{wait}{clear}		
-men3_La01.01C0	レイラ		speaker
+men3_La01.01C0	レイラ	Leyla	speaker
 men3_La01.01CA	そうなの？{n}それで、どう？　気に入ってもらえたかしら。{wait}{clear}		
 men3_La01.0204	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La01.0214	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
 men3_La01.024E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La01.025E	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_La01.02CE	レイラ		speaker
+men3_La01.02CE	レイラ	Leyla	speaker
 men3_La01.02D8	そう……{n}じゃあ、しかたがないね。{wait}{clear}		
 men3_La01.02FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La01.030E	本当にすみません。{wait}{clear}		

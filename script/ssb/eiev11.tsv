@@ -1,26 +1,26 @@
 id	jp	en	notes
 eiev11.0012	第11節「呪われた魂」		speaker
-eiev11.0074	アイリーン		speaker
+eiev11.0074	アイリーン	Irene	speaker
 eiev11.0086	……姉さん呪いで……あんな風に……{wait}{clear}		
 eiev11.00B0	ずっと苦しめられてるのね……ひどい……{wait}{clear}		
 eiev11.00DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.00EA	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
-eiev11.0140	アイリーン		speaker
+eiev11.0140	アイリーン	Irene	speaker
 eiev11.0152	姉さんがフェインを……なぜ……{wait}{clear}		
 eiev11.0178	こんなことになってしまうなんて……{n}酷すぎる……{wait}{clear}		
 eiev11.01AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.01BC	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
-eiev11.0200	アイリーン		speaker
+eiev11.0200	アイリーン	Irene	speaker
 eiev11.0212	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}		
 eiev11.024A	あの日……{wait}{clear}		
-eiev11.0262	アイリーン		speaker
+eiev11.0262	アイリーン	Irene	speaker
 eiev11.0274	フェインと結婚式をあげたその日の夜……{wait}{clear}		
 eiev11.02A2	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}		
 eiev11.02D6	朝にフェインが気づいたとき……{n}もう……息をしていなかった……{wait}{clear}		
 eiev11.033A	フェインは混乱して……禁断の秘術である{n}魔界の力を使って姉さんを生き返らせたの……{wait}{clear}		
 eiev11.0394	ずっと、使ってはならないと教えられていた、{n}危険な魔法よ……{wait}{clear}		
 eiev11.03D8	でもそのフェインの魔法で姉さんは{n}何事もなかったように息を吹き返したわ……{wait}{clear}		
-eiev11.0448	アイリーン		speaker
+eiev11.0448	アイリーン	Irene	speaker
 eiev11.045A	しばらくはなにも変わらず暮らしていたけど……{n}だんだん様子がおかしくなって……{wait}{clear}		
 eiev11.04BC	おじいちゃんが気づいて{n}フェインを問いただしたわ……{wait}{clear}		
 eiev11.04F8	本当のことを知ったおじいちゃんは{n}すぐに恐ろしいことになるといって、{n}かかった魔法を解きにいったの……{wait}{clear}		
@@ -39,7 +39,7 @@ eiev11.07E4	《なにか方法があるはず》{n}
 eiev11.0804	《……》{n}		
 eiev11.081E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.082E	魔法を解く、方法がなにかきっとあるはずです……{wait}{clear}それを探し出しましょう。{wait}{clear}あきらめないでください……。{wait}{clear}		
-eiev11.08A0	アイリーン		speaker
+eiev11.08A0	アイリーン	Irene	speaker
 eiev11.08B2	なのに……なのに、姉さんは……{wait}{clear}		
 eiev11.08D8	呪われた魂が……{n}姉さんを……フェインを奪っていってしまった……{wait}{clear}		
 eiev11.0920	ねえ、＄＄＄＄＄＄{n}私、どうしたらいいの？{wait}{clear}		
@@ -50,5 +50,5 @@ eiev11.0998	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.09A8	魔法を解く方法を一緒に探しましょう……。{n}アイリーン。{wait}{clear}なにかあるはずです……信じましょう……。{wait}{clear}		
 eiev11.0A1E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.0A2E	……{wait}{clear}		
-eiev11.0A36	アイリーン		speaker
+eiev11.0A36	アイリーン	Irene	speaker
 eiev11.0A44	……{wait}{clear}		

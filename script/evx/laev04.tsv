@@ -1,5 +1,5 @@
 id	jp	en	notes
-laev04.00A2	レイラ		unit name (32-byte field)
+laev04.00A2	レイラ	Leyla	unit name (32-byte field)
 laev04.00DE	帝国歩兵		unit name (32-byte field)
 laev04.011A	帝国騎士		unit name (32-byte field)
 laev04.0156	帝国歩兵		unit name (32-byte field)
@@ -13,31 +13,31 @@ laev04.04EC	帝国騎士		speaker
 laev04.0503	我が隊の進軍が遅れているとは、どうしたことだ？		text
 laev04.0540	帝国騎士		speaker
 laev04.0557	お前は……レイラ・ヴィグリード？{n}確か、騎士としての地位も名誉も奪われたはず……。		text
-laev04.05B8	レイラ		speaker
+laev04.05B8	レイラ	Leyla	speaker
 laev04.05CD	こんな侵略行為は、我が帝国の誇りに反する！		text
 laev04.0606	帝国騎士		speaker
 laev04.061D	なにが帝国の誇りだ！！		text
 laev04.0642	お前は、同じ国の兵を傷つけているではないか。{n}そんな裏切り者が我が国の誇りを語る資格などない！		text
-laev04.06AF	レイラ		speaker
+laev04.06AF	レイラ	Leyla	speaker
 laev04.06C4	くっ……。		text
 laev04.06DD	帝国騎士		speaker
 laev04.06F4	裏切り者なら、殺してもかまわないな……。{n}我が部下の仇、取らせてもらうぞ！		text
-laev04.0915	レイラ		speaker
+laev04.0915	レイラ	Leyla	speaker
 laev04.092A	あなたたちは！？		text
 laev04.09A9	元部下		speaker
 laev04.09BE	隊長！　ご無事ですか？		text
-laev04.09E3	レイラ		speaker
+laev04.09E3	レイラ	Leyla	speaker
 laev04.09F8	あなたたち……どうして……。		text
 laev04.0A23	元部下		speaker
 laev04.0A38	隊長の姿を見かけたので、あとを追ってきたのです。		text
 laev04.0A77	隊長の行方がわからなくなってから、{n}いろいろなうわさが流れたのですが、{n}自分たちはいまでも隊長を信じています！		text
 laev04.0AF4	それに、こんな侵略は我が国の本意ではありません。{n}どうか、お気を落とさないようにしてください。		text
 laev04.0B61	いつか、必ず国に戻れるよう、{n}我々が隊長の誤解を解きます！！		text
-laev04.0BAC	レイラ		speaker
+laev04.0BAC	レイラ	Leyla	speaker
 laev04.0BC1	みんな……ありがとう……。		text
 laev04.0BEA	元部下		speaker
 laev04.0BFF	もっとお話ししたいのですが、ここは危険です。{n}早く、安全な場所へ！		text
-laev04.0C50	レイラ		speaker
+laev04.0C50	レイラ	Leyla	speaker
 laev04.0C65	ええ……みんな、本当にありがとう。{n}あなたたちも気をつけて！		text
 laev04.0CB0	元部下		speaker
 laev04.0CC5	はい！		text

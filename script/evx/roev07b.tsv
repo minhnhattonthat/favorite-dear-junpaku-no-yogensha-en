@@ -3,15 +3,15 @@ roev07b.0002	癒しの手		dev label (guess: not shown)
 roev07b.00A2	シーフ		unit name (32-byte field)
 roev07b.00DE	シーフ		unit name (32-byte field)
 roev07b.011A	シーフ		unit name (32-byte field)
-roev07b.0156	ロクス		unit name (32-byte field)
-roev07b.0498	ロクス		speaker
+roev07b.0156	ロクス	Rocus	unit name (32-byte field)
+roev07b.0498	ロクス	Rocus	speaker
 roev07b.04AD	お前ら、あのときの？		text
 roev07b.04DC	ならず者１		speaker
 roev07b.04F5	ああ、お前があの子供を助けてくれたおかげで、{n}オレたちに入ってくる金はパア！		text
-roev07b.055C	ロクス		speaker
+roev07b.055C	ロクス	Rocus	speaker
 roev07b.0571	お前ら……あの子をさらって、{n}身代金を要求した挙げ句、{n}殺そうとしたのか！？		text
 roev07b.05D8	ならず者２		speaker
 roev07b.05F1	ああ、そんなの当たり前だろ。{n}あんなガキのひとりやふたり殺しても{n}世の中なにもかわりゃしねえ。		text
 roev07b.065E	オレたちに必要なのは、金だ。金！{n}金さえありゃあ、なんでもできる。		text
-roev07b.06BB	ロクス		speaker
+roev07b.06BB	ロクス	Rocus	speaker
 roev07b.06D0	お前ら……！		text

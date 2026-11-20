@@ -1,24 +1,24 @@
 id	jp	en	notes
 eiev24.0002	天使の大けが		dev label (guess: not shown)
-eiev24.00A2	アイリーン		unit name (32-byte field)
-eiev24.00DE	クラレンス		unit name (32-byte field)
-eiev24.04EC	アイリーン		speaker
+eiev24.00A2	アイリーン	Irene	unit name (32-byte field)
+eiev24.00DE	クラレンス	Clarence	unit name (32-byte field)
+eiev24.04EC	アイリーン	Irene	speaker
 eiev24.0505	あなたがヴァイパー？		text
-eiev24.0528	クラレンス		speaker
+eiev24.0528	クラレンス	Clarence	speaker
 eiev24.0541	なんだいお嬢ちゃん。{n}人に名を聞くときは自分が名乗るのがスジだぜ。		text
-eiev24.0592	アイリーン		speaker
+eiev24.0592	アイリーン	Irene	speaker
 eiev24.05AB	私の名前なんかいいの。さあ、魔石を返して。{n}悪だくみになんか使わせないわ。		text
-eiev24.0604	クラレンス		speaker
+eiev24.0604	クラレンス	Clarence	speaker
 eiev24.061D	ふん……言うじゃねえか。{n}イヤだといったら？		text
-eiev24.06A8	アイリーン		speaker
+eiev24.06A8	アイリーン	Irene	speaker
 eiev24.06C1	そんなこと言わせないわ。私の魔法でね。		text
-eiev24.070A	クラレンス		speaker
+eiev24.070A	クラレンス	Clarence	speaker
 eiev24.0723	お前、魔法使いか……そういや、そんな雰囲気だな。		text
 eiev24.0762	わかった……。{n}魔法使いに刃向かうほど俺はバカじゃねえ。		text
 eiev24.07A9	どうせ頼まれごとなんだ……{n}素直に返すぜ。		text
-eiev24.07F6	クラレンス		speaker
+eiev24.07F6	クラレンス	Clarence	speaker
 eiev24.080F	天使様によ。		text
-eiev24.087A	クラレンス		speaker
+eiev24.087A	クラレンス	Clarence	speaker
 eiev24.0893	いるんだろ？　天使様よ。{n}		text
-eiev24.0900	クラレンス		speaker
+eiev24.0900	クラレンス	Clarence	speaker
 eiev24.0919	お前が欲しがってんだろ？　本当は。		text

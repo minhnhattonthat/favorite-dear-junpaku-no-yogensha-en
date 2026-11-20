@@ -1,5 +1,5 @@
 id	jp	en	notes
-laev17.00A2	レイラ		unit name (32-byte field)
+laev17.00A2	レイラ	Leyla	unit name (32-byte field)
 laev17.00DE	アルベリック		unit name (32-byte field)
 laev17.011A	帝国騎士		unit name (32-byte field)
 laev17.0156	帝国騎士		unit name (32-byte field)
@@ -7,27 +7,27 @@ laev17.0192	帝国騎士		unit name (32-byte field)
 laev17.01CE	帝国騎士		unit name (32-byte field)
 laev17.04D8	アルベリック		speaker
 laev17.04F3	レイラ……君か……会いたかったよ……。		text
-laev17.0538	レイラ		speaker
+laev17.0538	レイラ	Leyla	speaker
 laev17.054D	決着をつけましょう……{n}お互い騎士として、正々堂々と。		text
 laev17.05A2	アルベリック		speaker
 laev17.05BD	やめておいたほうがいい……{n}私の剣に君は勝てない……。		text
-laev17.0612	レイラ		speaker
+laev17.0612	レイラ	Leyla	speaker
 laev17.0627	いいえ……私はあなたに負けはしない……。		text
 laev17.066E	アルベリック		speaker
 laev17.0689	どうして君は……そうやっていつも強情なんだ……。		text
 laev17.06D8	僕は……君が、君が必要なんだ……{n}僕のものになって欲しいんだ……。		text
-laev17.0739	レイラ		speaker
+laev17.0739	レイラ	Leyla	speaker
 laev17.074E	アルベリック……あなた……		text
 laev17.0787	アルベリック		speaker
 laev17.07A2	みんな……なぜ僕を認めない……		text
 laev17.07DF	なぜだ……{n}こんなにも……僕はがんばっているのに……		text
 laev17.0832	この魔剣の力でこんなに強くなったのに……。		text
-laev17.087B	レイラ		speaker
+laev17.087B	レイラ	Leyla	speaker
 laev17.0890	……剣に心を奪われたのね。		text
 laev17.08C9	アルベリック		speaker
 laev17.08E4	みんな……僕をかげでばかにして……		text
 laev17.0925	僕を……疎んじるから……{n}殺してあげたよ……。		text
-laev17.0962	レイラ		speaker
+laev17.0962	レイラ	Leyla	speaker
 laev17.0977	…………。		text
 laev17.09A0	アルベリック		speaker
 laev17.09BB	……君の目は僕をばかにしている……{n}さげすんでいる……。		text

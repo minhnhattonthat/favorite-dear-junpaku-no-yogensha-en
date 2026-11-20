@@ -1,26 +1,26 @@
 id	jp	en	notes
 Feev22_01.0052	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev22_01.0062	あれは……。{wait}{clear}		
-Feev22_01.0072	フェイン		speaker
+Feev22_01.0072	フェイン	Fein	speaker
 Feev22_01.007E	どうした……？{wait}{clear}		
-Feev22_01.0098	フェイン		speaker
+Feev22_01.0098	フェイン	Fein	speaker
 Feev22_01.00A4	ん？{wait}{clear}		
-Feev22_01.00D0	フェイン		speaker
+Feev22_01.00D0	フェイン	Fein	speaker
 Feev22_01.00DC	手紙？{wait}{clear}アイリーンからか……？{wait}{clear}		
-Feev22_01.011E	フェイン		speaker
+Feev22_01.011E	フェイン	Fein	speaker
 Feev22_01.012A	…………。{wait}{clear}	.........{wait}{clear}	
 Feev22_01.0138	ＮＵＬＬ	NULL	speaker
 Feev22_01.0148	《アイリーンからですよね……？》{n}		
 Feev22_01.0170	《なんと書いてあったのですか？》{n}		
 Feev22_01.0198	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev22_01.01A8	フェイン……{n}その手紙は、アイリーンからですよね……？{wait}{clear}		
-Feev22_01.01E2	フェイン		speaker
+Feev22_01.01E2	フェイン	Fein	speaker
 Feev22_01.01EE	ああ、そうだ……。{wait}{clear}セレニスと俺のことが……{n}そして、彼女の気持ちが書かれている……。{wait}{clear}		
 Feev22_01.024A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev22_01.025A	アイリーンの気持ち……。{wait}{clear}		
-Feev22_01.0276	フェイン		speaker
+Feev22_01.0276	フェイン	Fein	speaker
 Feev22_01.0282	……俺は彼女に謝らないとな。{n}自分の身勝手でずいぶんと彼女を傷つけた……。{wait}{clear}彼女に兄として……認められるために{n}これからやれることをするつもりだ。{wait}{clear}		
 Feev22_01.0324	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev22_01.0334	フェイン……{n}なんと書いてあったのですか？{wait}{clear}		
-Feev22_01.0362	フェイン		speaker
+Feev22_01.0362	フェイン	Fein	speaker
 Feev22_01.036E	……セレニスと俺のことだ……。{n}彼女の気持ちが書かれている。{wait}{clear}……俺は彼女に謝らないとな。{n}自分の身勝手でずいぶんと彼女を傷つけた……。{wait}{clear}彼女に兄として……認められるために{n}これからやれることをするつもりだ。{wait}{clear}		

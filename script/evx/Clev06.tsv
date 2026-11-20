@@ -1,13 +1,13 @@
 id	jp	en	notes
-Clev06.00A2	姫		unit name (32-byte field)
-Clev06.00DE	クライヴ		unit name (32-byte field)
-Clev06.0498	姫		speaker
+Clev06.00A2	姫	Princess	unit name (32-byte field)
+Clev06.00DE	クライヴ	Clive	unit name (32-byte field)
+Clev06.0498	姫	Princess	speaker
 Clev06.04A9	クライヴ様……また、あの恐ろしい吸血鬼が{n}やってくるのでしょうか。		text
-Clev06.04FA	クライヴ		speaker
+Clev06.04FA	クライヴ	Clive	speaker
 Clev06.0511	…………。		text
-Clev06.057A	姫		speaker
+Clev06.057A	姫	Princess	speaker
 Clev06.058B	ねえ……クライヴ様？		text
-Clev06.05AE	クライヴ		speaker
+Clev06.05AE	クライヴ	Clive	speaker
 Clev06.05C5	…………。		text
-Clev06.062E	姫		speaker
+Clev06.062E	姫	Princess	speaker
 Clev06.063F	クライヴ様……		text

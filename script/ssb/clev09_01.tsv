@@ -1,29 +1,29 @@
 id	jp	en	notes
-clev09_01.004E	クライヴ		speaker
-clev09_01.005A	＄＄＄＄＄＄、俺はレイブンルフト城へ向かう。{wait}{clear}しばらく、お前の仕事は受けることができない。{wait}{clear}		
+clev09_01.004E	クライヴ	Clive	speaker
+clev09_01.005A	＄＄＄＄＄＄、俺はレイブンルフト城へ向かう。{wait}{clear}しばらく、お前の仕事は受けることができない。{wait}{clear}	＄＄＄＄＄＄, I'm heading for Ravenruft's{n}castle.{wait}{clear}I can't take your jobs for a while.{wait}{clear}	
 clev09_01.00BA	ＮＵＬＬ	NULL	speaker
-clev09_01.00CA	《今は……》{n}		
-clev09_01.00DE	《わかりました》{n}		
+clev09_01.00CA	《今は……》{n}	Not now...{n}	
+clev09_01.00DE	《わかりました》{n}	I understand{n}	
 clev09_01.0100	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev09_01.0110	今でないといけませんか？{wait}{clear}		
-clev09_01.0134	クライヴ		speaker
-clev09_01.0140	悪いが……{n}やつを倒すことより優先できることはない。{wait}{clear}		
-clev09_01.0182	クライヴ		speaker
-clev09_01.018E	俺はやつを追い続けてきた。{n}それ以外のことに興味などない……。{wait}{clear}		
+clev09_01.0110	今でないといけませんか？{wait}{clear}	Does it have to be now?{wait}{clear}	
+clev09_01.0134	クライヴ	Clive	speaker
+clev09_01.0140	悪いが……{n}やつを倒すことより優先できることはない。{wait}{clear}	Sorry... nothing comes before killing him.{wait}{clear}	
+clev09_01.0182	クライヴ	Clive	speaker
+clev09_01.018E	俺はやつを追い続けてきた。{n}それ以外のことに興味などない……。{wait}{clear}	I've been chasing him all this time. Nothing{n}else interests me...{wait}{clear}	
 clev09_01.01E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev09_01.01F0	わかりました……{wait}{clear}		
+clev09_01.01F0	わかりました……{wait}{clear}	I understand...{wait}{clear}	
 clev09_01.020C	ＮＵＬＬ	NULL	speaker
-clev09_01.021C	《必ず帰ってきてください》{n}		
-clev09_01.023E	《ご武運を……》{n}		
+clev09_01.021C	《必ず帰ってきてください》{n}	Please come back safely{n}	
+clev09_01.023E	《ご武運を……》{n}	Good luck...{n}	
 clev09_01.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev09_01.0270	でも、必ず帰ってきてください……。{wait}{clear}		
-clev09_01.02A2	クライヴ		speaker
-clev09_01.02AE	……ああ。{wait}{clear}		
-clev09_01.02C6	クライヴ		speaker
+clev09_01.0270	でも、必ず帰ってきてください……。{wait}{clear}	But please, come back safely...{wait}{clear}	
+clev09_01.02A2	クライヴ	Clive	speaker
+clev09_01.02AE	……ああ。{wait}{clear}	...Yeah.{wait}{clear}	
+clev09_01.02C6	クライヴ	Clive	speaker
 clev09_01.02D2	…………。{wait}{clear}	.........{wait}{clear}	
 clev09_01.02EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev09_01.02FA	ご武運をお祈りします……。{wait}{clear}		
-clev09_01.0324	クライヴ		speaker
-clev09_01.0330	……すまない。{wait}{clear}		
-clev09_01.034C	クライヴ		speaker
-clev09_01.0358	……ああ。{wait}{clear}		
+clev09_01.02FA	ご武運をお祈りします……。{wait}{clear}	I'll pray for your good fortune in battle...{wait}{clear}	
+clev09_01.0324	クライヴ	Clive	speaker
+clev09_01.0330	……すまない。{wait}{clear}	...Sorry.{wait}{clear}	
+clev09_01.034C	クライヴ	Clive	speaker
+clev09_01.0358	……ああ。{wait}{clear}	...Yeah.{wait}{clear}	

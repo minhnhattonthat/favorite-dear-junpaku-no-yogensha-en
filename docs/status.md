@@ -10,18 +10,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   line to N letters for clip tests. Non-text rows excluded: debug printfs, memory-card titles, printf `%s`.
 - **Phase 6 progress (2026-11-21):** `tools/batches.py` split the script into 92 batches (b001-b092, ~3500 JP chars
   each; one row per distinct JP, merge copies it to every duplicate; order ssb, msg, evx, end, misc, ovl, exe).
-  Done: **b001-b004** (alkaya fairy intros for Rosa, Florinda, Shelly, Lily, Lynx, Aquila, Cetus, Lepus; Cecia's
-  ceed01/ceev01-10). `batches.py todo` lists the rest. Workflow per batch (no subagents under Orca): Read
+  Done: **b001-b008** (alkaya fairy intros for Rosa, Florinda, Shelly, Lily, Lynx, Aquila, Cetus, Lepus; Cecia's
+  ceed01/ceev01-24; Clive's cled01/clev01-20_01, ends at Raphael's "from whom were humans born" talk).
+  `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
+  Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
+  king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
+  --cue <abs>/build/fd2_en.cue` both OK, English renders and wraps (`work/qa/p6b/`); warp.py's default cue is the
+  ORIGINAL disc, so always pass `--cue` for the build. Workflow per batch (no subagents under Orca): Read
   `trans/batches/bNNN.tsv` in ~25-50-line parts, write `trans/parts/bNNN_K.tsv` (id<TAB>en), join with
   `(echo -e "id\ten"; cat trans/parts/bNNN_*.tsv) > trans/en/bNNN.tsv`, `batches.py check bNNN`, then `merge` and
   `build.py`. ~4 batches fit one worker context; brief in `docs/translator-brief.md`, terms in `glossary.md` (seeded
   this session: heroes Fein, Irene, Rocus, Clive, Leyla, Rudiere, Cecia; places Grosain, Ecclesia, Six Kingdoms
   Alliance, Legrance, Reyforia Forest...; extend it as names appear).
   Open for phase 7: merge's wrap adds `{wait}{clear}` pages when a page runs over 3 lines, which can leave a
-  one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; the grown ssb files are not boot-tested
-  yet (script buffer size unknown). No `docs/synopsis.md` / style reference yet: write them once the story
+  one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
+  grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b005 (`batches.py todo`). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b009 (`batches.py todo`; clev20_01 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

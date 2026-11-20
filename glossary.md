@@ -36,8 +36,13 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | ティルナーグ | Tirnag | | | |
 | ロクス | Rocus | | hero, Rocus Las Flores | |
 | フロレス | Flores | | | |
-| クライヴ | Clive | | hero, vampire hunter, Clive Ravenruft | |
-| レイブンルフト | Ravenruft | | | |
+| クライヴ | Clive | | hero, vampire hunter, Clive Saingrent; terse, 俺 | |
+| セイングレント | Saingrent | | Clive's surname | |
+| レイブンルフト | Ravenruft | | king of the vampires, Clive's enemy | |
+| アーウィン | Irwin | | Clive's master, a vampire hunter | Erwin |
+| ヴァイパー | Viper | | | |
+| ティタン | Titan | | enemy faction occupying a town (clev16) | |
+| ジグ | Zig | | saved Fein in his past | |
 | レイラ | Leyla | | hero, Leyla Vigrid | Layla |
 | ヴィグリード | Vigrid | | | |
 | ルディエール | Rudiere | | hero, Rudiere Trier Legrance; ルディ "Rudi" | |
@@ -75,11 +80,18 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | イェラセル | Yerasel | | the Yerasel continent | |
 | カヴァキア | Kavakia | | the Kavakia peninsula | |
 | インフォス | Infos | | game 1's world | |
+| ドライハウプ | Dreihaup | | Lake Dreihaup (湖), largest lake on Yerasel | |
+| デルフィニア | Delphinia | | Mount Delphinia (山) | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | グランドマスター | Grand Master | | | |
 | グランドロッジ | Grand Lodge | | | |
+| 聖母 | Holy Mother | | Cecia's order; 聖母の森 the Forest of the Holy Mother | |
+| 魔石 | Demon Stone | | shattered into three, one per ancient hero | |
+| 天竜 | Heavenly Dragon | | | |
+| 紅月王 | Crimson Moon King | | | |
+| 大天使 | archangel | | the archangel / Lord Raphael | |
 
 ## Decisions from earlier batches

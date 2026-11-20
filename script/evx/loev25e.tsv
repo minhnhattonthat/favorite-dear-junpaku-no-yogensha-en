@@ -1,13 +1,13 @@
 id	jp	en	notes
 loev25e.0002	ラストバトル(負ける)		dev label (guess: not shown)
 loev25e.00A2	ルディ		unit name (32-byte field)
-loev25e.00DE	ベルゼバブ		unit name (32-byte field)
+loev25e.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 loev25e.011A	天竜		unit name (32-byte field)
-loev25e.04A8	ベルゼバブ		speaker
+loev25e.04A8	ベルゼバブ	Beelzebub	speaker
 loev25e.04C1	……くっ、サタン様の魂が……こんなことに……		text
-loev25e.050C	ミカエル		speaker
+loev25e.050C	ミカエル	Michael	speaker
 loev25e.0523	これが正義だ。ベルゼバブ。		text
-loev25e.055C	ベルゼバブ		speaker
+loev25e.055C	ベルゼバブ	Beelzebub	speaker
 loev25e.0575	ふん、なにを言うか……{n}これしきのことで……いい気になるな……		text
 loev25e.05D2	今はたしかに引き下がろう……{n}だが、いつかまた、必ずサタン様はよみがえり……		text
 loev25e.063D	魔軍を率いて貴様らの天界を焼き払うだろう……		text

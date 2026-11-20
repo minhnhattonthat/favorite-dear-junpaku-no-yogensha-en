@@ -1,26 +1,26 @@
 id	jp	en	notes
-men2_Lo01.0052	ルディエール		speaker
+men2_Lo01.0052	ルディエール	Rudiere	speaker
 men2_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
 men2_Lo01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.008A	ルディ、どうしたのですか？{n}なにか大変なことでも？{wait}{clear}		
-men2_Lo01.00C0	ルディエール		speaker
+men2_Lo01.00C0	ルディエール	Rudiere	speaker
 men2_Lo01.00D0	そんなに慌てて来なくてもいいよ。{n}ただ、ちょっと話したいと思っただけなんだ。{wait}{clear}		
 men2_Lo01.0120	ＮＵＬＬ	NULL	speaker
 men2_Lo01.0130	《そうだったのですね。》{n}		
 men2_Lo01.0150	《すみません……。》{n}		
 men2_Lo01.016C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.017C	そうだったのですね。{n}なにかあったのかと思って……。{wait}{clear}		
-men2_Lo01.01C0	ルディエール		speaker
+men2_Lo01.01C0	ルディエール	Rudiere	speaker
 men2_Lo01.01D0	本当に、＄＄＄＄＄＄は心配性だな。{n}これじゃ、会いたくてもなかなか呼べない。{wait}{clear}		
 men2_Lo01.0220	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.0230	いえ、呼んでください。{wait}{clear}私も……ルディに会いたいですから……。{wait}{clear}		
-men2_Lo01.0280	ルディエール		speaker
+men2_Lo01.0280	ルディエール	Rudiere	speaker
 men2_Lo01.0290	え？　あ、そうなのか……？{wait}{clear}え、えっと、少し話でもしよう。{n}せっかく来てもらったんだからな。{wait}{clear}		
 men2_Lo01.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.0302	はい……。{wait}{clear}	Yes...{wait}{clear}	
 men2_Lo01.0314	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Lo01.0324	すみません……。{n}私、なにを慌ててしまったのでしょう……。{wait}{clear}		
-men2_Lo01.036E	ルディエール		speaker
+men2_Lo01.036E	ルディエール	Rudiere	speaker
 men2_Lo01.037E	なんだよ、そんなに落ち込まなくてもいいだろ？{n}そんなに気にするなよ。{wait}{clear}な、せっかく来たんだ、話でもしようぜ。{wait}{clear}		
 men2_Lo01.03F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Lo01.0400	はい。{wait}{clear}		
+men2_Lo01.0400	はい。{wait}{clear}	Yes.{wait}{clear}	

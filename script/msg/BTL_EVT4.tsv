@@ -1,11 +1,11 @@
 id	jp	en	notes
-BTL_EVT4.01E0S	アイリーン		speaker
+BTL_EVT4.01E0S	アイリーン	Irene	speaker
 BTL_EVT4.01EB	あんたたち、村を襲ってどうしようっていうの？		
 BTL_EVT4.021BS	タイタン		speaker
 BTL_EVT4.0224	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！		
-BTL_EVT4.02CCS	アイリーン		speaker
+BTL_EVT4.02CCS	アイリーン	Irene	speaker
 BTL_EVT4.02D7	なんか、あんまり戦いたくないけど、{n}あたしも痛いのはイヤだから。		
-BTL_EVT4.031BS	アイリーン		speaker
+BTL_EVT4.031BS	アイリーン	Irene	speaker
 BTL_EVT4.0326	これで終わりね。		
 BTL_EVT4.033AS	タイタン		speaker
 BTL_EVT4.0343	ふん！　口ほどにもない！！		
@@ -17,17 +17,17 @@ BTL_EVT4.03E5S	帝国兵		speaker
 BTL_EVT4.03EC	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
 BTL_EVT4.041CS	帝国兵		speaker
 BTL_EVT4.0423	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
-BTL_EVT4.0477S	アイリーン		speaker
+BTL_EVT4.0477S	アイリーン	Irene	speaker
 BTL_EVT4.0482	あんたたち！　森から出て行きなさい！！		
 BTL_EVT4.04ACS	帝国騎士		speaker
 BTL_EVT4.04B5	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！		
-BTL_EVT4.04FDS	アイリーン		speaker
+BTL_EVT4.04FDS	アイリーン	Irene	speaker
 BTL_EVT4.0508	最初から{n}私の言った通りにすればよかったのに……。		
 BTL_EVT4.053ES	帝国騎士		speaker
 BTL_EVT4.0547	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
 BTL_EVT4.058BS	帝国騎士		speaker
 BTL_EVT4.0594	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
-BTL_EVT4.05FCS	アイリーン		speaker
+BTL_EVT4.05FCS	アイリーン	Irene	speaker
 BTL_EVT4.0607	ああ、気持ち悪かった！！		
 BTL_EVT4.0623S	ファントム		speaker
 BTL_EVT4.062E	…………。		
@@ -37,21 +37,21 @@ BTL_EVT4.0679S	イオン	Ion	speaker
 BTL_EVT4.0680	ぼくの邪魔をするから……。		
 BTL_EVT4.069ES	イオン	Ion	speaker
 BTL_EVT4.06A5	ぼくの邪魔をするから……。		
-BTL_EVT4.06E7S	アイリーン		speaker
+BTL_EVT4.06E7S	アイリーン	Irene	speaker
 BTL_EVT4.06F2	帝国って、なんでこんなことするの！？		
 BTL_EVT4.071AS	帝国兵		speaker
 BTL_EVT4.0721	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！		
-BTL_EVT4.0769S	アイリーン		speaker
+BTL_EVT4.0769S	アイリーン	Irene	speaker
 BTL_EVT4.0774	なにかが始まってる……。		
 BTL_EVT4.0790S	帝国兵		speaker
 BTL_EVT4.0797	我々の邪魔をするなど……{n}愚かなやつめ！		
 BTL_EVT4.07C3S	帝国兵		speaker
 BTL_EVT4.07CA	我々の邪魔をするなど……{n}愚かなやつめ！		
-BTL_EVT4.081AS	アイリーン		speaker
+BTL_EVT4.081AS	アイリーン	Irene	speaker
 BTL_EVT4.0825	なんなの、あんたたちは！		
 BTL_EVT4.0841S	帝国兵		speaker
 BTL_EVT4.0848	なんだ、貴様！？{n}子供は引っ込んでろ！！		
-BTL_EVT4.0874S	アイリーン		speaker
+BTL_EVT4.0874S	アイリーン	Irene	speaker
 BTL_EVT4.087F	いったい……なにが起ころうとしてるの……？		
 BTL_EVT4.08ADS	帝国兵		speaker
 BTL_EVT4.08B4	我々の邪魔をするなど……{n}愚かなやつめ！		
@@ -67,7 +67,7 @@ BTL_EVT4.0A3ES	カイゼル		speaker
 BTL_EVT4.0A47	ふん……我々に逆らうなど……愚かな……。		
 BTL_EVT4.0A73S	カイゼル		speaker
 BTL_EVT4.0A7C	…………。		
-BTL_EVT4.0AAES	アイリーン		speaker
+BTL_EVT4.0AAES	アイリーン	Irene	speaker
 BTL_EVT4.0AB9	あの剣……強力な魔法で作られてた……。{wait}{clear}それに魂を奪われたのね……。		
 BTL_EVT4.0B03S	アルベリック		speaker
 BTL_EVT4.0B10	この剣も喜んでいる……		
@@ -81,7 +81,7 @@ BTL_EVT4.0BE1S	騎士隊長		speaker
 BTL_EVT4.0BEA	帝国バンザイ！！		
 BTL_EVT4.0C22S	帝国兵		speaker
 BTL_EVT4.0C29	我々に、歯向かうやつはどこだ！！		
-BTL_EVT4.0C4DS	アイリーン		speaker
+BTL_EVT4.0C4DS	アイリーン	Irene	speaker
 BTL_EVT4.0C58	ギルドがめちゃめちゃに……！		
 BTL_EVT4.0C78S	帝国兵		speaker
 BTL_EVT4.0C7F	我々に勝てるとおもっているか！！		
@@ -101,9 +101,9 @@ BTL_EVT4.0DEFS	盗賊		speaker
 BTL_EVT4.0DF4	はん！　オレたちにかなうわけねえんだよ！		
 BTL_EVT4.0E68S	ゾンビ		speaker
 BTL_EVT4.0E6F	ヴヴヴ……。		
-BTL_EVT4.0E7FS	アイリーン		speaker
+BTL_EVT4.0E7FS	アイリーン	Irene	speaker
 BTL_EVT4.0E8A	ああ、もう！　近くに来ないでよ！{n}とっととやっつけてやるから！		
-BTL_EVT4.0ECCS	アイリーン		speaker
+BTL_EVT4.0ECCS	アイリーン	Irene	speaker
 BTL_EVT4.0ED7	やっぱり、アンデッドって気持ち悪い……。		
 BTL_EVT4.0F03S	ゾンビ		speaker
 BTL_EVT4.0F0A	ウウヴッッ……。		
@@ -111,9 +111,9 @@ BTL_EVT4.0F1ES	ゾンビ		speaker
 BTL_EVT4.0F25	ウウヴッッ……。		
 BTL_EVT4.0F5DS	吸血鬼		speaker
 BTL_EVT4.0F64	なんだ貴様は？		
-BTL_EVT4.0F76S	アイリーン		speaker
+BTL_EVT4.0F76S	アイリーン	Irene	speaker
 BTL_EVT4.0F81	ふん！　あなたこそ、滅びなさい！		
-BTL_EVT4.0FA5S	アイリーン		speaker
+BTL_EVT4.0FA5S	アイリーン	Irene	speaker
 BTL_EVT4.0FB0	やっぱり、吸血鬼は苦手だな……。		
 BTL_EVT4.0FD4S	吸血鬼		speaker
 BTL_EVT4.0FDB	人間ごときが、我らにかなうはずなかろう！		
@@ -121,9 +121,9 @@ BTL_EVT4.1007S	吸血鬼		speaker
 BTL_EVT4.100E	おお、逃げていったわ！{n}わはははは……！		
 BTL_EVT4.105ES	メデューサ		speaker
 BTL_EVT4.1069	ほほほ……。		
-BTL_EVT4.1079S	アイリーン		speaker
+BTL_EVT4.1079S	アイリーン	Irene	speaker
 BTL_EVT4.1084	ちょっと！　なによ！		
-BTL_EVT4.109CS	アイリーン		speaker
+BTL_EVT4.109CS	アイリーン	Irene	speaker
 BTL_EVT4.10A7	なんだか、どっと疲れたわね……。		
 BTL_EVT4.10CBS	メデューサ		speaker
 BTL_EVT4.10D6	こんなおしとやかな私に負けるなんて……{n}情けない女……。		
@@ -131,21 +131,21 @@ BTL_EVT4.1112S	メデューサ		speaker
 BTL_EVT4.111D	こんなおしとやかな私に負けるなんて……{n}情けない女……。		
 BTL_EVT4.117DS	暗殺者		speaker
 BTL_EVT4.1184	なんだー、お前は？{n}オレたちの邪魔をするな！		
-BTL_EVT4.11B4S	アイリーン		speaker
+BTL_EVT4.11B4S	アイリーン	Irene	speaker
 BTL_EVT4.11BF	もう、あんなやつらばっかりね！		
 BTL_EVT4.11E1S	暗殺者		speaker
 BTL_EVT4.11E8	いい気味だぜ。		
 BTL_EVT4.11FAS	暗殺者		speaker
 BTL_EVT4.1201	はっ！　逃げて行きやがったぜ！		
-BTL_EVT4.1247S	アイリーン		speaker
+BTL_EVT4.1247S	アイリーン	Irene	speaker
 BTL_EVT4.1252	人間の軍隊に魔族！？		
-BTL_EVT4.126AS	アイリーン		speaker
+BTL_EVT4.126AS	アイリーン	Irene	speaker
 BTL_EVT4.1275	まさか、これが魔石の力……？		
 BTL_EVT4.1295S	帝国軍		speaker
 BTL_EVT4.129C	ははははは！		
 BTL_EVT4.12ACS	帝国軍		speaker
 BTL_EVT4.12B3	ははははは！		
-BTL_EVT4.12E7S	アイリーン		speaker
+BTL_EVT4.12E7S	アイリーン	Irene	speaker
 BTL_EVT4.12F2	あんたたちみたいなのがいくら集まったってムダよ！		
 BTL_EVT4.1326S	暗殺者		speaker
 BTL_EVT4.132D	我々の邪魔をするな！		
@@ -157,9 +157,9 @@ BTL_EVT4.1373S	暗殺者		speaker
 BTL_EVT4.137A	思い知ったか！		
 BTL_EVT4.13B0S	ティタン		speaker
 BTL_EVT4.13B9	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！		
-BTL_EVT4.13FDS	アイリーン		speaker
+BTL_EVT4.13FDS	アイリーン	Irene	speaker
 BTL_EVT4.1408	勝手なことして、よく言うわね！		
-BTL_EVT4.142AS	アイリーン		speaker
+BTL_EVT4.142AS	アイリーン	Irene	speaker
 BTL_EVT4.1435	さ、これで村は大丈夫ね。		
 BTL_EVT4.1451S	ティタン		speaker
 BTL_EVT4.145A	に、二度とくるな！！		
@@ -169,7 +169,7 @@ BTL_EVT4.14B7S	サヴィオ		speaker
 BTL_EVT4.14C0	お前は……{n}セレニスの言っていた天使の勇者だな……。		
 BTL_EVT4.14F8S	サヴィオ		speaker
 BTL_EVT4.1501	殺す。		
-BTL_EVT4.150BS	アイリーン		speaker
+BTL_EVT4.150BS	アイリーン	Irene	speaker
 BTL_EVT4.1516	姉さんを知っているの？		
 BTL_EVT4.1530S	サヴィオ		speaker
 BTL_EVT4.1539	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいくやつに{n}なにを聞かせても無駄だからな……		
@@ -181,291 +181,291 @@ BTL_EVT4.15E7S	サヴィオ		speaker
 BTL_EVT4.15F0	邪魔者は……死ね。		
 BTL_EVT4.1606S	サヴィオ		speaker
 BTL_EVT4.160F	うおーっ！		
-BTL_EVT4.1641S	クラレンス		speaker
+BTL_EVT4.1641S	クラレンス	Clarence	speaker
 BTL_EVT4.164C	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
-BTL_EVT4.1686S	アイリーン		speaker
+BTL_EVT4.1686S	アイリーン	Irene	speaker
 BTL_EVT4.1691	あなた……{n}どうしてそんなにこの世界を恨んでいるの？		
-BTL_EVT4.16C9S	クラレンス		speaker
+BTL_EVT4.16C9S	クラレンス	Clarence	speaker
 BTL_EVT4.16D4	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。		
-BTL_EVT4.170AS	アイリーン		speaker
+BTL_EVT4.170AS	アイリーン	Irene	speaker
 BTL_EVT4.1715	可哀想な人……。		
-BTL_EVT4.1729S	クラレンス		speaker
+BTL_EVT4.1729S	クラレンス	Clarence	speaker
 BTL_EVT4.1734	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
-BTL_EVT4.1776S	クラレンス		speaker
+BTL_EVT4.1776S	クラレンス	Clarence	speaker
 BTL_EVT4.1781	ははは！　いい様だぜ！		
-BTL_EVT4.17E3S	アイリーン		speaker
+BTL_EVT4.17E3S	アイリーン	Irene	speaker
 BTL_EVT4.17EE	帝国なんて……弱い者いじめしているだけよ！		
 BTL_EVT4.181CS	帝国兵		speaker
 BTL_EVT4.1823	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！		
-BTL_EVT4.1867S	アイリーン		speaker
+BTL_EVT4.1867S	アイリーン	Irene	speaker
 BTL_EVT4.1872	嫌な予感がする……。		
 BTL_EVT4.188AS	帝国兵		speaker
 BTL_EVT4.1891	お前ひとりにやられる我が軍ではないわ！		
 BTL_EVT4.18BBS	帝国兵		speaker
 BTL_EVT4.18C2	お前ひとりにやられる我が軍ではないわ！		
-BTL_EVT4.1910S	アイリーン		speaker
+BTL_EVT4.1910S	アイリーン	Irene	speaker
 BTL_EVT4.191B	帝国なんて……弱い者いじめしているだけよ！		
 BTL_EVT4.1949S	帝国兵		speaker
 BTL_EVT4.1950	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT4.199CS	アイリーン		speaker
+BTL_EVT4.199CS	アイリーン	Irene	speaker
 BTL_EVT4.19A7	……これからなんだ……なにもかも……。		
 BTL_EVT4.19D1S	帝国兵		speaker
 BTL_EVT4.19D8	わはははっ！{n}偉大なる帝国に栄えあれ！		
 BTL_EVT4.1A02S	帝国兵		speaker
 BTL_EVT4.1A09	わはははっ！{n}偉大なる帝国に栄えあれ！		
-BTL_EVT4.1A57S	アイリーン		speaker
+BTL_EVT4.1A57S	アイリーン	Irene	speaker
 BTL_EVT4.1A62	帝国なんて……弱い者いじめしているだけよ！		
 BTL_EVT4.1A90S	帝国騎士		speaker
 BTL_EVT4.1A99	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！		
-BTL_EVT4.1AF9S	アイリーン		speaker
+BTL_EVT4.1AF9S	アイリーン	Irene	speaker
 BTL_EVT4.1B04	誰が……{n}あんたたちの言うことなんか聞くもんですか！		
-BTL_EVT4.1B3CS	アイリーン		speaker
+BTL_EVT4.1B3CS	アイリーン	Irene	speaker
 BTL_EVT4.1B47	こんなひどいことが続くなんて……。		
 BTL_EVT4.1B6DS	帝国騎士		speaker
 BTL_EVT4.1B76	我々に逆らうなど、むだなこと！		
 BTL_EVT4.1B98S	帝国騎士		speaker
 BTL_EVT4.1BA1	我々に逆らうなど、むだなこと！		
-BTL_EVT4.1BE7S	アイリーン		speaker
+BTL_EVT4.1BE7S	アイリーン	Irene	speaker
 BTL_EVT4.1BF2	こんな小さな村を襲って、どうしようというの！		
 BTL_EVT4.1C22S	帝国兵		speaker
 BTL_EVT4.1C29	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
-BTL_EVT4.1C75S	アイリーン		speaker
+BTL_EVT4.1C75S	アイリーン	Irene	speaker
 BTL_EVT4.1C80	こんなひどいことが続くなんて……。		
 BTL_EVT4.1CA6S	帝国騎士		speaker
 BTL_EVT4.1CAF	我らには紅月王がついておられる！　わはははは！		
 BTL_EVT4.1CE1S	帝国騎士		speaker
 BTL_EVT4.1CEA	我らには紅月王がついておられる！　わはははは！		
-BTL_EVT4.1D40S	アイリーン		speaker
+BTL_EVT4.1D40S	アイリーン	Irene	speaker
 BTL_EVT4.1D4B	帝国は、いつも弱い者いじめばっかり。{n}そんな卑怯な連中はゆるさない！		
 BTL_EVT4.1D93S	帝国騎士		speaker
 BTL_EVT4.1D9C	我らの進軍、誰にも止めることなどできん！		
-BTL_EVT4.1DC8S	アイリーン		speaker
+BTL_EVT4.1DC8S	アイリーン	Irene	speaker
 BTL_EVT4.1DD3	帝国相手なんて……きりがないわ……！		
 BTL_EVT4.1DFBS	帝国騎士		speaker
 BTL_EVT4.1E04	我が戦いは、皇帝のため！		
 BTL_EVT4.1E20S	帝国騎士		speaker
 BTL_EVT4.1E29	我が戦いは、皇帝のため！		
-BTL_EVT4.1E69S	アイリーン		speaker
+BTL_EVT4.1E69S	アイリーン	Irene	speaker
 BTL_EVT4.1E74	そんな……{n}伝説と同じことが起こっているっていうの……？		
 BTL_EVT4.1EB0S	融合兵		speaker
 BTL_EVT4.1EB7	そのとおりだ！{n}皇帝のご意志に従う我らを止めることなどできん！		
-BTL_EVT4.1EF9S	アイリーン		speaker
+BTL_EVT4.1EF9S	アイリーン	Irene	speaker
 BTL_EVT4.1F04	こんなひどいことって……。		
 BTL_EVT4.1F22S	融合兵		speaker
 BTL_EVT4.1F29	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
 BTL_EVT4.1F69S	融合兵		speaker
 BTL_EVT4.1F70	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
-BTL_EVT4.1FD4S	アイリーン		speaker
+BTL_EVT4.1FD4S	アイリーン	Irene	speaker
 BTL_EVT4.1FDF	なに、この血のにおいっ！{n}うわ、やだやだ！{n}こんなとこ、来るんじゃなかったかも……。{wait}{clear}もう、こうなったら、さっさとやっつけて、{n}帰らせてもらうからね！		
-BTL_EVT4.207BS	アイリーン		speaker
+BTL_EVT4.207BS	アイリーン	Irene	speaker
 BTL_EVT4.2086	うわ～、気持ち悪かった！{n}もうこんな依頼、受けないから！		
 BTL_EVT4.20C2S	カオスジェリー		speaker
 BTL_EVT4.20D1	ギュルギュルゥ……。		
 BTL_EVT4.20E9S	カオスジェリー		speaker
 BTL_EVT4.20F8	ギュルギュルゥ……。		
-BTL_EVT4.2134S	アイリーン		speaker
+BTL_EVT4.2134S	アイリーン	Irene	speaker
 BTL_EVT4.213F	あんたたちなんか、さっさとやっつけてあげるっ！		
-BTL_EVT4.2171S	アイリーン		speaker
+BTL_EVT4.2171S	アイリーン	Irene	speaker
 BTL_EVT4.217C	こんなもんよね！		
 BTL_EVT4.2190S	デッドプラント		speaker
 BTL_EVT4.219F	ひゅるひゅる……。		
 BTL_EVT4.21B5S	デッドプラント		speaker
 BTL_EVT4.21C4	ひゅるひゅる……。		
-BTL_EVT4.21FES	アイリーン		speaker
+BTL_EVT4.21FES	アイリーン	Irene	speaker
 BTL_EVT4.2209	女の人ばっかり狙うなんて、嫌なやつら！{n}さっさと倒してあげるわ！		
 BTL_EVT4.224DS	シーフ		speaker
 BTL_EVT4.2254	オレたちの邪魔しようってのか？{n}はん！　面白れえ！		
-BTL_EVT4.228AS	アイリーン		speaker
+BTL_EVT4.228AS	アイリーン	Irene	speaker
 BTL_EVT4.2295	あんたたちみたいなのは、許せないのよね！		
 BTL_EVT4.22C1S	シーフ		speaker
 BTL_EVT4.22C8	はっはは！　ざまあみやがれ！		
 BTL_EVT4.22E8S	シーフ		speaker
 BTL_EVT4.22EF	はっはは！　ざまあみやがれ！		
-BTL_EVT4.2333S	アイリーン		speaker
+BTL_EVT4.2333S	アイリーン	Irene	speaker
 BTL_EVT4.233E	ブレメースの人たちの迷惑になってるんだから、{n}私がやっつけてあげるわ！		
-BTL_EVT4.2388S	アイリーン		speaker
+BTL_EVT4.2388S	アイリーン	Irene	speaker
 BTL_EVT4.2393	はあ～、終わった……。{n}これでもう、大丈夫ね。		
 BTL_EVT4.23C5S	海竜		speaker
 BTL_EVT4.23CA	グギャア～！		
 BTL_EVT4.23DAS	海竜		speaker
 BTL_EVT4.23DF	グギャア～！		
-BTL_EVT4.2413S	アイリーン		speaker
+BTL_EVT4.2413S	アイリーン	Irene	speaker
 BTL_EVT4.241E	こんなちっちゃな島を襲わなくたっていいのに……{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。		
-BTL_EVT4.2484S	アイリーン		speaker
+BTL_EVT4.2484S	アイリーン	Irene	speaker
 BTL_EVT4.248F	ふう……{n}ブレメースのみんなも、もう大丈夫ね。		
 BTL_EVT4.24C1S	海竜		speaker
 BTL_EVT4.24C6	グギギャア～！		
 BTL_EVT4.24D8S	海竜		speaker
 BTL_EVT4.24DD	グギギャア～！		
-BTL_EVT4.2513S	アイリーン		speaker
+BTL_EVT4.2513S	アイリーン	Irene	speaker
 BTL_EVT4.251E	街道をふさぐなんて迷惑だよ！{n}退治するしかないわね。		
-BTL_EVT4.2556S	アイリーン		speaker
+BTL_EVT4.2556S	アイリーン	Irene	speaker
 BTL_EVT4.2561	ふう～。これでもう大丈夫ね。		
 BTL_EVT4.2581S	ヴェノム		speaker
 BTL_EVT4.258A	シューシューシュー……		
 BTL_EVT4.25A4S	ヴェノム		speaker
 BTL_EVT4.25AD	シューシューシュー……		
-BTL_EVT4.25EBS	アイリーン		speaker
+BTL_EVT4.25EBS	アイリーン	Irene	speaker
 BTL_EVT4.25F6	どうして、人を襲ったりするの？{n}おとなしくする気がないんなら、戦うしかないわ。		
-BTL_EVT4.2648S	アイリーン		speaker
+BTL_EVT4.2648S	アイリーン	Irene	speaker
 BTL_EVT4.2653	これで村も大丈夫ね……。{n}さ、帰ろっと！		
 BTL_EVT4.267FS	ロック		speaker
 BTL_EVT4.2686	クワァアアー！		
 BTL_EVT4.2698S	ロック		speaker
 BTL_EVT4.269F	クワァアアー！		
-BTL_EVT4.26D5S	アイリーン		speaker
+BTL_EVT4.26D5S	アイリーン	Irene	speaker
 BTL_EVT4.26E0	街道をふさぐなんて迷惑だよ！{n}退治するしかないわね。		
-BTL_EVT4.2718S	アイリーン		speaker
+BTL_EVT4.2718S	アイリーン	Irene	speaker
 BTL_EVT4.2723	ふう……これでこの道も通れるようになるね。		
 BTL_EVT4.2751S	ミリピード		speaker
 BTL_EVT4.275C	ギシギシギシギシギシギシ……		
 BTL_EVT4.277CS	ミリピード		speaker
 BTL_EVT4.2787	ギシギシギシギシギシギシ……		
-BTL_EVT4.27CBS	アイリーン		speaker
+BTL_EVT4.27CBS	アイリーン	Irene	speaker
 BTL_EVT4.27D6	やっぱり、アンデッドだったの～。{n}うわ～、ヤダヤダ、こんな連中相手にするなんて！{n}とっととやっつけて、早く帰ろう！		
-BTL_EVT4.284CS	アイリーン		speaker
+BTL_EVT4.284CS	アイリーン	Irene	speaker
 BTL_EVT4.2857	もう！　アンデッドってきらい！		
 BTL_EVT4.2879S	スカルナイト		speaker
 BTL_EVT4.2886	ニンゲン……イラナイ……{n}クカカカカカカ……！		
 BTL_EVT4.28B8S	スカルナイト		speaker
 BTL_EVT4.28C5	ニンゲン……イラナイ……{n}クカカカカカカ……！		
-BTL_EVT4.291BS	アイリーン		speaker
+BTL_EVT4.291BS	アイリーン	Irene	speaker
 BTL_EVT4.2926	うわっ！　やっぱりバンシーじゃない！		
-BTL_EVT4.294ES	アイリーン		speaker
+BTL_EVT4.294ES	アイリーン	Irene	speaker
 BTL_EVT4.2959	もう！　やっぱり苦手だわ、こういうヤツって！		
 BTL_EVT4.2989S	バンシー		speaker
 BTL_EVT4.2992	ひひひひひ……		
 BTL_EVT4.29A4S	バンシー		speaker
 BTL_EVT4.29AD	ひひひひひ……		
-BTL_EVT4.29E3S	アイリーン		speaker
+BTL_EVT4.29E3S	アイリーン	Irene	speaker
 BTL_EVT4.29EE	村を襲ってるのは、あんたたちなの？		
 BTL_EVT4.2A14S	バーグラー		speaker
 BTL_EVT4.2A1F	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT4.2A93S	アイリーン		speaker
+BTL_EVT4.2A93S	アイリーン	Irene	speaker
 BTL_EVT4.2A9E	あ～あ、サイテーなおじさんたちだったわね。		
 BTL_EVT4.2ACCS	バーグラー		speaker
 BTL_EVT4.2AD7	はははっ！{n}てめえひとりで、なにができるってんだよ！		
 BTL_EVT4.2B0FS	バーグラー		speaker
 BTL_EVT4.2B1A	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT4.2B76S	アイリーン		speaker
+BTL_EVT4.2B76S	アイリーン	Irene	speaker
 BTL_EVT4.2B81	村を襲ってるのは、あんたたちなの？		
 BTL_EVT4.2BA7S	バーグラー		speaker
 BTL_EVT4.2BB2	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
-BTL_EVT4.2C26S	アイリーン		speaker
+BTL_EVT4.2C26S	アイリーン	Irene	speaker
 BTL_EVT4.2C31	あ～あ、サイテーなおじさんたちだったわね。		
 BTL_EVT4.2C5FS	バーグラー		speaker
 BTL_EVT4.2C6A	はははっ！{n}てめえひとりで、なにができるってんだよ！		
 BTL_EVT4.2CA2S	バーグラー		speaker
 BTL_EVT4.2CAD	はははっ！{n}てめえひとりで、なにができるってんだよ！		
-BTL_EVT4.2D09S	アイリーン		speaker
+BTL_EVT4.2D09S	アイリーン	Irene	speaker
 BTL_EVT4.2D14	魔族……まさか……！？		
 BTL_EVT4.2D2ES	リベザル		speaker
 BTL_EVT4.2D37	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！		
-BTL_EVT4.2D97S	アイリーン		speaker
+BTL_EVT4.2D97S	アイリーン	Irene	speaker
 BTL_EVT4.2DA2	そんな……時間がないの……？		
 BTL_EVT4.2DC2S	リベザル		speaker
 BTL_EVT4.2DCB	人間など我らの敵ではない！{n}ふははははは……っ！		
 BTL_EVT4.2DFFS	リベザル		speaker
 BTL_EVT4.2E08	人間など我らの敵ではない！{n}ふははははは……っ！		
-BTL_EVT4.2E60S	アイリーン		speaker
+BTL_EVT4.2E60S	アイリーン	Irene	speaker
 BTL_EVT4.2E6B	あんたたち、なにしてるの？		
 BTL_EVT4.2E89S	反乱兵		speaker
 BTL_EVT4.2E90	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！		
-BTL_EVT4.2EECS	アイリーン		speaker
+BTL_EVT4.2EECS	アイリーン	Irene	speaker
 BTL_EVT4.2EF7	ふう……{n}こんな調子じゃレグランスは大変そうね……。		
 BTL_EVT4.2F2FS	反乱兵		speaker
 BTL_EVT4.2F36	我々の邪魔などさせん！		
 BTL_EVT4.2F50S	反乱兵		speaker
 BTL_EVT4.2F57	我々の邪魔などさせん！		
-BTL_EVT4.2F95S	アイリーン		speaker
+BTL_EVT4.2F95S	アイリーン	Irene	speaker
 BTL_EVT4.2FA0	あんたたちなんか、さっさとやっつけてあげるっ！		
 BTL_EVT4.2FD2S	ジャイアント		speaker
 BTL_EVT4.2FDF	人間ごときがおれに勝てると思うな！		
-BTL_EVT4.3005S	アイリーン		speaker
+BTL_EVT4.3005S	アイリーン	Irene	speaker
 BTL_EVT4.3010	こんなもんよね！		
 BTL_EVT4.3024S	ジャイアント		speaker
 BTL_EVT4.3031	おれが負けるわけなどない！{n}ぐわはははっ！		
 BTL_EVT4.305FS	ジャイアント		speaker
 BTL_EVT4.306C	おれが負けるわけなどない！{n}ぐわはははっ！		
-BTL_EVT4.30BES	アイリーン		speaker
+BTL_EVT4.30BES	アイリーン	Irene	speaker
 BTL_EVT4.30C9	村から出て行きなさい！		
 BTL_EVT4.30E3S	オーク		speaker
 BTL_EVT4.30EA	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
-BTL_EVT4.311CS	アイリーン		speaker
+BTL_EVT4.311CS	アイリーン	Irene	speaker
 BTL_EVT4.3127	ふう……なんだか、後味が悪い……。		
 BTL_EVT4.314DS	オーク		speaker
 BTL_EVT4.3154	ニンゲン　ジャマ……！		
 BTL_EVT4.316ES	オーク		speaker
 BTL_EVT4.3175	ニンゲン　ジャマ……！		
-BTL_EVT4.31B3S	アイリーン		speaker
+BTL_EVT4.31B3S	アイリーン	Irene	speaker
 BTL_EVT4.31BE	うわっ！　いっぱいいる～。		
 BTL_EVT4.31DCS	グレムリン		speaker
 BTL_EVT4.31E7	キシシシシシ！		
-BTL_EVT4.31F9S	アイリーン		speaker
+BTL_EVT4.31F9S	アイリーン	Irene	speaker
 BTL_EVT4.3204	ふう……やっと、終わったわ……。		
 BTL_EVT4.3228S	グレムリン		speaker
 BTL_EVT4.3233	キシシシシシ！		
 BTL_EVT4.3245S	グレムリン		speaker
 BTL_EVT4.3250	キシシシシシ！		
-BTL_EVT4.3286S	アイリーン		speaker
+BTL_EVT4.3286S	アイリーン	Irene	speaker
 BTL_EVT4.3291	あんたたち……		
 BTL_EVT4.32A3S	ゴーゴン		speaker
 BTL_EVT4.32AC	あら？　邪魔者が来たみたいね。{n}さっそく石にして砕いてあげるわ！		
-BTL_EVT4.32F0S	アイリーン		speaker
+BTL_EVT4.32F0S	アイリーン	Irene	speaker
 BTL_EVT4.32FB	やだやだ……やっぱり、ああいうのは苦手！		
 BTL_EVT4.3327S	ゴーゴン		speaker
 BTL_EVT4.3330	ふふふふ……{n}あはははは……！		
 BTL_EVT4.3352S	ゴーゴン		speaker
 BTL_EVT4.335B	ふふふふ……{n}あはははは……！		
-BTL_EVT4.33A1S	アイリーン		speaker
+BTL_EVT4.33A1S	アイリーン	Irene	speaker
 BTL_EVT4.33AC	村から出ていかないんなら、{n}やっつけるしかないわね。		
-BTL_EVT4.33E4S	アイリーン		speaker
+BTL_EVT4.33E4S	アイリーン	Irene	speaker
 BTL_EVT4.33EF	はあ……終わった……。		
 BTL_EVT4.3409S	ヘルハウンド		speaker
 BTL_EVT4.3416	うおおお～んっ！！		
 BTL_EVT4.342CS	ヘルハウンド		speaker
 BTL_EVT4.3439	うおおお～んっ！！		
-BTL_EVT4.3473S	アイリーン		speaker
+BTL_EVT4.3473S	アイリーン	Irene	speaker
 BTL_EVT4.347E	竜巻の原因は、キメラだったのね。		
 BTL_EVT4.34A2S	キメラ		speaker
 BTL_EVT4.34A9	きえ～！　きえ～！		
-BTL_EVT4.34BFS	アイリーン		speaker
+BTL_EVT4.34BFS	アイリーン	Irene	speaker
 BTL_EVT4.34CA	はあ、これで村も大丈夫ね。		
 BTL_EVT4.34E8S	キメラ		speaker
 BTL_EVT4.34EF	きえ～！　きえ～！		
 BTL_EVT4.3505S	キメラ		speaker
 BTL_EVT4.350C	きえ～！　きえ～！		
-BTL_EVT4.3546S	アイリーン		speaker
+BTL_EVT4.3546S	アイリーン	Irene	speaker
 BTL_EVT4.3551	森でおとなしくしてれば、よかったのに……。		
-BTL_EVT4.357FS	アイリーン		speaker
+BTL_EVT4.357FS	アイリーン	Irene	speaker
 BTL_EVT4.358A	これで、大丈夫でしょう……。		
 BTL_EVT4.35AAS	グリズリー		speaker
 BTL_EVT4.35B5	ぐがあ～！		
 BTL_EVT4.35C3S	グリズリー		speaker
 BTL_EVT4.35CE	ぐがあ～！		
-BTL_EVT4.3600S	アイリーン		speaker
+BTL_EVT4.3600S	アイリーン	Irene	speaker
 BTL_EVT4.360B	おとなしく帰る気がないんなら、{n}戦うしかないわね。		
-BTL_EVT4.3641S	アイリーン		speaker
+BTL_EVT4.3641S	アイリーン	Irene	speaker
 BTL_EVT4.364C	ふう……{n}これで、もう大丈夫ね。		
 BTL_EVT4.3670S	海竜		speaker
 BTL_EVT4.3675	グギギャア～！		
 BTL_EVT4.3687S	海竜		speaker
 BTL_EVT4.368C	グギギャア～！		
-BTL_EVT4.36C2S	アイリーン		speaker
+BTL_EVT4.36C2S	アイリーン	Irene	speaker
 BTL_EVT4.36CD	このへんで暴れてる盗賊たちって{n}おじさんのこと？		
 BTL_EVT4.3701S	ミリシア		speaker
 BTL_EVT4.370A	おじさんだと！？{n}フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！		
-BTL_EVT4.376CS	アイリーン		speaker
+BTL_EVT4.376CS	アイリーン	Irene	speaker
 BTL_EVT4.3777	くだらない人たち……。		
 BTL_EVT4.3791S	ミリシア		speaker
 BTL_EVT4.379A	はははっ！　まだまだ暴れるぜ！		
 BTL_EVT4.37BCS	ミリシア		speaker
 BTL_EVT4.37C5	はははっ！　まだまだ暴れるぜ！		
-BTL_EVT4.380BS	アイリーン		speaker
+BTL_EVT4.380BS	アイリーン	Irene	speaker
 BTL_EVT4.3816	うわ～、ヤダヤダ！{n}やっぱり、アンデッドの仕業だったんだ～！		
 BTL_EVT4.3856S	ノスフェラトゥ		speaker
 BTL_EVT4.3865	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。		
-BTL_EVT4.38D7S	アイリーン		speaker
+BTL_EVT4.38D7S	アイリーン	Irene	speaker
 BTL_EVT4.38E2	もう！　こいつらきらい！		
 BTL_EVT4.38FES	ノスフェラトゥ		speaker
 BTL_EVT4.390D	人間はすべて我らにひざまずくがいい！		
@@ -473,9 +473,9 @@ BTL_EVT4.3935S	ノスフェラトゥ		speaker
 BTL_EVT4.3944	人間はすべて我らにひざまずくがいい！		
 BTL_EVT4.3990S	ヘルハウンド		speaker
 BTL_EVT4.399D	グルル……！		
-BTL_EVT4.39ADS	アイリーン		speaker
+BTL_EVT4.39ADS	アイリーン	Irene	speaker
 BTL_EVT4.39B8	あんたたちが村人を襲ってたのね！		
-BTL_EVT4.39DCS	アイリーン		speaker
+BTL_EVT4.39DCS	アイリーン	Irene	speaker
 BTL_EVT4.39E7	ふう……これで、きっと大丈夫なはず。		
 BTL_EVT4.3A0FS	ヘルハウンド		speaker
 BTL_EVT4.3A1C	ウワオオ～ン！		
@@ -483,35 +483,35 @@ BTL_EVT4.3A2ES	ヘルハウンド		speaker
 BTL_EVT4.3A3B	ウワオオ～ン！		
 BTL_EVT4.3A71S	グレムリン		speaker
 BTL_EVT4.3A7C	キシー！　キシシシー！		
-BTL_EVT4.3A96S	アイリーン		speaker
+BTL_EVT4.3A96S	アイリーン	Irene	speaker
 BTL_EVT4.3AA1	なに？　こいつらが子供をさらってたの？		
-BTL_EVT4.3ACBS	アイリーン		speaker
+BTL_EVT4.3ACBS	アイリーン	Irene	speaker
 BTL_EVT4.3AD6	ふう……これでもう大丈夫だけど……。{n}さらわれた子たち……可哀想……。		
 BTL_EVT4.3B20S	グレムリン		speaker
 BTL_EVT4.3B2B	キシー！　キシシシー！		
 BTL_EVT4.3B45S	グレムリン		speaker
 BTL_EVT4.3B50	キシー！　キシシシー！		
-BTL_EVT4.3B8ES	アイリーン		speaker
+BTL_EVT4.3B8ES	アイリーン	Irene	speaker
 BTL_EVT4.3B99	みんなに被害が出る前に、やっつけてやる！		
-BTL_EVT4.3BC5S	アイリーン		speaker
+BTL_EVT4.3BC5S	アイリーン	Irene	speaker
 BTL_EVT4.3BD0	はあ、終わった。		
 BTL_EVT4.3BE4S	デスウィドウ		speaker
 BTL_EVT4.3BF1	ギーギーギー		
 BTL_EVT4.3C01S	デスウィドウ		speaker
 BTL_EVT4.3C0E	ギーギーギー		
-BTL_EVT4.3C42S	アイリーン		speaker
+BTL_EVT4.3C42S	アイリーン	Irene	speaker
 BTL_EVT4.3C4D	どうして、人を襲ったりするの？{n}おとなしくする気がないんなら、戦うしかないわ。		
-BTL_EVT4.3C9FS	アイリーン		speaker
+BTL_EVT4.3C9FS	アイリーン	Irene	speaker
 BTL_EVT4.3CAA	これで村も大丈夫ね……。{n}さ、帰ろっと！		
 BTL_EVT4.3CD6S	ベルクート		speaker
 BTL_EVT4.3CE1	クワァアアー！		
 BTL_EVT4.3CF3S	ベルクート		speaker
 BTL_EVT4.3CFE	クワァアアー！		
-BTL_EVT4.3D34S	アイリーン		speaker
+BTL_EVT4.3D34S	アイリーン	Irene	speaker
 BTL_EVT4.3D3F	どうして村を襲ったの？		
 BTL_EVT4.3D59S	ホブゴブリン		speaker
 BTL_EVT4.3D66	コノむら、モラッタ。{n}オレタチノむらニスル！		
-BTL_EVT4.3D96S	アイリーン		speaker
+BTL_EVT4.3D96S	アイリーン	Irene	speaker
 BTL_EVT4.3DA1	これで、もう大丈夫よね。		
 BTL_EVT4.3DBDS	ホブゴブリン		speaker
 BTL_EVT4.3DCA	オレタチノむら、マモッタ！		
@@ -519,17 +519,17 @@ BTL_EVT4.3DE8S	ホブゴブリン		speaker
 BTL_EVT4.3DF5	オレタチノむら、マモッタ！		
 BTL_EVT4.3E37S	海竜		speaker
 BTL_EVT4.3E3C	グギギャギャ～！		
-BTL_EVT4.3E50S	アイリーン		speaker
+BTL_EVT4.3E50S	アイリーン	Irene	speaker
 BTL_EVT4.3E5B	みんなに迷惑がかかってる……。{n}おとなしく帰る気がないんなら、{n}戦うしかないわね。		
-BTL_EVT4.3EB1S	アイリーン		speaker
+BTL_EVT4.3EB1S	アイリーン	Irene	speaker
 BTL_EVT4.3EBC	これで、やっと魚がとれるようになるね。		
 BTL_EVT4.3EE6S	海竜		speaker
 BTL_EVT4.3EEB	グギャア～！　グギャア～！		
 BTL_EVT4.3F09S	海竜		speaker
 BTL_EVT4.3F0E	グギャア～！　グギャア～！		
-BTL_EVT4.3F50S	アイリーン		speaker
+BTL_EVT4.3F50S	アイリーン	Irene	speaker
 BTL_EVT4.3F5B	声の正体は海竜だったのね。{n}襲ってくるなら、倒すしかないわね。		
-BTL_EVT4.3F9DS	アイリーン		speaker
+BTL_EVT4.3F9DS	アイリーン	Irene	speaker
 BTL_EVT4.3FA8	もう、これで大丈夫ね。		
 BTL_EVT4.3FC2S	海竜		speaker
 BTL_EVT4.3FC7	ギャアアア～ギャアアア～		
@@ -537,15 +537,15 @@ BTL_EVT4.3FE3S	海竜		speaker
 BTL_EVT4.3FE8	ギャアアア～ギャアアア～		
 BTL_EVT4.4028S	ノスフェラトゥ		speaker
 BTL_EVT4.4037	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。		
-BTL_EVT4.4083S	アイリーン		speaker
+BTL_EVT4.4083S	アイリーン	Irene	speaker
 BTL_EVT4.408E	そんな誘いにのったつもりはないわ！{n}自分のやったこと、後悔させてあげるわ！		
-BTL_EVT4.40DCS	アイリーン		speaker
+BTL_EVT4.40DCS	アイリーン	Irene	speaker
 BTL_EVT4.40E7	本当にいやらしい連中……。		
 BTL_EVT4.4105S	ノスフェラトゥ		speaker
 BTL_EVT4.4114	はははは……！{n}天使の勇者など、他愛もないものだな。		
 BTL_EVT4.414CS	ノスフェラトゥ		speaker
 BTL_EVT4.415B	はははは……！{n}天使の勇者など、他愛もないものだな。		
-BTL_EVT4.41B7S	アイリーン		speaker
+BTL_EVT4.41B7S	アイリーン	Irene	speaker
 BTL_EVT4.41C2	あなたは何者なの？		
 BTL_EVT4.41D8S	アロケン		speaker
 BTL_EVT4.41E1	愚かな人間に名乗る名などない。行くぞ！		
@@ -555,7 +555,7 @@ BTL_EVT4.4248S	アロケン		speaker
 BTL_EVT4.4251	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
 BTL_EVT4.428BS	アロケン		speaker
 BTL_EVT4.4294	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
-BTL_EVT4.42F2S	アイリーン		speaker
+BTL_EVT4.42F2S	アイリーン	Irene	speaker
 BTL_EVT4.42FD	あなたは何者なの？		
 BTL_EVT4.4313S	ウジャト		speaker
 BTL_EVT4.431C	愚かな人間に名乗る名などない。{n}行くわよ！		
@@ -565,7 +565,7 @@ BTL_EVT4.438BS	ウジャト		speaker
 BTL_EVT4.4394	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
 BTL_EVT4.43CES	ウジャト		speaker
 BTL_EVT4.43D7	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
-BTL_EVT4.4435S	アイリーン		speaker
+BTL_EVT4.4435S	アイリーン	Irene	speaker
 BTL_EVT4.4440	あなたは何者なの？		
 BTL_EVT4.4456S	リベザル		speaker
 BTL_EVT4.445F	愚かな人間に名乗る名はない。行くぜ！		
@@ -583,19 +583,19 @@ BTL_EVT4.45DES	ゴーゴン		speaker
 BTL_EVT4.45E7	私が会いたいのは、ただひとりよ！		
 BTL_EVT4.460BS	ゴーゴン		speaker
 BTL_EVT4.4614	私が会いたいのは、ただひとりよ！		
-BTL_EVT4.465CS	アイリーン		speaker
+BTL_EVT4.465CS	アイリーン	Irene	speaker
 BTL_EVT4.4667	街道をふさぐなんて迷惑だよ！{n}退治するしかないわね。		
-BTL_EVT4.469FS	アイリーン		speaker
+BTL_EVT4.469FS	アイリーン	Irene	speaker
 BTL_EVT4.46AA	ふう～。これでもう大丈夫ね。		
 BTL_EVT4.46CAS	スキュラ		speaker
 BTL_EVT4.46D3	きえ～！　きえ～！		
 BTL_EVT4.46E9S	スキュラ		speaker
 BTL_EVT4.46F2	きえ～！　きえ～！		
-BTL_EVT4.472CS	アイリーン		speaker
+BTL_EVT4.472CS	アイリーン	Irene	speaker
 BTL_EVT4.4737	あんたたち、なにしてるの？		
 BTL_EVT4.4755S	バラム		speaker
 BTL_EVT4.475C	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！		
-BTL_EVT4.479CS	アイリーン		speaker
+BTL_EVT4.479CS	アイリーン	Irene	speaker
 BTL_EVT4.47A7	魔族と手を組むなんて……{n}最低だわ……。		
 BTL_EVT4.47D3S	バラム		speaker
 BTL_EVT4.47DA	誰も俺を止めることなどできん！		
@@ -609,11 +609,11 @@ BTL_EVT4.489FS	融合兵		speaker
 BTL_EVT4.48A6	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
 BTL_EVT4.48D8S	融合兵		speaker
 BTL_EVT4.48DF	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
-BTL_EVT4.4935S	アイリーン		speaker
+BTL_EVT4.4935S	アイリーン	Irene	speaker
 BTL_EVT4.4940	村人の命を狙うのなら、覚悟しなさい！		
 BTL_EVT4.4968S	ノスフェラトゥ		speaker
 BTL_EVT4.4977	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
-BTL_EVT4.49CFS	アイリーン		speaker
+BTL_EVT4.49CFS	アイリーン	Irene	speaker
 BTL_EVT4.49DA	ほんっと嫌な連中よね！		
 BTL_EVT4.49F4S	ノスフェラトゥ		speaker
 BTL_EVT4.4A03	人間はすべて我らにひざまずくがいい！		
@@ -621,19 +621,19 @@ BTL_EVT4.4A2BS	ノスフェラトゥ		speaker
 BTL_EVT4.4A3A	人間はすべて我らにひざまずくがいい！		
 BTL_EVT4.4A86S	ウィザード		speaker
 BTL_EVT4.4A91	あの方をよみがえらせるには、{n}まだまだ女が足りん……。		
-BTL_EVT4.4ACBS	アイリーン		speaker
+BTL_EVT4.4ACBS	アイリーン	Irene	speaker
 BTL_EVT4.4AD6	あんたたちが、女の人たちを手にかけたのね！？{n}絶対に許さない！		
-BTL_EVT4.4B18S	アイリーン		speaker
+BTL_EVT4.4B18S	アイリーン	Irene	speaker
 BTL_EVT4.4B23	嫌な事件ね……。		
 BTL_EVT4.4B37S	ウィザード		speaker
 BTL_EVT4.4B42	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
 BTL_EVT4.4B80S	ウィザード		speaker
 BTL_EVT4.4B8B	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
-BTL_EVT4.4BEDS	アイリーン		speaker
+BTL_EVT4.4BEDS	アイリーン	Irene	speaker
 BTL_EVT4.4BF8	うわっ！　いっぱいいる～。		
 BTL_EVT4.4C16S	グレムリン		speaker
 BTL_EVT4.4C21	キシシシシシ！		
-BTL_EVT4.4C33S	アイリーン		speaker
+BTL_EVT4.4C33S	アイリーン	Irene	speaker
 BTL_EVT4.4C3E	ふう……終わったわ……。		
 BTL_EVT4.4C5AS	グレムリン		speaker
 BTL_EVT4.4C65	キシシシシシ！		
@@ -641,17 +641,17 @@ BTL_EVT4.4C77S	グレムリン		speaker
 BTL_EVT4.4C82	キシシシシシ！		
 BTL_EVT4.4CB8S	リベザル		speaker
 BTL_EVT4.4CC1	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！		
-BTL_EVT4.4D07S	アイリーン		speaker
+BTL_EVT4.4D07S	アイリーン	Irene	speaker
 BTL_EVT4.4D12	なに勝手なこと言ってるのよ！{n}そんなことさせないからね！		
-BTL_EVT4.4D4ES	アイリーン		speaker
+BTL_EVT4.4D4ES	アイリーン	Irene	speaker
 BTL_EVT4.4D59	この森にも魔族が現れるなんて……。		
 BTL_EVT4.4D7FS	リベザル		speaker
 BTL_EVT4.4D88	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
 BTL_EVT4.4DC6S	リベザル		speaker
 BTL_EVT4.4DCF	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
-BTL_EVT4.4E31S	アイリーン		speaker
+BTL_EVT4.4E31S	アイリーン	Irene	speaker
 BTL_EVT4.4E3C	影の正体って、やっぱりシャドウだったのね。		
-BTL_EVT4.4E6AS	アイリーン		speaker
+BTL_EVT4.4E6AS	アイリーン	Irene	speaker
 BTL_EVT4.4E75	ふう～。これでもう大丈夫。		
 BTL_EVT4.4E93S	ファントム		speaker
 BTL_EVT4.4E9E	ひゅうひゅう……		
@@ -659,7 +659,7 @@ BTL_EVT4.4EB2S	ファントム		speaker
 BTL_EVT4.4EBD	ひゅうひゅう……		
 BTL_EVT4.4F19S	私兵		speaker
 BTL_EVT4.4F1E	痛い目にあいてえのか！		
-BTL_EVT4.4F38S	アイリーン		speaker
+BTL_EVT4.4F38S	アイリーン	Irene	speaker
 BTL_EVT4.4F43	ふー、まったく物騒なんだから。		
 BTL_EVT4.4F65S	私兵		speaker
 BTL_EVT4.4F6A	ざまみろ！　		
@@ -673,63 +673,63 @@ BTL_EVT4.5011S	帝国兵		speaker
 BTL_EVT4.5018	帝国バンザイ！！		
 BTL_EVT4.502CS	帝国兵		speaker
 BTL_EVT4.5033	帝国バンザイ！！		
-BTL_EVT4.50D7S	レイブンルフト		speaker
+BTL_EVT4.50D7S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.50E6	ようこそ、我が城へ。{n}天使の勇者。		
-BTL_EVT4.510CS	アイリーン		speaker
+BTL_EVT4.510CS	アイリーン	Irene	speaker
 BTL_EVT4.5117	レイブンルフト……{n}吸血鬼の王様ってわけね。		
-BTL_EVT4.5147S	レイブンルフト		speaker
+BTL_EVT4.5147S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.5156	娘よ、死を怖れぬことは美徳ではないぞ。		
-BTL_EVT4.5180S	アイリーン		speaker
+BTL_EVT4.5180S	アイリーン	Irene	speaker
 BTL_EVT4.518B	ふん……アンデッドなんて怖くないわよ。		
-BTL_EVT4.51B5S	レイブンルフト		speaker
+BTL_EVT4.51B5S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.51C4	ハハハ、ふるえているぞ、{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。		
-BTL_EVT4.5220S	レイブンルフト		speaker
+BTL_EVT4.5220S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.522F	なかなかの力だ……。		
-BTL_EVT4.5247S	レイブンルフト		speaker
+BTL_EVT4.5247S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.5256	だが、私の力はこんなものではないぞ……		
-BTL_EVT4.5280S	レイブンルフト		speaker
+BTL_EVT4.5280S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.528F	ウォオオオオオオ！！！		
-BTL_EVT4.52A9S	レイブンルフト		speaker
+BTL_EVT4.52A9S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.52B8	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT4.52E6S	レイブンルフト		speaker
+BTL_EVT4.52E6S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.52F5	この勇者はお前が殺したのだぞ！！		
-BTL_EVT4.5319S	レイブンルフト		speaker
+BTL_EVT4.5319S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.5328	フハハハハ！！		
-BTL_EVT4.533AS	レイブンルフト		speaker
+BTL_EVT4.533AS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.5349	……なにが天使の勇者だ。		
-BTL_EVT4.5365S	レイブンルフト		speaker
+BTL_EVT4.5365S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.5374	無様な敗北者が……。		
-BTL_EVT4.53B0S	レイブンルフト		speaker
+BTL_EVT4.53B0S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.53BF	私は闇の中に帰るだけだ……。		
-BTL_EVT4.53DFS	レイブンルフト		speaker
+BTL_EVT4.53DFS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.53EE	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT4.541CS	レイブンルフト		speaker
+BTL_EVT4.541CS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.542B	この勇者はお前が殺したのだぞ！！		
-BTL_EVT4.544FS	レイブンルフト		speaker
+BTL_EVT4.544FS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.545E	フハハハハ！！		
-BTL_EVT4.5470S	レイブンルフト		speaker
+BTL_EVT4.5470S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.547F	……なにが天使の勇者だ。		
-BTL_EVT4.549BS	レイブンルフト		speaker
+BTL_EVT4.549BS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.54AA	無様な敗北者が……。		
-BTL_EVT4.54E6S	アイリーン		speaker
+BTL_EVT4.54E6S	アイリーン	Irene	speaker
 BTL_EVT4.54F1	この子……強い魔力を持っていたから、{n}きっと利用されたのね……可哀想に……。{wait}{clear}まさか……姉さんが……。		
 BTL_EVT4.555DS	イオン	Ion	speaker
 BTL_EVT4.5564	ぼくの邪魔をするから……。		
 BTL_EVT4.5582S	イオン	Ion	speaker
 BTL_EVT4.5589	ぼくの邪魔をするから……。		
-BTL_EVT4.55EFS	アイリーン		speaker
+BTL_EVT4.55EFS	アイリーン	Irene	speaker
 BTL_EVT4.55FA	姉さんがなぜ……		
 BTL_EVT4.560ES	サヴィオ		speaker
 BTL_EVT4.5617	グハハハハハ。		
 BTL_EVT4.5629S	サヴィオ		speaker
 BTL_EVT4.5632	グハハハハハ。		
-BTL_EVT4.5668S	アイリーン		speaker
+BTL_EVT4.5668S	アイリーン	Irene	speaker
 BTL_EVT4.5673	＄＄＄＄＄＄の言うとおり、{n}帝国軍に魔族がいるなんて……。{wait}{clear}こいつら……まさか召還されて……？		
 BTL_EVT4.56D7S	モラクス		speaker
 BTL_EVT4.56E0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！		
 BTL_EVT4.572ES	モラクス		speaker
 BTL_EVT4.5737	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。		
-BTL_EVT4.5787S	アイリーン		speaker
+BTL_EVT4.5787S	アイリーン	Irene	speaker
 BTL_EVT4.5792	やっぱり、誰かに召還されたのね……{n}伝説と同じ……。{wait}{clear}いったい誰が……？		
 BTL_EVT4.57E0S	モラクス		speaker
 BTL_EVT4.57E9	首を洗って出直して来い！{n}ワハハハっ！		
@@ -737,13 +737,13 @@ BTL_EVT4.5813S	モラクス		speaker
 BTL_EVT4.581C	ワハハハ！　天使の勇者など、赤子のようだ！		
 BTL_EVT4.586ES	ラルヴァ		speaker
 BTL_EVT4.5877	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！		
-BTL_EVT4.5909S	アイリーン		speaker
+BTL_EVT4.5909S	アイリーン	Irene	speaker
 BTL_EVT4.5914	召還されなければ出てこれなかったくせに！{n}あんたたち魔族なんて、私が倒してあげるわ！		
 BTL_EVT4.596CS	ラルヴァ		speaker
 BTL_EVT4.5975	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！		
 BTL_EVT4.59C5S	ラルヴァ		speaker
 BTL_EVT4.59CE	な、なんで……あたしが……。		
-BTL_EVT4.59EES	アイリーン		speaker
+BTL_EVT4.59EES	アイリーン	Irene	speaker
 BTL_EVT4.59F9	ふん！　魔族なんてそんなもんよね。		
 BTL_EVT4.5A1FS	ラルヴァ		speaker
 BTL_EVT4.5A28	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！		
@@ -751,21 +751,21 @@ BTL_EVT4.5A7AS	ラルヴァ		speaker
 BTL_EVT4.5A83	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
 BTL_EVT4.5ADFS	ラルヴァ		speaker
 BTL_EVT4.5AE8	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
-BTL_EVT4.5B70S	セレニス		speaker
+BTL_EVT4.5B70S	セレニス	Serenis	speaker
 BTL_EVT4.5B79	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT4.5BAFS	セレニス		speaker
+BTL_EVT4.5BAFS	セレニス	Serenis	speaker
 BTL_EVT4.5BB8	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT4.5C12S	セレニス		speaker
+BTL_EVT4.5C12S	セレニス	Serenis	speaker
 BTL_EVT4.5C1B	二度と私の前には現れないことね、アイリーン。		
-BTL_EVT4.5C4BS	アイリーン		speaker
+BTL_EVT4.5C4BS	アイリーン	Irene	speaker
 BTL_EVT4.5C56	姉さん……どうして……。		
-BTL_EVT4.5C72S	セレニス		speaker
+BTL_EVT4.5C72S	セレニス	Serenis	speaker
 BTL_EVT4.5C7B	アハハハハ……！		
-BTL_EVT4.5C8FS	セレニス		speaker
+BTL_EVT4.5C8FS	セレニス	Serenis	speaker
 BTL_EVT4.5C98	二度と私の前には現れないことね、アイリーン。		
-BTL_EVT4.5CC8S	アイリーン		speaker
+BTL_EVT4.5CC8S	アイリーン	Irene	speaker
 BTL_EVT4.5CD3	姉さん……どうして……。		
-BTL_EVT4.5CEFS	セレニス		speaker
+BTL_EVT4.5CEFS	セレニス	Serenis	speaker
 BTL_EVT4.5CF8	アハハハハ……！		
 BTL_EVT4.5D30S	アルベリック		speaker
 BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。		
@@ -773,11 +773,11 @@ BTL_EVT4.5D65S	アルベリック		speaker
 BTL_EVT4.5D72	身のほどを思い知れ！		
 BTL_EVT4.5DF6S	王の女		speaker
 BTL_EVT4.5DFD	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
-BTL_EVT4.5E4DS	アイリーン		speaker
+BTL_EVT4.5E4DS	アイリーン	Irene	speaker
 BTL_EVT4.5E58	おばさん！{n}人にものをたずねるときは、{n}自分の名前を先に言うものよ！		
 BTL_EVT4.5EA0S	王の女		speaker
 BTL_EVT4.5EA7	おっ、おばさん！！！{wait}{clear}小娘にそんなことをいわれるなんて許せない！！{n}ここでもずくと消えなさい！！		
-BTL_EVT4.5F0DS	アイリーン		speaker
+BTL_EVT4.5F0DS	アイリーン	Irene	speaker
 BTL_EVT4.5F18	むかつく！！{n}あれ、城がなくなっちゃった？{wait}{clear}ここから先へは進めないってこと？		
 BTL_EVT4.5F6AS	王の女		speaker
 BTL_EVT4.5F71	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
@@ -785,39 +785,39 @@ BTL_EVT4.5FB3S	王の女		speaker
 BTL_EVT4.5FBA	逃げましたわよ……。{n}ホホホホ……		
 BTL_EVT4.604CS	ノスフェラトゥ		speaker
 BTL_EVT4.605B	人間ごときに、我らの邪魔などさせるものか！		
-BTL_EVT4.6089S	アイリーン		speaker
+BTL_EVT4.6089S	アイリーン	Irene	speaker
 BTL_EVT4.6094	アンデッドたちって、サイテー……。		
 BTL_EVT4.60BAS	ノスフェラトゥ		speaker
 BTL_EVT4.60C9	人間など、我らの敵ではない！		
 BTL_EVT4.60E9S	ノスフェラトゥ		speaker
 BTL_EVT4.60F8	逃げていきおったわ！		
-BTL_EVT4.617CS	アイリーン		speaker
+BTL_EVT4.617CS	アイリーン	Irene	speaker
 BTL_EVT4.6187	なんで、勇者だった人が吸血鬼なんかに……。		
-BTL_EVT4.61B5S	クライヴ		speaker
+BTL_EVT4.61B5S	クライヴ	Clive	speaker
 BTL_EVT4.61BE	…………。		
-BTL_EVT4.61CCS	アイリーン		speaker
+BTL_EVT4.61CCS	アイリーン	Irene	speaker
 BTL_EVT4.61D7	なにも答えてくれないの？		
-BTL_EVT4.61F3S	クライヴ		speaker
+BTL_EVT4.61F3S	クライヴ	Clive	speaker
 BTL_EVT4.61FC	…………。		
-BTL_EVT4.620AS	アイリーン		speaker
+BTL_EVT4.620AS	アイリーン	Irene	speaker
 BTL_EVT4.6215	もう……しかたないのね……。		
-BTL_EVT4.6235S	アイリーン		speaker
+BTL_EVT4.6235S	アイリーン	Irene	speaker
 BTL_EVT4.6240	…………。{wait}{clear}こんなの……悲しすぎるよ……。		
-BTL_EVT4.6270S	クライヴ		speaker
+BTL_EVT4.6270S	クライヴ	Clive	speaker
 BTL_EVT4.6279	…………。		
-BTL_EVT4.6287S	クライヴ		speaker
+BTL_EVT4.6287S	クライヴ	Clive	speaker
 BTL_EVT4.6290	…………。		
-BTL_EVT4.630AS	アイリーン		speaker
+BTL_EVT4.630AS	アイリーン	Irene	speaker
 BTL_EVT4.6315	村から出ていかないんなら、{n}やっつけるしかないわね。		
-BTL_EVT4.634DS	アイリーン		speaker
+BTL_EVT4.634DS	アイリーン	Irene	speaker
 BTL_EVT4.6358	はあ……終わった……。		
 BTL_EVT4.6372S	ティンダロス		speaker
 BTL_EVT4.637F	うおおお～んっ！！		
 BTL_EVT4.6395S	ティンダロス		speaker
 BTL_EVT4.63A2	うおおお～んっ！！		
-BTL_EVT4.63DCS	アイリーン		speaker
+BTL_EVT4.63DCS	アイリーン	Irene	speaker
 BTL_EVT4.63E7	意味のない儀式なんて、やめなさい！		
-BTL_EVT4.640DS	アイリーン		speaker
+BTL_EVT4.640DS	アイリーン	Irene	speaker
 BTL_EVT4.6418	魔導士として最悪だわ……あんなの……。		
 BTL_EVT4.6442S	ウォーロック		speaker
 BTL_EVT4.644F	我らの儀式の意味……わかるはずはない……。		
@@ -825,15 +825,15 @@ BTL_EVT4.647DS	ウォーロック		speaker
 BTL_EVT4.648A	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT4.64DCS	ウジャト		speaker
 BTL_EVT4.64E5	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		
-BTL_EVT4.652DS	アイリーン		speaker
+BTL_EVT4.652DS	アイリーン	Irene	speaker
 BTL_EVT4.6538	これが魔族……。		
 BTL_EVT4.654CS	ウジャト		speaker
 BTL_EVT4.6555	あははは！{n}情けない勇者だこと！		
 BTL_EVT4.6579S	ウジャト		speaker
 BTL_EVT4.6582	あははは！{n}情けない勇者だこと！		
-BTL_EVT4.65CAS	アイリーン		speaker
+BTL_EVT4.65CAS	アイリーン	Irene	speaker
 BTL_EVT4.65D5	あんたたちなんて、私が倒してあげるわ！		
-BTL_EVT4.65FFS	アイリーン		speaker
+BTL_EVT4.65FFS	アイリーン	Irene	speaker
 BTL_EVT4.660A	…………。		
 BTL_EVT4.6618S	ティンダロス		speaker
 BTL_EVT4.6625	ウオォ～ン！！		
@@ -841,7 +841,7 @@ BTL_EVT4.6637S	ティンダロス		speaker
 BTL_EVT4.6644	ウオォ～ン！！		
 BTL_EVT4.667AS	モラクス		speaker
 BTL_EVT4.6683	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！		
-BTL_EVT4.66D7S	アイリーン		speaker
+BTL_EVT4.66D7S	アイリーン	Irene	speaker
 BTL_EVT4.66E2	あんな連中が生み出されるなんて……。		
 BTL_EVT4.670AS	モラクス		speaker
 BTL_EVT4.6713	ふははは！　出直してこい！		

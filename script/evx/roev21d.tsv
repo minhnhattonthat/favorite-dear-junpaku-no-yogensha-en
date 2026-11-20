@@ -1,7 +1,7 @@
 id	jp	en	notes
 roev21d.0002	celeniss		dev label (guess: not shown)
-roev21d.00A2	ロクス		unit name (32-byte field)
-roev21d.00DE	セレニス		unit name (32-byte field)
+roev21d.00A2	ロクス	Rocus	unit name (32-byte field)
+roev21d.00DE	セレニス	Serenis	unit name (32-byte field)
 roev21d.011A	覚醒エンディミオン		unit name (32-byte field)
 roev21d.0156	椅子		unit name (32-byte field)
 roev21d.0192	魔石の台		unit name (32-byte field)

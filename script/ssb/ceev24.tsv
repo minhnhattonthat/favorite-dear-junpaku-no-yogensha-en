@@ -1,50 +1,50 @@
 id	jp	en	notes
-ceev24.0094	ラファエル		speaker
-ceev24.00A6	勇者セシア、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
-ceev24.00DA	ミカエル		speaker
-ceev24.00EA	この勝利はお前たちの勝利だ。{wait}{clear}		
-ceev24.010A	ラファエル		speaker
-ceev24.011C	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}		
-ceev24.0156	ミカエル		speaker
-ceev24.0166	また天界で会おう。{wait}{clear}		
+ceev24.0094	ラファエル	Raphael	speaker
+ceev24.00A6	勇者セシア、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}	Cecia the hero, ＄＄＄＄＄＄ the angel, you{n}have done well.{wait}{clear}	
+ceev24.00DA	ミカエル	Michael	speaker
+ceev24.00EA	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
+ceev24.010A	ラファエル	Raphael	speaker
+ceev24.011C	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}	We will wait for you in the Heavens. Say{n}farewell to your hero.{wait}{clear}	
+ceev24.0156	ミカエル	Michael	speaker
+ceev24.0166	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
 ceev24.01C2	セシア	Cecia	speaker
-ceev24.01D0	帰られるのですね……{wait}{clear}		
+ceev24.01D0	帰られるのですね……{wait}{clear}	So you're going back...{wait}{clear}	
 ceev24.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev24.01F8	はい……。{wait}{clear}	Yes...{wait}{clear}	
 ceev24.0206	セシア	Cecia	speaker
-ceev24.0214	天使様のお力でこの世界が救われました……。{wait}{clear}		
-ceev24.0246	ありがとうございます。{wait}{clear}		
+ceev24.0214	天使様のお力でこの世界が救われました……。{wait}{clear}	This world was saved by your power, Angel...{wait}{clear}	
+ceev24.0246	ありがとうございます。{wait}{clear}	Thank you.{wait}{clear}	
 ceev24.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.0270	いいえ、勇者である、あなたの力です。{wait}{clear}		
+ceev24.0270	いいえ、勇者である、あなたの力です。{wait}{clear}	No, it was your power, as a hero.{wait}{clear}	
 ceev24.0298	セシア	Cecia	speaker
-ceev24.02A6	天界に戻られても{n}ずっと私たちを見守ってください……。{wait}{clear}		
+ceev24.02A6	天界に戻られても{n}ずっと私たちを見守ってください……。{wait}{clear}	Even after you return to the Heavens, please{n}always watch over us...{wait}{clear}	
 ceev24.02E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.02F0	はい、必ず。{wait}{clear}		
+ceev24.02F0	はい、必ず。{wait}{clear}	Yes, I promise.{wait}{clear}	
 ceev24.0300	セシア	Cecia	speaker
-ceev24.030E	お元気で、天使様。{wait}{clear}		
+ceev24.030E	お元気で、天使様。{wait}{clear}	Farewell, Angel.{wait}{clear}	
 ceev24.0324	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.0334	さよなら、セシア。{wait}{clear}		
+ceev24.0334	さよなら、セシア。{wait}{clear}	Goodbye, Cecia.{wait}{clear}	
 ceev24.0372	セシア	Cecia	speaker
-ceev24.0380	帰られるのですか……{wait}{clear}		
+ceev24.0380	帰られるのですか……{wait}{clear}	You're going back...?{wait}{clear}	
 ceev24.0398	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.03A8	はい……{wait}{clear}でも、必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}		
+ceev24.03A8	はい……{wait}{clear}でも、必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}	Yes...{wait}{clear}But I will come back here... back to you, I{n}promise.{wait}{clear}	
 ceev24.03EA	セシア	Cecia	speaker
-ceev24.03F8	ありがとう……天使様……。{wait}{clear}		
-ceev24.041A	信じています……。{wait}{clear}		
+ceev24.03F8	ありがとう……天使様……。{wait}{clear}	Thank you... Angel...{wait}{clear}	
+ceev24.041A	信じています……。{wait}{clear}	I believe you...{wait}{clear}	
 ceev24.0458	セシア	Cecia	speaker
-ceev24.0466	帰られるのですね……{wait}{clear}		
+ceev24.0466	帰られるのですね……{wait}{clear}	So you're going back...{wait}{clear}	
 ceev24.047E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev24.048E	はい……。{wait}{clear}	Yes...{wait}{clear}	
 ceev24.049C	セシア	Cecia	speaker
-ceev24.04AA	私は天使様と過ごした日々のこと……{n}天使様と語り合えた時間……{wait}{clear}		
-ceev24.04F0	……ずっと、忘れません……{wait}{clear}		
-ceev24.0512	お元気で……。{wait}{clear}		
+ceev24.04AA	私は天使様と過ごした日々のこと……{n}天使様と語り合えた時間……{wait}{clear}	The days I spent with you, Angel... the{n}hours we spent talking together...{wait}{clear}	
+ceev24.04F0	……ずっと、忘れません……{wait}{clear}	...I will never forget them...{wait}{clear}	
+ceev24.0512	お元気で……。{wait}{clear}	Take care...{wait}{clear}	
 ceev24.0524	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.0534	ありがとう、勇者セシア……。{wait}{clear}		
+ceev24.0534	ありがとう、勇者セシア……。{wait}{clear}	Thank you, Cecia the hero...{wait}{clear}	
 ceev24.0554	セシア	Cecia	speaker
-ceev24.0562	さよなら、天使様……。{wait}{clear}		
+ceev24.0562	さよなら、天使様……。{wait}{clear}	Goodbye, Angel...{wait}{clear}	
 ceev24.057C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev24.058C	さよなら、セシア。{wait}{clear}		
-ceev24.05BE	ベルゼバブ		speaker
-ceev24.05D0	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}		
-ceev24.0602	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}		
+ceev24.058C	さよなら、セシア。{wait}{clear}	Goodbye, Cecia.{wait}{clear}	
+ceev24.05BE	ベルゼバブ	Beelzebub	speaker
+ceev24.05D0	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
+ceev24.0602	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

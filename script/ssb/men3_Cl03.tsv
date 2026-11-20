@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Cl03.005C	クライヴ		speaker
+men3_Cl03.005C	クライヴ	Clive	speaker
 men3_Cl03.0068	すまない……呼び出して。{wait}{clear}		
 men3_Cl03.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
-men3_Cl03.00D2	クライヴ		speaker
+men3_Cl03.00D2	クライヴ	Clive	speaker
 men3_Cl03.00DE	いや……これを……{n}ゾンビパウダーをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
 men3_Cl03.013C	ＮＵＬＬ	NULL	speaker
 men3_Cl03.014C	《ありがとうございます。》{n}		
 men3_Cl03.016E	《戒律があるので……。》{n}		
 men3_Cl03.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.019E	ありがとうございます。{wait}{clear}えっと、これはなにに使うものなのですか？{wait}{clear}		
-men3_Cl03.01E4	クライヴ		speaker
+men3_Cl03.01E4	クライヴ	Clive	speaker
 men3_Cl03.01F0	これは……薬みたいなものだ。{n}体力が少し回復すると思うが……。{wait}{clear}		
 men3_Cl03.0232	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.0242	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
 men3_Cl03.0298	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.02A8	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるのです……。{wait}{clear}		
-men3_Cl03.02FE	クライヴ		speaker
+men3_Cl03.02FE	クライヴ	Clive	speaker
 men3_Cl03.030A	そうか……。{n}なら、しかたがない。{wait}{clear}		
 men3_Cl03.0330	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl03.0340	本当にすみません。{wait}{clear}		

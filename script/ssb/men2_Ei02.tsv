@@ -1,34 +1,34 @@
 id	jp	en	notes
-men2_Ei02.0052	アイリーン		speaker
+men2_Ei02.0052	アイリーン	Irene	speaker
 men2_Ei02.0060	ごめん、急に呼んで。{wait}{clear}		
 men2_Ei02.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.0088	そんなこと気にしないでください。{n}なにかお話しでもあるのですか？{wait}{clear}		
-men2_Ei02.00CC	アイリーン		speaker
+men2_Ei02.00CC	アイリーン	Irene	speaker
 men2_Ei02.00DA	うん、ちょっとお願いしたいことがあって……。{n}でも、＄＄＄＄＄＄はいつも忙しそうだから{n}大丈夫かな……？{wait}{clear}		
 men2_Ei02.0146	ＮＵＬＬ	NULL	speaker
 men2_Ei02.0156	《お願いってなんですか？》{n}		
 men2_Ei02.0178	《大丈夫ですよ。》{n}		
 men2_Ei02.0192	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.01A2	お願いってなんですか？{wait}{clear}		
-men2_Ei02.01BC	アイリーン		speaker
+men2_Ei02.01BC	アイリーン	Irene	speaker
 men2_Ei02.01CA	たいしたことじゃないんだ。{n}ちょっと調べものをしてるんだけど、{n}なかなか必要なところが見つからないの。{wait}{clear}		
 men2_Ei02.0234	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.0244	そんなことなら、まかせてください。{n}お手伝いしますよ。{wait}{clear}		
-men2_Ei02.028A	アイリーン		speaker
+men2_Ei02.028A	アイリーン	Irene	speaker
 men2_Ei02.0298	ホント？　やった～！{n}じゃあ、はい、これ！{wait}{clear}		
 men2_Ei02.02C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.02D6	え！？{n}な、なんですか、この分厚い本は……。{wait}{clear}		
-men2_Ei02.0312	アイリーン		speaker
+men2_Ei02.0312	アイリーン	Irene	speaker
 men2_Ei02.0320	あ、これ？{n}これに調べたいことが書いてあるの。{n}さ、とっとと手伝ってね。{wait}{clear}		
 men2_Ei02.036C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.037C	は、はい……。{wait}{clear}		
 men2_Ei02.0392	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.03A2	大丈夫ですよ。{n}アイリーンのお手伝いなら、よろこんで！{wait}{clear}		
-men2_Ei02.03E8	アイリーン		speaker
+men2_Ei02.03E8	アイリーン	Irene	speaker
 men2_Ei02.03F6	え？　ホント？　ホントに？{n}やった～！{n}さすが＄＄＄＄＄＄、頼りになるわ。{wait}{clear}じゃあ、はい、これ！{wait}{clear}		
 men2_Ei02.045C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.046C	アイリーン……{n}なんですか、この分厚い本は……？{wait}{clear}		
-men2_Ei02.04AC	アイリーン		speaker
+men2_Ei02.04AC	アイリーン	Irene	speaker
 men2_Ei02.04BA	それ？　それは、魔導書。{n}調べたいことがあるんだけど、{n}ひとりじゃなかなか見つけられなくて。{wait}{clear}よろしくね、＄＄＄＄＄＄！{wait}{clear}		
 men2_Ei02.0538	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei02.0548	はあ……。{wait}{clear}		

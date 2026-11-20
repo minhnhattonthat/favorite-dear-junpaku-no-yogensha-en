@@ -1,7 +1,7 @@
 id	jp	en	notes
 laev20e.0002	celeniss		dev label (guess: not shown)
-laev20e.00A2	レイラ		unit name (32-byte field)
-laev20e.00DE	セレニス		unit name (32-byte field)
+laev20e.00A2	レイラ	Leyla	unit name (32-byte field)
+laev20e.00DE	セレニス	Serenis	unit name (32-byte field)
 laev20e.011A	覚醒エンディミオン		unit name (32-byte field)
 laev20e.0156	椅子		unit name (32-byte field)
 laev20e.0192	魔石の台		unit name (32-byte field)

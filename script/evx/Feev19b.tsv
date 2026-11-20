@@ -1,14 +1,14 @@
 id	jp	en	notes
 Feev19b.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
-Feev19b.00A2	フェイン		unit name (32-byte field)
-Feev19b.00DE	セレニス		unit name (32-byte field)
+Feev19b.00A2	フェイン	Fein	unit name (32-byte field)
+Feev19b.00DE	セレニス	Serenis	unit name (32-byte field)
 Feev19b.011A	エンディミオン		unit name (32-byte field)
 Feev19b.0156	魔石の台		unit name (32-byte field)
-Feev19b.04AC	セレニス		speaker
+Feev19b.04AC	セレニス	Serenis	speaker
 Feev19b.04C3	…………。		text
-Feev19b.0550	フェイン		speaker
+Feev19b.0550	フェイン	Fein	speaker
 Feev19b.0567	セレニス……		text
-Feev19b.0592	セレニス		speaker
+Feev19b.0592	セレニス	Serenis	speaker
 Feev19b.05A9	フェイン……もう終わりに……		text
-Feev19b.0634	フェイン		speaker
+Feev19b.0634	フェイン	Fein	speaker
 Feev19b.064B	……ああ……セレニス。		text

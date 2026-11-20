@@ -1,31 +1,31 @@
 id	jp	en	notes
-Feev14.0056	フェイン		speaker
+Feev14.0056	フェイン	Fein	speaker
 Feev14.0066	暑いな……この日差し……{wait}{clear}…………。{wait}{clear}		
-Feev14.009E	フェイン		speaker
+Feev14.009E	フェイン	Fein	speaker
 Feev14.00AE	……変だな……。{wait}{clear}		
 Feev14.00C6	この森の様子、雰囲気がおかしい……{wait}{clear}		
 Feev14.00F0	感じないか？{wait}{clear}		
 Feev14.0100	ＮＵＬＬ	NULL	speaker
 Feev14.0110	《感じる》{n}		
 Feev14.0122	《感じない》{n}		
-Feev14.0136	フェイン		speaker
+Feev14.0136	フェイン	Fein	speaker
 Feev14.0146	君も感じるか……。{wait}{clear}		
 Feev14.0160	しかし、なにが原因だ……？{wait}{clear}		
 Feev14.0182	……もうすこし進んでみるか。{wait}{clear}		
-Feev14.01B4	フェイン		speaker
+Feev14.01B4	フェイン	Fein	speaker
 Feev14.01C4	そうか……。気のせいか？{wait}{clear}		
 Feev14.01E4	もうすこし歩いてみよう……。{wait}{clear}		
-Feev14.0234	フェイン		speaker
+Feev14.0234	フェイン	Fein	speaker
 Feev14.0244	やっぱり……同じ場所だ。{n}この風景、さっき話をした所だ。{wait}{clear}		
 Feev14.0284	わな……魔導士の術か……。{wait}{clear}		
 Feev14.02A6	ここの空間を閉じてを俺を弱らせて殺すか……{n}飢え死ににでもさせるつもりなのだろう。{wait}{clear}		
-Feev14.030A	フェイン		speaker
+Feev14.030A	フェイン	Fein	speaker
 Feev14.031A	ふう、面倒なことになったな……{wait}{clear}		
 Feev14.033C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.034C	どうするのです？{wait}{clear}		
-Feev14.036E	フェイン		speaker
+Feev14.036E	フェイン	Fein	speaker
 Feev14.037E	そうだな……{n}まわりを歩いてみよう。{n}術のほころびがあるかもしれない。{wait}{clear}		
-Feev14.03F4	フェイン		speaker
+Feev14.03F4	フェイン	Fein	speaker
 Feev14.0404	一度だけ……{n}この術をジグが使っているのをみたことがある。{wait}{clear}		
 Feev14.0446	まだ、俺がジグについてまもない頃だ……。{wait}{clear}		
 Feev14.0472	ＮＵＬＬ	NULL	speaker
@@ -33,42 +33,42 @@ Feev14.0482	《ジグの話を聞く》{n}
 Feev14.049C	《幼い頃の話を聞く》{n}		
 Feev14.04C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.04D4	ジグの話をきかせてもらえませんか？{wait}{clear}		
-Feev14.0506	フェイン		speaker
+Feev14.0506	フェイン	Fein	speaker
 Feev14.0516	彼は力の使い方と魔導士としての生き方を{n}教えてくれた師だ。{wait}{clear}		
 Feev14.0558	……多くのひとが魔導士の力を忌んでいること、{n}そのことに注意して生きるべきだと。{wait}{clear}		
 Feev14.05B0	むやみな力の発露は自分自身の生き方を{n}せばめてしまうだろうと。{wait}{clear}		
 Feev14.05F6	幼い俺にそう話して{n}力をおさえ、うまく使う方法を教えてくれた。{wait}{clear}		
-Feev14.0646	フェイン		speaker
+Feev14.0646	フェイン	Fein	speaker
 Feev14.0656	でも……結局……俺は師の言葉をまもれなかった。{wait}{clear}		
 Feev14.069E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.06AE	あなたの幼いころの話を{n}聞かせてもらえませんか？{wait}{clear}		
-Feev14.06EE	フェイン		speaker
+Feev14.06EE	フェイン	Fein	speaker
 Feev14.06FE	ジグに引き取られる前の記憶はほとんどない……。{wait}{clear}		
 Feev14.0734	俺は……小さな頃、自分の力……{n}魔導士の力の意味がわからなかった……{wait}{clear}		
-Feev14.078A	フェイン		speaker
+Feev14.078A	フェイン	Fein	speaker
 Feev14.079A	両親が自分を気味悪がってることにも{n}全く気がつかなかった……{wait}{clear}		
-Feev14.07E8	フェイン		speaker
+Feev14.07E8	フェイン	Fein	speaker
 Feev14.07F8	俺は旅をしていたジグに{n}その力を見込まれて、引き取られた。{wait}{clear}		
 Feev14.083A	はじめはなぜ、自分がそんな目にあうのか{n}わからなかった……{wait}{clear}		
 Feev14.087C	ただ……{n}ジグと一緒にさまざまな場所を旅していくうちに{n}わかった……{wait}{clear}		
 Feev14.08C8	自分がこの世界でしか{n}生きられない人間なんだということが……。{wait}{clear}		
-Feev14.0918	フェイン		speaker
+Feev14.0918	フェイン	Fein	speaker
 Feev14.0928	ジグは多くの魔導士に尊敬されてた人で{n}その人の弟子というのは子供心に誇りだった。{wait}{clear}		
 Feev14.0980	ジグから技をならうことにも、{n}旅をすることにもなれた後は{n}とても充実していた……{wait}{clear}		
 Feev14.09D8	あのころは……{wait}{clear}		
-Feev14.0A04	フェイン		speaker
+Feev14.0A04	フェイン	Fein	speaker
 Feev14.0A14	うん……？　この音……{n}川が近いな……{wait}{clear}		
 Feev14.0A42	こっちだ……{wait}{clear}		
-Feev14.0A70	フェイン		speaker
+Feev14.0A70	フェイン	Fein	speaker
 Feev14.0A80	俺達をはめた術者はたいしたやつではないな……{wait}{clear}		
 Feev14.0AB4	または見くびられたか……{wait}{clear}		
 Feev14.0AD0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.0AE0	どうしてです？{wait}{clear}		
-Feev14.0AF2	フェイン		speaker
+Feev14.0AF2	フェイン	Fein	speaker
 Feev14.0B02	ここまでたくさんの流水を{n}閉じこめることはできないんだ、この術は。{wait}{clear}		
 Feev14.0B4C	向こう岸へ川を渡っていけば、{n}この閉空間からは逃れられる。{wait}{clear}		
 Feev14.0B8E	渡ろう。{wait}{clear}		
-Feev14.0BC4	フェイン		speaker
+Feev14.0BC4	フェイン	Fein	speaker
 Feev14.0BD4	ここを渡っても……{n}術者が待ちかまえているかもな。{wait}{clear}		
 Feev14.0C0E	まあ、そのときはそのときか……{wait}{clear}		
 Feev14.0C34	さあ、行こう。{wait}{clear}		

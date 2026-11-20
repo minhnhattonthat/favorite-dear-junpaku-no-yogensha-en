@@ -1,12 +1,12 @@
 id	jp	en	notes
 eiev28.0002	クラレンス戦		dev label (guess: not shown)
-eiev28.00A2	アイリーン		unit name (32-byte field)
-eiev28.00DE	クラレンス		unit name (32-byte field)
-eiev28.0498	クラレンス		speaker
+eiev28.00A2	アイリーン	Irene	unit name (32-byte field)
+eiev28.00DE	クラレンス	Clarence	unit name (32-byte field)
+eiev28.0498	クラレンス	Clarence	speaker
 eiev28.04B1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
-eiev28.0506	アイリーン		speaker
+eiev28.0506	アイリーン	Irene	speaker
 eiev28.051F	なんで、あなたは戦うの？		text
-eiev28.0546	クラレンス		speaker
+eiev28.0546	クラレンス	Clarence	speaker
 eiev28.055F	フン、お前には関係ねえよ。		text
 eiev28.0588	こんな世界、たいしたもんじゃねえ。{n}なくなっちまったほうがせいせいすんだよ。		text
 eiev28.05E3	行くぜ、偽善者。		text

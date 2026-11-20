@@ -1,20 +1,20 @@
 id	jp	en	notes
 clev05.0042	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev05.0052	ひどい……。{n}なにがあったのですか？　この村は……。{wait}{clear}		
-clev05.009A	クライヴ		speaker
-clev05.00A6	ここはやつらに襲われた村の一つだ。{wait}{clear}		
-clev05.00CC	クライヴ		speaker
-clev05.00D8	アンデッドどもは集団で村を襲い、{n}多くの人間がやつらにごみくずのように殺された。{wait}{clear}この村の最後の戦いに俺と師も加わっていた。{wait}{clear}そして、死んだ……。{wait}{clear}		
+clev05.0052	ひどい……。{n}なにがあったのですか？　この村は……。{wait}{clear}	How awful... What happened? This village...{wait}{clear}	
+clev05.009A	クライヴ	Clive	speaker
+clev05.00A6	ここはやつらに襲われた村の一つだ。{wait}{clear}	This is one of the villages they attacked.{wait}{clear}	
+clev05.00CC	クライヴ	Clive	speaker
+clev05.00D8	アンデッドどもは集団で村を襲い、{n}多くの人間がやつらにごみくずのように殺された。{wait}{clear}この村の最後の戦いに俺と師も加わっていた。{wait}{clear}そして、死んだ……。{wait}{clear}	The undead attacked the village in a horde,{n}and they killed many people like trash.{wait}{clear}My master and I were in this village's last{n}battle.{wait}{clear}And he died...{wait}{clear}	
 clev05.0172	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev05.0182	クライヴの師とは、{n}ヴァンパイアハンターのことですか？{wait}{clear}		
-clev05.01BC	クライヴ		speaker
-clev05.01C8	ああ、そうだ……。{n}アーウィン……{n}俺にハンターとしての技を教えてくれた男だ。{wait}{clear}だが、アーウィンも最後は吸血鬼に襲われて{n}自分が鬼となった……。{wait}{clear}		
+clev05.0182	クライヴの師とは、{n}ヴァンパイアハンターのことですか？{wait}{clear}	Clive, by your master, do you mean a vampire{n}hunter?{wait}{clear}	
+clev05.01BC	クライヴ	Clive	speaker
+clev05.01C8	ああ、そうだ……。{n}アーウィン……{n}俺にハンターとしての技を教えてくれた男だ。{wait}{clear}だが、アーウィンも最後は吸血鬼に襲われて{n}自分が鬼となった……。{wait}{clear}	Yeah, that's right... Irwin... the man who{n}taught me a hunter's skills.{wait}{clear}But in the end, Irwin was attacked by a{n}vampire too, and became one himself...{wait}{clear}	
 clev05.025E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev05.026E	では……アーウィンは……。{wait}{clear}		
-clev05.028C	クライヴ		speaker
-clev05.0298	俺が殺した……。{wait}{clear}		
+clev05.026E	では……アーウィンは……。{wait}{clear}	Then... Irwin...{wait}{clear}	
+clev05.028C	クライヴ	Clive	speaker
+clev05.0298	俺が殺した……。{wait}{clear}	I killed him...{wait}{clear}	
 clev05.02AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev05.02BC	え……？{wait}{clear}		
-clev05.02C8	クライヴ		speaker
-clev05.02D4	一度、吸血鬼になった者はもう死んだも同じだ……{wait}{clear}それが、アーウィンの口ぐせだった……。{wait}{clear}自分がそうなった時も迷うことなく斬れと……{n}死体に遠慮などするなと、やつは、そう言った……。{wait}{clear}		
-clev05.039C	……すべての吸血鬼は俺の敵だ。{wait}{clear}師の仇も、必ず俺はとる……。{wait}{clear}		
+clev05.02BC	え……？{wait}{clear}	Huh...?{wait}{clear}	
+clev05.02C8	クライヴ	Clive	speaker
+clev05.02D4	一度、吸血鬼になった者はもう死んだも同じだ……{wait}{clear}それが、アーウィンの口ぐせだった……。{wait}{clear}自分がそうなった時も迷うことなく斬れと……{n}死体に遠慮などするなと、やつは、そう言った……。{wait}{clear}	Once someone becomes a vampire, they're as{n}good as dead...{wait}{clear}Irwin always used to say that...{wait}{clear}If it ever happened to him, I was to cut him{n}down without hesitating... no mercy for a{n}corpse, he said...{wait}{clear}	
+clev05.039C	……すべての吸血鬼は俺の敵だ。{wait}{clear}師の仇も、必ず俺はとる……。{wait}{clear}	...Every vampire is my enemy.{wait}{clear}And I will avenge my master, whatever it{n}takes...{wait}{clear}	

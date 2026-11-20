@@ -1,20 +1,20 @@
 id	jp	en	notes
 Roev16.0002	the end of vaiper		dev label (guess: not shown)
-Roev16.00A2	ロクス		unit name (32-byte field)
-Roev16.00DE	クラレンス		unit name (32-byte field)
-Roev16.04F8	クラレンス		speaker
+Roev16.00A2	ロクス	Rocus	unit name (32-byte field)
+Roev16.00DE	クラレンス	Clarence	unit name (32-byte field)
+Roev16.04F8	クラレンス	Clarence	speaker
 Roev16.0511	よう、ロクス……。		text
-Roev16.0542	ロクス		speaker
+Roev16.0542	ロクス	Rocus	speaker
 Roev16.0557	ヴァイパー、{n}お前にはさんざんやられたよ。		text
 Roev16.05A0	だが、僕はやられっぱなしは{n}好きじゃない。		text
 Roev16.05E9	全部、返させてもらう。		text
-Roev16.060E	クラレンス		speaker
+Roev16.060E	クラレンス	Clarence	speaker
 Roev16.0627	借金はかえさねえが、恨みは返すってか……。		text
 Roev16.0680	つくづくお前ってのはイイやつだな……		text
 Roev16.06C3	ほんと気が合うぜ。		text
-Roev16.0734	ロクス		speaker
+Roev16.0734	ロクス	Rocus	speaker
 Roev16.0749	…………。		text
-Roev16.0762	クラレンス		speaker
+Roev16.0762	クラレンス	Clarence	speaker
 Roev16.077B	怒るなよ。冗談さ。		text
 Roev16.07AC	ま、ここらへんが引き際だろう。{n}勝負をつけて、終わりにしよう。		text
 Roev16.0809	いくぜ、ロクス。		text

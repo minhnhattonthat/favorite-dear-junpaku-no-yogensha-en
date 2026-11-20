@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_La03.005C	レイラ		speaker
+men3_La03.005C	レイラ	Leyla	speaker
 men3_La03.0066	呼び出して悪いわね。{wait}{clear}		
 men3_La03.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La03.008E	どうしたのですか、レイラ？{n}{wait}{clear}		
-men3_La03.00AE	レイラ		speaker
+men3_La03.00AE	レイラ	Leyla	speaker
 men3_La03.00B8	ええ、ちょっとあなたに渡したいものがあって。{n}騎士道の教本なんだけど、{n}受け取ってもらえるかしら？{wait}{clear}		
 men3_La03.011E	ＮＵＬＬ	NULL	speaker
 men3_La03.012E	《ありがとうございます。》{n}		
 men3_La03.0150	《戒律があるので……。》{n}		
 men3_La03.0170	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La03.0180	ありがとうございます。{n}この本はどういうことが書かれているのですか？{wait}{clear}		
-men3_La03.01D4	レイラ		speaker
+men3_La03.01D4	レイラ	Leyla	speaker
 men3_La03.01DE	騎士としての心構えや、修行の方法とか、{n}いろいろね。{wait}{clear}		
 men3_La03.0216	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La03.0226	そうですか……きっと役に立つと思います。{n}本当にありがとうございます。{wait}{clear}		
 men3_La03.0274	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La03.0284	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_La03.02F4	レイラ		speaker
+men3_La03.02F4	レイラ	Leyla	speaker
 men3_La03.02FE	そう……{n}じゃあ、しかたがないね。{wait}{clear}		
 men3_La03.0324	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_La03.0334	本当にすみません。{wait}{clear}		

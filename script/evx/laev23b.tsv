@@ -1,11 +1,11 @@
 id	jp	en	notes
 laev23b.0002	クラレンス戦		dev label (guess: not shown)
-laev23b.00A2	レイラ		unit name (32-byte field)
-laev23b.00DE	クラレンス		unit name (32-byte field)
-laev23b.0498	クラレンス		speaker
+laev23b.00A2	レイラ	Leyla	unit name (32-byte field)
+laev23b.00DE	クラレンス	Clarence	unit name (32-byte field)
+laev23b.0498	クラレンス	Clarence	speaker
 laev23b.04B1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
-laev23b.0506	レイラ		speaker
+laev23b.0506	レイラ	Leyla	speaker
 laev23b.051B	今度は戦うの？{n}それともまた逃げ出す？		text
-laev23b.0550	クラレンス		speaker
+laev23b.0550	クラレンス	Clarence	speaker
 laev23b.0569	フン、逃げやしねえよ。		text
 laev23b.058E	あんたに俺の最後の楽しみを{n}邪魔させるわけにはいかねえからな。		text

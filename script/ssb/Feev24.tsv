@@ -1,46 +1,46 @@
 id	jp	en	notes
 Feev24.0042	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0052	フェイン……いるのですか？{wait}{clear}		
-Feev24.0090	フェイン		speaker
+Feev24.0090	フェイン	Fein	speaker
 Feev24.00A0	君か……{wait}{clear}		
 Feev24.00AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.00BC	フェイン……お話ししたいことがあるのですが……。{wait}{clear}		
-Feev24.00F0	フェイン		speaker
+Feev24.00F0	フェイン	Fein	speaker
 Feev24.0100	かまうな……俺に……。{wait}{clear}		
 Feev24.011A	ＮＵＬＬ	NULL	speaker
 Feev24.012A	《このまま立ち去る。》{n}		
 Feev24.0148	《説得する。》{n}		
 Feev24.015E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.016E	フェイン……{n}これ以上、自分を責めるのはやめてください。{wait}{clear}あなたが、すべての苦しみを{n}一人で背負う必要はありません……。{wait}{clear}		
-Feev24.01EC	フェイン		speaker
+Feev24.01EC	フェイン	Fein	speaker
 Feev24.01FC	君がいなければ……俺は彼女と死ねた……{wait}{clear}		
 Feev24.0226	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0236	フェイン……私は、あなたを信じています。{wait}{clear}死を選ぶことだけが救いだなんてわがままが、{n}本心でないことを……。{wait}{clear}		
 Feev24.02B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.02C4	フェイン、もう一度、取り戻してください……{n}自分を……。{wait}{clear}		
 Feev24.0304	フェイン……{n}もう一度、取り戻してください……{wait}{clear}未来を信じると言った、あのときのあなたを……。{wait}{clear}		
-Feev24.0368	フェイン		speaker
+Feev24.0368	フェイン	Fein	speaker
 Feev24.0378	……セレニスを、{n}彼女をあんなふうにしてしまったのは{n}自分の愚かさのせいだ……。{wait}{clear}		
 Feev24.03D0	この世界を狂わせた原因も……俺にある……{wait}{clear}		
 Feev24.0400	君は俺を……責めればいいんだ……。{wait}{clear}		
 Feev24.0426	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0436	私は……{n}あなたの過去を責めることなどできません……。{n}もう一度、ともに進みましょう。{wait}{clear}		
-Feev24.0490	フェイン		speaker
+Feev24.0490	フェイン	Fein	speaker
 Feev24.04A0	頼む……出ていってくれ……{n}もう……話すことなどなにもない……。{wait}{clear}		
 Feev24.04E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.04F4	……わかりました。{wait}{clear}		
-Feev24.0512	フェイン		speaker
+Feev24.0512	フェイン	Fein	speaker
 Feev24.051E	＄＄＄＄＄＄……。{wait}{clear}		
 Feev24.0534	ＮＵＬＬ	NULL	speaker
 Feev24.0544	《立ち止まる。》{n}		
 Feev24.055C	《立ち止まらない。》{n}		
-Feev24.057C	フェイン		speaker
+Feev24.057C	フェイン	Fein	speaker
 Feev24.058C	待ってくれ……{wait}{clear}		
-Feev24.05C4	フェイン		speaker
+Feev24.05C4	フェイン	Fein	speaker
 Feev24.05D4	すまない……＄＄＄＄＄＄……{wait}{clear}		
 Feev24.05F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0604	フェイン……{n}私には……あなたが必要なのです……。{wait}{clear}		
-Feev24.063A	フェイン		speaker
+Feev24.063A	フェイン	Fein	speaker
 Feev24.064A	……俺は……{wait}{clear}		
 Feev24.065A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.066A	今は……なにも……言わないでください……。{wait}{clear}		
@@ -48,34 +48,34 @@ Feev24.074E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.075E	でも、このままではいけないことは、{n}あなたもわかっているはずです……。{wait}{clear}大切な人を失った、つらい気持ちはわかります。{n}でも、逃げてもなにも変わらないのです。{wait}{clear}彼女を……セレニスを救うということが、{n}本当はどういうことだったのか、{n}もう一度考えてください。{wait}{clear}苦しんでいるのは、あなただけではないのです……。{wait}{clear}		
 Feev24.08A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.08B8	フェイン……いるのですか？{wait}{clear}		
-Feev24.08F6	フェイン		speaker
+Feev24.08F6	フェイン	Fein	speaker
 Feev24.0902	……何の用だ？{wait}{clear}		
 Feev24.0914	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0924	話をしてもいいですか？{wait}{clear}		
-Feev24.093E	フェイン		speaker
-Feev24.094A	……ああ。{wait}{clear}		
+Feev24.093E	フェイン	Fein	speaker
+Feev24.094A	……ああ。{wait}{clear}	...Yeah.{wait}{clear}	
 Feev24.0958	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0968	いつまで、そうしているつもりですか？{wait}{clear}		
-Feev24.0990	フェイン		speaker
+Feev24.0990	フェイン	Fein	speaker
 Feev24.099C	…………。{wait}{clear}	.........{wait}{clear}	
 Feev24.09AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.09BA	あなた一人が苦しんでいるのではないのです……。{wait}{clear}		
 Feev24.09F8	アイリーンの気持ちを考えたことがあるのですか？{wait}{clear}		
-Feev24.0A2A	フェイン		speaker
+Feev24.0A2A	フェイン	Fein	speaker
 Feev24.0A36	…………。{wait}{clear}	.........{wait}{clear}	
 Feev24.0A44	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0A54	彼女がどんな思いで{n}姉であるセレニスと戦ったのか……。{wait}{clear}彼女はあなたまで失いたくなかったから……。{wait}{clear}		
-Feev24.0ABC	フェイン		speaker
+Feev24.0ABC	フェイン	Fein	speaker
 Feev24.0AC8	俺は愛する人を自分の手で傷つけてしまった……。{n}その償いは生きていてできるものじゃない……。{wait}{clear}		
 Feev24.0B28	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0B38	それは……それは、とても卑怯な考えです。{n}この世界に残された人たちはどうなるのです？{wait}{clear}どんな苦境でも生きたいと願い{n}この世界で必死に未来を築こうとしている……{n}そういう人たちがいるのです。{wait}{clear}ともに戦っている勇者たちは、皆そうです。{n}あなたはその人たちを裏切ろうというのですか？{wait}{clear}		
-Feev24.0C54	フェイン		speaker
+Feev24.0C54	フェイン	Fein	speaker
 Feev24.0C60	それは……。{wait}{clear}		
 Feev24.0C70	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0C80	つらいことから逃げることは簡単でしょう。{n}でも、もう一度、考えてください……{n}あなたは何にたいして責任があるのかを……。{wait}{clear}失礼します……。{wait}{clear}		
-Feev24.0D14	フェイン		speaker
+Feev24.0D14	フェイン	Fein	speaker
 Feev24.0D20	＄＄＄＄＄＄……俺は……。{wait}{clear}		
 Feev24.0D48	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev24.0D58	わかりました……。{wait}{clear}でも、フェイン……これだけは言わせてください。{wait}{clear}あなたがつらく、苦しいことはわかります。{n}ただ、あなたひとりが苦しんでいると思うのなら、{n}それは、あまりにも自分勝手な考えです。{wait}{clear}あなたの過去を責めるつもりはありません。{n}ですが、死へ逃げようとするなら、私は許しません。{wait}{clear}この世界で必死に生きている人たち、{n}そして、未来を守ろうと戦っている勇者たち……。{n}彼らのことを考えてください……。{wait}{clear}フェインは……本当はわかっているはずです……。{wait}{clear}失礼します……。{wait}{clear}		
-Feev24.0F44	フェイン		speaker
+Feev24.0F44	フェイン	Fein	speaker
 Feev24.0F50	＄＄＄＄＄＄……俺は……。{wait}{clear}		

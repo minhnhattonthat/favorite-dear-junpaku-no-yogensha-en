@@ -1,75 +1,75 @@
 id	jp	en	notes
 feev03_01.0042	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0052	ここが、バーゼルのアルクマールですね。{wait}{clear}		
-feev03_01.008E	フェイン		speaker
+feev03_01.008E	フェイン	Fein	speaker
 feev03_01.009A	ああ、ここにグランドロッジがある。{n}寄っていきたいのだが、かまわないか？{wait}{clear}		
 feev03_01.00E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.00F6	ええ、もちろんです。{wait}{clear}		
-feev03_01.010E	フェイン		speaker
+feev03_01.010E	フェイン	Fein	speaker
 feev03_01.011A	じゃあ、行こうか。{n}グランドマスターに会いに……。{wait}{clear}		
 feev03_01.0178	マスター		speaker
 feev03_01.0184	帰ってきたか……。{n}待っていたぞ、フェイン。{wait}{clear}		
-feev03_01.01B4	フェイン		speaker
+feev03_01.01B4	フェイン	Fein	speaker
 feev03_01.01C0	グランドマスター・ライノール{n}お元気そうで何よりです。{wait}{clear}		
 feev03_01.01FA	ライノール		speaker
 feev03_01.0208	いろいろな話を聞いてな、心配をしていた。{wait}{clear}		
-feev03_01.0234	フェイン		speaker
+feev03_01.0234	フェイン	Fein	speaker
 feev03_01.0240	ご心配をおかけして、申し訳ありません。{wait}{clear}		
 feev03_01.026A	ライノール		speaker
 feev03_01.0278	いや、あやまらなくてもいい。{n}お前が無事で、こうして会えたのだからな。{wait}{clear}ただな、フェイン……{n}ジグとセレニスのことに{n}お前がこだわる理由はわかる。{wait}{clear}だが、その過去にとらわれれば、{n}お前自身の未来を閉ざすことになる。{n}わかっているな？{wait}{clear}		
-feev03_01.0368	フェイン		speaker
+feev03_01.0368	フェイン	Fein	speaker
 feev03_01.0374	いえ……{n}自分にとって、あのことはまだ過去ではないのです。{wait}{clear}		
 feev03_01.03B2	ライノール		speaker
 feev03_01.03C0	強情な男だ……。{n}そのあたりはジグとそっくりだな……。{wait}{clear}お前にとって気になるのはセレニスのことだろうが{n}ギルドにとっては、{n}帝国と素性の知れぬ魔導士たちの動きが気になる。{wait}{clear}冷たいと思われるかもしれないが、{n}これも、皆のためだ……。{wait}{clear}		
-feev03_01.04AE	フェイン		speaker
+feev03_01.04AE	フェイン	Fein	speaker
 feev03_01.04BA	はい……それは、わかっています。{n}自分がしていることこそ、身勝手なことです。{wait}{clear}		
 feev03_01.050A	ライノール		speaker
 feev03_01.0518	そこまで自分を責めずともいい……。{wait}{clear}なにかあったなら私に知らせてくれ、フェイン。{n}それが今、ギルドの一員としての{n}お前のつとめだ……。{wait}{clear}		
-feev03_01.05A4	フェイン		speaker
-feev03_01.05B0	わかりました……。{wait}{clear}		
+feev03_01.05A4	フェイン	Fein	speaker
+feev03_01.05B0	わかりました……。{wait}{clear}	I understand...{wait}{clear}	
 feev03_01.05C6	ライノール		speaker
 feev03_01.05D4	それから……{n}お前とともにある存在を私は感じる……。{n}今までに一度も感じたことのないものだ……。{wait}{clear}お前はそれに気づいているのか？{wait}{clear}		
-feev03_01.065A	フェイン		speaker
+feev03_01.065A	フェイン	Fein	speaker
 feev03_01.0666	はい……わかっています。{n}ただ、それは特別な存在です……。{wait}{clear}老師にもお話しできる日が{n}いつか来るかもしれません。{wait}{clear}		
 feev03_01.06DC	ライノール		speaker
 feev03_01.06EA	ふむ……そうか。{n}それは、楽しみにしていよう。{wait}{clear}		
-feev03_01.0742	フェイン		speaker
+feev03_01.0742	フェイン	Fein	speaker
 feev03_01.074E	＄＄＄＄＄＄、いるのだろう？{wait}{clear}		
 feev03_01.076E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.077E	はい。{wait}{clear}		
-feev03_01.0788	フェイン		speaker
+feev03_01.077E	はい。{wait}{clear}	Yes.{wait}{clear}	
+feev03_01.0788	フェイン	Fein	speaker
 feev03_01.0794	グランドマスターには見抜かれたな。{wait}{clear}		
 feev03_01.07BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.07CA	ええ、そうですね。{wait}{clear}私たちの存在は決して普通の人には{n}感じられないはずなのですが、{n}とても強い力をもっておられるようですね。{wait}{clear}		
-feev03_01.084C	フェイン		speaker
+feev03_01.084C	フェイン	Fein	speaker
 feev03_01.0858	老師は目はあのとおりだが、{n}なにが起きているのか、そしてなにが真実かを{n}見抜く力は誰よりも持っている。{wait}{clear}だからこそ、ギルドの頂点に立てる人物なのだがな。{wait}{clear}		
-feev03_01.091E	フェイン		speaker
+feev03_01.091E	フェイン	Fein	speaker
 feev03_01.092A	それに、老師は俺の師である{n}ジグの兄弟子にあたる人で{n}昔からよく世話になっている……。{wait}{clear}		
 feev03_01.0988	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0998	あの、フェイン……{n}ジグとはどんな方なのですか？{wait}{clear}		
-feev03_01.09CC	フェイン		speaker
+feev03_01.09CC	フェイン	Fein	speaker
 feev03_01.09D8	ああ……{n}多くの人に尊敬されていた大魔導士だった。{wait}{clear}グランドマスターにも推されたことがあったが、{n}本人は魔導の研究を優先するために断ったのだ。{wait}{clear}だが、数年前に亡くなってしまった……。{wait}{clear}		
 feev03_01.0A96	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0AA6	すみません、つらいことを聞いてしまって……。{wait}{clear}		
-feev03_01.0AD6	フェイン		speaker
+feev03_01.0AD6	フェイン	Fein	speaker
 feev03_01.0AE2	いや、気にするな。{n}ジグの話はまたいつか詳しく話そう。{wait}{clear}		
 feev03_01.0B1C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0B2C	あの、聞きたいことがあるのですが、{n}いいですか？{wait}{clear}		
-feev03_01.0B60	フェイン		speaker
+feev03_01.0B60	フェイン	Fein	speaker
 feev03_01.0B6C	ああ、なんだ？{wait}{clear}		
 feev03_01.0B7E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0B8E	グランドマスターがおっしゃった、{n}セレニスとは……{wait}{clear}		
-feev03_01.0BD0	フェイン		speaker
+feev03_01.0BD0	フェイン	Fein	speaker
 feev03_01.0BDC	悪いが、その話には今はこたえたくない。{wait}{clear}いつか……話せるときがきたら話す……。{wait}{clear}		
 feev03_01.0C30	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0C40	わかりました……。{n}フェインが話したくないことを{n}無理には聞きませんから……。{wait}{clear}		
-feev03_01.0C9E	フェイン		speaker
+feev03_01.0C9E	フェイン	Fein	speaker
 feev03_01.0CAA	それにしても、{n}ギルドは帝国の動きに敏感になっているようだ。{wait}{clear}俺も君とともに世界の様子を見てきているが、{n}君の言う通り、なにかがこの世界を{n}混乱に陥れようとしているのかもしれない……。{wait}{clear}それがなんなのか早くつきとめなくてはな。{wait}{clear}		
 feev03_01.0D94	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0DA4	はい、そうですね……。{wait}{clear}		
-feev03_01.0DBE	フェイン		speaker
+feev03_01.0DBE	フェイン	Fein	speaker
 feev03_01.0DCA	あ、あと、老師にはあんなふうに言ってしまったが、{n}君のことは、あまりおおっぴらに{n}話さない方がいいのだろう？{wait}{clear}		
 feev03_01.0E3A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.0E4A	いえ、フェインが話したいと思えば、{n}話してもかまいません。{wait}{clear}ただ、私自身がたくさんの普通の人々の前で{n}姿を見せることはできませんけれど。{wait}{clear}		
-feev03_01.0ED8	フェイン		speaker
+feev03_01.0ED8	フェイン	Fein	speaker
 feev03_01.0EE4	そうか……。{n}じゃあ、いつか話せる機会があれば、{n}老師には君のことを話したい……。{wait}{clear}いつかな……。{wait}{clear}		

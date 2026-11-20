@@ -1,50 +1,50 @@
 id	jp	en	notes
-roev25.0094	ラファエル		speaker
+roev25.0094	ラファエル	Raphael	speaker
 roev25.00A6	勇者ロクス、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
-roev25.00DA	ミカエル		speaker
-roev25.00EA	この勝利はお前たちの勝利だ。{wait}{clear}		
-roev25.010A	ラファエル		speaker
-roev25.011C	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}		
-roev25.0156	ミカエル		speaker
-roev25.0166	また天界で会おう。{wait}{clear}		
-roev25.01C2	ロクス		speaker
+roev25.00DA	ミカエル	Michael	speaker
+roev25.00EA	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
+roev25.010A	ラファエル	Raphael	speaker
+roev25.011C	私たちは天界で待っています。{n}勇者に別れをつげなさい。{wait}{clear}	We will wait for you in the Heavens. Say{n}farewell to your hero.{wait}{clear}	
+roev25.0156	ミカエル	Michael	speaker
+roev25.0166	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
+roev25.01C2	ロクス	Rocus	speaker
 roev25.01D0	天界に帰るのか。{wait}{clear}		
 roev25.01E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev25.01F4	はい。{wait}{clear}		
-roev25.01FE	ロクス		speaker
+roev25.01F4	はい。{wait}{clear}	Yes.{wait}{clear}	
+roev25.01FE	ロクス	Rocus	speaker
 roev25.020C	また、地上に降りたときは会いに来てくれ。{n}いつでも歓迎するよ。{wait}{clear}		
 roev25.0252	あ、今度はつまらないことで{n}迷惑はかけないつもりだ。{wait}{clear}		
 roev25.028A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.029A	はい、わかりました。{wait}{clear}		
-roev25.02B2	ロクス		speaker
+roev25.02B2	ロクス	Rocus	speaker
 roev25.02C0	さよなら、天使様。{wait}{clear}		
 roev25.02D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.02E6	さようなら、ロクス。{wait}{clear}		
-roev25.0326	ロクス		speaker
+roev25.0326	ロクス	Rocus	speaker
 roev25.0334	天界へ帰るのか？{wait}{clear}		
 roev25.0348	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.0358	はい……{wait}{clear}でも必ずあなたの元に戻ります。{wait}{clear}……私は人としてここに残ります。{wait}{clear}		
-roev25.03AA	ロクス		speaker
+roev25.03AA	ロクス	Rocus	speaker
 roev25.03B4	……＄＄＄＄＄＄。{wait}{clear}		
 roev25.03CE	もし、戻れないのなら……{n}いいんだ……{wait}{clear}		
 roev25.03FC	僕なんかのために、{n}なにかを捨てることなどない……{wait}{clear}		
 roev25.0436	僕のことなど忘れてしまってくれ。{wait}{clear}		
 roev25.045A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.046A	いいえ……ロクス……{n}戻ってきます、必ず……。{wait}{clear}また……会いましょう。ロクス{wait}{clear}		
-roev25.04BC	ロクス		speaker
+roev25.04BC	ロクス	Rocus	speaker
 roev25.04C6	…………。{wait}{clear}	.........{wait}{clear}	
-roev25.04FC	ロクス		speaker
+roev25.04FC	ロクス	Rocus	speaker
 roev25.050A	天界に帰るのか。{wait}{clear}		
 roev25.051E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.052E	はい……。{wait}{clear}	Yes...{wait}{clear}	
-roev25.053C	ロクス		speaker
+roev25.053C	ロクス	Rocus	speaker
 roev25.054A	そうか……{n}……また会えるといいな。{wait}{clear}		
 roev25.0576	僕は君の笑顔を忘れない……。{wait}{clear}		
 roev25.059A	もう一度、{n}君の名を呼べる日を楽しみにしている。{wait}{clear}		
 roev25.05CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25.05DE	さよなら、ロクス。{wait}{clear}		
-roev25.05F4	ロクス		speaker
+roev25.05F4	ロクス	Rocus	speaker
 roev25.0602	ああ、さよなら。＄＄＄＄＄＄。{wait}{clear}		
-roev25.0640	ベルゼバブ		speaker
-roev25.0652	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}		
-roev25.0684	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}		
+roev25.0640	ベルゼバブ	Beelzebub	speaker
+roev25.0652	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
+roev25.0684	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

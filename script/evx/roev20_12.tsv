@@ -1,17 +1,17 @@
 id	jp	en	notes
-roev20_12.00A2	ロクス		unit name (32-byte field)
+roev20_12.00A2	ロクス	Rocus	unit name (32-byte field)
 roev20_12.00DE	セシア	Cecia	unit name (32-byte field)
 roev20_12.04C8	セシア	Cecia	speaker
 roev20_12.04DD	あなた……。		text
-roev20_12.04F8	ロクス		speaker
+roev20_12.04F8	ロクス	Rocus	speaker
 roev20_12.050D	大丈夫ですか？{n}けがが心配です。みせてください。		text
 roev20_12.054C	セシア	Cecia	speaker
 roev20_12.0561	……すみません、ご迷惑をかけて。		text
-roev20_12.0590	ロクス		speaker
+roev20_12.0590	ロクス	Rocus	speaker
 roev20_12.05A5	いいえ、{n}これぐらいなんともありません。		text
 roev20_12.0694	セシア	Cecia	speaker
 roev20_12.06A9	本当にありがとう……。		text
-roev20_12.06CE	ロクス		speaker
+roev20_12.06CE	ロクス	Rocus	speaker
 roev20_12.06E3	いいえ、礼にはおよびません。{n}では、お互いに気をつけましょう。{n}戦いはまだ続きます……。		text
 roev20_12.074A	セシア	Cecia	speaker
 roev20_12.075F	ええ……{n}あなたも気をつけて。		text

@@ -5,16 +5,16 @@ loev02.00DE	ミリシア		unit name (32-byte field)
 loev02.011A	ミリシア		unit name (32-byte field)
 loev02.0156	ミリシア		unit name (32-byte field)
 loev02.0192	ウィザード		unit name (32-byte field)
-loev02.04FC	ルディエール		speaker
+loev02.04FC	ルディエール	Rudiere	speaker
 loev02.0517	おい、いい加減にしろ。		text
 loev02.053C	私兵		speaker
 loev02.054F	なんだ？　小僧。		text
-loev02.056E	ルディエール		speaker
+loev02.056E	ルディエール	Rudiere	speaker
 loev02.0589	弱い人たちを苦しめるようなマネはやめろ！		text
 loev02.05C0	私兵		speaker
 loev02.05D3	威勢がいいな、ぼっちゃん。		text
 loev02.05FC	だがな……{n}子供に指図される覚えはねえんだよ。{n}痛い目にあいてえのか！		text
-loev02.0651	ルディエール		speaker
+loev02.0651	ルディエール	Rudiere	speaker
 loev02.066C	ちっ、言葉でわかんないのなら、{n}腕ずくで止めるぜ。		text
 loev02.06AD	私兵		speaker
 loev02.06C0	面白いガキだ、やっちまえ。		text

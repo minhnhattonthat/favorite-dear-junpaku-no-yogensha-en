@@ -1,17 +1,17 @@
 id	jp	en	notes
-eiev06.00A2	アイリーン		unit name (32-byte field)
+eiev06.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev06.00DE	帝国兵		unit name (32-byte field)
 eiev06.011A	帝国兵		unit name (32-byte field)
 eiev06.0156	死人（男）		unit name (32-byte field)
 eiev06.0192	死人（男）		unit name (32-byte field)
 eiev06.01CE	死人（男）		unit name (32-byte field)
-eiev06.0498	アイリーン		speaker
+eiev06.0498	アイリーン	Irene	speaker
 eiev06.04B1	こんなところまで……なんで……		text
 eiev06.0536	帝国兵士		speaker
 eiev06.054D	なんだ貴様は？		text
-eiev06.056A	アイリーン		speaker
+eiev06.056A	アイリーン	Irene	speaker
 eiev06.0583	アンタたちね、こんなことをしたのは……。		text
 eiev06.05BA	帝国兵士		speaker
 eiev06.05D1	だとしたらなんだ？　小娘！		text
-eiev06.05FA	アイリーン		speaker
+eiev06.05FA	アイリーン	Irene	speaker
 eiev06.0613	覚悟しなさい！		text

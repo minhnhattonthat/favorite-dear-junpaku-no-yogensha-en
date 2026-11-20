@@ -1,14 +1,14 @@
 id	jp	en	notes
 Feev30.0002	クラレンス戦		dev label (guess: not shown)
-Feev30.00A2	フェイン		unit name (32-byte field)
-Feev30.00DE	クラレンス		unit name (32-byte field)
-Feev30.04A8	クラレンス		speaker
+Feev30.00A2	フェイン	Fein	unit name (32-byte field)
+Feev30.00DE	クラレンス	Clarence	unit name (32-byte field)
+Feev30.04A8	クラレンス	Clarence	speaker
 Feev30.04C1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
-Feev30.0516	フェイン		speaker
+Feev30.0516	フェイン	Fein	speaker
 Feev30.052D	悪魔に魂をうって{n}何を得た？		text
-Feev30.0558	クラレンス		speaker
+Feev30.0558	クラレンス	Clarence	speaker
 Feev30.0571	フン……{n}なにも得やしねえよ。		text
 Feev30.059E	俺はテメエの好きで{n}世界を売ったんだ。		text
 Feev30.05D3	大した世界じゃねえんだよ{n}こんな世界はよ。		text
-Feev30.060C	クラレンス		speaker
+Feev30.060C	クラレンス	Clarence	speaker
 Feev30.0625	行くぜ、偽善者。		text

@@ -1,11 +1,11 @@
 id	jp	en	notes
-ceev19_02.0060	クラレンス		speaker
-ceev19_02.006E	ほら、天使様、とりにきな。{wait}{clear}これがありゃ、世界は平和だぜ。{wait}{clear}		
+ceev19_02.0060	クラレンス	Clarence	speaker
+ceev19_02.006E	ほら、天使様、とりにきな。{wait}{clear}これがありゃ、世界は平和だぜ。{wait}{clear}	Here, Angel, come and get it.{wait}{clear}With this, the world's at peace.{wait}{clear}	
 ceev19_02.00DC	セシア	Cecia	speaker
-ceev19_02.00E6	天使様……魔石を取り戻せなくてすみませんでした。{wait}{clear}		
+ceev19_02.00E6	天使様……魔石を取り戻せなくてすみませんでした。{wait}{clear}	Angel... I'm sorry I couldn't get the Demon{n}Stone back.{wait}{clear}	
 ceev19_02.011A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev19_02.012A	セシア、私が取りに行けばよかったのに……{n}どうして……？{wait}{clear}		
+ceev19_02.012A	セシア、私が取りに行けばよかったのに……{n}どうして……？{wait}{clear}	Cecia, I should have gone to get it... why{n}did you...?{wait}{clear}	
 ceev19_02.0172	セシア	Cecia	speaker
-ceev19_02.017C	天使様は、魔石に触れてはいけません。{n}絶対に……。{n}あれは、私たち人間が守るべきものなのです。{wait}{clear}		
+ceev19_02.017C	天使様は、魔石に触れてはいけません。{n}絶対に……。{n}あれは、私たち人間が守るべきものなのです。{wait}{clear}	Angel, you must not touch the Demon Stones.{n}Never... They are something we humans must{n}protect.{wait}{clear}	
 ceev19_02.01DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-ceev19_02.01EE	セシア……？{wait}{clear}（私が触れないもの……？{n}　魔石のことはラファエル様に聞いてみましょう。）{wait}{clear}		
+ceev19_02.01EE	セシア……？{wait}{clear}（私が触れないもの……？{n}　魔石のことはラファエル様に聞いてみましょう。）{wait}{clear}	Cecia...?{wait}{clear}(Something I can't touch...? I'll ask Lord{n}Raphael about the Demon Stones.){wait}{clear}	

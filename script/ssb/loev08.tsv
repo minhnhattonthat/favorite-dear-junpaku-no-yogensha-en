@@ -1,40 +1,40 @@
 id	jp	en	notes
 loev08.013A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev08.014A	ルディ、大丈夫ですか？{wait}{clear}		
-loev08.0164	ルディエール		speaker
+loev08.0164	ルディエール	Rudiere	speaker
 loev08.0178	ここは……。{wait}{clear}		
 loev08.0188	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev08.0198	あの鎧の男と部下たちの隠れ家のようです。{wait}{clear}		
-loev08.01C4	ルディエール		speaker
+loev08.01C4	ルディエール	Rudiere	speaker
 loev08.01D8	チッ、あいつら{n}なんでおれをこんなところに……{wait}{clear}		
 loev08.020E	まあいい。{n}さあ、なわ、ほどいてくれ……。{wait}{clear}		
 loev08.023C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev08.024C	ええ、待ってください。{wait}{clear}		
-loev08.0266	ルディエール		speaker
+loev08.0266	ルディエール	Rudiere	speaker
 loev08.027A	待て、誰かきた……。{wait}{clear}		
-loev08.02A4	ルディエール		speaker
+loev08.02A4	ルディエール	Rudiere	speaker
 loev08.02B4	君は、誰だ……？{wait}{clear}		
 loev08.02C8	サヴィア		speaker
 loev08.02D4	静かにして、{n}今、ここから出してあげるわ。{wait}{clear}		
-loev08.0302	ルディエール		speaker
+loev08.0302	ルディエール	Rudiere	speaker
 loev08.0312	君が？　どうして？{wait}{clear}		
 loev08.0328	サヴィア		speaker
 loev08.0334	いいから、今はとにかく逃げて。{wait}{clear}		
-loev08.0356	ルディエール		speaker
+loev08.0356	ルディエール	Rudiere	speaker
 loev08.0366	すまない、ありがとう。{n}このお礼はいつか必ず……。{wait}{clear}		
 loev08.039C	サヴィア		speaker
 loev08.03A8	さあ、行って！{wait}{clear}		
-loev08.03BA	ルディエール		speaker
+loev08.03BA	ルディエール	Rudiere	speaker
 loev08.03CA	ああ……。{wait}{clear}		
-loev08.03DC	ルディエール		speaker
+loev08.03DC	ルディエール	Rudiere	speaker
 loev08.03F0	君は……{wait}{clear}		
 loev08.03FC	サヴィア		speaker
 loev08.040C	静かにして、ルディ。{n}今、ここから出してあげるわ。{wait}{clear}		
-loev08.0442	ルディエール		speaker
+loev08.0442	ルディエール	Rudiere	speaker
 loev08.0456	なぜ君が？{wait}{clear}		
 loev08.0464	サヴィア		speaker
 loev08.0474	詳しいことは、{n}また、今度会ったときに話すわ……{n}今は早く逃げて。{wait}{clear}		
-loev08.04BA	ルディエール		speaker
+loev08.04BA	ルディエール	Rudiere	speaker
 loev08.04CE	すまない、ありがとう。{wait}{clear}		
 loev08.04E8	サヴィア		speaker
 loev08.04F8	さあ、行って！{wait}{clear}		

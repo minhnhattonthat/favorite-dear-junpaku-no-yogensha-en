@@ -1,27 +1,27 @@
 id	jp	en	notes
 clev21.0002	セレニスとの戦い		dev label (guess: not shown)
-clev21.00A2	クライヴ		unit name (32-byte field)
-clev21.00DE	セレニス		unit name (32-byte field)
+clev21.00A2	クライヴ	Clive	unit name (32-byte field)
+clev21.00DE	セレニス	Serenis	unit name (32-byte field)
 clev21.011A	魔法		unit name (32-byte field)
 clev21.0156	エンディミオン		unit name (32-byte field)
 clev21.0192	魔石（初期）		unit name (32-byte field)
 clev21.01CE	魔石（点滅）		unit name (32-byte field)
 clev21.020A	魔石（赤）		unit name (32-byte field)
 clev21.0246	魔石の台		unit name (32-byte field)
-clev21.04E8	セレニス		speaker
+clev21.04E8	セレニス	Serenis	speaker
 clev21.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
-clev21.0532	クライヴ		speaker
+clev21.0532	クライヴ	Clive	speaker
 clev21.0549	帝国の魔女、{n}天竜など、よみがえらせはせん……。		text
-clev21.0588	セレニス		speaker
+clev21.0588	セレニス	Serenis	speaker
 clev21.059F	ふふふ、無理よ。{n}あなた達に私を止めることなどできない。		text
-clev21.065A	セレニス		speaker
+clev21.065A	セレニス	Serenis	speaker
 clev21.0671	そこでじっとしていなさい。{n}天使の勇者よ。		text
 clev21.06AA	偉大な力がよみがえるのを見せてあげるわ。		text
 clev21.0705	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
 clev21.074C	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
 clev21.0801	エンディミオン		speaker
 clev21.081E	セレニス……お前はなにを……。		text
-clev21.085B	セレニス		speaker
+clev21.085B	セレニス	Serenis	speaker
 clev21.0872	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
 clev21.08DB	さあ……始めましょう……。		text
 clev21.0990	エンディミオン		speaker

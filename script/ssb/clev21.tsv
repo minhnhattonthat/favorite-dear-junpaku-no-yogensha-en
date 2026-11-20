@@ -1,18 +1,18 @@
 id	jp	en	notes
-clev21.006A	セレニス		speaker
-clev21.007A	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……。{wait}{clear}		
-clev21.00C0	クライヴ		speaker
+clev21.006A	セレニス	Serenis	speaker
+clev21.007A	ああ、サタン様……{n}お会いできる日を……お待ちしておりました……。{wait}{clear}	Ah, Lord Satan... I have waited... for the{n}day I would meet you...{wait}{clear}	
+clev21.00C0	クライヴ	Clive	speaker
 clev21.00CC	これが……天竜か。{wait}{clear}		
-clev21.00E2	セレニス		speaker
-clev21.00F2	そう！{n}これこそがサタン様の魂の化身である天竜よ！{wait}{clear}		
-clev21.012C	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}		
-clev21.015E	クライヴ		speaker
+clev21.00E2	セレニス	Serenis	speaker
+clev21.00F2	そう！{n}これこそがサタン様の魂の化身である天竜よ！{wait}{clear}	Yes! This is the Heavenly Dragon, the{n}incarnation of Lord Satan's soul!{wait}{clear}	
+clev21.012C	すばらしいでしょう！{n}あのお姿、あのご威光……{wait}{clear}	Isn't it magnificent? That form, that{n}majesty...{wait}{clear}	
+clev21.015E	クライヴ	Clive	speaker
 clev21.016A	く、これ以上はさせん！{wait}{clear}		
 clev21.01CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev21.01DE	塔が崩れます、クライヴ！{wait}{clear}		
 clev21.0200	ＮＵＬＬ	NULL	speaker
-clev21.020C	ゴゴゴゴゴ……{wait}{clear}		
-clev21.0248	クライヴ		speaker
+clev21.020C	ゴゴゴゴゴ……{wait}{clear}	Rumble rumble...{wait}{clear}	
+clev21.0248	クライヴ	Clive	speaker
 clev21.0254	悪魔め……{n}俺はどこまでも追っていくぞ。{wait}{clear}		
-clev21.0290	クライヴ		speaker
+clev21.0290	クライヴ	Clive	speaker
 clev21.029C	……最後、彼女は{n}俺にわざと斬られた。{wait}{clear}なぜだ……。{wait}{clear}		

@@ -1,9 +1,9 @@
 id	jp	en	notes
 laev15_01b.0002	1		dev label (guess: not shown)
-laev15_01b.00A2	レイラ		unit name (32-byte field)
+laev15_01b.00A2	レイラ	Leyla	unit name (32-byte field)
 laev15_01b.00DE	聖母	Holy Mother	unit name (32-byte field)
 laev15_01b.04A4	聖母	Holy Mother	speaker
 laev15_01b.04B7	私はこの地から動くことはできませんが、{n}ここで、大切なものを守ります。		text
 laev15_01b.050C	ですが、心はいつもあなたたちと同じです。{n}レイラ……どうか気をつけて……。		text
-laev15_01b.0565	レイラ		speaker
+laev15_01b.0565	レイラ	Leyla	speaker
 laev15_01b.057A	はい……{n}お話を聞かせてくださって、{n}ありがとうございました。		text

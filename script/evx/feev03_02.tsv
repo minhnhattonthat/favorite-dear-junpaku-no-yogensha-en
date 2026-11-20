@@ -1,37 +1,37 @@
 id	jp	en	notes
 feev03_02.0002	ギルド２		dev label (guess: not shown)
-feev03_02.00A2	フェイン		unit name (32-byte field)
+feev03_02.00A2	フェイン	Fein	unit name (32-byte field)
 feev03_02.00DE	ウィザード		unit name (32-byte field)
 feev03_02.011A	机		unit name (32-byte field)
 feev03_02.0156	椅子		unit name (32-byte field)
 feev03_02.0192	モブ２		unit name (32-byte field)
 feev03_02.052C	若い魔導士		speaker
 feev03_02.0545	フェイン、久しぶりだな。		text
-feev03_02.056C	フェイン		speaker
+feev03_02.056C	フェイン	Fein	speaker
 feev03_02.0583	ランドか。{n}元気にしていたか？		text
 feev03_02.05B0	ランド		speaker
 feev03_02.05C5	ああ。{n}今日はどうした？　グランドマスターに用なら、{n}残念だが、外出されて留守だ。		text
-feev03_02.0626	フェイン		speaker
+feev03_02.0626	フェイン	Fein	speaker
 feev03_02.063D	外出？　どこへ行かれたのだ？		text
 feev03_02.0668	ランド		speaker
 feev03_02.067D	レフカスのロッジへ出向かれたようだ。		text
-feev03_02.06B0	フェイン		speaker
+feev03_02.06B0	フェイン	Fein	speaker
 feev03_02.06C7	レフカス？{n}ただ、なぜグランドマスター自ら{n}わざわざ行く必要があったのだ？		text
 feev03_02.0720	ランド		speaker
 feev03_02.0735	ああ……{n}なんでも魔石をグランドロッジに移すとか{n}言っておられたからな。		text
-feev03_02.078C	フェイン		speaker
+feev03_02.078C	フェイン	Fein	speaker
 feev03_02.07A3	先代のグランドマスターが{n}東方のゼルン候からゆずり受けたあれか？		text
 feev03_02.07F2	ランド		speaker
 feev03_02.0807	そうだ。{n}なんでも予言で、あそこに置いておくのはまずいと{n}出たらしい。		text
-feev03_02.085C	フェイン		speaker
+feev03_02.085C	フェイン	Fein	speaker
 feev03_02.0873	ふむ……。		text
 feev03_02.088C	ランド		speaker
 feev03_02.08A1	それ以上詳しいことはわからん。{n}マスターの中には多くを語りたがらない者もいる。		text
-feev03_02.08FE	フェイン		speaker
+feev03_02.08FE	フェイン	Fein	speaker
 feev03_02.0915	…………。{n}そうだな……。		text
 feev03_02.093E	ランド		speaker
 feev03_02.0953	なあ、フェイン。{n}今日はゆっくりしていけるのだろう？		text
 feev03_02.0996	こんなところで立ち話もなんだ、{n}すこし早いが飲みながら話そう。		text
 feev03_02.09E3	なかなかお前とは会えんしな。{n}かまわんだろ。		text
-feev03_02.0A1E	フェイン		speaker
+feev03_02.0A1E	フェイン	Fein	speaker
 feev03_02.0A35	ああ、そうしよう。		text

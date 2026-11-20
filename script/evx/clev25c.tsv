@@ -1,6 +1,6 @@
 id	jp	en	notes
 clev25c.0002	ラストバトル（勇者死亡）		dev label (guess: not shown)
-clev25c.00A2	フェイン		unit name (32-byte field)
+clev25c.00A2	フェイン	Fein	unit name (32-byte field)
 clev25c.00DE	ウィザード		unit name (32-byte field)
 clev25c.04E4	エンディミオン		speaker
 clev25c.0501	ハハハハハハ、{n}見たか！！　大天使ども！！		text

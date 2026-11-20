@@ -1,89 +1,89 @@
 id	jp	en	notes
-roev13.00DA	クラレンス		speaker
+roev13.00DA	クラレンス	Clarence	speaker
 roev13.00EC	ほら、天使様、とりにきな。{wait}{clear}		
 roev13.010E	これがありゃ、世界は平和だぜ。{wait}{clear}		
 roev13.0130	ＮＵＬＬ	NULL	speaker
 roev13.0140	《魔石を受け取る》{n}		
 roev13.0168	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0178	！？{wait}{clear}		
-roev13.0180	クラレンス		speaker
+roev13.0180	クラレンス	Clarence	speaker
 roev13.0192	ハハ、間抜けが。{wait}{clear}		
-roev13.01A6	ロクス		speaker
+roev13.01A6	ロクス	Rocus	speaker
 roev13.01B4	おい、＄＄＄＄＄＄。{wait}{clear}		
 roev13.01D0	大丈夫か？{wait}{clear}		
-roev13.0210	ロクス		speaker
+roev13.0210	ロクス	Rocus	speaker
 roev13.021E	……よかった{n}平気か？{wait}{clear}		
-roev13.0264	ロクス		speaker
+roev13.0264	ロクス	Rocus	speaker
 roev13.026E	クソッ……ヴァイパーには逃げられた……。{wait}{clear}		
 roev13.029A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.02AA	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
+roev13.02AA	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	I see...{wait}{clear}(What on earth was that just now...? I'll{n}ask Lord Raphael...){wait}{clear}	
 roev13.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.032E	ラファエル様、いらっしゃいますか？{wait}{clear}		
+roev13.032E	ラファエル様、いらっしゃいますか？{wait}{clear}	Lord Raphael, are you there?{wait}{clear}	
 roev13.0362	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0372	すみません、お聞きしたいことがあるのですが……。{wait}{clear}		
-roev13.03A6	ミカエル		speaker
+roev13.03A6	ミカエル	Michael	speaker
 roev13.03B2	ああ、やつならいないぞ。{wait}{clear}		
 roev13.03CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.03DE	！？{wait}{clear}		
-roev13.03FE	ミカエル		speaker
+roev13.03FE	ミカエル	Michael	speaker
 roev13.040A	俺もやつに用があったんだがな……{n}どこかへ出かけているらしい。{wait}{clear}		
 roev13.044C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.045C	そうですか……。{wait}{clear}	I see...{wait}{clear}	
-roev13.0470	ミカエル		speaker
+roev13.0470	ミカエル	Michael	speaker
 roev13.047C	どうしたんだ、深刻そうな顔をして。{n}なにかあったのなら、俺が話を聞くぞ。{wait}{clear}		
 roev13.04C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.04D8	え？　ミカエル様がですか！？{wait}{clear}		
-roev13.04F8	ミカエル		speaker
+roev13.04F8	ミカエル	Michael	speaker
 roev13.0504	なにもそんなに驚くことはないだろう？{n}それとも、俺では不服なのか？{wait}{clear}		
 roev13.0556	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0566	い、いえ！　そんな、とんでもないです！！{wait}{clear}		
 roev13.0596	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.05A6	い、いえ！　そんな……とんでもありません。{wait}{clear}		
-roev13.05D4	ミカエル		speaker
+roev13.05D4	ミカエル	Michael	speaker
 roev13.05E0	それなら、話してみないか？{wait}{clear}		
 roev13.060A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.061A	はい……。{wait}{clear}あの……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのでしょうか？{wait}{clear}		
 roev13.06A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.06B2	はい……。{wait}{clear}……今、私が守護している地上界アルカヤに、{n}魔石と呼ばれる石が存在しているのですが{n}あれはなんなのですか？{wait}{clear}		
-roev13.072E	ミカエル		speaker
+roev13.072E	ミカエル	Michael	speaker
 roev13.073A	あの石のことで、なにかあったのだな？{wait}{clear}		
 roev13.0762	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0772	はい……。{wait}{clear}	Yes...{wait}{clear}	
-roev13.0780	ミカエル		speaker
+roev13.0780	ミカエル	Michael	speaker
 roev13.078C	そうか……悪かったな……。{wait}{clear}		
 roev13.07AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.07BA	悪かった……とは……{n}どういうことですか？　ミカエル様？{wait}{clear}		
-roev13.07F6	ミカエル		speaker
+roev13.07F6	ミカエル	Michael	speaker
 roev13.0802	あれは……{n}あの石は俺が砕いたサタンの魂の一部だ……。{wait}{clear}		
 roev13.083C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev13.084C	え……？{wait}{clear}		
-roev13.0858	ミカエル		speaker
+roev13.084C	え……？{wait}{clear}	Huh...?{wait}{clear}	
+roev13.0858	ミカエル	Michael	speaker
 roev13.0864	堕天使たちとの戦いで、{n}俺はサタンの存在を完全に消すことはできなかった。{wait}{clear}俺が倒したサタンの魂は砕け、{n}そのかけらはいろいろな世界へと{n}飛び散っていったのだ。{wait}{clear}		
 roev13.0908	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0918	そのかけらは危険なものではないのですか？{n}それをそのままにしておくなんて……。{wait}{clear}		
-roev13.096A	ミカエル		speaker
+roev13.096A	ミカエル	Michael	speaker
 roev13.0976	確かに、危険なのはわかっていた。{n}ただ、我々はあの石に触れることはできないのだ。{wait}{clear}あの石に触れると、我々は大きな傷を受ける……。{n}まあ、その痛みだけが{n}石に触れない理由ではないのだがな……。{wait}{clear}		
 roev13.0A3A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0A4A	ですが、それでは地上界は……。{wait}{clear}		
-roev13.0A6C	ミカエル		speaker
+roev13.0A6C	ミカエル	Michael	speaker
 roev13.0A78	それは、そうなのだが……{n}我々は人間にすべてを任せるしかないのだ。{n}たとえ、それが無責任だと思われてもな。{wait}{clear}心正しい人間が魔石を守っていくことこそ、{n}我々が望むこと……。{wait}{clear}それに、天使と堕天使、人間との関係は、{n}簡単にわりきれるような単純なものではない。{wait}{clear}悲しいことだがな……。{wait}{clear}天使であっても、いや、天使であるからこそ{n}我々は、堕天使にも人間にもなり得るのだ……。{n}それが、どういうことなのか……わかるか？{wait}{clear}お前も、悩むだろう？{n}地上界の守護をしているときは、特にな……。{wait}{clear}		
 roev13.0C60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0C70	ミカエル様……？{wait}{clear}		
-roev13.0C84	ミカエル		speaker
+roev13.0C84	ミカエル	Michael	speaker
 roev13.0C90	ああ、なんだか関係ないことまで話しているな。{wait}{clear}それにしても、地上界アルカヤでその石が見つかり、{n}お前がそれと出会ったとすると、{n}邪悪な意志を感じずにはいられないな……。{wait}{clear}		
 roev13.0D3E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0D4E	はい……。{n}魔石を集めている者がいるようです。{wait}{clear}		
-roev13.0D80	ミカエル		speaker
+roev13.0D80	ミカエル	Michael	speaker
 roev13.0D8C	そうか……。{n}堕天使の誰かが後ろで……いったい誰だ……。{wait}{clear}		
-roev13.0DC8	ミカエル		speaker
+roev13.0DC8	ミカエル	Michael	speaker
 roev13.0DD4	お前たちには、本当にすまないことをしている……。{n}地上界で危険な目にあわせているというのに、{n}俺は、こうして言葉しかかけてやれない……。{wait}{clear}		
 roev13.0E60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0E70	いいえ、ミカエル様。{n}こうしてお話しできたことで十分です。{wait}{clear}		
-roev13.0EAE	ミカエル		speaker
+roev13.0EAE	ミカエル	Michael	speaker
 roev13.0EBA	そうか……そう言ってもらえるだけで、ありがたい。{n}また、こうして話ができるといいな。{wait}{clear}では、魔石のことは、ラファエルに話しておこう。{n}お前は、早く地上界へ戻った方がいい。{n}そんなことが起こっているなら、なおさらだ。{wait}{clear}		
 roev13.0F96	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.0FA6	はい、わかりました。{wait}{clear}本当に、ありがとうございました、ミカエル様。{n}失礼します。{wait}{clear}		
-roev13.0FFC	ミカエル		speaker
+roev13.0FFC	ミカエル	Michael	speaker
 roev13.1008	くれぐれも気をつけろ。{n}堕天使のやり方は、いつも汚いからな。{wait}{clear}		
 roev13.1048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev13.1058	はい！{wait}{clear}		

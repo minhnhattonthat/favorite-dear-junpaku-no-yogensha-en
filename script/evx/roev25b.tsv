@@ -1,9 +1,9 @@
 id	jp	en	notes
 roev25b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
-roev25b.00A2	ロクス		unit name (32-byte field)
-roev25b.00DE	ベルゼバブ		unit name (32-byte field)
+roev25b.00A2	ロクス	Rocus	unit name (32-byte field)
+roev25b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 roev25b.011A	天竜		unit name (32-byte field)
-roev25b.04A8	ロクス		speaker
+roev25b.04A8	ロクス	Rocus	speaker
 roev25b.04BD	うっ……		text
 roev25b.04E4	エンディミオン		speaker
 roev25b.0501	どうだ、わかったか？		text
@@ -48,25 +48,25 @@ roev25b.0F15	エンディミオン		speaker
 roev25b.0F32	私の真の名を呼ぶとは……		text
 roev25b.0F69	男の声		speaker
 roev25b.0F7E	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
-roev25b.0FD5	ベルゼバブ		speaker
+roev25b.0FD5	ベルゼバブ	Beelzebub	speaker
 roev25b.0FEE	その声……この波動は！！		text
-roev25b.10B5	ミカエル		speaker
+roev25b.10B5	ミカエル	Michael	speaker
 roev25b.10CC	久しぶりだな、ハエの王。		text
-roev25b.1103	ベルゼバブ		speaker
+roev25b.1103	ベルゼバブ	Beelzebub	speaker
 roev25b.111C	ミカエル！　ラファエル！		text
-roev25b.1153	ミカエル		speaker
+roev25b.1153	ミカエル	Michael	speaker
 roev25b.116A	遅れてすまなかったな、＄＄＄＄＄＄。		text
-roev25b.11AD	ラファエル		speaker
+roev25b.11AD	ラファエル	Raphael	speaker
 roev25b.11C6	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
 roev25b.1229	そして、影にいる堕天使の存在の強大さも……。		text
-roev25b.1274	ミカエル		speaker
+roev25b.1274	ミカエル	Michael	speaker
 roev25b.128B	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
 roev25b.12E8	やつらを、ともに倒そう。		text
-roev25b.131F	ラファエル		speaker
+roev25b.131F	ラファエル	Raphael	speaker
 roev25b.1338	さあ、勇者よ、よみがえりなさい。		text
-roev25b.140B	ロクス		speaker
+roev25b.140B	ロクス	Rocus	speaker
 roev25b.1420	……この光は？		text
-roev25b.144D	ラファエル		speaker
+roev25b.144D	ラファエル	Raphael	speaker
 roev25b.1466	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
-roev25b.14B9	ベルゼバブ		speaker
+roev25b.14B9	ベルゼバブ	Beelzebub	speaker
 roev25b.14D2	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text

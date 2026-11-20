@@ -1,14 +1,14 @@
 id	jp	en	notes
 ceev20c.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
 ceev20c.00A2	セシア	Cecia	unit name (32-byte field)
-ceev20c.00DE	セレニス		unit name (32-byte field)
+ceev20c.00DE	セレニス	Serenis	unit name (32-byte field)
 ceev20c.011A	覚醒エンディミオン		unit name (32-byte field)
 ceev20c.0156	エンディミオン		unit name (32-byte field)
 ceev20c.0192	椅子		unit name (32-byte field)
 ceev20c.01CE	魔石の台		unit name (32-byte field)
 ceev20c.04AC	セシア	Cecia	speaker
 ceev20c.04C1	そ、そんな……。		text
-ceev20c.04FC	セレニス		speaker
+ceev20c.04FC	セレニス	Serenis	speaker
 ceev20c.0513	フフフフ……{n}これが正義の末路よ。		text
 ceev20c.0558	……うっ……。		text
 ceev20c.0595	セシア	Cecia	speaker

@@ -1,43 +1,43 @@
 id	jp	en	notes
 feev03_03.004C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.005C	フェイン、またグランドマスターのところへ{n}行くのですか？{wait}{clear}		
-feev03_03.0098	フェイン		speaker
+feev03_03.0098	フェイン	Fein	speaker
 feev03_03.00A4	ああ。{n}ここまで来て、顔を出さないというのも{n}おかしいだろう？{wait}{clear}行ってくる。{wait}{clear}		
 feev03_03.0122	ライノール		speaker
 feev03_03.0130	フェインか……。{n}なにか、大きな動きでもあったのか？{wait}{clear}		
-feev03_03.0168	フェイン		speaker
+feev03_03.0168	フェイン	Fein	speaker
 feev03_03.0174	いえ、そんなに大きなことは起こっていません。{n}ただ、老師が心配しているとおり、{n}混乱はそこかしこで起こっているようです。{wait}{clear}そのすべてが大きな厄災の予兆とは思いませんが、{n}帝国の動きが活発なようで気になります……。{wait}{clear}		
 feev03_03.024E	ライノール		speaker
 feev03_03.025C	そうか……。{n}ここにも最近はいろいろな情報が届く。{wait}{clear}その中にはとても巨大な厄災の予言もある。{n}予言者たちが感じている巨大な影の存在……。{wait}{clear}だが、具体的になにかはわからん……。{n}残念ながらな。{wait}{clear}		
 feev03_03.032A	ライノール		speaker
 feev03_03.0338	だが、念のため、{n}レフカスから魔石をここへ運んできた。{wait}{clear}		
-feev03_03.0372	フェイン		speaker
+feev03_03.0372	フェイン	Fein	speaker
 feev03_03.037E	え？{n}それは、先代のグランドマスターが{n}ゼルン候からゆずり受けたというあの石ですか？{wait}{clear}		
 feev03_03.03D6	ライノール		speaker
 feev03_03.03E4	ああ、そうだ。{n}あの石が本当に伝説の魔石であるかどうかは{n}わかっていないが……。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}		
-feev03_03.04B4	フェイン		speaker
+feev03_03.04B4	フェイン	Fein	speaker
 feev03_03.04C0	はい……そうですね……。{wait}{clear}		
-feev03_03.04E0	フェイン		speaker
+feev03_03.04E0	フェイン	Fein	speaker
 feev03_03.04EC	レフカスから魔石をこちらに運んだそうですね……。{wait}{clear}		
 feev03_03.0520	ライノール		speaker
 feev03_03.052E	ああ……念のためだ。{wait}{clear}石がここから奪われることはないだろうからな。{wait}{clear}あの石が本当に伝説の魔石であるかどうかは{n}わかっていない。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}		
-feev03_03.0630	フェイン		speaker
-feev03_03.063C	わかりました。{wait}{clear}		
+feev03_03.0630	フェイン	Fein	speaker
+feev03_03.063C	わかりました。{wait}{clear}	All right.{wait}{clear}	
 feev03_03.064E	ライノール		speaker
 feev03_03.065C	私は、この世界の起きていることを{n}むやみに心配はしていない。{wait}{clear}ただ、ロッジの……{n}我々魔導士の安全を慎重に考えているのだ。{wait}{clear}		
-feev03_03.06DC	フェイン		speaker
+feev03_03.06DC	フェイン	Fein	speaker
 feev03_03.06E8	はい……。{wait}{clear}	Yes...{wait}{clear}	
-feev03_03.0726	フェイン		speaker
+feev03_03.0726	フェイン	Fein	speaker
 feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}		
 feev03_03.0758	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.0768	はい、なんですか？{wait}{clear}		
-feev03_03.077E	フェイン		speaker
+feev03_03.077E	フェイン	Fein	speaker
 feev03_03.078A	帝国の動き、{n}いや……世界の混乱の理由についてだ。{n}なにか君の知っていることはないか？{wait}{clear}		
 feev03_03.07E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.07F4	いいえ、特には……。{wait}{clear}		
-feev03_03.080C	フェイン		speaker
+feev03_03.080C	フェイン	Fein	speaker
 feev03_03.0818	そうか……。{n}なにかわかったら俺に教えてくれないか。{wait}{clear}俺はギルドを守らなくてはならない。{wait}{clear}君のいう世界の混乱、いや俺も見てきた混乱によって{n}ギルドが犯されるのは防ぎたい。{n}なんとしても。{wait}{clear}		
 feev03_03.08DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.08EA	はい、わかりました。{n}できるだけ、フェインに協力します。{wait}{clear}		
-feev03_03.0926	フェイン		speaker
+feev03_03.0926	フェイン	Fein	speaker
 feev03_03.0932	すまないな……。{wait}{clear}		

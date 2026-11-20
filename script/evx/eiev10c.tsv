@@ -1,20 +1,20 @@
 id	jp	en	notes
 eiev10c.0002	聖都陥落		dev label (guess: not shown)
-eiev10c.00A2	アイリーン		unit name (32-byte field)
-eiev10c.00DE	セレニス		unit name (32-byte field)
+eiev10c.00A2	アイリーン	Irene	unit name (32-byte field)
+eiev10c.00DE	セレニス	Serenis	unit name (32-byte field)
 eiev10c.011A	帝国騎士		unit name (32-byte field)
 eiev10c.0156	帝国騎士		unit name (32-byte field)
-eiev10c.04EC	アイリーン		speaker
+eiev10c.04EC	アイリーン	Irene	speaker
 eiev10c.0505	セレニス姉さん……本当にフェイン、殺したの？		text
 eiev10c.0550	ウソよね……？		text
-eiev10c.057D	セレニス		speaker
+eiev10c.057D	セレニス	Serenis	speaker
 eiev10c.0594	ああ、フェインか……。		text
 eiev10c.05C9	確かに殺したわよ。		text
 eiev10c.05FA	刺客達にやらせたわ。		text
 eiev10c.062D	こそこそかぎまわられてうっとうしかったから。{n}フフフ。		text
-eiev10c.0682	アイリーン		speaker
+eiev10c.0682	アイリーン	Irene	speaker
 eiev10c.069B	ひどい……		text
 eiev10c.06C4	あなたはもう姉さんじゃない……		text
-eiev10c.0701	セレニス		speaker
+eiev10c.0701	セレニス	Serenis	speaker
 eiev10c.0718	ああ、私もお前を妹などと思っていないわ。		text
 eiev10c.075F	さあ、目障りだからお前も死になさい。		text

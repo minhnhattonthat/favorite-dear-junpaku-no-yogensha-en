@@ -1,17 +1,17 @@
 id	jp	en	notes
 roev16b.0002	ヴァイパーの最後（戦闘勝ち後）		dev label (guess: not shown)
-roev16b.00A2	ロクス		unit name (32-byte field)
-roev16b.00DE	クラレンス		unit name (32-byte field)
-roev16b.04A8	クラレンス		speaker
+roev16b.00A2	ロクス	Rocus	unit name (32-byte field)
+roev16b.00DE	クラレンス	Clarence	unit name (32-byte field)
+roev16b.04A8	クラレンス	Clarence	speaker
 roev16b.04C1	ちっ……負けたぜ……。		text
 roev16b.04F6	お前は強いよ……		text
-roev16b.0575	ロクス		speaker
+roev16b.0575	ロクス	Rocus	speaker
 roev16b.058A	お前にとどめは刺せない……。		text
-roev16b.05C5	クラレンス		speaker
+roev16b.05C5	クラレンス	Clarence	speaker
 roev16b.05DE	おお、やっと俺の友情に気づいてくれたか……。{n}うれしいぜ。		text
-roev16b.0637	ロクス		speaker
+roev16b.0637	ロクス	Rocus	speaker
 roev16b.064C	ちがう……そんな価値もないからだ……。		text
-roev16b.0691	クラレンス		speaker
+roev16b.0691	クラレンス	Clarence	speaker
 roev16b.06AA	そりゃひでえ……{n}ふふ、まあ……その通りだよ……		text
 roev16b.06F9	だがな……俺はここで死ぬ……		text
 roev16b.0734	どのみち俺の身体は……もう、だめなんだ……		text

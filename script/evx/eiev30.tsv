@@ -1,5 +1,5 @@
 id	jp	en	notes
-eiev30.00A2	アイリーン		unit name (32-byte field)
+eiev30.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev30.00DE	イオン	Ion	unit name (32-byte field)
 eiev30.011A	ウサギ１		unit name (32-byte field)
 eiev30.0156	ウサギ２		unit name (32-byte field)
@@ -11,7 +11,7 @@ eiev30.04AD	魔石はあの人に渡したし、お母さんも……。		text
 eiev30.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。		text
 eiev30.059D	イオン	Ion	speaker
 eiev30.05B2	なんだ？　お前……。		text
-eiev30.0611	アイリーン		speaker
+eiev30.0611	アイリーン	Irene	speaker
 eiev30.062A	酷い……あなたが？		text
 eiev30.064B	イオン	Ion	speaker
 eiev30.0660	うるさい！{n}僕の邪魔をするから悪いんだ！		text

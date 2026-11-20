@@ -1,30 +1,30 @@
 id	jp	en	notes
-loev15.016A	ルディエール		speaker
+loev15.016A	ルディエール	Rudiere	speaker
 loev15.017A	なあ、＄＄＄＄＄＄。{wait}{clear}サヴィアは本当のことを言ってると思うか？{wait}{clear}		
 loev15.01BE	ＮＵＬＬ	NULL	speaker
 loev15.01CE	《思う》{n}		
 loev15.01DE	《わからない》{n}		
 loev15.01FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.020E	私は……本当のことを言っていると思います。{wait}{clear}彼女のまなざしはとても真剣でした。{n}嘘は言っていないと思います。{wait}{clear}		
-loev15.0280	ルディエール		speaker
+loev15.0280	ルディエール	Rudiere	speaker
 loev15.0290	そうか……{n}＄＄＄＄＄＄は、そう思うんだな……。{wait}{clear}でも、おれは、あの言葉だけじゃ信じられない。{wait}{clear}確かにサヴィアの言っている通り、{n}貴族たちが自分たちのことばかりを考えてるのは、{n}おれも知っている。{wait}{clear}もし、兄さんがあんな連中に殺されたのが本当なら{n}おれは、今すぐ戻って……あいつらを……。{wait}{clear}でも、なにも確かめようがない……。{n}それと同じように、{n}彼女じゃないというのも本当なのかわからない……。{wait}{clear}		
 loev15.0424	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.0434	ルディの気持ちもわかります。{n}もっとなにかわかればいいのですが……。{wait}{clear}		
-loev15.047C	ルディエール		speaker
+loev15.047C	ルディエール	Rudiere	speaker
 loev15.048C	いや、今は、その話はやめよう。{n}とにかく、帝国の侵攻を止めなければ、{n}この地上に二度と平和は戻ってこないんだ……。{wait}{clear}そうなんだろ？{wait}{clear}		
 loev15.0514	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.0524	ええ、そうです……。{wait}{clear}混乱が地上を覆えば、{n}悪が人々を永遠に苦しめ続けるでしょう。{wait}{clear}		
-loev15.0588	ルディエール		speaker
+loev15.0588	ルディエール	Rudiere	speaker
 loev15.0598	今、おれがしなきゃいけないことは{n}その混沌と戦うことだ。{wait}{clear}すべてが終わってから、おれは国へ戻る……。{wait}{clear}		
 loev15.0618	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.0628	それは私にも、わかりません……。{wait}{clear}		
-loev15.064C	ルディエール		speaker
+loev15.064C	ルディエール	Rudiere	speaker
 loev15.065C	……そうか。{n}おれにもわからない……。{wait}{clear}彼女が言っていた、{n}貴族たちが兄さんとおれをわなにかけたというのも{n}信じられない話じゃないけど……。{wait}{clear}……クソっ……{n}でも、確かなことはなにもわからない……。{wait}{clear}それと同じように、{n}彼女がやったんじゃないということも、{n}わからない……。{wait}{clear}		
 loev15.0778	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.0788	ルディの気持ちもわかります。{n}もっとなにかわかればいいのですが……。{wait}{clear}		
-loev15.07D0	ルディエール		speaker
+loev15.07D0	ルディエール	Rudiere	speaker
 loev15.07E0	いや、今は、その話はやめよう。{n}とにかく、帝国の侵攻を止めなければ、{n}この地上に二度と平和は戻ってこないんだ……。{wait}{clear}そうなんだろ？{wait}{clear}		
 loev15.0868	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev15.0878	ええ、そうです……。{wait}{clear}混乱が地上を覆えば、{n}悪が人々を永遠に苦しめ続けるでしょう。{wait}{clear}		
-loev15.08DC	ルディエール		speaker
+loev15.08DC	ルディエール	Rudiere	speaker
 loev15.08EC	今、おれがしなきゃいけないことは{n}混沌と戦うことだ。{wait}{clear}すべてが終わってから、おれは国へ戻る……。{wait}{clear}		

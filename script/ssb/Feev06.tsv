@@ -1,5 +1,5 @@
 id	jp	en	notes
-Feev06.0056	フェイン		speaker
+Feev06.0056	フェイン	Fein	speaker
 Feev06.0066	＄＄＄＄＄＄、ちょっといいか？{wait}{clear}		
 Feev06.008C	寄りたいところがあるんだが、かまわないか？{wait}{clear}		
 Feev06.00BA	ＮＵＬＬ	NULL	speaker
@@ -7,38 +7,38 @@ Feev06.00CA	《ええ……》{n}
 Feev06.00DE	《いいえ……》{n}		
 Feev06.00FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev06.010A	いいえ、{n}なにか事件があるかもしれません……。{n}また、今度にしてもらえないでしょうか？{wait}{clear}		
-Feev06.0166	フェイン		speaker
+Feev06.0166	フェイン	Fein	speaker
 Feev06.0176	そうか……ならいい。{n}また次の機会にしよう。{wait}{clear}		
 Feev06.01BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev06.01CC	ええ、もちろん、いいですよ。{wait}{clear}		
-Feev06.01EE	フェイン		speaker
+Feev06.01EE	フェイン	Fein	speaker
 Feev06.01FE	いいのか？　すまんな。{wait}{clear}		
 Feev06.021E	時間はとらせない。{wait}{clear}		
-Feev06.0248	フェイン		speaker
+Feev06.0248	フェイン	Fein	speaker
 Feev06.0258	ここが俺と師が住んだ塔だ。{wait}{clear}		
 Feev06.027A	ずいぶんと久しぶりに戻る……。{wait}{clear}		
-Feev06.02D6	フェイン		speaker
+Feev06.02D6	フェイン	Fein	speaker
 Feev06.02E6	アイリーンはいないようだな……。{wait}{clear}		
 Feev06.030E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev06.031E	どんな方なのですか？{wait}{clear}		
-Feev06.0344	フェイン		speaker
+Feev06.0344	フェイン	Fein	speaker
 Feev06.0354	彼女はジグの孫娘で、{n}自分にとっては妹のような娘だ。{wait}{clear}		
 Feev06.0390	ここにずっと住んでいる……。{wait}{clear}		
 Feev06.03B4	今はいないようだ。{n}きっとどこか用事があって出かけているのだろう。{wait}{clear}		
 Feev06.03FE	会いたかったのだが……。{wait}{clear}		
 Feev06.041E	しかたない……。{wait}{clear}		
-Feev06.0450	フェイン		speaker
+Feev06.0450	フェイン	Fein	speaker
 Feev06.0460	なつかしいな……変わっていない。{wait}{clear}		
 Feev06.0484	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev06.0494	アイリーンに会いにここへ来ました。{wait}{clear}		
-Feev06.04BA	フェイン		speaker
+Feev06.04BA	フェイン	Fein	speaker
 Feev06.04CA	そうか……。{wait}{clear}		
-Feev06.04EC	フェイン		speaker
+Feev06.04EC	フェイン	Fein	speaker
 Feev06.04FC	なつかしいな……変わってない。{wait}{clear}		
 Feev06.0522	しかし、アイリーンは{n}相変わらず片づけが苦手なようだな。{wait}{clear}		
 Feev06.0562	こんなに散らかしたまま、出かけて……。{wait}{clear}		
 Feev06.059E	ふふ、そういえば、{n}よくセレニスが怒っていたな……。{wait}{clear}		
-Feev06.05E4	フェイン		speaker
+Feev06.05E4	フェイン	Fein	speaker
 Feev06.05F4	ここにはたくさんの思い出がある。{wait}{clear}		
 Feev06.061C	ジグの元でいろんなことを学んだ。{wait}{clear}		
 Feev06.0644	それに……{n}セレニスやアイリーンと過ごした日々……。{wait}{clear}		

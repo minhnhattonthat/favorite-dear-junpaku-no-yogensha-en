@@ -1,65 +1,65 @@
 id	jp	en	notes
-clev14.0048	クライヴ		speaker
-clev14.0058	街を歩かないか……＄＄＄＄＄＄？{wait}{clear}		
+clev14.0048	クライヴ	Clive	speaker
+clev14.0058	街を歩かないか……＄＄＄＄＄＄？{wait}{clear}	Want to walk around town... ＄＄＄＄＄＄?{wait}{clear}	
 clev14.007C	ＮＵＬＬ	NULL	speaker
-clev14.008C	《珍しいですね。》{n}		
-clev14.00A6	《ええ……。》{n}		
+clev14.008C	《珍しいですね。》{n}	That's unusual.{n}	
+clev14.00A6	《ええ……。》{n}	Sure...{n}	
 clev14.00C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.00D6	珍しいですね、{n}あなたから声をかけてくれるなんて……。{wait}{clear}		
-clev14.0110	クライヴ		speaker
-clev14.0120	たまにはな……。{n}嫌か……？{wait}{clear}		
+clev14.00D6	珍しいですね、{n}あなたから声をかけてくれるなんて……。{wait}{clear}	That's unusual, you asking me...{wait}{clear}	
+clev14.0110	クライヴ	Clive	speaker
+clev14.0120	たまにはな……。{n}嫌か……？{wait}{clear}	Once in a while... Don't want to...?{wait}{clear}	
 clev14.0140	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0150	いいえ……{n}ただ、意外だったものですから……。{wait}{clear}行きましょう。{wait}{clear}		
+clev14.0150	いいえ……{n}ただ、意外だったものですから……。{wait}{clear}行きましょう。{wait}{clear}	No... it's just that I didn't expect it...{wait}{clear}Let's go.{wait}{clear}	
 clev14.019E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.01AE	ええ……よろこんで……。{wait}{clear}		
-clev14.01CA	クライヴ		speaker
-clev14.01DA	……すまない。{wait}{clear}		
+clev14.01AE	ええ……よろこんで……。{wait}{clear}	Yes... I'd love to...{wait}{clear}	
+clev14.01CA	クライヴ	Clive	speaker
+clev14.01DA	……すまない。{wait}{clear}	...Sorry.{wait}{clear}	
 clev14.0204	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0214	気持ちのいい日ですね。{wait}{clear}		
-clev14.022E	クライヴ		speaker
-clev14.023E	そうだな……。{wait}{clear}		
+clev14.0214	気持ちのいい日ですね。{wait}{clear}	What a lovely day.{wait}{clear}	
+clev14.022E	クライヴ	Clive	speaker
+clev14.023E	そうだな……。{wait}{clear}	Yeah...{wait}{clear}	
 clev14.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0260	どこへ行きましょうか、クライヴ？{wait}{clear}		
-clev14.0290	クライヴ		speaker
-clev14.029C	……っ！{wait}{clear}		
+clev14.0260	どこへ行きましょうか、クライヴ？{wait}{clear}	Where shall we go, Clive?{wait}{clear}	
+clev14.0290	クライヴ	Clive	speaker
+clev14.029C	……っ！{wait}{clear}	...Ngh!{wait}{clear}	
 clev14.02A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.02B8	クライヴ？{wait}{clear}大丈夫ですか？{wait}{clear}		
-clev14.02E4	クライヴ		speaker
-clev14.02F4	ああ、平気だ……気にしないでくれ。{n}行こう……。{wait}{clear}		
+clev14.02B8	クライヴ？{wait}{clear}大丈夫ですか？{wait}{clear}	Clive?{wait}{clear}Are you all right?{wait}{clear}	
+clev14.02E4	クライヴ	Clive	speaker
+clev14.02F4	ああ、平気だ……気にしないでくれ。{n}行こう……。{wait}{clear}	Yeah, I'm fine... don't worry about it.{n}Let's go...{wait}{clear}	
 clev14.0328	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0338	こんな陽差しの強い日ですから、{n}あまり無理はしない方が……。{wait}{clear}つらいのでしょう……？{wait}{clear}		
-clev14.0398	クライヴ		speaker
-clev14.03A8	うっ……{wait}{clear}		
+clev14.0338	こんな陽差しの強い日ですから、{n}あまり無理はしない方が……。{wait}{clear}つらいのでしょう……？{wait}{clear}	The sun is so strong today, you shouldn't{n}push yourself...{wait}{clear}It's hard for you, isn't it...?{wait}{clear}	
+clev14.0398	クライヴ	Clive	speaker
+clev14.03A8	うっ……{wait}{clear}	Ugh...{wait}{clear}	
 clev14.03B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.03C4	クライヴ！？{wait}{clear}		
-clev14.03F0	クライヴ		speaker
-clev14.0400	……すまない。{wait}{clear}		
+clev14.03C4	クライヴ！？{wait}{clear}	Clive?!{wait}{clear}	
+clev14.03F0	クライヴ	Clive	speaker
+clev14.0400	……すまない。{wait}{clear}	...Sorry.{wait}{clear}	
 clev14.0412	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0422	宿へ、戻りましょう、クライヴ……。{n}あなたに無理はさせられませんから……。{wait}{clear}		
+clev14.0422	宿へ、戻りましょう、クライヴ……。{n}あなたに無理はさせられませんから……。{wait}{clear}	Let's go back to the inn, Clive... I can't{n}let you push yourself...{wait}{clear}	
 clev14.048E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.049E	気分はどうですか？{wait}{clear}		
-clev14.04B4	クライヴ		speaker
-clev14.04C4	……ああ、もう平気だ。{wait}{clear}		
-clev14.04EC	クライヴ		speaker
-clev14.04FC	……情けないな……君を誘っておいて。{wait}{clear}		
+clev14.049E	気分はどうですか？{wait}{clear}	How are you feeling?{wait}{clear}	
+clev14.04B4	クライヴ	Clive	speaker
+clev14.04C4	……ああ、もう平気だ。{wait}{clear}	...Yeah, I'm fine now.{wait}{clear}	
+clev14.04EC	クライヴ	Clive	speaker
+clev14.04FC	……情けないな……君を誘っておいて。{wait}{clear}	...Pathetic... after I'm the one who asked{n}you out.{wait}{clear}	
 clev14.0524	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0534	いいです、そんなことは……。{wait}{clear}		
-clev14.0562	クライヴ		speaker
-clev14.0572	俺は……{wait}{clear}		
-clev14.0582	君に出会えたことを……感謝している……。{wait}{clear}		
+clev14.0534	いいです、そんなことは……。{wait}{clear}	It's all right, don't worry about that...{wait}{clear}	
+clev14.0562	クライヴ	Clive	speaker
+clev14.0572	俺は……{wait}{clear}	I...{wait}{clear}	
+clev14.0582	君に出会えたことを……感謝している……。{wait}{clear}	I'm grateful... that I met you...{wait}{clear}	
 clev14.05AE	ＮＵＬＬ	NULL	speaker
-clev14.05BE	《ありがとう……。》{n}		
-clev14.05DA	《私もうれしい……。》{n}		
+clev14.05BE	《ありがとう……。》{n}	Thank you...{n}	
+clev14.05DA	《私もうれしい……。》{n}	I'm happy too...{n}	
 clev14.0602	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0612	ありがとう。クライヴ{n}あなたにそう言ってもらえて、うれしいです。{wait}{clear}		
-clev14.0656	クライヴ		speaker
-clev14.0666	……長い時間、俺は死ぬことだけを考えていた……{n}この痛みから逃れるために。{wait}{clear}		
-clev14.06B8	今は……少しでも耐えられればと思っている。{wait}{clear}		
-clev14.06EA	君のそばいられたこの時間……{n}俺はずっと忘れない……。{wait}{clear}		
+clev14.0612	ありがとう。クライヴ{n}あなたにそう言ってもらえて、うれしいです。{wait}{clear}	Thank you. Clive, I'm happy to hear you say{n}that.{wait}{clear}	
+clev14.0656	クライヴ	Clive	speaker
+clev14.0666	……長い時間、俺は死ぬことだけを考えていた……{n}この痛みから逃れるために。{wait}{clear}	...For a long time, all I thought about was{n}dying... to escape this pain.{wait}{clear}	
+clev14.06B8	今は……少しでも耐えられればと思っている。{wait}{clear}	Now... I think I'd like to endure it, even a{n}little.{wait}{clear}	
+clev14.06EA	君のそばいられたこの時間……{n}俺はずっと忘れない……。{wait}{clear}	This time I've had by your side... I'll{n}never forget it...{wait}{clear}	
 clev14.0734	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-clev14.0744	ええ……{n}私もあなたに出会えたことをうれしく思っています。{wait}{clear}だから、あなたの苦しみを……{n}少しだけでも理解して、癒すことができたら……{wait}{clear}		
-clev14.07D0	クライヴ		speaker
-clev14.07E0	すまない……。{wait}{clear}		
-clev14.07F6	俺は……{n}君がいてくれたおかげで{n}怒りを忘れることを知った……。{wait}{clear}		
-clev14.083E	こんな気持ちは初めてだ……{wait}{clear}		
-clev14.0860	俺はこの時間を……{n}君といられる今を……大切に思っている……。{wait}{clear}		
+clev14.0744	ええ……{n}私もあなたに出会えたことをうれしく思っています。{wait}{clear}だから、あなたの苦しみを……{n}少しだけでも理解して、癒すことができたら……{wait}{clear}	Yes... I'm glad I met you too.{wait}{clear}That's why, if I could understand your pain,{n}even a little, and ease it...{wait}{clear}	
+clev14.07D0	クライヴ	Clive	speaker
+clev14.07E0	すまない……。{wait}{clear}	I'm sorry...{wait}{clear}	
+clev14.07F6	俺は……{n}君がいてくれたおかげで{n}怒りを忘れることを知った……。{wait}{clear}	Because you were here... I learned how to{n}forget my anger...{wait}{clear}	
+clev14.083E	こんな気持ちは初めてだ……{wait}{clear}	I've never felt like this before...{wait}{clear}	
+clev14.0860	俺はこの時間を……{n}君といられる今を……大切に思っている……。{wait}{clear}	This time... this moment I can spend with{n}you... it's precious to me...{wait}{clear}	

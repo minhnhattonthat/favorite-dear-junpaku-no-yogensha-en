@@ -38,7 +38,7 @@ Y03ev_01.04DE	そうでしょうか……。{n}でも、ありがとうござい
 Y03ev_01.053E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y03ev_01.054E	そうですか？　それなら、よかったです。{n}では、そろそろ帰りましょうか。{n}暗くなってしまいますからね。{wait}{clear}		
 Y03ev_01.05B6	シェリー	Shelly	speaker
-Y03ev_01.05C6	はい。{wait}{clear}		
+Y03ev_01.05C6	はい。{wait}{clear}	Yes.{wait}{clear}	
 Y03ev_01.05F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y03ev_01.0606	少しは元気になりましたか？{wait}{clear}		
 Y03ev_01.0624	シェリー	Shelly	speaker

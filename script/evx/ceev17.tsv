@@ -2,31 +2,31 @@ id	jp	en	notes
 ceev17.00A2	セシア	Cecia	unit name (32-byte field)
 ceev17.00DE	レイブンルフト劇		unit name (32-byte field)
 ceev17.011A	レイブンルフト椅子		unit name (32-byte field)
-ceev17.04D8	レイブンルフト		speaker
+ceev17.04D8	レイブンルフト	Ravenruft	speaker
 ceev17.04F5	ようこそ、我が城へ。{n}天使の勇者。		text
 ceev17.0536	セシア	Cecia	speaker
 ceev17.054B	ヴァスティール、ずいぶんと変わりましたね……。		text
-ceev17.0598	レイブンルフト		speaker
+ceev17.0598	レイブンルフト	Ravenruft	speaker
 ceev17.05B5	その名で私を呼ぶとは……。		text
 ceev17.05EE	セシア	Cecia	speaker
 ceev17.0603	私を忘れましたか？		text
-ceev17.0634	レイブンルフト		speaker
+ceev17.0634	レイブンルフト	Ravenruft	speaker
 ceev17.0651	いいや……忘れてはいない。{n}ディアナだ。		text
 ceev17.0698	セシア	Cecia	speaker
 ceev17.06AD	ヴァスティール……{n}あなたは真の勇気をもった強い人だった……。		text
 ceev17.070A	なぜ……今、そんな姿に……。		text
-ceev17.0745	レイブンルフト		speaker
+ceev17.0745	レイブンルフト	Ravenruft	speaker
 ceev17.0762	そんな名の男は何百年も前に死んだ……。		text
 ceev17.07A7	偉大な竜の血に逆らい、無様にな。		text
 ceev17.07E6	今、ここにいるのは{n}闇を司る死者の王、レイブンルフトだ。		text
 ceev17.083D	セシア	Cecia	speaker
 ceev17.0852	悪魔の血が、あなたを狂わせたのですね……。		text
-ceev17.089B	レイブンルフト		speaker
+ceev17.089B	レイブンルフト	Ravenruft	speaker
 ceev17.08B8	違う！　断じて違うぞ、ディアナ。		text
 ceev17.08F7	お前もサタンの様のご威光にふれればわかる。		text
 ceev17.0940	あの方の血はすべての痛みを{n}快楽に変えてくださる……。		text
 ceev17.0995	セシア	Cecia	speaker
 ceev17.09AA	今のあなたと語り合える{n}言葉を私はもっていない……。		text
-ceev17.09FD	レイブンルフト		speaker
+ceev17.09FD	レイブンルフト	Ravenruft	speaker
 ceev17.0A1A	そうだな、言葉では説明できん。{n}このすばらしさは……。		text
 ceev17.0A6F	お前もその体で知るがいい。		text

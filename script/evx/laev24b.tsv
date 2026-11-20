@@ -1,9 +1,9 @@
 id	jp	en	notes
 laev24b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
-laev24b.00A2	ロクス		unit name (32-byte field)
-laev24b.00DE	ベルゼバブ		unit name (32-byte field)
+laev24b.00A2	ロクス	Rocus	unit name (32-byte field)
+laev24b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 laev24b.011A	天竜		unit name (32-byte field)
-laev24b.04A8	レイラ		speaker
+laev24b.04A8	レイラ	Leyla	speaker
 laev24b.04BD	うっ…………		text
 laev24b.04E8	エンディミオン		speaker
 laev24b.0505	どうだ、わかったか？		text
@@ -48,25 +48,25 @@ laev24b.0F21	エンディミオン		speaker
 laev24b.0F3E	私の真の名を呼ぶとは……		text
 laev24b.0F75	男の声		speaker
 laev24b.0F8A	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
-laev24b.0FE1	ベルゼバブ		speaker
+laev24b.0FE1	ベルゼバブ	Beelzebub	speaker
 laev24b.0FFA	その声……この波動は！！		text
-laev24b.10C1	ミカエル		speaker
+laev24b.10C1	ミカエル	Michael	speaker
 laev24b.10D8	久しぶりだな、ハエの王。		text
-laev24b.110F	ベルゼバブ		speaker
+laev24b.110F	ベルゼバブ	Beelzebub	speaker
 laev24b.1128	ミカエル！　ラファエル！		text
-laev24b.115F	ミカエル		speaker
+laev24b.115F	ミカエル	Michael	speaker
 laev24b.1176	遅れてすまなかったな、＄＄＄＄＄＄。		text
-laev24b.11B9	ラファエル		speaker
+laev24b.11B9	ラファエル	Raphael	speaker
 laev24b.11D2	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
 laev24b.1235	そして、影にいる堕天使の存在の強大さも……。		text
-laev24b.1280	ミカエル		speaker
+laev24b.1280	ミカエル	Michael	speaker
 laev24b.1297	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
 laev24b.12F4	やつらを、ともに倒そう。		text
-laev24b.132B	ラファエル		speaker
+laev24b.132B	ラファエル	Raphael	speaker
 laev24b.1344	さあ、勇者よ、よみがえりなさい。		text
-laev24b.1417	レイラ		speaker
+laev24b.1417	レイラ	Leyla	speaker
 laev24b.142C	……この光は？		text
-laev24b.1459	ラファエル		speaker
+laev24b.1459	ラファエル	Raphael	speaker
 laev24b.1472	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
-laev24b.14C5	ベルゼバブ		speaker
+laev24b.14C5	ベルゼバブ	Beelzebub	speaker
 laev24b.14DE	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text

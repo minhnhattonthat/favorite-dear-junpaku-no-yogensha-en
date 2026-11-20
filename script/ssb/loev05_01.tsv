@@ -1,59 +1,59 @@
 id	jp	en	notes
-loev05_01.0046	ルディエール		speaker
+loev05_01.0046	ルディエール	Rudiere	speaker
 loev05_01.005A	なんだ、ついてきてたのか。{wait}{clear}		
 loev05_01.007C	この国は寒いな……おれには合わないよ。{wait}{clear}		
 loev05_01.00AA	さっそく会談か……。{n}皇帝に会いに行ってくるよ。{wait}{clear}		
 loev05_01.00E6	宰相		speaker
 loev05_01.00EE	レグランス王の特使ルディエール大公、{n}遠方からよくいらした。{wait}{clear}わが皇帝も南方からの友人の到着を{n}心待ちにしておりましたぞ。{wait}{clear}		
-loev05_01.018E	ルディエール		speaker
+loev05_01.018E	ルディエール	Rudiere	speaker
 loev05_01.019E	お会いできて光栄です。皇帝陛下。{wait}{clear}		
 loev05_01.01C2	エンディミオン		speaker
 loev05_01.01D4	余も会えてうれしい。{n}大公。{wait}{clear}		
 loev05_01.0212	宰相		speaker
 loev05_01.021A	いや、大公、わざわざいらして頂いて{n}申し訳ないが我が皇帝は非常に多忙でしてな。{wait}{clear}レグランス王からのお話というのはなんですかな？{n}できれば簡潔にお願いしたい。{wait}{clear}		
-loev05_01.02BC	ルディエール		speaker
+loev05_01.02BC	ルディエール	Rudiere	speaker
 loev05_01.02CC	はい、{n}国の代表として、陛下からお聞きしたいのは、{n}帝国の南進政策についてです。{wait}{clear}今、貴国の軍勢が起こしている南での紛争……{n}その今後の行方、意図をお聞かせ願いたい。{wait}{clear}		
 loev05_01.0378	エンディミオン		speaker
 loev05_01.038A	現在の政策は本来、我が帝国の領土だった地域を{n}取り戻すためのもの。{wait}{clear}南の新興国である貴国を脅威にさらすような{n}事象ではないと考えてもらいたい。{wait}{clear}		
 loev05_01.041E	宰相		speaker
 loev05_01.0426	その通りです。{wait}{clear}レグランス王のご心配はもっともだが{n}我が帝国と皇帝はそのような{n}意図はまったくもっておらぬ。{wait}{clear}新しい我が皇帝の威光は{n}聖なる始祖皇帝、紅月王にも勝るとも劣らないもの。{wait}{clear}諸侯のおびえもわからぬでもないが、{n}その慈悲の深さを信じてもらいたい。{wait}{clear}お若い大公、ご安心めされよ。{wait}{clear}		
-loev05_01.0570	ルディエール		speaker
+loev05_01.0570	ルディエール	Rudiere	speaker
 loev05_01.0580	…………。{wait}{clear}皇帝陛下、戦争で苦しむ民衆については{n}どうお考えですか。{wait}{clear}		
 loev05_01.05CA	エンディミオン		speaker
 loev05_01.05DC	為政者として、当然気にはかけている。{n}しかし、大儀にまさるようなことではない。{wait}{clear}		
-loev05_01.062E	ルディエール		speaker
+loev05_01.062E	ルディエール	Rudiere	speaker
 loev05_01.063E	…………。{wait}{clear}	.........{wait}{clear}	
 loev05_01.066E	宰相		speaker
 loev05_01.0676	さて、次の会談が迫っていましてな。{wait}{clear}申し訳ないがこの時間でおわらせて頂きたい。{wait}{clear}		
-loev05_01.06CA	ルディエール		speaker
-loev05_01.06DA	わかりました。{wait}{clear}		
+loev05_01.06CA	ルディエール	Rudiere	speaker
+loev05_01.06DA	わかりました。{wait}{clear}	All right.{wait}{clear}	
 loev05_01.06EC	宰相		speaker
 loev05_01.06F4	レグランス王には、{n}よくよく今のお話をお聞かせ願いたい。{n}あなたのご心配は無用だと。{wait}{clear}		
-loev05_01.074C	ルディエール		speaker
-loev05_01.075C	ええ。{wait}{clear}		
+loev05_01.074C	ルディエール	Rudiere	speaker
+loev05_01.075C	ええ。{wait}{clear}	Of course.{wait}{clear}	
 loev05_01.0766	宰相		speaker
 loev05_01.076E	はは、よろしくお願いしますぞ。{wait}{clear}これから、どうなさるのか？　大公。{wait}{clear}		
-loev05_01.07B6	ルディエール		speaker
+loev05_01.07B6	ルディエール	Rudiere	speaker
 loev05_01.07C6	もう、今日は遅いので{n}明日の朝早くに帝都を立つつもりです。{wait}{clear}		
 loev05_01.0804	宰相		speaker
 loev05_01.080C	そうですか。それは残念。{wait}{clear}いや、そんなにあせらず帰らなくとも、{n}大陸一美しいといわれるこの歴史ある帝都を{n}ゆっくり見て回ればよろしいのに。{wait}{clear}きっとお若いあなたの国にとって、{n}有益なことですぞ。{n}ハハハ……！{wait}{clear}		
-loev05_01.08FE	ルディエール		speaker
+loev05_01.08FE	ルディエール	Rudiere	speaker
 loev05_01.0912	いるのか？　＄＄＄＄＄＄？{wait}{clear}		
 loev05_01.0930	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev05_01.0940	はい。{wait}{clear}		
-loev05_01.0958	ルディエール		speaker
+loev05_01.0940	はい。{wait}{clear}	Yes.{wait}{clear}	
+loev05_01.0958	ルディエール	Rudiere	speaker
 loev05_01.096C	なんだ、あの宰相ってのは、いけすかねえな……。{wait}{clear}		
 loev05_01.09A2	……もう部屋にもどって寝るよ。{n}気分が悪い。{wait}{clear}		
 loev05_01.09D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.09E2	ルディ……。{wait}{clear}		
-loev05_01.0A00	ルディエール		speaker
+loev05_01.0A00	ルディエール	Rudiere	speaker
 loev05_01.0A14	明日は早く出て、国に戻る。{wait}{clear}		
 loev05_01.0A36	こんな国、とっとと出て行きたいからな。{wait}{clear}		
 loev05_01.0A60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.0A70	そうですね……。{n}今夜は部屋でゆっくり休んでくださいね……。{wait}{clear}		
-loev05_01.0AB0	ルディエール		speaker
+loev05_01.0AB0	ルディエール	Rudiere	speaker
 loev05_01.0AC0	ああ……そうする……。{n}この部屋で今夜はじっとしてるよ……。{wait}{clear}		
 loev05_01.0B00	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.0B10	ルディ、今は旅の疲れを癒してくださいね。{wait}{clear}		
-loev05_01.0B3C	ルディエール		speaker
+loev05_01.0B3C	ルディエール	Rudiere	speaker
 loev05_01.0B4C	ああ……。{wait}{clear}		

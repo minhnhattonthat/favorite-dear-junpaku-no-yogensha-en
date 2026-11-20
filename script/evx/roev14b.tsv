@@ -1,38 +1,38 @@
 id	jp	en	notes
 roev14b.0002	イオンの家(ロクス編)		dev label (guess: not shown)
-roev14b.00A2	ロクス		unit name (32-byte field)
+roev14b.00A2	ロクス	Rocus	unit name (32-byte field)
 roev14b.00DE	イオン	Ion	unit name (32-byte field)
-roev14b.011A	セレニス		unit name (32-byte field)
+roev14b.011A	セレニス	Serenis	unit name (32-byte field)
 roev14b.0156	イオンの母		unit name (32-byte field)
 roev14b.0192	死んだ母さん		unit name (32-byte field)
-roev14b.04AC	ロクス		speaker
+roev14b.04AC	ロクス	Rocus	speaker
 roev14b.04C1	もう、無駄な真似はやめるんだ……		text
 roev14b.0540	イオン	Ion	speaker
 roev14b.0555	う、うるさい……		text
-roev14b.05D0	セレニス		speaker
+roev14b.05D0	セレニス	Serenis	speaker
 roev14b.05E7	魔石をもらいに来たわ。{n}イオン。		text
 roev14b.062A	……ん？　誰だお前は。		text
-roev14b.06B3	ロクス		speaker
+roev14b.06B3	ロクス	Rocus	speaker
 roev14b.06C8	お前は……。		text
-roev14b.06E3	セレニス		speaker
+roev14b.06E3	セレニス	Serenis	speaker
 roev14b.06FA	その雰囲気……天使の勇者か。		text
-roev14b.0725	ロクス		speaker
+roev14b.0725	ロクス	Rocus	speaker
 roev14b.073A	この子をだましていたのは、お前か。		text
-roev14b.076B	セレニス		speaker
+roev14b.076B	セレニス	Serenis	speaker
 roev14b.0782	だましてなどいない。{n}私は約束を果たすわ。		text
 roev14b.07BB	さあ、イオン{n}お母さんを元気にしてあげるわ。		text
 roev14b.07F6	だから、聖母の持っていた魔石を渡しなさい。		text
 roev14b.0887	イオン	Ion	speaker
 roev14b.089C	ああ……。		text
-roev14b.093D	セレニス		speaker
+roev14b.093D	セレニス	Serenis	speaker
 roev14b.0954	ありがとう。確かに魔石だわ。		text
 roev14b.097F	イオン	Ion	speaker
 roev14b.0994	さあ、かあさんを……もとに戻して……。		text
-roev14b.09C9	セレニス		speaker
+roev14b.09C9	セレニス	Serenis	speaker
 roev14b.09E0	ええ、いいわ。見ていなさい。		text
 roev14b.0B3B	イオン	Ion	speaker
 roev14b.0B50	母さん……。		text
-roev14b.0BBB	ロクス		speaker
+roev14b.0BBB	ロクス	Rocus	speaker
 roev14b.0BD0	近づくな……イオン！{n}そのお母さんはちがう！		text
 roev14b.0C0B	母親		speaker
 roev14b.0C1E	…………。		text
@@ -40,24 +40,24 @@ roev14b.0C37	イオン	Ion	speaker
 roev14b.0C4C	母さん……？		text
 roev14b.0CB7	イオン	Ion	speaker
 roev14b.0CCC	違う……母さん……じゃない……！		text
-roev14b.0D73	セレニス		speaker
+roev14b.0D73	セレニス	Serenis	speaker
 roev14b.0D8A	フフ……しかたがないわね……。{n}あなたもお母さんのところへお行きなさい、イオン。		text
 roev14b.0E55	イオン	Ion	speaker
 roev14b.0E6A	うあっ……！		text
-roev14b.0E85	ロクス		speaker
+roev14b.0E85	ロクス	Rocus	speaker
 roev14b.0E9A	イオン……！		text
-roev14b.0F05	ロクス		speaker
+roev14b.0F05	ロクス	Rocus	speaker
 roev14b.0F1A	魔女め！　なんて事を！		text
-roev14b.0F3F	セレニス		speaker
+roev14b.0F3F	セレニス	Serenis	speaker
 roev14b.0F56	ハハハハ。		text
-roev14b.0F8F	ロクス		speaker
+roev14b.0F8F	ロクス	Rocus	speaker
 roev14b.0FA4	貴様……っ！		text
-roev14b.0FBF	セレニス		speaker
+roev14b.0FBF	セレニス	Serenis	speaker
 roev14b.0FD6	魔石を手に入れた今、ここに用などないわ。		text
-roev14b.1055	ロクス		speaker
+roev14b.1055	ロクス	Rocus	speaker
 roev14b.106A	くっ！		text
 roev14b.10A3	イオン……僕の力で助けてやるから……。		text
 roev14b.10D8	イオン	Ion	speaker
 roev14b.10ED	いいよ……お兄ちゃん……。{n}僕は……お母さんのところへ……行くよ……。		text
-roev14b.1142	ロクス		speaker
+roev14b.1142	ロクス	Rocus	speaker
 roev14b.1157	イオン……イオンっ！		text

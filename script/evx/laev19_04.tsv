@@ -1,21 +1,21 @@
 id	jp	en	notes
 laev19_04.0002	1		dev label (guess: not shown)
-laev19_04.00A2	レイラ		unit name (32-byte field)
+laev19_04.00A2	レイラ	Leyla	unit name (32-byte field)
 laev19_04.00DE	ルディ		unit name (32-byte field)
-laev19_04.0530	ルディエール		speaker
+laev19_04.0530	ルディエール	Rudiere	speaker
 laev19_04.054B	あ……あの！		text
-laev19_04.0566	レイラ		speaker
+laev19_04.0566	レイラ	Leyla	speaker
 laev19_04.057B	あなたは、レグランスの……？		text
-laev19_04.05A6	ルディエール		speaker
+laev19_04.05A6	ルディエール	Rudiere	speaker
 laev19_04.05C1	はい、ルディエールです。		text
 laev19_04.05E8	あの……すみませんでした！{n}おれ、ひどいことを言ってしまって……。		text
-laev19_04.0639	レイラ		speaker
+laev19_04.0639	レイラ	Leyla	speaker
 laev19_04.064E	別に気にしていないわ。{n}あなたの言ったことは当然のことだから。		text
 laev19_04.069B	私の国は変わってしまった。{n}なのに、私にはなにもできなかった……。		text
-laev19_04.06EC	ルディエール		speaker
+laev19_04.06EC	ルディエール	Rudiere	speaker
 laev19_04.0707	それは違う！{n}あなたは、一人でも戦い続けたじゃないか！{n}おれ……立派だと思う……。		text
-laev19_04.0768	レイラ		speaker
+laev19_04.0768	レイラ	Leyla	speaker
 laev19_04.077D	…………。		text
 laev19_04.0796	ありがとう……。		text
-laev19_04.07B5	ルディエール		speaker
+laev19_04.07B5	ルディエール	Rudiere	speaker
 laev19_04.07D0	…………。		text

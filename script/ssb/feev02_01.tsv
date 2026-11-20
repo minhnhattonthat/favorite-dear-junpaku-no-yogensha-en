@@ -1,51 +1,51 @@
 id	jp	en	notes
-feev02_01.0056	フェイン		speaker
+feev02_01.0056	フェイン	Fein	speaker
 feev02_01.0062	いるのか？　＄＄＄＄＄＄。{wait}{clear}		
 feev02_01.0080	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.0090	はい。{n}ここにいますけど、なんですか？{wait}{clear}		
-feev02_01.00BA	フェイン		speaker
+feev02_01.00BA	フェイン	Fein	speaker
 feev02_01.00C6	この近くにギルドのロッジがある。{n}少し寄りたいのだが、かまわないか？{wait}{clear}		
 feev02_01.010E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.011E	ええ、いいですけど……{n}あの、フェイン、私もついていっていいですか？{wait}{clear}		
-feev02_01.0172	フェイン		speaker
+feev02_01.0172	フェイン	Fein	speaker
 feev02_01.017E	あ、ああ……。{n}君は俺以外には見えないのだったな？{wait}{clear}		
 feev02_01.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.01C4	ええ、そうです。{wait}{clear}私が相手に姿を見せようと思わなければ、{n}ふつうの人には見えませんし、{n}私の気配を感じることもできません。{wait}{clear}		
-feev02_01.0244	フェイン		speaker
+feev02_01.0244	フェイン	Fein	speaker
 feev02_01.0250	それならば、かまわないか……。{wait}{clear}まあ、ついてくるなと言っても、{n}君のことだ、こっそり一緒に来そうだしな。{wait}{clear}		
 feev02_01.02BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.02CE	ええ……そう、ですね……。{wait}{clear}		
-feev02_01.02F8	フェイン		speaker
+feev02_01.02F8	フェイン	Fein	speaker
 feev02_01.0304	やっぱり、正直だな、君は……。{n}じゃあ、行こうか。{wait}{clear}		
-feev02_01.0368	フェイン		speaker
+feev02_01.0368	フェイン	Fein	speaker
 feev02_01.0374	俺が死んだという噂か……。{n}さすがに、ギルドの情報は早いな。{wait}{clear}		
 feev02_01.03B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.03C4	あの、フェイン、今の方は？{wait}{clear}		
-feev02_01.03E2	フェイン		speaker
+feev02_01.03E2	フェイン	Fein	speaker
 feev02_01.03EE	ああ、彼はこの地方のギルド・マスターだ。{n}六王国のロッジは、どこも高名な魔導士が{n}マスターをつとめている。{wait}{clear}自分の師匠と親しかった人も多いのでな。{n}近くに来たときにはできるだけ寄るようにしている。{wait}{clear}		
 feev02_01.04B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.04C8	そうなのですか……。{wait}{clear}		
-feev02_01.04E0	フェイン		speaker
+feev02_01.04E0	フェイン	Fein	speaker
 feev02_01.04EC	どうも、君に助けられたあの一件が{n}噂になっているようだな。{wait}{clear}六王国にいるうちは{n}ギルドに寄ることが多くなりそうだが、{n}許してもらえるか？{wait}{clear}		
 feev02_01.057A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.058A	ええ、もちろんです。{wait}{clear}		
-feev02_01.05A2	フェイン		speaker
+feev02_01.05A2	フェイン	Fein	speaker
 feev02_01.05AE	悪いな……。{n}じゃあ、先を急ごう……。{wait}{clear}		
 feev02_01.060A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.061A	あの、フェイン、聞いてもいいですか？{wait}{clear}		
-feev02_01.0642	フェイン		speaker
+feev02_01.0642	フェイン	Fein	speaker
 feev02_01.064E	ああ、なんだ？{wait}{clear}		
 feev02_01.0660	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.0670	ギルドとはなんですか？{wait}{clear}		
-feev02_01.068A	フェイン		speaker
+feev02_01.068A	フェイン	Fein	speaker
 feev02_01.0696	そんなことか……。{wait}{clear}ギルドというのは魔導士たちの協会のことで、{n}おなじ能力を持つ者同士が助け合うためにある。{wait}{clear}自分の師も、俺も、ギルドの一員だ。{n}魔導士たちは国家や地域に関わりなく、{n}ギルドによって強く結びついている。{wait}{clear}		
 feev02_01.0778	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.0788	どうして、ギルドができたのですか？{wait}{clear}		
-feev02_01.07AE	フェイン		speaker
+feev02_01.07AE	フェイン	Fein	speaker
 feev02_01.07BA	それは……{n}ふつうの人間たちは魔導士を忌み嫌っているからだ。{wait}{clear}魔導士は歴史の中で、なんども迫害を受けた。{n}その力を誤解されて……。{wait}{clear}そのために昔の魔導士たちがギルドを作ったのだ。{n}どこにいても、自分たちの身を守れるようにと……。{wait}{clear}		
 feev02_01.08A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.08B6	そうだったのですね……。{wait}{clear}		
-feev02_01.08D2	フェイン		speaker
+feev02_01.08D2	フェイン	Fein	speaker
 feev02_01.08DE	ところで、君は本当に{n}この世界のことを知らないようだな……。{wait}{clear}また、他にも聞きたいことがあったら聞いてくれ。{n}俺が答えられることなら答えよう。{wait}{clear}		
 feev02_01.0972	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.0982	はい、ありがとうございます。{wait}{clear}		

@@ -1,70 +1,70 @@
 id	jp	en	notes
-roev02.0068	ロクス		speaker
+roev02.0068	ロクス	Rocus	speaker
 roev02.0072	ん？　君か……。{wait}{clear}今から、遊びに行こうと思っているのですが、{n}一緒にいきませんか？{wait}{clear}		
 roev02.00CA	ＮＵＬＬ	NULL	speaker
 roev02.00DA	《はい、行きます。》{n}		
 roev02.00F6	《すみませんが……。》{n}		
 roev02.0118	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0128	すみませんが、時間がなくて{n}おつき合いできません。{wait}{clear}		
-roev02.015E	ロクス		speaker
+roev02.015E	ロクス	Rocus	speaker
 roev02.0168	そうですか……{n}まあ、無理強いはしませんが……。{wait}{clear}では、失礼しますよ、天使様。{wait}{clear}		
 roev02.01CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.01DC	はい、おつき合いします。{n}でも、どこへ行くのですか？{wait}{clear}		
-roev02.0222	ロクス		speaker
+roev02.0222	ロクス	Rocus	speaker
 roev02.022C	楽しいところですよ、きっと天使様にも。{n}さあ、行きましょう。{wait}{clear}		
-roev02.028E	ロクス		speaker
+roev02.028E	ロクス	Rocus	speaker
 roev02.0298	ははは、やめろよ……{n}僕はもう、これ以上飲めないよ。{wait}{clear}		
 roev02.02D0	酒場の女達		speaker
 roev02.02DE	いつものロクスさまなら、そんなこと言わないわ。{n}ほら、いいじゃない、もっと飲んで。{wait}{clear}		
 roev02.0334	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0344	…………。{wait}{clear}	.........{wait}{clear}	
-roev02.035A	ロクス		speaker
+roev02.035A	ロクス	Rocus	speaker
 roev02.0364	勘弁してくれ、今日は大事な人と来たんだ。{wait}{clear}		
 roev02.0390	酒場の女達		speaker
 roev02.039E	ええっ、だあれ？{n}まさか、ロクスさまの彼女？{wait}{clear}		
-roev02.03CE	ロクス		speaker
+roev02.03CE	ロクス	Rocus	speaker
 roev02.03D8	違うよ。でも、女の人だ。{n}ほら、そこにいる彼女さ、一緒に旅をしている……。{wait}{clear}		
-roev02.042A	ロクス		speaker
+roev02.042A	ロクス	Rocus	speaker
 roev02.0434	勘弁してくれ、今日は一人じゃないんだ。{wait}{clear}		
 roev02.045E	酒場の女達		speaker
 roev02.046C	ええっ、誰と来たの？{n}まさか、ロクスさまの彼女？{wait}{clear}		
-roev02.04A0	ロクス		speaker
+roev02.04A0	ロクス	Rocus	speaker
 roev02.04AA	違うよ。{n}そこにいる彼さ、一緒に旅をしている……{wait}{clear}		
 roev02.04DE	酒場の女達		speaker
 roev02.04EC	えー、どこー？{wait}{clear}		
-roev02.04FE	ロクス		speaker
+roev02.04FE	ロクス	Rocus	speaker
 roev02.0508	……あれ？{n}もしかして、天使ってフツーの人には見えないのか？{wait}{clear}		
 roev02.0548	酒場の女達		speaker
 roev02.0556	嫌ね、誰もいないじゃない。{n}まーた、ここに来る前に飲んでたんでしょ？{wait}{clear}他の店で飲めて、{n}ここで私たちと飲めない理由はないわよね。{wait}{clear}		
-roev02.05DC	ロクス		speaker
+roev02.05DC	ロクス	Rocus	speaker
 roev02.05E6	……ま、いいか。{wait}{clear}よし、もっと持ってきてくれ。{n}飲もう。みんな！{wait}{clear}		
 roev02.062C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.063C	ふう……{n}困った人のようですね……彼は……。{wait}{clear}ほうっておいて先に帰りましょう……。{wait}{clear}		
-roev02.06B0	ロクス		speaker
+roev02.06B0	ロクス	Rocus	speaker
 roev02.06BA	天使様……いるんですか？{wait}{clear}		
 roev02.06D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.06E6	はい、なんですか？{wait}{clear}		
-roev02.06FC	ロクス		speaker
+roev02.06FC	ロクス	Rocus	speaker
 roev02.0706	なぜ、帰ってしまったのです？{wait}{clear}ひょっとして{n}天使様には刺激が強すぎたのですか？{wait}{clear}		
 roev02.075A	ＮＵＬＬ	NULL	speaker
 roev02.076A	《…………。》{n}		
 roev02.0780	《羽目をはずしすぎるのも……》{n}		
 roev02.07AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.07BA	…………。{wait}{clear}	.........{wait}{clear}	
-roev02.07D6	ロクス		speaker
+roev02.07D6	ロクス	Rocus	speaker
 roev02.07E0	おっと、失礼。{n}怒っているのですか？{wait}{clear}		
 roev02.0808	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0818	いいえ、少しあきれてしまっただけです。{wait}{clear}		
-roev02.0850	ロクス		speaker
+roev02.0850	ロクス	Rocus	speaker
 roev02.085A	ははは、手厳しいですね。{n}だが、僕はこんな男なんですよ。{wait}{clear}		
 roev02.08A2	もし、それが気にくわないのなら、{n}二度と僕にかまわないでくださいね。{wait}{clear}じゃあ、もう眠いので。{wait}{clear}また、来たかったら来てください。{n}お休みなさい。{wait}{clear}		
 roev02.0942	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0952	羽目をはずしすぎるのは{n}あまりよくないと思いますよ。{wait}{clear}		
-roev02.0998	ロクス		speaker
+roev02.0998	ロクス	Rocus	speaker
 roev02.09A2	ははは、真面目なんですね。{wait}{clear}		
 roev02.09CC	あれぐらいのことでなんですか？{n}短い人生なんですから、楽しまないと損でしょう？{wait}{clear}		
 roev02.0A2A	まあ、僕のことが気にくわないのならしかたがない。{n}僕があなたに合わせるつもりはないですから。{wait}{clear}では、用があったらまた来てください。{n}お休みなさい。{wait}{clear}		
-roev02.0ACC	ロクス		speaker
+roev02.0ACC	ロクス	Rocus	speaker
 roev02.0AD6	あ、天使様でしたか。{n}今から、ちょっと出かけてきます。{wait}{clear}なにかお話があるのでしたら、{n}また、明日にしてください。{wait}{clear}		
 roev02.0B52	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0B62	あ！　ロクス……！{n}ふう……行ってしまいましたね……。{wait}{clear}		
@@ -75,11 +75,11 @@ roev02.0BEA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0BFA	どこへ行くのか気になります……。{n}ついて行ってみましょう。{wait}{clear}		
 roev02.0C5A	酒場の女達		speaker
 roev02.0C68	私たち、ずっと待っていたのよ、{n}どうしてしばらく来てくれなかったのぉ？{wait}{clear}		
-roev02.0CB2	ロクス		speaker
+roev02.0CB2	ロクス	Rocus	speaker
 roev02.0CBC	ん、ああ、ちょっと忙しかったんだ。{n}今夜は楽しもう。{wait}{clear}		
 roev02.0CF4	酒場の女達		speaker
 roev02.0D02	ほんと？{wait}{clear}じゃあ、ロクスさまぁ、もっと飲みましょう？{wait}{clear}		
-roev02.0D3C	ロクス		speaker
+roev02.0D3C	ロクス	Rocus	speaker
 roev02.0D46	ああ、もっと持ってきてくれ！{n}みんな、僕のおごりだ、楽しんでくれ！{wait}{clear}		
 roev02.0D8C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.0D9C	ロクス……大丈夫でしょうか……。{wait}{clear}		

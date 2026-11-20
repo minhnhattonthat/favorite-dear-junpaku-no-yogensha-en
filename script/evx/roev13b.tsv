@@ -1,16 +1,16 @@
 id	jp	en	notes
 roev13b.0002	ヴァイパーの罠		dev label (guess: not shown)
-roev13b.00A2	クラレンス		unit name (32-byte field)
-roev13b.00DE	ロクス		unit name (32-byte field)
-roev13b.04A8	クラレンス		speaker
+roev13b.00A2	クラレンス	Clarence	unit name (32-byte field)
+roev13b.00DE	ロクス	Rocus	unit name (32-byte field)
+roev13b.04A8	クラレンス	Clarence	speaker
 roev13b.04C1	どうした？{n}取りに来いよ。		text
-roev13b.054A	クラレンス		speaker
+roev13b.054A	クラレンス	Clarence	speaker
 roev13b.0563	ちっ……。		text
-roev13b.0598	ロクス		speaker
+roev13b.0598	ロクス	Rocus	speaker
 roev13b.05AD	僕に渡せ、ヴァイパー！		text
-roev13b.0632	クラレンス		speaker
+roev13b.0632	クラレンス	Clarence	speaker
 roev13b.064B	それはできねえ……。{n}気が変わった。		text
-roev13b.06F2	クラレンス		speaker
+roev13b.06F2	クラレンス	Clarence	speaker
 roev13b.070B	暴力ありで行こう。		text
-roev13b.078C	クラレンス		speaker
+roev13b.078C	クラレンス	Clarence	speaker
 roev13b.07A5	いくぜ！		text

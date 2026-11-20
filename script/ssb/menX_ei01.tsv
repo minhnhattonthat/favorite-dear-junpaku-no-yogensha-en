@@ -1,11 +1,11 @@
 id	jp	en	notes
-menX_ei01.005E	アイリーン		speaker
+menX_ei01.005E	アイリーン	Irene	speaker
 menX_ei01.006C	誰にも会いたくないの……帰って……。{wait}{clear}		
-menX_ei01.0098	アイリーン		speaker
+menX_ei01.0098	アイリーン	Irene	speaker
 menX_ei01.00A6	誰にも会いたくないの……帰って……。{wait}{clear}		
-menX_ei01.00DA	アイリーン		speaker
+menX_ei01.00DA	アイリーン	Irene	speaker
 menX_ei01.00E8	誰にも会いたくないって、言ってるでしょ！{n}来ないでよ！{wait}{clear}		
-menX_ei01.0126	アイリーン		speaker
+menX_ei01.0126	アイリーン	Irene	speaker
 menX_ei01.0134	＄＄＄＄＄＄……{n}お願いだから、ひとりにして……。{wait}{clear}		
 menX_ei01.0174	ＮＵＬＬ	NULL	speaker
 menX_ei01.0180	アイリーンに同行しますか？{n}		

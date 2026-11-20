@@ -1,22 +1,22 @@
 id	jp	en	notes
-men3_Ro03.005C	ロクス		speaker
+men3_Ro03.005C	ロクス	Rocus	speaker
 men3_Ro03.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
 men3_Ro03.00A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro03.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
-men3_Ro03.00D8	ロクス		speaker
+men3_Ro03.00D8	ロクス	Rocus	speaker
 men3_Ro03.00E2	いや、べつになにもないよ。{n}ただ、この年代物のワインを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
 men3_Ro03.014A	ＮＵＬＬ	NULL	speaker
 men3_Ro03.015A	《ありがとうございます。》{n}		
 men3_Ro03.017C	《戒律があるので……。》{n}		
 men3_Ro03.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro03.01AC	ありがとうございます。{n}でも、このワインはどこで？{wait}{clear}		
-men3_Ro03.01EE	ロクス		speaker
+men3_Ro03.01EE	ロクス	Rocus	speaker
 men3_Ro03.01F8	ああ、これはエクレシアでは{n}ごくふつうに飲まれているものだ。{n}味もなかなかいいしな。{wait}{clear}どうだ？　少しはなにかの役に立ちそうか？{wait}{clear}		
 men3_Ro03.027C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro03.028C	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
 men3_Ro03.02C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro03.02D6	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Ro03.0346	ロクス		speaker
+men3_Ro03.0346	ロクス	Rocus	speaker
 men3_Ro03.0350	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
 men3_Ro03.0382	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro03.0392	本当にすみません……。{wait}{clear}		

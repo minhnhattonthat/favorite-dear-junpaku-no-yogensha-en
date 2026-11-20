@@ -1,11 +1,11 @@
 id	jp	en	notes
 ceev23b.0002	クラレンス戦		dev label (guess: not shown)
 ceev23b.00A2	セシア	Cecia	unit name (32-byte field)
-ceev23b.00DE	クラレンス		unit name (32-byte field)
-ceev23b.0498	クラレンス		speaker
+ceev23b.00DE	クラレンス	Clarence	unit name (32-byte field)
+ceev23b.0498	クラレンス	Clarence	speaker
 ceev23b.04B1	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
 ceev23b.0506	セシア	Cecia	speaker
 ceev23b.051B	今度も逃げますか？{n}それとも戦うのですか？		text
-ceev23b.0554	クラレンス		speaker
+ceev23b.0554	クラレンス	Clarence	speaker
 ceev23b.056D	フン、逃げやしねえよ。		text
 ceev23b.0592	お嬢さんに俺の最後の楽しみを{n}邪魔させるわけにはいかねえからな。		text

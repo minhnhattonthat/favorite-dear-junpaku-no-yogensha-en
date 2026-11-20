@@ -181,17 +181,17 @@ BTL_EVT6.14DFS	ティタン		speaker
 BTL_EVT6.14E8	に、二度とくるな！！		
 BTL_EVT6.1500S	ティタン		speaker
 BTL_EVT6.1509	に、二度とくるな！！		
-BTL_EVT6.1569S	クラレンス		speaker
+BTL_EVT6.1569S	クラレンス	Clarence	speaker
 BTL_EVT6.1574	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
 BTL_EVT6.15AES	セシア	Cecia	speaker
 BTL_EVT6.15B5	なぜそんなにこの世界を恨んでいるの？		
-BTL_EVT6.15DDS	クラレンス		speaker
+BTL_EVT6.15DDS	クラレンス	Clarence	speaker
 BTL_EVT6.15E8	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。		
 BTL_EVT6.161ES	セシア	Cecia	speaker
 BTL_EVT6.1625	どうして……そんな……。		
-BTL_EVT6.1641S	クラレンス		speaker
+BTL_EVT6.1641S	クラレンス	Clarence	speaker
 BTL_EVT6.164C	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
-BTL_EVT6.168ES	クラレンス		speaker
+BTL_EVT6.168ES	クラレンス	Clarence	speaker
 BTL_EVT6.1699	ははは！　いい様だぜ！		
 BTL_EVT6.16FBS	セシア	Cecia	speaker
 BTL_EVT6.1702	こんなひどいことをして……許せない……。		
@@ -695,31 +695,31 @@ BTL_EVT6.51BAS	帝国兵		speaker
 BTL_EVT6.51C1	帝国バンザイ！！		
 BTL_EVT6.51D5S	帝国兵		speaker
 BTL_EVT6.51DC	帝国バンザイ！！		
-BTL_EVT6.5280S	レイブンルフト		speaker
+BTL_EVT6.5280S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.528F	さすがだ、聖ディアナと呼ばれるだけのことはある。		
-BTL_EVT6.52C3S	レイブンルフト		speaker
+BTL_EVT6.52C3S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.52D2	私も本気を出させてもらおう。		
-BTL_EVT6.52F2S	レイブンルフト		speaker
+BTL_EVT6.52F2S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.5301	ウォオオオオオオ！！！		
-BTL_EVT6.531BS	レイブンルフト		speaker
+BTL_EVT6.531BS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.532A	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT6.5358S	レイブンルフト		speaker
+BTL_EVT6.5358S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.5367	この勇者はお前が殺したのだぞ！！		
-BTL_EVT6.538BS	レイブンルフト		speaker
+BTL_EVT6.538BS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.539A	フハハハハ！！		
-BTL_EVT6.53ACS	レイブンルフト		speaker
+BTL_EVT6.53ACS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.53BB	……なにが天使の勇者だ。		
-BTL_EVT6.53D7S	レイブンルフト		speaker
+BTL_EVT6.53D7S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.53E6	無様な敗北者が……。		
-BTL_EVT6.5422S	レイブンルフト		speaker
+BTL_EVT6.5422S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.5431	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT6.545FS	レイブンルフト		speaker
+BTL_EVT6.545FS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.546E	この勇者はお前が殺したのだぞ！！		
-BTL_EVT6.5492S	レイブンルフト		speaker
+BTL_EVT6.5492S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.54A1	フハハハハ！！		
-BTL_EVT6.54B3S	レイブンルフト		speaker
+BTL_EVT6.54B3S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.54C2	……なにが天使の勇者だ。		
-BTL_EVT6.54DES	レイブンルフト		speaker
+BTL_EVT6.54DES	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.54ED	無様な敗北者が……。		
 BTL_EVT6.5571S	セシア	Cecia	speaker
 BTL_EVT6.5578	利用されて……可哀想……。		
@@ -755,9 +755,9 @@ BTL_EVT6.5990S	ラルヴァ		speaker
 BTL_EVT6.5999	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
 BTL_EVT6.59F5S	ラルヴァ		speaker
 BTL_EVT6.59FE	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
-BTL_EVT6.5A86S	セレニス		speaker
+BTL_EVT6.5A86S	セレニス	Serenis	speaker
 BTL_EVT6.5A8F	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
-BTL_EVT6.5AC5S	セレニス		speaker
+BTL_EVT6.5AC5S	セレニス	Serenis	speaker
 BTL_EVT6.5ACE	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
 BTL_EVT6.5BB8S	王の女		speaker
 BTL_EVT6.5BBF	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
@@ -781,9 +781,9 @@ BTL_EVT6.5E25S	ノスフェラトゥ		speaker
 BTL_EVT6.5E34	逃げていきおったわ！		
 BTL_EVT6.5EB8S	セシア	Cecia	speaker
 BTL_EVT6.5EBF	…………。{wait}{clear}こんなことって……。		
-BTL_EVT6.5EE5S	クライヴ		speaker
+BTL_EVT6.5EE5S	クライヴ	Clive	speaker
 BTL_EVT6.5EEE	…………。		
-BTL_EVT6.5EFCS	クライヴ		speaker
+BTL_EVT6.5EFCS	クライヴ	Clive	speaker
 BTL_EVT6.5F05	…………。		
 BTL_EVT6.5F5BS	セシア	Cecia	speaker
 BTL_EVT6.5F62	これじゃ、いくら戦ってもキリが……。		
@@ -833,29 +833,29 @@ BTL_EVT6.640DS	モラクス		speaker
 BTL_EVT6.6416	ふははは！　出直してこい！		
 BTL_EVT6.6434S	モラクス		speaker
 BTL_EVT6.643D	勇者とは、あんなものか！{n}ふははははは……！		
-BTL_EVT6.6491S	レイブンルフト		speaker
+BTL_EVT6.6491S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.64A0	ようこそ、我が城へ。{n}天使の勇者。		
-BTL_EVT6.64C6S	レイラ		speaker
+BTL_EVT6.64C6S	レイラ	Leyla	speaker
 BTL_EVT6.64CD	レイブンルフト……。		
-BTL_EVT6.64E5S	レイブンルフト		speaker
+BTL_EVT6.64E5S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.64F4	娘よ、死を怖れぬことは美徳ではないぞ。		
-BTL_EVT6.651ES	レイラ		speaker
+BTL_EVT6.651ES	レイラ	Leyla	speaker
 BTL_EVT6.6525	あなたの言葉など、聞こえません！		
-BTL_EVT6.6549S	レイブンルフト		speaker
+BTL_EVT6.6549S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.6558	ハハハ、声がふるえているぞ。{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。		
-BTL_EVT6.65B8S	レイブンルフト		speaker
+BTL_EVT6.65B8S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.65C7	なかなかの力だ……。		
-BTL_EVT6.65DFS	レイブンルフト		speaker
+BTL_EVT6.65DFS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.65EE	だが、私の力はこんなものではないぞ……		
-BTL_EVT6.6618S	レイブンルフト		speaker
+BTL_EVT6.6618S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.6627	ウォオオオオオオ！！！		
-BTL_EVT6.6641S	レイブンルフト		speaker
+BTL_EVT6.6641S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.6650	天使よ、これでわかったか、おのれの偽善を！		
-BTL_EVT6.667ES	レイブンルフト		speaker
+BTL_EVT6.667ES	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.668D	この勇者はお前が殺したのだぞ！！		
-BTL_EVT6.66B1S	レイブンルフト		speaker
+BTL_EVT6.66B1S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.66C0	フハハハハ！！		
-BTL_EVT6.66D2S	レイブンルフト		speaker
+BTL_EVT6.66D2S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.66E1	……なにが天使の勇者だ。		
-BTL_EVT6.66FDS	レイブンルフト		speaker
+BTL_EVT6.66FDS	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.670C	無様な敗北者が……。		

@@ -1,26 +1,26 @@
 id	jp	en	notes
 feev02_01.0002	ギルド１		dev label (guess: not shown)
-feev02_01.00A2	フェイン		unit name (32-byte field)
+feev02_01.00A2	フェイン	Fein	unit name (32-byte field)
 feev02_01.00DE	ウィザード		unit name (32-byte field)
 feev02_01.011A	モブ１		unit name (32-byte field)
 feev02_01.0156	モブ２		unit name (32-byte field)
-feev02_01.04D8	フェイン		speaker
+feev02_01.04D8	フェイン	Fein	speaker
 feev02_01.04EF	お久しぶりです、マスター・レイジハー。{n}近くにきたので寄らせてもらいました。		text
 feev02_01.054A	レイジハー		speaker
 feev02_01.0563	フェインか……無事だったのだな。		text
 feev02_01.0592	君についての悪い噂を聞いていたので{n}心配していたのだ。		text
-feev02_01.05D7	フェイン		speaker
+feev02_01.05D7	フェイン	Fein	speaker
 feev02_01.05EE	自分についての悪い噂？{n}いったいどんな話が？		text
 feev02_01.0629	レイジハ－		speaker
 feev02_01.0642	ああ……。{n}裏切り者の手にかかり殺されたという話だ。		text
 feev02_01.0685	素性のわからぬウォーロックたちが{n}近頃、暗躍しているのは事実だからな。		text
 feev02_01.06DA	それで、もしやと思っていたのだが、{n}噂がうそでよかった……。		text
-feev02_01.0725	フェイン		speaker
+feev02_01.0725	フェイン	Fein	speaker
 feev02_01.073C	いえ……{n}その噂はすべてがうそではありません。{n}自分が黒衣の魔導士たちに襲われたのは事実です。		text
 feev02_01.07A9	幸運が重ならなければ、{n}噂通りに自分は死んでいたでしょう。		text
 feev02_01.07F2	レイジハー		speaker
 feev02_01.080B	そうだったのか……。{n}それで、そのウォーロックたちは{n}何者かわかったのか？		text
-feev02_01.0864	フェイン		speaker
+feev02_01.0864	フェイン	Fein	speaker
 feev02_01.087B	いいえ、はっきりしたことは……。{n}ただ、自分の考えでは帝国の手の者かと……。		text
 feev02_01.08D6	自分がグローサイン帝国へ向かうことを知って{n}襲ってきたのではないかと考えています……。		text
 feev02_01.093B	レイジハー		speaker
@@ -28,9 +28,9 @@ feev02_01.0954	帝国に魔導士が残っていたとは……。{n}これは�
 feev02_01.09B1	君が生きていたのは吉報だが{n}帝国にかしずく魔導士の存在は、きわめて悪い話だ。		text
 feev02_01.0A0C	いずれ、ギルドマスターが集まって、{n}協議せねばなるまいな……。		text
 feev02_01.0A59	そうだ、フェイン、老師も君のことを心配していた。{n}バーゼルへ行ったらグランドロッジへ寄るといい。		text
-feev02_01.0AC8	フェイン		speaker
+feev02_01.0AC8	フェイン	Fein	speaker
 feev02_01.0ADF	はい、わかりました。		text
 feev02_01.0B02	レイジハー		speaker
 feev02_01.0B1B	貴重な情報をすまんな。{n}ただ、これからなにが起こるかわからん。{n}気をつけるのだぞ。		text
-feev02_01.0B7C	フェイン		speaker
+feev02_01.0B7C	フェイン	Fein	speaker
 feev02_01.0B93	はい、ありがとうございます、レイジハー。{n}では、自分はこれで失礼します。		text

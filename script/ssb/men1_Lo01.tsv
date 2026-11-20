@@ -1,28 +1,28 @@
 id	jp	en	notes
-men1_Lo01.0052	ルディエール		speaker
+men1_Lo01.0052	ルディエール	Rudiere	speaker
 men1_Lo01.0062	よう、＄＄＄＄＄＄。{wait}{clear}		
 men1_Lo01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo01.008A	ルディ、どうしたのですか？{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
-men1_Lo01.00D2	ルディエール		speaker
+men1_Lo01.00D2	ルディエール	Rudiere	speaker
 men1_Lo01.00E2	いや……ごめん。{n}妖精が＄＄＄＄＄＄は呼べば来るって言ってたから、{n}本当かどうか、試してみたんだ。{wait}{clear}		
 men1_Lo01.0148	ＮＵＬＬ	NULL	speaker
 men1_Lo01.0158	《これで信じてもらえましたか？》{n}		
 men1_Lo01.0180	《用のあるときだけにしてもらえませんか？》{n}		
 men1_Lo01.01B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo01.01C2	これで信じてもらえましたか？{wait}{clear}		
-men1_Lo01.01E2	ルディエール		speaker
+men1_Lo01.01E2	ルディエール	Rudiere	speaker
 men1_Lo01.01F2	ああ、本当に来てくれるなんて、{n}天使ってすごく真面目なんだな。{wait}{clear}		
 men1_Lo01.0234	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo01.0244	いえ……真面目というか……{n}これが私たちのつとめですから。{wait}{clear}		
-men1_Lo01.028E	ルディエール		speaker
+men1_Lo01.028E	ルディエール	Rudiere	speaker
 men1_Lo01.029E	そうか、＄＄＄＄＄＄のこと、{n}少しわかった気がするよ。{wait}{clear}本当に悪かったな。{wait}{clear}		
 men1_Lo01.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo01.0302	ルディ……すみませんが{n}用のあるときにだけ、呼んでいただけませんか。{wait}{clear}		
-men1_Lo01.034A	ルディエール		speaker
+men1_Lo01.034A	ルディエール	Rudiere	speaker
 men1_Lo01.035A	ごめん、ごめん。{n}怒らせるつもりはなかったんだ。{wait}{clear}ただ、やっぱりさ、{n}天使っておれたちとは違うだろ？{n}だから、どういうものなのかって気になって……。{wait}{clear}		
 men1_Lo01.03F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Lo01.0404	え？　そうだったのですか……。{wait}{clear}		
-men1_Lo01.0426	ルディエール		speaker
+men1_Lo01.0426	ルディエール	Rudiere	speaker
 men1_Lo01.0436	でも、こうやって来てもらって、{n}なにかがわかった気がするよ。{wait}{clear}		
 men1_Lo01.0482	これからは、もっと理解し合えると思う。{wait}{clear}		
 men1_Lo01.04AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

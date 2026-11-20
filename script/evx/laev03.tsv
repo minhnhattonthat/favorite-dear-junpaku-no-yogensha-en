@@ -1,18 +1,18 @@
 id	jp	en	notes
-laev03.00A2	レイラ		unit name (32-byte field)
+laev03.00A2	レイラ	Leyla	unit name (32-byte field)
 laev03.00DE	帝国歩兵		unit name (32-byte field)
 laev03.011A	帝国歩兵		unit name (32-byte field)
 laev03.0156	帝国歩兵		unit name (32-byte field)
 laev03.0192	帝国歩兵		unit name (32-byte field)
-laev03.04C8	レイラ		speaker
+laev03.04C8	レイラ	Leyla	speaker
 laev03.04DD	どうして、こんなことを！　誰の命令なの！？		text
 laev03.0516	帝国兵		speaker
 laev03.052B	誰だ、お前？{n}それに、その軍服は帝国騎士のものではないか？		text
-laev03.0574	レイラ		speaker
+laev03.0574	レイラ	Leyla	speaker
 laev03.0589	これは……。		text
 laev03.05A4	帝国兵		speaker
 laev03.05B9	帝国の者なら我々のやっていることもわかるはずだ。{n}それとも、我々に逆らおうというのか？		text
-laev03.061E	レイラ		speaker
+laev03.061E	レイラ	Leyla	speaker
 laev03.0633	ええ……。{n}関係のない人々を巻き込むというのなら。		text
 laev03.0674	帝国兵		speaker
 laev03.0689	ふんっ！　面白い……。{n}その軍服に、はじない戦いができるのか、{n}見せてもらおう！！		text

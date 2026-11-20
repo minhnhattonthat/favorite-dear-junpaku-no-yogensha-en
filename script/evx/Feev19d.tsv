@@ -1,7 +1,7 @@
 id	jp	en	notes
 Feev19d.0002	celeniss		dev label (guess: not shown)
-Feev19d.00A2	フェイン		unit name (32-byte field)
-Feev19d.00DE	セレニス		unit name (32-byte field)
+Feev19d.00A2	フェイン	Fein	unit name (32-byte field)
+Feev19d.00DE	セレニス	Serenis	unit name (32-byte field)
 Feev19d.011A	エンディミオン		unit name (32-byte field)
 Feev19d.0156	覚醒エンディミオン		unit name (32-byte field)
 Feev19d.0192	椅子		unit name (32-byte field)

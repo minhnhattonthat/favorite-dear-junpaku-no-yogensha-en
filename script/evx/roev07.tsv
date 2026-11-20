@@ -1,6 +1,6 @@
 id	jp	en	notes
 roev07.0002	癒しの手		dev label (guess: not shown)
-roev07.00A2	ロクス		unit name (32-byte field)
+roev07.00A2	ロクス	Rocus	unit name (32-byte field)
 roev07.00DE	シーフ		unit name (32-byte field)
 roev07.011A	シーフ		unit name (32-byte field)
 roev07.0156	男の子		unit name (32-byte field)
@@ -10,10 +10,10 @@ roev07.04E8	ならず者２		speaker
 roev07.0501	ああ、邪魔なやつもこの通りだしな……		text
 roev07.0540	子供		speaker
 roev07.0553	…………。		text
-roev07.05B8	ロクス		speaker
+roev07.05B8	ロクス	Rocus	speaker
 roev07.05CD	お前たち、なにをしてる！？		text
 roev07.05F6	ならず者１		speaker
 roev07.060F	お、やべえ！　逃げろっ！		text
-roev07.06EE	ロクス		speaker
+roev07.06EE	ロクス	Rocus	speaker
 roev07.0703	おい、大丈夫か？		text
 roev07.0722	やつらにやられたのか？{n}しっかりするんだぞ、いま、助けてやるから……。		text

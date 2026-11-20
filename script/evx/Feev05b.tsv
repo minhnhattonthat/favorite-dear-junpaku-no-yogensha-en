@@ -1,15 +1,15 @@
 id	jp	en	notes
 Feev05b.0002	刺客（戦闘勝利後）		dev label (guess: not shown)
-Feev05b.00A2	フェイン		unit name (32-byte field)
+Feev05b.00A2	フェイン	Fein	unit name (32-byte field)
 Feev05b.00DE	ウィザード		unit name (32-byte field)
-Feev05b.04F0	フェイン		speaker
+Feev05b.04F0	フェイン	Fein	speaker
 Feev05b.0507	誰の命令だ？		text
 Feev05b.0522	ウォーロック		speaker
 Feev05b.053D	…………。		text
-Feev05b.0556	フェイン		speaker
+Feev05b.0556	フェイン	Fein	speaker
 Feev05b.056D	帝国の手先だな？		text
 Feev05b.058C	ウォーロック		speaker
 Feev05b.05A7	帝国は……{n}もう一度、紅月王様のご威光を復活させる……。		text
 Feev05b.05EE	お前などに邪魔はさせん……。		text
-Feev05b.0629	フェイン		speaker
+Feev05b.0629	フェイン	Fein	speaker
 Feev05b.0640	…………。		text

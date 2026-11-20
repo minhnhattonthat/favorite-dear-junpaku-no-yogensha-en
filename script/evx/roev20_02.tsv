@@ -1,24 +1,24 @@
 id	jp	en	notes
-roev20_02.00A2	ロクス		unit name (32-byte field)
-roev20_02.00DE	フェイン		unit name (32-byte field)
-roev20_02.04C8	ロクス		speaker
+roev20_02.00A2	ロクス	Rocus	unit name (32-byte field)
+roev20_02.00DE	フェイン	Fein	unit name (32-byte field)
+roev20_02.04C8	ロクス	Rocus	speaker
 roev20_02.04DD	魔導士殿、{n}また難儀をしているようだが？		text
-roev20_02.0514	フェイン		speaker
+roev20_02.0514	フェイン	Fein	speaker
 roev20_02.052B	ロクス……といったな。		text
-roev20_02.0550	ロクス		speaker
+roev20_02.0550	ロクス	Rocus	speaker
 roev20_02.0565	そう、{n}たしかあなたはフェインとかいう名だったな。{n}前に天使に聞いたが、よく思いだせん。		text
-roev20_02.05CC	フェイン		speaker
+roev20_02.05CC	フェイン	Fein	speaker
 roev20_02.05E3	そうだ……		text
-roev20_02.05FC	ロクス		speaker
+roev20_02.05FC	ロクス	Rocus	speaker
 roev20_02.0611	手を貸そう。{n}＄＄＄＄＄＄もそれを望んでいる。		text
-roev20_02.064E	フェイン		speaker
+roev20_02.064E	フェイン	Fein	speaker
 roev20_02.0665	すまない……		text
-roev20_02.06D4	フェイン		speaker
+roev20_02.06D4	フェイン	Fein	speaker
 roev20_02.06EB	こう何度も助けられるとはな……借りができた。		text
-roev20_02.077E	ロクス		speaker
+roev20_02.077E	ロクス	Rocus	speaker
 roev20_02.0793	まあ、これからもよく戦ってくれ。		text
 roev20_02.07C2	僕は争いごとが苦手だからね。{n}あなたのようなのにがんばってもらわないと困る。		text
-roev20_02.081D	フェイン		speaker
+roev20_02.081D	フェイン	Fein	speaker
 roev20_02.0834	わかった……		text
-roev20_02.084F	ロクス		speaker
+roev20_02.084F	ロクス	Rocus	speaker
 roev20_02.0864	今度はまた会おうとは言わないようにしよう。{n}さよなら、魔導士殿。		text

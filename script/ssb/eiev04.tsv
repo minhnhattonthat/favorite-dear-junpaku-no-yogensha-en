@@ -1,72 +1,72 @@
 id	jp	en	notes
-eiev04.004E	アイリーン		speaker
+eiev04.004E	アイリーン	Irene	speaker
 eiev04.005C	ね、あのさ、ウェスタみなかった？{wait}{clear}		
 eiev04.0080	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.0090	見ていませんが、どうしたのです？{wait}{clear}		
-eiev04.00B4	アイリーン		speaker
+eiev04.00B4	アイリーン	Irene	speaker
 eiev04.00C2	ん、ちょっと姿が見えないのよね。{n}もう普段なら帰ってきてもいい頃なのに……。{wait}{clear}ね、一緒に探してくれない？{wait}{clear}		
 eiev04.0130	ＮＵＬＬ	NULL	speaker
 eiev04.0140	《手伝う》{n}		
 eiev04.0152	《断る》{n}		
 eiev04.0168	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.0178	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
-eiev04.019A	アイリーン		speaker
+eiev04.019A	アイリーン	Irene	speaker
 eiev04.01A8	ありがと、助かる。{n}飛べるあなただったら、{n}きっとすぐに見つけられると思う。{wait}{clear}私、向こうの村の方を探すから、{n}あなたあっちの森の方を探してみて！{wait}{clear}		
 eiev04.0270	母親		speaker
 eiev04.0278	さ、遠慮せず食べておくれ。{wait}{clear}		
 eiev04.0296	子供		speaker
 eiev04.029E	あはは、ウェスタ、お前も食べるかい？{wait}{clear}		
-eiev04.02C6	アイリーン		speaker
+eiev04.02C6	アイリーン	Irene	speaker
 eiev04.02D4	…………。{wait}{clear}	.........{wait}{clear}	
 eiev04.02E2	母親		speaker
 eiev04.02EA	こら、はしゃぎすぎだよ。{wait}{clear}		
 eiev04.0306	娘		speaker
 eiev04.030C	どうしたの？　さあ、食べて。{wait}{clear}		
-eiev04.032C	アイリーン		speaker
+eiev04.032C	アイリーン	Irene	speaker
 eiev04.033A	はい……。{wait}{clear}	Yes...{wait}{clear}	
-eiev04.0366	アイリーン		speaker
+eiev04.0366	アイリーン	Irene	speaker
 eiev04.0374	はあ……。{wait}{clear}いる？　＄＄＄＄＄＄？{wait}{clear}		
 eiev04.039C	ＮＵＬＬ	NULL	speaker
 eiev04.03AC	《どうしたんです？》{n}		
 eiev04.03C8	《楽しそうですね》{n}		
 eiev04.03EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.03FC	どうしたんです？{wait}{clear}		
-eiev04.0410	アイリーン		speaker
+eiev04.0410	アイリーン	Irene	speaker
 eiev04.041E	もう、ここから出るわ。{wait}{clear}ね、抜け出すから、手伝ってくれない？{n}誰か来ないか見張っててよ。{wait}{clear}		
 eiev04.047C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.048C	？{wait}{clear}		
-eiev04.0492	アイリーン		speaker
+eiev04.0492	アイリーン	Irene	speaker
 eiev04.04A0	理由は聞かないで。お願い。{wait}{clear}		
 eiev04.04BE	ＮＵＬＬ	NULL	speaker
 eiev04.04CE	《明日まで待てないのですか？》{n}		
-eiev04.04F4	《わかりました》{n}		
+eiev04.04F4	《わかりました》{n}	I understand{n}	
 eiev04.0516	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.0526	明日まで待てないのですか？{wait}{clear}		
-eiev04.0544	アイリーン		speaker
+eiev04.0544	アイリーン	Irene	speaker
 eiev04.0552	ちょっとさ……いづらいの。なんか。{wait}{clear}もう、行くからね。見張っててよ。{wait}{clear}		
 eiev04.05A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev04.05B0	わかりました。{wait}{clear}		
-eiev04.05CE	アイリーン		speaker
+eiev04.05B0	わかりました。{wait}{clear}	All right.{wait}{clear}	
+eiev04.05CE	アイリーン	Irene	speaker
 eiev04.05DC	ありがと。{n}たぶん誰もこないと思うけどね……。{wait}{clear}		
 eiev04.0618	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.0628	楽しそうですね。皆、いい人達で。{wait}{clear}		
-eiev04.064C	アイリーン		speaker
+eiev04.064C	アイリーン	Irene	speaker
 eiev04.065A	そうね……。{n}ねえ、ちょっと見張ってて誰も来ないか。{wait}{clear}		
 eiev04.0692	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.06A2	？{wait}{clear}		
-eiev04.06A8	アイリーン		speaker
+eiev04.06A8	アイリーン	Irene	speaker
 eiev04.06B6	もう、ここ出ようと思ってさ。{n}ね、見ててよ。{wait}{clear}		
-eiev04.070E	アイリーン		speaker
+eiev04.070E	アイリーン	Irene	speaker
 eiev04.071C	ふう……。{wait}{clear}		
 eiev04.072A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.073A	どうして、急に？{wait}{clear}		
-eiev04.075A	アイリーン		speaker
+eiev04.075A	アイリーン	Irene	speaker
 eiev04.0768	うーん……{n}悪い人たちじゃないしお世話にもなったけど……。{wait}{clear}ただ、どうしてもダメなんだ……{n}うまくいえないけど……。{wait}{clear}……なんか、悪い気がするんだ、{n}私があそこにいることが。{wait}{clear}…………。{wait}{clear}		
 eiev04.0838	さあ、朝までどこかで休めるところをさがさないと。{n}またね。＄＄＄＄＄＄。{wait}{clear}		
-eiev04.0894	アイリーン		speaker
+eiev04.0894	アイリーン	Irene	speaker
 eiev04.08A2	え？{n}ま、いいじゃない。{n}ちょっとしたことよ。{wait}{clear}		
 eiev04.08E0	さあ、朝までどこで休もうかな。{n}またね。{wait}{clear}		
 eiev04.0922	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev04.0932	すみません、今は時間がないのです。{wait}{clear}		
-eiev04.0964	アイリーン		speaker
+eiev04.0964	アイリーン	Irene	speaker
 eiev04.0972	ちょっと冷たいのね。{n}わかったわ。もうなにも頼まないわよ。{wait}{clear}		

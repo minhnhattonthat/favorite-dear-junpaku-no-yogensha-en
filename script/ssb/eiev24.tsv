@@ -1,24 +1,24 @@
 id	jp	en	notes
-eiev24.004C	クラレンス		speaker
-eiev24.005A	ほら、天使様、とりにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
+eiev24.004C	クラレンス	Clarence	speaker
+eiev24.005A	ほら、天使様、とりにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}	Here, Angel, come and get it. With this, the{n}world's at peace.{wait}{clear}	
 eiev24.0098	ＮＵＬＬ	NULL	speaker
-eiev24.00A8	《魔石を取る》{n}		
-eiev24.00CC	アイリーン		speaker
-eiev24.00DA	＄＄＄＄＄＄！{wait}{clear}		
+eiev24.00A8	《魔石を取る》{n}	Take the Demon Stone{n}	
+eiev24.00CC	アイリーン	Irene	speaker
+eiev24.00DA	＄＄＄＄＄＄！{wait}{clear}	＄＄＄＄＄＄!{wait}{clear}	
 eiev24.00F0	ねえ、＄＄＄＄＄＄。目を開けて！{n}お願い……！{wait}{clear}		
-eiev24.015C	アイリーン		speaker
+eiev24.015C	アイリーン	Irene	speaker
 eiev24.016E	あ……{n}＄＄＄＄＄＄。{wait}{clear}		
 eiev24.018C	大丈夫……？{wait}{clear}		
 eiev24.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev24.01AC	ええ……{wait}{clear}		
-eiev24.01B8	アイリーン		speaker
+eiev24.01AC	ええ……{wait}{clear}	Yes...{wait}{clear}	
+eiev24.01B8	アイリーン	Irene	speaker
 eiev24.01CA	よかった……。{wait}{clear}		
 eiev24.01E0	びっくりさせないで……{n}本当に……{wait}{clear}		
-eiev24.0222	アイリーン		speaker
+eiev24.0222	アイリーン	Irene	speaker
 eiev24.0230	あいつは逃げてったわ……{n}なんであなたのことまで知ってたのかしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}		
 eiev24.02B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev24.02C2	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
-eiev24.0346	アイリーン		speaker
+eiev24.0346	アイリーン	Irene	speaker
 eiev24.0354	大丈夫？{n}あいつは逃げてったわ……{n}なんであなたのことまで知ってたかのしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}		
 eiev24.03E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev24.03F0	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
