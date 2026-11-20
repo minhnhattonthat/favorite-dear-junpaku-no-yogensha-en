@@ -1,4 +1,4 @@
-movie	first	last	ref	region	size	mode	at	clean	jp	en
+movie	first	last	ref	region	size	mode	at	clean	jp	en	dx
 DEMO.STR	36	104	66	0,0,304,100	20				大いなる光の小さな星	A small star of mighty light
 DEMO.STR	108	210	150	20,30,284,86	20				うるわしき実り豊かな土地	A fair and fruitful land
 DEMO.STR	198	302	246	56,64,248,108	20		170,92;118,124		野に咲き香る花々／美しい風の音	Flowers blooming sweet in the fields|The lovely song of the wind
@@ -6,3 +6,5 @@ DEMO.STR	350	432	380	54,32,200,44	20	scene	62,54	348,436	凍てついた不動�
 DEMO.STR	380	452	420	88,128,120,42	20	scene	96,148	378,456	大軍と鬨の声	Vast armies and their war cries
 DEMO.STR	496	562	532	90,30,214,125	20		111,55;107,130		月が血の色に変わるとき／星は輝きを失う	When the moon turns the color of blood|the stars lose their light
 DEMO.STR	578	608	595	18,154,232,38	20	box	26,172		天の下には血塗られた大地──	Under heaven, a blood-soaked earth—
+ENDING.STR	43	118	100	0,78,262,40	20	white	30,99		悲しみはよろこびに場所を譲り	Sorrow gives way to joy,	0.325
+ENDING.STR	67	118	100	90,116,230,40	20	white	22,137		勇者は希望の槍となる──	and the hero becomes a spear of hope—	-0.444

@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (24th worker: G14 opening captions done, G15 staff roll next; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (25th worker: G15 ending caption + staff roll done, inkbox/stress/textcover/re-tour
+  next; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -285,6 +286,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
   staff: Hepburn, note uncertain readings in docs/polish.md), and add a "roll" mode to fmv.py that paints the
   column black and draws one tall English strip offset by the scroll per frame (no fit needed). Read the frames in
   chunks (decode once to work/fmv/ending_all/, sheets of ~10 frames), not one by one.
+- **Phase 8 progress (2026-11-21, 25th worker):** **G15 written, NOT YET BUILT.** Ending caption: two `gfx/fmv.tsv`
+  rows, new mode `white` + `dx` column (white letters drifting sideways: line 1 +0.325 px/frame, line 2 -0.444;
+  "Sorrow gives way to joy," / "and the hero becomes a spear of hope—"; JP is 槍 "spear", not 礎). Staff roll: new
+  `tools/roll.py` + `gfx/roll.tsv` (143 lines: strip box, style head/crole/srole/name/name2/co/keep, English;
+  Western order, no macrons, game-1 spellings reused from `../favorite-dear-en/trans/staff/en.tsv`). Measured: roll
+  scrolls exactly 1.5 px/frame from frame 330 to 4114 then holds; the gold panel 0.19 px/frame; lines centred on
+  x=160, half over the panel. Each JP line box is refilled from panel-aligned frames +-8..96 away where that spot
+  is text-free, the English strip is drawn at 2x and cut at the half-pixel offset, alpha follows the JP fade.
+  Previews (`tools/fmv.py preview ENDING.STR a b`) look right: `work/fmv/ending/cmp1.png` (cast/staff), `cmp2.png`
+  (start, feather, NEC/SOFIX card, fade-out), `cmpc.png` (caption). `tests/test_roll.py`; check.py 71 passed + lint 0.
+  **The `fmv.py build` run (DEMO + ENDING re-encode, ~3900 roll frames, cache key now includes roll files so DEMO
+  re-encodes too) was killed by the host for low memory** before writing anything to build/fmv/. Next: with no
+  other emulators/projects running, `python -X utf8 tools/fmv.py build` (if memory is tight, lower the `_rgb`
+  eviction window in `Movie.build`, 120 frames x 1.7 MB float64, or store rgb as uint8), then `build.py`, smoke,
+  `warp.py credits --cue <abs>/build/fd2_en.cue`, re-sheet credits (+ end_* / game_over2 if they include FMV) and
+  write verdicts; the 13 credits sheets are the only `not ok` left besides G14's 3 (now fixed, re-verdict).
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on

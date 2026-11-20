@@ -1,0 +1,144 @@
+y0	y1	x0	x1	style	jp	en
+180	192	142	176	head	キャスト	Cast
+206	215	120	197	crole	フェイン・ルー・ルグス	Fein Lu Lugus
+223	240	137	182	name	堀 秀行	Hideyuki Hori
+274	285	116	200	crole	クライヴ・セイングレント	Clive Saingrent
+293	309	131	188	name	徳山 靖彦	Yasuhiko Tokuyama
+341	351	96	216	crole	ルディエール・トライア・レグランス	Rudiere Trier Legrance
+358	375	131	188	name	田中 大文	Hirofumi Tanaka
+403	412	114	189	crole	ロクス・ラス・フロレス	Rocus Las Flores
+420	436	131	175	name	堀川 亮	Ryo Horikawa
+464	474	114	201	crole	アイリーン・ティルナーグ	Irene Tirnag
+481	498	131	201	name	大本 眞基子	Makiko Omoto
+533	544	124	192	crole	レイラ・ヴィグリード	Leyla Vigrid
+551	568	132	189	name	大塚 瑞恵	Mizue Otsuka
+604	613	149	171	crole	セシア	Cecia
+621	637	131	195	name	服部 かりか	Karika Hattori
+696	705	149	172	crole	ローザ	Rosa
+714	730	131	188	name	岩崎 陽子	Yoko Iwasaki
+766	775	142	177	crole	フロリンダ	Florinda
+783	800	131	188	name	新 千恵子	Chieko Atarashi
+836	845	148	174	crole	シェリー	Shelly
+853	869	131	189	name	角田 早穂	Saho Tsunoda
+905	915	152	169	crole	リリィ	Lily
+923	939	134	190	name	西田 裕美	Hiromi Nishida
+998	1007	147	173	crole	リンクス	Lynx
+1016	1032	131	191	name	間宮 くるみ	Kurumi Mamiya
+1068	1077	146	175	crole	アクイラ	Aquila
+1085	1102	131	189	name	町井 美紀	Miki Machii
+1138	1147	147	175	crole	シータス	Cetus
+1155	1171	131	189	name	龍谷 修武	Osamu Ryutani
+1207	1216	146	175	crole	レーパス	Lepus
+1224	1241	131	188	name	森 麻衣子	Maiko Mori
+1323	1332	148	177	crole	セレニス	Serenis
+1340	1357	131	188	name	土井 美加	Mika Doi
+1384	1394	135	184	crole	レイブンルフト	Ravenruft
+1402	1419	137	182	name	堀 之紀	Yukitoshi Hori
+1446	1456	107	213	crole	アルベリック・クロイツフェルド	Alberic Kreutzfeld
+1464	1480	131	188	name	塩沢 兼人	Kaneto Shiozawa
+1512	1522	129	191	crole	イオン・アズバード	Ion Azbard
+1529	1546	131	188	name	田中 真弓	Mayumi Tanaka
+1581	1591	118	202	crole	クラレンス・ランゲラック	Clarence Langerack
+1599	1616	131	188	name	遠藤 守哉	Moriya Endo
+1647	1657	135	184	crole	エンディミオン	Endymion
+1664	1681	131	188	name	冬馬 由美	Yumi Toma
+1760	1768	142	178	crole	ラファエル	Raphael
+1776	1793	135	179	name	青羽 剛	Tsuyoshi Aoba
+1825	1834	148	175	crole	ミカエル	Michael
+1843	1859	140	179	name	土門 仁	Jin Domon
+1984	1998	134	187	srole	企画／原作	Planning / Original Story
+2005	2021	131	188	name	刈部 雅章	Masaaki Karibe
+2077	2090	150	169	srole	原画	Original Art
+2098	2114	131	188	name	中村 聡子	Satoko Nakamura
+2167	2179	132	192	srole	キャラクタCG	Character CG
+2186	2203	131	211	name	山崎 隆(Rai)	Takashi Yamazaki (Rai)
+2251	2264	150	170	srole	監督	Director
+2272	2288	131	188	name	岡田 紀子	Noriko Okada
+2340	2352	125	199	srole	メインプログラム	Main Program
+2360	2377	131	175	name	難波 司	Tsukasa Nanba
+2383	2400	131	188	name	傘木 康史	Yasushi Kasagi
+2457	2468	120	203	srole	エフェクトプログラム	Effects Program
+2476	2493	131	188	name	遠山 博一	Hirokazu Toyama
+2548	2561	106	219	srole	アシスタントプログラマー	Assistant Programmers
+2569	2586	131	188	name	中村 静男	Shizuo Nakamura
+2592	2609	138	182	name	森 知晴	Tomoharu Mori
+2665	2678	136	185	srole	ツール作成	Tools
+2685	2702	94	233	name2	gridman　山中 瑠奈	gridman|Runa Yamanaka
+2754	2766	143	176	srole	イベント	Events
+2774	2791	91	242	name2	宮川 宏三　高野 大二郎	Kozo Miyagawa|Daijiro Takano
+2842	2853	140	178	srole	スクリプト	Script
+2861	2878	131	202	name	氏家 麻理亜	Maria Ujiie
+2953	2966	132	185	srole	グラフィック	Graphics
+2973	2990	131	202	name	鷲見 利恵子	Rieko Sumi
+2996	3013	131	188	name	中嶋 秀夫	Hideo Nakajima
+3043	3060	96	226	name2	樋野 清史　安藤 博司	Kiyoshi Hino|Hiroshi Ando
+3066	3083	96	226	name2	藤田 敬　井出 志織	Takashi Fujita|Shiori Ide
+3116	3128	128	191	srole	ビジュアルCG	Visual CG
+3136	3152	96	232	name2	岡 絵理奈　宅見 竜司	Erina Oka|Ryuji Takumi
+3159	3176	96	233	name2	奥村 淳子　吉川 純次	Junko Okumura|Junji Yoshikawa
+3208	3222	128	193	srole	戦闘キャラCG	Battle Character CG
+3228	3245	96	237	name2	元山 有希子　高見 善行	Yukiko Motoyama|Yoshiyuki Takami
+3252	3268	96	223	name2	加藤 和規　宗像 淳	Kazunori Kato|Jun Munakata
+3298	3315	96	227	name2	伊藤 英剛　太田 ミカ	Hidetaka Ito|Mika Ota
+3321	3338	96	233	name2	熊井 純一　星野 宏典	Junichi Kumai|Hironori Hoshino
+3394	3407	139	181	srole	背景美術	Background Art
+3414	3431	131	188	name	永吉 幸樹	Koki Nagayoshi
+3461	3477	96	257	name2	高橋 英次　阿久津 美千代	Eiji Takahashi|Michiyo Akutsu
+3484	3501	96	242	name2	本多 敬　いーのあゆみ	Takashi Honda|Ayumi Ino
+3530	3547	94	224	name2	森田 康子　椿 浩幸	Yasuko Morita|Hiroyuki Tsubaki
+3554	3570	94	165	name2	小林 多恵子	Taeko Kobayashi|
+3600	3617	95	138	name2	本間 匠	Takumi Honma|
+3646	3663	96	229	name2	千葉 薫　大関 雅美	Kaoru Chiba|Masami Ozeki
+3670	3686	94	229	name2	村上 律子　大関 恒雄	Ritsuko Murakami|Tsuneo Ozeki
+3693	3709	94	151	name2	石渡 俊和	Toshikazu Ishiwata|
+3765	3779	128	187	srole	背景CG仕上	Background CG Finishing
+3786	3802	131	175	name	安田 新	Arata Yasuda
+3881	3895	151	170	srole	音楽	Music
+3902	3918	138	182	name	林 克洋	Katsuhiro Hayashi
+3949	3965	137	182	name	畑 亜貴	Aki Hata
+3971	3988	131	188	name	並木 晃一	Koichi Namiki
+4068	4080	132	188	srole	ムービー作成	Movie Production
+4087	4104	132	180	name	草嶋 一	Hajime Kusajima
+4130	4146	135	188	name	玉木 久美	Kumi Tamaki
+4152	4169	131	188	name	柱 将夫	Masao Hashira
+4176	4192	131	188	name	山崎 貴士	Takashi Yamazaki
+4231	4243	132	183	srole	ムービーSE	Movie Sound Effects
+4251	4267	130	188	name	鶴山 尚文	Naofumi Tsuruyama
+4322	4336	140	181	srole	音声録音	Voice Recording
+4343	4359	131	188	name	嶋津 行夫	Yukio Shimazu
+4366	4383	131	175	name	露木 輝	Hikaru Tsuyuki
+4462	4475	78	234	srole	TGS版ポケットステーションゲーム	TGS PocketStation Game
+4484	4497	131	181	keep	MASAS	
+4575	4588	117	204	keep	Special Thanks	
+4594	4611	131	188	name	西澤 龍一	Ryuichi Nishizawa
+4617	4634	131	175	name	村上 豊	Yutaka Murakami
+4641	4657	131	189	name	中村 光毅	Mitsuki Nakamura
+4664	4680	131	175	name	宮崎 暁	Akira Miyazaki
+4687	4704	131	188	name	山本 新一	Shinichi Yamamoto
+4710	4727	128	195	name	上久保 悠里	Yuri Kamikubo
+4733	4750	131	188	name	渡辺 和彦	Kazuhiko Watanabe
+4838	4851	125	193	srole	プロデューサー	Producer
+4859	4875	124	182	name	小座間 隆	Takashi Kozama
+4950	4963	92	236	srole	エグゼクティブ プロデューサー	Executive Producers
+4971	4987	131	188	name	臼井 公久	Kimihisa Usui
+4994	5010	131	188	name	高山 秀隆	Hidetaka Takayama
+5086	5100	140	181	srole	制作協力	In Cooperation With
+5106	5121	68	262	co	ウエストン ビット エンタテインメント	Westone Bit Entertainment
+5133	5145	98	228	keep	http://www.westone.co.jp	
+5171	5187	116	207	co	エグゼクリエイト	Exe Create
+5195	5207	96	236	keep	http://www.exe-create.co.jp	
+5232	5248	102	232	co	サラマンダーファクトリー	Salamander Factory
+5260	5272	93	240	keep	http://www.salamander.co.jp	
+5302	5317	124	198	co	エムクリエイト	M Create
+5348	5364	95	237	co	デザインオフィス メカマン	Design Office Mechaman
+5395	5410	112	223	co	ジェー・シー・スタッフ	J.C.Staff
+5441	5456	138	180	co	グリーン	Green
+5489	5502	137	182	keep	WAND	
+5534	5550	131	199	co	ログスタジオ	Log Studio
+5580	5597	118	222	co	青二プロダクション	Aoni Production
+5608	5620	110	221	keep	http://www.aoni.co.jp	
+5707	5721	136	184	srole	制作・著作	Production & Copyright
+5751	5767	105	226	co	NECインターチャネル	NEC Interchannel
+5779	5790	109	219	keep	http://www.neic.co.jp	
+5822	5835	135	178	keep	SOFIX	
+5848	5860	98	224	keep	http://www.sofix-ip.co.jp	

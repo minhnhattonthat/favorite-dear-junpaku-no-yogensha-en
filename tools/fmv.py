@@ -22,6 +22,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import mdec  # noqa: E402
+import roll  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 TREE = ROOT / "work/disc/tree"
@@ -33,6 +34,7 @@ TOP = (255, 250, 228)      # English fill, top of the letters
 BOTTOM = (246, 206, 120)   # bottom (the JP captions run pale to gold)
 GLOW = (170, 80, 10)       # orange glow behind the letters (dark pictures)
 GLOW_SCENE = (45, 22, 8)   # dark outline (captions over a bright picture)
+WHITE_TOP, WHITE_BOTTOM, GLOW_WHITE = (255, 255, 255), (226, 228, 236), (70, 72, 84)   # mode "white" (ENDING)
 
 
 def rows():
@@ -44,6 +46,7 @@ def rows():
             r["first"], r["last"], r["ref"], r["size"] = int(r["first"]), int(r["last"]), int(r["ref"]), int(r["size"])
             r["region"] = tuple(int(v) for v in r["region"].split(","))
             r["lines"] = r["en"].split("|")
+            r["dx"] = float(r.get("dx") or 0)   # px/frame sideways drift of the caption (mode white)
             out.append(r)
         return out
 
@@ -106,6 +109,21 @@ def signal(rgb, mode="black"):
     return np.clip(rgb[..., 0] - rgb[..., 2] - 6, 0, None)
 
 
+def shift_x(img, dx):
+    """img (H, W) moved right by dx px (linear interpolation, zeros enter)."""
+    if not dx:
+        return img
+    W = img.shape[1]
+    xs = np.arange(W) - dx
+    x0 = np.floor(xs).astype(int)
+    f = xs - x0
+    ok0 = (x0 >= 0) & (x0 < W)
+    ok1 = (x0 + 1 >= 0) & (x0 + 1 < W)
+    a = np.where(ok0, img[:, np.clip(x0, 0, W - 1)], 0)
+    b = np.where(ok1, img[:, np.clip(x0 + 1, 0, W - 1)], 0)
+    return a * (1 - f) + b * f
+
+
 def region_mask(shape, region):
     x, y, w, h = region
     m = np.zeros(shape, bool)
@@ -134,7 +152,7 @@ def bands(sig, region, thr=20):
     return out
 
 
-def english_layer(shape, lines, ref_bands, size, glow_rgb=GLOW):
+def english_layer(shape, lines, ref_bands, size, glow_rgb=GLOW, top=TOP, bottom=BOTTOM):
     """RGBA float layer (H, W, 4), alpha 0..1, with each English line placed on its Japanese line: left edge on the
     JP left edge (moved left if it would run off the frame), vertically centred on the JP band."""
     H, W = shape
@@ -154,7 +172,7 @@ def english_layer(shape, lines, ref_bands, size, glow_rgb=GLOW):
     grad = np.zeros((H, W, 3))
     for (x, y, tw, th) in boxes:
         f = np.clip((np.arange(H) - y) / max(th, 1), 0, 1)[:, None]
-        grad[y:y + th + 2] = (np.array(TOP) * (1 - f) + np.array(BOTTOM) * f)[y:y + th + 2][:, None, :]
+        grad[y:y + th + 2] = (np.array(top) * (1 - f) + np.array(bottom) * f)[y:y + th + 2][:, None, :]
     a = np.asarray(alpha, float) / 255
     dark = glow_rgb == GLOW_SCENE   # a bright picture needs a firmer outline
     ga = np.clip(gauss(a, 1.3 if dark else 1.6) * (3.5 if dark else 2.2), 0, 1) * (1.0 if dark else 0.85) * (1 - a)
@@ -174,9 +192,11 @@ class Movie:
         self.data = (TREE / name).read_bytes()
         self.fr = mdec.frames(self.data)
         self.caps = [r for r in rows() if r["movie"] == name]
+        self.roll = roll.Roll(self) if name == roll.MOVIE else None   # G15 staff roll (tools/roll.py)
         self._rgb = {}
         self._shift = {}
         self.refs = {}
+        self.letters = {}
 
     def rgb(self, n):
         if n not in self._rgb:
@@ -237,18 +257,28 @@ class Movie:
             mode = cap.get("mode") or "black"
             if mode == "scene":
                 sig = self.scene_signal(cap["ref"], cap)
+            elif mode == "white":   # letters = bright pixels (grown), signal = their excess over the inpainted picture
+                rgb = self.rgb(cap["ref"])
+                letters = dilate((rgb.mean(2) > 110) & region_mask(rgb.shape[:2], cap["region"]), 3)
+                self.letters[key] = letters
+                sig = np.clip(rgb.mean(2) - inpaint(rgb, letters).mean(2) - 4, 0, None) * letters
             else:
                 sig = signal(self.rgb(cap["ref"]), mode) * region_mask(self.rgb(cap["ref"]).shape[:2], cap["region"])
             if cap.get("at"):   # explicit "x,cy;x,cy": left edge and centre line of each JP line
                 b = [(cy - 8, cy + 8, x, x) for x, cy in (map(int, p.split(",")) for p in cap["at"].split(";"))]
             else:
                 b = bands(sig, cap["region"])
-            eng = english_layer(sig.shape, cap["lines"], b, cap["size"], GLOW_SCENE if mode == "scene" else GLOW)
+            if mode == "white":
+                eng = english_layer(sig.shape, cap["lines"], b, cap["size"], GLOW_WHITE, WHITE_TOP, WHITE_BOTTOM)
+            else:
+                eng = english_layer(sig.shape, cap["lines"], b, cap["size"], GLOW_SCENE if mode == "scene" else GLOW)
             self.refs[key] = (sig, eng)
         return self.refs[key]
 
     def edit(self, n):
         """(edited RGB, changed-pixel mask) of frame n, or None if no caption is active."""
+        if self.roll and n >= roll.N0 - 40:
+            return self.roll.edit(n)
         active = [c for c in self.caps if c["first"] <= n <= c["last"]]
         if not active:
             return None
@@ -265,6 +295,8 @@ class Movie:
             if c.get("mode") == "scene":   # the whole box comes from the clean plate
                 sig += self.scene_signal(n, c)
                 cleaned[id(c)] = (self.clean(n, c), r)
+                continue
+            if c.get("mode") == "white":   # handled below, after the shifted letters are erased
                 continue
             s = signal(rgb, c.get("mode") or "black") * r
             sig += s
@@ -283,9 +315,37 @@ class Movie:
             bg = lum[far].mean() if far.any() else 0
             core = dilate(warm, 4) & ((lum > 50 + bg) | (lum < bg - 25))   # + dark drop shadow on a lit picture
             mask |= dilate(warm | core, 2) & r
-        refs = [self.ref(c)[0] for c in active]
-        fit = self.fit(sig, refs)
+        whites = {}
+        base = mask.copy()
+        for c in active:
+            if c.get("mode") == "white":   # white letters drifting sideways (ENDING.STR opening caption)
+                self.ref(c)
+                sh = c["dx"] * (n - c["ref"])
+                lm = (shift_x(self.letters[(c["ref"], c["region"])].astype(float), sh) > 0.25) & \
+                    region_mask(shape, c["region"])
+                core = lm
+                lm = dilate(lm, 5)   # room for the blur-out at the end of the caption
+                whites[id(c)] = (sh, lm, core)
+                mask |= lm
         out = inpaint(rgb, mask)
+        for sh, lm, core in whites.values():
+            sig += np.clip(lum - out.mean(2) - 4, 0, None) * lm
+        refs = [shift_x(self.ref(c)[0], whites[id(c)][0]) if id(c) in whites else self.ref(c)[0] for c in active]
+        fit = self.fit(sig, refs)
+        if whites:
+            # a blurred caption spreads past its letters: erase the halo too; a caption that has (nearly) faded
+            # out is left alone, so the feather crossing it is not erased with it
+            mask = base.copy()
+            for c, (a, s) in zip(active, fit):
+                if id(c) in whites and a >= 0.12:
+                    mask |= dilate(whites[id(c)][1], int(s)) if s >= 3 else whites[id(c)][1]
+            out = inpaint(rgb, mask)
+        if whites:   # keep what the Japanese layer cannot explain around the letters (the feather flying by)
+            expect = sum(a * gauss(r, s) for (a, s), r in zip(fit, refs))
+            cores = dilate(np.any([whites[id(c)][2] & (s < 5) for c, (a, s) in zip(active, fit) if id(c) in whites]
+                                  + [np.zeros(shape, bool)], 0), 1)   # (sharp letters only: a smeared one hides less)
+            extra = dilate((lum - out.mean(2) - expect) > 60, 2) & mask & ~cores
+            out[extra] = rgb[extra]
         for clean, r in cleaned.values():
             w = gauss(r.astype(float) * dilate(~r, 3).__invert__(), 1.5)[..., None]   # feathered box edge
             out = out * (1 - w) + clean * w
@@ -294,6 +354,9 @@ class Movie:
             full, letters = self.ref(c)[1]
             if a <= 0.02:
                 continue
+            if id(c) in whites:
+                full, letters = (np.dstack([shift_x(e[..., i], whites[id(c)][0]) for i in range(4)])
+                                 for e in (full, letters))
             k = max(0.0, 1 - s / 5)
             eng = full * k + letters * (1 - k)
             col = gauss(eng[..., :3] * eng[..., 3:], s)
@@ -319,11 +382,16 @@ class Movie:
         return [(min(float(a), 1.0), s) for a, s in zip(best[1], best[2])]
 
     def frames_to_edit(self):
-        return sorted({n for c in self.caps for n in range(c["first"], c["last"] + 1) if n in self.fr})
+        out = {n for c in self.caps for n in range(c["first"], c["last"] + 1) if n in self.fr}
+        if self.roll:
+            out |= set(self.roll.frames())
+        return sorted(out)
 
     def build(self):
         buf = bytearray(self.data)
         for n in self.frames_to_edit():
+            for k in [k for k in self._rgb if k < n - 120]:   # the roll reads frames up to 96 away
+                del self._rgb[k]
             res = self.edit(n)
             if res is None:
                 continue
@@ -345,7 +413,8 @@ class Movie:
 
 def inputs_hash(name):
     h = hashlib.sha1()
-    for p in (Path(__file__), ROOT / "tools/mdec.py", TABLE, FONT):
+    for p in (Path(__file__), ROOT / "tools/mdec.py", TABLE, FONT, ROOT / "tools/roll.py", roll.TABLE,
+              *sorted(roll.FONTS.glob("*.ttf"))):
         h.update(p.read_bytes())
     h.update(name.encode())
     return h.hexdigest()[:16]
@@ -354,7 +423,7 @@ def inputs_hash(name):
 def changes():
     """{disc file name: bytes} of every movie with captions in gfx/fmv.tsv (cached in build/fmv/)."""
     out = {}
-    for name in sorted({r["movie"] for r in rows()}):
+    for name in sorted({r["movie"] for r in rows()} | {roll.MOVIE}):
         key = inputs_hash(name)
         path = CACHE / f"{name}.{key}"
         if not path.exists():

@@ -35,8 +35,9 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - the title logo 純白の預言者 (D5: no official English logo; G1 kept);
 - visit_01.ssb lines like "29-00" (the original's own placeholder ids, JP ２９＿００);
 - tgs_end's blank proof frame (the scene runs).
-Known open graphics rows (an `issue`, but name the row so it is not re-investigated): G14/G15 FMV captions and
-staff roll. G3 tags, G4 banners and the G10 album panel are English from build 2e18e967 (an_mag_0.tim, ALBUM_03.TIM);
+FMV: the opening (G14) and ending (G15) captions and the whole staff roll are English from the G15 build on; the
+純白の預言者 logo in both movies stays Japanese on purpose (like the title logo); a Japanese caption or credit line
+there is an issue. G3 tags, G4 banners and the G10 album panel are English from build 2e18e967 (an_mag_0.tim, ALBUM_03.TIM);
 on an older build they are still Japanese.
 
 ## Verdicts
