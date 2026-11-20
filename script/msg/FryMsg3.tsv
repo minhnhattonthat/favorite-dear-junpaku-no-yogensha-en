@@ -10,9 +10,9 @@ FryMsg3.030C	天使様、{n}面会したいという勇者様がいらっしゃ�
 FryMsg3.0368	では、そのようにお伝えします。		
 FryMsg3.0388	天使様、{n}面会したいという勇者様がいらっしゃいます。{wait}{clear}＜勇者名１＞様と＜勇者名２＞様{n}のどちらにお会いになりますか？		
 FryMsg3.0400	では、そのようにお伝えします。		
-FryMsg3.0420	天使様、報告です。{wait}{clear}＜勇者名＞様のレベルが上がりました。		
-FryMsg3.045C	天使様、報告です。{wait}{clear}＜勇者名＞様のレベルが○○上がりました。		
-FryMsg3.049C	天使様！　＜勇者名＞様が敵と遭遇しました！		
+FryMsg3.0420	天使様、報告です。{wait}{clear}＜勇者名＞様のレベルが上がりました。	Angel, a report!{wait}{clear}＜勇者名＞'s level went up.	
+FryMsg3.045C	天使様、報告です。{wait}{clear}＜勇者名＞様のレベルが○○上がりました。	Angel, a report!{wait}{clear}＜勇者名＞'s level went up by ○○.	
+FryMsg3.049C	天使様！　＜勇者名＞様が敵と遭遇しました！	Angel! ＜勇者名＞ has encountered the enemy!	
 FryMsg3.04C8	では、急ぎましょう、天使様！{n}そして、戦闘では＜勇者名＞様の{n}援護をしてあげてください！		
 FryMsg3.0522	そうですか……。{n}では、援護はできませんが、{n}戦闘の様子だけでも見に行きましょう。		
 FryMsg3.0576	天使様！　＜勇者名＞様が敵と遭遇しました！{wait}{clear}援護することはできませんが、{n}戦闘の様子だけでも見に行きましょう。		
@@ -20,13 +20,13 @@ FryMsg3.05E8	大変です、天使様！{n}＜勇者名＞様が戦闘で{n}大�
 FryMsg3.06C2	大ケガを負われている＜勇者名＞様のもとへ{n}向かわなくてもいいのですか？{wait}{clear}早く行って、回復アイテムを渡すか、{n}同行して祝福してあげてください。		
 FryMsg3.0752	天使様、大変です！{n}＜勇者名＞様が行方不明になられてしまいました。{wait}{clear}少しお疲れのようでしたが……。{n}天使様、どうしましょう？		
 FryMsg3.07D2	天使様、＜勇者名＞様が行方不明になられてから、{n}ずいぶん経ちますが……。{n}このままになさるおつもりですか？		
-FryMsg3.083E	行方不明になられていた{n}＜勇者名＞様を発見いたしました。		
-FryMsg3.0878	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけないでしょうか？		
-FryMsg3.08F4	＜勇者名＞様が{n}＜イベント名＞を解決されました。		
-FryMsg3.0926	＜勇者名＞様が{n}＜イベント名＞解決に失敗してしまわれました。		
-FryMsg3.0964	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。		
-FryMsg3.09D0	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。{wait}{clear}そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。		
-FryMsg3.0A78	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着されました。		
+FryMsg3.083E	行方不明になられていた{n}＜勇者名＞様を発見いたしました。	We've found ＜勇者名＞, who had gone missing.	
+FryMsg3.0878	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけないでしょうか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in{n}＜地方名＞. Will you ask a hero to handle it?	
+FryMsg3.08F4	＜勇者名＞様が{n}＜イベント名＞を解決されました。	＜勇者名＞ has resolved ＜イベント名＞.	
+FryMsg3.0926	＜勇者名＞様が{n}＜イベント名＞解決に失敗してしまわれました。	＜勇者名＞ has failed to resolve ＜イベント名＞.	
+FryMsg3.0964	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.	
+FryMsg3.09D0	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。{wait}{clear}そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.{wait}{clear}＜勇者名＞, who was on the way there, didn't make{n}it in time.	
+FryMsg3.0A78	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着されました。	＜勇者名＞ has arrived at ＜目的地名＞.	
 FryMsg3.0AB0	天使様、報告です。{wait}{clear}＜地方名＞を探索してみたのですが、{n}特別、変わったことはありませんでした。		
 FryMsg3.0B12	天使様、報告です。{wait}{clear}天使様のレベルが上がりそうです。{n}天界へ戻られたときは、{n}ラファエル様のもとへ行かれるといいと思います。		
 FryMsg3.0B92	天使様、大変です！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}とても悲しいことなのですが、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできません。		
@@ -54,12 +54,12 @@ FryMsg3.2270	天使様！{n}レイフォリアの森の聖母、ディアナ様�
 FryMsg3.2314	天使様……勇者様は活躍されたのですが、{n}エクレシア教国の首都が帝国の手に落ちました。{wait}{clear}町は破壊され、大聖堂も火を放たれてしまいました。{n}人々も多くが亡くなりましたが、{n}逃げのびた人もいるようです。{wait}{clear}天使様……アルカヤはこれから{n}どうなってしまうのでしょう……{n}どうか天使様も気をつけてください。		
 FryMsg3.2440	天使様……！　レグランス王国の国王、{n}ユーグ・ゼイント様が亡くなられました。{wait}{clear}これは噂なのですが、{n}何者かに暗殺されたらしいです……。		
 FryMsg3.24CA	天使様！　帝国がレグランスにまで侵攻しました。{wait}{clear}それに帝国軍には魔族もいるようですから、{n}きっと魔石の力が使われているのでしょう。{wait}{clear}戦いはつらいと思いますけど、{n}天使様、どうぞがんばってください。{n}私もがんばります！		
-FryMsg3.25A8	天使様！{n}聖母の森から魔石を奪った、{n}イオンという少年が死にました。{wait}{clear}彼は帝国の魔女セレニスに{n}持っていた強い魔導の力を利用されていたようです。		
-FryMsg3.263C	天使様！{n}レグランスの暗殺者集団の首領、{n}サヴィオが死にました。{wait}{clear}彼は貴族に対する恨みの気持ちを{n}帝国の魔女セレニスに利用されていたようです。		
-FryMsg3.26CE	天使様！！　とうとう天竜が復活しました。{wait}{clear}サタンの魂の化身である天竜は、{n}次々に町や人々を飲み込んでゆくでしょう……。{wait}{clear}世界の崩壊は時間の問題です。{n}天使様、勇者様と力を合わせて、{n}このアルカヤを守ってください。		
-FryMsg3.27A8	天使様！{n}勇者様が、エクレシア教国から魔石を奪った{n}ヴァイパーことクラレンスを倒しました。{wait}{clear}彼は自分がこの世界に希望を抱けず、{n}自ら帝国に荷担していたみたいです……。		
-FryMsg3.2852	天使様！{n}勇者様が帝国の騎士アルベリックを倒しました。{wait}{clear}彼は名誉など他人から認められるものを求めて、{n}悪魔にその心を利用されたようです……。{n}最後には魔剣に冒されてしまったようです。		
-FryMsg3.290C	天使様！{n}勇者様が吸血鬼の王、レイブンルフトを倒しました。{wait}{clear}彼は千年前の天竜との戦いで、{n}天竜の血を大量に浴びた勇者だということです……。		
+FryMsg3.25A8	天使様！{n}聖母の森から魔石を奪った、{n}イオンという少年が死にました。{wait}{clear}彼は帝国の魔女セレニスに{n}持っていた強い魔導の力を利用されていたようです。	Angel! The boy named Ion, who stole the{n}Demon Stone from the Forest of the Holy{n}Mother, has died.{wait}{clear}It seems the Empire's witch Serenis was{n}using the strong magical power he had.	
+FryMsg3.263C	天使様！{n}レグランスの暗殺者集団の首領、{n}サヴィオが死にました。{wait}{clear}彼は貴族に対する恨みの気持ちを{n}帝国の魔女セレニスに利用されていたようです。	Angel! Savio, leader of the assassins of{n}Legrance, has died.{wait}{clear}It seems the Empire's witch Serenis was{n}using his hatred of the nobility.	
+FryMsg3.26CE	天使様！！　とうとう天竜が復活しました。{wait}{clear}サタンの魂の化身である天竜は、{n}次々に町や人々を飲み込んでゆくでしょう……。{wait}{clear}世界の崩壊は時間の問題です。{n}天使様、勇者様と力を合わせて、{n}このアルカヤを守ってください。	Angel!! The Heavenly Dragon has finally been{n}revived.{wait}{clear}The Heavenly Dragon, incarnation of Satan's{n}soul, will swallow town after town and{n}person after person...{wait}{clear}The world's collapse is only a matter of{n}time. Angel, please join forces with the{n}heroes and protect Arcaya.	
+FryMsg3.27A8	天使様！{n}勇者様が、エクレシア教国から魔石を奪った{n}ヴァイパーことクラレンスを倒しました。{wait}{clear}彼は自分がこの世界に希望を抱けず、{n}自ら帝国に荷担していたみたいです……。	Angel! A hero has defeated Clarence, the{n}"Viper" who stole the Demon Stone from the{n}Holy Nation of Ecclesia.{wait}{clear}It seems he had no hope for this world, and{n}sided with the Empire of his own accord...	
+FryMsg3.2852	天使様！{n}勇者様が帝国の騎士アルベリックを倒しました。{wait}{clear}彼は名誉など他人から認められるものを求めて、{n}悪魔にその心を利用されたようです……。{n}最後には魔剣に冒されてしまったようです。	Angel! A hero has defeated Alberic, the{n}Imperial knight.{wait}{clear}It seems a devil used his heart, which{n}craved honor and the recognition of{n}others... In the end, the cursed sword{wait}{clear}consumed him.	
+FryMsg3.290C	天使様！{n}勇者様が吸血鬼の王、レイブンルフトを倒しました。{wait}{clear}彼は千年前の天竜との戦いで、{n}天竜の血を大量に浴びた勇者だということです……。	Angel! A hero has defeated Ravenruft, the{n}vampire king.{wait}{clear}They say he was a hero who was drenched in{n}the Heavenly Dragon's blood in the battle{n}against it a thousand years ago...	
 FryMsg3.299A	天使様！{n}勇者様が吸血鬼の王、レイブンルフトを倒しました。{wait}{clear}これで、辺境でのアンデッドに恐怖は、{n}ほとんどなくなるでしょう。		
 FryMsg3.2A1A	天使様！　伝説の紅月王の城とともに{n}エンディミオンに乗り移った悪魔が姿を現しました！{wait}{clear}あの悪魔と天竜を倒さなければ、{n}アルカヤに平和は戻ってきません！{wait}{clear}天使様、どうか勇者様といっしょに、{n}悪魔と天竜を倒して世界を救ってください！！		
 FryMsg3.2B06	天使様！　六王国連合、セレスタの{n}フェイン・ルー・ルグスという方が{n}勇者候補として有望だったようですが……。{wait}{clear}彼は、謎の魔導士たちの手によって{n}命を奪われてしまいました。{wait}{clear}とても悲しいことですが、{n}アルカヤの希望がひとつ失われてしまいました。		

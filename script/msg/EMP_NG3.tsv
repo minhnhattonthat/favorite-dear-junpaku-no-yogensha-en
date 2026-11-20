@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_NG3.000E	帝国が……。{wait}{clear}しかし、やつらを自分ひとりで{n}なんとかする自信はない……。{wait}{clear}悪いが、他のやつに頼んでもらえないか？		
-EMP_NG3.0084	帝国は許せないが、{n}いまの僕の力でやつらにかなうとは思えない。{n}すまないが、他の人に頼んでもらえないか？		
-EMP_NG3.00EE	話はわかったが、僕がいまからそこへ向かっても{n}とうてい間に合うとは思えない。{wait}{clear}悪いけど、他の人に頼んだ方がいい……。		
-EMP_NG3.0166	帝国が……。{wait}{clear}しかし、やつらを自分ひとりで{n}なんとかする自信はない……。{wait}{clear}悪いが、他のやつに頼んでもらえないか？		
-EMP_NG3.01DC	帝国は許せないが、{n}いまの僕の力でやつらにかなうとは思えない。{n}すまないが、他の人に頼んでもらえないか？		
-EMP_NG3.0246	話はわかったが、僕がいまからそこへ向かっても{n}とうてい間に合うとは思えない。{wait}{clear}悪いけど、他の人に頼んだ方がいい……。		
+EMP_NG3.000E	帝国が……。{wait}{clear}しかし、やつらを自分ひとりで{n}なんとかする自信はない……。{wait}{clear}悪いが、他のやつに頼んでもらえないか？	The Empire...{wait}{clear}But I'm not confident I can handle them on{n}my own...{wait}{clear}Sorry, but could you ask someone else?	
+EMP_NG3.0084	帝国は許せないが、{n}いまの僕の力でやつらにかなうとは思えない。{n}すまないが、他の人に頼んでもらえないか？	I can't forgive the Empire, but I doubt I'm{n}a match for them as I am now. Sorry, but{n}could you ask someone else?	
+EMP_NG3.00EE	話はわかったが、僕がいまからそこへ向かっても{n}とうてい間に合うとは思えない。{wait}{clear}悪いけど、他の人に頼んだ方がいい……。	I understand, but even if I set out now, I'd{n}never make it in time.{wait}{clear}Sorry, but you'd better ask someone else...	
+EMP_NG3.0166	帝国が……。{wait}{clear}しかし、やつらを自分ひとりで{n}なんとかする自信はない……。{wait}{clear}悪いが、他のやつに頼んでもらえないか？	The Empire...{wait}{clear}But I'm not confident I can handle them on{n}my own...{wait}{clear}Sorry, but could you ask someone else?	
+EMP_NG3.01DC	帝国は許せないが、{n}いまの僕の力でやつらにかなうとは思えない。{n}すまないが、他の人に頼んでもらえないか？	I can't forgive the Empire, but I doubt I'm{n}a match for them as I am now. Sorry, but{n}could you ask someone else?	
+EMP_NG3.0246	話はわかったが、僕がいまからそこへ向かっても{n}とうてい間に合うとは思えない。{wait}{clear}悪いけど、他の人に頼んだ方がいい……。	I understand, but even if I set out now, I'd{n}never make it in time.{wait}{clear}Sorry, but you'd better ask someone else...	

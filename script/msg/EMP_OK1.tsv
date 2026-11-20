@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_OK1.000E	帝国か……。{n}俺には関係ないが……わかった……。		
-EMP_OK1.0040	わかった、俺でよければ行こう……。		
-EMP_OK1.0064	帝国か……俺には関係のない相手だが、{n}どうしてもというのなら、行こう。		
-EMP_OK1.00AC	帝国か……。{n}俺には関係ないが……わかった……。		
-EMP_OK1.00DE	わかった、俺でよければ行こう……。		
-EMP_OK1.0102	帝国か……俺には関係のない相手だが、{n}どうしてもというのなら、行こう。		
+EMP_OK1.000E	帝国か……。{n}俺には関係ないが……わかった……。	The Empire... It's nothing to do with me,{n}but... fine...	
+EMP_OK1.0040	わかった、俺でよければ行こう……。	Fine. If I'll do, I'll go...	
+EMP_OK1.0064	帝国か……俺には関係のない相手だが、{n}どうしてもというのなら、行こう。	The Empire... They're nothing to do with me,{n}but if you insist, I'll go.	
+EMP_OK1.00AC	帝国か……。{n}俺には関係ないが……わかった……。	The Empire... It's nothing to do with me,{n}but... fine...	
+EMP_OK1.00DE	わかった、俺でよければ行こう……。	Fine. If I'll do, I'll go...	
+EMP_OK1.0102	帝国か……俺には関係のない相手だが、{n}どうしてもというのなら、行こう。	The Empire... They're nothing to do with me,{n}but if you insist, I'll go.	

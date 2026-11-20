@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_OK3.000E	帝国が……！？{wait}{clear}わかった、すぐに行こう。		
-EMP_OK3.003A	そうか……帝国のやつらが……。{wait}{clear}僕が行こう……。		
-EMP_OK3.006E	わかった、すぐに向かう。{n}やつらのやり口だけは許せないからな。		
-EMP_OK3.00AE	帝国が……！？{wait}{clear}わかった、すぐに行こう。		
-EMP_OK3.00DA	そうか……帝国のやつらが……。{wait}{clear}僕が行こう……。		
-EMP_OK3.010E	わかった、すぐに向かう。{n}やつらのやり口だけは許せないからな。		
+EMP_OK3.000E	帝国が……！？{wait}{clear}わかった、すぐに行こう。	The Empire...?!{wait}{clear}All right, I'll go at once.	
+EMP_OK3.003A	そうか……帝国のやつらが……。{wait}{clear}僕が行こう……。	I see... the Imperials...{wait}{clear}I'll go...	
+EMP_OK3.006E	わかった、すぐに向かう。{n}やつらのやり口だけは許せないからな。	All right, I'll head there now. Their{n}methods are the one thing I can't forgive.	
+EMP_OK3.00AE	帝国が……！？{wait}{clear}わかった、すぐに行こう。	The Empire...?!{wait}{clear}All right, I'll go at once.	
+EMP_OK3.00DA	そうか……帝国のやつらが……。{wait}{clear}僕が行こう……。	I see... the Imperials...{wait}{clear}I'll go...	
+EMP_OK3.010E	わかった、すぐに向かう。{n}やつらのやり口だけは許せないからな。	All right, I'll head there now. Their{n}methods are the one thing I can't forgive.	

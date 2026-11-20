@@ -49,6 +49,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   an EXE/overlay row when it is longer than the JP (it broke the build: op 夜 -> "Night") and lists those rows; the
   rfd2 overlay holds the chat prompts (まだ話があるのか？ ...) that need relocation in phase 7. Glossary gained Bremes
   (Isle), Fanlan, and the BMsgQ notes.
+  2026-11-21 (9th worker): **b045-b055** done (Leyla BMsgQ005 end, Cecia BMsgQ006, BMsgQ1xx/BrvMsgQ leftovers,
+  every hero's battle lines BTL_EVT0-6, BVisit greetings, EMP_NG/EMP_OK replies, EQP_Item, EvName incident titles,
+  fairy reports FryMsg0 (Rosa) and FryMsg1 up to Rocus's intro; b055 ends at FryMsg1.10FA). Build + check.py green;
+  `warp.py battle battle_h1` boots the grown BTL_EVT build (`work/qa/p6c/`). **Found:** ＜勇者名＞ ＜妖精名＞ ＜イベント名＞
+  ＜地方名＞ ＜目的地名＞ ＜勇者名１/２＞ ○○ are runtime placeholders the game substitutes by string match (table in
+  FD2BN.LKF at 0xE0FC): English keeps them byte-exact and `batches.py check` now allows them (GAME_TAGS). Phase 7: the
+  values substituted (hero/fairy names, EvName titles, region names) come from tables that need English, and the
+  wrap counts each placeholder as its JP width; verify a fairy report in game. Glossary gained the fairy-report
+  towns, Celesta/Courrege/Ellora/Linares/Araras/Darg/Reizefut/Fes, battle name tags (12-letter rulings).
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -63,8 +72,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b045 (`batches.py todo`; Leyla's chat BMsgQ005 continues there, then the other
-  BMsgQ/BrvMsgQ files). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b056 (`batches.py todo`; Florinda's FryMsg1 continues at Irene's intro, then
+  FryMsg2-7 for the other fairies: same rows, each fairy's voice; keep the ＜...＞ placeholders). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

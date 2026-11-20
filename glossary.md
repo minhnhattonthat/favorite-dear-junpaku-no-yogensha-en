@@ -113,6 +113,13 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | イリュウス | Ilyus | | town in Valese | |
 | ブレメース | Bremes | | ブレメース島 "Bremes Isle", where Fein lived after his childhood travels (BMsgQ000) | |
 | ファンラン | Fanlan | | Rudiere's home in Legrance (BMsgQ002) | |
+| セレスタ | Celesta | | Six Kingdoms region; サヤク Sayak is the town where Fein is found | |
+| クレージュ | Courrege | | クレージュ公国 the Duchy of Courrege (b001 spelling); スラティナ Slatina, レシュノ Leszno (Clive) | Kreuge |
+| エローラ | Ellora | | Legrance province holding Fanlan | |
+| リナレス | Linares | | Ecclesia province; アララス Araras = the Holy City, Ecclesia's capital | |
+| ダーグ | Darg | | Irene's town on Bremes Isle | |
+| レイゼフート | Reizefut | | Grosain's capital (and region), b001 spelling | Reisefut |
+| フェス | Fes | | untamed-lands region; レイリア Leiria (Cecia) | |
 | グラニス | Granis | | reached by Legrance's main highway (BTL_EVT2) | |
 | リパ | Ripa | | a seaside spot Rocus likes (BTL_EVT3) | |
 | アザリア | Azaria | | 聖アザリア宮 the Palace of St. Azaria (Raphael's seat) | |
@@ -168,4 +175,11 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   monsters: タイタン/ティタン both "Titan", ラルヴァ Larva, アロケン Allocen, ウジャト Udjat, ティンダロス Tindalos,
   ロック Roc, ベルクート Berkut, デスウィドウ Death Widow. あいつの話 (a hero about the angel) -> "what the angel said".
   Broken-speech monsters (オーク, ホブゴブリン, 融合兵 in katakana) are written in CAPITALS.
+- Runtime placeholders ＜勇者名＞ ＜勇者名１＞ ＜勇者名２＞ ＜妖精名＞ ＜イベント名＞ ＜地方名＞ ＜目的地名＞ ○○ (FryMsg*,
+  T_Msg01): the game substitutes them by string match (table in FD2BN.LKF 0xE0FC), so keep them byte-exact in the
+  English (`batches.py check` allows them). Drop the 様 after ＜勇者名＞; the angel's pronoun for a hero stays "them".
+  EvName incident titles (22 bytes): short title case ("Leus Invaded", "Camp Carrara", "General Kaiser"). Fairy
+  report towns: テルエル Teruel, レウス Leus, ラミア Lamia, イエーナ Jena, ケナー Kenner, キエラング Kierang, ファーノ
+  Fano, カラーラ Carrara, グラーツ Graz, アールスト Aalst, クングル Kungur, アーラウ Aarau, ラジェス Rajes, リエージュ
+  Liege, リメイラ Limeira. ユーグ・ゼイント "Hugues Zeint" (king of Legrance). 信頼度 "Trust".
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

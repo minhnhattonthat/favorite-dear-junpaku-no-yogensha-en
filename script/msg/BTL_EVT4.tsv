@@ -642,17 +642,17 @@ BTL_EVT4.4C82	キシシシシシ！	Kishishishishi!
 BTL_EVT4.4CB8S	リベザル	Ribezal	speaker
 BTL_EVT4.4CC1	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！	What's so holy about this forest? I'll make{n}it all mine!	
 BTL_EVT4.4D07S	アイリーン	Irene	speaker
-BTL_EVT4.4D12	なに勝手なこと言ってるのよ！{n}そんなことさせないからね！		
+BTL_EVT4.4D12	なに勝手なこと言ってるのよ！{n}そんなことさせないからね！	Don't say whatever you like! I won't let you{n}do that!	
 BTL_EVT4.4D4ES	アイリーン	Irene	speaker
-BTL_EVT4.4D59	この森にも魔族が現れるなんて……。		
+BTL_EVT4.4D59	この森にも魔族が現れるなんて……。	Demons appearing in this forest too...	
 BTL_EVT4.4D7FS	リベザル	Ribezal	speaker
 BTL_EVT4.4D88	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
 BTL_EVT4.4DC6S	リベザル	Ribezal	speaker
 BTL_EVT4.4DCF	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
 BTL_EVT4.4E31S	アイリーン	Irene	speaker
-BTL_EVT4.4E3C	影の正体って、やっぱりシャドウだったのね。		
+BTL_EVT4.4E3C	影の正体って、やっぱりシャドウだったのね。	So the shadow really was a Shadow.	
 BTL_EVT4.4E6AS	アイリーン	Irene	speaker
-BTL_EVT4.4E75	ふう～。これでもう大丈夫。		
+BTL_EVT4.4E75	ふう～。これでもう大丈夫。	Phew~. It's all right now.	
 BTL_EVT4.4E93S	ファントム	Phantom	speaker
 BTL_EVT4.4E9E	ひゅうひゅう……	Hyuu hyuu...	
 BTL_EVT4.4EB2S	ファントム	Phantom	speaker
@@ -660,7 +660,7 @@ BTL_EVT4.4EBD	ひゅうひゅう……	Hyuu hyuu...
 BTL_EVT4.4F19S	私兵	Hired Guard	speaker
 BTL_EVT4.4F1E	痛い目にあいてえのか！	You wanna get hurt?!	
 BTL_EVT4.4F38S	アイリーン	Irene	speaker
-BTL_EVT4.4F43	ふー、まったく物騒なんだから。		
+BTL_EVT4.4F43	ふー、まったく物騒なんだから。	Phew, how dangerous can things get?	
 BTL_EVT4.4F65S	私兵	Hired Guard	speaker
 BTL_EVT4.4F6A	ざまみろ！　	Serves you right!	
 BTL_EVT4.4F7AS	私兵	Hired Guard	speaker
@@ -676,13 +676,13 @@ BTL_EVT4.5033	帝国バンザイ！！	Long live the Empire!!
 BTL_EVT4.50D7S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.50E6	ようこそ、我が城へ。{n}天使の勇者。	Welcome to my castle, angel's hero.	
 BTL_EVT4.510CS	アイリーン	Irene	speaker
-BTL_EVT4.5117	レイブンルフト……{n}吸血鬼の王様ってわけね。		
+BTL_EVT4.5117	レイブンルフト……{n}吸血鬼の王様ってわけね。	Ravenruft... So you're the vampire king.	
 BTL_EVT4.5147S	レイブンルフト	Ravenruft	speaker
-BTL_EVT4.5156	娘よ、死を怖れぬことは美徳ではないぞ。		
+BTL_EVT4.5156	娘よ、死を怖れぬことは美徳ではないぞ。	Girl, not fearing death is no virtue.	
 BTL_EVT4.5180S	アイリーン	Irene	speaker
-BTL_EVT4.518B	ふん……アンデッドなんて怖くないわよ。		
+BTL_EVT4.518B	ふん……アンデッドなんて怖くないわよ。	Hmph... I'm not scared of undead.	
 BTL_EVT4.51B5S	レイブンルフト	Ravenruft	speaker
-BTL_EVT4.51C4	ハハハ、ふるえているぞ、{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。		
+BTL_EVT4.51C4	ハハハ、ふるえているぞ、{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。	Hahaha, you're trembling. Stop pretending to{n}be brave.{wait}{clear}Now, do your best to entertain me.	
 BTL_EVT4.5220S	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.522F	なかなかの力だ……。	Quite some power...	
 BTL_EVT4.5247S	レイブンルフト	Ravenruft	speaker
@@ -712,25 +712,25 @@ BTL_EVT4.547F	……なにが天使の勇者だ。	...Angel's hero, indeed.
 BTL_EVT4.549BS	レイブンルフト	Ravenruft	speaker
 BTL_EVT4.54AA	無様な敗北者が……。	A pathetic loser...	
 BTL_EVT4.54E6S	アイリーン	Irene	speaker
-BTL_EVT4.54F1	この子……強い魔力を持っていたから、{n}きっと利用されたのね……可哀想に……。{wait}{clear}まさか……姉さんが……。		
+BTL_EVT4.54F1	この子……強い魔力を持っていたから、{n}きっと利用されたのね……可哀想に……。{wait}{clear}まさか……姉さんが……。	This boy... had strong magic, so he must{n}have been used... Poor thing...{wait}{clear}Don't tell me... my sister...	
 BTL_EVT4.555DS	イオン	Ion	speaker
 BTL_EVT4.5564	ぼくの邪魔をするから……。	Because you got in my way...	
 BTL_EVT4.5582S	イオン	Ion	speaker
 BTL_EVT4.5589	ぼくの邪魔をするから……。	Because you got in my way...	
 BTL_EVT4.55EFS	アイリーン	Irene	speaker
-BTL_EVT4.55FA	姉さんがなぜ……		
+BTL_EVT4.55FA	姉さんがなぜ……	Why would my sister...	
 BTL_EVT4.560ES	サヴィオ	Savio	speaker
 BTL_EVT4.5617	グハハハハハ。	Guhahahahaha.	
 BTL_EVT4.5629S	サヴィオ	Savio	speaker
 BTL_EVT4.5632	グハハハハハ。	Guhahahahaha.	
 BTL_EVT4.5668S	アイリーン	Irene	speaker
-BTL_EVT4.5673	＄＄＄＄＄＄の言うとおり、{n}帝国軍に魔族がいるなんて……。{wait}{clear}こいつら……まさか召還されて……？		
+BTL_EVT4.5673	＄＄＄＄＄＄の言うとおり、{n}帝国軍に魔族がいるなんて……。{wait}{clear}こいつら……まさか召還されて……？	Just like ＄＄＄＄＄＄ said, there are{n}demons in the Imperial Army...{wait}{clear}Could they... have been summoned...?	
 BTL_EVT4.56D7S	モラクス	Morax	speaker
 BTL_EVT4.56E0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
 BTL_EVT4.572ES	モラクス	Morax	speaker
 BTL_EVT4.5737	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT4.5787S	アイリーン	Irene	speaker
-BTL_EVT4.5792	やっぱり、誰かに召還されたのね……{n}伝説と同じ……。{wait}{clear}いったい誰が……？		
+BTL_EVT4.5792	やっぱり、誰かに召還されたのね……{n}伝説と同じ……。{wait}{clear}いったい誰が……？	So someone did summon them... Just like the{n}legend...{wait}{clear}But who on earth...?	
 BTL_EVT4.57E0S	モラクス	Morax	speaker
 BTL_EVT4.57E9	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT4.5813S	モラクス	Morax	speaker
@@ -738,13 +738,13 @@ BTL_EVT4.581C	ワハハハ！　天使の勇者など、赤子のようだ！	Wa
 BTL_EVT4.586ES	ラルヴァ	Larva	speaker
 BTL_EVT4.5877	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT4.5909S	アイリーン	Irene	speaker
-BTL_EVT4.5914	召還されなければ出てこれなかったくせに！{n}あんたたち魔族なんて、私が倒してあげるわ！		
+BTL_EVT4.5914	召還されなければ出てこれなかったくせに！{n}あんたたち魔族なんて、私が倒してあげるわ！	You couldn't even come out unless someone{n}summoned you! I'll beat you demons myself!	
 BTL_EVT4.596CS	ラルヴァ	Larva	speaker
 BTL_EVT4.5975	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！	Ahahaha! What a funny thing to say! Then{n}let's see what you can do!!	
 BTL_EVT4.59C5S	ラルヴァ	Larva	speaker
 BTL_EVT4.59CE	な、なんで……あたしが……。	H-how... could I...	
 BTL_EVT4.59EES	アイリーン	Irene	speaker
-BTL_EVT4.59F9	ふん！　魔族なんてそんなもんよね。		
+BTL_EVT4.59F9	ふん！　魔族なんてそんなもんよね。	Hmph! That's all demons amount to.	
 BTL_EVT4.5A1FS	ラルヴァ	Larva	speaker
 BTL_EVT4.5A28	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！	Hmph, big words... The real suffering for{n}you lot starts now. Ahahaha!	
 BTL_EVT4.5A7AS	ラルヴァ	Larva	speaker
@@ -756,29 +756,29 @@ BTL_EVT4.5B79	ふふふ……。{n}天使の勇者も所詮この程度なのね
 BTL_EVT4.5BAFS	セレニス	Serenis	speaker
 BTL_EVT4.5BB8	ふふふ……。{n}天使の勇者も所詮この程度なのね……。	Hehehe... So the angel's hero is no more{n}than this after all...	
 BTL_EVT4.5C12S	セレニス	Serenis	speaker
-BTL_EVT4.5C1B	二度と私の前には現れないことね、アイリーン。		
+BTL_EVT4.5C1B	二度と私の前には現れないことね、アイリーン。	Never show yourself before me again, Irene.	
 BTL_EVT4.5C4BS	アイリーン	Irene	speaker
-BTL_EVT4.5C56	姉さん……どうして……。		
+BTL_EVT4.5C56	姉さん……どうして……。	Sister... why...	
 BTL_EVT4.5C72S	セレニス	Serenis	speaker
-BTL_EVT4.5C7B	アハハハハ……！		
+BTL_EVT4.5C7B	アハハハハ……！	Ahahahaha...!	
 BTL_EVT4.5C8FS	セレニス	Serenis	speaker
-BTL_EVT4.5C98	二度と私の前には現れないことね、アイリーン。		
+BTL_EVT4.5C98	二度と私の前には現れないことね、アイリーン。	Never show yourself before me again, Irene.	
 BTL_EVT4.5CC8S	アイリーン	Irene	speaker
-BTL_EVT4.5CD3	姉さん……どうして……。		
+BTL_EVT4.5CD3	姉さん……どうして……。	Sister... why...	
 BTL_EVT4.5CEFS	セレニス	Serenis	speaker
-BTL_EVT4.5CF8	アハハハハ……！		
+BTL_EVT4.5CF8	アハハハハ……！	Ahahahaha...!	
 BTL_EVT4.5D30S	アルベリック	Alberic	speaker
-BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。		
+BTL_EVT4.5D3D	魔導士ごときが、私に歯向かうからだ。	That's what you get for a mere mage defying{n}me.	
 BTL_EVT4.5D65S	アルベリック	Alberic	speaker
-BTL_EVT4.5D72	身のほどを思い知れ！		
+BTL_EVT4.5D72	身のほどを思い知れ！	Learn your place!	
 BTL_EVT4.5DF6S	王の女	King's Lady	speaker
 BTL_EVT4.5DFD	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
 BTL_EVT4.5E4DS	アイリーン	Irene	speaker
-BTL_EVT4.5E58	おばさん！{n}人にものをたずねるときは、{n}自分の名前を先に言うものよ！		
+BTL_EVT4.5E58	おばさん！{n}人にものをたずねるときは、{n}自分の名前を先に言うものよ！	Lady! When you ask someone something, you{n}give your own name first!	
 BTL_EVT4.5EA0S	王の女	King's Lady	speaker
-BTL_EVT4.5EA7	おっ、おばさん！！！{wait}{clear}小娘にそんなことをいわれるなんて許せない！！{n}ここでもずくと消えなさい！！		
+BTL_EVT4.5EA7	おっ、おばさん！！！{wait}{clear}小娘にそんなことをいわれるなんて許せない！！{n}ここでもずくと消えなさい！！	L-lady?!!!{wait}{clear}I won't stand for that from a little girl!!{n}Turn to dust right here and vanish!!	
 BTL_EVT4.5F0DS	アイリーン	Irene	speaker
-BTL_EVT4.5F18	むかつく！！{n}あれ、城がなくなっちゃった？{wait}{clear}ここから先へは進めないってこと？		
+BTL_EVT4.5F18	むかつく！！{n}あれ、城がなくなっちゃった？{wait}{clear}ここから先へは進めないってこと？	So annoying!! Huh, the castle's gone?{wait}{clear}So I can't go any further?	
 BTL_EVT4.5F6AS	王の女	King's Lady	speaker
 BTL_EVT4.5F71	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
 BTL_EVT4.5FB3S	王の女	King's Lady	speaker
@@ -786,23 +786,23 @@ BTL_EVT4.5FBA	逃げましたわよ……。{n}ホホホホ……	They ran away.
 BTL_EVT4.604CS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT4.605B	人間ごときに、我らの邪魔などさせるものか！	We won't let mere humans interfere with us!	
 BTL_EVT4.6089S	アイリーン	Irene	speaker
-BTL_EVT4.6094	アンデッドたちって、サイテー……。		
+BTL_EVT4.6094	アンデッドたちって、サイテー……。	Undead are the worst...	
 BTL_EVT4.60BAS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT4.60C9	人間など、我らの敵ではない！	Humans are no match for us!	
 BTL_EVT4.60E9S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT4.60F8	逃げていきおったわ！	It ran away!	
 BTL_EVT4.617CS	アイリーン	Irene	speaker
-BTL_EVT4.6187	なんで、勇者だった人が吸血鬼なんかに……。		
+BTL_EVT4.6187	なんで、勇者だった人が吸血鬼なんかに……。	Why would someone who was a hero become a{n}vampire...?	
 BTL_EVT4.61B5S	クライヴ	Clive	speaker
 BTL_EVT4.61BE	…………。	.....	
 BTL_EVT4.61CCS	アイリーン	Irene	speaker
-BTL_EVT4.61D7	なにも答えてくれないの？		
+BTL_EVT4.61D7	なにも答えてくれないの？	Won't you answer me at all?	
 BTL_EVT4.61F3S	クライヴ	Clive	speaker
 BTL_EVT4.61FC	…………。	.....	
 BTL_EVT4.620AS	アイリーン	Irene	speaker
-BTL_EVT4.6215	もう……しかたないのね……。		
+BTL_EVT4.6215	もう……しかたないのね……。	Then... it can't be helped...	
 BTL_EVT4.6235S	アイリーン	Irene	speaker
-BTL_EVT4.6240	…………。{wait}{clear}こんなの……悲しすぎるよ……。		
+BTL_EVT4.6240	…………。{wait}{clear}こんなの……悲しすぎるよ……。	......{wait}{clear}This is... just too sad...	
 BTL_EVT4.6270S	クライヴ	Clive	speaker
 BTL_EVT4.6279	…………。	.....	
 BTL_EVT4.6287S	クライヴ	Clive	speaker
@@ -816,9 +816,9 @@ BTL_EVT4.637F	うおおお～んっ！！	Awooooo!!
 BTL_EVT4.6395S	ティンダロス	Tindalos	speaker
 BTL_EVT4.63A2	うおおお～んっ！！	Awooooo!!	
 BTL_EVT4.63DCS	アイリーン	Irene	speaker
-BTL_EVT4.63E7	意味のない儀式なんて、やめなさい！		
+BTL_EVT4.63E7	意味のない儀式なんて、やめなさい！	Stop this meaningless ritual!	
 BTL_EVT4.640DS	アイリーン	Irene	speaker
-BTL_EVT4.6418	魔導士として最悪だわ……あんなの……。		
+BTL_EVT4.6418	魔導士として最悪だわ……あんなの……。	As a mage, that's the worst... that sort of{n}thing...	
 BTL_EVT4.6442S	ウォーロック	Warlock	speaker
 BTL_EVT4.644F	我らの儀式の意味……わかるはずはない……。	The meaning of our ritual... is beyond{n}you...	
 BTL_EVT4.647DS	ウォーロック	Warlock	speaker
@@ -826,13 +826,13 @@ BTL_EVT4.648A	我らの儀式の意味……わかるはずはない……。	Th
 BTL_EVT4.64DCS	ウジャト	Udjat	speaker
 BTL_EVT4.64E5	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！	So you've come, angel's hero. Show me just{n}how strong you are!	
 BTL_EVT4.652DS	アイリーン	Irene	speaker
-BTL_EVT4.6538	これが魔族……。		
+BTL_EVT4.6538	これが魔族……。	So this is a demon...	
 BTL_EVT4.654CS	ウジャト	Udjat	speaker
 BTL_EVT4.6555	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
 BTL_EVT4.6579S	ウジャト	Udjat	speaker
 BTL_EVT4.6582	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
 BTL_EVT4.65CAS	アイリーン	Irene	speaker
-BTL_EVT4.65D5	あんたたちなんて、私が倒してあげるわ！		
+BTL_EVT4.65D5	あんたたちなんて、私が倒してあげるわ！	I'll beat the likes of you myself!	
 BTL_EVT4.65FFS	アイリーン	Irene	speaker
 BTL_EVT4.660A	…………。	.....	
 BTL_EVT4.6618S	ティンダロス	Tindalos	speaker
@@ -842,7 +842,7 @@ BTL_EVT4.6644	ウオォ～ン！！	Awoooo!!
 BTL_EVT4.667AS	モラクス	Morax	speaker
 BTL_EVT4.6683	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！	Hmph, angel's hero or not, you're only{n}human. You can't hope to match me!{wait}{clear}Here I come!	
 BTL_EVT4.66D7S	アイリーン	Irene	speaker
-BTL_EVT4.66E2	あんな連中が生み出されるなんて……。		
+BTL_EVT4.66E2	あんな連中が生み出されるなんて……。	To think things like that are being{n}created...	
 BTL_EVT4.670AS	モラクス	Morax	speaker
 BTL_EVT4.6713	ふははは！　出直してこい！	Fuhahaha! Come back when you're ready!	
 BTL_EVT4.6731S	モラクス	Morax	speaker

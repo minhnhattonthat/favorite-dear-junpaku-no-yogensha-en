@@ -1,0 +1,87 @@
+EvName.028E	Rite of Revival
+EvName.02A6	The Viper's Lure
+EvName.02BE	Cursed Sword
+EvName.02D6	Prince of Darkness
+EvName.02EE	Emperor of Darkness
+EvName.0306	The Emperor's Castle
+EvName.031E	Castle of Legend
+EvName.0336	Graz Invaded
+EvName.034E	Frontier Camp
+EvName.0366	Aalst Invaded
+EvName.037E	Camp Kungur
+EvName.0396	Aarau Invaded
+EvName.03AE	Imperials and Monsters
+EvName.03C6	Bloodsucking Slime
+EvName.03DE	Man-Eating Flower
+EvName.03F6	Kidnappers
+EvName.040E	Port Town Attacked
+EvName.0426	Sea Dragon of Bremes
+EvName.043E	Serpent of the Highway
+EvName.0456	Mountain Monster Bird
+EvName.046E	Giant Centipede Swarm
+EvName.0486	Walking Nightmare
+EvName.049E	The Sobbing Woman
+EvName.04B6	Red Bandits
+EvName.04CE	Red Bandits Return
+EvName.04E6	Demon Bandits
+EvName.04FE	Soldiers of the East
+EvName.0516	Giant of the Highway
+EvName.052E	Orc Rampage
+EvName.0546	Gremlin Swarm
+EvName.055E	Serpent's Temptation
+EvName.0576	Isolated Village
+EvName.058E	Mystery Whirlwinds
+EvName.05A6	Savage Grizzly
+EvName.05BE	Sea Dragon of Rajes
+EvName.05D6	Highway Robbers
+EvName.05EE	Village of the Dead
+EvName.0606	The Unseen Beast
+EvName.061E	Changeling
+EvName.0636	Giant Spider Plague
+EvName.064E	Monster Bird Attack
+EvName.0666	Hobgoblin Raid
+EvName.067E	The Cursed Sea
+EvName.0696	Terror by the Sea
+EvName.06AE	Cursed Village
+EvName.06C6	Black Shadow
+EvName.06DE	Blue Shadow
+EvName.06F6	Red Shadow
+EvName.070E	Mystery Mansion
+EvName.0726	Scylla's Nest
+EvName.073E	Rebel Elements
+EvName.0756	Demon Mansion
+EvName.076E	Freezing Village
+EvName.0786	Devil of Liege
+EvName.079E	The Devil's Steps
+EvName.07B6	Devil of Ilyus
+EvName.07CE	Shadow in Black
+EvName.07E6	Vanished Women
+EvName.07FE	Monster of Limeira
+EvName.0816	Gremlin Rampage
+EvName.082E	Defiled Forest
+EvName.0846	Highway Monster
+FryMsg0.008E	Angel, the chaos in the world seems to be spreading. Please be very careful.
+FryMsg0.00D4	Angel! We can no longer stop the chaos in the world!
+FryMsg0.0110	Angel, please mind your AP. If it runs out, you'll need to return to the Heavens.
+FryMsg0.017A	Angel, your AP has run out. You must return to the Heavens.
+FryMsg0.01C8	Angel, I'm terribly sorry. I've grown a little tired...{wait}{clear}It would help if I could have a day off soon...{wait}{clear}Thank you for considering it, Angel.
+FryMsg0.025C	Excuse me, Angel?{wait}{clear}＜妖精名＞ seems very tired. Please let them rest once in a while.
+FryMsg0.02D0	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens without permission.
+FryMsg0.031C	Angel, a hero wishes to meet with you.{wait}{clear}Will you see ＜勇者名＞?
+FryMsg0.0378	Then I'll let them know.
+FryMsg0.039A	Angel, heroes wish to meet with you.{wait}{clear}Which will you see, ＜勇者名１＞ or ＜勇者名２＞?
+FryMsg0.0436	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up.
+FryMsg0.0478	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up by ○○.
+FryMsg0.04BE	Angel! ＜勇者名＞ has encountered the enemy!
+FryMsg0.04EA	Then please hurry, Angel! And support ＜勇者名＞ in battle!
+FryMsg0.0548	I see... Then we can't support them in battle, but let's at least go watch the fight!
+FryMsg0.05A2	Angel! ＜勇者名＞ has encountered the enemy!{wait}{clear}We can't support them in battle, but let's at least go watch the fight!
+FryMsg0.0612	Angel, it's terrible! ＜勇者名＞ was badly wounded in battle.{wait}{clear}Will you go to ＜勇者名＞?{wait}{clear}And when you reach the hero, please give them a healing item, or accompany them and give your blessing.
+FryMsg0.06EC	Won't you go to ＜勇者名＞, who is badly wounded?{wait}{clear}Please hurry and give them a healing item, or accompany them and give your blessing.
+FryMsg0.077A	It's terrible, Angel! ＜勇者名＞ has gone missing.{wait}{clear}They seemed unhappy lately... What shall we do, Angel?
+FryMsg0.0804	Angel, it's been quite a while since ＜勇者名＞ went missing. Is that all right?
+FryMsg0.085C	We've found ＜勇者名＞, who had gone missing.
+FryMsg0.0896	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in ＜地方名＞. Will you ask a hero to handle it?
+FryMsg0.0912	＜勇者名＞ has resolved ＜イベント名＞.
+FryMsg0.0944	＜勇者名＞ has failed to resolve ＜イベント名＞.
+FryMsg0.0982	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.

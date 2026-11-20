@@ -30,6 +30,9 @@ TAG = re.compile(r"\{[^{}]*\}")
 NAME = "＄＄＄＄＄＄"     # the player's name (6 cells = 12 letters)
 PAGE = "{wait}{clear}"
 ALLOWED = set(font_en.CHARS)
+# Runtime placeholders the game substitutes by string match (table in FD2BN.LKF at 0xE0FC): keep them byte-exact.
+GAME_TAGS = ["＜勇者名１＞", "＜勇者名２＞", "＜勇者名＞", "＜妖精名＞", "＜イベント名＞", "＜地方名＞",
+             "＜目的地名＞", "○○"]
 
 
 def wrap_spec(path, row):
@@ -155,6 +158,10 @@ def check(b):
         if codes(en, soft) != codes(jp, soft):
             errs.append(f"{i}: codes {codes(en, soft)} != {codes(jp, soft)}")
         plain = TAG.sub("", en).replace(NAME, "")
+        for t in GAME_TAGS:
+            if jp.count(t) and not en.count(t):
+                errs.append(f"{i}: placeholder {t} is missing")
+            plain = plain.replace(t, "")
         bad = {c for c in plain if c not in ALLOWED}
         if bad:
             errs.append(f"{i}: characters not in the font {sorted(bad)}")

@@ -1,90 +1,90 @@
 id	jp	en	notes
-EvName.0006	盗賊団		
-EvName.001E	テルエルのゾンビ		
-EvName.0036	貴族の横暴		
-EvName.004E	狙われた村娘たち		
-EvName.0066	タイタンの怒り		
-EvName.007E	帝国侵攻		
-EvName.0096	レウス侵攻		
-EvName.00AE	ラミア侵攻		
-EvName.00C6	イエーナ侵攻		
-EvName.00DE	魔獣襲撃		
-EvName.00F6	カイゼル将軍進軍		
-EvName.010E	ケナー侵攻		
-EvName.0126	人食いの森		
-EvName.013E	呪われた姫君		
-EvName.0156	アルベリック侵攻		
-EvName.016E	血の狂気		
-EvName.0186	血色の鎧		
-EvName.019E	魔獣を連れた少年		
-EvName.01B6	聖都侵攻		
-EvName.01CE	ヴァイパーの挑戦		
-EvName.01E6	キエラング侵攻		
-EvName.01FE	帝国軍の悪魔		
-EvName.0216	ファーノの少年		
-EvName.022E	貴族暗殺		
-EvName.0246	野営地カラーラ		
-EvName.025E	占領された村		
-EvName.0276	呪われた鎧		
-EvName.028E	復活の儀式		
-EvName.02A6	毒蛇の誘い		
-EvName.02BE	魔剣		
-EvName.02D6	闇の王子		
-EvName.02EE	闇の帝王		
-EvName.0306	帝王の城		
-EvName.031E	伝説の城		
-EvName.0336	グラーツ侵攻		
-EvName.034E	辺境の野営地		
-EvName.0366	アールスト侵攻		
-EvName.037E	クングルの野営地		
-EvName.0396	アーラウ侵攻		
-EvName.03AE	帝国軍と魔物		
-EvName.03C6	吸血スライム		
-EvName.03DE	人食い花		
-EvName.03F6	ひとさらい		
-EvName.040E	襲われた港町		
-EvName.0426	ブレメースの海竜		
-EvName.043E	街道の蛇		
-EvName.0456	山岳地帯の怪鳥		
-EvName.046E	大ムカデの大群		
-EvName.0486	動く悪夢		
-EvName.049E	すすり泣く女		
-EvName.04B6	赤の盗賊団		
-EvName.04CE	赤の盗賊団再び		
-EvName.04E6	魔の盗賊団		
-EvName.04FE	東方の兵士たち		
-EvName.0516	街道の巨人		
-EvName.052E	オークの凶行		
-EvName.0546	グレムリンの群れ		
-EvName.055E	蛇の誘惑		
-EvName.0576	孤立した村		
-EvName.058E	謎の竜巻		
-EvName.05A6	凶暴なグリズリー		
-EvName.05BE	ラジェスの海竜		
-EvName.05D6	追いはぎの襲撃		
-EvName.05EE	死人の村		
-EvName.0606	見えない獣		
-EvName.061E	取りかえ子		
-EvName.0636	大グモの大発生		
-EvName.064E	怪鳥の襲撃		
-EvName.0666	ホブゴブリン襲来		
-EvName.067E	呪われた海		
-EvName.0696	海辺の恐怖		
-EvName.06AE	呪われた村		
-EvName.06C6	黒い影		
-EvName.06DE	青い影		
-EvName.06F6	赤い影		
-EvName.070E	謎の館		
-EvName.0726	スキュラの巣		
-EvName.073E	反乱分子		
-EvName.0756	魔族の館		
-EvName.076E	凍える村		
-EvName.0786	リエージュの悪魔		
-EvName.079E	悪魔の歩み		
-EvName.07B6	イリゥウスの悪魔		
-EvName.07CE	黒衣の影		
-EvName.07E6	消えた女たち		
-EvName.07FE	リメイラの怪物		
-EvName.0816	グレムリンの凶行		
-EvName.082E	汚された森		
-EvName.0846	街道の魔物		
+EvName.0006	盗賊団	Bandit Gang	
+EvName.001E	テルエルのゾンビ	Zombies of Teruel	
+EvName.0036	貴族の横暴	Tyrant Nobles	
+EvName.004E	狙われた村娘たち	Village Girls Hunted	
+EvName.0066	タイタンの怒り	Wrath of Titans	
+EvName.007E	帝国侵攻	Imperial Invasion	
+EvName.0096	レウス侵攻	Leus Invaded	
+EvName.00AE	ラミア侵攻	Lamia Invaded	
+EvName.00C6	イエーナ侵攻	Jena Invaded	
+EvName.00DE	魔獣襲撃	Beast Attack	
+EvName.00F6	カイゼル将軍進軍	General Kaiser	
+EvName.010E	ケナー侵攻	Kenner Invaded	
+EvName.0126	人食いの森	Man-Eating Forest	
+EvName.013E	呪われた姫君	Cursed Princess	
+EvName.0156	アルベリック侵攻	Alberic's Invasion	
+EvName.016E	血の狂気	Blood Madness	
+EvName.0186	血色の鎧	Blood-Red Armor	
+EvName.019E	魔獣を連れた少年	Boy with a Beast	
+EvName.01B6	聖都侵攻	Holy City Invaded	
+EvName.01CE	ヴァイパーの挑戦	Viper's Challenge	
+EvName.01E6	キエラング侵攻	Kierang Invaded	
+EvName.01FE	帝国軍の悪魔	Imperial Devil	
+EvName.0216	ファーノの少年	The Boy of Fano	
+EvName.022E	貴族暗殺	Noble Assassinated	
+EvName.0246	野営地カラーラ	Camp Carrara	
+EvName.025E	占領された村	Occupied Village	
+EvName.0276	呪われた鎧	Cursed Armor	
+EvName.028E	復活の儀式	Rite of Revival	
+EvName.02A6	毒蛇の誘い	The Viper's Lure	
+EvName.02BE	魔剣	Cursed Sword	
+EvName.02D6	闇の王子	Prince of Darkness	
+EvName.02EE	闇の帝王	Emperor of Darkness	
+EvName.0306	帝王の城	The Emperor's Castle	
+EvName.031E	伝説の城	Castle of Legend	
+EvName.0336	グラーツ侵攻	Graz Invaded	
+EvName.034E	辺境の野営地	Frontier Camp	
+EvName.0366	アールスト侵攻	Aalst Invaded	
+EvName.037E	クングルの野営地	Camp Kungur	
+EvName.0396	アーラウ侵攻	Aarau Invaded	
+EvName.03AE	帝国軍と魔物	Imperials and Monsters	
+EvName.03C6	吸血スライム	Bloodsucking Slime	
+EvName.03DE	人食い花	Man-Eating Flower	
+EvName.03F6	ひとさらい	Kidnappers	
+EvName.040E	襲われた港町	Port Town Attacked	
+EvName.0426	ブレメースの海竜	Sea Dragon of Bremes	
+EvName.043E	街道の蛇	Serpent of the Highway	
+EvName.0456	山岳地帯の怪鳥	Mountain Monster Bird	
+EvName.046E	大ムカデの大群	Giant Centipede Swarm	
+EvName.0486	動く悪夢	Walking Nightmare	
+EvName.049E	すすり泣く女	The Sobbing Woman	
+EvName.04B6	赤の盗賊団	Red Bandits	
+EvName.04CE	赤の盗賊団再び	Red Bandits Return	
+EvName.04E6	魔の盗賊団	Demon Bandits	
+EvName.04FE	東方の兵士たち	Soldiers of the East	
+EvName.0516	街道の巨人	Giant of the Highway	
+EvName.052E	オークの凶行	Orc Rampage	
+EvName.0546	グレムリンの群れ	Gremlin Swarm	
+EvName.055E	蛇の誘惑	Serpent's Temptation	
+EvName.0576	孤立した村	Isolated Village	
+EvName.058E	謎の竜巻	Mystery Whirlwinds	
+EvName.05A6	凶暴なグリズリー	Savage Grizzly	
+EvName.05BE	ラジェスの海竜	Sea Dragon of Rajes	
+EvName.05D6	追いはぎの襲撃	Highway Robbers	
+EvName.05EE	死人の村	Village of the Dead	
+EvName.0606	見えない獣	The Unseen Beast	
+EvName.061E	取りかえ子	Changeling	
+EvName.0636	大グモの大発生	Giant Spider Plague	
+EvName.064E	怪鳥の襲撃	Monster Bird Attack	
+EvName.0666	ホブゴブリン襲来	Hobgoblin Raid	
+EvName.067E	呪われた海	The Cursed Sea	
+EvName.0696	海辺の恐怖	Terror by the Sea	
+EvName.06AE	呪われた村	Cursed Village	
+EvName.06C6	黒い影	Black Shadow	
+EvName.06DE	青い影	Blue Shadow	
+EvName.06F6	赤い影	Red Shadow	
+EvName.070E	謎の館	Mystery Mansion	
+EvName.0726	スキュラの巣	Scylla's Nest	
+EvName.073E	反乱分子	Rebel Elements	
+EvName.0756	魔族の館	Demon Mansion	
+EvName.076E	凍える村	Freezing Village	
+EvName.0786	リエージュの悪魔	Devil of Liege	
+EvName.079E	悪魔の歩み	The Devil's Steps	
+EvName.07B6	イリゥウスの悪魔	Devil of Ilyus	
+EvName.07CE	黒衣の影	Shadow in Black	
+EvName.07E6	消えた女たち	Vanished Women	
+EvName.07FE	リメイラの怪物	Monster of Limeira	
+EvName.0816	グレムリンの凶行	Gremlin Rampage	
+EvName.082E	汚された森	Defiled Forest	
+EvName.0846	街道の魔物	Highway Monster	

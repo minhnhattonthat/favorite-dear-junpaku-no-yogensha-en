@@ -1,0 +1,177 @@
+id	en
+EMP_NG0.00D2	The Empire's moves worry me, but I doubt I'd make it in time.{wait}{clear}Sorry, but could you ask someone else?
+EMP_NG1.000E	Fight the Imperial Army... I can't...
+EMP_NG1.0030	I can't take on the Imperial Army alone. Sorry, but try someone else.
+EMP_NG1.0074	I understand... But I doubt I'd make it in time now... Sorry, but try someone else.
+EMP_NG2.000E	The Empire?! I can't forgive them, but with my strength right now...{wait}{clear}Sorry, but could you ask somebody else?
+EMP_NG2.0074	The Empire worries me, but I'm no match for them right now...{wait}{clear}Sorry, but could you ask somebody else?
+EMP_NG2.00E0	I get it, but I don't think I'd make it in time if I headed there now...{wait}{clear}I can't forgive the Empire, but if I'm too late, there's no undoing it, right? Then you'd better ask somebody else, don't you think?
+EMP_NG3.000E	The Empire...{wait}{clear}But I'm not confident I can handle them on my own...{wait}{clear}Sorry, but could you ask someone else?
+EMP_NG3.0084	I can't forgive the Empire, but I doubt I'm a match for them as I am now. Sorry, but could you ask someone else?
+EMP_NG3.00EE	I understand, but even if I set out now, I'd never make it in time.{wait}{clear}Sorry, but you'd better ask someone else...
+EMP_NG4.000E	The Empire...? But... sorry... There's no way I can beat them on my own right now...{wait}{clear}Could you ask someone else? Sorry...
+EMP_NG4.008A	I get it, but sorry. I don't think they're the kind of enemy I can handle by myself.{wait}{clear}Sorry, but try asking someone else.
+EMP_NG4.0106	The Empire's moves worry me, but would I even make it in time if I went now?{wait}{clear}If there's no undoing it, I think you'd better ask someone else.
+EMP_NG5.000E	The Empire...? But... on my own... and besides...{wait}{clear}I'm sorry. I know I'm the one who really should go. But I'm not confident I can stop the Empire as it is now...
+EMP_NG5.00AE	I understand... But the Imperial Army isn't so easy that I could face it alone. And as I am now, I could never...{wait}{clear}I'm sorry... Please ask someone else...
+EMP_NG5.014C	I won't make it in time now... I'm the one who should go, but... I'm sorry...
+EMP_NG6.000E	I'm sorry, Angel... I don't think I'm strong enough to face the Imperial Army right now.{wait}{clear}I'm very sorry, but could you ask someone else?
+EMP_NG6.0142	I understand, but even if I head there now, I don't think I'll make it in time...{wait}{clear}I'm sorry, but I think it would be better to ask someone else.
+EMP_OK0.000E	The Empire? All right, I'll go.
+EMP_OK0.0030	I won't forgive the Empire's tyranny... I'll go...
+EMP_OK0.005C	...The Empire plays dirty.{wait}{clear}All right... I'll go.
+EMP_OK1.000E	The Empire... It's nothing to do with me, but... fine...
+EMP_OK1.0040	Fine. If I'll do, I'll go...
+EMP_OK1.0064	The Empire... They're nothing to do with me, but if you insist, I'll go.
+EMP_OK2.000E	The Empire's doing something awful?{wait}{clear}Got it, I'll go! I can't forgive them!
+EMP_OK2.0064	The Empire...{wait}{clear}Okay... I don't know how well I can hold them off, but I'll go.
+EMP_OK2.00B8	Those Imperials... What are they thinking?! Damn it!{wait}{clear}I'm heading there right now! I'll deal with them.
+EMP_OK3.000E	The Empire...?!{wait}{clear}All right, I'll go at once.
+EMP_OK3.003A	I see... the Imperials...{wait}{clear}I'll go...
+EMP_OK3.006E	All right, I'll head there now. Their methods are the one thing I can't forgive.
+EMP_OK4.000E	The Empire? ...Okay, I'll go.
+EMP_OK4.0030	They do such awful things...{wait}{clear}I'm off. The Empire's ways are one thing I can't forgive.
+EMP_OK4.0080	Okay, I'll go right away. Because I can't... forgive the Empire...
+EMP_OK5.000E	The Empire? I understand... I'll deal with my own country.
+EMP_OK5.0050	I understand... I'll go...{wait}{clear}No, I must go...
+EMP_OK5.0098	I understand, I'll go...{wait}{clear}But what on earth has become of the Empire...?
+EMP_OK6.000E	The Empire? I understand, Angel. I'll head there at once!
+EMP_OK6.0046	I understand, Angel. I don't know how much I can do against the Imperial Army, but I'll go.
+EMP_OK6.0098	I understand. I can't forgive what the Empire is doing. I'll go...
+EQP_Item.013A	This is a large double-edged two-handed sword.
+EQP_Item.01C6	This is a single-edged two-handed sword.
+EQP_Item.023E	This is a curved blade.
+EQP_Item.0298	This is a staff.
+EQP_Item.02FC	This is a rod.
+EQP_Item.0356	This is a saber.
+EQP_Item.03BA	This is a bow.
+EQP_Item.0400	This is a robe.
+EQP_Item.04A2	This is light armor.
+EQP_Item.0556	This is standard armor.
+EQP_Item.060A	This is a pendant.
+EQP_Item.06A4	This is a bracelet.
+EQP_Item.074C	This is a ring.
+EQP_Item.07CA	These are boots.
+EQP_Item.0824	This is a charm.
+EQP_Item.08A2	Trust 85-101 (Fein)
+EQP_Item.08C2	Trust 102-127 (Fein)
+EQP_Item.08E4	Trust 85-101 (Clive)
+EQP_Item.0904	Trust 102-127 (Clive)
+EQP_Item.0926	Trust 256-512 (Rudi)
+EQP_Item.0946	Trust 102-127 (Rocus)
+EQP_Item.0966	Trust 256-512 (Leyla)
+EQP_Item.0AEE	Event item for Clive only (no other hero or the angel can get it)
+EvName.0006	Bandit Gang
+EvName.001E	Zombies of Teruel
+EvName.0036	Tyrant Nobles
+EvName.004E	Village Girls Hunted
+EvName.0066	Wrath of Titans
+EvName.007E	Imperial Invasion
+EvName.0096	Leus Invaded
+EvName.00AE	Lamia Invaded
+EvName.00C6	Jena Invaded
+EvName.00DE	Beast Attack
+EvName.00F6	General Kaiser
+EvName.010E	Kenner Invaded
+EvName.0126	Man-Eating Forest
+EvName.013E	Cursed Princess
+EvName.0156	Alberic's Invasion
+EvName.016E	Blood Madness
+EvName.0186	Blood-Red Armor
+EvName.019E	Boy with a Beast
+EvName.01B6	Holy City Invaded
+EvName.01CE	Viper's Challenge
+EvName.01E6	Kierang Invaded
+EvName.01FE	Imperial Devil
+EvName.0216	The Boy of Fano
+EvName.022E	Noble Assassinated
+EvName.0246	Camp Carrara
+EvName.025E	Occupied Village
+EvName.0276	Cursed Armor
+EvName.028E	Rite of Revival
+EvName.02A6	The Viper's Lure
+EvName.02BE	Cursed Sword
+EvName.02D6	Prince of Darkness
+EvName.02EE	Emperor of Darkness
+EvName.0306	The Emperor's Castle
+EvName.031E	Castle of Legend
+EvName.0336	Graz Invaded
+EvName.034E	Frontier Camp
+EvName.0366	Aalst Invaded
+EvName.037E	Camp Kungur
+EvName.0396	Aarau Invaded
+EvName.03AE	Imperials and Monsters
+EvName.03C6	Bloodsucking Slime
+EvName.03DE	Man-Eating Flower
+EvName.03F6	Kidnappers
+EvName.040E	Port Town Attacked
+EvName.0426	Sea Dragon of Bremes
+EvName.043E	Serpent of the Highway
+EvName.0456	Mountain Monster Bird
+EvName.046E	Giant Centipede Swarm
+EvName.0486	Walking Nightmare
+EvName.049E	The Sobbing Woman
+EvName.04B6	Red Bandits
+EvName.04CE	Red Bandits Return
+EvName.04E6	Demon Bandits
+EvName.04FE	Soldiers of the East
+EvName.0516	Giant of the Highway
+EvName.052E	Orc Rampage
+EvName.0546	Gremlin Swarm
+EvName.055E	Serpent's Temptation
+EvName.0576	Isolated Village
+EvName.058E	Mystery Whirlwinds
+EvName.05A6	Savage Grizzly
+EvName.05BE	Sea Dragon of Rajes
+EvName.05D6	Highway Robbers
+EvName.05EE	Village of the Dead
+EvName.0606	The Unseen Beast
+EvName.061E	Changeling
+EvName.0636	Giant Spider Plague
+EvName.064E	Monster Bird Attack
+EvName.0666	Hobgoblin Raid
+EvName.067E	The Cursed Sea
+EvName.0696	Terror by the Sea
+EvName.06AE	Cursed Village
+EvName.06C6	Black Shadow
+EvName.06DE	Blue Shadow
+EvName.06F6	Red Shadow
+EvName.070E	Mystery Mansion
+EvName.0726	Scylla's Nest
+EvName.073E	Rebel Elements
+EvName.0756	Demon Mansion
+EvName.076E	Freezing Village
+EvName.0786	Devil of Liege
+EvName.079E	The Devil's Steps
+EvName.07B6	Devil of Ilyus
+EvName.07CE	Shadow in Black
+EvName.07E6	Vanished Women
+EvName.07FE	Monster of Limeira
+EvName.0816	Gremlin Rampage
+EvName.082E	Defiled Forest
+EvName.0846	Highway Monster
+FryMsg0.008E	Angel, the chaos in the world seems to be spreading. Please be very careful.
+FryMsg0.00D4	Angel! We can no longer stop the chaos in the world!
+FryMsg0.0110	Angel, please mind your AP. If it runs out, you'll need to return to the Heavens.
+FryMsg0.017A	Angel, your AP has run out. You must return to the Heavens.
+FryMsg0.01C8	Angel, I'm terribly sorry. I've grown a little tired...{wait}{clear}It would help if I could have a day off soon...{wait}{clear}Thank you for considering it, Angel.
+FryMsg0.025C	Excuse me, Angel?{wait}{clear}＜妖精名＞ seems very tired. Please let them rest once in a while.
+FryMsg0.02D0	Angel, I'm terribly sorry.{wait}{clear}＜妖精名＞ has gone back to the Heavens without permission.
+FryMsg0.031C	Angel, a hero wishes to meet with you.{wait}{clear}Will you see ＜勇者名＞?
+FryMsg0.0378	Then I'll let them know.
+FryMsg0.039A	Angel, heroes wish to meet with you.{wait}{clear}Which will you see, ＜勇者名１＞ or ＜勇者名２＞?
+FryMsg0.0436	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up.
+FryMsg0.0478	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up by ○○.
+FryMsg0.04BE	Angel! ＜勇者名＞ has encountered the enemy!
+FryMsg0.04EA	Then please hurry, Angel! And support ＜勇者名＞ in battle!
+FryMsg0.0548	I see... Then we can't support them in battle, but let's at least go watch the fight!
+FryMsg0.05A2	Angel! ＜勇者名＞ has encountered the enemy!{wait}{clear}We can't support them in battle, but let's at least go watch the fight!
+FryMsg0.0612	Angel, it's terrible! ＜勇者名＞ was badly wounded in battle.{wait}{clear}Will you go to ＜勇者名＞?{wait}{clear}And when you reach the hero, please give them a healing item, or accompany them and give your blessing.
+FryMsg0.06EC	Won't you go to ＜勇者名＞, who is badly wounded?{wait}{clear}Please hurry and give them a healing item, or accompany them and give your blessing.
+FryMsg0.077A	It's terrible, Angel! ＜勇者名＞ has gone missing.{wait}{clear}They seemed unhappy lately... What shall we do, Angel?
+FryMsg0.0804	Angel, it's been quite a while since ＜勇者名＞ went missing. Is that all right?
+FryMsg0.085C	We've found ＜勇者名＞, who had gone missing.
+FryMsg0.0896	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in ＜地方名＞. Will you ask a hero to handle it?
+FryMsg0.0912	＜勇者名＞ has resolved ＜イベント名＞.
+FryMsg0.0944	＜勇者名＞ has failed to resolve ＜イベント名＞.
+FryMsg0.0982	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.

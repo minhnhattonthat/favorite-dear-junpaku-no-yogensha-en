@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_OK4.000E	帝国が？{n}……わかった、行くわ。		
-EMP_OK4.0030	ひどいことする連中よね……。{wait}{clear}行ってくる。{n}帝国のやり方だけは許せないから。		
-EMP_OK4.0080	わかったわ、すぐに行くわ。{n}帝国は……許せないから……。		
-EMP_OK4.00BA	帝国が？{n}……わかった、行くわ。		
-EMP_OK4.00DC	ひどいことする連中よね……。{wait}{clear}行ってくる。{n}帝国のやり方だけは許せないから。		
-EMP_OK4.012C	わかったわ、すぐに行くわ。{n}帝国は……許せないから……。		
+EMP_OK4.000E	帝国が？{n}……わかった、行くわ。	The Empire? ...Okay, I'll go.	
+EMP_OK4.0030	ひどいことする連中よね……。{wait}{clear}行ってくる。{n}帝国のやり方だけは許せないから。	They do such awful things...{wait}{clear}I'm off. The Empire's ways are one thing I{n}can't forgive.	
+EMP_OK4.0080	わかったわ、すぐに行くわ。{n}帝国は……許せないから……。	Okay, I'll go right away. Because I can't...{n}forgive the Empire...	
+EMP_OK4.00BA	帝国が？{n}……わかった、行くわ。	The Empire? ...Okay, I'll go.	
+EMP_OK4.00DC	ひどいことする連中よね……。{wait}{clear}行ってくる。{n}帝国のやり方だけは許せないから。	They do such awful things...{wait}{clear}I'm off. The Empire's ways are one thing I{n}can't forgive.	
+EMP_OK4.012C	わかったわ、すぐに行くわ。{n}帝国は……許せないから……。	Okay, I'll go right away. Because I can't...{n}forgive the Empire...	

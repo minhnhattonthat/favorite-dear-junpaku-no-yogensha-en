@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_NG2.000E	帝国が！？{n}やつらは許せないけど、いまのおれの力じゃ……。{wait}{clear}悪いけど他のひとに頼んでもらえないか？		
-EMP_NG2.0074	帝国のことは気になるけど、{n}いまのおれじゃ、かなわない……。{wait}{clear}悪いけど、他のやつに頼んでもらいえないか？		
-EMP_NG2.00E0	話はわかったけど、{n}おれがいま、そこへ向かっても{n}間に合うとは思えないな……。{wait}{clear}帝国は許せないけど、{n}間に合わなかったら取り返しがつかないだろ？{n}だったら、他のやつに頼んだ方がいいんじゃないか？		
-EMP_NG2.01A6	帝国が！？{n}やつらは許せないけど、いまのおれの力じゃ……。{wait}{clear}悪いけど他のひとに頼んでもらえないか？		
-EMP_NG2.020C	帝国のことは気になるけど、{n}いまのおれじゃ、かなわない……。{wait}{clear}悪いけど、他のやつに頼んでもらいえないか？		
-EMP_NG2.0278	話はわかったけど、{n}おれがいま、そこへ向かっても{n}間に合うとは思えないな……。{wait}{clear}帝国は許せないけど、{n}間に合わなかったら取り返しがつかないだろ？{n}だったら、他のやつに頼んだ方がいいんじゃないか？		
+EMP_NG2.000E	帝国が！？{n}やつらは許せないけど、いまのおれの力じゃ……。{wait}{clear}悪いけど他のひとに頼んでもらえないか？	The Empire?! I can't forgive them, but with{n}my strength right now...{wait}{clear}Sorry, but could you ask somebody else?	
+EMP_NG2.0074	帝国のことは気になるけど、{n}いまのおれじゃ、かなわない……。{wait}{clear}悪いけど、他のやつに頼んでもらいえないか？	The Empire worries me, but I'm no match for{n}them right now...{wait}{clear}Sorry, but could you ask somebody else?	
+EMP_NG2.00E0	話はわかったけど、{n}おれがいま、そこへ向かっても{n}間に合うとは思えないな……。{wait}{clear}帝国は許せないけど、{n}間に合わなかったら取り返しがつかないだろ？{n}だったら、他のやつに頼んだ方がいいんじゃないか？	I get it, but I don't think I'd make it in{n}time if I headed there now...{wait}{clear}I can't forgive the Empire, but if I'm too{n}late, there's no undoing it, right? Then{n}you'd better ask somebody else, don't you{wait}{clear}think?	
+EMP_NG2.01A6	帝国が！？{n}やつらは許せないけど、いまのおれの力じゃ……。{wait}{clear}悪いけど他のひとに頼んでもらえないか？	The Empire?! I can't forgive them, but with{n}my strength right now...{wait}{clear}Sorry, but could you ask somebody else?	
+EMP_NG2.020C	帝国のことは気になるけど、{n}いまのおれじゃ、かなわない……。{wait}{clear}悪いけど、他のやつに頼んでもらいえないか？	The Empire worries me, but I'm no match for{n}them right now...{wait}{clear}Sorry, but could you ask somebody else?	
+EMP_NG2.0278	話はわかったけど、{n}おれがいま、そこへ向かっても{n}間に合うとは思えないな……。{wait}{clear}帝国は許せないけど、{n}間に合わなかったら取り返しがつかないだろ？{n}だったら、他のやつに頼んだ方がいいんじゃないか？	I get it, but I don't think I'd make it in{n}time if I headed there now...{wait}{clear}I can't forgive the Empire, but if I'm too{n}late, there's no undoing it, right? Then{n}you'd better ask somebody else, don't you{wait}{clear}think?	

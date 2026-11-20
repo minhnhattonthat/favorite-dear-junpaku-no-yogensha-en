@@ -14,13 +14,13 @@ BTL_EVT6.0326	お前たちが我々帝国軍にかなうはずなどない！{n}
 BTL_EVT6.036AS	帝国騎士	Knight	speaker
 BTL_EVT6.0373	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！	You could never match the Imperial Army!{n}Wahahahaha...!	
 BTL_EVT6.03DBS	ファントム	Phantom	speaker
-BTL_EVT6.03E6	グググ……。		
+BTL_EVT6.03E6	グググ……。	Ghhh...	
 BTL_EVT6.03F6S	セシア	Cecia	speaker
-BTL_EVT6.03FD	お前は何者？{n}どうして人を襲ったの？		
+BTL_EVT6.03FD	お前は何者？{n}どうして人を襲ったの？	What are you? Why did you attack people?	
 BTL_EVT6.0425S	ファントム	Phantom	speaker
-BTL_EVT6.0430	て、テイコクが……ググ……。		
+BTL_EVT6.0430	て、テイコクが……ググ……。	Th-the Empire... Ghh...	
 BTL_EVT6.0450S	セシア	Cecia	speaker
-BTL_EVT6.0457	帝国？{n}まさか……帝国が魔物を利用しているの？{wait}{clear}こんなところまで帝国の魔物が入り込むなんて……{n}聖母様のお力が……。		
+BTL_EVT6.0457	帝国？{n}まさか……帝国が魔物を利用しているの？{wait}{clear}こんなところまで帝国の魔物が入り込むなんて……{n}聖母様のお力が……。	The Empire? Could it be... the Empire is{n}using monsters?{wait}{clear}Imperial monsters getting in this far... The{n}Holy Mother's power must be...	
 BTL_EVT6.04D1S	ファントム	Phantom	speaker
 BTL_EVT6.04DC	…………。	.....	
 BTL_EVT6.04EAS	ファントム	Phantom	speaker
@@ -30,21 +30,21 @@ BTL_EVT6.052E	ぼくの邪魔をするから……。	Because you got in my way.
 BTL_EVT6.054CS	イオン	Ion	speaker
 BTL_EVT6.0553	ぼくの邪魔をするから……。	Because you got in my way...	
 BTL_EVT6.0595S	セシア	Cecia	speaker
-BTL_EVT6.059C	人々を傷つけるのはやめてください！		
+BTL_EVT6.059C	人々を傷つけるのはやめてください！	Please stop hurting people!	
 BTL_EVT6.05C2S	帝国兵	Soldier	speaker
 BTL_EVT6.05C9	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！	None of your business... We'll spare no one{n}who defies us!	
 BTL_EVT6.0611S	セシア	Cecia	speaker
-BTL_EVT6.0618	なにが起ころうとしているの……？		
+BTL_EVT6.0618	なにが起ころうとしているの……？	What is about to happen...?	
 BTL_EVT6.063CS	帝国兵	Soldier	speaker
 BTL_EVT6.0643	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
 BTL_EVT6.066FS	帝国兵	Soldier	speaker
 BTL_EVT6.0676	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
 BTL_EVT6.06C6S	セシア	Cecia	speaker
-BTL_EVT6.06CD	これ以上人々を傷つけるのはやめてください！		
+BTL_EVT6.06CD	これ以上人々を傷つけるのはやめてください！	Please stop hurting people any more!	
 BTL_EVT6.06FBS	帝国兵	Soldier	speaker
 BTL_EVT6.0702	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！	None of your business... We'll spare no one{n}who defies us!	
 BTL_EVT6.074AS	セシア	Cecia	speaker
-BTL_EVT6.0751	こんなひどいこと……{n}止めなくちゃ……。		
+BTL_EVT6.0751	こんなひどいこと……{n}止めなくちゃ……。	Something this terrible... I have to stop{n}it...	
 BTL_EVT6.077DS	帝国兵	Soldier	speaker
 BTL_EVT6.0784	我々の邪魔をするなど……{n}愚かなやつめ！	Getting in our way... You fool!	
 BTL_EVT6.07B0S	帝国兵	Soldier	speaker
@@ -64,11 +64,11 @@ BTL_EVT6.098B	天使の勇者か……	The angel's hero...
 BTL_EVT6.099FS	アルベリック	Alberic	speaker
 BTL_EVT6.09AC	我が魔剣の餌食となりにきたな……	You've come to feed my cursed sword...	
 BTL_EVT6.09D0S	セシア	Cecia	speaker
-BTL_EVT6.09D7	あなた……{n}あなたも悪魔に魅入られているの？		
+BTL_EVT6.09D7	あなた……{n}あなたも悪魔に魅入られているの？	You... Are you bewitched by a devil too?	
 BTL_EVT6.0A07S	アルベリック	Alberic	speaker
-BTL_EVT6.0A14	ふふふ……私は力を手に入れた。{n}ただ、それだけのことだ……。{wait}{clear}おお、この剣が騒いでいる。{n}天使の勇者の血を見たいと……！		
+BTL_EVT6.0A14	ふふふ……私は力を手に入れた。{n}ただ、それだけのことだ……。{wait}{clear}おお、この剣が騒いでいる。{n}天使の勇者の血を見たいと……！	Hehehe... I obtained power. That is all...{wait}{clear}Oh, this sword is stirring. It wants to see{n}the blood of the angel's hero...!	
 BTL_EVT6.0A92S	セシア	Cecia	speaker
-BTL_EVT6.0A99	あの剣に操られて……可哀想な人……。		
+BTL_EVT6.0A99	あの剣に操られて……可哀想な人……。	Controlled by that sword... Poor man...	
 BTL_EVT6.0AC1S	アルベリック	Alberic	speaker
 BTL_EVT6.0ACE	この剣も喜んでいる……	This sword is pleased too...	
 BTL_EVT6.0AE8S	アルベリック	Alberic	speaker
@@ -82,7 +82,7 @@ BTL_EVT6.0BA8	帝国バンザイ！！	Long live the Empire!!
 BTL_EVT6.0BE0S	帝国兵	Soldier	speaker
 BTL_EVT6.0BE7	我々に、歯向かうやつはどこだ！！	Where's the one who dares defy us?!!	
 BTL_EVT6.0C0BS	セシア	Cecia	speaker
-BTL_EVT6.0C12	こんなことって……！！		
+BTL_EVT6.0C12	こんなことって……！！	How can this be...!!	
 BTL_EVT6.0C2CS	帝国兵	Soldier	speaker
 BTL_EVT6.0C33	我々に勝てるとおもっているか！！	You think you can beat us?!!	
 BTL_EVT6.0C57S	帝国兵	Soldier	speaker
@@ -98,7 +98,7 @@ BTL_EVT6.0D22	おれに勝てるはずなどない！　わはははは！	You c
 BTL_EVT6.0D72S	盗賊	Bandit	speaker
 BTL_EVT6.0D77	てめえ、やっちまうぞ。	I'm gonna take you down.	
 BTL_EVT6.0D91S	セシア	Cecia	speaker
-BTL_EVT6.0D98	そんな脅し、私には通用しません！		
+BTL_EVT6.0D98	そんな脅し、私には通用しません！	Threats like that won't work on me!	
 BTL_EVT6.0DBCS	セシア	Cecia	speaker
 BTL_EVT6.0DC3	…………。	.....	
 BTL_EVT6.0DD1S	盗賊	Bandit	speaker
@@ -110,7 +110,7 @@ BTL_EVT6.0E5E	なんだ貴様は？	Who are you?
 BTL_EVT6.0E70S	セシア	Cecia	speaker
 BTL_EVT6.0E77	お前らか、こんなことをしたのは……。	So you're the ones who did this...	
 BTL_EVT6.0E9FS	セシア	Cecia	speaker
-BTL_EVT6.0EA6	ひどい！　ひどすぎます。		
+BTL_EVT6.0EA6	ひどい！　ひどすぎます。	Awful! This is too awful.	
 BTL_EVT6.0EC2S	帝国兵	Soldier	speaker
 BTL_EVT6.0EC9	我々も甘く見られたものだな。	We've been underestimated, it seems.	
 BTL_EVT6.0EE9S	帝国兵	Soldier	speaker
@@ -118,7 +118,7 @@ BTL_EVT6.0EF0	我々も甘く見られたものだな。	We've been underestimat
 BTL_EVT6.0F34S	ゾンビ	Zombie	speaker
 BTL_EVT6.0F3B	ヴヴヴ……。	Grrrr...	
 BTL_EVT6.0F4BS	セシア	Cecia	speaker
-BTL_EVT6.0F52	あなたたち、静かに眠りなさい！！		
+BTL_EVT6.0F52	あなたたち、静かに眠りなさい！！	Sleep quietly, all of you!!	
 BTL_EVT6.0F76S	セシア	Cecia	speaker
 BTL_EVT6.0F7D	…………。	.....	
 BTL_EVT6.0F8BS	ゾンビ	Zombie	speaker
@@ -128,9 +128,9 @@ BTL_EVT6.0FAD	ウウヴッッ……。	Uurrgh...
 BTL_EVT6.0FE5S	吸血鬼	Vampire	speaker
 BTL_EVT6.0FEC	なんだ貴様は？	Who are you?	
 BTL_EVT6.0FFES	セシア	Cecia	speaker
-BTL_EVT6.1005	あなたこそ、なんなのですか？{n}人を襲うのはやめなさい！		
+BTL_EVT6.1005	あなたこそ、なんなのですか？{n}人を襲うのはやめなさい！	What are you, then? Stop attacking people!	
 BTL_EVT6.103FS	セシア	Cecia	speaker
-BTL_EVT6.1046	これからも戦いは続くのですね……。		
+BTL_EVT6.1046	これからも戦いは続くのですね……。	The fighting will go on, won't it...	
 BTL_EVT6.106CS	吸血鬼	Vampire	speaker
 BTL_EVT6.1073	人間ごときが、我らにかなうはずなかろう！	Mere humans can't hope to match us!	
 BTL_EVT6.109FS	吸血鬼	Vampire	speaker
@@ -138,9 +138,9 @@ BTL_EVT6.10A6	おお、逃げていったわ！{n}わはははは……！	Oh, i
 BTL_EVT6.10F6S	メデューサ	Medusa	speaker
 BTL_EVT6.1101	ほほほ……。	Ohoho...	
 BTL_EVT6.1111S	セシア	Cecia	speaker
-BTL_EVT6.1118	油断させようとしても、むだです！		
+BTL_EVT6.1118	油断させようとしても、むだです！	Trying to catch me off guard is useless!	
 BTL_EVT6.113CS	セシア	Cecia	speaker
-BTL_EVT6.1143	なんだか……可哀想……。		
+BTL_EVT6.1143	なんだか……可哀想……。	Somehow... I feel sorry for them...	
 BTL_EVT6.115FS	メデューサ	Medusa	speaker
 BTL_EVT6.116A	こんなおしとやかな私に負けるなんて……{n}情けない女……。	Losing to a demure lady like me... What a{n}pathetic woman...	
 BTL_EVT6.11A6S	メデューサ	Medusa	speaker
@@ -148,21 +148,21 @@ BTL_EVT6.11B1	こんなおしとやかな私に負けるなんて……{n}情け
 BTL_EVT6.1211S	暗殺者	Assassin	speaker
 BTL_EVT6.1218	なんだー、お前は？{n}オレたちの邪魔をするな！	Huh? Who are you? Don't get in our way!	
 BTL_EVT6.1248S	セシア	Cecia	speaker
-BTL_EVT6.124F	こんな人たちが、たくさんいるのですね……。		
+BTL_EVT6.124F	こんな人たちが、たくさんいるのですね……。	There are so many people like this...	
 BTL_EVT6.127DS	暗殺者	Assassin	speaker
 BTL_EVT6.1284	いい気味だぜ。	Serves you right.	
 BTL_EVT6.1296S	暗殺者	Assassin	speaker
 BTL_EVT6.129D	はっ！　逃げて行きやがったぜ！	Hah! It ran off!	
 BTL_EVT6.12E3S	セシア	Cecia	speaker
-BTL_EVT6.12EA	どうして魔族が帝国軍に？		
+BTL_EVT6.12EA	どうして魔族が帝国軍に？	Why are there demons in the Imperial Army?	
 BTL_EVT6.1306S	セシア	Cecia	speaker
-BTL_EVT6.130D	これが魔石の力……{n}止めないと……。		
+BTL_EVT6.130D	これが魔石の力……{n}止めないと……。	So this is the Demon Stone's power... I have{n}to stop it...	
 BTL_EVT6.1335S	帝国軍	Imperials	speaker
 BTL_EVT6.133C	ははははは！	Hahahahaha!	
 BTL_EVT6.134CS	帝国軍	Imperials	speaker
 BTL_EVT6.1353	ははははは！	Hahahahaha!	
 BTL_EVT6.1387S	セシア	Cecia	speaker
-BTL_EVT6.138E	どうしてこんなことをするの？		
+BTL_EVT6.138E	どうしてこんなことをするの？	Why are you doing this?	
 BTL_EVT6.13AES	暗殺者	Assassin	speaker
 BTL_EVT6.13B5	我々の邪魔をするな！	Don't get in our way!	
 BTL_EVT6.13CDS	暗殺者	Assassin	speaker
@@ -174,9 +174,9 @@ BTL_EVT6.1402	思い知ったか！	That'll teach you!
 BTL_EVT6.1438S	ティタン	Titan	speaker
 BTL_EVT6.1441	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！	Wh-what do you want...{wait}{clear}Th-this is our land now. Get out!	
 BTL_EVT6.1485S	セシア	Cecia	speaker
-BTL_EVT6.148C	あなたたちがここを奪った土地を、取り戻します！		
+BTL_EVT6.148C	あなたたちがここを奪った土地を、取り戻します！	I'll take back the land you stole!	
 BTL_EVT6.14BES	セシア	Cecia	speaker
-BTL_EVT6.14C5	なんだか、可哀想……。		
+BTL_EVT6.14C5	なんだか、可哀想……。	Somehow, I feel sorry for them...	
 BTL_EVT6.14DFS	ティタン	Titan	speaker
 BTL_EVT6.14E8	に、二度とくるな！！	D-don't ever come back!!	
 BTL_EVT6.1500S	ティタン	Titan	speaker
@@ -184,153 +184,153 @@ BTL_EVT6.1509	に、二度とくるな！！	D-don't ever come back!!
 BTL_EVT6.1569S	クラレンス	Clarence	speaker
 BTL_EVT6.1574	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。	Damn... I wanted to see the world end with{n}my own eyes...	
 BTL_EVT6.15AES	セシア	Cecia	speaker
-BTL_EVT6.15B5	なぜそんなにこの世界を恨んでいるの？		
+BTL_EVT6.15B5	なぜそんなにこの世界を恨んでいるの？	Why do you hate this world so much?	
 BTL_EVT6.15DDS	クラレンス	Clarence	speaker
 BTL_EVT6.15E8	お前には関係ねえよ……{n}先に地獄で待ってるぜ……。	None of your business... I'll be waiting for{n}you in hell...	
 BTL_EVT6.161ES	セシア	Cecia	speaker
-BTL_EVT6.1625	どうして……そんな……。		
+BTL_EVT6.1625	どうして……そんな……。	Why... how could...	
 BTL_EVT6.1641S	クラレンス	Clarence	speaker
 BTL_EVT6.164C	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。	So long, angel's hero.{wait}{clear}...Don't worry, I'll be along later too.	
 BTL_EVT6.168ES	クラレンス	Clarence	speaker
 BTL_EVT6.1699	ははは！　いい様だぜ！	Hahaha! Serves you right!	
 BTL_EVT6.16FBS	セシア	Cecia	speaker
-BTL_EVT6.1702	こんなひどいことをして……許せない……。		
+BTL_EVT6.1702	こんなひどいことをして……許せない……。	Doing something so cruel... I can't forgive{n}it...	
 BTL_EVT6.172ES	帝国兵	Soldier	speaker
 BTL_EVT6.1735	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！	Hmph! None of your business. If you get in{n}our way, we'll simply kill you!	
 BTL_EVT6.1779S	セシア	Cecia	speaker
-BTL_EVT6.1780	なにか悪いことが起ころうとしているの……？		
+BTL_EVT6.1780	なにか悪いことが起ころうとしているの……？	Is something bad about to happen...?	
 BTL_EVT6.17AES	帝国兵	Soldier	speaker
 BTL_EVT6.17B5	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
 BTL_EVT6.17DFS	帝国兵	Soldier	speaker
 BTL_EVT6.17E6	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
 BTL_EVT6.1834S	セシア	Cecia	speaker
-BTL_EVT6.183B	こんなひどいことをして……許せない……。		
+BTL_EVT6.183B	こんなひどいことをして……許せない……。	Doing something so cruel... I can't forgive{n}it...	
 BTL_EVT6.1867S	帝国兵	Soldier	speaker
 BTL_EVT6.186E	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！	You could never grasp our Emperor's aims.{n}Obey us quietly, or die!	
 BTL_EVT6.18BAS	セシア	Cecia	speaker
-BTL_EVT6.18C1	これからも帝国の進軍は続くの？		
+BTL_EVT6.18C1	これからも帝国の進軍は続くの？	Will the Empire's march go on and on?	
 BTL_EVT6.18E3S	帝国兵	Soldier	speaker
 BTL_EVT6.18EA	わはははっ！{n}偉大なる帝国に栄えあれ！	Wahahaha! Glory to the great Empire!	
 BTL_EVT6.1914S	帝国兵	Soldier	speaker
 BTL_EVT6.191B	わはははっ！{n}偉大なる帝国に栄えあれ！	Wahahaha! Glory to the great Empire!	
 BTL_EVT6.1969S	セシア	Cecia	speaker
-BTL_EVT6.1970	こんなひどいことをして……許せない……。		
+BTL_EVT6.1970	こんなひどいことをして……許せない……。	Doing something so cruel... I can't forgive{n}it...	
 BTL_EVT6.199CS	帝国騎士	Knight	speaker
 BTL_EVT6.19A5	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！	Nothing surpasses our great cause. Beg for{n}mercy now and we may spare you... Wahahaha!	
 BTL_EVT6.1A05S	セシア	Cecia	speaker
-BTL_EVT6.1A0C	あなたたちになど従いません！		
+BTL_EVT6.1A0C	あなたたちになど従いません！	I will never obey you!	
 BTL_EVT6.1A2CS	セシア	Cecia	speaker
-BTL_EVT6.1A33	このままでは……世界は……。		
+BTL_EVT6.1A33	このままでは……世界は……。	At this rate... the world will...	
 BTL_EVT6.1A53S	帝国騎士	Knight	speaker
 BTL_EVT6.1A5C	我々に逆らうなど、むだなこと！	Resisting us is futile!	
 BTL_EVT6.1A7ES	帝国騎士	Knight	speaker
 BTL_EVT6.1A87	我々に逆らうなど、むだなこと！	Resisting us is futile!	
 BTL_EVT6.1ACDS	セシア	Cecia	speaker
-BTL_EVT6.1AD4	こんなひどいことをして……許せない……。		
+BTL_EVT6.1AD4	こんなひどいことをして……許せない……。	Doing something so cruel... I can't forgive{n}it...	
 BTL_EVT6.1B00S	帝国兵	Soldier	speaker
 BTL_EVT6.1B07	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！	You could never grasp our Emperor's aims.{n}Obey us quietly, or die!	
 BTL_EVT6.1B53S	セシア	Cecia	speaker
-BTL_EVT6.1B5A	このままでは……世界は……。		
+BTL_EVT6.1B5A	このままでは……世界は……。	At this rate... the world will...	
 BTL_EVT6.1B7AS	帝国騎士	Knight	speaker
 BTL_EVT6.1B83	我らには紅月王がついておられる！　わはははは！	The Crimson Moon King is with us! Wahahaha!	
 BTL_EVT6.1BB5S	帝国騎士	Knight	speaker
 BTL_EVT6.1BBE	我らには紅月王がついておられる！　わはははは！	The Crimson Moon King is with us! Wahahaha!	
 BTL_EVT6.1C14S	セシア	Cecia	speaker
-BTL_EVT6.1C1B	力ですべてを押さえつけようとするなんて……{n}そんなひどいこと、私は許せない！		
+BTL_EVT6.1C1B	力ですべてを押さえつけようとするなんて……{n}そんなひどいこと、私は許せない！	Trying to crush everything by force... I{n}can't forgive something so cruel!	
 BTL_EVT6.1C6BS	帝国騎士	Knight	speaker
 BTL_EVT6.1C74	我らの進軍、誰にも止めることなどできん！	No one can stop our march!	
 BTL_EVT6.1CA0S	セシア	Cecia	speaker
-BTL_EVT6.1CA7	きりがない……これじゃ……。		
+BTL_EVT6.1CA7	きりがない……これじゃ……。	There's no end... at this rate...	
 BTL_EVT6.1CC7S	帝国騎士	Knight	speaker
 BTL_EVT6.1CD0	我が戦いは、皇帝のため！	I fight for the Emperor!	
 BTL_EVT6.1CECS	帝国騎士	Knight	speaker
 BTL_EVT6.1CF5	我が戦いは、皇帝のため！	I fight for the Emperor!	
 BTL_EVT6.1D35S	セシア	Cecia	speaker
-BTL_EVT6.1D3C	魔物が帝国軍に！？{n}あの伝説がよみがえろうとしている……！		
+BTL_EVT6.1D3C	魔物が帝国軍に！？{n}あの伝説がよみがえろうとしている……！	Monsters in the Imperial Army?! That legend{n}is coming back to life...!	
 BTL_EVT6.1D7AS	融合兵	Fused Troop	speaker
 BTL_EVT6.1D81	そのとおりだ！{n}皇帝のご意志に従う我らを止めることなどできん！	Exactly! No one can stop us, for we follow{n}the Emperor's will!	
 BTL_EVT6.1DC3S	セシア	Cecia	speaker
-BTL_EVT6.1DCA	ひどすぎる……{n}でも、あきらめない……絶対に……！		
+BTL_EVT6.1DCA	ひどすぎる……{n}でも、あきらめない……絶対に……！	It's too cruel... But I won't give up...{n}never...!	
 BTL_EVT6.1E00S	融合兵	Fused Troop	speaker
 BTL_EVT6.1E07	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！	Gwahahaha! Foolish humans! Now you know our{n}power!!	
 BTL_EVT6.1E47S	融合兵	Fused Troop	speaker
 BTL_EVT6.1E4E	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！	Gwahahaha! Foolish humans! Now you know our{n}power!!	
 BTL_EVT6.1EB2S	セシア	Cecia	speaker
-BTL_EVT6.1EB9	ひどい血のにおい……。{n}森に、こんなモンスターがいたなんて……。{wait}{clear}これ以上、森のみんなを襲わせないためにも、{n}私が倒します！		
+BTL_EVT6.1EB9	ひどい血のにおい……。{n}森に、こんなモンスターがいたなんて……。{wait}{clear}これ以上、森のみんなを襲わせないためにも、{n}私が倒します！	A horrible smell of blood... I never knew{n}monsters like this lived in the forest...{wait}{clear}So they can't attack anyone in the forest{n}again, I'll defeat them!	
 BTL_EVT6.1F3BS	セシア	Cecia	speaker
-BTL_EVT6.1F42	これで、森のみんなも安心できるはず。		
+BTL_EVT6.1F42	これで、森のみんなも安心できるはず。	Now everyone in the forest can feel safe.	
 BTL_EVT6.1F6AS	カオスジェリー	Chaos Jelly	speaker
 BTL_EVT6.1F79	ギュルギュルゥ……。	Gyurugyuruu...	
 BTL_EVT6.1F91S	カオスジェリー	Chaos Jelly	speaker
 BTL_EVT6.1FA0	ギュルギュルゥ……。	Gyurugyuruu...	
 BTL_EVT6.1FDCS	セシア	Cecia	speaker
-BTL_EVT6.1FE3	もっともっと人を襲うというなら、{n}あなたたちを倒します！		
+BTL_EVT6.1FE3	もっともっと人を襲うというなら、{n}あなたたちを倒します！	If you keep attacking more and more people,{n}I'll defeat you!	
 BTL_EVT6.201FS	セシア	Cecia	speaker
-BTL_EVT6.2026	はぁ……終わった……。		
+BTL_EVT6.2026	はぁ……終わった……。	Haah... It's over...	
 BTL_EVT6.2040S	デッドプラント	Dead Plant	speaker
 BTL_EVT6.204F	ひゅるひゅる……。	Hyuruhyuru...	
 BTL_EVT6.2065S	デッドプラント	Dead Plant	speaker
 BTL_EVT6.2074	ひゅるひゅる……。	Hyuruhyuru...	
 BTL_EVT6.20AES	セシア	Cecia	speaker
-BTL_EVT6.20B5	あなたたちのような卑怯者は許しません！		
+BTL_EVT6.20B5	あなたたちのような卑怯者は許しません！	I won't forgive cowards like you!	
 BTL_EVT6.20DFS	シーフ	Thief	speaker
 BTL_EVT6.20E6	オレたちの邪魔しようってのか？{n}はん！　面白れえ！	You wanna get in our way? Hah! This'll be{n}fun!	
 BTL_EVT6.211CS	セシア	Cecia	speaker
-BTL_EVT6.2123	二度とこんなことはしないでください！		
+BTL_EVT6.2123	二度とこんなことはしないでください！	Please never do this again!	
 BTL_EVT6.214BS	シーフ	Thief	speaker
 BTL_EVT6.2152	はっはは！　ざまあみやがれ！	Hahaha! Serves you right!	
 BTL_EVT6.2172S	シーフ	Thief	speaker
 BTL_EVT6.2179	はっはは！　ざまあみやがれ！	Hahaha! Serves you right!	
 BTL_EVT6.21BDS	セシア	Cecia	speaker
-BTL_EVT6.21C4	こんな大きな生き物が海にいるなんて……。{wait}{clear}みんなの迷惑になるのなら、倒します！		
+BTL_EVT6.21C4	こんな大きな生き物が海にいるなんて……。{wait}{clear}みんなの迷惑になるのなら、倒します！	To think such a huge creature lives in the{n}sea...{wait}{clear}If it's troubling everyone, I'll defeat it!	
 BTL_EVT6.2218S	セシア	Cecia	speaker
-BTL_EVT6.221F	これで、大丈夫ですね{n}ふぅ……よかった……。		
+BTL_EVT6.221F	これで、大丈夫ですね{n}ふぅ……よかった……。	It's all right now. Phew... Thank{n}goodness...	
 BTL_EVT6.224FS	海竜	Sea Dragon	speaker
 BTL_EVT6.2254	グギャア～！	Gugyaaah~!	
 BTL_EVT6.2264S	海竜	Sea Dragon	speaker
 BTL_EVT6.2269	グギャア～！	Gugyaaah~!	
 BTL_EVT6.229DS	セシア	Cecia	speaker
-BTL_EVT6.22A4	おとなしく海に帰ってくれればいいのに……。{n}でも、きっと無理なんですよね？{wait}{clear}だったら、多くの人の迷惑になる前に、{n}私が倒します。		
+BTL_EVT6.22A4	おとなしく海に帰ってくれればいいのに……。{n}でも、きっと無理なんですよね？{wait}{clear}だったら、多くの人の迷惑になる前に、{n}私が倒します。	I wish you'd go back to the sea quietly...{n}But I suppose you won't, will you?{wait}{clear}Then I'll defeat you before you cause many{n}people trouble.	
 BTL_EVT6.232AS	セシア	Cecia	speaker
-BTL_EVT6.2331	これで、大丈夫ですね{n}ふぅ……よかった……。		
+BTL_EVT6.2331	これで、大丈夫ですね{n}ふぅ……よかった……。	It's all right now. Phew... Thank{n}goodness...	
 BTL_EVT6.2361S	海竜	Sea Dragon	speaker
 BTL_EVT6.2366	グギギャア～！	Gugigyaaah~!	
 BTL_EVT6.2378S	海竜	Sea Dragon	speaker
 BTL_EVT6.237D	グギギャア～！	Gugigyaaah~!	
 BTL_EVT6.23B3S	セシア	Cecia	speaker
-BTL_EVT6.23BA	おとなしく暮らしていればよかったのに……{n}どうして、街道で人を襲ったりするの？{wait}{clear}多くの人の迷惑になる前に、私が倒します。		
+BTL_EVT6.23BA	おとなしく暮らしていればよかったのに……{n}どうして、街道で人を襲ったりするの？{wait}{clear}多くの人の迷惑になる前に、私が倒します。	If only you'd lived quietly... Why attack{n}people on the highway?{wait}{clear}I'll defeat you before you cause many people{n}trouble.	
 BTL_EVT6.2438S	セシア	Cecia	speaker
-BTL_EVT6.243F	勝った……。{n}これでもう街道は大丈夫です。		
+BTL_EVT6.243F	勝った……。{n}これでもう街道は大丈夫です。	I won... The highway is safe now.	
 BTL_EVT6.246DS	ヴェノム	Venom	speaker
 BTL_EVT6.2476	シューシューシュー……	Hsss hsss hsss...	
 BTL_EVT6.2490S	ヴェノム	Venom	speaker
 BTL_EVT6.2499	シューシューシュー……	Hsss hsss hsss...	
 BTL_EVT6.24D7S	セシア	Cecia	speaker
-BTL_EVT6.24DE	おとなしく帰ってくれればいいのに……。{n}これ以上犠牲者が増えるのなら、私が倒します。		
+BTL_EVT6.24DE	おとなしく帰ってくれればいいのに……。{n}これ以上犠牲者が増えるのなら、私が倒します。	I wish you'd just go home quietly... If{n}there'll be more victims, I'll defeat you.	
 BTL_EVT6.2536S	セシア	Cecia	speaker
-BTL_EVT6.253D	これで村の人たちも安心して暮らせますね……。		
+BTL_EVT6.253D	これで村の人たちも安心して暮らせますね……。	Now the villagers can live in peace...	
 BTL_EVT6.256DS	ロック	Roc	speaker
 BTL_EVT6.2574	クワァアアー！	Kwaaaaah!	
 BTL_EVT6.2586S	ロック	Roc	speaker
 BTL_EVT6.258D	クワァアアー！	Kwaaaaah!	
 BTL_EVT6.25C3S	セシア	Cecia	speaker
-BTL_EVT6.25CA	街道で人を襲うなんて……。{n}これ以上被害が大きくならないように、{n}私が倒します。		
+BTL_EVT6.25CA	街道で人を襲うなんて……。{n}これ以上被害が大きくならないように、{n}私が倒します。	Attacking people on the highway... So the{n}harm doesn't grow, I'll defeat you.	
 BTL_EVT6.261ES	セシア	Cecia	speaker
-BTL_EVT6.2625	はぁ……これで、もう大丈夫ですね……。		
+BTL_EVT6.2625	はぁ……これで、もう大丈夫ですね……。	Haah... It's all right now...	
 BTL_EVT6.264FS	ミリピード	Millipede	speaker
 BTL_EVT6.265A	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT6.267AS	ミリピード	Millipede	speaker
 BTL_EVT6.2685	ギシギシギシギシギシギシ……	Gishigishigishigishi...	
 BTL_EVT6.26C9S	セシア	Cecia	speaker
-BTL_EVT6.26D0	やっぱり、アンデッドだったんですね……。{n}こんな気味の悪い魔物を相手に戦うなんて……。{wait}{clear}でも、みんなの迷惑になってるのなら、{n}私が倒さなくては！		
+BTL_EVT6.26D0	やっぱり、アンデッドだったんですね……。{n}こんな気味の悪い魔物を相手に戦うなんて……。{wait}{clear}でも、みんなの迷惑になってるのなら、{n}私が倒さなくては！	So they really were undead... Having to{n}fight such eerie creatures...{wait}{clear}But if they're troubling everyone, I have to{n}defeat them!	
 BTL_EVT6.2766S	セシア	Cecia	speaker
-BTL_EVT6.276D	終わった……。{n}ふう……。		
+BTL_EVT6.276D	終わった……。{n}ふう……。	It's over... Phew...	
 BTL_EVT6.278BS	スカルナイト	Skull Knight	speaker
 BTL_EVT6.2798	ニンゲン……イラナイ……{n}クカカカカカカ……！	HUMANS... NOT NEEDED... KAKAKAKAKA...!	
 BTL_EVT6.27CAS	スカルナイト	Skull Knight	speaker
 BTL_EVT6.27D7	ニンゲン……イラナイ……{n}クカカカカカカ……！	HUMANS... NOT NEEDED... KAKAKAKAKA...!	
 BTL_EVT6.282DS	セシア	Cecia	speaker
-BTL_EVT6.2834	なんて不気味な姿……。{n}あなたたちの声だったのですね。		
+BTL_EVT6.2834	なんて不気味な姿……。{n}あなたたちの声だったのですね。	What an eerie form... So that was your{n}voice.	
 BTL_EVT6.286ES	セシア	Cecia	speaker
 BTL_EVT6.2875	終わった……。	It's over...	
 BTL_EVT6.2887S	バンシー	Banshee	speaker
@@ -338,87 +338,87 @@ BTL_EVT6.2890	ひひひひひ……	Hihihihihi...
 BTL_EVT6.28A2S	バンシー	Banshee	speaker
 BTL_EVT6.28AB	ひひひひひ……	Hihihihihi...	
 BTL_EVT6.28E1S	セシア	Cecia	speaker
-BTL_EVT6.28E8	村を襲っているのは、あなたたちですか？		
+BTL_EVT6.28E8	村を襲っているのは、あなたたちですか？	Are you the ones attacking the village?	
 BTL_EVT6.2912S	バーグラー	Burglar	speaker
 BTL_EVT6.291D	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
 BTL_EVT6.2991S	セシア	Cecia	speaker
-BTL_EVT6.2998	ふう……{n}これで村の人たちは安心してくれるでしょう……。		
+BTL_EVT6.2998	ふう……{n}これで村の人たちは安心してくれるでしょう……。	Phew... Now the villagers can feel safe...	
 BTL_EVT6.29D4S	バーグラー	Burglar	speaker
 BTL_EVT6.29DF	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
 BTL_EVT6.2A17S	バーグラー	Burglar	speaker
 BTL_EVT6.2A22	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
 BTL_EVT6.2A7ES	セシア	Cecia	speaker
-BTL_EVT6.2A85	村を襲っているのは、あなたたちですか？		
+BTL_EVT6.2A85	村を襲っているのは、あなたたちですか？	Are you the ones attacking the village?	
 BTL_EVT6.2AAFS	バーグラー	Burglar	speaker
 BTL_EVT6.2ABA	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
 BTL_EVT6.2B2ES	セシア	Cecia	speaker
-BTL_EVT6.2B35	ふう……{n}これで村の人たちは安心してくれるでしょう……。		
+BTL_EVT6.2B35	ふう……{n}これで村の人たちは安心してくれるでしょう……。	Phew... Now the villagers can feel safe...	
 BTL_EVT6.2B71S	バーグラー	Burglar	speaker
 BTL_EVT6.2B7C	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
 BTL_EVT6.2BB4S	バーグラー	Burglar	speaker
 BTL_EVT6.2BBF	はははっ！{n}てめえひとりで、なにができるってんだよ！	Hahaha! What can you do on your own?!	
 BTL_EVT6.2C1BS	セシア	Cecia	speaker
-BTL_EVT6.2C22	あなたは……魔族！？		
+BTL_EVT6.2C22	あなたは……魔族！？	You're... a demon?!	
 BTL_EVT6.2C3AS	リベザル	Ribezal	speaker
 BTL_EVT6.2C43	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！	Fuhahaha... Our world is finally about to be{n}born.{wait}{clear}You pests will have to disappear!	
 BTL_EVT6.2CA3S	セシア	Cecia	speaker
-BTL_EVT6.2CAA	時間が迫ってきているのですね……。		
+BTL_EVT6.2CAA	時間が迫ってきているのですね……。	Time is running out, isn't it...	
 BTL_EVT6.2CD0S	リベザル	Ribezal	speaker
 BTL_EVT6.2CD9	人間など我らの敵ではない！{n}ふははははは……っ！	Humans are no match for us! Fuhahahaha...!	
 BTL_EVT6.2D0DS	リベザル	Ribezal	speaker
 BTL_EVT6.2D16	人間など我らの敵ではない！{n}ふははははは……っ！	Humans are no match for us! Fuhahahaha...!	
 BTL_EVT6.2D6ES	セシア	Cecia	speaker
-BTL_EVT6.2D75	あなたたちは、なにをしようとしているのですか？		
+BTL_EVT6.2D75	あなたたちは、なにをしようとしているのですか？	What are you trying to do?	
 BTL_EVT6.2DA7S	反乱兵	Rebel	speaker
 BTL_EVT6.2DAE	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！	Hmph! None of your business.{wait}{clear}But it'd be bad if anyone learned we're{n}here. Die!	
 BTL_EVT6.2E0AS	セシア	Cecia	speaker
-BTL_EVT6.2E11	ふう……これでよかったんですよね……。		
+BTL_EVT6.2E11	ふう……これでよかったんですよね……。	Phew... That was the right thing, wasn't{n}it...	
 BTL_EVT6.2E3BS	反乱兵	Rebel	speaker
 BTL_EVT6.2E42	我々の邪魔などさせん！	We won't let you interfere!	
 BTL_EVT6.2E5CS	反乱兵	Rebel	speaker
 BTL_EVT6.2E63	我々の邪魔などさせん！	We won't let you interfere!	
 BTL_EVT6.2EA1S	セシア	Cecia	speaker
-BTL_EVT6.2EA8	もっともっと人を襲うというなら、{n}あなたたちを倒します！		
+BTL_EVT6.2EA8	もっともっと人を襲うというなら、{n}あなたたちを倒します！	If you keep attacking more and more people,{n}I'll defeat you!	
 BTL_EVT6.2EE4S	ジャイアント	Giant	speaker
 BTL_EVT6.2EF1	人間ごときがおれに勝てると思うな！	Don't think a mere human can beat me!	
 BTL_EVT6.2F17S	セシア	Cecia	speaker
-BTL_EVT6.2F1E	はぁ……終わった……。		
+BTL_EVT6.2F1E	はぁ……終わった……。	Haah... It's over...	
 BTL_EVT6.2F38S	ジャイアント	Giant	speaker
 BTL_EVT6.2F45	おれが負けるわけなどない！{n}ぐわはははっ！	There's no way I could lose! Gwahahaha!	
 BTL_EVT6.2F73S	ジャイアント	Giant	speaker
 BTL_EVT6.2F80	おれが負けるわけなどない！{n}ぐわはははっ！	There's no way I could lose! Gwahahaha!	
 BTL_EVT6.2FD2S	セシア	Cecia	speaker
-BTL_EVT6.2FD9	あなたたち！　村を襲うのはやめて！		
+BTL_EVT6.2FD9	あなたたち！　村を襲うのはやめて！	You there! Stop attacking the village!	
 BTL_EVT6.2FFFS	オーク	Orc	speaker
 BTL_EVT6.3006	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！	SHUT UP! HUMANS NOT ONLY ONES WHO GET GOOD{n}THINGS!	
 BTL_EVT6.3038S	セシア	Cecia	speaker
-BTL_EVT6.303F	なんだか……可哀想……。		
+BTL_EVT6.303F	なんだか……可哀想……。	Somehow... I feel sorry for them...	
 BTL_EVT6.305BS	オーク	Orc	speaker
 BTL_EVT6.3062	ニンゲン　ジャマ……！	HUMAN... IN WAY...!	
 BTL_EVT6.307CS	オーク	Orc	speaker
 BTL_EVT6.3083	ニンゲン　ジャマ……！	HUMAN... IN WAY...!	
 BTL_EVT6.30C1S	セシア	Cecia	speaker
-BTL_EVT6.30C8	なんなんですか？　これは！		
+BTL_EVT6.30C8	なんなんですか？　これは！	What is this?!	
 BTL_EVT6.30E6S	グレムリン	Gremlin	speaker
 BTL_EVT6.30F1	キシシシシシ！	Kishishishishi!	
 BTL_EVT6.3103S	セシア	Cecia	speaker
-BTL_EVT6.310A	ふう……なんとか終わったみたいですね……。		
+BTL_EVT6.310A	ふう……なんとか終わったみたいですね……。	Phew... It seems I made it through{n}somehow...	
 BTL_EVT6.3138S	グレムリン	Gremlin	speaker
 BTL_EVT6.3143	キシシシシシ！	Kishishishishi!	
 BTL_EVT6.3155S	グレムリン	Gremlin	speaker
 BTL_EVT6.3160	キシシシシシ！	Kishishishishi!	
 BTL_EVT6.3196S	セシア	Cecia	speaker
-BTL_EVT6.319D	あなたたちは……？		
+BTL_EVT6.319D	あなたたちは……？	Who are you...?	
 BTL_EVT6.31B3S	ゴーゴン	Gorgon	speaker
 BTL_EVT6.31BC	あら？　邪魔者が来たみたいね。{n}さっそく石にして砕いてあげるわ！	Oh? Looks like a pest has come. I'll turn{n}you to stone and smash you right away!	
 BTL_EVT6.3200S	セシア	Cecia	speaker
-BTL_EVT6.3207	はぁ……無事に勝てたみたい……。		
+BTL_EVT6.3207	はぁ……無事に勝てたみたい……。	Haah... It looks like I won safely...	
 BTL_EVT6.322BS	ゴーゴン	Gorgon	speaker
 BTL_EVT6.3234	ふふふふ……{n}あはははは……！	Hehehehe... Ahahahaha...!	
 BTL_EVT6.3256S	ゴーゴン	Gorgon	speaker
 BTL_EVT6.325F	ふふふふ……{n}あはははは……！	Hehehehe... Ahahahaha...!	
 BTL_EVT6.32A5S	セシア	Cecia	speaker
-BTL_EVT6.32AC	村から出て行きなさい！{n}出ていかないなら……戦います……。		
+BTL_EVT6.32AC	村から出て行きなさい！{n}出ていかないなら……戦います……。	Leave the village! If you won't... I'll{n}fight...	
 BTL_EVT6.32EAS	セシア	Cecia	speaker
 BTL_EVT6.32F1	終わった……。	It's over...	
 BTL_EVT6.3303S	ヘルハウンド	Hellhound	speaker
@@ -426,47 +426,47 @@ BTL_EVT6.3310	うおおお～んっ！！	Awooooo!!
 BTL_EVT6.3326S	ヘルハウンド	Hellhound	speaker
 BTL_EVT6.3333	うおおお～んっ！！	Awooooo!!	
 BTL_EVT6.336DS	セシア	Cecia	speaker
-BTL_EVT6.3374	竜巻の原因はキメラだったのね！		
+BTL_EVT6.3374	竜巻の原因はキメラだったのね！	So a chimera was behind the whirlwinds!	
 BTL_EVT6.3396S	キメラ	Chimera	speaker
 BTL_EVT6.339D	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT6.33B3S	セシア	Cecia	speaker
-BTL_EVT6.33BA	村はこれで大丈夫ね……よかった……。		
+BTL_EVT6.33BA	村はこれで大丈夫ね……よかった……。	The village is safe now... Thank goodness...	
 BTL_EVT6.33E2S	キメラ	Chimera	speaker
 BTL_EVT6.33E9	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT6.33FFS	キメラ	Chimera	speaker
 BTL_EVT6.3406	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT6.3440S	セシア	Cecia	speaker
-BTL_EVT6.3447	森でおとなしくしていてくれれば……。		
+BTL_EVT6.3447	森でおとなしくしていてくれれば……。	If only you'd stayed quietly in the{n}forest...	
 BTL_EVT6.346FS	セシア	Cecia	speaker
-BTL_EVT6.3476	これで村は大丈夫ね。{n}村はよかったけど……。		
+BTL_EVT6.3476	これで村は大丈夫ね。{n}村はよかったけど……。	The village is safe now. The village is,{n}but...	
 BTL_EVT6.34A6S	グリズリー	Grizzly	speaker
 BTL_EVT6.34B1	ぐがあ～！	Grraaah~!	
 BTL_EVT6.34BFS	グリズリー	Grizzly	speaker
 BTL_EVT6.34CA	ぐがあ～！	Grraaah~!	
 BTL_EVT6.34FCS	セシア	Cecia	speaker
-BTL_EVT6.3503	おとなしく海に帰ってくれればいいのに……。{n}でも、きっと無理なんですよね？{wait}{clear}だったら、多くの人の迷惑になる前に、{n}私が倒します。		
+BTL_EVT6.3503	おとなしく海に帰ってくれればいいのに……。{n}でも、きっと無理なんですよね？{wait}{clear}だったら、多くの人の迷惑になる前に、{n}私が倒します。	I wish you'd go back to the sea quietly...{n}But I suppose you won't, will you?{wait}{clear}Then I'll defeat you before you cause many{n}people trouble.	
 BTL_EVT6.3589S	セシア	Cecia	speaker
-BTL_EVT6.3590	これで、大丈夫ですね{n}ふぅ……よかった……。		
+BTL_EVT6.3590	これで、大丈夫ですね{n}ふぅ……よかった……。	It's all right now. Phew... Thank{n}goodness...	
 BTL_EVT6.35C0S	海竜	Sea Dragon	speaker
 BTL_EVT6.35C5	グギギャア～！	Gugigyaaah~!	
 BTL_EVT6.35D7S	海竜	Sea Dragon	speaker
 BTL_EVT6.35DC	グギギャア～！	Gugigyaaah~!	
 BTL_EVT6.3612S	セシア	Cecia	speaker
-BTL_EVT6.3619	このあたりで暴れている盗賊は{n}あなたたちですか？		
+BTL_EVT6.3619	このあたりで暴れている盗賊は{n}あなたたちですか？	Are you the bandits running wild around{n}here?	
 BTL_EVT6.364DS	ミリシア	Militia	speaker
 BTL_EVT6.3656	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！	Hmph! So what if we are? You leave your{n}stuff here too!	
 BTL_EVT6.36A6S	セシア	Cecia	speaker
-BTL_EVT6.36AD	こういう人たちがいるから……。		
+BTL_EVT6.36AD	こういう人たちがいるから……。	It's because there are people like this...	
 BTL_EVT6.36CFS	ミリシア	Militia	speaker
 BTL_EVT6.36D8	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna keep on raiding!	
 BTL_EVT6.36FAS	ミリシア	Militia	speaker
 BTL_EVT6.3703	はははっ！　まだまだ暴れるぜ！	Hahaha! We're gonna keep on raiding!	
 BTL_EVT6.3749S	セシア	Cecia	speaker
-BTL_EVT6.3750	アンデッドたちの仕業だったのですね……。		
+BTL_EVT6.3750	アンデッドたちの仕業だったのですね……。	So it was the undead's doing...	
 BTL_EVT6.377CS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.378B	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。	Yes, everyone in this village is my servant{n}now. But with a face like yours, you'd make{wait}{clear}a poor servant. So I'll kill you.	
 BTL_EVT6.37FDS	セシア	Cecia	speaker
-BTL_EVT6.3804	彼らには、もう救いはないのでしょうか……。		
+BTL_EVT6.3804	彼らには、もう救いはないのでしょうか……。	Is there no salvation left for them...?	
 BTL_EVT6.3832S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.3841	人間はすべて我らにひざまずくがいい！	All humans shall kneel before us!	
 BTL_EVT6.3869S	ノスフェラトゥ	Nosferatu	speaker
@@ -474,9 +474,9 @@ BTL_EVT6.3878	人間はすべて我らにひざまずくがいい！	All humans 
 BTL_EVT6.38C4S	ヘルハウンド	Hellhound	speaker
 BTL_EVT6.38D1	グルル……！	Grrr...!	
 BTL_EVT6.38E1S	セシア	Cecia	speaker
-BTL_EVT6.38E8	あなたたちが村を……！		
+BTL_EVT6.38E8	あなたたちが村を……！	So it was you who did this to the{n}village...!	
 BTL_EVT6.3902S	セシア	Cecia	speaker
-BTL_EVT6.3909	これで村はもう大丈夫なはず……。		
+BTL_EVT6.3909	これで村はもう大丈夫なはず……。	The village should be safe now...	
 BTL_EVT6.392DS	ヘルハウンド	Hellhound	speaker
 BTL_EVT6.393A	ウワオオ～ン！	Awoooo~!	
 BTL_EVT6.394CS	ヘルハウンド	Hellhound	speaker
@@ -484,35 +484,35 @@ BTL_EVT6.3959	ウワオオ～ン！	Awoooo~!
 BTL_EVT6.398FS	グレムリン	Gremlin	speaker
 BTL_EVT6.399A	キシー！　キシシシー！	Kishee! Kishishishee!	
 BTL_EVT6.39B4S	セシア	Cecia	speaker
-BTL_EVT6.39BB	このモンスターが子供たちを……！？		
+BTL_EVT6.39BB	このモンスターが子供たちを……！？	These monsters took the children...?!	
 BTL_EVT6.39E1S	セシア	Cecia	speaker
-BTL_EVT6.39E8	このモンスターを倒しても、{n}さらわれた子たちは戻ってこない……。		
+BTL_EVT6.39E8	このモンスターを倒しても、{n}さらわれた子たちは戻ってこない……。	Even if I defeat these monsters, the{n}children who were taken won't come back...	
 BTL_EVT6.3A2CS	グレムリン	Gremlin	speaker
 BTL_EVT6.3A37	キシー！　キシシシー！	Kishee! Kishishishee!	
 BTL_EVT6.3A51S	グレムリン	Gremlin	speaker
 BTL_EVT6.3A5C	キシー！　キシシシー！	Kishee! Kishishishee!	
 BTL_EVT6.3A9AS	セシア	Cecia	speaker
-BTL_EVT6.3AA1	人々に被害が出る前に、倒します！		
+BTL_EVT6.3AA1	人々に被害が出る前に、倒します！	I'll defeat you before anyone gets hurt!	
 BTL_EVT6.3AC5S	セシア	Cecia	speaker
-BTL_EVT6.3ACC	ふう……終わったみたいですね……。		
+BTL_EVT6.3ACC	ふう……終わったみたいですね……。	Phew... It seems to be over...	
 BTL_EVT6.3AF2S	デスウィドウ	Death Widow	speaker
 BTL_EVT6.3AFF	ギーギーギー	Gee gee gee	
 BTL_EVT6.3B0FS	デスウィドウ	Death Widow	speaker
 BTL_EVT6.3B1C	ギーギーギー	Gee gee gee	
 BTL_EVT6.3B50S	セシア	Cecia	speaker
-BTL_EVT6.3B57	おとなしく帰ってくれればいいのに……。{n}これ以上犠牲者が増えるのなら、私が倒します。		
+BTL_EVT6.3B57	おとなしく帰ってくれればいいのに……。{n}これ以上犠牲者が増えるのなら、私が倒します。	I wish you'd just go home quietly... If{n}there'll be more victims, I'll defeat you.	
 BTL_EVT6.3BAFS	セシア	Cecia	speaker
-BTL_EVT6.3BB6	これで村の人たちも安心して暮らせる……。		
+BTL_EVT6.3BB6	これで村の人たちも安心して暮らせる……。	Now the villagers can live in peace...	
 BTL_EVT6.3BE2S	ベルクート	Berkut	speaker
 BTL_EVT6.3BED	クワァアアー！	Kwaaaaah!	
 BTL_EVT6.3BFFS	ベルクート	Berkut	speaker
 BTL_EVT6.3C0A	クワァアアー！	Kwaaaaah!	
 BTL_EVT6.3C40S	セシア	Cecia	speaker
-BTL_EVT6.3C47	どうして村を襲ったりするのです！？		
+BTL_EVT6.3C47	どうして村を襲ったりするのです！？	Why would you attack the village?!	
 BTL_EVT6.3C6DS	ホブゴブリン	Hobgoblin	speaker
 BTL_EVT6.3C7A	コノむら、モラッタ。{n}オレタチノむらニスル！	THIS VILLAGE, WE TAKE. MAKE IT OUR VILLAGE!	
 BTL_EVT6.3CAAS	セシア	Cecia	speaker
-BTL_EVT6.3CB1	これで村は大丈夫ですね。		
+BTL_EVT6.3CB1	これで村は大丈夫ですね。	The village is safe now.	
 BTL_EVT6.3CCDS	ホブゴブリン	Hobgoblin	speaker
 BTL_EVT6.3CDA	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!	
 BTL_EVT6.3CF8S	ホブゴブリン	Hobgoblin	speaker
@@ -520,17 +520,17 @@ BTL_EVT6.3D05	オレタチノむら、マモッタ！	OUR VILLAGE, WE PROTECT!
 BTL_EVT6.3D47S	海竜	Sea Dragon	speaker
 BTL_EVT6.3D4C	グギギャギャ～！	Gugigyagyaah~!	
 BTL_EVT6.3D60S	セシア	Cecia	speaker
-BTL_EVT6.3D67	村の人たちの生活と命がかかっています。{n}だから、私はあなたを倒します！		
+BTL_EVT6.3D67	村の人たちの生活と命がかかっています。{n}だから、私はあなたを倒します！	The villagers' livelihoods and lives are at{n}stake. So I will defeat you!	
 BTL_EVT6.3DB1S	セシア	Cecia	speaker
-BTL_EVT6.3DB8	これで、大丈夫ですね{n}ふぅ……よかった……。		
+BTL_EVT6.3DB8	これで、大丈夫ですね{n}ふぅ……よかった……。	It's all right now. Phew... Thank{n}goodness...	
 BTL_EVT6.3DE8S	海竜	Sea Dragon	speaker
 BTL_EVT6.3DED	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
 BTL_EVT6.3E0BS	海竜	Sea Dragon	speaker
 BTL_EVT6.3E10	グギャア～！　グギャア～！	Gugyaaah~! Gugyaaah~!	
 BTL_EVT6.3E52S	セシア	Cecia	speaker
-BTL_EVT6.3E59	声の正体は、海竜……。{n}おとなしく帰ってもらえないなら、{n}戦うしかないですね。		
+BTL_EVT6.3E59	声の正体は、海竜……。{n}おとなしく帰ってもらえないなら、{n}戦うしかないですね。	The voice was a sea dragon... If you won't{n}go home quietly, I'll have to fight.	
 BTL_EVT6.3EABS	セシア	Cecia	speaker
-BTL_EVT6.3EB2	これで、街には静けさが戻るはず……。		
+BTL_EVT6.3EB2	これで、街には静けさが戻るはず……。	Now peace and quiet should return to the{n}town...	
 BTL_EVT6.3EDAS	海竜	Sea Dragon	speaker
 BTL_EVT6.3EDF	ギャアアア～ギャアアア～	Gyaaaah~ Gyaaaah~	
 BTL_EVT6.3EFBS	海竜	Sea Dragon	speaker
@@ -538,15 +538,15 @@ BTL_EVT6.3F00	ギャアアア～ギャアアア～	Gyaaaah~ Gyaaaah~
 BTL_EVT6.3F40S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.3F4F	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。	Well, well, the angel's hero. We're honored{n}that you've accepted our invitation.	
 BTL_EVT6.3F9BS	セシア	Cecia	speaker
-BTL_EVT6.3FA2	言いたいことはそれだけですか？{n}その言葉、後悔させてあげます！		
+BTL_EVT6.3FA2	言いたいことはそれだけですか？{n}その言葉、後悔させてあげます！	Is that all you have to say? I'll make you{n}regret those words!	
 BTL_EVT6.3FE4S	セシア	Cecia	speaker
-BTL_EVT6.3FEB	なんて嫌な連中……。		
+BTL_EVT6.3FEB	なんて嫌な連中……。	What a nasty lot...	
 BTL_EVT6.4003S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.4012	はははは……！{n}天使の勇者など、他愛もないものだな。	Hahahaha...! The angel's hero is nothing to{n}speak of.	
 BTL_EVT6.404AS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.4059	はははは……！{n}天使の勇者など、他愛もないものだな。	Hahahaha...! The angel's hero is nothing to{n}speak of.	
 BTL_EVT6.40B5S	セシア	Cecia	speaker
-BTL_EVT6.40BC	あなたはいったい……？		
+BTL_EVT6.40BC	あなたはいったい……？	What on earth are you...?	
 BTL_EVT6.40D6S	アロケン	Allocen	speaker
 BTL_EVT6.40DF	愚かな人間に名乗る名などない。行くぞ！	I have no name to give a foolish human. Here{n}I come!	
 BTL_EVT6.4109S	アロケン	Allocen	speaker
@@ -556,7 +556,7 @@ BTL_EVT6.414F	人間の分際で、俺に勝てるはずなかろう。{n}うわ
 BTL_EVT6.4189S	アロケン	Allocen	speaker
 BTL_EVT6.4192	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！	A mere human could never beat me. Wahahaha!	
 BTL_EVT6.41F0S	セシア	Cecia	speaker
-BTL_EVT6.41F7	あなたはいったい……？		
+BTL_EVT6.41F7	あなたはいったい……？	What on earth are you...?	
 BTL_EVT6.4211S	ウジャト	Udjat	speaker
 BTL_EVT6.421A	愚かな人間に名乗る名などない。{n}行くわよ！	I have no name to give a foolish human. Here{n}I come!	
 BTL_EVT6.4248S	ウジャト	Udjat	speaker
@@ -566,7 +566,7 @@ BTL_EVT6.4292	人間の分際で、私に勝てるはずないわよ。{n}あは
 BTL_EVT6.42CCS	ウジャト	Udjat	speaker
 BTL_EVT6.42D5	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！	A mere human could never beat me. Ahahahaha!	
 BTL_EVT6.4333S	セシア	Cecia	speaker
-BTL_EVT6.433A	あなたはいったい……？		
+BTL_EVT6.433A	あなたはいったい……？	What on earth are you...?	
 BTL_EVT6.4354S	リベザル	Ribezal	speaker
 BTL_EVT6.435D	愚かな人間に名乗る名はない。行くぜ！	I got no name to give a foolish human. Here{n}I come!	
 BTL_EVT6.4385S	リベザル	Ribezal	speaker
@@ -584,19 +584,19 @@ BTL_EVT6.44E5	私が会いたいのは、ただひとりよ！	There's only one 
 BTL_EVT6.4509S	ゴーゴン	Gorgon	speaker
 BTL_EVT6.4512	私が会いたいのは、ただひとりよ！	There's only one person I want to see!	
 BTL_EVT6.455AS	セシア	Cecia	speaker
-BTL_EVT6.4561	多くの人の迷惑になる前に、私が倒します。		
+BTL_EVT6.4561	多くの人の迷惑になる前に、私が倒します。	I'll defeat you before you cause many people{n}trouble.	
 BTL_EVT6.458DS	セシア	Cecia	speaker
-BTL_EVT6.4594	勝った……。{n}これでもう街道は大丈夫。		
+BTL_EVT6.4594	勝った……。{n}これでもう街道は大丈夫。	I won... The highway is safe now.	
 BTL_EVT6.45BES	スキュラ	Scylla	speaker
 BTL_EVT6.45C7	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT6.45DDS	スキュラ	Scylla	speaker
 BTL_EVT6.45E6	きえ～！　きえ～！	Kyeee! Kyeee!	
 BTL_EVT6.4620S	セシア	Cecia	speaker
-BTL_EVT6.4627	あなたたちは、なにをしようとしているのですか？		
+BTL_EVT6.4627	あなたたちは、なにをしようとしているのですか？	What are you trying to do?	
 BTL_EVT6.4659S	バラム	Balam	speaker
 BTL_EVT6.4660	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！	Isn't it obvious? We wipe out every human{n}who defies us!	
 BTL_EVT6.46A0S	セシア	Cecia	speaker
-BTL_EVT6.46A7	魔族と手を結ぶ人間がいるなんて……{n}信じられない……。		
+BTL_EVT6.46A7	魔族と手を結ぶ人間がいるなんて……{n}信じられない……。	To think there are humans who'd join hands{n}with demons... I can't believe it...	
 BTL_EVT6.46E1S	バラム	Balam	speaker
 BTL_EVT6.46E8	誰も俺を止めることなどできん！	No one can stop me!	
 BTL_EVT6.470AS	バラム	Balam	speaker
@@ -610,7 +610,7 @@ BTL_EVT6.47B4	テンシノ　ユウシャナド{n}タイシタコト　ナイ！
 BTL_EVT6.47E6S	融合兵	Fused Troop	speaker
 BTL_EVT6.47ED	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　	ANGEL'S HERO... IS NOTHING SPECIAL!	
 BTL_EVT6.4843S	セシア	Cecia	speaker
-BTL_EVT6.484A	村の人たちの命を狙うなら、{n}私が許しません！		
+BTL_EVT6.484A	村の人たちの命を狙うなら、{n}私が許しません！	If you're after the villagers' lives, I{n}won't allow it!	
 BTL_EVT6.487AS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.4889	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！	Hehehe... Most of this village is already my{n}servants. I'll add you to them!	
 BTL_EVT6.48E1S	セシア	Cecia	speaker
@@ -622,19 +622,19 @@ BTL_EVT6.493C	人間はすべて我らにひざまずくがいい！	All humans 
 BTL_EVT6.4988S	ウィザード	Wizard	speaker
 BTL_EVT6.4993	あの方をよみがえらせるには、{n}まだまだ女が足りん……。	We still need many more women to revive that{n}one...	
 BTL_EVT6.49CDS	セシア	Cecia	speaker
-BTL_EVT6.49D4	あなた方が女性を連れ去ったのですね！？{n}なんてひどいことを……許せない！		
+BTL_EVT6.49D4	あなた方が女性を連れ去ったのですね！？{n}なんてひどいことを……許せない！	So you're the ones who carried off the{n}women?! How cruel... Unforgivable!	
 BTL_EVT6.4A20S	セシア	Cecia	speaker
-BTL_EVT6.4A27	なんだか……嫌な事件……。		
+BTL_EVT6.4A27	なんだか……嫌な事件……。	What a... nasty affair...	
 BTL_EVT6.4A45S	ウィザード	Wizard	speaker
 BTL_EVT6.4A50	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！	We will revive that one! We'll let no one{n}stand in our way!	
 BTL_EVT6.4A8ES	ウィザード	Wizard	speaker
 BTL_EVT6.4A99	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！	We will revive that one! We'll let no one{n}stand in our way!	
 BTL_EVT6.4AFBS	セシア	Cecia	speaker
-BTL_EVT6.4B02	なんなんですか？　これは！		
+BTL_EVT6.4B02	なんなんですか？　これは！	What is this?!	
 BTL_EVT6.4B20S	グレムリン	Gremlin	speaker
 BTL_EVT6.4B2B	キシシシシシ！	Kishishishishi!	
 BTL_EVT6.4B3DS	セシア	Cecia	speaker
-BTL_EVT6.4B44	ふう……なんとか終わったみたいですね……。		
+BTL_EVT6.4B44	ふう……なんとか終わったみたいですね……。	Phew... It seems I made it through{n}somehow...	
 BTL_EVT6.4B72S	グレムリン	Gremlin	speaker
 BTL_EVT6.4B7D	キシシシシシ！	Kishishishishi!	
 BTL_EVT6.4B8FS	グレムリン	Gremlin	speaker
@@ -642,29 +642,29 @@ BTL_EVT6.4B9A	キシシシシシ！	Kishishishishi!
 BTL_EVT6.4BD0S	リベザル	Ribezal	speaker
 BTL_EVT6.4BD9	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！	What's so holy about this forest? I'll make{n}it all mine!	
 BTL_EVT6.4C1FS	セシア	Cecia	speaker
-BTL_EVT6.4C26	そんなこと、私が絶対に許しません！		
+BTL_EVT6.4C26	そんなこと、私が絶対に許しません！	I will never allow that!	
 BTL_EVT6.4C4CS	セシア	Cecia	speaker
-BTL_EVT6.4C53	ここに魔族が現れるなんて……{n}私がしっかりしなくちゃ……。		
+BTL_EVT6.4C53	ここに魔族が現れるなんて……{n}私がしっかりしなくちゃ……。	Demons appearing here... I have to be{n}strong...	
 BTL_EVT6.4C91S	リベザル	Ribezal	speaker
 BTL_EVT6.4C9A	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
 BTL_EVT6.4CD8S	リベザル	Ribezal	speaker
 BTL_EVT6.4CE1	森はすべておれ様のものだ！{n}ふははは……ふははははは……！	The whole forest is mine! Fuhahaha...{n}Fuhahahaha...!	
 BTL_EVT6.4D43S	セシア	Cecia	speaker
-BTL_EVT6.4D4A	黒い影の正体……シャドウ？		
+BTL_EVT6.4D4A	黒い影の正体……シャドウ？	The black shadow... a Shadow?	
 BTL_EVT6.4D68S	セシア	Cecia	speaker
-BTL_EVT6.4D6F	これでみんな安心して通れるようになるわ。		
+BTL_EVT6.4D6F	これでみんな安心して通れるようになるわ。	Now everyone can pass safely.	
 BTL_EVT6.4D9BS	ファントム	Phantom	speaker
 BTL_EVT6.4DA6	ひゅうひゅう……	Hyuu hyuu...	
 BTL_EVT6.4DBAS	ファントム	Phantom	speaker
 BTL_EVT6.4DC5	ひゅうひゅう……	Hyuu hyuu...	
 BTL_EVT6.4DFDS	セシア	Cecia	speaker
-BTL_EVT6.4E04	無意味な戦いはやめて！		
+BTL_EVT6.4E04	無意味な戦いはやめて！	Stop this meaningless fighting!	
 BTL_EVT6.4E1ES	帝国騎士	Knight	speaker
 BTL_EVT6.4E27	貴様ひとりで、{n}我々の兵力相手に何ができると言うのだ？	What can you do on your own against our{n}forces?	
 BTL_EVT6.4E61S	セシア	Cecia	speaker
-BTL_EVT6.4E68	それは……。{wait}{clear}でも、この都が帝国の手に落ちるなんて、{n}許せません！		
+BTL_EVT6.4E68	それは……。{wait}{clear}でも、この都が帝国の手に落ちるなんて、{n}許せません！	That's...{wait}{clear}But I won't let this city fall into the{n}Empire's hands!	
 BTL_EVT6.4EB0S	セシア	Cecia	speaker
-BTL_EVT6.4EB7	どうして……こんな……{wait}{clear}え！？　新手が？		
+BTL_EVT6.4EB7	どうして……こんな……{wait}{clear}え！？　新手が？	Why... this...{wait}{clear}What?! More of them?	
 BTL_EVT6.4EE5S	帝国騎士	Knight	speaker
 BTL_EVT6.4EEE	我々に逆らうからだ！　ははははは！	That's what you get for defying us!{n}Hahahaha!	
 BTL_EVT6.4F14S	帝国騎士	Knight	speaker
@@ -672,7 +672,7 @@ BTL_EVT6.4F1D	ぶざまだな！　ははははは！	How pathetic! Hahahaha!
 BTL_EVT6.4F5FS	私兵	Hired Guard	speaker
 BTL_EVT6.4F64	痛い目にあいてえのか！	You wanna get hurt?!	
 BTL_EVT6.4F7ES	セシア	Cecia	speaker
-BTL_EVT6.4F85	戦いたくはないのに。		
+BTL_EVT6.4F85	戦いたくはないのに。	I don't want to fight.	
 BTL_EVT6.4F9DS	私兵	Hired Guard	speaker
 BTL_EVT6.4FA2	ざまみろ！　	Serves you right!	
 BTL_EVT6.4FB2S	私兵	Hired Guard	speaker
@@ -680,13 +680,13 @@ BTL_EVT6.4FB7	ざまみろ！　	Serves you right!
 BTL_EVT6.4FEBS	帝国騎士	Knight	speaker
 BTL_EVT6.4FF4	この進軍の指揮官は、{n}帝国筆頭騎士のアルベリック様だ。{n}アルベリック様自らの進軍の邪魔をするな！	This march is led by Lord Alberic, the{n}Empire's foremost knight. Do not hinder the{wait}{clear}march he leads himself!	
 BTL_EVT6.5058S	セシア	Cecia	speaker
-BTL_EVT6.505F	そんな人、私には関係ありません！{n}人々を苦しめる、あなたたちと戦うだけです！！		
+BTL_EVT6.505F	そんな人、私には関係ありません！{n}人々を苦しめる、あなたたちと戦うだけです！！	I don't care about him! I'll just fight you,{n}who make people suffer!!	
 BTL_EVT6.50B1S	帝国騎士	Knight	speaker
 BTL_EVT6.50BA	なんだと、貴様！{n}我々に逆らうのなら死ね！！	What did you say?! If you defy us, die!!	
 BTL_EVT6.50EAS	帝国騎士	Knight	speaker
 BTL_EVT6.50F3	アルベリック様……申し訳ありません……。{wait}{clear}ぐっ……。	Lord Alberic... forgive me...{wait}{clear}Ugh...	
 BTL_EVT6.512DS	セシア	Cecia	speaker
-BTL_EVT6.5134	どうして、こんな無意味な戦いが……。		
+BTL_EVT6.5134	どうして、こんな無意味な戦いが……。	Why must there be such a meaningless{n}fight...	
 BTL_EVT6.515CS	帝国騎士	Knight	speaker
 BTL_EVT6.5165	帝国バンザイ！！	Long live the Empire!!	
 BTL_EVT6.5179S	帝国騎士	Knight	speaker
@@ -696,7 +696,7 @@ BTL_EVT6.51C1	帝国バンザイ！！	Long live the Empire!!
 BTL_EVT6.51D5S	帝国兵	Soldier	speaker
 BTL_EVT6.51DC	帝国バンザイ！！	Long live the Empire!!	
 BTL_EVT6.5280S	レイブンルフト	Ravenruft	speaker
-BTL_EVT6.528F	さすがだ、聖ディアナと呼ばれるだけのことはある。		
+BTL_EVT6.528F	さすがだ、聖ディアナと呼ばれるだけのことはある。	Impressive. You're worthy of being called{n}St. Diana.	
 BTL_EVT6.52C3S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.52D2	私も本気を出させてもらおう。	Then I'll stop holding back.	
 BTL_EVT6.52F2S	レイブンルフト	Ravenruft	speaker
@@ -722,19 +722,19 @@ BTL_EVT6.54C2	……なにが天使の勇者だ。	...Angel's hero, indeed.
 BTL_EVT6.54DES	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.54ED	無様な敗北者が……。	A pathetic loser...	
 BTL_EVT6.5571S	セシア	Cecia	speaker
-BTL_EVT6.5578	利用されて……可哀想……。		
+BTL_EVT6.5578	利用されて……可哀想……。	Being used... Poor thing...	
 BTL_EVT6.5596S	サヴィオ	Savio	speaker
 BTL_EVT6.559F	グハハハハハ。	Guhahahahaha.	
 BTL_EVT6.55B1S	サヴィオ	Savio	speaker
 BTL_EVT6.55BA	グハハハハハ。	Guhahahahaha.	
 BTL_EVT6.55F0S	セシア	Cecia	speaker
-BTL_EVT6.55F7	天使様のお話しの通りなんて……。{n}でも、どうして魔族が帝国軍に……？		
+BTL_EVT6.55F7	天使様のお話しの通りなんて……。{n}でも、どうして魔族が帝国軍に……？	Just as the Angel said... But why are there{n}demons in the Imperial Army...?	
 BTL_EVT6.563FS	モラクス	Morax	speaker
 BTL_EVT6.5648	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！	You're the angel's hero, aren't you? Now{n}that we've been summoned, there's no victory{wait}{clear}for you. Here I come!	
 BTL_EVT6.5696S	モラクス	Morax	speaker
 BTL_EVT6.569F	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。	Don't get cocky just because you beat me.{n}I'll be waiting for you in hell...	
 BTL_EVT6.56EFS	セシア	Cecia	speaker
-BTL_EVT6.56F6	まさか……伝説が……。		
+BTL_EVT6.56F6	まさか……伝説が……。	Could it be... the legend...	
 BTL_EVT6.5710S	モラクス	Morax	speaker
 BTL_EVT6.5719	首を洗って出直して来い！{n}ワハハハっ！	Go get ready to die, and try again!{n}Wahahaha!	
 BTL_EVT6.5743S	モラクス	Morax	speaker
@@ -742,13 +742,13 @@ BTL_EVT6.574C	ワハハハ！　天使の勇者など、赤子のようだ！	Wa
 BTL_EVT6.579ES	ラルヴァ	Larva	speaker
 BTL_EVT6.57A7	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！	Welcome, angel's hero. I don't even need a{n}camp like this.{wait}{clear}It's such a bother... So I'll just kill you{n}humans off quick!	
 BTL_EVT6.5839S	セシア	Cecia	speaker
-BTL_EVT6.5840	なんてひどいことを……！{n}あなたは、必ず私が倒します！！		
+BTL_EVT6.5840	なんてひどいことを……！{n}あなたは、必ず私が倒します！！	How could you do something so cruel...! I{n}will defeat you, I swear it!!	
 BTL_EVT6.587CS	ラルヴァ	Larva	speaker
 BTL_EVT6.5885	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！	Ahahaha! What a funny thing to say! Then{n}let's see what you can do!!	
 BTL_EVT6.58D5S	ラルヴァ	Larva	speaker
 BTL_EVT6.58DE	な、なんで……あたしが……。	H-how... could I...	
 BTL_EVT6.58FES	セシア	Cecia	speaker
-BTL_EVT6.5905	わかりましたか、魔族の力などそんなものです。		
+BTL_EVT6.5905	わかりましたか、魔族の力などそんなものです。	Do you see? That's all a demon's power{n}amounts to.	
 BTL_EVT6.5935S	ラルヴァ	Larva	speaker
 BTL_EVT6.593E	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！	Hmph, big words... The real suffering for{n}you lot starts now. Ahahaha!	
 BTL_EVT6.5990S	ラルヴァ	Larva	speaker
@@ -762,11 +762,11 @@ BTL_EVT6.5ACE	ふふふ……。{n}天使の勇者も所詮この程度なのね
 BTL_EVT6.5BB8S	王の女	King's Lady	speaker
 BTL_EVT6.5BBF	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。	Where do you think you're going?{wait}{clear}Depending on your answer, your journey ends{n}here.	
 BTL_EVT6.5C0FS	セシア	Cecia	speaker
-BTL_EVT6.5C16	あなたたちは関係のないことです。{n}答える必要はないわ。		
+BTL_EVT6.5C16	あなたたちは関係のないことです。{n}答える必要はないわ。	It's none of your concern. I don't need to{n}answer you.	
 BTL_EVT6.5C50S	王の女	King's Lady	speaker
 BTL_EVT6.5C57	ばかね！　ここでもずくと消えなさい！！	Fool! Turn to dust right here and vanish!!	
 BTL_EVT6.5C81S	セシア	Cecia	speaker
-BTL_EVT6.5C88	…………。{wait}{clear}城が消えた……。		
+BTL_EVT6.5C88	…………。{wait}{clear}城が消えた……。	......{wait}{clear}The castle vanished...	
 BTL_EVT6.5CAAS	王の女	King's Lady	speaker
 BTL_EVT6.5CB1	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。	I trust you witnessed my work,{wait}{clear}my king, Lord Ravenruft.	
 BTL_EVT6.5CF3S	王の女	King's Lady	speaker
@@ -774,27 +774,27 @@ BTL_EVT6.5CFA	逃げましたわよ……。{n}ホホホホ……	They ran away.
 BTL_EVT6.5D8CS	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.5D9B	人間ごときに、我らの邪魔などさせるものか！	We won't let mere humans interfere with us!	
 BTL_EVT6.5DC9S	セシア	Cecia	speaker
-BTL_EVT6.5DD0	彼らに救いはないのでしょうか……。		
+BTL_EVT6.5DD0	彼らに救いはないのでしょうか……。	Is there no salvation for them...?	
 BTL_EVT6.5DF6S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.5E05	人間など、我らの敵ではない！	Humans are no match for us!	
 BTL_EVT6.5E25S	ノスフェラトゥ	Nosferatu	speaker
 BTL_EVT6.5E34	逃げていきおったわ！	It ran away!	
 BTL_EVT6.5EB8S	セシア	Cecia	speaker
-BTL_EVT6.5EBF	…………。{wait}{clear}こんなことって……。		
+BTL_EVT6.5EBF	…………。{wait}{clear}こんなことって……。	......{wait}{clear}How can this be...	
 BTL_EVT6.5EE5S	クライヴ	Clive	speaker
 BTL_EVT6.5EEE	…………。	.....	
 BTL_EVT6.5EFCS	クライヴ	Clive	speaker
 BTL_EVT6.5F05	…………。	.....	
 BTL_EVT6.5F5BS	セシア	Cecia	speaker
-BTL_EVT6.5F62	これじゃ、いくら戦ってもキリが……。		
+BTL_EVT6.5F62	これじゃ、いくら戦ってもキリが……。	At this rate, no matter how much I fight,{n}there's no end...	
 BTL_EVT6.5F8AS	セシア	Cecia	speaker
-BTL_EVT6.5F91	これ以上は、私だけではどうしようもない……。{wait}{clear}聖都が……。		
+BTL_EVT6.5F91	これ以上は、私だけではどうしようもない……。{wait}{clear}聖都が……。	I can't do any more on my own...{wait}{clear}The Holy City...	
 BTL_EVT6.5FD1S	帝国歩兵	Foot Soldier	speaker
 BTL_EVT6.5FDA	皇帝陛下バンザイ！	Long live His Majesty the Emperor!	
 BTL_EVT6.5FF0S	帝国歩兵	Foot Soldier	speaker
 BTL_EVT6.5FF9	皇帝陛下バンザイ！	Long live His Majesty the Emperor!	
 BTL_EVT6.6033S	セシア	Cecia	speaker
-BTL_EVT6.603A	村から出て行きなさい！{n}出ていかないなら……戦います……。		
+BTL_EVT6.603A	村から出て行きなさい！{n}出ていかないなら……戦います……。	Leave the village! If you won't... I'll{n}fight...	
 BTL_EVT6.6078S	セシア	Cecia	speaker
 BTL_EVT6.607F	終わった……。	It's over...	
 BTL_EVT6.6091S	ティンダロス	Tindalos	speaker
@@ -802,9 +802,9 @@ BTL_EVT6.609E	うおおお～んっ！！	Awooooo!!
 BTL_EVT6.60B4S	ティンダロス	Tindalos	speaker
 BTL_EVT6.60C1	うおおお～んっ！！	Awooooo!!	
 BTL_EVT6.60FBS	セシア	Cecia	speaker
-BTL_EVT6.6102	なにをしてるんですか{n}やめなさい！		
+BTL_EVT6.6102	なにをしてるんですか{n}やめなさい！	What are you doing? Stop it!	
 BTL_EVT6.6128S	セシア	Cecia	speaker
-BTL_EVT6.612F	なんだか……気味が悪い……。		
+BTL_EVT6.612F	なんだか……気味が悪い……。	Something... feels eerie...	
 BTL_EVT6.614FS	ウォーロック	Warlock	speaker
 BTL_EVT6.615C	我らの儀式の意味……わかるはずはない……。	The meaning of our ritual... is beyond{n}you...	
 BTL_EVT6.618AS	ウォーロック	Warlock	speaker
@@ -812,15 +812,15 @@ BTL_EVT6.6197	我らの儀式の意味……わかるはずはない……。	Th
 BTL_EVT6.61E9S	ウジャト	Udjat	speaker
 BTL_EVT6.61F2	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！	So you've come, angel's hero. Show me just{n}how strong you are!	
 BTL_EVT6.623AS	セシア	Cecia	speaker
-BTL_EVT6.6241	これが……魔族の力……。		
+BTL_EVT6.6241	これが……魔族の力……。	This is... the power of demons...	
 BTL_EVT6.625DS	ウジャト	Udjat	speaker
 BTL_EVT6.6266	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
 BTL_EVT6.628AS	ウジャト	Udjat	speaker
 BTL_EVT6.6293	あははは！{n}情けない勇者だこと！	Ahahaha! What a pathetic hero!	
 BTL_EVT6.62DBS	セシア	Cecia	speaker
-BTL_EVT6.62E2	これ以上村人を襲うというなら、倒します！		
+BTL_EVT6.62E2	これ以上村人を襲うというなら、倒します！	If you keep attacking villagers, I'll defeat{n}you!	
 BTL_EVT6.630ES	セシア	Cecia	speaker
-BTL_EVT6.6315	終わったんですね……。		
+BTL_EVT6.6315	終わったんですね……。	It's over, isn't it...	
 BTL_EVT6.632FS	ティンダロス	Tindalos	speaker
 BTL_EVT6.633C	ウオォ～ン！！	Awoooo!!	
 BTL_EVT6.634ES	ティンダロス	Tindalos	speaker
@@ -828,7 +828,7 @@ BTL_EVT6.635B	ウオォ～ン！！	Awoooo!!
 BTL_EVT6.6391S	モラクス	Morax	speaker
 BTL_EVT6.639A	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！	Hmph, angel's hero or not, you're only{n}human. You can't hope to match me!{wait}{clear}Here I come!	
 BTL_EVT6.63EES	セシア	Cecia	speaker
-BTL_EVT6.63F5	勝ったんですね……。		
+BTL_EVT6.63F5	勝ったんですね……。	I won, didn't I...	
 BTL_EVT6.640DS	モラクス	Morax	speaker
 BTL_EVT6.6416	ふははは！　出直してこい！	Fuhahaha! Come back when you're ready!	
 BTL_EVT6.6434S	モラクス	Morax	speaker
@@ -836,13 +836,13 @@ BTL_EVT6.643D	勇者とは、あんなものか！{n}ふははははは……！
 BTL_EVT6.6491S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.64A0	ようこそ、我が城へ。{n}天使の勇者。	Welcome to my castle, angel's hero.	
 BTL_EVT6.64C6S	レイラ	Leyla	speaker
-BTL_EVT6.64CD	レイブンルフト……。		
+BTL_EVT6.64CD	レイブンルフト……。	Ravenruft...	
 BTL_EVT6.64E5S	レイブンルフト	Ravenruft	speaker
-BTL_EVT6.64F4	娘よ、死を怖れぬことは美徳ではないぞ。		
+BTL_EVT6.64F4	娘よ、死を怖れぬことは美徳ではないぞ。	Girl, not fearing death is no virtue.	
 BTL_EVT6.651ES	レイラ	Leyla	speaker
-BTL_EVT6.6525	あなたの言葉など、聞こえません！		
+BTL_EVT6.6525	あなたの言葉など、聞こえません！	I won't hear a word you say!	
 BTL_EVT6.6549S	レイブンルフト	Ravenruft	speaker
-BTL_EVT6.6558	ハハハ、声がふるえているぞ。{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。		
+BTL_EVT6.6558	ハハハ、声がふるえているぞ。{n}強がりはやめることだ。{wait}{clear}さあ、せいぜい、私を楽しませてくれ。	Hahaha, your voice is trembling. Stop{n}pretending to be brave.{wait}{clear}Now, do your best to entertain me.	
 BTL_EVT6.65B8S	レイブンルフト	Ravenruft	speaker
 BTL_EVT6.65C7	なかなかの力だ……。	Quite some power...	
 BTL_EVT6.65DFS	レイブンルフト	Ravenruft	speaker

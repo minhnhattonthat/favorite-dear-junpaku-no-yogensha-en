@@ -1,0 +1,89 @@
+EMP_NG0.00D2	The Empire's moves worry me, but I doubt I'd make it in time.{wait}{clear}Sorry, but could you ask someone else?
+EMP_NG1.000E	Fight the Imperial Army... I can't...
+EMP_NG1.0030	I can't take on the Imperial Army alone. Sorry, but try someone else.
+EMP_NG1.0074	I understand... But I doubt I'd make it in time now... Sorry, but try someone else.
+EMP_NG2.000E	The Empire?! I can't forgive them, but with my strength right now...{wait}{clear}Sorry, but could you ask somebody else?
+EMP_NG2.0074	The Empire worries me, but I'm no match for them right now...{wait}{clear}Sorry, but could you ask somebody else?
+EMP_NG2.00E0	I get it, but I don't think I'd make it in time if I headed there now...{wait}{clear}I can't forgive the Empire, but if I'm too late, there's no undoing it, right? Then you'd better ask somebody else, don't you think?
+EMP_NG3.000E	The Empire...{wait}{clear}But I'm not confident I can handle them on my own...{wait}{clear}Sorry, but could you ask someone else?
+EMP_NG3.0084	I can't forgive the Empire, but I doubt I'm a match for them as I am now. Sorry, but could you ask someone else?
+EMP_NG3.00EE	I understand, but even if I set out now, I'd never make it in time.{wait}{clear}Sorry, but you'd better ask someone else...
+EMP_NG4.000E	The Empire...? But... sorry... There's no way I can beat them on my own right now...{wait}{clear}Could you ask someone else? Sorry...
+EMP_NG4.008A	I get it, but sorry. I don't think they're the kind of enemy I can handle by myself.{wait}{clear}Sorry, but try asking someone else.
+EMP_NG4.0106	The Empire's moves worry me, but would I even make it in time if I went now?{wait}{clear}If there's no undoing it, I think you'd better ask someone else.
+EMP_NG5.000E	The Empire...? But... on my own... and besides...{wait}{clear}I'm sorry. I know I'm the one who really should go. But I'm not confident I can stop the Empire as it is now...
+EMP_NG5.00AE	I understand... But the Imperial Army isn't so easy that I could face it alone. And as I am now, I could never...{wait}{clear}I'm sorry... Please ask someone else...
+EMP_NG5.014C	I won't make it in time now... I'm the one who should go, but... I'm sorry...
+EMP_NG6.000E	I'm sorry, Angel... I don't think I'm strong enough to face the Imperial Army right now.{wait}{clear}I'm very sorry, but could you ask someone else?
+EMP_NG6.0142	I understand, but even if I head there now, I don't think I'll make it in time...{wait}{clear}I'm sorry, but I think it would be better to ask someone else.
+EMP_OK0.000E	The Empire? All right, I'll go.
+EMP_OK0.0030	I won't forgive the Empire's tyranny... I'll go...
+EMP_OK0.005C	...The Empire plays dirty.{wait}{clear}All right... I'll go.
+EMP_OK1.000E	The Empire... It's nothing to do with me, but... fine...
+EMP_OK1.0040	Fine. If I'll do, I'll go...
+EMP_OK1.0064	The Empire... They're nothing to do with me, but if you insist, I'll go.
+EMP_OK2.000E	The Empire's doing something awful?{wait}{clear}Got it, I'll go! I can't forgive them!
+EMP_OK2.0064	The Empire...{wait}{clear}Okay... I don't know how well I can hold them off, but I'll go.
+EMP_OK2.00B8	Those Imperials... What are they thinking?! Damn it!{wait}{clear}I'm heading there right now! I'll deal with them.
+EMP_OK3.000E	The Empire...?!{wait}{clear}All right, I'll go at once.
+EMP_OK3.003A	I see... the Imperials...{wait}{clear}I'll go...
+EMP_OK3.006E	All right, I'll head there now. Their methods are the one thing I can't forgive.
+EMP_OK4.000E	The Empire? ...Okay, I'll go.
+EMP_OK4.0030	They do such awful things...{wait}{clear}I'm off. The Empire's ways are one thing I can't forgive.
+EMP_OK4.0080	Okay, I'll go right away. Because I can't... forgive the Empire...
+EMP_OK5.000E	The Empire? I understand... I'll deal with my own country.
+EMP_OK5.0050	I understand... I'll go...{wait}{clear}No, I must go...
+EMP_OK5.0098	I understand, I'll go...{wait}{clear}But what on earth has become of the Empire...?
+EMP_OK6.000E	The Empire? I understand, Angel. I'll head there at once!
+EMP_OK6.0046	I understand, Angel. I don't know how much I can do against the Imperial Army, but I'll go.
+EMP_OK6.0098	I understand. I can't forgive what the Empire is doing. I'll go...
+EQP_Item.013A	This is a large double-edged two-handed sword.
+EQP_Item.01C6	This is a single-edged two-handed sword.
+EQP_Item.023E	This is a curved blade.
+EQP_Item.0298	This is a staff.
+EQP_Item.02FC	This is a rod.
+EQP_Item.0356	This is a saber.
+EQP_Item.03BA	This is a bow.
+EQP_Item.0400	This is a robe.
+EQP_Item.04A2	This is light armor.
+EQP_Item.0556	This is standard armor.
+EQP_Item.060A	This is a pendant.
+EQP_Item.06A4	This is a bracelet.
+EQP_Item.074C	This is a ring.
+EQP_Item.07CA	These are boots.
+EQP_Item.0824	This is a charm.
+EQP_Item.08A2	Trust 85-101 (Fein)
+EQP_Item.08C2	Trust 102-127 (Fein)
+EQP_Item.08E4	Trust 85-101 (Clive)
+EQP_Item.0904	Trust 102-127 (Clive)
+EQP_Item.0926	Trust 256-512 (Rudi)
+EQP_Item.0946	Trust 102-127 (Rocus)
+EQP_Item.0966	Trust 256-512 (Leyla)
+EQP_Item.0AEE	Event item for Clive only (no other hero or the angel can get it)
+EvName.0006	Bandit Gang
+EvName.001E	Zombies of Teruel
+EvName.0036	Tyrant Nobles
+EvName.004E	Village Girls Hunted
+EvName.0066	Wrath of Titans
+EvName.007E	Imperial Invasion
+EvName.0096	Leus Invaded
+EvName.00AE	Lamia Invaded
+EvName.00C6	Jena Invaded
+EvName.00DE	Beast Attack
+EvName.00F6	General Kaiser
+EvName.010E	Kenner Invaded
+EvName.0126	Man-Eating Forest
+EvName.013E	Cursed Princess
+EvName.0156	Alberic's Invasion
+EvName.016E	Blood Madness
+EvName.0186	Blood-Red Armor
+EvName.019E	Boy with a Beast
+EvName.01B6	Holy City Invaded
+EvName.01CE	Viper's Challenge
+EvName.01E6	Kierang Invaded
+EvName.01FE	Imperial Devil
+EvName.0216	The Boy of Fano
+EvName.022E	Noble Assassinated
+EvName.0246	Camp Carrara
+EvName.025E	Occupied Village
+EvName.0276	Cursed Armor

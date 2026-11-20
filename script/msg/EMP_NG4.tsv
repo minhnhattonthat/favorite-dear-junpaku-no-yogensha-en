@@ -1,7 +1,7 @@
 id	jp	en	notes
-EMP_NG4.000E	帝国が……？{n}でも……ごめん……。{n}いまの私ひとりじゃ、かないっこない……。{wait}{clear}他のひとに頼んでもらえる？　悪いけど……。		
-EMP_NG4.008A	話はわかったけど、ごめんね。{n}私ひとりでなんとかできるような{n}相手じゃないと思うの。{wait}{clear}悪いけど、他の人にお願いしてみて。		
-EMP_NG4.0106	帝国の動きはきになるけど、{n}それって、いまから私が行って、間に合うの？{wait}{clear}取り返しがつかなくなるんだったら、{n}他の人に頼んだ方がいいと思うけど。		
-EMP_NG4.0198	帝国が……？{n}でも……ごめん……。{n}いまの私ひとりじゃ、かないっこない……。{wait}{clear}他のひとに頼んでもらえる？　悪いけど……。		
-EMP_NG4.0214	話はわかったけど、ごめんね。{n}私ひとりでなんとかできるような{n}相手じゃないと思うの。{wait}{clear}悪いけど、他の人にお願いしてみて。		
-EMP_NG4.0290	帝国の動きはきになるけど、{n}それって、いまから私が行って、間に合うの？{wait}{clear}取り返しがつかなくなるんだったら、{n}他の人に頼んだ方がいいと思うけど。		
+EMP_NG4.000E	帝国が……？{n}でも……ごめん……。{n}いまの私ひとりじゃ、かないっこない……。{wait}{clear}他のひとに頼んでもらえる？　悪いけど……。	The Empire...? But... sorry... There's no{n}way I can beat them on my own right now...{wait}{clear}Could you ask someone else? Sorry...	
+EMP_NG4.008A	話はわかったけど、ごめんね。{n}私ひとりでなんとかできるような{n}相手じゃないと思うの。{wait}{clear}悪いけど、他の人にお願いしてみて。	I get it, but sorry. I don't think they're{n}the kind of enemy I can handle by myself.{wait}{clear}Sorry, but try asking someone else.	
+EMP_NG4.0106	帝国の動きはきになるけど、{n}それって、いまから私が行って、間に合うの？{wait}{clear}取り返しがつかなくなるんだったら、{n}他の人に頼んだ方がいいと思うけど。	The Empire's moves worry me, but would I{n}even make it in time if I went now?{wait}{clear}If there's no undoing it, I think you'd{n}better ask someone else.	
+EMP_NG4.0198	帝国が……？{n}でも……ごめん……。{n}いまの私ひとりじゃ、かないっこない……。{wait}{clear}他のひとに頼んでもらえる？　悪いけど……。	The Empire...? But... sorry... There's no{n}way I can beat them on my own right now...{wait}{clear}Could you ask someone else? Sorry...	
+EMP_NG4.0214	話はわかったけど、ごめんね。{n}私ひとりでなんとかできるような{n}相手じゃないと思うの。{wait}{clear}悪いけど、他の人にお願いしてみて。	I get it, but sorry. I don't think they're{n}the kind of enemy I can handle by myself.{wait}{clear}Sorry, but try asking someone else.	
+EMP_NG4.0290	帝国の動きはきになるけど、{n}それって、いまから私が行って、間に合うの？{wait}{clear}取り返しがつかなくなるんだったら、{n}他の人に頼んだ方がいいと思うけど。	The Empire's moves worry me, but would I{n}even make it in time if I went now?{wait}{clear}If there's no undoing it, I think you'd{n}better ask someone else.	
