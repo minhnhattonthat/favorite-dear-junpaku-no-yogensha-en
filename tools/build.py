@@ -150,6 +150,8 @@ def main():
                     help="override one row's text (text form of tools/jtext.py); repeatable")
     ap.add_argument("--stem", default=None, help="output name build/<stem>.bin (default fd2_en, fd2_marker)")
     ap.add_argument("--marker", action="store_true", help="marker build: every row = label + filler (tools/marker.py)")
+    ap.add_argument("--ruler", action="store_true",
+                    help="width-gate build: growable rows = label + 1.5x-wide position ruler (tools/marker.py)")
     a = ap.parse_args()
     if a.identity:
         out = build("identity", relay_all=True)
@@ -166,9 +168,13 @@ def main():
         if a.marker:
             import marker
             texts_for = marker.texts_for
+        if a.ruler:
+            import marker
+            texts_for = marker.ruler_texts_for
         lkf_changes, files, nrows = insert.changes("en", overrides=qa, texts_for=texts_for)
         files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes())
-        out = build(a.stem or ("fd2_marker" if a.marker else "fd2_en"), lkf_changes=lkf_changes, files=files)
+        stem = a.stem or ("fd2_ruler" if a.ruler else "fd2_marker" if a.marker else "fd2_en")
+        out = build(stem, lkf_changes=lkf_changes, files=files)
         print(f"{nrows} translated rows")
     print(f"{out}: sha1 {sha1(out)}")
 

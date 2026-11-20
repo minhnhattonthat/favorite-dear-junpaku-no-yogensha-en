@@ -38,6 +38,18 @@ def test_to_pairs_keeps_tags_and_japanese():
                  + font_en.pair_code("!", " ") + b"\\l" + font_en.pair_code("O", "k"))
 
 
+def test_to_pairs_keeps_printf_s():
+    b = jtext.encode(font_en.to_pairs("Go to %s?"))
+    assert b == font_en.pair_code("G", "o") + font_en.pair_code(" ", "t") + font_en.pair_code("o", " ") + b"%s" \
+        + font_en.pair_code("?", " ")
+
+
+def test_ruler_marks_line_positions():
+    import marker
+    t = marker.ruler_text("ABC", "あいうえお{n}かき")
+    assert t == "ABC :....1....: {n}....:."      # 3 letters per character; odd runs padded with a space
+
+
 @needs_tree
 def test_pair_codes_miss_the_japanese_font():
     import fontinfo

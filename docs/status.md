@@ -2,8 +2,19 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build (phase 4 done: every text source extracted to `script/`, roundtrip and
-  coverage tests green).
+- **Phase:** 5. Engine spike and marker build in progress (font done; marker build reaches 64/66 scenes; width gate
+  partly measured).
+- **Phase 5 so far (2026-11-21):** pair-glyph English font in the EXE (commit 498b584, `text.md` §English font).
+  `build.py --marker` (same-length markers) boots and reached 64 of 66 warp scenes (`work/qa/p5/marker/<scene>/`;
+  not run: `game_over`, `game_over2`, stopped by the OS for low memory). Labels starting with `O` are base-36
+  indices >= 864, not zero. Width gate so far: `text.md` §Width gate (dialogue, system box, map/heaven/choice
+  buttons). New `build.py --ruler` (`build/fd2_ruler.cue`, built): growable rows get 1.5x width as a position ruler
+  (`....:....1....:....2`) so each box's clip column reads off a shot. Debug printfs excluded; `%s` kept raw.
+- **Next for phase 5:** run `game_over game_over2` on the marker build; run the event, battle and ending scenes on
+  the ruler build (`warp.py <scenes> --cue C:/.../build/fd2_ruler.cue -j 1 --out-dir work/qa/p5/ruler`, in batches
+  of ~10: a 41-scene batch was killed for low memory while another project's emulator ran) and fill the rest of the
+  width gate (name tag, visit MSG, battle messages, .end, exam/quiz). Name entry: kana grid (G6) has A-Z a-z on the
+  keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**
   - Step 0, phases 1-3 (see git history; `docs/re/README.md`, `docs/re/debug.md`, `docs/re/disc.md`): 66 warp scenes
     from cold boots, `save.py`, 40 states in `work/states/`; identity build byte-identical as a test; grown LKF

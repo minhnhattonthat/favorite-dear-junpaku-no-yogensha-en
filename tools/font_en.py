@@ -32,6 +32,7 @@ CELL_W, CELL_H, HALF = 12, 14, 6
 TOP = 3          # font row 0 (cap top) lands on cell row 3; descenders reach row 12
 INK = 3          # 2bpp value of ink (the Japanese font's solid value; palette 7FFF white)
 TAG = re.compile(r"(\{[^{}]*\})")
+FMT = re.compile(r"(\{[^{}]*\}|%s)")   # printf %s (rfd2 only) stays raw ASCII: sprintf reads it, not the font
 
 
 def load_font(path=FONT):
@@ -84,10 +85,10 @@ def _run_tags(run):
 
 def to_pairs(text):
     """Text form with English letters -> text form with pair codes as {XX} tags (jtext.encode turns them to bytes).
-    Characters outside CHARS (Japanese, ＄ name placeholder, ￥) are left as they are."""
+    Characters outside CHARS (Japanese, ＄ name placeholder, ￥) and printf %s are left as they are."""
     out = []
-    for part in TAG.split(text):
-        if TAG.fullmatch(part) or not part:
+    for part in FMT.split(text):
+        if FMT.fullmatch(part) or not part:
             out.append(part)
             continue
         run = ""

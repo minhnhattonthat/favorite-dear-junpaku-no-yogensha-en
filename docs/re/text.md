@@ -26,7 +26,8 @@ known**: test in phase 5.
   (12 bytes, compared at 0x8002EA44) into the angel name.
 - ASCII bytes are **not** printable in ssb text: a row with ASCII letters made the prologue skip to the map (the
   script reader takes bytes < 0x80 as op argument counts). Hence the pair codes below.
-- Second printer: 0x80040CE8 / 0x80040F88 advance by 11 too (unknown screen; see the marker tour).
+- The only other `+ 11` steps in the EXE (0x80040CE8 / 0x80040F88) are in a scratchpad-based graphics routine, not
+  text (checked by disassembly).
 
 ## English font (phase 5; verified in game, `work/qa/p5/asc`)
 
@@ -48,6 +49,15 @@ known**: test in phase 5.
 | Variant | Budget | How measured |
 |---|---|---|
 | Dialogue box (event scripts, prologue) | 44 letters per line (22 cells), 3 lines per page; line 3: 43 letters (the page-wait gem is at x 289-293) | a 48-letter line: letters 1-45 show, the 45th touches the frame (x 294-299), clip at x 300 |
+| System message box (save/load, `SLPS.8008D5C8`) | same box as dialogue: 44 | `work/qa/p5/marker/load_save/final.png` |
+| Map command buttons (rfd2 勇　者 / 妖　精 / ステータス / 天界へ) | ~12 letters (frame x 120-195, text centred) | `map_menu/final.png`, pixel scan; clip not yet seen (slots hold only 7-11 bytes in place) |
+| Heaven menu / choice buttons (データ, 休　息, セーブ / ロード) | ~14 letters (frame ~92-96 px, centred) | `map_heaven`, `heaven_data`, `load_save` final.png; clip not yet seen |
+| Heaven help bar (rfd2.8009D084) | to the screen edge, ~40 letters (bar from x 64) | `map_heaven/final.png`; whether the bar sizes to the text: unknown |
+
+Still to measure (ruler build, `build.py --ruler` -> `build/fd2_ruler.cue`, run the event, battle and ending scenes
+on it): name tag, MSG conversation (visit), battle messages (BTL_EVT, EVX), .end narration, exam/quiz, status window.
+Non-text rows excluded from marker builds: the debug printfs `FontEntryBuf() ～ ...`, `BraveChgStat() ～ ...`
+(TTY only) and the memory-card titles. printf `%s` (4 rfd2 rows) stays raw ASCII (`font_en.FMT`).
 - EXE 0x5e9d9 and 0x5efe9: two more SJIS character lists (`：ゞ‥《≠￠□ ５ＤＳｂｑあけだはまろ ェザヅフャヲΓΣβρ ...`,
   every Nth character of a full JIS row order): guess, a glyph-index table for a second font or the name-entry grid.
 - Graphics glyph strips (no SJIS): GRPDATA_0051/0052 (keyboard), 0458/0459 (battle labels), see `graphics.md`.
