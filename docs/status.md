@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 2. Debug tool: every scene reached (OMAKE and the clear save now too); left: re-record 24 scenes in one batch.
+- **Phase:** 3. Identity build (phase 2 done: all 66 scenes in `scenes.tsv` have an `ok` row in `results.tsv`).
 - **Done (2026-11-20):**
   - Step 0 and phase 1 recon (see git history; `docs/re/README.md`).
   - Phase 2: `tools/debug/warp.py` + `warp.lua` + `scenes.tsv` (how: `docs/re/debug.md`). Cold boot -> New Game
@@ -20,14 +20,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     memcard1.mcd; fixture `cards/fd2_cleared.mcd`). OMAKE holds only the album.
   - Probes for warp runs: `tools/debug/cardtrace.lua` (BIOS card calls), `fileslog.lua` (every LKF file loaded),
     `stateat.lua` (a state at frame N for play.py).
-- **Next (phase 2, to finish):**
-  - `results.tsv` has no `ok` row for 24 scenes proven before it existed, and `prologue` lost its proof shot to a
-    stopped batch: title title_load title_option name_entry prologue map map_menu map_fairy map_status
-    map_status_fairy map_heaven heaven exam demo_menu visit maseki year1 ev_cecia ev_claire ev_lo ev_ro ev_ei ev_la
-    game_over2. Re-run them, **-j 1**, with `--state`: `python -X utf8 tools/debug/warp.py <those> -j 1 --state`.
-    The session's `--all -j 2 --state` was stopped by Claude Code for low system memory (states saved for the
-    first 16 scenes, through name_entry); a -j 4 run was killed by the OS earlier. Then the remaining states
-    (`--all` minus those done) and phase 3 (identity build + LKF grow-one-entry boot test).
+  - Re-run of the 24 scenes proven before `results.tsv` existed (title .. game_over2), `-j 1 --state`: all 24 `ok`,
+    so every scene in `scenes.tsv` now has an `ok` row and a proof shot; `work/states/` holds 40 states.
+- **Next (phase 3):**
+  - Identity build (unpack/repack the disc with no edits, byte-identical as a test) + LKF grow-one-entry boot test.
+  - Warp batches: run **-j 1** on this machine (a -j 2 run was stopped for low memory, a -j 4 run killed by the
+    OS). States for the scenes still without one: `--all` minus those in `work/states/`, when a later phase needs them.
   - キャラ劇 (GRPDATA 558 battle.tim) is not in OMAKE and no script or traced scene loads it: probably unused.
     Phase 8: `--all --lua tools/debug/fileslog.lua --debugger`, grep for battle.tim; if never loaded, drop G9.
   - Don't edit warp.lua while a batch runs: runs that start mid-edit fail.
