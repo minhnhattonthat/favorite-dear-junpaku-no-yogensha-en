@@ -9,5 +9,5 @@ menX_ro01.0154	ロクス	Rocus	speaker
 menX_ro01.015E	悪いけど……ほうっておいてくれないか。{n}誰だって、ひとりになりたいときくらいあるだろう？{wait}{clear}帰ってくれ……。{wait}{clear}	Sorry, but... could you just leave me be?{n}Everybody wants to be alone sometimes,{n}right?{wait}{clear}Go back...{wait}{clear}	
 menX_ro01.01D8	ＮＵＬＬ	NULL	speaker
 menX_ro01.01E4	ロクスに同行しますか？{n}	Accompany Rocus?{n}	
-menX_ro01.0200	　《はい》{n}	Yes{n}	
-menX_ro01.0212	　《いいえ》	No	
+menX_ro01.0200	　《はい》{n}	  Yes{n}	
+menX_ro01.0212	　《いいえ》	  No	

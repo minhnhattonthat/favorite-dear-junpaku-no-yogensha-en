@@ -2,8 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (25th worker: G15 ending caption + staff roll done, inkbox/stress/textcover/re-tour
-  next; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (26th worker: G14+G15 built into e2206009 and seen in game; credits verdicts 4/13;
+  choice indent fixed; inkbox found odd-length centred labels 3 px left. NEXT, in order: (a) read credits pages
+  3,5,6,7,9-12 + choice_menx sheets, re-warp game_over2 (DEMO captions now English) and re-verdict; (b) fix the odd
+  label centring (see 26th worker entry); (c) stress saves; (d) textcover (no coverage run exists yet; 288 ssb
+  events); (e) final re-tour. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -302,6 +305,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
   eviction window in `Movie.build`, 120 frames x 1.7 MB float64, or store rgb as uint8), then `build.py`, smoke,
   `warp.py credits --cue <abs>/build/fd2_en.cue`, re-sheet credits (+ end_* / game_over2 if they include FMV) and
   write verdicts; the 13 credits sheets are the only `not ok` left besides G14's 3 (now fixed, re-verdict).
+- **Phase 8 progress (2026-11-21, 26th worker):** `fmv.py` frame cache is float32 now (the float64 cache got the
+  25th worker's run killed); DEMO + ENDING re-encoded (~17 min; 1014 ENDING frames drop AC levels <= 1..4 to fit
+  their sectors, `work/fmv/log/build.txt`). **Build e2206009**, check.py 72 passed + lint 0, smoke OK. `warp.py
+  credits` on it: the roll is English in game (`work/qa/tour/credits`, 13 sheets; pages 1/4/8/13 read, ok, in
+  `verdicts/w26_001.tsv`; pages 3,5,6,7,9-12 still need reading). qa_gate manifest re-inited with `--glob
+  "qa_sheet*.png"` (without it init adds every sheet.png: 157 junk rows, removed). **Choice indent:** the menX_*
+  《はい》/《いいえ》 options are indented one cell under the question in the JP (not for a cursor: the highlight
+  bar spans the box, `work/qa/jp/choice/z2.png`); `trans/en` had "  Yes" but `batches.wrap_lines` dropped leading
+  spaces; it keeps them now (`tests/test_wrap.py`), 14 menX rows indented. New scene `choice_menx` (event
+  menX_Ce01.ssb, hold): the choice is up at ~f010430 on the build and is then auto-answered ~f010460 (shoot with
+  `--shot-every 10 --frames 10560`). **Merge was not stable:** the 23rd worker's EvName rewordings were edited in
+  script/ only, so `batches.py merge` reverted them; they are now in `trans/en/b053.tsv` too, and merge copies them to
+  their duplicate JP rows (op.* OMAKE titles, eiev05.0002). **Inkbox** (`docs/inkbox.tsv`, rects from the new
+  `tools/buttons.py`): heaven Save/Load, heaven menu, card Slot 1/2, Heroes/Status pass; **FAIL: odd-length centred
+  button labels sit 3 px left** ("Fairies" 11/19 px in the 70-px map/heaven-status button, "Angel", "To Heaven"
+  5/13, heaven Move "Azaria Palace"/"Emilia Palace" 1/9). Cause: the game centres by byte count and a label is
+  pair codes, so an odd label carries a blank half-pair at its end. Lead: label reads on the original
+  (`work/qa/p8/watch_btn/map_menu/log.txt`): BIOS strlen, then EXE 0x8002E9A8 (a0 dest, a1 str; returns 0 for
+  an odd strlen, converts the string into glyph codes at 0x8007F480, max 0x30); its only EXE caller 0x8002D6C8 is
+  a generic line writer (strlen in s6), so the x maths is further up: break there and walk RA to the button
+  routine, then either hook it (x += 3 when the last pair ends in a space) or reword to even lengths (as EvName).
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on

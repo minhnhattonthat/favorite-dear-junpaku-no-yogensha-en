@@ -9,5 +9,5 @@ menX_lo01.0154	ルディエール	Rudiere	speaker
 menX_lo01.0164	＄＄＄＄＄＄の気持ちもわかるけど……{n}おれの好きにさせておいてくれないか？{wait}{clear}悪いな……。{wait}{clear}	I know how you feel, ＄＄＄＄＄＄, but...{n}could you just let me do what I want?{wait}{clear}Sorry...{wait}{clear}	
 menX_lo01.01CC	ＮＵＬＬ	NULL	speaker
 menX_lo01.01D8	ルディに同行しますか？{n}	Accompany Rudi?{n}	
-menX_lo01.01F4	　《はい》{n}	Yes{n}	
-menX_lo01.0206	　《いいえ》	No	
+menX_lo01.01F4	　《はい》{n}	  Yes{n}	
+menX_lo01.0206	　《いいえ》	  No	

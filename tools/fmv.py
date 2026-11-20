@@ -202,7 +202,8 @@ class Movie:
         if n not in self._rgb:
             f = self.fr[n]
             Y, Cb, Cr = mdec.decode(mdec.frame_data(self.data, f), f["w"], f["h"])
-            self._rgb[n] = mdec.to_rgb(Y, Cb, Cr, f["w"], f["h"]).astype(float)
+            # float32: the roll keeps ~200 frames cached (float64 ran a busy host out of memory)
+            self._rgb[n] = mdec.to_rgb(Y, Cb, Cr, f["w"], f["h"]).astype(np.float32)
         return self._rgb[n]
 
     def shift(self, n, m, region):
@@ -390,7 +391,7 @@ class Movie:
     def build(self):
         buf = bytearray(self.data)
         for n in self.frames_to_edit():
-            for k in [k for k in self._rgb if k < n - 120]:   # the roll reads frames up to 96 away
+            for k in [k for k in self._rgb if k < n - 100]:   # the roll reads frames up to 96 away
                 del self._rgb[k]
             res = self.edit(n)
             if res is None:

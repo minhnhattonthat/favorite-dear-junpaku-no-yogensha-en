@@ -44,6 +44,11 @@ def test_forced_short_line_kept():
     assert B.wrap_lines("Hey!{n}You.", 44) == ["Hey!", "You."]
 
 
+def test_leading_indent_kept():
+    # menX choice options sit one cell under the question, as in the JP (　《はい》)
+    assert B.wrap_lines("  Yes{n}  No", 44) == ["  Yes", "  No"]
+
+
 def test_every_word_kept():
     text = "Alpha beta. Gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma."
     out = B.wrap(text, (16, 2, True))

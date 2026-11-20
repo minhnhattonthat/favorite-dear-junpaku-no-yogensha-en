@@ -61,95 +61,95 @@ EQP_Item.0926	Trust 256-512 (Rudi)
 EQP_Item.0946	Trust 102-127 (Rocus)
 EQP_Item.0966	Trust 256-512 (Leyla)
 EQP_Item.0AEE	Event item for Clive only (no other hero or the angel can get it)
-EvName.0006	Bandit Gang
-EvName.001E	Zombies of Teruel
-EvName.0036	Tyrant Nobles
+EvName.0006	Bandit Raiders
+EvName.001E	Teruel's Zombies
+EvName.0036	Tyrannous Nobles
 EvName.004E	Village Girls Hunted
-EvName.0066	Wrath of Titans
-EvName.007E	Imperial Invasion
+EvName.0066	Wrath of the Titan
+EvName.007E	Imperial Incursion
 EvName.0096	Leus Invaded
-EvName.00AE	Lamia Invaded
+EvName.00AE	Lamia Under Attack
 EvName.00C6	Jena Invaded
 EvName.00DE	Beast Attack
 EvName.00F6	General Kaiser
 EvName.010E	Kenner Invaded
-EvName.0126	Man-Eating Forest
-EvName.013E	Cursed Princess
+EvName.0126	Man-Eating Woods
+EvName.013E	Princess's Curse
 EvName.0156	Alberic's Invasion
-EvName.016E	Blood Madness
-EvName.0186	Blood-Red Armor
+EvName.016E	Blood Frenzy
+EvName.0186	Bloodred Armor
 EvName.019E	Boy with a Beast
-EvName.01B6	Holy City Invaded
-EvName.01CE	Viper's Challenge
-EvName.01E6	Kierang Invaded
+EvName.01B6	Holy City Attacked
+EvName.01CE	Challenge from Viper
+EvName.01E6	Kierang Under Attack
 EvName.01FE	Imperial Devil
-EvName.0216	The Boy of Fano
+EvName.0216	The Fano Boy
 EvName.022E	Noble Assassinated
 EvName.0246	Camp Carrara
 EvName.025E	Occupied Village
 EvName.0276	Cursed Armor
-EvName.028E	Rite of Revival
+EvName.028E	Revival Ritual
 EvName.02A6	The Viper's Lure
 EvName.02BE	Cursed Sword
 EvName.02D6	Prince of Darkness
-EvName.02EE	Emperor of Darkness
+EvName.02EE	The Dark Emperor
 EvName.0306	The Emperor's Castle
 EvName.031E	Castle of Legend
 EvName.0336	Graz Invaded
-EvName.034E	Frontier Camp
-EvName.0366	Aalst Invaded
-EvName.037E	Camp Kungur
-EvName.0396	Aarau Invaded
-EvName.03AE	Imperials and Monsters
+EvName.034E	Camp at the Frontier
+EvName.0366	Aalst Under Attack
+EvName.037E	Camp at Kungur
+EvName.0396	Aarau Under Attack
+EvName.03AE	Imperials & Monsters
 EvName.03C6	Bloodsucking Slime
-EvName.03DE	Man-Eating Flower
+EvName.03DE	Man-Eating Flowers
 EvName.03F6	Kidnappers
 EvName.040E	Port Town Attacked
 EvName.0426	Sea Dragon of Bremes
-EvName.043E	Serpent of the Highway
-EvName.0456	Mountain Monster Bird
-EvName.046E	Giant Centipede Swarm
-EvName.0486	Walking Nightmare
-EvName.049E	The Sobbing Woman
-EvName.04B6	Red Bandits
+EvName.043E	Snake on the Highway
+EvName.0456	Roc of the Mountains
+EvName.046E	Giant Centipedes
+EvName.0486	Living Nightmare
+EvName.049E	The Woman Who Sobs
+EvName.04B6	Red Bandits Strike
 EvName.04CE	Red Bandits Return
-EvName.04E6	Demon Bandits
+EvName.04E6	Demon Bandits Strike
 EvName.04FE	Soldiers of the East
 EvName.0516	Giant of the Highway
-EvName.052E	Orc Rampage
-EvName.0546	Gremlin Swarm
+EvName.052E	Orcish Rampage
+EvName.0546	Pack of Gremlins
 EvName.055E	Serpent's Temptation
 EvName.0576	Isolated Village
 EvName.058E	Mystery Whirlwinds
 EvName.05A6	Savage Grizzly
-EvName.05BE	Sea Dragon of Rajes
-EvName.05D6	Highway Robbers
-EvName.05EE	Village of the Dead
+EvName.05BE	Rajes Sea Dragon
+EvName.05D6	Raid of Highwaymen
+EvName.05EE	Dead Men's Village
 EvName.0606	The Unseen Beast
 EvName.061E	Changeling
-EvName.0636	Giant Spider Plague
-EvName.064E	Monster Bird Attack
+EvName.0636	Giant Spider Swarm
+EvName.064E	Monster Birds Attack
 EvName.0666	Hobgoblin Raid
 EvName.067E	The Cursed Sea
-EvName.0696	Terror by the Sea
+EvName.0696	Seaside Terror
 EvName.06AE	Cursed Village
 EvName.06C6	Black Shadow
-EvName.06DE	Blue Shadow
+EvName.06DE	Shadow in Blue
 EvName.06F6	Red Shadow
-EvName.070E	Mystery Mansion
-EvName.0726	Scylla's Nest
+EvName.070E	Mysterious Mansion
+EvName.0726	Nest of Scylla
 EvName.073E	Rebel Elements
-EvName.0756	Demon Mansion
+EvName.0756	Demon Clan Mansion
 EvName.076E	Freezing Village
 EvName.0786	Devil of Liege
-EvName.079E	The Devil's Steps
+EvName.079E	Steps of the Devil
 EvName.07B6	Devil of Ilyus
-EvName.07CE	Shadow in Black
+EvName.07CE	Shadow Clad in Black
 EvName.07E6	Vanished Women
 EvName.07FE	Monster of Limeira
-EvName.0816	Gremlin Rampage
+EvName.0816	Gremlin Mayhem
 EvName.082E	Defiled Forest
-EvName.0846	Highway Monster
+EvName.0846	Highway Monsters
 FryMsg0.008E	Angel, the chaos in the world seems to be spreading. Please be very careful.
 FryMsg0.00D4	Angel! We can no longer stop the chaos in the world!
 FryMsg0.0110	Angel, please mind your AP. If it runs out, you'll need to return to the Heavens.

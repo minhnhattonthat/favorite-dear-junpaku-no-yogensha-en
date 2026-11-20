@@ -1,0 +1,9 @@
+shot	rect	label	left	right	verdict	note
+work/qa/tour/heaven_data/post.png	37,116,86,14	Save	31	33	ok	--ink 255,255,255 --diff 50; rects from tools/buttons.py
+work/qa/tour/heaven_data/post.png	181,116,86,14	Load	31	33	ok	--ink 156,156,156 --diff 30
+work/qa/tour/map_heaven/post.png	29,29,86,14	heaven button 1	31	33	ok	same rects in heaven_rest/post.png, same result
+work/qa/tour/map_heaven/post.png	29,55,86,14	heaven button 2	25	27	ok
+work/qa/tour/map_heaven/post.png	29,81,86,14	Rest	31	34	ok	3 px is glyph ink: the label sits in the same two 12-px pair cells as Data (31/33); "t" has less ink on its right
+work/qa/tour/map_heaven/post.png	29,107,86,14	heaven button 4	31	33	ok
+work/qa/tour/map_heaven/post.png	29,133,86,14	heaven button 5	7	8	ok
+work/qa/tour/map_heaven/post.png	69,193,198,10	bottom help pill	63	65	ok

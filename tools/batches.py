@@ -274,12 +274,16 @@ def balanced(seg, w, n):
 
 def wrap_lines(page, w):
     """word wrap of one page; keeps forced {n}. Greedy, except that a segment whose last line would be a stub
-    is re-broken over the same number of lines with balanced line lengths."""
+    is re-broken over the same number of lines with balanced line lengths. A segment's leading spaces are kept
+    (the menX choice options are indented one cell under the question, as in the JP)."""
     lines = []
     for seg in page.split("{n}"):
-        g = greedy(seg, w)
+        body = seg.lstrip(" ")
+        indent = seg[:len(seg) - len(body)]
+        g = greedy(body, w - width(indent))
         if len(g) >= 2 and width(g[-1]) < STUB:
-            g = balanced(seg, w, len(g)) or g
+            g = balanced(body, w - width(indent), len(g)) or g
+        g[0] = indent + g[0]
         lines += g
     return lines
 

@@ -9,5 +9,5 @@ menX_Ce01.0148	セシア	Cecia	speaker
 menX_Ce01.0152	天使様の立場はよくわかっているつもりです。{n}でも、お願いですから、{n}今はひとりにしてください。{wait}{clear}	I think I understand your{n}position, Angel. But please, I{n}beg you, leave me alone for now.{wait}{clear}	
 menX_Ce01.01BE	ＮＵＬＬ	NULL	speaker
 menX_Ce01.01CA	セシアに同行しますか？{n}	Accompany Cecia?{n}	
-menX_Ce01.01E6	　《はい》{n}	Yes{n}	
-menX_Ce01.01F8	　《いいえ》	No	
+menX_Ce01.01E6	　《はい》{n}	  Yes{n}	
+menX_Ce01.01F8	　《いいえ》	  No	

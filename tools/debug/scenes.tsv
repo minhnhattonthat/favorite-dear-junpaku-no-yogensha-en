@@ -66,3 +66,4 @@ battle_3152	battle	0:3152		mash	18000				battle table's second block (3152-3192,
 credits	ending			hold	30000				ed.bin: staff roll movie ENDING.STR (4214 movie frames)
 game_over	ending	0x10		mash	14000				ed.bin game over (g_over0-3.tim)
 game_over2	ending	0x20		hold	20000				ed.bin byte 0x20: second game-over variant (grey card), then a soft reset to the logos
+choice_menx	event	menX_Ce01.ssb		hold	13000		30 -;6 circle;120 -;6 circle;120 -		menX_Ce01 "Accompany Cecia?" Yes/No choice held (inkbox); post.png = after 2 circles
