@@ -1,0 +1,148 @@
+"""msgforce.py: show every entry of the MSG banks in the game's MSG box, for the text coverage gate (phase 8).
+
+    python -X utf8 tools/msgforce.py [BANK.MSG ..] [--all] [--out-dir work/qa/msgforce] [-j 2] [--scene battle]
+                                     [--per-entry 70] [--dry]
+
+MSG entries are chosen by game state, so scenes show a few per bank. For each bank this runs the warp scene (default
+`battle`: its lines open the MSG box) on the ORIGINAL disc with tools/debug/msgforce.lua, which puts the bank's
+original bytes at 0x80010000 and chains the box through every entry (docs/re/text.md, MSG box), plus
+tools/debug/textcover.lua's sibling logging, so `tools/textcover.py work/qa/cover .. work/qa/msgforce` credits the
+entries. One folder per bank (<out-dir>/<bank stem>/<scene>/); a bank is done when its log has "FORCE done".
+Resumable: banks already done are skipped. Entries already reached in the given --have dirs are not re-forced.
+"""
+import argparse
+import subprocess
+import sys
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+import evx  # noqa: E402
+import msg  # noqa: E402
+
+WARP = ROOT / "tools" / "debug" / "warp.py"
+LUA = ROOT / "tools" / "debug" / "msgforce.lua"
+SSB = ROOT / "work" / "lkf" / "SSB_DATA"
+
+
+def banks(ext=".MSG"):
+    """{file name (case as on disc): path of the original bytes} for SSB_DATA files with this extension."""
+    out = {}
+    for p in sorted(SSB.glob("*")):
+        name = p.name.split("_", 1)[-1]
+        if name.upper().endswith(ext):
+            out[name] = p
+    return out
+
+
+def entries(name, data):
+    """[(text offset, byte length, row key)] for every text of the file, in file order. MSG: every entry (speakers
+    included). EVX: the message items (speaker, text, choice) the battle copies to 0x80189B90 and shows in the same
+    box (rfd2 0x800D4414 -> 0x8002E6C0); unit names and the dev-label title are never read (docs/text_unshown.tsv)."""
+    out = []
+    if name.upper().endswith(".EVX"):
+        for key, kind, text in evx.parse(data)["strings"]:
+            if kind in ("text", "speaker", "choice") and text:
+                out.append((int(key, 16), len(text), f"evx/{Path(name).stem}.{key}"))
+        return sorted(out)
+    bank = msg.parse(name, data)
+    for key, text in bank.strings:
+        off = int(key.rstrip("S"), 16)
+        if text:
+            out.append((off, len(text), f"msg/{Path(name).stem}.{key}"))
+    return sorted(out)
+
+
+def lua_file(group, path):
+    """group: [(bank name, data, entries)]."""
+    parts = []
+    for name, data, ents in group:
+        body = "".join(f"\\x{b:02X}" for b in data)
+        lst = ",".join(f"{{{o},{n}}}" for o, n, _ in ents)
+        parts.append(f'{{name = "{name}", data = "{body}", list = {{{lst}}}}}')
+    path.write_text("FORCE_AT = 0x80010000\nFORCE_BANKS = {\n" + ",\n".join(parts) + "\n}\n", encoding="ascii")
+
+
+def banks_done(out):
+    """Bank names a log under `out` finished ("FORCE bank done NAME")."""
+    got = set()
+    for log in out.rglob("log.txt"):
+        for line in open(log, encoding="utf-8", errors="replace"):
+            if line.startswith("FORCE bank done "):
+                got.add(line.split()[3].lower())
+    return got
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("banks", nargs="*")
+    ap.add_argument("--all", action="store_true")
+    ap.add_argument("--evx", action="store_true", help="EVX battle files instead of MSG banks")
+    ap.add_argument("--out-dir", default="work/qa/msgforce")
+    ap.add_argument("--scene", default="battle")
+    ap.add_argument("-j", type=int, default=2)
+    ap.add_argument("--per-entry", type=int, default=90, help="frames budgeted per entry")
+    ap.add_argument("--group", type=int, default=400, help="entries per run (banks are chained in one battle)")
+    ap.add_argument("--mash-every", type=int, default=16)
+    ap.add_argument("--have", action="append", default=[], help="coverage dirs: skip entries already reached")
+    ap.add_argument("--dry", action="store_true")
+    a = ap.parse_args()
+    out = ROOT / a.out_dir
+    allb = banks(".EVX" if a.evx else ".MSG")
+    want = list(allb) if a.all else a.banks
+    have = set()
+    if a.have:
+        import textcover
+        files, _ = textcover.load_rows()
+        have = textcover.reached([p for d in a.have for p in Path(d).rglob("log.txt")], files)
+    fin = banks_done(out) if out.exists() else set()
+    groups, cur = [], []
+    for name in want:
+        path = allb.get(name) or next(p for n, p in allb.items() if n.lower() == name.lower())
+        name = path.name.split("_", 1)[-1]
+        if name.lower() in fin:
+            continue
+        data = path.read_bytes()
+        ents = [e for e in entries(name, data) if e[2] not in have]
+        if not ents:
+            continue
+        if cur and sum(len(g[2]) for g in cur) + len(ents) > a.group:
+            groups.append(cur)
+            cur = []
+        cur.append((name, data, ents))
+    if cur:
+        groups.append(cur)
+    jobs = []
+    for g in groups:
+        n = sum(len(e) for _, _, e in g)
+        k = 0
+        while (out / f"{Path(g[0][0]).stem}_{k}").exists():
+            k += 1
+        d = out / f"{Path(g[0][0]).stem}_{k}"
+        frames = 14000 + a.per_entry * n
+        jobs.append((g, d, frames))
+        print(f"{d.name}: {' '.join(b for b, _, _ in g)}: {n} entries, {frames} frames", flush=True)
+    if a.dry:
+        return 0
+
+    def run(job):
+        g, d, frames = job
+        d.mkdir(parents=True, exist_ok=True)
+        lua_file(g, d / "_force.lua")
+        cmd = [sys.executable, "-X", "utf8", str(WARP), a.scene, "--lua", str(d / "_force.lua"), "--lua", str(LUA),
+               "--debugger", "-j", "1", "--frames", str(frames), "--shot-every", "1500",
+               "--timeout", str(300 + frames // 60), "--var", f"MASH_EVERY={a.mash_every}", "--out-dir", str(d)]
+        r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
+        got = banks_done(d)
+        ok = all(b.lower() in got for b, _, _ in g)
+        print(f"{d.name}: {len(got)}/{len(g)} banks done (warp exit {r.returncode})", flush=True)
+        return ok
+
+    with ThreadPoolExecutor(a.j) as ex:
+        res = list(ex.map(run, jobs))
+    return 0 if all(res) else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

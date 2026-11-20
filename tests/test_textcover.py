@@ -54,3 +54,19 @@ def test_newer_image_ends_mapping(tmp_path):
 def test_old_logs_without_values(tmp_path):
     hit = run(tmp_path, [f"FILE f1 TEST.MSG dst={DST:08X}", f"TREAD {DST + 0x21:08X}"])
     assert hit == {"msg/TEST.0020"}
+
+
+def test_force_lists_cover_every_row():
+    """tools/msgforce.py chains every MSG row and every EVX message row (speaker/text/choice) through the box: the
+    entry keys must be exactly the script/ rows (EVX: minus unit names and dev labels, waived as never read)."""
+    import csv
+    import msgforce
+    if not msgforce.SSB.exists():
+        return
+    for ext, folder in ((".MSG", "msg"), (".EVX", "evx")):
+        for name, path in msgforce.banks(ext).items():
+            keys = {k for _, _, k in msgforce.entries(name, path.read_bytes())}
+            with open(ROOT / "script" / folder / f"{Path(name).stem}.tsv", encoding="utf-8", newline="") as f:
+                rows = [r for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
+                        if r["jp"] and not r["notes"].startswith(("unit", "dev"))]
+            assert keys == {f"{folder}/{r['id']}" for r in rows}, name

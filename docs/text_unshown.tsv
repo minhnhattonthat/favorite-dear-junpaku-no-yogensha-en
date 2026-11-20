@@ -1,0 +1,1199 @@
+# text coverage waivers: written by tools/unshown.py from its rules (do not edit by hand)
+evx/ceev03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev03.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_0.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_1.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_2.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_3.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_4.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_5.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev04_6b.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev06.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev06.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_0.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_0.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_0.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_0.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_1.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_1.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_1.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_1.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_2.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_2.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_2.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_2.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_3.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_3.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_3.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_3.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_4.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_4.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_4.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_4.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_5.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_5.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_5.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_5.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_6.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_6.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_6.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev07_6.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev10_03b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev12.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev12.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev12b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev12b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev16d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev17.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev17.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev17.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev19_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev19_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev19_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev19_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20b.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20d.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20e.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev20e.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev22.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev22.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev22b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev22b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev23.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev23.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev23b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev23b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev24e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev01.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev01.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev04b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev04b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Clev06c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev09_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_03a.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_03a.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_03b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_03b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev12_04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev13_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_01.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_01.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_01.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev15_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev16.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev16.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev16.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev16.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev17d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev19.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev19.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev20_06a.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev20_06a.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev20_06b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev20_06b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev21d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev24.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev24.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev24b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev24b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev25e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/clev30.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev04.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev04.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev04.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05b1.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05b1.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05f.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev05f.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev06.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev09_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev10c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev13_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev13_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14d.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14e.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14e.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14g.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14g.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14g.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev14g.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev19.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev19.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev24.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev24.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev26.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev28.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev28.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev28b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev28b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev29e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/eiev30.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.0282	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.02BE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev01.02FA	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_01.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_01.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev02_03.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev03_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev03_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev03_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev03_02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev03_02.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev03_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev03_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.0282	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev04.02BE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev04b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev05b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev10.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev11_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev17b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev18_02c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev18_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev18_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19.0282	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev19d.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev19e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev19e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev19e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev19e.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev19e.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev21.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev21.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev22_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev22_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev25.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev25.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev26.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev26.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev27c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev28c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev29.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev29.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev29b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev29b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev30.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev30.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev30b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev30b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev31c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/feev31c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Feev31e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev03.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev03.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev03.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.0282	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev04.02BE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_0.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_1.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_2.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_3.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_4.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev05_6.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev06b.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev07b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.0282	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.02BE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.02FA	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev10.0336	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev14.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev14.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_01b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_01b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev15_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev17.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev19_04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20b.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20d.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20e.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev20e.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev22.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev22.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev22b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev22b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev23.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev23.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev23b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev23b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev24e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/laev25.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev03.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev07_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev07_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev07_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev07_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev08.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev08.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev08.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev08.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev08.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev08b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev08b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev09.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev09.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev09b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev09b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev14.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev14.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev14.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev14.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev14.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15A_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15A_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15a_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15a_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15A_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev15A_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Loev15b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev16b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev20.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev20.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21b.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21d.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21e.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev21e.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev24.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev24.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev24b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev24b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev25e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev26.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/loev27_02b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev06b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev07b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev08d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev13d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev14b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Roev16.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/Roev16.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev16b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev16b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev18.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev18.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev18b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev18b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev19_02c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_01.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_01.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_02.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_02.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_03.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_03.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_04.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_04.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_05.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_05.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_06.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_06.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_07.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_07.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_08.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_08.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_09.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_09.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_10.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_10.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_11.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_11.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_12.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev20_12.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.020A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21.0246	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21b.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21c.01CE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21d.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21d.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21d.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21d.0156	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev21d.0192	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25b.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25b.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25b.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25e.00A2	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25e.00DE	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/roev25e.011A	EVX unit name (32-byte field): battles never read it (read watch over every loaded EVX; their speaker/text rows are read); name plates are images
+evx/ceev08_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev08_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev08_02c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev08_02d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev10_03b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev19_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev19_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev20.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev20b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev20c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev20d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev20e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev22.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev22b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev23.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev23b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev24.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev24b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/ceev24e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev12_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev13.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev13_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev13_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev19.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev21.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev21b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev21c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev21d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev24.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev24b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev25.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev25b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev25c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/clev25e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05b1.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev05f.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev09_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev09_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev10.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev10b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev10c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev13_03.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev14g.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev19.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev24.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev28.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev28b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev29.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev29b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/eiev29e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev02_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev02_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev02_03.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev03_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev03_03.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev04.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev04b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev05.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev05b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev10.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev11_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev11_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev11_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev17.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev18_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev18_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev18_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev18_02c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev18_03.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev19.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev19b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev19c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev19d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev19e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev21.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev22_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev25.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev27.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev27b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev27c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev28.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev28b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev28c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev29.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev29b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev30.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev30b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev31.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev31b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/feev31c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Feev31e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev14.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev15_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev15_01b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev15_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev15_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev19_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev19_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev19_03.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev19_04.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev20.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev20b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev20c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev20d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev20e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev22.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev22b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev23.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev23b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev24.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev24b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/laev24e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev07_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Loev07_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Loev08.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev08b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev09.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev09b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev14.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev15.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Loev15A_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev15a_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev15A_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Loev15b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev16.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev16b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev20.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev21.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev21b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev21c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev21d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev21e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev24.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev24b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev25.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev25b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev25e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev27_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev27_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/loev27_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev06.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev06b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev07.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev07b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev08.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev08b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev08c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev08d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev13.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev13b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev13c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev13d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev14b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/Roev16.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev16b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev18.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev18b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev19_01.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev19_02.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev19_02b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev19_02c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev21.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev21b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev21c.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev21d.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev25.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev25b.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
+evx/roev25e.0002	EVX dev label (0x02 title field): never read in game (read watch over every loaded EVX)
