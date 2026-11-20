@@ -63,12 +63,12 @@ def reached(logs, files):
             m = fline.search(line)
             if m:
                 stem = m.group(1).rsplit(".", 1)[0].lower()
-                bufs.append((int(m.group(2), 16), stem))
+                bufs.append((int(m.group(2), 16) & 0xFFFFFFFF, stem))
                 continue
             m = tread.search(line)
             if not m:
                 continue
-            addr = int(m.group(1), 16)
+            addr = int(m.group(1), 16) & 0xFFFFFFFF   # early logs sign-extended (LuaJIT): FFFFFFFF800D77B8
             for dst, stem in reversed(bufs):
                 if stem not in files or addr < dst:
                     continue

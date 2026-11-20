@@ -2,11 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (26th worker: G14+G15 built into e2206009 and seen in game; credits verdicts 4/13;
-  choice indent fixed; inkbox found odd-length centred labels 3 px left. NEXT, in order: (a) read credits pages
-  3,5,6,7,9-12 + choice_menx sheets, re-warp game_over2 (DEMO captions now English) and re-verdict; (b) fix the odd
-  label centring (see 26th worker entry); (c) stress saves; (d) textcover (no coverage run exists yet; 288 ssb
-  events); (e) final re-tour. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (27th worker: main gate 193/193 ok, inkbox done, stress saves done, textcover
+  tool fixed and piloted. NEXT, in order: (d) textcover bulk runs (see 27th worker entry); (e) final re-tour on the
+  final build + verdicts for changed sheets. 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -326,6 +324,31 @@ Updated at the end of every session. Keep it to what the next session needs; his
   an odd strlen, converts the string into glyph codes at 0x8007F480, max 0x30); its only EXE caller 0x8002D6C8 is
   a generic line writer (strlen in s6), so the x maths is further up: break there and walk RA to the button
   routine, then either hook it (x += 3 when the last pair ends in a space) or reword to even lengths (as EvName).
+- **Phase 8 progress (2026-11-21, 27th worker):** **Gate:** credits pages 3,5-7,9-12, choice_menx and the re-warped
+  game_over2 (DEMO captions English in game, `work/qa/tour/game_over2`) read: `verdicts/w27_001.tsv`; `qa_gate.py
+  check work/qa/manifest.tsv work/qa/verdicts` = 193 sheets, 0 not ok. **Odd-label centring fixed:** button text width
+  is set by string renderer 1 (EXE 0x8002C080, text w = cell x strlen x 2 at obj +0x18; the button helpers 0x8002FEDC
+  / 0x8002FFDC centre on it); `asm/font.asm` `trim_hook` (at 0x8002C218) drops one byte when the last pair's right
+  letter is a space. Fairies 14/16 (was 11/19), To Heaven 8/10, Azaria/Emilia Palace 4/6, help bar centred too;
+  other renderer-1 scenes unchanged pixel for pixel except those (`work/qa/p8/w27/cmp_*.png`). Rows in
+  `docs/inkbox.tsv` (all ok; Angel 20/24 is the narrow l glyph). **Build 2401529b**, check.py 72 passed + lint 0.
+  **Stress saves:** `tools/stress.py` writes work/saves/stress_{kana,wide,short}.mcd from fd2_edited.mcd (6-katakana
+  name = widest, 99 h play time, 9999 days; WWWWWW; 1-letter A); scenes stress_* (title load list, loaded heaven,
+  Data -> Save list); all fit, `qa_gate.py check work/qa/stress_manifest.tsv work/qa/stress_verdicts` = 6/6 ok. Gotcha:
+  header name slots are 6 grid indices padded with FE (zeros show as "A"). After a load the heaven menu ignores
+  up/down (circle opens Data), so the angel status panel isn't on the stress route (covered by heaven_status_angel
+  and the 12-letter name budget). Only the angel name and header numbers are player-variable; in-game state (items,
+  stats) is not mapped in save.py, so no full-list / max-stat saves (fixed lists: 7 heroes, 8 fairies).
+  **textcover:** `tools/debug/textcover.lua` fixed: LuaJIT sign-extended addresses (FFFFFFFF800D77B8), event warps
+  logged the host name prologue.ssb (now the warp's EVENT / SWAP_TARGET), overlays logged as FILE lines when the
+  word at 0x8009B4B0 changes (6 op, 7 rfd2, 8 Battle, 9 ed, 10 pro). Pilot `warp.py --event men1_Ro01.ssb --lua
+  tools/debug/textcover.lua --debugger --cue "<abs>/rom/Favorite Dear - Junpaku no Yogensha (Japan).cue" --out-dir
+  work/qa/cover`: ~100 s per run, men1_Ro01 36/38 rows (the 2 left are the other choice branch / a speaker tag),
+  ovl 32: partial, so loads don't fake coverage. `textcover.py work/qa/cover --missing work/qa/cover_missing.tsv`.
+  **Next for textcover:** run every ssb event (288 files in script/ssb; ~8 h at -j 1, run in background batches of
+  ~30 `--event` args into work/qa/cover), plus the existing scenes (`--all`) with the hook; then MSG (15130 rows:
+  fairy reports, chats, battle lines) and EVX (5834) need scenes or reasoned waivers in docs/text_unshown.tsv (not
+  created yet); EXE strings are not counted.
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on

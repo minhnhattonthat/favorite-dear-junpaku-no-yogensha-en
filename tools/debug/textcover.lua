@@ -17,16 +17,37 @@ local function cstr(a)
   return table.concat(t)
 end
 local seen = {}
+-- warp.lua makes the game load its target under the host's record (event warps: prologue.ssb -> EVENT; swaps:
+-- SWAP_HOST -> SWAP_TARGET), so the record name is the host's: log the file actually loaded.
+local function real_name(name)
+  if KIND == "swap" and name:lower() == (SWAP_HOST or ""):lower() then return SWAP_TARGET end
+  if EVENT and name:lower() == "prologue.ssb" then return EVENT end
+  return name
+end
 L.on_exec(0x80038D74, function()
   local r = PCSX.getRegisters().GPR.n
   seen = {}
-  L.log(string.format("FILE f%d %s dst=%08X", L.frame, cstr(r.a2), r.a1))
+  L.log(string.format("FILE f%d %s dst=%08X", L.frame, real_name(cstr(r.a2)), 0x80000000 + (r.a1 & 0x1FFFFF)))
 end)
+-- Overlays don't come through the LKF loader: 0x8002AD70 loads one from the disc to 0x8009B4B0, and its first
+-- word is 6 + its index (docs/re/debug.md, Main loop mode). Log a FILE line when that word changes.
+local OVL = { [6] = "op.bin", [7] = "rfd2.bin", [8] = "Battle.bin", [9] = "ed.bin", [10] = "pro.bin" }
+local ovl_word = -1
 local function hit(addr)
   addr = addr & 0x1FFFFF
+  if addr >= 0x9B4B0 and addr < 0xD8000 then
+    local w = mem[0x9B4B0] | (mem[0x9B4B1] << 8)
+    if w ~= ovl_word then
+      ovl_word = w
+      local k
+      for a, _ in pairs(seen) do if a >= 0x9B4B0 and a < 0xD8000 then k = k or {}; k[#k + 1] = a end end
+      for _, a in ipairs(k or {}) do seen[a] = nil end
+      L.log(string.format("FILE f%d %s dst=8009B4B0", L.frame, OVL[w] or ("ovl" .. w)))
+    end
+  end
   if seen[addr] then return end
   seen[addr] = true
-  L.log(string.format("TREAD %X", 0x80000000 | addr))
+  L.log(string.format("TREAD %08X", 0x80000000 + addr))   -- +, not |: LuaJIT bit ops are signed 32-bit
 end
 -- Buffers (docs/re/space.md): overlays at 0x8009B4B0, .end at 0x80189B90 (0x8000), .ssb/.EVX/.MSG heap block at
 -- 0x801A4BB0 (0x169B0). EXE strings are watched one string at a time (TEXTCOVER_EXE, written by textcover.py).
