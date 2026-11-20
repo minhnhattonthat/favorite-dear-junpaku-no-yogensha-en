@@ -12,7 +12,7 @@ data in four `+LKF` archives. Identity rebuild with mkpsxiso: not yet tested (ph
 | FD2SN.LKF | sound: se.bin, VH/VB banks, SEQ | guess (names, headers) |
 | GRPDATA.LKF (85 MB, 1560 files) | graphics: FD2Font.FPK (font), 1249 TIM, PIX (88, Name_NNN.PIX 384 B name plates?), SFM/SFA (sprite frames/animations, "SFM "/"SFA " magic), TMD (3D), BLF/CLT/RCT, DAT | partly mapped |
 | SSB_DATA.LKF (744 files) | text and scripts: 346 `.ssb` event scripts, 108 `.MSG` message banks, 269 `.EVX` battle setups, 21 `.end` ending narrations | verified (decoded; `events.md`, `text.md`) |
-| *.STR | FMV: CI_LOGO, DEMO (opening, burned-in JP lyrics/captions seen at boot), DRA16/DRAGON16, MONO, ENDING | not looked at |
+| *.STR | FMV, 2336-byte sectors as extracted (`tools/str2352.py` for ffmpeg): CI_LOGO (company logos), DEMO (opening, burned-in JP captions), DRA16/DRAGON16/MONO (dragon sequences, no text), ENDING (JP caption, logo, Japanese staff roll). EXE also names SOFIX.STR, not on the disc | verified (decoded, `graphics.md` G14/G15) |
 | VOICE.XA | XA voice audio | not looked at |
 | DUMMY.BMP | 27 MB padding | guess |
 
