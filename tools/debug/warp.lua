@@ -4,7 +4,7 @@
 --   HERO, BATTLE  KIND 'battle': hero index (0-6) and battle id (3000 + n, the exe's battle table); nil keeps
 --          whatever the game holds (hero 0, no id: the default encounter). MAP_WAIT: frames on the map first
 --   RUN_EVENT  KIND 'title' with POST (e.g. a load from the card): once POST is done, ask the map overlay to run
---          the event with this SSB_DATA index, then press circle every MASH_EVERY frames
+--          the event with this SSB_DATA index, then press left + circle every MASH_EVERY frames
 --   ENDING KIND 'ending': the byte ed.bin branches on (16 = game over); nil keeps the game's value
 --   EVENT  KIND 'event'/'swap': SSB_DATA.LKF file name of an event script (e.g. 'ceev01_01.ssb', any .ssb), run
 --          in place of prologue.ssb right after the New Game name entry
@@ -189,6 +189,11 @@ L.on_frame(function(n)
         end
       end
       if RUN_EVENT and post_done and n > post_done + PROOF and (n - post_done) % MASH_EVERY == 0 and L.route_done() then
+        -- left first: the clear save's "上書きしますか？" defaults to いいえ (はい is on the left); left is a no-op
+        -- in the event's text and on the slot prompt's スロット１. With only 10 frames between left and circle the
+        -- cursor never moved (tried); by hand (play.py) left then circle 60 frames later wrote the file
+        L.press(MASH_PRE or "left", 6)
+        L.press("-", 40)
         L.press("circle", 6)
       end
     else

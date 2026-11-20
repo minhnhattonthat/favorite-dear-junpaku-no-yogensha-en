@@ -74,11 +74,33 @@ cold boot, no save, no savestate. Scene list: `tools/debug/scenes.tsv` (columns 
 - **Run an event on a loaded file:** kind `title` with POST (the load) and an .ssb in `arg`: warp.lua then requests
   rfd2 sub-mode 1 with the SSB_DATA index at 0x80081010 (New Game itself requests 0x117 = prologue.ssb).
 
-## Not reached yet (next session)
+## System file = clear data (verified: card trace, a game-written file, OMAKE scenes)
 
-- **OMAKE** (OPTION's last line, scene `title_omake`): asks to load this game's **clear data** from a card
-  ("クリアデータをロードする"). Getting clear data: an ending run from New Game answers "ファイルがありません"
-  at the clear-data save; run on a loaded file (`end_cecia_clear`) it shows "書き込み中" and loops back to the slot
-  prompt, and the card is unchanged. Next: watch the card write (BIOS write / the result code) in that run, or
-  find what OMAKE checks in pro.bin and build the clear-data file with save.py. **Album** (album_00-03.tim,
-  GRPDATA 1451-1454: no code constant found) and **キャラ劇** are probably behind OMAKE.
+- File names come from the exe table 0x80099578: `BISLPS-02754.0` = "純白の預言者　システム" (the system file),
+  `.1`-`.C` = game data 01-12. Card manager modes (u32 at 0x8009A570+0x9C): 1 system load, 2 system save,
+  3 game save, 4 game load, 5 clear save, 6 the first game's data. Modes other than 3/4 use file `.0`.
+- **System struct** RAM 0x80084010 (getter 0x8002B3AC), 0x10C bytes = data +0x000..+0x10B of `.0`: u32 total play
+  time in seconds; u8 x7 a clear count per index (+4 + u32 0x8008103C; else +0xB); 0x100 flag bytes (+0xC) ORed with
+  RAM 0x8007F2EC at each clear (0x8002B3B8; the Cecia ending set +0xD5/+0xD6). Same u16 checksum at +0x9FE as a
+  game file (0x80095E84); system load copies the struct back (0x80090E48).
+- **The clear save reads `.0` before writing it** (BIOS open mode 0x8001; `tools/debug/cardtrace.lua` log): with
+  no `.0` on the card it retries forever, which is why earlier ending runs never wrote. With one, it asks
+  "ファイルがすでに存在します 上書きしますか？" (いいえ by default: left, wait ~40 frames, circle), then writes.
+  Scene `end_cecia_clear` does all of it from a cold boot; `tools/debug/cards/fd2_cleared.mcd` is that write.
+- `save.py system` builds `.0` (header and icon copied from the card's game file; only the struct and checksum
+  differ from a game-written one, compared byte for byte). Cards: `fd2_clear.mcd` (every hero cleared, every flag
+  0xFF: scenes `omake`, `omake_cg`, `album_2`-`album_8`), `fd2_sys0.mcd` (nothing cleared: the host for
+  `end_cecia_clear`).
+- **OMAKE** loads `.0` and opens the CG album straight away: 8 pages (R1/L1): the 7 heroes (profile panel drawn as
+  graphics: name, title, birthday, height, weight, birthplace) and 天界 (angels and fairies); circle shows a CG.
+  The album is op.bin's (the getter's callers: op.bin 0x8009FA58, 0x800A2858).
+- **キャラ劇** (GRPDATA 558 `battle.tim`, a title card on a mock battle screen) is not behind OMAKE and no event
+  loads it with the image op (`05 3c <u16 index>`); `fileslog.lua` on scenes `battle` and `tutorial` never loads
+  it either. Probably unused (a mock-up); to settle it in phase 8, run `--all --lua tools/debug/fileslog.lua
+  --debugger` and grep the logs for battle.tim.
+
+## Probes (append to a warp run with `--lua F --debugger`)
+
+- `tools/debug/cardtrace.lua`: BIOS card calls (open/read/write/firstfile ..) with file names and callers.
+- `tools/debug/fileslog.lua`: every LKF file the loader 0x80038D74 reads ("FILE f<frame> <name>").
+- `tools/debug/stateat.lua` (no debugger needed): a savestate at frame STATE_FRAME, to step on with play.py.
