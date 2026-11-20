@@ -3,35 +3,35 @@ eiev13_03.0002	1		dev label (guess: not shown)
 eiev13_03.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev13_03.00DE	ウィザード	Wizard	unit name (32-byte field)
 eiev13_03.04D8	男の声	Man's Voice	speaker
-eiev13_03.04ED	アイリーン……。		text
+eiev13_03.04ED	アイリーン……。	Irene...	text
 eiev13_03.0568	アイリーン	Irene	speaker
-eiev13_03.0581	誰？		text
+eiev13_03.0581	誰？	Who's there?	text
 eiev13_03.05A0	男の声	Man's Voice	speaker
-eiev13_03.05B5	私だ……アイリーン。		text
+eiev13_03.05B5	私だ……アイリーン。	It is I... Irene.	text
 eiev13_03.05F4	アイリーン	Irene	speaker
-eiev13_03.060D	グランドマスター？		text
+eiev13_03.060D	グランドマスター？	Grand Master?	text
 eiev13_03.06C2	アイリーン	Irene	speaker
-eiev13_03.06DB	お久しぶりですグランドマスター、お元気でしたか？		text
+eiev13_03.06DB	お久しぶりですグランドマスター、お元気でしたか？	It's been a long time, Grand Master. Have{n}you been well?	text
 eiev13_03.071A	マスター	Master	speaker
-eiev13_03.0731	ああ。{n}このレグランスへ渡った魔導士たちと{n}どうにかやっている。		text
-eiev13_03.0780	アイリーン、君に会いに来たのは他でもない。{n}君の姉、セレニスのことだ。		text
+eiev13_03.0731	ああ。{n}このレグランスへ渡った魔導士たちと{n}どうにかやっている。	Yes. I'm managing somehow with the mages who{n}crossed over to Legrance.	text
+eiev13_03.0780	アイリーン、君に会いに来たのは他でもない。{n}君の姉、セレニスのことだ。	Irene, I came to see you for one reason{n}only. It concerns your sister, Serenis.	text
 eiev13_03.07D5	アイリーン	Irene	speaker
-eiev13_03.07EE	……姉のことですか……？		text
+eiev13_03.07EE	……姉のことですか……？	...About my sister...?	text
 eiev13_03.0815	マスター	Master	speaker
-eiev13_03.082C	私はな……グランドロッジで助けられたあと{n}君の話した決意……あきらめないという言葉を{n}なんども思い出し、考えたのだ。		text
-eiev13_03.08AF	あの気持ちは変わっていないのだろう？		text
+eiev13_03.082C	私はな……グランドロッジで助けられたあと{n}君の話した決意……あきらめないという言葉を{n}なんども思い出し、考えたのだ。	You see... after you saved me at the Grand{n}Lodge, I remembered your resolve, your words{n}that you would not give up, again and again,{wait}{clear}and I thought.	text
+eiev13_03.08AF	あの気持ちは変わっていないのだろう？	You still feel the same, don't you?	text
 eiev13_03.08E2	アイリーン	Irene	speaker
-eiev13_03.08FB	はい、変わっていません。		text
+eiev13_03.08FB	はい、変わっていません。	Yes, I haven't changed.	text
 eiev13_03.0922	マスター	Master	speaker
-eiev13_03.0939	私はつらい現実であっても受け入れろとしか{n}言わなかった……{n}フェインにもだ……。		text
-eiev13_03.0998	だが、それはもしかすると違っているのではないか{n}と気づいたのだ……		text
-eiev13_03.09E9	事実を受け止めることは必要だ。{n}しかし、なにもしないでいることは、{n}間違っているのではないかとな……。		text
-eiev13_03.0A5E	不可能かもしれんが挑戦しなければ{n}本当は何もわからないのだ……。		text
+eiev13_03.0939	私はつらい現実であっても受け入れろとしか{n}言わなかった……{n}フェインにもだ……。	All I ever said was to accept reality,{n}however painful... I told Fein the same...	text
+eiev13_03.0998	だが、それはもしかすると違っているのではないか{n}と気づいたのだ……	But I came to realize that perhaps I was{n}wrong...	text
+eiev13_03.09E9	事実を受け止めることは必要だ。{n}しかし、なにもしないでいることは、{n}間違っているのではないかとな……。	Facing the facts is necessary. But doing{n}nothing at all may well be a mistake...	text
+eiev13_03.0A5E	不可能かもしれんが挑戦しなければ{n}本当は何もわからないのだ……。	It may be impossible, but unless we try, we{n}can never truly know...	text
 eiev13_03.0AAD	アイリーン	Irene	speaker
-eiev13_03.0AC6	グランドマスター……。		text
+eiev13_03.0AC6	グランドマスター……。	Grand Master...	text
 eiev13_03.0AEB	マスター	Master	speaker
-eiev13_03.0B02	セレニスを救えるのかは、誰にもわからない……。{n}ただ、あきらめずに進んでくれ。		text
+eiev13_03.0B02	セレニスを救えるのかは、誰にもわからない……。{n}ただ、あきらめずに進んでくれ。	No one knows whether Serenis can be saved...{n}But don't give up. Keep going.	text
 eiev13_03.0B6B	アイリーン	Irene	speaker
-eiev13_03.0B84	はい、ありがとうございます{n}グランドマスター……。		text
+eiev13_03.0B84	はい、ありがとうございます{n}グランドマスター……。	Yes. Thank you, Grand Master...	text
 eiev13_03.0BC5	マスター	Master	speaker
-eiev13_03.0BDC	いいや、礼をいわねばならんのは私の方だ……。{n}世界を救おうとしてるのだからな、君は……。{n}未来を作ってくれ……アイリーン。		text
+eiev13_03.0BDC	いいや、礼をいわねばならんのは私の方だ……。{n}世界を救おうとしてるのだからな、君は……。{n}未来を作ってくれ……アイリーン。	No, I am the one who should thank you... You{n}are trying to save the world, after all...{n}Build the future... Irene.	text

@@ -1,28 +1,28 @@
 id	jp	en	notes
-feev18_02.0002	アイリーン（二回目接触）		dev label (guess: not shown)
+feev18_02.0002	アイリーン（二回目接触）	Irene (Second Meeting)	dev label (guess: not shown)
 feev18_02.00A2	フェイン	Fein	unit name (32-byte field)
 feev18_02.00DE	アイリーン	Irene	unit name (32-byte field)
 feev18_02.0518	アイリーン	Irene	speaker
-feev18_02.0531	元気、フェイン。		text
+feev18_02.0531	元気、フェイン。	Hey, Fein.	text
 feev18_02.05D8	フェイン	Fein	speaker
-feev18_02.05EF	アイリーンか。旅には慣れたか？		text
+feev18_02.05EF	アイリーンか。旅には慣れたか？	Irene. Getting used to traveling?	text
 feev18_02.061C	アイリーン	Irene	speaker
-feev18_02.0635	うん。まあね。		text
+feev18_02.0635	うん。まあね。	Yeah. Sort of.	text
 feev18_02.0652	フェイン	Fein	speaker
-feev18_02.0669	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。		text
+feev18_02.0669	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。	I ask ＄＄＄＄＄＄ how you're doing now and{n}then. I hear you're doing well.	text
 feev18_02.06B8	アイリーン	Irene	speaker
-feev18_02.06D1	え、ほんと？		text
+feev18_02.06D1	え、ほんと？	Huh, really?	text
 feev18_02.06EC	フェイン	Fein	speaker
-feev18_02.0703	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。		text
+feev18_02.0703	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。	Well, I'm told you grumble, but you take{n}responsibility and do a fine job.	text
 feev18_02.075C	アイリーン	Irene	speaker
-feev18_02.0775	ふうん、彼女のいいそうな感じね。{n}ま、一度決めたことだからね。{n}やらなきゃいけないでしょ。		text
+feev18_02.0775	ふうん、彼女のいいそうな感じね。{n}ま、一度決めたことだからね。{n}やらなきゃいけないでしょ。	Hmm, sounds like something she'd say. Well,{n}I made up my mind, didn't I? So I have to do{n}it.	text
 feev18_02.07DE	フェイン	Fein	speaker
-feev18_02.07F5	なにかわかったことはあるか？		text
+feev18_02.07F5	なにかわかったことはあるか？	Have you found out anything?	text
 feev18_02.0820	アイリーン	Irene	speaker
-feev18_02.0839	ううん、なんにも……。		text
+feev18_02.0839	ううん、なんにも……。	No, nothing...	text
 feev18_02.085E	フェイン	Fein	speaker
-feev18_02.0875	そうか……		text
+feev18_02.0875	そうか……	I see...	text
 feev18_02.088E	アイリーン	Irene	speaker
-feev18_02.08A7	でも、きっとなにか手がかりを{n}見つけられるはず……		text
+feev18_02.08A7	でも、きっとなにか手がかりを{n}見つけられるはず……	But I'm sure we'll find some clue...	text
 feev18_02.08E8	フェイン	Fein	speaker
-feev18_02.08FF	……ああ、そうだな。		text
+feev18_02.08FF	……ああ、そうだな。	...Yes, you're right.	text

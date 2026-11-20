@@ -1,9 +1,9 @@
 id	jp	en	notes
-roev08c.0002	聖都陥落		dev label (guess: not shown)
+roev08c.0002	聖都陥落	Fall of the Holy City	dev label (guess: not shown)
 roev08c.00A2	ロクス	Rocus	unit name (32-byte field)
 roev08c.00DE	セレニス	Serenis	unit name (32-byte field)
-roev08c.011A	帝国戦士		unit name (32-byte field)
-roev08c.0156	帝国戦士		unit name (32-byte field)
+roev08c.011A	帝国戦士	Warrior	unit name (32-byte field)
+roev08c.0156	帝国戦士	Warrior	unit name (32-byte field)
 roev08c.04C8	ロクス	Rocus	speaker
 roev08c.04DD	聖堂は……皆はどうなった？		text
 roev08c.065A	帝国の魔女		speaker

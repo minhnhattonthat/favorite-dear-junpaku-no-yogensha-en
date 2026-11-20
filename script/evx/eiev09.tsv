@@ -4,38 +4,38 @@ eiev09.00DE	聖母	Holy Mother	unit name (32-byte field)
 eiev09.04C8	聖母	Holy Mother	speaker
 eiev09.04DB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
 eiev09.0508	アイリーン	Irene	speaker
-eiev09.0521	あなたは……。		text
+eiev09.0521	あなたは……。	You are...	text
 eiev09.053E	聖母	Holy Mother	speaker
-eiev09.0551	この聖なる森を守っているディアナという者です。		text
-eiev09.058E	ここへたどり着くことができるのは{n}選ばれた者、聖なる祝福を受けた者だけです。{n}あなたは選ばれた者なのですね……。		text
+eiev09.0551	この聖なる森を守っているディアナという者です。	I am Diana, guardian of this sacred forest.	text
+eiev09.058E	ここへたどり着くことができるのは{n}選ばれた者、聖なる祝福を受けた者だけです。{n}あなたは選ばれた者なのですね……。	Only the chosen, those who have received a{n}holy blessing, can find their way here. So{n}you are one of the chosen...	text
 eiev09.060D	アイリーン	Irene	speaker
-eiev09.0626	わかりません……{n}ただ、聖母様にお会いできたのは{n}光栄に思います……。		text
+eiev09.0626	わかりません……{n}ただ、聖母様にお会いできたのは{n}光栄に思います……。	I don't know... but I'm honored to meet you,{n}Holy Mother...	text
 eiev09.067B	聖母	Holy Mother	speaker
-eiev09.068E	名前は何というのですか？		text
+eiev09.068E	名前は何というのですか？	What is your name?	text
 eiev09.06B5	アイリーン	Irene	speaker
-eiev09.06CE	アイリーンです。		text
+eiev09.06CE	アイリーンです。	It's Irene.	text
 eiev09.06ED	聖母	Holy Mother	speaker
-eiev09.0700	アイリーン、こちらへ来なさい。		text
+eiev09.0700	アイリーン、こちらへ来なさい。	Irene, come here.	text
 eiev09.0771	聖母	Holy Mother	speaker
-eiev09.0784	アイリーン……{n}あなたは、すばらしい力の持ち主のようですね。		text
-eiev09.07CF	だから、天使様がこうして{n}あなたを守護してくださるのでしょう。		text
+eiev09.0784	アイリーン……{n}あなたは、すばらしい力の持ち主のようですね。	Irene... you seem to hold a wonderful power.	text
+eiev09.07CF	だから、天使様がこうして{n}あなたを守護してくださるのでしょう。	That must be why the Angel watches over you{n}like this.	text
 eiev09.081C	アイリーン	Irene	speaker
-eiev09.0835	わかるのですか？　天使がいることが？		text
+eiev09.0835	わかるのですか？　天使がいることが？	You can tell? That there's an angel?	text
 eiev09.0868	聖母	Holy Mother	speaker
-eiev09.087B	ええ……。		text
+eiev09.087B	ええ……。	Yes...	text
 eiev09.0894	アイリーン	Irene	speaker
-eiev09.08AD	そうなのですね……やっぱり……。		text
-eiev09.08DC	あの、聖母様……お聞きしてよろしいですか？		text
+eiev09.08AD	そうなのですね……やっぱり……。	I see... So it's true...	text
+eiev09.08DC	あの、聖母様……お聞きしてよろしいですか？	Um, Holy Mother... may I ask you something?	text
 eiev09.0915	聖母	Holy Mother	speaker
 eiev09.0928	はい。	Yes.	text
 eiev09.093D	アイリーン	Irene	speaker
-eiev09.0956	ここに……ここに魔石はあるのですか？		text
+eiev09.0956	ここに……ここに魔石はあるのですか？	Is... is the Demon Stone here?	text
 eiev09.0989	聖母	Holy Mother	speaker
-eiev09.099C	あなたには隠してもしかたがないでしょうね。		text
-eiev09.09D5	あなたが考えているように魔石はここにあります。{n}あの石は、私が天使様から守れと仰せつかった{n}大切なものですから。		text
+eiev09.099C	あなたには隠してもしかたがないでしょうね。	There is no use hiding it from you, I{n}suppose.	text
+eiev09.09D5	あなたが考えているように魔石はここにあります。{n}あの石は、私が天使様から守れと仰せつかった{n}大切なものですから。	As you suspect, the Demon Stone is here. It{n}is a precious thing the Angel entrusted to{n}my keeping.	text
 eiev09.0A54	アイリーン	Irene	speaker
-eiev09.0A6D	やっぱり……伝説は……。		text
+eiev09.0A6D	やっぱり……伝説は……。	So it's true... the legend...	text
 eiev09.0A94	聖母	Holy Mother	speaker
-eiev09.0AA7	アイリーン、ともに天使様の守護を受けた者として{n}世界をおおいつくそうとしている魔を{n}必ず払いのけましょう。		text
+eiev09.0AA7	アイリーン、ともに天使様の守護を受けた者として{n}世界をおおいつくそうとしている魔を{n}必ず払いのけましょう。	Irene, as fellow wards of the Angel, let us{n}drive away the evil that seeks to cover the{n}world.	text
 eiev09.0B20	アイリーン	Irene	speaker
-eiev09.0B39	はい……。		text
+eiev09.0B39	はい……。	Yes...	text

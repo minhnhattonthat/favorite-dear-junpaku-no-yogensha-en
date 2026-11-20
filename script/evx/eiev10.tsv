@@ -1,39 +1,39 @@
 id	jp	en	notes
-eiev10.0002	聖都陥落		dev label (guess: not shown)
+eiev10.0002	聖都陥落	Fall of the Holy City	dev label (guess: not shown)
 eiev10.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev10.00DE	セレニス	Serenis	unit name (32-byte field)
 eiev10.011A	帝国騎士	Knight	unit name (32-byte field)
 eiev10.0156	帝国騎士	Knight	unit name (32-byte field)
 eiev10.0540	アイリーン	Irene	speaker
-eiev10.0559	姉さん……。		text
+eiev10.0559	姉さん……。	Sis...	text
 eiev10.0584	セレニス	Serenis	speaker
-eiev10.059B	うん？{n}お前……アイリーン？		text
+eiev10.059B	うん？{n}お前……アイリーン？	Hm? You're... Irene?	text
 eiev10.05D6	アイリーン	Irene	speaker
-eiev10.05EF	そうよ……。		text
+eiev10.05EF	そうよ……。	That's right...	text
 eiev10.061A	セレニス	Serenis	speaker
-eiev10.0631	こんなところにどうしたの？		text
+eiev10.0631	こんなところにどうしたの？	What are you doing in a place like this?	text
 eiev10.066A	アイリーン	Irene	speaker
-eiev10.0683	セレニス姉さんこそ……なにをしているの？		text
+eiev10.0683	セレニス姉さんこそ……なにをしているの？	I should ask you that, Serenis... What are{n}you doing?	text
 eiev10.06CA	アイリーン	Irene	speaker
-eiev10.06E3	お前には関係のないことよ。アイリーン。		text
+eiev10.06E3	お前には関係のないことよ。アイリーン。	That's none of your concern, Irene.	text
 eiev10.0728	アイリーン	Irene	speaker
-eiev10.0741	姉さん、正気を取り戻して……お願い……		text
-eiev10.0786	フェインもずっと姉さんを探してる……		text
+eiev10.0741	姉さん、正気を取り戻して……お願い……	Sis, please come back to your senses...{n}please...	text
+eiev10.0786	フェインもずっと姉さんを探してる……	Fein's been searching for you all this time{n}too...	text
 eiev10.07C9	セレニス	Serenis	speaker
-eiev10.07E0	フェインか……{n}そんな男もいたな……		text
+eiev10.07E0	フェインか……{n}そんな男もいたな……	Fein, hm... There was such a man, wasn't{n}there...	text
 eiev10.0823	アイリーン	Irene	speaker
-eiev10.083C	どうして……{n}姉さん……そんなこと言わないで……		text
-eiev10.088B	フェインは姉さんを今でもずっと……		text
+eiev10.083C	どうして……{n}姉さん……そんなこと言わないで……	Why... Sis... don't say things like that...	text
+eiev10.088B	フェインは姉さんを今でもずっと……	Fein still, even now, always...	text
 eiev10.08CC	セレニス	Serenis	speaker
-eiev10.08E3	愛しているのか？		text
-eiev10.0912	アハハハハ……ばかな話はよして……		text
-eiev10.0953	もう、あんな男のことなどとうに忘れたわ……		text
+eiev10.08E3	愛しているのか？	Loves me?	text
+eiev10.0912	アハハハハ……ばかな話はよして……	Ahahahaha... don't be ridiculous...	text
+eiev10.0953	もう、あんな男のことなどとうに忘れたわ……	I forgot all about that man long ago...	text
 eiev10.099C	アイリーン	Irene	speaker
 eiev10.09B5	…………。	.....	text
 eiev10.09DE	セレニス	Serenis	speaker
-eiev10.09F5	お前も私の邪魔をしないで忙しいのよ。私は。		text
+eiev10.09F5	お前も私の邪魔をしないで忙しいのよ。私は。	Don't get in my way either. I'm busy.	text
 eiev10.0A3E	アイリーン	Irene	speaker
-eiev10.0A57	もう……姉さんじゃない……あなたは……。		text
+eiev10.0A57	もう……姉さんじゃない……あなたは……。	You're... not my sister anymore...	text
 eiev10.0A9E	セレニス	Serenis	speaker
-eiev10.0AB5	そう、じゃあ、あなたは私の妹でもなんでもないわね。		text
-eiev10.0B06	目障りよ……死になさい。		text
+eiev10.0AB5	そう、じゃあ、あなたは私の妹でもなんでもないわね。	Is that so? Then you're no sister of mine,{n}either.	text
+eiev10.0B06	目障りよ……死になさい。	You're an eyesore... Die.	text

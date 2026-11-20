@@ -4,7 +4,7 @@ eiev29b.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev29b.00DE	ベルゼバブ	Beelzebub	unit name (32-byte field)
 eiev29b.011A	天竜	Heavenly Dragon	unit name (32-byte field)
 eiev29b.04A8	アイリーン	Irene	speaker
-eiev29b.04C1	うあっ……		text
+eiev29b.04C1	うあっ……	Agh...	text
 eiev29b.04EA	エンディミオン	Endymion	speaker
 eiev29b.0507	どうだ、わかったか？	Well? Do you understand now?	text
 eiev29b.053A	これが、支配者の力だ。	This is the power of a ruler.	text
@@ -28,7 +28,7 @@ eiev29b.09FF	エンディミオン	Endymion	speaker
 eiev29b.0A1C	ふふ、すばらしい。{n}いい心ばえだ……	Heh, splendid. A fine spirit...	text
 eiev29b.0A5F	では……この勇者を救ってやろう……。	Then... I shall save this hero...	text
 eiev29b.0AE6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev29b.0B01	アイリーン！！！		text
+eiev29b.0B01	アイリーン！！！	Irene!!!	text
 eiev29b.0B30	エンディミオン	Endymion	speaker
 eiev29b.0B4D	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……	Ha ha ha ha ha ha! Yes! That look... the{n}look of your despair...	text
 eiev29b.0BA6	すべてを失ったその顔が見たかったのだ！	I wanted to see that face, the face of one{n}who has lost everything!	text

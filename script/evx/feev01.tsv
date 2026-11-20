@@ -1,16 +1,16 @@
 id	jp	en	notes
 feev01.00A2	フェイン	Fein	unit name (32-byte field)
-feev01.00DE	ウィザード＆ウオーロック		unit name (32-byte field)
-feev01.011A	ウィザード＆ウオーロック		unit name (32-byte field)
-feev01.0156	ウィザード＆ウオーロック		unit name (32-byte field)
-feev01.0192	ウィザード＆ウオーロック		unit name (32-byte field)
-feev01.01CE	ウィザード＆ウオーロック		unit name (32-byte field)
-feev01.020A	魔法玉		unit name (32-byte field)
-feev01.0246	魔法玉		unit name (32-byte field)
-feev01.0282	魔法玉		unit name (32-byte field)
-feev01.02BE	魔法玉		unit name (32-byte field)
-feev01.02FA	魔法玉		unit name (32-byte field)
+feev01.00DE	ウィザード＆ウオーロック	Wizard & Warlock	unit name (32-byte field)
+feev01.011A	ウィザード＆ウオーロック	Wizard & Warlock	unit name (32-byte field)
+feev01.0156	ウィザード＆ウオーロック	Wizard & Warlock	unit name (32-byte field)
+feev01.0192	ウィザード＆ウオーロック	Wizard & Warlock	unit name (32-byte field)
+feev01.01CE	ウィザード＆ウオーロック	Wizard & Warlock	unit name (32-byte field)
+feev01.020A	魔法玉	Magic Orb	unit name (32-byte field)
+feev01.0246	魔法玉	Magic Orb	unit name (32-byte field)
+feev01.0282	魔法玉	Magic Orb	unit name (32-byte field)
+feev01.02BE	魔法玉	Magic Orb	unit name (32-byte field)
+feev01.02FA	魔法玉	Magic Orb	unit name (32-byte field)
 feev01.050C	フェイン	Fein	speaker
 feev01.0523	お前達、誰の命で俺をねらう？	On whose orders are you after me?	text
 feev01.07E6	フェイン	Fein	speaker
-feev01.07FD	クッ……{n}こんなところで……。		text
+feev01.07FD	クッ……{n}こんなところで……。	Ngh... in a place like this...	text

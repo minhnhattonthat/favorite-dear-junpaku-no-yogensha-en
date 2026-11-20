@@ -7,11 +7,11 @@ eiev14b.0156	覚醒エンディミオン	Awakened Endymion	unit name (32-byte fi
 eiev14b.0192	椅子	Chair	unit name (32-byte field)
 eiev14b.01CE	魔石の台	Demon Stone Stand	unit name (32-byte field)
 eiev14b.04A8	アイリーン	Irene	speaker
-eiev14b.04C1	姉さん？		text
+eiev14b.04C1	姉さん？	Sis?	text
 eiev14b.04E8	セレニス	Serenis	speaker
-eiev14b.04FF	アイリーン……		text
+eiev14b.04FF	アイリーン……	Irene...	text
 eiev14b.052C	アイリーン	Irene	speaker
-eiev14b.0545	姉さん！		text
+eiev14b.0545	姉さん！	Sis!	text
 eiev14b.056C	悪魔	Devil	speaker
 eiev14b.057F	くっ、最後に刃向かいおってこの女……	Ngh, defying me at the very end, this{n}woman...	text
 eiev14b.05C2	まあこの体にも飽きていた頃だ……{n}ちょうどいい。	Well, I was growing bored of this body{n}anyway... Just as well.	text

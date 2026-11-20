@@ -9,17 +9,17 @@ eiev14.01CE	魔石（点滅）	Demon Stone (blink)	unit name (32-byte field)
 eiev14.020A	魔石（赤）	Demon Stone (red)	unit name (32-byte field)
 eiev14.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 eiev14.04E8	セレニス	Serenis	speaker
-eiev14.04FF	アイリーンね……。		text
+eiev14.04FF	アイリーンね……。	Irene...	text
 eiev14.0530	アイリーン	Irene	speaker
-eiev14.0549	姉さん。{n}終わりにしましょう……。		text
+eiev14.0549	姉さん。{n}終わりにしましょう……。	Sis. Let's end this...	text
 eiev14.058A	セレニス	Serenis	speaker
-eiev14.05A1	なにを終わりにしようというの？{n}これからすべてが始まるのよ。		text
-eiev14.05FC	魔石はすべてそろったわ……		text
-eiev14.0635	これで私の願いがかなう……。		text
+eiev14.05A1	なにを終わりにしようというの？{n}これからすべてが始まるのよ。	End what? Everything begins now.	text
+eiev14.05FC	魔石はすべてそろったわ……	The Demon Stones are all gathered...	text
+eiev14.0635	これで私の願いがかなう……。	Now my wish will come true...	text
 eiev14.0670	アイリーン	Irene	speaker
-eiev14.0689	もうやめて！		text
+eiev14.0689	もうやめて！	Stop it, please!	text
 eiev14.0728	セレニス	Serenis	speaker
-eiev14.073F	そこでだまって見ていなさい。{n}アイリーン。		text
+eiev14.073F	そこでだまって見ていなさい。{n}アイリーン。	Just stand there quietly and watch, Irene.	text
 eiev14.079C	皇帝、魔石に最後の魂を捧ぐ時がきました。	Emperor, the time has come to offer the last{n}soul to the Demon Stones.	text
 eiev14.07E3	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。	Just as in the legend, you will become the{n}Heavenly Dragon and give the world a new{n}birth.	text
 eiev14.088C	エンディミオン	Endymion	speaker

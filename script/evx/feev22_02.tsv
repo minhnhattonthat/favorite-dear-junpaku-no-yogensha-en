@@ -1,23 +1,23 @@
 id	jp	en	notes
-feev22_02.0002	手紙イベント後の接触イベント		dev label (guess: not shown)
+feev22_02.0002	手紙イベント後の接触イベント	Meeting After the Letter Event	dev label (guess: not shown)
 feev22_02.00A2	フェイン	Fein	unit name (32-byte field)
 feev22_02.00DE	アイリーン	Irene	unit name (32-byte field)
 feev22_02.04E8	フェイン	Fein	speaker
-feev22_02.04FF	アイリーン、手紙、すまなかった……		text
+feev22_02.04FF	アイリーン、手紙、すまなかった……	Irene, about the letter, I'm sorry...	text
 feev22_02.0530	アイリーン	Irene	speaker
 feev22_02.0549	……うん。	...Okay.	text
 feev22_02.0562	フェイン	Fein	speaker
-feev22_02.0579	俺は……{n}まだ、過去を忘れることはできない……		text
-feev22_02.05B6	いや、この痛みをずっと忘れるつもりはない。		text
-feev22_02.05EF	ただ、それでも生き続けることが{n}俺のできるただ一つのことだと思う。		text
+feev22_02.0579	俺は……{n}まだ、過去を忘れることはできない……	I... still can't forget the past...	text
+feev22_02.05B6	いや、この痛みをずっと忘れるつもりはない。	No, I don't intend to ever forget this pain.	text
+feev22_02.05EF	ただ、それでも生き続けることが{n}俺のできるただ一つのことだと思う。	But even so, I think going on living is the{n}one thing I can do.	text
 feev22_02.0640	アイリーン	Irene	speaker
-feev22_02.0659	うん……。		text
+feev22_02.0659	うん……。	Yeah...	text
 feev22_02.0672	フェイン	Fein	speaker
-feev22_02.0689	ありがとう、アイリーン。{n}それを教えてくれたのは君だ。		text
-feev22_02.06CE	君を妹としてずっと大切に思っている。		text
-feev22_02.0701	兄らしいことをなにかさせてくれ。		text
+feev22_02.0689	ありがとう、アイリーン。{n}それを教えてくれたのは君だ。	Thank you, Irene. You're the one who taught{n}me that.	text
+feev22_02.06CE	君を妹としてずっと大切に思っている。	I'll always care for you as my little{n}sister.	text
+feev22_02.0701	兄らしいことをなにかさせてくれ。	Let me do something a big brother would do.	text
 feev22_02.0780	アイリーン	Irene	speaker
-feev22_02.0799	うん。{n}塔に戻ったらね……。		text
-feev22_02.07C4	必ず世界を元に戻して帰ろう……。		text
+feev22_02.0799	うん。{n}塔に戻ったらね……。	Okay. Once we're back at the tower...	text
+feev22_02.07C4	必ず世界を元に戻して帰ろう……。	Let's set the world right and go home, no{n}matter what...	text
 feev22_02.07F3	フェイン	Fein	speaker
-feev22_02.080A	そうだな、必ず帰ろう……。		text
+feev22_02.080A	そうだな、必ず帰ろう……。	Yes, we'll go home, no matter what...	text

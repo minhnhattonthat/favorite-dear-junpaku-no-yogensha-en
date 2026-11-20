@@ -1,5 +1,5 @@
 id	jp	en	notes
-feev10.0002	聖都、陥落		dev label (guess: not shown)
+feev10.0002	聖都、陥落	Holy City Falls	dev label (guess: not shown)
 feev10.00A2	フェイン	Fein	unit name (32-byte field)
 feev10.00DE	帝国歩兵	Foot Soldier	unit name (32-byte field)
 feev10.011A	帝国歩兵	Foot Soldier	unit name (32-byte field)
@@ -8,18 +8,18 @@ feev10.0192	帝国歩兵	Foot Soldier	unit name (32-byte field)
 feev10.01CE	帝国歩兵	Foot Soldier	unit name (32-byte field)
 feev10.020A	セレニス	Serenis	unit name (32-byte field)
 feev10.04AC	フェイン	Fein	speaker
-feev10.04C3	多勢に無勢だ……{n}いくら斬ってもきりがない！		text
+feev10.04C3	多勢に無勢だ……{n}いくら斬ってもきりがない！	We're badly outnumbered... no matter how{n}many I cut down, there's no end!	text
 feev10.054E	フェイン	Fein	speaker
-feev10.0565	……あれは。セレニス！？		text
+feev10.0565	……あれは。セレニス！？	...That's... Serenis?!	text
 feev10.05AC	フェイン	Fein	speaker
-feev10.05C3	見えないか？　＄＄＄＄＄＄！		text
+feev10.05C3	見えないか？　＄＄＄＄＄＄！	Can't you see her? ＄＄＄＄＄＄!	text
 feev10.0602	フェイン	Fein	speaker
-feev10.0619	向こうだ！		text
+feev10.0619	向こうだ！	Over there!	text
 feev10.088E	フェイン	Fein	speaker
-feev10.08A5	セレニス！！		text
+feev10.08A5	セレニス！！	Serenis!!	text
 feev10.08C0	帝国兵	Soldier	speaker
-feev10.08D5	貴様、セレニス様に何の用だ！		text
+feev10.08D5	貴様、セレニス様に何の用だ！	You there, what business have you with Lady{n}Serenis?!	text
 feev10.0950	フェイン	Fein	speaker
-feev10.0967	俺だ！　気づいてくれ！{n}セレニス！！		text
+feev10.0967	俺だ！　気づいてくれ！{n}セレニス！！	It's me! Recognize me! Serenis!!	text
 feev10.0A92	帝国兵	Soldier	speaker
-feev10.0AA7	殺されたいか！　無礼者め！		text
+feev10.0AA7	殺されたいか！　無礼者め！	Do you want to die?! Insolent wretch!	text

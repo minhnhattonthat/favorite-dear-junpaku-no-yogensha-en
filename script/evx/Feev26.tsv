@@ -2,39 +2,39 @@ id	jp	en	notes
 Feev26.00A2	フェイン	Fein	unit name (32-byte field)
 Feev26.00DE	セシア	Cecia	unit name (32-byte field)
 Feev26.0508	セシア	Cecia	speaker
-Feev26.051D	あなたは、フェイン・ルー・ルグスですね。		text
+Feev26.051D	あなたは、フェイン・ルー・ルグスですね。	You are Fein Lu Lugus, aren't you?	text
 Feev26.0554	フェイン	Fein	speaker
-Feev26.056B	君は？		text
+Feev26.056B	君は？	And you are?	text
 Feev26.0580	セシア	Cecia	speaker
-Feev26.0595	ディアナです。{n}レイフォリアの森で聖母としてお会いしました。		text
+Feev26.0595	ディアナです。{n}レイフォリアの森で聖母としてお会いしました。	I am Diana. We met in the Forest of{n}Reyforia, when I was the Holy Mother.	text
 Feev26.05E0	フェイン	Fein	speaker
-Feev26.05F7	？{n}俺が会ったのは老女だったが……。		text
+Feev26.05F7	？{n}俺が会ったのは老女だったが……。	? The one I met was an old woman...	text
 Feev26.062A	セシア	Cecia	speaker
-Feev26.063F	あなたと会った聖母様は、{n}私に記憶をたくして亡くなりました……。		text
-Feev26.068E	私はディアナであり、{n}あなたと同じ天使に仕えるセシアというものです。		text
+Feev26.063F	あなたと会った聖母様は、{n}私に記憶をたくして亡くなりました……。	The Holy Mother you met entrusted her{n}memories to me and passed away...	text
+Feev26.068E	私はディアナであり、{n}あなたと同じ天使に仕えるセシアというものです。	I am Diana, and I am also Cecia, who serves{n}the same angel as you.	text
 Feev26.06E1	フェイン	Fein	speaker
-Feev26.06F8	そんなことができるのか……？{n}不思議な力だ……。		text
+Feev26.06F8	そんなことができるのか……？{n}不思議な力だ……。	Such a thing is possible...? A strange{n}power...	text
 Feev26.0737	セシア	Cecia	speaker
-Feev26.074C	これが聖母として能力なのです。{n}永遠に古代の勇者の記憶を残すための。		text
+Feev26.074C	これが聖母として能力なのです。{n}永遠に古代の勇者の記憶を残すための。	This is the Holy Mother's power. To preserve{n}the memories of the ancient heroes forever.	text
 Feev26.07EF	フェイン	Fein	speaker
-Feev26.0806	古代の勇者の記憶……？		text
-Feev26.082B	もしかして、君は、伝説の天竜との戦いが{n}もう一度、起こるとでも言いたいのか？		text
+Feev26.0806	古代の勇者の記憶……？	The memories of the ancient heroes...?	text
+Feev26.082B	もしかして、君は、伝説の天竜との戦いが{n}もう一度、起こるとでも言いたいのか？	Are you saying the legendary battle with the{n}Heavenly Dragon will happen again?	text
 Feev26.0886	セシア	Cecia	speaker
-Feev26.089B	ええ、たぶん……。{n}今のままではさけられないと思います。		text
+Feev26.089B	ええ、たぶん……。{n}今のままではさけられないと思います。	Yes, probably... As things are, I do not{n}think it can be avoided.	text
 Feev26.08E2	フェイン	Fein	speaker
-Feev26.08F9	魔石が集められているのは、やはり……。		text
+Feev26.08F9	魔石が集められているのは、やはり……。	So the Demon Stones are being gathered for{n}that after all...	text
 Feev26.092E	セシア	Cecia	speaker
-Feev26.0943	ええ、天竜を復活させるためでしょう。		text
-Feev26.0976	そして、天竜と戦うことになったとき、{n}自分たちが今度も勝てるかどうか……{n}それは、わかりません。		text
-Feev26.09E5	ただ、今度の戦いでは、{n}天竜だけと戦うわけではありません。		text
-Feev26.0A2E	邪悪な力は、天竜以外にも{n}多くの敵を生み出しています。{n}私たちはそのすべてに勝たなければなりません……。		text
+Feev26.0943	ええ、天竜を復活させるためでしょう。	Yes, to revive the Heavenly Dragon, no{n}doubt.	text
+Feev26.0976	そして、天竜と戦うことになったとき、{n}自分たちが今度も勝てるかどうか……{n}それは、わかりません。	And if we must fight the Heavenly Dragon,{n}whether we can win again this time... that I{n}cannot say.	text
+Feev26.09E5	ただ、今度の戦いでは、{n}天竜だけと戦うわけではありません。	But in this battle, we will not be fighting{n}the Heavenly Dragon alone.	text
+Feev26.0A2E	邪悪な力は、天竜以外にも{n}多くの敵を生み出しています。{n}私たちはそのすべてに勝たなければなりません……。	The evil power has spawned many enemies{n}besides the Heavenly Dragon. We must defeat{n}every one of them...	text
 Feev26.0AA5	フェイン	Fein	speaker
 Feev26.0ABC	ああ……。	Yeah...	text
 Feev26.0AD5	フェイン	Fein	speaker
 Feev26.0AEC	ああ……。	Yeah...	text
 Feev26.0B05	セシア	Cecia	speaker
-Feev26.0B1A	困難なことになると思いますが、{n}ともに力を合わせて戦いましょう。		text
+Feev26.0B1A	困難なことになると思いますが、{n}ともに力を合わせて戦いましょう。	It will be hard, I think, but let us join{n}forces and fight together.	text
 Feev26.0B69	フェイン	Fein	speaker
-Feev26.0B80	そうだな……。{n}君もこれからの戦いでは、{n}どうか十分に気をつけてくれ……。		text
+Feev26.0B80	そうだな……。{n}君もこれからの戦いでは、{n}どうか十分に気をつけてくれ……。	Yes... In the battles ahead, please take{n}good care of yourself as well...	text
 Feev26.0C25	セシア	Cecia	speaker
-Feev26.0C3A	ありがとう、フェイン……あなたも……。		text
+Feev26.0C3A	ありがとう、フェイン……あなたも……。	Thank you, Fein... You too...	text

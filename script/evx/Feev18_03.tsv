@@ -1,38 +1,38 @@
 id	jp	en	notes
-Feev18_03.0002	アイリーン3		dev label (guess: not shown)
+Feev18_03.0002	アイリーン3	Irene 3	dev label (guess: not shown)
 Feev18_03.00A2	フェイン	Fein	unit name (32-byte field)
 Feev18_03.00DE	アイリーン	Irene	unit name (32-byte field)
 Feev18_03.0518	アイリーン	Irene	speaker
-Feev18_03.0531	フェイン、なにかわかった？		text
+Feev18_03.0531	フェイン、なにかわかった？	Fein, did you find anything out?	text
 Feev18_03.05E2	フェイン	Fein	speaker
-Feev18_03.05F9	……ああ、セレニスを見た。		text
+Feev18_03.05F9	……ああ、セレニスを見た。	...Yes, I saw Serenis.	text
 Feev18_03.0672	アイリーン	Irene	speaker
-Feev18_03.068B	どこで？　なにをしていたの？		text
+Feev18_03.068B	どこで？　なにをしていたの？	Where? What was she doing?	text
 Feev18_03.06B6	フェイン	Fein	speaker
-Feev18_03.06CD	エクレシアに攻め入った帝国軍の中にいた……		text
+Feev18_03.06CD	エクレシアに攻め入った帝国軍の中にいた……	She was with the imperial army that invaded{n}Ecclesia...	text
 Feev18_03.0706	アイリーン	Irene	speaker
-Feev18_03.071F	どうして……姉さんが……。		text
+Feev18_03.071F	どうして……姉さんが……。	Why... would my sister...	text
 Feev18_03.0748	フェイン	Fein	speaker
-Feev18_03.075F	わからない……{n}もう、昔の記憶を失ってしまったのかもしれん……。		text
+Feev18_03.075F	わからない……{n}もう、昔の記憶を失ってしまったのかもしれん……。	I don't know... Maybe she's lost her old{n}memories...	text
 Feev18_03.07AE	アイリーン	Irene	speaker
-Feev18_03.07C7	今の帝国の動きに{n}姉さんはなにか関係しているの？		text
+Feev18_03.07C7	今の帝国の動きに{n}姉さんはなにか関係しているの？	Does my sister have something to do with{n}what the Empire is doing now?	text
 Feev18_03.0806	フェイン	Fein	speaker
-Feev18_03.081D	多分……{n}詳しくはわからないが……		text
+Feev18_03.081D	多分……{n}詳しくはわからないが……	Probably... though I don't know the{n}details...	text
 Feev18_03.084E	アイリーン	Irene	speaker
-Feev18_03.0867	……なぜ……。		text
+Feev18_03.0867	……なぜ……。	...Why...	text
 Feev18_03.0884	フェイン	Fein	speaker
-Feev18_03.089B	俺はもう一度、彼女に会う……。{n}そして、自分の過ちを正すつもりだ……		text
+Feev18_03.089B	俺はもう一度、彼女に会う……。{n}そして、自分の過ちを正すつもりだ……	I'll see her once more... And I mean to{n}right my mistake...	text
 Feev18_03.08EE	アイリーン	Irene	speaker
-Feev18_03.0907	フェイン……。		text
+Feev18_03.0907	フェイン……。	Fein...	text
 Feev18_03.0924	フェイン	Fein	speaker
-Feev18_03.093B	すまない……{n}すべての責任は自分にある……。		text
-Feev18_03.0976	その罪は必ず償うつもりだ。		text
+Feev18_03.093B	すまない……{n}すべての責任は自分にある……。	I'm sorry... all of the blame is mine...	text
+Feev18_03.0976	その罪は必ず償うつもりだ。	I swear I'll atone for that sin.	text
 Feev18_03.09E3	アイリーン	Irene	speaker
-Feev18_03.09FC	……違うよフェイン……{n}あれはフェインのせいじゃない……{n}私だってなにもできなかった……		text
-Feev18_03.0A63	お姉ちゃんもおじいちゃんのことも……{n}私にだって責任はあるよ……。		text
+Feev18_03.09FC	……違うよフェイン……{n}あれはフェインのせいじゃない……{n}私だってなにもできなかった……	...That's not true, Fein... It wasn't your{n}fault... I couldn't do anything either...	text
+Feev18_03.0A63	お姉ちゃんもおじいちゃんのことも……{n}私にだって責任はあるよ……。	What happened to Sissy and to Grandpa... I'm{n}responsible too...	text
 Feev18_03.0AB4	フェイン	Fein	speaker
-Feev18_03.0ACB	いや……すべては俺の愚かさだ……		text
-Feev18_03.0AFA	アイリーン、{n}君は生きて、塔とジグの血を守って欲しい。		text
-Feev18_03.0B3F	頼む……{n}それだけが俺の望むことだ……。		text
+Feev18_03.0ACB	いや……すべては俺の愚かさだ……	No... it was all my own foolishness...	text
+Feev18_03.0AFA	アイリーン、{n}君は生きて、塔とジグの血を守って欲しい。	Irene, I want you to live, and protect the{n}tower and Zig's bloodline.	text
+Feev18_03.0B3F	頼む……{n}それだけが俺の望むことだ……。	Please... that's all I ask...	text
 Feev18_03.0BC2	アイリーン	Irene	speaker
-Feev18_03.0BDB	フェイン……。		text
+Feev18_03.0BDB	フェイン……。	Fein...	text

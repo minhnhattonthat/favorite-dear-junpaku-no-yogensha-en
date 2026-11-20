@@ -1,21 +1,21 @@
 id	jp	en	notes
 laev02.00A2	レイラ	Leyla	unit name (32-byte field)
-laev02.00DE	村男		unit name (32-byte field)
-laev02.011A	村男		unit name (32-byte field)
+laev02.00DE	村男	Village Man	unit name (32-byte field)
+laev02.011A	村男	Village Man	unit name (32-byte field)
 laev02.0508	宿屋の主	Innkeeper	speaker
-laev02.051F	その軍服！{n}あなた様は、帝国の騎士様でいらっしゃいますか？		text
+laev02.051F	その軍服！{n}あなた様は、帝国の騎士様でいらっしゃいますか？	That uniform! Might you be a knight of the{n}Empire, my lady?	text
 laev02.0568	レイラ	Leyla	speaker
-laev02.057D	ええ、そうだけど……なにか？		text
+laev02.057D	ええ、そうだけど……なにか？	Yes, I am... Why?	text
 laev02.05A8	宿屋の主	Innkeeper	speaker
-laev02.05BF	いえいえ、たいしたことではないのですが、{n}本日お泊まりになる宿はお決まりになっているのかと{n}思いまして……。		text
+laev02.05BF	いえいえ、たいしたことではないのですが、{n}本日お泊まりになる宿はお決まりになっているのかと{n}思いまして……。	Oh no, it's nothing much, I just wondered{n}whether you'd decided on an inn for{n}tonight...	text
 laev02.063A	レイラ	Leyla	speaker
-laev02.064F	いえ、特別決まっては……。		text
+laev02.064F	いえ、特別決まっては……。	No, not especially...	text
 laev02.0678	宿屋の主	Innkeeper	speaker
-laev02.068F	そうですか！{n}それなら、ぜひとも我が宿にお泊まりください！		text
-laev02.06D8	帝国の騎士様が泊まってくださったとなれば、{n}我が宿の格も上がるというものです！		text
+laev02.068F	そうですか！{n}それなら、ぜひとも我が宿にお泊まりください！	Is that so! Then by all means, please stay{n}at our inn!	text
+laev02.06D8	帝国の騎士様が泊まってくださったとなれば、{n}我が宿の格も上がるというものです！	If a knight of the Empire stays with us,{n}it'll raise our inn's standing!	text
 laev02.0735	レイラ	Leyla	speaker
-laev02.074A	それは……。		text
+laev02.074A	それは……。	Well...	text
 laev02.0765	宿屋の主	Innkeeper	speaker
-laev02.077C	さあさあ、夜が更けないうちに！！		text
+laev02.077C	さあさあ、夜が更けないうちに！！	Come, come, before the night grows late!!	text
 laev02.07EF	レイラ	Leyla	speaker
-laev02.0804	あ、あの……。		text
+laev02.0804	あ、あの……。	Ah, um...	text

@@ -1,33 +1,33 @@
 id	jp	en	notes
-Feev03_03.0002	ギルド２		dev label (guess: not shown)
+Feev03_03.0002	ギルド２	Guild 2	dev label (guess: not shown)
 Feev03_03.00A2	フェイン	Fein	unit name (32-byte field)
 Feev03_03.00DE	ウィザード	Wizard	unit name (32-byte field)
-Feev03_03.0508	ランド		speaker
-Feev03_03.051D	フェイン！		text
+Feev03_03.0508	ランド	Rand	speaker
+Feev03_03.051D	フェイン！	Fein!	text
 Feev03_03.0536	フェイン	Fein	speaker
-Feev03_03.054D	ああ、ランドか、どうした？		text
-Feev03_03.0576	ランド		speaker
-Feev03_03.058B	いや、ふたりの話の内容が気になってな。{n}老師はなんと言っていた？		text
+Feev03_03.054D	ああ、ランドか、どうした？	Oh, Rand. What is it?	text
+Feev03_03.0576	ランド	Rand	speaker
+Feev03_03.058B	いや、ふたりの話の内容が気になってな。{n}老師はなんと言っていた？	Well, I was curious what you two talked{n}about. What did the Elder say?	text
 Feev03_03.05DA	フェイン	Fein	speaker
-Feev03_03.05F1	ずいぶん予言を気にしておられるな。		text
-Feev03_03.0622	ランド		speaker
-Feev03_03.0637	そうか……。{n}それで、お前はどう思っている？		text
+Feev03_03.05F1	ずいぶん予言を気にしておられるな。	He seemed very concerned about the prophecy.	text
+Feev03_03.0622	ランド	Rand	speaker
+Feev03_03.0637	そうか……。{n}それで、お前はどう思っている？	I see... And what do you think?	text
 Feev03_03.0672	フェイン	Fein	speaker
-Feev03_03.0689	俺か……。		text
-Feev03_03.06A2	混乱はあちらこちらで起きている。{n}それらはバラバラで、{n}俺にはなんの関連もないように思える。		text
-Feev03_03.070D	それがこのギルドを巻き込むかどうかも{n}わからん。		text
-Feev03_03.074C	ただ、もしもの時にはここにはお前たちがいる。{n}心配はしていない。		text
-Feev03_03.079B	ランド		speaker
-Feev03_03.07B0	そうだな……。{n}混乱の関連もわからない以上、{n}過度の心配はかえってあだになることもあるな……。		text
+Feev03_03.0689	俺か……。	Me...?	text
+Feev03_03.06A2	混乱はあちらこちらで起きている。{n}それらはバラバラで、{n}俺にはなんの関連もないように思える。	Chaos is breaking out here and there. It's{n}scattered, and to me none of it seems{n}connected.	text
+Feev03_03.070D	それがこのギルドを巻き込むかどうかも{n}わからん。	I can't tell whether it will drag in this{n}Guild either.	text
+Feev03_03.074C	ただ、もしもの時にはここにはお前たちがいる。{n}心配はしていない。	But if the worst happens, you'll all be{n}here. I'm not worried.	text
+Feev03_03.079B	ランド	Rand	speaker
+Feev03_03.07B0	そうだな……。{n}混乱の関連もわからない以上、{n}過度の心配はかえってあだになることもあるな……。	True... As long as we don't know how the{n}chaos is connected, worrying too much could{n}even do harm...	text
 Feev03_03.081D	フェイン	Fein	speaker
 Feev03_03.0834	ああ……。	Yeah...	text
-Feev03_03.084D	ランド		speaker
-Feev03_03.0862	なあ、フェイン。{n}そろそろ、お前、落ち着いたらどうだ。		text
-Feev03_03.08A7	お前の仕事は誰かがしなければならないことだが、{n}もう、他の者がかわってもいいはずだ。		text
-Feev03_03.090A	それにお前がここに戻ってくれば心強い。{n}きっと老師もそれを望んでいると思うぞ。		text
+Feev03_03.084D	ランド	Rand	speaker
+Feev03_03.0862	なあ、フェイン。{n}そろそろ、お前、落ち着いたらどうだ。	Say, Fein. Isn't it about time you settled{n}down?	text
+Feev03_03.08A7	お前の仕事は誰かがしなければならないことだが、{n}もう、他の者がかわってもいいはずだ。	Someone has to do your work, but by now{n}someone else could take over.	text
+Feev03_03.090A	それにお前がここに戻ってくれば心強い。{n}きっと老師もそれを望んでいると思うぞ。	Besides, it'd be reassuring to have you back{n}here. I'm sure the Elder wants that too.	text
 Feev03_03.0967	フェイン	Fein	speaker
-Feev03_03.097E	いや……{n}俺にはまだやらなくてはならないことが{n}残っている。		text
-Feev03_03.09C9	ランド		speaker
+Feev03_03.097E	いや……{n}俺にはまだやらなくてはならないことが{n}残っている。	No... there's still something I have to do.	text
+Feev03_03.09C9	ランド	Rand	speaker
 Feev03_03.09DE	そうか……。	I see...	text
 Feev03_03.09F9	フェイン	Fein	speaker
 Feev03_03.0A10	すまんな。	Thanks.	text

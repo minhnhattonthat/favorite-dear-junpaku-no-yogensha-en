@@ -1,37 +1,37 @@
 id	jp	en	notes
-eiev19.0002	アイリーン3		dev label (guess: not shown)
+eiev19.0002	アイリーン3	Irene 3	dev label (guess: not shown)
 eiev19.00A2	フェイン	Fein	unit name (32-byte field)
 eiev19.00DE	アイリーン	Irene	unit name (32-byte field)
 eiev19.0518	フェイン	Fein	speaker
-eiev19.052F	アイリーン、なにかわかったか？		text
+eiev19.052F	アイリーン、なにかわかったか？	Irene, did you find out anything?	text
 eiev19.05E4	アイリーン	Irene	speaker
-eiev19.05FD	……会ったよ。エクレシアで。		text
+eiev19.05FD	……会ったよ。エクレシアで。	...I met her. In Ecclesia.	text
 eiev19.0678	フェイン	Fein	speaker
-eiev19.068F	本当か！		text
+eiev19.068F	本当か！	Really?!	text
 eiev19.06A6	アイリーン	Irene	speaker
-eiev19.06BF	うん……確かに、姉さんだった。{n}でも……		text
+eiev19.06BF	うん……確かに、姉さんだった。{n}でも……	Yeah... It was definitely my sister. But...	text
 eiev19.06F6	フェイン	Fein	speaker
-eiev19.070D	どうしていた？		text
+eiev19.070D	どうしていた？	How was she?	text
 eiev19.072A	アイリーン	Irene	speaker
-eiev19.0743	帝国の……グローサインの軍を率いていた……。		text
+eiev19.0743	帝国の……グローサインの軍を率いていた……。	She was leading the Empire's... Grosain's{n}army...	text
 eiev19.077E	フェイン	Fein	speaker
-eiev19.0795	本当なのか……なぜだ？		text
+eiev19.0795	本当なのか……なぜだ？	Is that true...? Why?	text
 eiev19.07BA	アイリーン	Irene	speaker
-eiev19.07D3	わからないよ……		text
-eiev19.07F2	でも、セレニス姉さんは{n}もう昔の姉さんじゃないよ……。{n}心が……もう、違った。		text
+eiev19.07D3	わからないよ……	I don't know...	text
+eiev19.07F2	でも、セレニス姉さんは{n}もう昔の姉さんじゃないよ……。{n}心が……もう、違った。	But Serenis isn't the sister she used to{n}be... Her heart... was different.	text
 eiev19.084F	フェイン	Fein	speaker
-eiev19.0866	……たとえそうであっても{n}俺は彼女に会わなきゃならない。		text
+eiev19.0866	……たとえそうであっても{n}俺は彼女に会わなきゃならない。	...Even so, I have to see her.	text
 eiev19.08AD	アイリーン	Irene	speaker
-eiev19.08C6	フェイン……{n}会えても……姉さんは……		text
+eiev19.08C6	フェイン……{n}会えても……姉さんは……	Fein... even if you do... my sister...	text
 eiev19.08FB	フェイン	Fein	speaker
-eiev19.0912	俺は彼女に、{n}取り返しのつかないことをしてしまった。		text
-eiev19.0955	どんなことをしてもそれを償うつもりだ……		text
+eiev19.0912	俺は彼女に、{n}取り返しのつかないことをしてしまった。	I did something to her that can never be{n}undone.	text
+eiev19.0955	どんなことをしてもそれを償うつもりだ……	I intend to atone for it, whatever it{n}takes...	text
 eiev19.098C	アイリーン	Irene	speaker
-eiev19.09A5	……違うよフェイン……{n}あれはフェインのせいじゃない……{n}私だってなにもできなかった……		text
-eiev19.0A0C	お姉ちゃんもおじいちゃんのことも……{n}私にだって責任はあるよ……。		text
+eiev19.09A5	……違うよフェイン……{n}あれはフェインのせいじゃない……{n}私だってなにもできなかった……	...That's not true, Fein... It wasn't your{n}fault... I couldn't do anything either...	text
+eiev19.0A0C	お姉ちゃんもおじいちゃんのことも……{n}私にだって責任はあるよ……。	What happened to Sissy and to Grandpa... I'm{n}responsible too...	text
 eiev19.0A5D	フェイン	Fein	speaker
-eiev19.0A74	いや……すべては俺の愚かさだ……		text
-eiev19.0AA3	アイリーン、{n}君は生きて、塔とジグの血を守って欲しい。		text
-eiev19.0AE8	頼む……{n}それだけが俺の望むことだ……。		text
+eiev19.0A74	いや……すべては俺の愚かさだ……	No... it was all my own foolishness...	text
+eiev19.0AA3	アイリーン、{n}君は生きて、塔とジグの血を守って欲しい。	Irene, I want you to live, and protect the{n}tower and Zig's bloodline.	text
+eiev19.0AE8	頼む……{n}それだけが俺の望むことだ……。	Please... that's all I ask...	text
 eiev19.0B6B	アイリーン	Irene	speaker
-eiev19.0B84	フェイン……。		text
+eiev19.0B84	フェイン……。	Fein...	text

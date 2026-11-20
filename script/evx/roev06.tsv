@@ -1,10 +1,10 @@
 id	jp	en	notes
 roev06.0002	もう一つの魔石		dev label (guess: not shown)
 roev06.00A2	ロクス	Rocus	unit name (32-byte field)
-roev06.00DE	帝國戦士		unit name (32-byte field)
-roev06.011A	帝國戦士		unit name (32-byte field)
-roev06.0156	帝国戦士		unit name (32-byte field)
-roev06.0192	帝国戦士		unit name (32-byte field)
+roev06.00DE	帝國戦士	Imperial Warrior	unit name (32-byte field)
+roev06.011A	帝國戦士	Imperial Warrior	unit name (32-byte field)
+roev06.0156	帝国戦士	Warrior	unit name (32-byte field)
+roev06.0192	帝国戦士	Warrior	unit name (32-byte field)
 roev06.01CE	クラレンス	Clarence	unit name (32-byte field)
 roev06.05C8	ロクス	Rocus	speaker
 roev06.05DD	ヴァイパー！		text

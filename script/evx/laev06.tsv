@@ -2,11 +2,11 @@ id	jp	en	notes
 laev06.00A2	レイラ	Leyla	unit name (32-byte field)
 laev06.00DE	アルベリック	Alberic	unit name (32-byte field)
 laev06.011A	帝国歩兵	Foot Soldier	unit name (32-byte field)
-laev06.0156	帝国戦士		unit name (32-byte field)
+laev06.0156	帝国戦士	Warrior	unit name (32-byte field)
 laev06.0192	帝国歩兵	Foot Soldier	unit name (32-byte field)
 laev06.0498	アルベリック	Alberic	speaker
 laev06.04B3	魔石は手に入れた……。{n}では、あとは頼んだぞ。		text
 laev06.04F0	帝国兵	Soldier	speaker
-laev06.0505	はっ！		text
+laev06.0505	はっ！	Sir!	text
 laev06.05BA	レイラ	Leyla	speaker
 laev06.05CF	この軍を率いているのはアルベリック……。{n}あの男……許せない……。		text

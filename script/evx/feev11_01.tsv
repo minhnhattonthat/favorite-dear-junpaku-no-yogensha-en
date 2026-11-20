@@ -5,42 +5,42 @@ feev11_01.00DE	聖母	Holy Mother	unit name (32-byte field)
 feev11_01.04D8	聖母	Holy Mother	speaker
 feev11_01.04EB	戦士よ、よくここまで来ました。	Warrior, you have done well to come this{n}far.	text
 feev11_01.0518	フェイン	Fein	speaker
-feev11_01.052F	あなたは……。		text
+feev11_01.052F	あなたは……。	You are...	text
 feev11_01.054C	聖母	Holy Mother	speaker
-feev11_01.055F	この聖なる森を守っているディアナという者です。		text
+feev11_01.055F	この聖なる森を守っているディアナという者です。	I am Diana, guardian of this sacred forest.	text
 feev11_01.059C	フェイン	Fein	speaker
-feev11_01.05B3	まさか……あの伝説は……。		text
+feev11_01.05B3	まさか……あの伝説は……。	It can't be... that legend...	text
 feev11_01.05DC	聖母	Holy Mother	speaker
-feev11_01.05EF	ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけです……。{n}戦士よ……あなたは選ばれた者なのですね……。		text
+feev11_01.05EF	ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけです……。{n}戦士よ……あなたは選ばれた者なのですね……。	Only the chosen, those who have received a{n}holy blessing, can find their way here...{n}Warrior... so you are one of the chosen...	text
 feev11_01.067C	フェイン	Fein	speaker
-feev11_01.0693	……自分が選ばれたかどうかはわかりません……。{n}ただ、導かれているのは確かです。		text
+feev11_01.0693	……自分が選ばれたかどうかはわかりません……。{n}ただ、導かれているのは確かです。	...I don't know whether I was chosen... But{n}I am certainly being guided.	text
 feev11_01.06F2	聖母	Holy Mother	speaker
-feev11_01.0705	そうですか……。{n}あなたの名前はなんというのですか？		text
+feev11_01.0705	そうですか……。{n}あなたの名前はなんというのですか？	I see... What is your name?	text
 feev11_01.0748	フェイン	Fein	speaker
-feev11_01.075F	フェイン・ルー・ルグスといいます。		text
+feev11_01.075F	フェイン・ルー・ルグスといいます。	My name is Fein Lu Lugus.	text
 feev11_01.0790	聖母	Holy Mother	speaker
-feev11_01.07A3	では、フェイン、こちらへ……。		text
+feev11_01.07A3	では、フェイン、こちらへ……。	Then, Fein, come here...	text
 feev11_01.07D0	フェイン	Fein	speaker
-feev11_01.07E7	はい……。		text
+feev11_01.07E7	はい……。	Yes...	text
 feev11_01.0850	聖母	Holy Mother	speaker
-feev11_01.0863	ずいぶんと強い力を持っていますね……{n}なかなかの才があるのが感じられます。		text
+feev11_01.0863	ずいぶんと強い力を持っていますね……{n}なかなかの才があるのが感じられます。	You have quite a strong power... I can sense{n}considerable talent.	text
 feev11_01.08BC	フェイン	Fein	speaker
 feev11_01.08D3	…………。	.....	text
 feev11_01.08EC	聖母	Holy Mother	speaker
-feev11_01.08FF	フェイン……あなたのこれからの戦いは{n}きっと困難を極めるでしょう……。{n}		text
-feev11_01.0956	それは、あなただけでなく、{n}天使様に導かれる者、すべてに言えることですが、{n}邪悪な力と戦うためには強い意志が必要となります。		text
-feev11_01.09E1	敵は人の心の弱さをねらってくるからです。{n}ですが、それに屈してはなりませんよ。		text
+feev11_01.08FF	フェイン……あなたのこれからの戦いは{n}きっと困難を極めるでしょう……。{n}	Fein... the battles ahead of you will surely{n}be extremely hard...{n}	text
+feev11_01.0956	それは、あなただけでなく、{n}天使様に導かれる者、すべてに言えることですが、{n}邪悪な力と戦うためには強い意志が必要となります。	That is true not only of you but of all whom{n}the Angel guides: to fight evil powers, you{n}will need a strong will.	text
+feev11_01.09E1	敵は人の心の弱さをねらってくるからです。{n}ですが、それに屈してはなりませんよ。	For the enemy targets the weakness in{n}people's hearts. But you must not give in to{n}it.	text
 feev11_01.0A3E	フェイン	Fein	speaker
-feev11_01.0A55	ディアナ様……{n}邪悪な力の正体をあなたは知っているのですか？		text
+feev11_01.0A55	ディアナ様……{n}邪悪な力の正体をあなたは知っているのですか？	Diana-sama... do you know the true nature of{n}this evil power?	text
 feev11_01.0AA0	聖母	Holy Mother	speaker
-feev11_01.0AB3	いいえ、天使様にわからないことは、{n}私にもわかりません。		text
-feev11_01.0AFA	ただ、私は、いまこの世界を狙っている、{n}悪魔の邪悪さは知っています。{n}人が彼らと戦うことのきびしさも……。		text
+feev11_01.0AB3	いいえ、天使様にわからないことは、{n}私にもわかりません。	No. What the Angel does not know, I do not{n}know either.	text
+feev11_01.0AFA	ただ、私は、いまこの世界を狙っている、{n}悪魔の邪悪さは知っています。{n}人が彼らと戦うことのきびしさも……。	But I do know the wickedness of the devils{n}who now target this world. And how hard it{n}is for people to fight them...	text
 feev11_01.0B73	フェイン	Fein	speaker
-feev11_01.0B8A	そうですか……。{n}自分も邪悪な存在を感じてはいます。		text
-feev11_01.0BCD	そして、{n}それが伝説の再来にならないことを{n}望んでいます……。		text
+feev11_01.0B8A	そうですか……。{n}自分も邪悪な存在を感じてはいます。	I see... I too sense an evil presence.	text
+feev11_01.0BCD	そして、{n}それが伝説の再来にならないことを{n}望んでいます……。	And I hope it will not become the legend{n}come again...	text
 feev11_01.0C1A	聖母	Holy Mother	speaker
-feev11_01.0C2D	そうですね、その通りです。{n}ただ、すでになにかが動き始めています。{n}どうか、いつも注意だけはしていてください。		text
-feev11_01.0CAA	私はこうしてお話しすることしかできませんが、{n}皆とは心を合わせて、魔と戦う覚悟はしています。		text
-feev11_01.0D15	フェイン……{n}天使様の守護を受けた者として、{n}この世界の暗闇をはらいのけましょう。		text
+feev11_01.0C2D	そうですね、その通りです。{n}ただ、すでになにかが動き始めています。{n}どうか、いつも注意だけはしていてください。	Yes, exactly so. But something has already{n}begun to move. Please, always stay on your{n}guard.	text
+feev11_01.0CAA	私はこうしてお話しすることしかできませんが、{n}皆とは心を合わせて、魔と戦う覚悟はしています。	All I can do is speak with you like this,{n}but I am prepared to stand united with{n}everyone and fight evil.	text
+feev11_01.0D15	フェイン……{n}天使様の守護を受けた者として、{n}この世界の暗闇をはらいのけましょう。	Fein... as one under the Angel's protection,{n}let us drive away the darkness of this{n}world.	text
 feev11_01.0D76	フェイン	Fein	speaker
-feev11_01.0D8D	はい、わかりました……。		text
+feev11_01.0D8D	はい、わかりました……。	Yes, I understand...	text

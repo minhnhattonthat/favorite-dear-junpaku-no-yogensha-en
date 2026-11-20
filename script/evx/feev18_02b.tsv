@@ -1,30 +1,30 @@
 id	jp	en	notes
-feev18_02b.0002	アイリーン（二回目接触・男天使		dev label (guess: not shown)
+feev18_02b.0002	アイリーン（二回目接触・男天使	Irene (2nd Meeting, Male Angel	dev label (guess: not shown)
 feev18_02b.00A2	フェイン	Fein	unit name (32-byte field)
 feev18_02b.00DE	アイリーン	Irene	unit name (32-byte field)
 feev18_02b.04D4	アイリーン	Irene	speaker
 feev18_02b.0531	アイリーン	Irene	speaker
-feev18_02b.054A	元気、フェイン。		text
+feev18_02b.054A	元気、フェイン。	Hey, Fein.	text
 feev18_02b.05F1	フェイン	Fein	speaker
-feev18_02b.0608	アイリーンか。旅には慣れたか？		text
+feev18_02b.0608	アイリーンか。旅には慣れたか？	Irene. Getting used to traveling?	text
 feev18_02b.0635	アイリーン	Irene	speaker
-feev18_02b.064E	うん。まあね。		text
+feev18_02b.064E	うん。まあね。	Yeah. Sort of.	text
 feev18_02b.066B	フェイン	Fein	speaker
-feev18_02b.0682	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。		text
+feev18_02b.0682	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。	I ask ＄＄＄＄＄＄ how you're doing now and{n}then. I hear you're doing well.	text
 feev18_02b.06D1	アイリーン	Irene	speaker
-feev18_02b.06EA	え、ほんと？		text
+feev18_02b.06EA	え、ほんと？	Huh, really?	text
 feev18_02b.0705	フェイン	Fein	speaker
-feev18_02b.071C	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。		text
-feev18_02b.0775	ふうん、あいつの言いそうな感じね。{n}ま、一度決めたことだからね。{n}やらなきゃいけないでしょ。		text
-feev18_02b.07E0	それに、姉さんのこともあるしね……。		text
+feev18_02b.071C	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。	Well, I'm told you grumble, but you take{n}responsibility and do a fine job.	text
+feev18_02b.0775	ふうん、あいつの言いそうな感じね。{n}ま、一度決めたことだからね。{n}やらなきゃいけないでしょ。	Hmm, sounds like something he'd say. Well, I{n}made up my mind, didn't I? So I have to do{n}it.	text
+feev18_02b.07E0	それに、姉さんのこともあるしね……。	Besides, there's my sister too...	text
 feev18_02b.0813	フェイン	Fein	speaker
-feev18_02b.082A	なにか分かったことはあるか？		text
+feev18_02b.082A	なにか分かったことはあるか？	Have you found out anything?	text
 feev18_02b.0855	アイリーン	Irene	speaker
-feev18_02b.086E	ううん、なんにも……。		text
+feev18_02b.086E	ううん、なんにも……。	No, nothing...	text
 feev18_02b.0893	フェイン	Fein	speaker
-feev18_02b.08AA	そうか……		text
+feev18_02b.08AA	そうか……	I see...	text
 feev18_02b.08C3	アイリーン	Irene	speaker
-feev18_02b.08DC	でも、きっとなにか{n}手がかりを見つけられるはず……		text
-feev18_02b.091D	必ず見つけられる……{n}そう思ってるよ、フェイン。		text
+feev18_02b.08DC	でも、きっとなにか{n}手がかりを見つけられるはず……	But I'm sure we'll find some clue...	text
+feev18_02b.091D	必ず見つけられる……{n}そう思ってるよ、フェイン。	We'll find her for sure... That's what I{n}believe, Fein.	text
 feev18_02b.095C	フェイン	Fein	speaker
-feev18_02b.0973	……ああ、そうだな。		text
+feev18_02b.0973	……ああ、そうだな。	...Yes, you're right.	text

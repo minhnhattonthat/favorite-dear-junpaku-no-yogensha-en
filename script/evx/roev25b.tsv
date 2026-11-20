@@ -23,7 +23,7 @@ roev25b.0904	《わかりました……》	I understand...	choice
 roev25b.091B	《いいえ……》	No...	choice
 roev25b.093C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25b.0957	……はい……わかりました……{n}私はあなたの使いとなりましょう……	...Yes... I understand... I will become your{n}messenger...	text
-roev25b.09A6	どうか……彼の魂を、{n}彼の命を救ってください……		text
+roev25b.09A6	どうか……彼の魂を、{n}彼の命を救ってください……	Please... save his soul, save his life...	text
 roev25b.09F5	エンディミオン	Endymion	speaker
 roev25b.0A12	ふふ、すばらしい。{n}いい心ばえだ……	Heh, splendid. A fine spirit...	text
 roev25b.0A55	では……この勇者を救ってやろう……。	Then... I shall save this hero...	text
@@ -37,7 +37,7 @@ roev25b.0C34	さあ、お前も竜の体内で勇者と一緒にしてやろう�
 roev25b.0C83	死ね。	Die.	text
 roev25b.0CF8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25b.0D13	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。	No... I am an angel... I cannot sell my soul{n}to a devil...	text
-roev25b.0D64	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
+roev25b.0D64	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。	He believed in me, an angel, and fought for{n}me. I will not let you use his soul or mine.	text
 roev25b.0DDB	エンディミオン	Endymion	speaker
 roev25b.0DF8	ふん、小賢しいことを……。	Hmph, what impertinence...	text
 roev25b.0E31	いいだろう。	Very well.	text

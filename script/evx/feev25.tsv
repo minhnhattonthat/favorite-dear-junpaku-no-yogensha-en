@@ -3,34 +3,34 @@ feev25.0002	天使の大けが	Angel Badly Hurt	dev label (guess: not shown)
 feev25.00A2	フェイン	Fein	unit name (32-byte field)
 feev25.00DE	シーフ	Thief	unit name (32-byte field)
 feev25.04EC	フェイン	Fein	speaker
-feev25.0503	ヴァイパーか？		text
+feev25.0503	ヴァイパーか？	Viper?	text
 feev25.0520	クラレンス	Clarence	speaker
-feev25.0539	人に名を聞く前に{n}自分が名乗るのがスジだぜ。		text
+feev25.0539	人に名を聞く前に{n}自分が名乗るのがスジだぜ。	Before you ask a guy's name, you oughta give{n}yours first.	text
 feev25.0574	フェイン	Fein	speaker
-feev25.058B	俺はウォーロックの{n}フェイン。		text
-feev25.05B8	お前が奪った魔石を返して{n}もらおうか。		text
+feev25.058B	俺はウォーロックの{n}フェイン。	I am Fein, a Warlock.	text
+feev25.05B8	お前が奪った魔石を返して{n}もらおうか。	I'll have back the Demon Stone you stole.	text
 feev25.05ED	クラレンス	Clarence	speaker
-feev25.0606	ほう。{n}俺もずいぶん有名になったな。		text
-feev25.0639	魔導士さんからも{n}追いかけられるとは……		text
+feev25.0606	ほう。{n}俺もずいぶん有名になったな。	Oh ho. I've gotten pretty famous.	text
+feev25.0639	魔導士さんからも{n}追いかけられるとは……	Even got a mage chasing after me...	text
 feev25.0670	フェイン	Fein	speaker
-feev25.0687	お前がいくらもらったのかは{n}知らんがその魔石が帝国に渡れば{n}世界を狂わす。		text
+feev25.0687	お前がいくらもらったのかは{n}知らんがその魔石が帝国に渡れば{n}世界を狂わす。	I don't know how much you were paid, but if{n}that Demon Stone reaches the Empire, it will{n}drive the world mad.	text
 feev25.0724	フェイン	Fein	speaker
-feev25.073B	ここで返してもらう。		text
+feev25.073B	ここで返してもらう。	You'll return it here and now.	text
 feev25.075E	クラレンス	Clarence	speaker
-feev25.0777	「世界を狂わすか」か……{n}なかなかいいじゃねえか。{n}夢のある話だぜ。		text
-feev25.07CA	そうそう見れるもんじゃねえ。		text
+feev25.0777	「世界を狂わすか」か……{n}なかなかいいじゃねえか。{n}夢のある話だぜ。	"Drive the world mad," huh... Not bad at{n}all. That's the stuff of dreams.	text
+feev25.07CA	そうそう見れるもんじゃねえ。	Not something you get to see every day.	text
 feev25.0809	フェイン	Fein	speaker
-feev25.0820	ふざけるな……		text
+feev25.0820	ふざけるな……	Don't mess with me...	text
 feev25.0881	クラレンス	Clarence	speaker
-feev25.089A	おお怖い。{n}冗談も通じねえのか。		text
-feev25.08C9	わかった、{n}そんな恐ろしいモンだとは{n}しらなかったんだよ。		text
-feev25.0912	返すぜ。{n}天使様によ。		text
+feev25.089A	おお怖い。{n}冗談も通じねえのか。	Ooh, scary. Can't you take a joke?	text
+feev25.08C9	わかった、{n}そんな恐ろしいモンだとは{n}しらなかったんだよ。	Fine, I didn't know it was such a scary{n}thing.	text
+feev25.0912	返すぜ。{n}天使様によ。	I'll give it back. To the angel, that is.	text
 feev25.0937	フェイン	Fein	speaker
 feev25.0962	フェイン	Fein	speaker
-feev25.0979	お前……なぜ？		text
+feev25.0979	お前……なぜ？	You... why?	text
 feev25.0996	クラレンス	Clarence	speaker
-feev25.09AF	ん？{n}ああ、天使にだけは{n}渡すなって帝国の魔女に言われたからよ。		text
+feev25.09AF	ん？{n}ああ、天使にだけは{n}渡すなって帝国の魔女に言われたからよ。	Hm? Oh, 'cause the Empire's witch told me{n}never to hand it to an angel.	text
 feev25.0A42	クラレンス	Clarence	speaker
-feev25.0A5B	あんたら勇者の話も聞いたぜ。		text
+feev25.0A5B	あんたら勇者の話も聞いたぜ。	I heard about you heroes, too.	text
 feev25.0ACA	クラレンス	Clarence	speaker
-feev25.0AE3	いるんだろ？{n}天使様もよ。		text
+feev25.0AE3	いるんだろ？{n}天使様もよ。	The angel's here too, ain't they?	text

@@ -1,8 +1,8 @@
 id	jp	en	notes
-feev27c.0002	レイブンルフト戦（中ボス編）		dev label (guess: not shown)
+feev27c.0002	レイブンルフト戦（中ボス編）	Ravenruft Battle (Midboss)	dev label (guess: not shown)
 feev27c.00A2	フェイン	Fein	unit name (32-byte field)
 feev27c.00DE	ウィザード	Wizard	unit name (32-byte field)
 feev27c.04A8	レイブンルフト	Ravenruft	speaker
 feev27c.04C5	なかなかの力だ……。	Quite some power...	text
-feev27c.04F8	だが、私の力はこんなものではないぞ……。		text
+feev27c.04F8	だが、私の力はこんなものではないぞ……。	But this is not the extent of my power...	text
 feev27c.0553	ウォオオオオオオ！！！	Uwoooooooh!!!	text

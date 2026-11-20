@@ -1,26 +1,26 @@
 id	jp	en	notes
 feev17.0002	イオン	Ion	dev label (guess: not shown)
 feev17.00A2	フェイン	Fein	unit name (32-byte field)
-feev17.00DE	魔獣		unit name (32-byte field)
-feev17.011A	魔獣		unit name (32-byte field)
-feev17.0156	魔獣		unit name (32-byte field)
+feev17.00DE	魔獣	Magic Beast	unit name (32-byte field)
+feev17.011A	魔獣	Magic Beast	unit name (32-byte field)
+feev17.0156	魔獣	Magic Beast	unit name (32-byte field)
 feev17.0192	イオン	Ion	unit name (32-byte field)
 feev17.04D8	フェイン	Fein	speaker
-feev17.04EF	やめろ、なぜこんなことをする！		text
+feev17.04EF	やめろ、なぜこんなことをする！	Stop it! Why are you doing this?!	text
 feev17.051C	イオン	Ion	speaker
-feev17.0531	……邪魔するな。		text
+feev17.0531	……邪魔するな。	...Don't get in my way.	text
 feev17.0550	フェイン	Fein	speaker
 feev17.055B			speaker
-feev17.0567	もう、ばかなまねはやめるんだ。{n}まだ幼い君がなぜこんなことをする。		text
+feev17.0567	もう、ばかなまねはやめるんだ。{n}まだ幼い君がなぜこんなことをする。	Stop this foolishness. Why would a child{n}like you do something like this?	text
 feev17.05B8	イオン	Ion	speaker
-feev17.05CD	ぼくはお前になんか負けない……。		text
+feev17.05CD	ぼくはお前になんか負けない……。	I won't lose to the likes of you...	text
 feev17.0614	イオン	Ion	speaker
-feev17.0629	……邪魔するな。{n}お前……どこかで会ったな？		text
+feev17.0629	……邪魔するな。{n}お前……どこかで会ったな？	...Don't get in my way. You... have I met{n}you somewhere?	text
 feev17.0664	フェイン	Fein	speaker
-feev17.067B	聖母の森を襲ったのは、お前だな。		text
+feev17.067B	聖母の森を襲ったのは、お前だな。	You're the one who attacked the Forest of{n}the Holy Mother, aren't you?	text
 feev17.06AA	イオン	Ion	speaker
-feev17.06BF	フン……、だとしたらなんだ？{n}ぼくをやっつけるのかい？		text
+feev17.06BF	フン……、だとしたらなんだ？{n}ぼくをやっつけるのかい？	Hmph... so what if I did? Gonna beat me up?	text
 feev17.071C	イオン	Ion	speaker
 feev17.0731	ゾネ！　モーント！　スターン！{n}こいつをやっつけろ！	Sonne! Mond! Stern! Get her!	text
 feev17.07EC	フェイン	Fein	speaker
-feev17.0803	クッ！		text
+feev17.0803	クッ！	Ngh!	text

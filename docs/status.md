@@ -91,8 +91,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Mother EVX in English (`work/qa/p6d/clev13_zoom.png`; its "blank" verdict is a black arrival frame, the scene runs);
   `--event ceev16.ssb` lands on feev17's EVX (Fein, still JP: b081+). New `tools/termfind.py JP..` shows how a term
   was already translated. Glossary gained the MssReq places, fairy sexes (Aquila f, Cetus/Lepus m), Vastir, Ion.
-- **Next (phase 6):** continue at b079 (`batches.py todo`; clev17 continues, then eiev/feev/laev/loev/roev EVX
-  b079-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
+  2026-11-21 (12th worker): **b079-b082** done (Clive EVX clev17-clev30 incl. Dark Clive and the last battle, Irene
+  EVX eiev02-eiev30 incl. the Grand Lodge attack and Serenis's death, Fein EVX feev01-Feev31, Leyla laev02-laev05_0;
+  b082 ends at laev05_0.04F3). Build + check.py green; `warp.py --event eiev13_03.ssb --event Feev26.ssb` both OK
+  with English. Event names: `lkf.py list work/disc/tree/SSB_DATA.LKF` (EVX file names like eiev05e are not events).
+  `batches.py check` now fails EVX titles (.0002) over 30 bytes (evx.build asserts it). New names: レイジハー
+  Reijiher, グレザ Greza, ランド Rand (guild masters/mages, feev02-03); 帝国戦士 tag "Warrior".
+- **Next (phase 6):** continue at b083 (`batches.py todo`; laev/loev/roev EVX b083-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

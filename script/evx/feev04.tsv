@@ -1,28 +1,28 @@
 id	jp	en	notes
-feev04.0002	帝国とアルベリック		dev label (guess: not shown)
+feev04.0002	帝国とアルベリック	Empire and Alberic	dev label (guess: not shown)
 feev04.00A2	フェイン	Fein	unit name (32-byte field)
-feev04.00DE	盲目の魔道士		unit name (32-byte field)
-feev04.011A	死んだウォーロック		unit name (32-byte field)
-feev04.0156	死んだウォーロック		unit name (32-byte field)
-feev04.0192	死んだウォーロック		unit name (32-byte field)
-feev04.01CE	死んだウォーロック		unit name (32-byte field)
-feev04.020A	死んだウォーロック		unit name (32-byte field)
-feev04.0246	机		unit name (32-byte field)
+feev04.00DE	盲目の魔道士	Blind Mage	unit name (32-byte field)
+feev04.011A	死んだウォーロック	Dead Warlock	unit name (32-byte field)
+feev04.0156	死んだウォーロック	Dead Warlock	unit name (32-byte field)
+feev04.0192	死んだウォーロック	Dead Warlock	unit name (32-byte field)
+feev04.01CE	死んだウォーロック	Dead Warlock	unit name (32-byte field)
+feev04.020A	死んだウォーロック	Dead Warlock	unit name (32-byte field)
+feev04.0246	机	Desk	unit name (32-byte field)
 feev04.0282	椅子	Chair	unit name (32-byte field)
 feev04.02BE	椅子	Chair	unit name (32-byte field)
 feev04.06BC	フェイン	Fein	speaker
-feev04.06D3	クソ！！！{n}なんてことだ！！		text
-feev04.06FE	やつらめ……{n}グランドマスターは！？		text
+feev04.06D3	クソ！！！{n}なんてことだ！！	Damn it!!! How could this happen?!	text
+feev04.06FE	やつらめ……{n}グランドマスターは！？	Those bastards... the Grand Master?!	text
 feev04.0855	フェイン	Fein	speaker
-feev04.086C	マスター！！		text
+feev04.086C	マスター！！	Master!!	text
 feev04.0887	ライノール	Raynor	speaker
-feev04.08A0	フェイン……魔石を奪われた……{n}たった一人の帝国の騎士が……{n}皆を一瞬で葬った……		text
-feev04.0901	あの男、人が持ってはいかん\魔剣を……持っていた……。		text
-feev04.0945	フェイン……{n}魔石の伝説は本当だったようだ……。		text
-feev04.0984	……取り戻すのだ……{n}あの男から魔石を……。		text
+feev04.08A0	フェイン……魔石を奪われた……{n}たった一人の帝国の騎士が……{n}皆を一瞬で葬った……	Fein... the Demon Stone was taken... a{n}single imperial knight... buried everyone in{n}an instant...	text
+feev04.0901	あの男、人が持ってはいかん\魔剣を……持っていた……。	That man had a demon sword... one no human{n}should ever hold...	text
+feev04.0945	フェイン……{n}魔石の伝説は本当だったようだ……。	Fein... it seems the legend of the Demon{n}Stone was true...	text
+feev04.0984	……取り戻すのだ……{n}あの男から魔石を……。	...Take it back... the Demon Stone, from{n}that man...	text
 feev04.09BF	フェイン	Fein	speaker
-feev04.09D6	マスター！		text
+feev04.09D6	マスター！	Master!	text
 feev04.09EF	ライノール	Raynor	speaker
-feev04.0A08	予言を止めよ……。		text
+feev04.0A08	予言を止めよ……。	Stop the prophecy...	text
 feev04.0A45	フェイン	Fein	speaker
-feev04.0A5C	くっ……		text
+feev04.0A5C	くっ……	Ngh...	text

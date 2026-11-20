@@ -171,6 +171,8 @@ def check(b):
             errs.append(f"{i}: stray escape")
         if kind == "name" and len(plain) > 12:
             errs.append(f"{i}: name over 12 letters ({len(plain)})")
+        if i.endswith(".0002") and len(en.encode("ascii", "replace")) > 30:
+            errs.append(f"{i}: EVX title over 30 bytes ({len(en)})")   # evx.build asserts it
         if soft:
             w = int(kind[4:].split("x")[0])
             for word in re.split(r"[ ]|\{[^}]*\}", en):

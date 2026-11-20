@@ -1,32 +1,32 @@
 id	jp	en	notes
-feev02_02.0002	ギルド1-2		dev label (guess: not shown)
+feev02_02.0002	ギルド1-2	Guild 1-2	dev label (guess: not shown)
 feev02_02.00A2	フェイン	Fein	unit name (32-byte field)
 feev02_02.00DE	ウィザード	Wizard	unit name (32-byte field)
-feev02_02.011A	モブ１		unit name (32-byte field)
-feev02_02.0156	モブ２		unit name (32-byte field)
-feev02_02.04D8	レーアン		speaker
-feev02_02.04EF	フェインか……		text
+feev02_02.011A	モブ１	Mob 1	unit name (32-byte field)
+feev02_02.0156	モブ２	Mob 2	unit name (32-byte field)
+feev02_02.04D8	レーアン	Lehan	speaker
+feev02_02.04EF	フェインか……	Fein...	text
 feev02_02.050C	フェイン	Fein	speaker
-feev02_02.0523	マスター・レーアン。{n}お久しぶりです。		text
-feev02_02.0558	レーアン		speaker
-feev02_02.056F	どうした、本当に久しぶりだな。{n}島へ戻るのか？		text
+feev02_02.0523	マスター・レーアン。{n}お久しぶりです。	Master Lehan. It's been a long time.	text
+feev02_02.0558	レーアン	Lehan	speaker
+feev02_02.056F	どうした、本当に久しぶりだな。{n}島へ戻るのか？	What brings you here? It really has been a{n}long time. Are you going back to the island?	text
 feev02_02.05AC	フェイン	Fein	speaker
-feev02_02.05C3	いえ、まだ旅の途中です。		text
-feev02_02.05EA	レーアン		speaker
-feev02_02.0601	そうか……{n}島にはまだジグの末の孫娘が居るのだろう。{n}たまには帰ってやれ。		text
+feev02_02.05C3	いえ、まだ旅の途中です。	No, I'm still on my travels.	text
+feev02_02.05EA	レーアン	Lehan	speaker
+feev02_02.0601	そうか……{n}島にはまだジグの末の孫娘が居るのだろう。{n}たまには帰ってやれ。	I see... Zig's youngest granddaughter is{n}still on the island, isn't she? Go home to{n}her once in a while.	text
 feev02_02.065A	フェイン	Fein	speaker
-feev02_02.0671	ええ、そうします。		text
-feev02_02.0692	レーアン		speaker
-feev02_02.06A9	どうも最近、帝国周辺が騒がしい……{n}ギルドマスターのなかには大厄災を{n}予言するものもいる。		text
-feev02_02.0712	なにがあるかわからん時代だ。{n}帰れる場所があるのだったら戻れるときに{n}戻っておけ。		text
+feev02_02.0671	ええ、そうします。	Yes, I will.	text
+feev02_02.0692	レーアン	Lehan	speaker
+feev02_02.06A9	どうも最近、帝国周辺が騒がしい……{n}ギルドマスターのなかには大厄災を{n}予言するものもいる。	Things have been restless around the Empire{n}lately... Some Guild Masters even foretell a{n}great calamity.	text
+feev02_02.0712	なにがあるかわからん時代だ。{n}帰れる場所があるのだったら戻れるときに{n}戻っておけ。	There's no knowing what will happen these{n}days. If you have a place to return to, go{n}back while you can.	text
 feev02_02.0773	フェイン	Fein	speaker
-feev02_02.078A	……はい。		text
-feev02_02.07A3	レーアン		speaker
-feev02_02.07BA	フハハ、説教くさくなったな。{n}だが、元気なお前の姿を見られて良かった。		text
-feev02_02.080F	また寄ってくれ。{n}今度はゆっくり旅の話でも聞かせてもらおう。		text
+feev02_02.078A	……はい。	...Yes.	text
+feev02_02.07A3	レーアン	Lehan	speaker
+feev02_02.07BA	フハハ、説教くさくなったな。{n}だが、元気なお前の姿を見られて良かった。	Hahaha, I've started preaching. But I'm glad{n}to see you looking well.	text
+feev02_02.080F	また寄ってくれ。{n}今度はゆっくり旅の話でも聞かせてもらおう。	Come by again. Next time, I'd like to hear{n}all about your travels.	text
 feev02_02.0862	フェイン	Fein	speaker
-feev02_02.0879	はい、マスター・レーアン。{n}それでは、失礼します。		text
-feev02_02.08BA	レーアン		speaker
-feev02_02.08D1	ああ、フェイン。{n}バーゼルのグランド・マスターにも{n}たまには会いに行くのだぞ。		text
+feev02_02.0879	はい、マスター・レーアン。{n}それでは、失礼します。	Yes, Master Lehan. Well then, I'll take my{n}leave.	text
+feev02_02.08BA	レーアン	Lehan	speaker
+feev02_02.08D1	ああ、フェイン。{n}バーゼルのグランド・マスターにも{n}たまには会いに行くのだぞ。	Oh, Fein. Do go and see the Grand Master in{n}Basel once in a while.	text
 feev02_02.092E	フェイン	Fein	speaker
-feev02_02.0945	はい、わかりました。		text
+feev02_02.0945	はい、わかりました。	Yes, I will.	text

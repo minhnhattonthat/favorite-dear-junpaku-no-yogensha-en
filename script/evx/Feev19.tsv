@@ -8,21 +8,21 @@ Feev19.0192	魔石（初期）	Demon Stone (start)	unit name (32-byte field)
 Feev19.01CE	魔石（点滅）	Demon Stone (blink)	unit name (32-byte field)
 Feev19.020A	魔石（赤）	Demon Stone (red)	unit name (32-byte field)
 Feev19.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
-Feev19.0282	光りの柱		unit name (32-byte field)
+Feev19.0282	光りの柱	Pillar of Light	unit name (32-byte field)
 Feev19.04E8	セレニス	Serenis	speaker
-Feev19.04FF	……フェインか。		text
+Feev19.04FF	……フェインか。	...Fein.	text
 Feev19.052E	フェイン	Fein	speaker
-Feev19.0545	セレニス……やっと会えたな。		text
+Feev19.0545	セレニス……やっと会えたな。	Serenis... we meet at last.	text
 Feev19.0580	セレニス	Serenis	speaker
-Feev19.0597	ふん……まだ死んでいなかったのね。		text
+Feev19.0597	ふん……まだ死んでいなかったのね。	Hmph... so you're not dead yet.	text
 Feev19.05D8	フェイン	Fein	speaker
-Feev19.05EF	……君を俺は止めなければならない。		text
+Feev19.05EF	……君を俺は止めなければならない。	...I have to stop you.	text
 Feev19.0630	セレニス	Serenis	speaker
-Feev19.0647	ハハハ、止める？{n}お前にそんなことはさせないわ。		text
+Feev19.0647	ハハハ、止める？{n}お前にそんなことはさせないわ。	Hahaha, stop me? I won't let you do any such{n}thing.	text
 Feev19.0696	フェイン	Fein	speaker
-Feev19.06AD	セレニス！		text
+Feev19.06AD	セレニス！	Serenis!	text
 Feev19.074A	セレニス	Serenis	speaker
-Feev19.0761	そこでじっとしていなさい、フェイン。		text
+Feev19.0761	そこでじっとしていなさい、フェイン。	Stay right there and keep still, Fein.	text
 Feev19.07A4	偉大な力がよみがえるのを見せてあげるわ。	I'll show you a great power reborn.	text
 Feev19.07FF	皇帝、魔石に最後の魂を捧ぐ時がきました。	Emperor, the time has come to offer the last{n}soul to the Demon Stones.	text
 Feev19.0846	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。	Just as in the legend, you will become the{n}Heavenly Dragon and give the world a new{n}birth.	text

@@ -3,6 +3,6 @@ eiev05b1.0002	1		dev label (guess: not shown)
 eiev05b1.00A2	アイリーン	Irene	unit name (32-byte field)
 eiev05b1.00DE	アルベリック	Alberic	unit name (32-byte field)
 eiev05b1.04C0	帝国騎士	Knight	speaker
-eiev05b1.04D7	……飽きたな。		text
-eiev05b1.04F4	もう私の剣も血を吸いすぎた……。{n}小娘とじゃれ合うのもここらでやめだ。		text
-eiev05b1.0549	また今度、剣の餌食にしてやろう。{n}小さな魔女さん。		text
+eiev05b1.04D7	……飽きたな。	...I grow bored.	text
+eiev05b1.04F4	もう私の剣も血を吸いすぎた……。{n}小娘とじゃれ合うのもここらでやめだ。	My sword has drunk too much blood already...{n}Enough playing with a little girl.	text
+eiev05b1.0549	また今度、剣の餌食にしてやろう。{n}小さな魔女さん。	Another time, I'll make you my sword's prey,{n}little witch.	text

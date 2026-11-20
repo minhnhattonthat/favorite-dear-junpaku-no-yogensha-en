@@ -1,33 +1,33 @@
 id	jp	en	notes
 eiev05.0002	帝国侵攻	Imperial Invasion	dev label (guess: not shown)
 eiev05.00A2	アイリーン	Irene	unit name (32-byte field)
-eiev05.00DE	盲目の魔道士		unit name (32-byte field)
+eiev05.00DE	盲目の魔道士	Blind Mage	unit name (32-byte field)
 eiev05.011A	アルベリック	Alberic	unit name (32-byte field)
-eiev05.0156	帝國戦士		unit name (32-byte field)
-eiev05.0192	帝國戦士		unit name (32-byte field)
-eiev05.01CE	帝國戦士		unit name (32-byte field)
-eiev05.020A	帝國戦士		unit name (32-byte field)
+eiev05.0156	帝國戦士	Imperial Warrior	unit name (32-byte field)
+eiev05.0192	帝國戦士	Imperial Warrior	unit name (32-byte field)
+eiev05.01CE	帝國戦士	Imperial Warrior	unit name (32-byte field)
+eiev05.020A	帝國戦士	Imperial Warrior	unit name (32-byte field)
 eiev05.04D8	アイリーン	Irene	speaker
-eiev05.04F1	グランドマスター！		text
+eiev05.04F1	グランドマスター！	Grand Master!	text
 eiev05.0532	帝国騎士	Knight	speaker
-eiev05.0549	……子供？		text
+eiev05.0549	……子供？	...A child?	text
 eiev05.0562	アイリーン	Irene	speaker
-eiev05.057B	あんたがやったの？		text
+eiev05.057B	あんたがやったの？	Did you do this?	text
 eiev05.05EC	帝国騎士	Knight	speaker
-eiev05.0603	だとしたら何だね。お嬢さん。		text
+eiev05.0603	だとしたら何だね。お嬢さん。	And if I did, what of it, young lady?	text
 eiev05.062E	アイリーン	Irene	speaker
-eiev05.0647	ひどい……許せない！		text
+eiev05.0647	ひどい……許せない！	That's horrible... I won't forgive you!	text
 eiev05.066A	帝国騎士	Knight	speaker
-eiev05.0681	フフフ、汚れた魔導士どもがこの世界から{n}数匹消えたぐらいで、逆上するようなことでは{n}あるまい。		text
+eiev05.0681	フフフ、汚れた魔導士どもがこの世界から{n}数匹消えたぐらいで、逆上するようなことでは{n}あるまい。	Hehehe. A few filthy mages vanishing from{n}this world is hardly anything to fly into a{n}rage over.	text
 eiev05.06EE	アイリーン	Irene	speaker
-eiev05.0707	その人から離れなさい！		text
+eiev05.0707	その人から離れなさい！	Get away from him!	text
 eiev05.072C	帝国騎士	Knight	speaker
-eiev05.0743	ずいぶんな迫力だ。{n}こんな老いぼれ魔導士の命がそんなに大事か？		text
+eiev05.0743	ずいぶんな迫力だ。{n}こんな老いぼれ魔導士の命がそんなに大事か？	Such fire. Does this doddering old mage's{n}life matter so much to you?	text
 eiev05.0790	アイリーン	Irene	speaker
-eiev05.07A9	なんてやつ……{n}いい加減にしないと、本当に許さないから……！！		text
+eiev05.07A9	なんてやつ……{n}いい加減にしないと、本当に許さないから……！！	You monster... If you don't stop this, I{n}really won't forgive you...!!	text
 eiev05.07F6	帝国騎士	Knight	speaker
-eiev05.080D	ふん……{n}子供相手に私がこの剣を振るってもしかたあるまい。		text
-eiev05.0856	また私の前に現れることがあれば、{n}そのときは、お相手しよう、お嬢さん。		text
-eiev05.08AB	あとは、お前たちに任せたぞ。		text
-eiev05.0992	帝国戦士		speaker
-eiev05.09A9	はっ！		text
+eiev05.080D	ふん……{n}子供相手に私がこの剣を振るってもしかたあるまい。	Hmph... there's no point swinging this sword{n}of mine at a child.	text
+eiev05.0856	また私の前に現れることがあれば、{n}そのときは、お相手しよう、お嬢さん。	Should you ever appear before me again, I{n}will take you on then, young lady.	text
+eiev05.08AB	あとは、お前たちに任せたぞ。	I leave the rest to you.	text
+eiev05.0992	帝国戦士	Warrior	speaker
+eiev05.09A9	はっ！	Sir!	text

@@ -1,38 +1,38 @@
 id	jp	en	notes
-feev18_02c.0002	アイリーン（二回目接触・男天使		dev label (guess: not shown)
+feev18_02c.0002	アイリーン（二回目接触・男天使	Irene (2nd Meeting, Male Angel	dev label (guess: not shown)
 feev18_02c.00A2	フェイン	Fein	unit name (32-byte field)
 feev18_02c.00DE	アイリーン	Irene	unit name (32-byte field)
 feev18_02c.04C4	アイリーン	Irene	speaker
 feev18_02c.0531	アイリーン	Irene	speaker
-feev18_02c.054A	元気、フェイン。		text
+feev18_02c.054A	元気、フェイン。	Hey, Fein.	text
 feev18_02c.05F1	フェイン	Fein	speaker
-feev18_02c.0608	アイリーンか。旅には慣れたか？		text
+feev18_02c.0608	アイリーンか。旅には慣れたか？	Irene. Getting used to traveling?	text
 feev18_02c.0635	アイリーン	Irene	speaker
-feev18_02c.064E	うん。まあね。		text
+feev18_02c.064E	うん。まあね。	Yeah. Sort of.	text
 feev18_02c.066B	フェイン	Fein	speaker
-feev18_02c.0682	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。		text
+feev18_02c.0682	たまに＄＄＄＄＄＄に様子を聞いている。{n}よくやっているらしいな。	I ask ＄＄＄＄＄＄ how you're doing now and{n}then. I hear you're doing well.	text
 feev18_02c.06D1	アイリーン	Irene	speaker
-feev18_02c.06EA	え、ほんと？		text
+feev18_02c.06EA	え、ほんと？	Huh, really?	text
 feev18_02c.0705	フェイン	Fein	speaker
-feev18_02c.071C	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。		text
+feev18_02c.071C	まあ、口では文句を言うが責任感をもって{n}よくやってくれていると話してたぞ。	Well, I'm told you grumble, but you take{n}responsibility and do a fine job.	text
 feev18_02c.0775	アイリーン	Irene	speaker
-feev18_02c.078E	ふうん、そんな風に言ってるんだ。{n}＄＄＄＄＄＄は真面目だからね、{n}なんかこっちもしっかりやらなきゃって思うの。		text
+feev18_02c.078E	ふうん、そんな風に言ってるんだ。{n}＄＄＄＄＄＄は真面目だからね、{n}なんかこっちもしっかりやらなきゃって思うの。	Hmm, so that's what ＄＄＄＄＄＄ says.{n}＄＄＄＄＄＄ is so earnest, it makes me feel{n}I have to do my best too.	text
 feev18_02c.080B	フェイン	Fein	speaker
-feev18_02c.0822	にしては、ずいぶん{n}きついことを言ってるみたいじゃないか。		text
+feev18_02c.0822	にしては、ずいぶん{n}きついことを言ってるみたいじゃないか。	For all that, it sounds like you say some{n}pretty harsh things.	text
 feev18_02c.086B	アイリーン	Irene	speaker
-feev18_02c.0884	そう、あれぐらい普通じゃない？		text
+feev18_02c.0884	そう、あれぐらい普通じゃない？	Really? Isn't that normal?	text
 feev18_02c.08B1	フェイン	Fein	speaker
-feev18_02c.08C8	まあ、あんまり＄＄＄＄＄＄を{n}困らせるようなことを言うなよ。		text
+feev18_02c.08C8	まあ、あんまり＄＄＄＄＄＄を{n}困らせるようなことを言うなよ。	Well, don't go saying things that give{n}＄＄＄＄＄＄ too much trouble.	text
 feev18_02c.0913	アイリーン	Irene	speaker
 feev18_02c.092C	うん。	Okay.	text
 feev18_02c.0941	フェイン	Fein	speaker
-feev18_02c.0958	……セレニスのことでなにか{n}わかったことはあるか？		text
+feev18_02c.0958	……セレニスのことでなにか{n}わかったことはあるか？	...Have you found out anything about{n}Serenis?	text
 feev18_02c.0999	アイリーン	Irene	speaker
-feev18_02c.09B2	ううん。まだ何にも……。		text
+feev18_02c.09B2	ううん。まだ何にも……。	No. Nothing yet...	text
 feev18_02c.09D9	フェイン	Fein	speaker
 feev18_02c.09F0	そうか……。	I see...	text
 feev18_02c.0A0B	アイリーン	Irene	speaker
-feev18_02c.0A24	でも、きっとなにか{n}手がかりを見つけられるはず……		text
-feev18_02c.0A65	必ず見つけられる……{n}そう思ってるよ、フェイン。		text
+feev18_02c.0A24	でも、きっとなにか{n}手がかりを見つけられるはず……	But I'm sure we'll find some clue...	text
+feev18_02c.0A65	必ず見つけられる……{n}そう思ってるよ、フェイン。	We'll find her for sure... That's what I{n}believe, Fein.	text
 feev18_02c.0AA4	フェイン	Fein	speaker
-feev18_02c.0ABB	……ああ、そうだな。		text
+feev18_02c.0ABB	……ああ、そうだな。	...Yes, you're right.	text

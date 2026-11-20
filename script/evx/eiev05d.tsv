@@ -1,28 +1,28 @@
 id	jp	en	notes
 eiev05d.0002	1		dev label (guess: not shown)
 eiev05d.00A2	アイリーン	Irene	unit name (32-byte field)
-eiev05d.00DE	盲目の魔道士		unit name (32-byte field)
+eiev05d.00DE	盲目の魔道士	Blind Mage	unit name (32-byte field)
 eiev05d.0498	アイリーン	Irene	speaker
-eiev05d.04B1	グランドマスター！		text
+eiev05d.04B1	グランドマスター！	Grand Master!	text
 eiev05d.04D2	マスター	Master	speaker
-eiev05d.04E9	誰だ？		text
+eiev05d.04E9	誰だ？	Who is it?	text
 eiev05d.04FE	アイリーン	Irene	speaker
-eiev05d.0517	アイリーンです。		text
+eiev05d.0517	アイリーンです。	It's Irene.	text
 eiev05d.0536	マスター	Master	speaker
-eiev05d.054D	おお……アイリーン……		text
+eiev05d.054D	おお……アイリーン……	Oh... Irene...	text
 eiev05d.0572	アイリーン	Irene	speaker
-eiev05d.058B	大丈夫ですか……？		text
+eiev05d.058B	大丈夫ですか……？	Are you all right...?	text
 eiev05d.05D4	マスター	Master	speaker
-eiev05d.05EB	ああ……{n}やつはとどめを刺し忘れていったようだ……。		text
-eiev05d.062E	しかし、魔石は奪われてしまった。		text
+eiev05d.05EB	ああ……{n}やつはとどめを刺し忘れていったようだ……。	Yes... it seems he forgot to finish me{n}off...	text
+eiev05d.062E	しかし、魔石は奪われてしまった。	But the Demon Stone has been taken.	text
 eiev05d.065D	アイリーン	Irene	speaker
-eiev05d.0676	魔石？{n}デルフィニアの魔石ですか？		text
+eiev05d.0676	魔石？{n}デルフィニアの魔石ですか？	The Demon Stone? The one from Delphinia?	text
 eiev05d.06A7	マスター	Master	speaker
-eiev05d.06BE	そうだ……そう伝わっている石だ。		text
-eiev05d.06ED	不吉な予言があって石をここで守っていたのだが……		text
-eiev05d.072C	くっ……		text
+eiev05d.06BE	そうだ……そう伝わっている石だ。	Yes... that is what the stone is said to be.	text
+eiev05d.06ED	不吉な予言があって石をここで守っていたのだが……	There was an ill-omened prophecy, so we{n}guarded the stone here...	text
+eiev05d.072C	くっ……	Ngh...	text
 eiev05d.0743	アイリーン	Irene	speaker
-eiev05d.075C	マスター、ここは危険です、{n}帝国の兵がまた戻ってくるかもしれません。		text
-eiev05d.07AF	街を出ましょう。		text
+eiev05d.075C	マスター、ここは危険です、{n}帝国の兵がまた戻ってくるかもしれません。	Master, it's dangerous here. The imperial{n}soldiers may come back.	text
+eiev05d.07AF	街を出ましょう。	Let's leave the town.	text
 eiev05d.07CE	マスター	Master	speaker
-eiev05d.07E5	ああ……わかった。		text
+eiev05d.07E5	ああ……わかった。	Yes... very well.	text

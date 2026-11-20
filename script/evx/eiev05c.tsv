@@ -1,20 +1,20 @@
 id	jp	en	notes
 eiev05c.0002	1		dev label (guess: not shown)
 eiev05c.00A2	アイリーン	Irene	unit name (32-byte field)
-eiev05c.00DE	盲目の魔道士		unit name (32-byte field)
+eiev05c.00DE	盲目の魔道士	Blind Mage	unit name (32-byte field)
 eiev05c.04E4	アイリーン	Irene	speaker
-eiev05c.04FD	マスター！		text
+eiev05c.04FD	マスター！	Master!	text
 eiev05c.0516	マスター	Master	speaker
-eiev05c.052D	誰だ？		text
+eiev05c.052D	誰だ？	Who is it?	text
 eiev05c.0542	アイリーン	Irene	speaker
-eiev05c.055B	ジグの孫です……アイリーンといいます		text
-eiev05c.058E	ギルドマスター		speaker
-eiev05c.05AB	おお、そうか……		text
-eiev05c.05CA	だが、このロッジも{n}とうとう帝国にやられてしまった……{n}帝国はここから魔石を奪っていったのだ……		text
+eiev05c.055B	ジグの孫です……アイリーンといいます	I'm Zig's granddaughter... My name is Irene.	text
+eiev05c.058E	ギルドマスター	Guild Master	speaker
+eiev05c.05AB	おお、そうか……	Oh, I see...	text
+eiev05c.05CA	だが、このロッジも{n}とうとう帝国にやられてしまった……{n}帝国はここから魔石を奪っていったのだ……	But this lodge, too, has finally fallen to{n}the Empire... The Empire took the Demon{n}Stone from here...	text
 eiev05c.0639	アイリーン	Irene	speaker
-eiev05c.0652	魔石を……！？		text
+eiev05c.0652	魔石を……！？	The Demon Stone...?!	text
 eiev05c.066F	マスター	Master	speaker
-eiev05c.0686	アイリーン……{n}ジグの忘れ形見の君に頼みたい……		text
-eiev05c.06C5	ギルドと魔導士の未来を守ってくれ……{n}頼む……		text
+eiev05c.0686	アイリーン……{n}ジグの忘れ形見の君に頼みたい……	Irene... I must ask this of you, the child{n}Zig left behind...	text
+eiev05c.06C5	ギルドと魔導士の未来を守ってくれ……{n}頼む……	Protect the future of the Guild and its{n}mages... I beg you...	text
 eiev05c.0702	アイリーン	Irene	speaker
-eiev05c.071B	グランドマスター！		text
+eiev05c.071B	グランドマスター！	Grand Master!	text

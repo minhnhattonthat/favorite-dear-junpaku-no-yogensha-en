@@ -3,31 +3,31 @@ feev18_01.0002	アイリーン	Irene	dev label (guess: not shown)
 feev18_01.00A2	フェイン	Fein	unit name (32-byte field)
 feev18_01.00DE	アイリーン	Irene	unit name (32-byte field)
 feev18_01.051C	フェイン	Fein	speaker
-feev18_01.0533	アイリーン？		text
+feev18_01.0533	アイリーン？	Irene?	text
 feev18_01.055E	アイリーン	Irene	speaker
-feev18_01.0577	あ、{n}フェイン……。ひさしぶり……。		text
+feev18_01.0577	あ、{n}フェイン……。ひさしぶり……。	Oh, Fein... Long time no see...	text
 feev18_01.064E	フェイン	Fein	speaker
-feev18_01.0665	塔にいたんじゃないのか？		text
+feev18_01.0665	塔にいたんじゃないのか？	Weren't you at the tower?	text
 feev18_01.069C	アイリーン	Irene	speaker
-feev18_01.06B5	うん……でも{n}天使がやってきて勇者になれっていうからさ……。		text
-feev18_01.0710	塔を出たの……。		text
+feev18_01.06B5	うん……でも{n}天使がやってきて勇者になれっていうからさ……。	Yeah... but an angel showed up and told me{n}to be a hero, so...	text
+feev18_01.0710	塔を出たの……。	I left the tower...	text
 feev18_01.073F	フェイン	Fein	speaker
 feev18_01.0756	そうか……。	I see...	text
-feev18_01.0781	アイリーンでも、その格好……。		text
+feev18_01.0781	アイリーンでも、その格好……。	Irene, but that outfit...	text
 feev18_01.080E	アイリーン	Irene	speaker
-feev18_01.0827	ハハ、き、気にしないで。{n}コレ、魔法が失敗しちゃっただけだから……。		text
+feev18_01.0827	ハハ、き、気にしないで。{n}コレ、魔法が失敗しちゃっただけだから……。	Haha, d-don't worry about it. This is just a{n}spell that went wrong...	text
 feev18_01.087A	フェイン	Fein	speaker
 feev18_01.0891	…………。	.....	text
-feev18_01.08BA	すまなかったな。なかなか、戻れなくて。		text
+feev18_01.08BA	すまなかったな。なかなか、戻れなくて。	I'm sorry. I just couldn't find the time to{n}come back.	text
 feev18_01.094F	アイリーン	Irene	speaker
-feev18_01.0968	ううん、いいの。		text
-feev18_01.0997	姉さん、{n}まだみつかってないんでしょう……。		text
+feev18_01.0968	ううん、いいの。	No, it's fine.	text
+feev18_01.0997	姉さん、{n}まだみつかってないんでしょう……。	You still haven't found my sister, have{n}you...	text
 feev18_01.09E2	フェイン	Fein	speaker
 feev18_01.09F9	ああ……。	Yeah...	text
-feev18_01.0A22	だが……俺は彼女を必ず見つける。{n}まだあきらめてはいない。		text
+feev18_01.0A22	だが……俺は彼女を必ず見つける。{n}まだあきらめてはいない。	But... I'll find her, I swear. I haven't{n}given up yet.	text
 feev18_01.0A7B	アイリーン	Irene	speaker
-feev18_01.0A94	うん……。		text
-feev18_01.0ABD	私も、塔を出たんだから協力する……。		text
-feev18_01.0B00	一緒にさがしましょう。		text
+feev18_01.0A94	うん……。	Yeah...	text
+feev18_01.0ABD	私も、塔を出たんだから協力する……。	I left the tower, so I'll help too...	text
+feev18_01.0B00	一緒にさがしましょう。	Let's look for her together.	text
 feev18_01.0B35	フェイン	Fein	speaker
-feev18_01.0B4C	すまない……アイリーン。		text
+feev18_01.0B4C	すまない……アイリーン。	Thank you... Irene.	text
