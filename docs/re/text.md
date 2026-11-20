@@ -174,6 +174,17 @@ one report shown). Battle lines: EXE code called from 0x80040A44 walks the BTL_E
 (swap a0/a1 for the next unshown entry, written into scratch RAM) needs scenes that start many MSG boxes (visit
 conversations, heaven chats, fairy reports) or a way to re-enter a caller after its box closes.
 
+**Box step and forced chaining (verified, phase 8, `tools/debug/msgforce.lua`).** EXE 0x8002DFE4 is the per-frame
+box step (box object = [0x800857D8]: text ptr +0x4AC, length +0x4B0, cursor +0x4B2). It copies up to 0x30 bytes
+per call until a `\` escape, handles `\k` 0x8002E898 (wait key), `\c` 0x8002E8DC (clear page, returns 1 at once),
+`\l` 0x8002E878, `\n` 0x8002E838, and at cursor >= length (0x8002E030) returns 1 (box done) unless 0x8003ABDC
+says to wait. Chaining: at 0x8002E030 set text/length, cursor 0xFFFE and s1 = text - 2, then pc = 0x8002E0E8 (the
+`\c` call): its return path adds 2 to both, so the next entry starts on a clean page. A battle (warp scene
+`battle`) then shows any bank's entries one after another: 205 entries in ~7500 frames. **EVX dialogue uses the same
+box**: rfd2 0x800D4414 copies each EVX message to 0x80189B90 and calls 0x8002E6C0 (laev10 run, `work/qa/p8/evxprobe`).
+EVX unit names (32-byte fields) and the dev-label title are never read in battle (read watch over every loaded EVX):
+waived by `tools/unshown.py`.
+
 ## Extraction (phase 4; `tools/extract.py`, tests in `tests/test_text.py`)
 
 `script/` TSVs, columns `id jp en notes`; ids = `<file stem>.<hex offset of the text in the original file>` (ssb rows:

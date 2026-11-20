@@ -70,3 +70,23 @@ choice_menx	event	menX_Ce01.ssb		hold	13000		30 -;6 circle;120 -;6 circle;120 -	
 stress_kana	title			hold	19000	work/saves/stress_kana.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save (tools/stress.py): 6-katakana angel name, 99:59:59, 9999 days; title load list, loaded heaven, Data -> Save list (after a load the heaven menu ignores up/down: circle opens Data)
 stress_wide	title			hold	19000	work/saves/stress_wide.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save: angel named WWWWWW; same route
 stress_short	title			hold	19000	work/saves/stress_short.mcd	6 down;45 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;6 circle;900 -;3500 -;6 circle;600 -;12 down;90 -;12 down;90 -;6 circle;900 -		stress save: 1-letter angel name A, play time 0, day 1; same route
+end_ceed1	swap	feed3.end=ceed1.end@80189B90	ceed01.ssb	mash	20000				Cecia ending event with narration ceed1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_ceed2	swap	feed3.end=ceed2.end@80189B90	ceed01.ssb	mash	20000				Cecia ending event with narration ceed2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_ceed3	swap	feed3.end=ceed3.end@80189B90	ceed01.ssb	mash	20000				Cecia ending event with narration ceed3.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_cled1	swap	feed3.end=cled1.end@80189B90	cled01.ssb	mash	20000				Clive ending event with narration cled1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_cled2	swap	feed3.end=cled2.end@80189B90	cled01.ssb	mash	20000				Clive ending event with narration cled2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_cled3	swap	feed3.end=cled3.end@80189B90	cled01.ssb	mash	20000				Clive ending event with narration cled3.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_eied1	swap	feed3.end=eied1.end@80189B90	eied01.ssb	mash	20000				Irene ending event with narration eied1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_eied2	swap	feed3.end=eied2.end@80189B90	eied01.ssb	mash	20000				Irene ending event with narration eied2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_eied3	swap	feed3.end=eied3.end@80189B90	eied01.ssb	mash	20000				Irene ending event with narration eied3.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_feed1	swap	feed3.end=feed1.end@80189B90	Feed01.ssb	mash	20000				Fein ending event with narration feed1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_feed2	swap	feed3.end=feed2.end@80189B90	Feed01.ssb	mash	20000				Fein ending event with narration feed2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_laed1	swap	feed3.end=laed1.end@80189B90	laed01.ssb	mash	20000				Leyla ending event with narration laed1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_laed2	swap	feed3.end=laed2.end@80189B90	laed01.ssb	mash	20000				Leyla ending event with narration laed2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_laed3	swap	feed3.end=laed3.end@80189B90	laed01.ssb	mash	20000				Leyla ending event with narration laed3.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_loed1	swap	feed3.end=loed1.end@80189B90	loed01.ssb	mash	20000				Rudiere ending event with narration loed1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_loed2	swap	feed3.end=loed2.end@80189B90	loed01.ssb	mash	20000				Rudiere ending event with narration loed2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_loed3	swap	feed3.end=loed3.end@80189B90	loed01.ssb	mash	20000				Rudiere ending event with narration loed3.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_roed1	swap	feed3.end=roed1.end@80189B90	roed01.ssb	mash	20000				Rocus ending event with narration roed1.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_roed2	swap	feed3.end=roed2.end@80189B90	roed01.ssb	mash	20000				Rocus ending event with narration roed2.end in place of feed3.end (the one a fresh warp loads): every .end variant
+end_roed3	swap	feed3.end=roed3.end@80189B90	roed01.ssb	mash	20000				Rocus ending event with narration roed3.end in place of feed3.end (the one a fresh warp loads): every .end variant

@@ -373,6 +373,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Battle.bin callers). Display is asynchronous (a jump-back loop over the index showed one report), and ssb events
   never call 0x8002E6C0, so events can't carry forced entries (`docs/re/text.md`). Getting 15130 MSG rows needs
   either a force hook at 0x8002E6C0 driven by scenes that open many boxes, or waivers (see Waiting on the user).
+- **Phase 8 progress (2026-11-21, 29th worker): text coverage by forcing.** Coverage runs are on the ORIGINAL disc
+  (row ids = original offsets). New tools (all resumable, one folder per run, `docs/re/text.md` / `events.md`):
+  - `tools/msgforce.py` + `tools/debug/msgforce.lua`: in the `battle` warp scene, at the MSG box's end-of-text
+    branch (EXE 0x8002E030) the box is pointed at the next entry (cursor 0xFFFE, jump to the `\c` call 0x8002E0E8),
+    after the bank's original bytes are put at 0x80010000 and logged as a FILE load. ~37 frames per entry; groups of
+    ~1200 entries per run. `--evx`: EVX message items (the battle shows them in the same box via rfd2 0x800D4414).
+    `--ovl`: the overlay strings still missing (rfd2 prompts/labels, pro quiz answers, ed prompt) as slices.
+  - `tools/ssbforce.py` + `tools/debug/ssbforce.lua`: the ssb VM (ctx 0x80080DD8, offset +0x19C) is moved to the
+    next missing row whenever the event would end (`00 74`/`00 FF`) or loops; replaces the plain event runs
+    (`tools/debug/cover_run.py` kept for plain runs). Forced events reach 100% of their rows (ceev01-10).
+  - `tools/unshown.py DIRS`: writes `docs/text_unshown.tsv` from rules it re-checks on the logs: EVX unit names
+    (1018) and dev labels (180) never read in battle, op.bin OMAKE caption table 0x800A654C-0x800A6EAC (356 rows: no
+    reference to the table, no read in the OMAKE album/CG runs `work/qa/p8/captab`, so the phase 7 "find the
+    caption screen" item is closed: there is none), Dummy00.DAT (35, never loaded).
+  - scenes.tsv: 20 `end_<x>ed<n>` swap scenes (each ending event with feed3.end, the one a fresh warp loads,
+    swapped for the other 20 `.end` narrations).
+  Runs in flight when this entry was written: msgforce `--all --group 1200` (work/qa/msgforce), ssbforce
+  (work/qa/ssbforce, -j 2, 271 events, ~3 min each), the 48 unlogged scenes (work/qa/cover_scenes). Still to run:
+  the 20 end_* scenes with textcover.lua, `msgforce.py --ovl`, `msgforce.py --evx` (with the ssbforce dirs as
+  --have), an ssbforce second pass (new --out-dir, `--base 30000`) for events that go into a battle (ceev06), then
+  `unshown.py` and `textcover.py` over every dir.
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on

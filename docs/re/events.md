@@ -25,6 +25,12 @@
 | 0xff | 0 | end of script |
 | others | | 0x14 0x16 0x1c 0x1e 0x22 0x23 0x28 0x3c 0x3d 0x50-0x52 0x56 0x57 0x72 0x74 |
 
+**VM (verified, phase 8, `tools/debug/ssbforce.lua`):** rfd2 0x800C2980(ctx) runs one step; the event context is
+0x80080DD8: +0x194 script base (0x801A4BB0), +0x198 end, +0x19C offset of the next token (= file offset; the
+first fetch is 0x10). Text bytes are fetched at 0x800C29CC/29D0 (up to 0x40 per step), op args at 0x800C2914.
+Writing +0x19C at the step entry (0x800C29A4) moves the script. 322 of 346 files end `00 74 00 FF`: op 0x74 (no
+args) ends the event, so the VM never fetches the 0xFF; the other 24 end `.. 00 FF` after a wait (0x0a) or 0x14.
+
 **Scripts are not linear**: the jump ops above take absolute offsets, so text can't grow without fixups.
 `ssb.build()` re-points every jump (`tests/test_text.py::test_ssb_grow_keeps_jumps` grows every row and checks that
 each jump still lands on the same token). 22 jumps land in the middle of a text line; extraction cuts the row there,

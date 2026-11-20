@@ -24,6 +24,30 @@ def evx_rows(kind):
                     yield tsv.stem, f"evx/{r['id']}"
 
 
+OVL_BASE = 0x8009B4B0
+CAPTIONS = (0x800A654C, 0x800A6EAC)  # op.bin OMAKE CG caption pointer table (place, title, caption per CG)
+
+
+def ovl_rows(name):
+    with open(ROOT / "script" / "ovl" / f"{name}.tsv", encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE))
+
+
+def caption_rows():
+    """op.bin rows whose every reference is a u32 pointer inside the caption table (and no lui pair)."""
+    import struct
+    data = (ROOT / "work" / "orig_ovl" / "op.bin").read_bytes()
+    sites = {}
+    for o in range(0, len(data) - 3, 4):
+        v = struct.unpack_from("<I", data, o)[0]
+        sites.setdefault(v, []).append(OVL_BASE + o)
+    for r in ovl_rows("op"):
+        va = int(r["id"].split(".")[1], 16)
+        s = sites.get(va, [])
+        if s and "lui" not in r["notes"] and all(CAPTIONS[0] <= a < CAPTIONS[1] for a in s):
+            yield f"ovl/{r['id']}"
+
+
 def main():
     dirs = sys.argv[1:]
     if not dirs:
@@ -46,6 +70,22 @@ def main():
         bad += read
         print(f"{kind}: {len(keys)} rows, {n_loaded} in EVX files some run loaded, {len(read)} read")
         out += [f"{k}\t{why}" for _, k in keys]
+    caps = list(caption_rows())
+    read = [k for k in caps if k in hit]
+    bad += read
+    print(f"op captions: {len(caps)} rows, {len(read)} read")
+    out += [f"{k}\top.bin OMAKE CG caption table 0x800A654C-0x800A6EAC: no pointer or lui reference to the table "
+            f"anywhere, and no read of it in the OMAKE album / CG view runs (read watch, work/qa/p8/captab): never "
+            f"shown" for k in caps]
+    # GRPDATA Dummy00.DAT: waived only while no run loads it (every event and warp scene runs with the FILE log)
+    if "dummy00.dat" in loaded:
+        print("Dummy00.DAT was loaded by a run: rule wrong")
+        return 1
+    with open(ROOT / "script" / "misc" / "Dummy00.tsv", encoding="utf-8", newline="") as f:
+        dummy = [f"misc/{r['id']}" for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)]
+    print(f"Dummy00.DAT: {len(dummy)} rows, never loaded in {len(logs)} logs")
+    out += [f"{k}\tGRPDATA Dummy00.DAT: no run loads it (LKF loader log over every event and warp scene); name and "
+            f"content (one-line greetings with no script reference) say dev leftover" for k in dummy]
     if bad:
         print("rows a run did read (rule wrong):", " ".join(bad[:20]))
         return 1

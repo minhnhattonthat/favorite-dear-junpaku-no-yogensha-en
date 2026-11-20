@@ -7,7 +7,8 @@
 -- (docs/re/text.md). Each bank's original bytes are put at FORCE_AT (free RAM below the EXE on the original disc)
 -- and logged as a FILE line, so tools/textcover.py credits the box's reads exactly as for a game load.
 -- Globals (written by tools/msgforce.py into a Lua file passed with --lua before this one):
---   FORCE_BANKS  { {name = "BMsgQ000.MSG", data = <original bytes>, list = { {text offset, byte length}, .. }}, .. }
+--   FORCE_BANKS  { {name = "BMsgQ000.MSG", data = <original bytes>, list = { {text offset, byte length}, .. },
+--                  lo = <offset of data in the file, overlays only>}, .. } (list offsets are into data)
 --   FORCE_AT     load address (0x80010000)
 -- Log: "FORCE <bank> entries N", "FORCE <bank> <i> f<frame>" every 25 entries, "FORCE bank done <bank> f<frame>",
 -- "FORCE done f<frame>" (the run ends 300 frames later).
@@ -31,10 +32,13 @@ local function intact(b)
   end
   return true
 end
+-- b.lo: the data is the slice of the file from offset lo (overlay strings); the FILE line puts the file's start lo
+-- bytes below AT, so textcover.py maps a read at AT + k to file offset lo + k
 local function put(b)
   for i = 0, #b.data - 1 do mem[A + i] = b.data:byte(i + 1) end
   seen = {}
-  L.log(string.format("FILE f%d %s dst=%08X size=%X", L.frame, b.name, AT, #b.data))
+  local lo = b.lo or 0
+  L.log(string.format("FILE f%d %s dst=%08X size=%X", L.frame, b.name, AT - lo, lo + #b.data))
 end
 L.on_read(AT, AT + maxn - 1, function(a)
   a = a & 0x1FFFFF

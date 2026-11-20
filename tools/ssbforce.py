@@ -8,7 +8,8 @@ disc with tools/debug/textcover.lua (logging) and tools/debug/ssbforce.lua, whic
 missing row whenever the script would end or loop (docs/re/events.md, VM context). Choice-answer rows (《..》) are
 never jump targets: jumping into a choice's text outside its op would print it as plain text. Report afterwards:
 `python -X utf8 tools/textcover.py work/qa/cover work/qa/ssbforce ...`. Resumable: an event whose folder log has
-"final frame" is skipped; re-run with the new folder as --have to force what is still missing.
+"SFORCE done" is skipped. Second pass: a NEW --out-dir (a run overwrites its event's folder and so the reads it
+logged), the first pass as --have, and a larger --base for events that go into a battle.
 """
 import argparse
 import csv
@@ -33,7 +34,7 @@ def rows_of(stem):
 
 def done(d):
     log = d / "log.txt"
-    return log.exists() and "final frame" in log.read_text(encoding="utf-8", errors="replace")
+    return log.exists() and "SFORCE done" in log.read_text(encoding="utf-8", errors="replace")
 
 
 def main():
@@ -43,6 +44,8 @@ def main():
     ap.add_argument("-j", type=int, default=2)
     ap.add_argument("--only", default="")
     ap.add_argument("--per-row", type=int, default=250, help="frames budgeted per wanted row")
+    ap.add_argument("--base", type=int, default=14000, help="frames before the first forced row (arrival ~10050; "
+                    "events with a battle need ~30000)")
     ap.add_argument("--dry", action="store_true")
     a = ap.parse_args()
     out = ROOT / a.out_dir
@@ -70,7 +73,7 @@ def main():
         gen.parent.mkdir(parents=True, exist_ok=True)
         gen.write_text(f'SF_NAME = "{stem}.ssb"\nSF_ROWS = {{' + ",".join(f"{{{s},{e},{w}}}" for s, e, w in rows)
                        + "}\nSF_SIG = {" + ",".join(f"{{{o},{b}}}" for o, b in sig) + "}\n", encoding="ascii")
-        jobs.append((stem, gen, 14000 + a.per_row * want, want))
+        jobs.append((stem, gen, a.base + a.per_row * want, want))
     print(f"{len(jobs)} events, {sum(j[3] for j in jobs)} rows wanted", flush=True)
     if a.dry:
         for stem, _, frames, want in jobs:
