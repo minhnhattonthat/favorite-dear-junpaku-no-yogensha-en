@@ -18,3 +18,8 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [ ] Name tags cut to 12 letters (glossary notes): 帝国兵 "Soldier" (Imperial Soldier), 帝国騎士 "Knight", 帝国戦士 "Warrior", 帝国歩兵 "Foot Soldier", 融合兵 "Fused Troop", 私兵 "Hired Guard", 王の女 "King's Lady"
 - [ ] Chapter labels over 12 letters (EVX titles / scene labels): 第10節「王暗殺」 "Regicide" and the other shortened labels
 - [ ] rfd2.8009BABC 混乱度： "Chaos:" (the code copies a fixed 9 bytes into a stack buffer; "Chaos Level:" needs that copy rewritten, `codetext.copy_size`); likewise rfd2.8009C2BC/C2CC "Stop search"/"Stop escort" + " and stand by?" (13-byte copies)
+
+## Phase 8 QA (2026-11-21)
+- [ ] rfd2.8009D628 聖アザリア宮 heaven Move button "Azaria Palace" (St. dropped: the 14-letter button clipped "St. Azaria Palace" at both ends; full name kept in dialogue). Restore if the button sprite is widened.
+- [ ] Name entry opens on the katakana page; the Latin page is one arrow press away. Opening on the Latin page would suit English players (find the page variable in pro.bin near 0x8009BF80).
+- [ ] Odd-length Latin player names end in a space (pair glyphs fill whole 12 px cells): "Ray , welcome". Half-cell rendering of the name placeholder would fix it.
