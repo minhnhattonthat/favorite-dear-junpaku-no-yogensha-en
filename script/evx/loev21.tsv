@@ -1,0 +1,27 @@
+id	jp	en	notes
+loev21.0002	セレニスとの戦い		dev label (guess: not shown)
+loev21.00A2	ルディエール		unit name (32-byte field)
+loev21.00DE	セレニス		unit name (32-byte field)
+loev21.011A	魔法		unit name (32-byte field)
+loev21.0156	エンディミオン		unit name (32-byte field)
+loev21.0192	魔石（初期）		unit name (32-byte field)
+loev21.01CE	魔石（点滅）		unit name (32-byte field)
+loev21.020A	魔石（赤）		unit name (32-byte field)
+loev21.0246	魔石の台		unit name (32-byte field)
+loev21.04E8	セレニス		speaker
+loev21.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
+loev21.0532	ルディエール		speaker
+loev21.054D	お前が、帝国の魔女か……。		text
+loev21.0576	この世界の混乱を招いたのは{n}お前だな！		text
+loev21.061F	セレニス		speaker
+loev21.0636	そこでじっとしていなさい。{n}天使の勇者よ。		text
+loev21.066F	偉大な力がよみがえるのを見せてあげるわ。		text
+loev21.06CA	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
+loev21.0711	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
+loev21.07BA	エンディミオン		speaker
+loev21.07D7	セレニス……お前はなにを……。		text
+loev21.0814	セレニス		speaker
+loev21.082B	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
+loev21.0894	さあ……始めましょう……。		text
+loev21.0949	エンディミオン		speaker
+loev21.0966	ああ……。		text

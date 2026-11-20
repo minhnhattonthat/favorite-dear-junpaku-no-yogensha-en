@@ -1,0 +1,79 @@
+id	jp	en	notes
+eiev01_01.006C	アイリーン		speaker
+eiev01_01.007E	えーと……{n}ここはこーで……{wait}{clear}		
+eiev01_01.00A2	オン……{n}ロー…ダーナ…{n}ウン……ジャック……{wait}{clear}		
+eiev01_01.00D8	ええーい！{wait}{clear}		
+eiev01_01.011C	アイリーン		speaker
+eiev01_01.012E	へ……？{wait}{clear}		
+eiev01_01.013E	……私、また間違えちゃった？{wait}{clear}		
+eiev01_01.015E	＄＄＄＄＄＄		speaker
+eiev01_01.016E	アイリーン・ティルナーグですね？{n}私は天使＄＄＄＄＄＄といいます。{wait}{clear}		
+eiev01_01.01B4	アイリーン		speaker
+eiev01_01.01C6	しゃべった……。{wait}{clear}		
+eiev01_01.01DE	なんで、この呪文でこんなんが出てくんの！？{wait}{clear}		
+eiev01_01.020C	＄＄＄＄＄＄		speaker
+eiev01_01.021C	……魔法で呼ばれたのではありません。{wait}{clear}私は天界からあなたに地上の平和のために{n}共に働いてもらえないか、頼みに来たのです。{wait}{clear}		
+eiev01_01.02A6	アイリーン		speaker
+eiev01_01.02B8	はぁ？{n}突然現れてなに言ってんの？{wait}{clear}		
+eiev01_01.02E2	急にそんなごじゃごじゃ言われてもわかんないわ。{wait}{clear}		
+eiev01_01.0324	まず確認するわね……。{wait}{clear}		
+eiev01_01.0342	あなたは天使なのね。{wait}{clear}		
+eiev01_01.035A	＄＄＄＄＄＄		speaker
+eiev01_01.036A	はい。{wait}{clear}		
+eiev01_01.0374	アイリーン		speaker
+eiev01_01.0386	んで、魔法で呼ばれたんじゃないと。{wait}{clear}		
+eiev01_01.03AC	＄＄＄＄＄＄		speaker
+eiev01_01.03BC	はい。{wait}{clear}		
+eiev01_01.03C6	アイリーン		speaker
+eiev01_01.03D8	んで、天界からなにか頼みごとがあって{n}やってきた、と。{wait}{clear}		
+eiev01_01.0412	＄＄＄＄＄＄		speaker
+eiev01_01.0422	はい。{n}地上の混乱を正すための協力をお願いしに来ました。{wait}{clear}		
+eiev01_01.045E	アイリーン		speaker
+eiev01_01.0470	……ふーん。{n}大体わかってきた。{wait}{clear}		
+eiev01_01.0494	＄＄＄＄＄＄		speaker
+eiev01_01.04A4	協力していただけますか？{wait}{clear}		
+eiev01_01.04C0	アイリーン		speaker
+eiev01_01.04D2	…………。{wait}{clear}		
+eiev01_01.04E0	＄＄＄＄＄＄		speaker
+eiev01_01.04F0	……今地上は混沌の際にあり{n}世界は悪によって覆われようとしています。{wait}{clear}その多くは未だ……{wait}{clear}		
+eiev01_01.055A	アイリーン		speaker
+eiev01_01.056C	あー、べらべらうるさい。{n}考えてんだから黙っててよ。{wait}{clear}		
+eiev01_01.05A8	ほんとよくしゃべるわね。{wait}{clear}		
+eiev01_01.05C4	＄＄＄＄＄＄		speaker
+eiev01_01.05D4	……………。{wait}{clear}		
+eiev01_01.05F8	アイリーン		speaker
+eiev01_01.060A	……わかった。{wait}{clear}		
+eiev01_01.0620	いいわ。{n}協力しても。{wait}{clear}		
+eiev01_01.063A	＄＄＄＄＄＄		speaker
+eiev01_01.064A	ありがとうございます。{wait}{clear}アイリーン、あなたのような……{wait}{clear}		
+eiev01_01.0692	アイリーン		speaker
+eiev01_01.06A4	ちょっとまった！{n}長くなりそうだからおべっかなんかいいわ。{wait}{clear}		
+eiev01_01.06E6	どんなことすればいいか教えて。{wait}{clear}		
+eiev01_01.070C	簡潔に。{wait}{clear}		
+eiev01_01.0718	＄＄＄＄＄＄		speaker
+eiev01_01.0728	……あなたに頼むべきことがあるとき、{n}またあなたの元に来ます。{wait}{clear}そのときお話しします。{wait}{clear}		
+eiev01_01.0790	アイリーン		speaker
+eiev01_01.07A2	わーかった。{n}待ってる。{wait}{clear}		
+eiev01_01.07C2	さてと……{wait}{clear}		
+eiev01_01.07D4	あなたが魔法のせいじゃないとすると……{wait}{clear}		
+eiev01_01.0802	さっきのポーション作る魔法は失敗したのかな……{wait}{clear}		
+eiev01_01.0844	ああっーー！！{wait}{clear}		
+eiev01_01.085A	頼まれた大事なポーション、{n}全部、ゆかに散らばってる！！{wait}{clear}		
+eiev01_01.08A6	あんたのせいよ！！{wait}{clear}		
+eiev01_01.08BC	＄＄＄＄＄＄		speaker
+eiev01_01.08CC	では、長くなりそうなので……また、来ます。{wait}{clear}		
+eiev01_01.08FA	アイリーン		speaker
+eiev01_01.090C	まちなさい、こらあ！！{wait}{clear}		
+eiev01_01.0942	アイリーン		speaker
+eiev01_01.0950	……いやよ。{wait}{clear}私、そんなにヒマじゃないの。{wait}{clear}		
+eiev01_01.0980	ＮＵＬＬ		speaker
+eiev01_01.0990	《どうしても頼みたい》{n}		
+eiev01_01.09AE	《また来ます》{n}		
+eiev01_01.09CA	＄＄＄＄＄＄		speaker
+eiev01_01.09DA	どうしても、お願いしたいのです。{n}あなたに……。{wait}{clear}		
+eiev01_01.0A0E	アイリーン		speaker
+eiev01_01.0A1C	だめだめ。{wait}{clear}今日は人から頼まれた{n}ポーション作らなきゃいけないし、{wait}{clear}あなたみたいなわけわかんないのに{n}つきあってる時間ないの。{wait}{clear}さ、帰って帰って！{wait}{clear}		
+eiev01_01.0AC8	＄＄＄＄＄＄		speaker
+eiev01_01.0AD8	では、また来ます。{wait}{clear}		
+eiev01_01.0AFA	アイリーン		speaker
+eiev01_01.0B08	うん？{n}あきらめいいのね。{wait}{clear}まあ、そうして、今度会ったとき{n}考えたげる。また。{wait}{clear}じゃね。{wait}{clear}		

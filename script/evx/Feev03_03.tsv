@@ -1,0 +1,33 @@
+id	jp	en	notes
+Feev03_03.0002	ギルド２		dev label (guess: not shown)
+Feev03_03.00A2	フェイン		unit name (32-byte field)
+Feev03_03.00DE	ウィザード		unit name (32-byte field)
+Feev03_03.0508	ランド		speaker
+Feev03_03.051D	フェイン！		text
+Feev03_03.0536	フェイン		speaker
+Feev03_03.054D	ああ、ランドか、どうした？		text
+Feev03_03.0576	ランド		speaker
+Feev03_03.058B	いや、ふたりの話の内容が気になってな。{n}老師はなんと言っていた？		text
+Feev03_03.05DA	フェイン		speaker
+Feev03_03.05F1	ずいぶん予言を気にしておられるな。		text
+Feev03_03.0622	ランド		speaker
+Feev03_03.0637	そうか……。{n}それで、お前はどう思っている？		text
+Feev03_03.0672	フェイン		speaker
+Feev03_03.0689	俺か……。		text
+Feev03_03.06A2	混乱はあちらこちらで起きている。{n}それらはバラバラで、{n}俺にはなんの関連もないように思える。		text
+Feev03_03.070D	それがこのギルドを巻き込むかどうかも{n}わからん。		text
+Feev03_03.074C	ただ、もしもの時にはここにはお前たちがいる。{n}心配はしていない。		text
+Feev03_03.079B	ランド		speaker
+Feev03_03.07B0	そうだな……。{n}混乱の関連もわからない以上、{n}過度の心配はかえってあだになることもあるな……。		text
+Feev03_03.081D	フェイン		speaker
+Feev03_03.0834	ああ……。		text
+Feev03_03.084D	ランド		speaker
+Feev03_03.0862	なあ、フェイン。{n}そろそろ、お前、落ち着いたらどうだ。		text
+Feev03_03.08A7	お前の仕事は誰かがしなければならないことだが、{n}もう、他の者がかわってもいいはずだ。		text
+Feev03_03.090A	それにお前がここに戻ってくれば心強い。{n}きっと老師もそれを望んでいると思うぞ。		text
+Feev03_03.0967	フェイン		speaker
+Feev03_03.097E	いや……{n}俺にはまだやらなくてはならないことが{n}残っている。		text
+Feev03_03.09C9	ランド		speaker
+Feev03_03.09DE	そうか……。		text
+Feev03_03.09F9	フェイン		speaker
+Feev03_03.0A10	すまんな。		text

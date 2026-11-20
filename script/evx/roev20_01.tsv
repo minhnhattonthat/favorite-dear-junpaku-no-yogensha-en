@@ -1,0 +1,28 @@
+id	jp	en	notes
+roev20_01.00A2	ロクス		unit name (32-byte field)
+roev20_01.00DE	フェイン		unit name (32-byte field)
+roev20_01.04C8	ロクス		speaker
+roev20_01.04DD	天使の勇者らしいな……		text
+roev20_01.0502	フェイン		speaker
+roev20_01.0519	だとしたらなんだ？		text
+roev20_01.053A	ロクス		speaker
+roev20_01.054F	そんな怖い顔でにらむな。{n}私も勇者の一人だ。		text
+roev20_01.058A	けがをしているのだろう。{n}僕が手当をしてもいい。		text
+roev20_01.05C9	フェイン		speaker
+roev20_01.05E0	……本当か？		text
+roev20_01.05FB	ロクス		speaker
+roev20_01.0610	見てのとおりの僧侶だ。{n}人の困っている姿は捨て置くわけにはいかない。		text
+roev20_01.0663	フェイン		speaker
+roev20_01.067A	そうか……ならば頼む……。		text
+roev20_01.0703	フェイン		speaker
+roev20_01.071A	この力は？		text
+roev20_01.0733	ロクス		speaker
+roev20_01.0748	なに……別に大したもんじゃない。		text
+roev20_01.07CF	フェイン		speaker
+roev20_01.07E6	ありがとう。{n}世話になった。		text
+roev20_01.0811	ロクス		speaker
+roev20_01.0826	礼はいい。{n}布施は天使に請求しておく。		text
+roev20_01.085B	フェイン		speaker
+roev20_01.0872	フフ……変わった男だな。		text
+roev20_01.0899	ロクス		speaker
+roev20_01.08AE	よく言われるよ。{n}まあ、機会があればまた会おう。		text

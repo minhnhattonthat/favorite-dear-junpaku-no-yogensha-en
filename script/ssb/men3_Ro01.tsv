@@ -1,0 +1,22 @@
+id	jp	en	notes
+men3_Ro01.005C	ロクス		speaker
+men3_Ro01.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
+men3_Ro01.00A4	＄＄＄＄＄＄		speaker
+men3_Ro01.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
+men3_Ro01.00D8	ロクス		speaker
+men3_Ro01.00E2	いや、べつになにもないよ。{n}ただ、この聖水を渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
+men3_Ro01.0140	ＮＵＬＬ		speaker
+men3_Ro01.0150	《ありがとうございます。》{n}		
+men3_Ro01.0172	《戒律があるので……。》{n}		
+men3_Ro01.0192	＄＄＄＄＄＄		speaker
+men3_Ro01.01A2	ありがとうございます。{n}これは聖都の教会のものですか？{wait}{clear}		
+men3_Ro01.01E8	ロクス		speaker
+men3_Ro01.01F2	ああ、そうだ。{n}少しはなにかの役に立ちそうか？{wait}{clear}		
+men3_Ro01.0224	＄＄＄＄＄＄		speaker
+men3_Ro01.0234	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ro01.026E	＄＄＄＄＄＄		speaker
+men3_Ro01.027E	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ro01.02EE	ロクス		speaker
+men3_Ro01.02F8	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
+men3_Ro01.032A	＄＄＄＄＄＄		speaker
+men3_Ro01.033A	本当にすみません……。{wait}{clear}		

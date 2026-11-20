@@ -1,0 +1,87 @@
+id	jp	en	notes
+roev15.0012	第１１節「宿屋にて」		speaker
+roev15.0060	ロクス		speaker
+roev15.006E	……いるか、＄＄＄＄＄＄？{wait}{clear}		
+roev15.008C	ロクス		speaker
+roev15.009A	一緒に出かけないか？{wait}{clear}		
+roev15.00B6	なにもしない……、なんていう{n}約束を僕はできないけど、{n}つき合ってくれたら嬉しい。{wait}{clear}		
+roev15.010C	ＮＵＬＬ		speaker
+roev15.011C	《ええ……》{n}		
+roev15.0130	《今は忙しいので……》{n}		
+roev15.0154	＄＄＄＄＄＄		speaker
+roev15.0164	ええ、いいですよ。{wait}{clear}		
+roev15.0188	ロクス		speaker
+roev15.0196	ありがとう。{wait}{clear}		
+roev15.01B0	＄＄＄＄＄＄		speaker
+roev15.01C0	今は忙しいので……{wait}{clear}		
+roev15.01E4	ロクス		speaker
+roev15.01F2	そうか……{n}じゃあ、また今度にしよう……{wait}{clear}		
+roev15.0248	ロクス		speaker
+roev15.0256	今日は冷えるな……{n}寒くないか？{wait}{clear}		
+roev15.027A	＄＄＄＄＄＄		speaker
+roev15.028A	ええ、私は平気です。{wait}{clear}		
+roev15.02B0	ロクス		speaker
+roev15.02BE	君は平気でも、見ているこちらが寒い。{n}ほら……。{wait}{clear}		
+roev15.0306	＄＄＄＄＄＄		speaker
+roev15.0316	ありがとう……ロクス。{wait}{clear}		
+roev15.034E	ロクス		speaker
+roev15.035C	……君にはたくさん迷惑をかけた……{n}すまなかった……。{wait}{clear}		
+roev15.0396	＄＄＄＄＄＄		speaker
+roev15.03A6	いえ、いいんです。もう。{wait}{clear}		
+roev15.03C2	ロクス		speaker
+roev15.03CC	…………。{wait}{clear}		
+roev15.03DA	ＮＵＬＬ		speaker
+roev15.03EA	《あなたの話を聞かせてください》{n}		
+roev15.0412	《癒しの手について……》{n}		
+roev15.0438	＄＄＄＄＄＄		speaker
+roev15.0448	あなたの話を聞かせてください。ロクス。{wait}{clear}		
+roev15.0472	ロクス		speaker
+roev15.0480	僕の話？　面白くはないよ……きっと。{wait}{clear}		
+roev15.04A8	＄＄＄＄＄＄		speaker
+roev15.04B8	かまいません……。{n}私が聞きたいと思っているのですから、{n}話していただけませんか？{wait}{clear}		
+roev15.050E	ロクス		speaker
+roev15.051C	僕は……子供のころ、教会に引き取られた。{wait}{clear}		
+roev15.054C	この手の能力を見いだされて……。{wait}{clear}		
+roev15.0574	教会では僕は教皇になるべく{n}いろんな知識を教えられた。{n}作法や、教皇として義務の話だ。{wait}{clear}		
+roev15.05D2	その一方で、まわりの司教達は未来の{n}教皇である僕にいろんなおべっかを使ってきた。{wait}{clear}		
+roev15.062A	子供相手のつまんないものさ……{wait}{clear}		
+roev15.0650	まあ、そのときはそれなりだまされたけどね。{wait}{clear}		
+roev15.0682	聖職者つったって、人間さ、{n}うわっつらじゃいい顔してても中身はただの強欲な{n}オッサンたちだ。{wait}{clear}		
+roev15.06E6	口ではいいことをいうから、{n}ただの悪人よりずっとたちが悪い……。{wait}{clear}		
+roev15.072E	そんな人間たち相手にだましだまされ{n}やっているうちに、なんだか……{wait}{clear}		
+roev15.0778	教皇になるのがばからしくなった……。{wait}{clear}		
+roev15.07A4	結局利用されているだけに感じたから。{wait}{clear}		
+roev15.07D0	それで適当に遊びほうけていたら、{n}副教皇に聖都から追い出された……。{wait}{clear}		
+roev15.081C	ま、こんなところだ……{n}つまんない話さ……。{wait}{clear}		
+roev15.084C	＄＄＄＄＄＄		speaker
+roev15.085C	そんなことはありません……。{n}話してくれて、ありがとうございました。{wait}{clear}ところで……{n}ロクスのご両親は今どうしているのですか？{wait}{clear}		
+roev15.08DE	ロクス		speaker
+roev15.08EC	ああ、両親は普通の人たちさ。{wait}{clear}		
+roev15.0910	でも、ずっと別々に暮らしていたから……{wait}{clear}		
+roev15.093E	大きくなって会ったときには{n}ほとんど他人みたいな感じだった。{wait}{clear}		
+roev15.0982	今でもほとんど会わないし、{n}お互い話すこともない……。{wait}{clear}		
+roev15.09C0	苦手だ……あの人達は。{wait}{clear}…………。{wait}{clear}		
+roev15.09F2	＄＄＄＄＄＄		speaker
+roev15.0A02	あなたの癒しの手の話を{n}聞かせてくれませんか？{wait}{clear}		
+roev15.0A34	ロクス		speaker
+roev15.0A42	この手の話か……。{wait}{clear}		
+roev15.0A5C	……自分の手の力に気づいたのは{n}８才か９才くらいのときかな……{wait}{clear}		
+roev15.0AA2	一番最初は飼っていた子犬だった……{n}まだ生まれてまもない子犬が馬車にひかれて……{wait}{clear}		
+roev15.0AFA	大けがしてとても助からないって思った。{wait}{clear}		
+roev15.0B28	僕はそのときすごく悔しかった……{wait}{clear}		
+roev15.0B50	なんのためにこいつは生まれてきたんだって、{n}まだ小さくてなんにも知らないのに……{wait}{clear}		
+roev15.0BA8	こんな風に死ぬなんて許せなかった……。{wait}{clear}		
+roev15.0BD6	でも僕がその子犬をなでていると{n}子犬の血が止まって、傷が治って……{wait}{clear}		
+roev15.0C20	初めは気づかなかった。{n}ただ、子犬が元気になったことが{n}うれしかった……自分の思いがかなったって。{wait}{clear}		
+roev15.0C8A	そして、そんなことが何回かあって……{n}大人達は僕の力に気づいた……{wait}{clear}		
+roev15.0CD4	教会は……教皇の証である{n}癒しの手の使いを求めていたから{n}すぐに引き取られた。{wait}{clear}		
+roev15.0D2A	でも、教会が僕のこの手にやらせたことは{n}布施を多くする貴族や王族、大商人たちの{n}治療ばかりだった……。{wait}{clear}		
+roev15.0D98	僕はそのうち面倒になってきて{n}適当にいいわけをつくって力を使うのをやめた……。{wait}{clear}		
+roev15.0DEE	他人に利用されるのは御免だから……。{wait}{clear}		
+roev15.0E1A	……べつに……{n}今の僕には必要なんてない……{n}こんな力は……{wait}{clear}…………。{wait}{clear}		
+roev15.0E68	ロクス		speaker
+roev15.0E76	……うん？{wait}{clear}		
+roev15.0E8C	ロクス		speaker
+roev15.0E9A	雪だ……。{wait}{clear}		
+roev15.0EAC	どうりで寒いはずだ……。{wait}{clear}		
+roev15.0ECC	宿へもどろう……。{wait}{clear}		

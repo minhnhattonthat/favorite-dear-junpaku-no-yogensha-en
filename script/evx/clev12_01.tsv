@@ -1,0 +1,23 @@
+id	jp	en	notes
+clev12_01.00A2	セシア		unit name (32-byte field)
+clev12_01.00DE	クライヴ		unit name (32-byte field)
+clev12_01.0508	セシア		speaker
+clev12_01.051D	あなたはヴァスティールの血をもつ勇者ですね……		text
+clev12_01.056A	クライヴ		speaker
+clev12_01.0581	ヴァスティール？		text
+clev12_01.05B0	セシア		speaker
+clev12_01.05C5	千年前、世界の混乱を{n}正した勇者の一人です……。		text
+clev12_01.0614	ただ……今では闇に落ち{n}レイブンルフトと名乗っていますが……		text
+clev12_01.066F	クライヴ		speaker
+clev12_01.0686	……レイブンルフトが？		text
+clev12_01.06BB	セシア		speaker
+clev12_01.06D0	はい……{n}彼は剣士として、サタンの天竜と戦いました……。		text
+clev12_01.0727	ただ、そのとき天竜の返り血をあび、{n}呪われた宿命を背負ってしまったのです……		text
+clev12_01.0792	彼の運命は悲しいものですが……		text
+clev12_01.07CF	クライヴ		speaker
+clev12_01.07E6	俺には関係ない……{n}やつは俺の仇にすぎん……		text
+clev12_01.0831	セシア		speaker
+clev12_01.0846	ええ……。{n}ただあなたは彼を呪いから救うことのできる{n}唯一の人でしょう……		text
+clev12_01.08AF	彼を倒して、その魂を呪われた{n}肉体から救ってあげてください……。		text
+clev12_01.090E	クライヴ		speaker
+clev12_01.0925	俺は俺自身のためにやつを倒す。{n}ほかのことに興味はない……。		text

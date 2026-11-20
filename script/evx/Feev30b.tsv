@@ -1,0 +1,10 @@
+id	jp	en	notes
+Feev30b.0002	クラレンス戦		dev label (guess: not shown)
+Feev30b.00A2	フェイン		unit name (32-byte field)
+Feev30b.00DE	クラレンス		unit name (32-byte field)
+Feev30b.04B4	クラレンス		speaker
+Feev30b.04CD	天使の勇者か……{n}お前らみたいな連中を見てるとな……{n}虫ずが走るぜ……		text
+Feev30b.0522	フェイン		speaker
+Feev30b.0539	前のようにはいかんぞ。{n}いくらお前は逃げ足が早かろうとな。		text
+Feev30b.0582	クラレンス		speaker
+Feev30b.059B	フン、逃げやしねえよ。{n}お前ごときに俺の最後の楽しみを{n}邪魔させるわけにはいかねえからな。		text

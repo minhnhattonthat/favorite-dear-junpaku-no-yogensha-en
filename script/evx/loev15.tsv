@@ -1,0 +1,15 @@
+id	jp	en	notes
+loev15.0002	テロ		dev label (guess: not shown)
+loev15.00A2	ルディ		unit name (32-byte field)
+loev15.00DE	反乱兵		unit name (32-byte field)
+loev15.011A	反乱兵		unit name (32-byte field)
+loev15.0156	反乱兵		unit name (32-byte field)
+loev15.0192	ウィザード		unit name (32-byte field)
+loev15.04D8	ルディエール		speaker
+loev15.04F3	暗殺団というのはお前らか？		text
+loev15.051C	暗殺者		speaker
+loev15.0531	……邪魔をするのか？		text
+loev15.0554	ルディエール		speaker
+loev15.056F	ああ、お前らのような連中、{n}のさばらせておくわけにはいかないからな。{n}この国で。		text
+loev15.05CE	暗殺者		speaker
+loev15.05E3	ふん、やれ！		text

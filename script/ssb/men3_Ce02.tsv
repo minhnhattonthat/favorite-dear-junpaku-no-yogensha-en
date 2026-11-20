@@ -1,0 +1,24 @@
+id	jp	en	notes
+men3_Ce02.0052	セシア		speaker
+men3_Ce02.005C	急にお呼びしてすみません。{wait}{clear}		
+men3_Ce02.007A	＄＄＄＄＄＄		speaker
+men3_Ce02.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}		
+men3_Ce02.00C4	セシア		speaker
+men3_Ce02.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}サンザシの実なんですけど、{n}受け取っていただけますか？{wait}{clear}		
+men3_Ce02.014E	ＮＵＬＬ		speaker
+men3_Ce02.015E	《ありがとうございます。》{n}		
+men3_Ce02.0180	《戒律があるので……。》{n}		
+men3_Ce02.01A0	＄＄＄＄＄＄		speaker
+men3_Ce02.01B0	ありがとうございます。{n}えっと、この実は食べられるのですか？{wait}{clear}		
+men3_Ce02.01FC	セシア		speaker
+men3_Ce02.0206	その実は食べるというより{n}薬として使うものです。{n}森では大切な実のひとつなんですよ。{wait}{clear}		
+men3_Ce02.026A	セシア		speaker
+men3_Ce02.0274	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}		
+men3_Ce02.02B4	＄＄＄＄＄＄		speaker
+men3_Ce02.02C4	そんな、とんでもないです！{n}その気持ちが、とてもうれしいです。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ce02.0328	＄＄＄＄＄＄		speaker
+men3_Ce02.0338	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ce02.03A8	セシア		speaker
+men3_Ce02.03B2	そうなんですか？{n}私、知らなくて……。{wait}{clear}		
+men3_Ce02.03DC	＄＄＄＄＄＄		speaker
+men3_Ce02.03EC	いえ、私の方こそ、本当にすみません……。{wait}{clear}		

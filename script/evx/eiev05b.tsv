@@ -1,0 +1,22 @@
+id	jp	en	notes
+eiev05b.0002	1		dev label (guess: not shown)
+eiev05b.00A2	アイリーン		unit name (32-byte field)
+eiev05b.00DE	盲目の魔道士		unit name (32-byte field)
+eiev05b.04A4	マスター		speaker
+eiev05b.04FB	アイリーン		speaker
+eiev05b.0514	マスター！		text
+eiev05b.052D	マスター		speaker
+eiev05b.0544	誰だ？		text
+eiev05b.0559	アイリーン		speaker
+eiev05b.0572	ジグの孫です……アイリーンといいます		text
+eiev05b.05A5	おお、そうか……		text
+eiev05b.05C4	アイリーン……聞いてくれ、フェインも……{n}このロッジも帝国にやられてしまった……		text
+eiev05b.0623	アイリーン		speaker
+eiev05b.063C	そんな……フェインが？		text
+eiev05b.0661	マスター		speaker
+eiev05b.0678	そうだ……		text
+eiev05b.0691	セレニスが暗躍する帝国は、{n}ここから魔石を奪っていった……。{n}彼女はすでに魔に魅入られている……		text
+eiev05b.0700	アイリーン……		text
+eiev05b.071D	ジグやフェイン、ギルドが守った魔導士の誇りを{n}取り戻して欲しい……頼む……		text
+eiev05b.0792	アイリーン		speaker
+eiev05b.07AB	グランドマスター！		text

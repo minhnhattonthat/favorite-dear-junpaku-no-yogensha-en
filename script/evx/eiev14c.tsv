@@ -1,0 +1,19 @@
+id	jp	en	notes
+eiev14c.0002	セレニス戦（戦闘後）		dev label (guess: not shown)
+eiev14c.00A2	アイリーン		unit name (32-byte field)
+eiev14c.00DE	セレニス		unit name (32-byte field)
+eiev14c.011A	エンディミオン		unit name (32-byte field)
+eiev14c.0156	魔石の台		unit name (32-byte field)
+eiev14c.04AC	セレニス		speaker
+eiev14c.04C3	…………。		text
+eiev14c.0540	アイリーン		speaker
+eiev14c.0559	……？{n}姉さん？		text
+eiev14c.0588	セレニス		speaker
+eiev14c.059F	アイリーン……		text
+eiev14c.05D8	フェイン		speaker
+eiev14c.05EF	姉さん！		text
+eiev14c.0622	アイリーン		speaker
+eiev14c.063B	＄＄＄＄＄＄！{n}力を貸して、今ならきっと……！		text
+eiev14c.0688	これで……お願い！！		text
+eiev14c.070B	セレニス		speaker
+eiev14c.0722	ああっ！！		text

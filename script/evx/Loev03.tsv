@@ -1,0 +1,61 @@
+id	jp	en	notes
+Loev03.00A2	ルディ		unit name (32-byte field)
+Loev03.00DE	ルディの国の兵士１		unit name (32-byte field)
+Loev03.011A	ルディの国の兵士２		unit name (32-byte field)
+Loev03.0156	ルディの国の兵士３		unit name (32-byte field)
+Loev03.0192	ルディの国の兵士４		unit name (32-byte field)
+Loev03.01CE	子供		unit name (32-byte field)
+Loev03.020A	サヴィア		unit name (32-byte field)
+Loev03.04A8	衛兵		speaker
+Loev03.04BB	このガキ、なんてことしやがる！{n}自分がしたことがどんなことなのか{n}思い知らせてやるから、覚悟しろっ！		text
+Loev03.052E	子供		speaker
+Loev03.0541	離せよ！		text
+Loev03.0558	ルディエール		speaker
+Loev03.0573	おい、やめろ。{n}相手は子供じゃないか。{n}その子がいったい何をしたんだ？		text
+Loev03.0658	衛兵		speaker
+Loev03.066B	こいつは大貴族ソーザ様の馬車に{n}石を投げつけたのだ。		text
+Loev03.06AE	ルディエール		speaker
+Loev03.06C9	その石で誰かけがでもしたのか？		text
+Loev03.06F6	衛兵		speaker
+Loev03.0709	馬車に傷がついただけだが、{n}もしもの事があってはならんからな。		text
+Loev03.0756	こういう無礼なやからは見せしめのためにも{n}罰せねばならん。		text
+Loev03.07EF	ルディエール		speaker
+Loev03.080A	そんなことでか？{n}やりすぎだ、離してやれよ。		text
+Loev03.0845	衛兵		speaker
+Loev03.0858	貴様に命令されるようなことではない。{n}口出しするな。		text
+Loev03.08EB	ルディエール		speaker
+Loev03.0906	……しかたない。{n}衛兵、この紋章をみろ。		text
+Loev03.095D	衛兵		speaker
+Loev03.0970	うん？{n}それは王家の証……。		text
+Loev03.099B	ルディエール		speaker
+Loev03.09B6	自分は王家の使いだ。{n}私の権限において、その子供をあずかろう。		text
+Loev03.0A03	衛兵		speaker
+Loev03.0A16	……紋章には逆らえん。{n}わかった。子供は離そう。		text
+Loev03.0AA5	衛兵		speaker
+Loev03.0AB8	おい小僧、今度同じ事をすれば命はないぞ。{n}覚えておけ。		text
+Loev03.0B4D	衛兵		speaker
+Loev03.0B60	ちっ……。		text
+Loev03.0D51	ルディエール		speaker
+Loev03.0D6C	大丈夫か？		text
+Loev03.0D85	子供		speaker
+Loev03.0D98	うん……。		text
+Loev03.0DCD	街の娘		speaker
+Loev03.0DE2	レオニ！　平気？		text
+Loev03.0F39	街の娘		speaker
+Loev03.0F4E	ありがとう、助けていただいて……。		text
+Loev03.0FB3	ルディエール		speaker
+Loev03.0FCE	なにたいしたことじゃない。		text
+Loev03.1047	街の娘		speaker
+Loev03.105C	レオニ、向こうでお母さんが心配してるわ{n}帰りましょう。		text
+Loev03.10A1	レオニ		speaker
+Loev03.10B6	うん……。		text
+Loev03.10CF	街の娘		speaker
+Loev03.10E4	さあ、お礼を言って！		text
+Loev03.119B	レオニ		speaker
+Loev03.11B0	……ありがと。		text
+Loev03.11CD	街の娘		speaker
+Loev03.11E2	王家の使いの方、この子の親を安心させたいので、{n}行かせてもらえませんか？		text
+Loev03.1239	ルディエール		speaker
+Loev03.1254	ああ、いいよ。気をつけてな。		text
+Loev03.12CB	街の娘		speaker
+Loev03.12E0	本当にありがとうございます。		text

@@ -1,0 +1,33 @@
+id	jp	en	notes
+feev02_03.0002	ギルド1-2		dev label (guess: not shown)
+feev02_03.00A2	フェイン		unit name (32-byte field)
+feev02_03.00DE	ウィザード		unit name (32-byte field)
+feev02_03.011A	モブ１		unit name (32-byte field)
+feev02_03.0156	モブ２		unit name (32-byte field)
+feev02_03.0192	椅子１		unit name (32-byte field)
+feev02_03.01CE	椅子２		unit name (32-byte field)
+feev02_03.04D8	グレザ		speaker
+feev02_03.04ED	フェイン……じゃな。		text
+feev02_03.0510	フェイン		speaker
+feev02_03.0527	はい、マスター・グレザ。		text
+feev02_03.054E	グレザ		speaker
+feev02_03.0563	よく来た……と言いたいところじゃが、{n}あまりゆっくり話はできん。{n}ワシは今からグランドロッジに向かう。		text
+feev02_03.05D8	フェイン		speaker
+feev02_03.05EF	グランドロッジへですか？{n}どうして？		text
+feev02_03.0622	グレザ		speaker
+feev02_03.0637	恐ろしい予言が出たのじゃ……。{n}すぐにグランド・マスターに報告せねば……。		text
+feev02_03.0690	フェイン		speaker
+feev02_03.06A7	マスター・グレザ、その予言とはいったい？		text
+feev02_03.06DE	グレザ		speaker
+feev02_03.06F3	千年の時を越えて{n}あの伝説がよみがえるかもしれん……。		text
+feev02_03.0738	これだけで、お前にもわかるじゃろう……。{n}どんなことが起きるのか……。		text
+feev02_03.078D	フェイン		speaker
+feev02_03.07A4	まさか……。		text
+feev02_03.07BF	グレザ		speaker
+feev02_03.07D4	いや……そのまさかだが、{n}ワシの予言はたしかにそれを示している。		text
+feev02_03.0823	急がねばならん……。		text
+feev02_03.0846	ワシはここには二度ともどらん。{n}グランドマスターへ報告をしたら、南に逃げる。		text
+feev02_03.08D1	グレザ		speaker
+feev02_03.08E6	生きていたらまた会おう、フェイン。		text
+feev02_03.0977	フェイン		speaker
+feev02_03.098E	予言……。		text

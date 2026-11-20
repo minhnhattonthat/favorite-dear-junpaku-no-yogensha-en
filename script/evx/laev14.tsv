@@ -1,0 +1,28 @@
+id	jp	en	notes
+laev14.0002	天使の大けが		dev label (guess: not shown)
+laev14.00A2	レイラ		unit name (32-byte field)
+laev14.00DE	クラレンス		unit name (32-byte field)
+laev14.04EC	レイラ		speaker
+laev14.0501	あなたが、ヴァイパーね？		text
+laev14.0528	クラレンス		speaker
+laev14.0541	おいおい、ひとにものをたずねるときは、{n}自分の名前を名乗るってのが礼儀じゃねえのか？		text
+laev14.05A4	レイラ		speaker
+laev14.05B9	盗みを働くようなやつに名乗る名前などないわ。{n}さっさと、魔石を返しなさい。		text
+laev14.0612	クラレンス		speaker
+laev14.061F			speaker
+laev14.062B	あんた、味方じゃないのか？{n}帝国の軍服なんて着てるから、{n}てっきりそうだと思ったんだがな。		text
+laev14.0694	じゃあ、あんたは反逆者ってわけだな。		text
+laev14.06C7	レイラ		speaker
+laev14.06DC	あなたには関係のないことよ。{n}それに、いまの帝国は、{n}私の知っている誇り高き国ではないわ。		text
+laev14.0795	レイラ		speaker
+laev14.07AA	さあ、よけいなおしゃべりはここまでよ。{n}渡してくれないのなら、力ずくで奪うわ！		text
+laev14.086B	クラレンス		speaker
+laev14.0884	まあまあ、そんな怖い顔するなよ。{n}俺は戦いは苦手なんだ。		text
+laev14.08CB	そこまで言うなら、いいぜ。{n}あんたみたいな不穏分子を抱えている帝国だ。{n}きっと、この魔石の使い方だってあやしいもんだ。		text
+laev14.0950	さ、返すぜ！　天使様にな。		text
+laev14.0999	レイラ		speaker
+laev14.09AE	え？		text
+laev14.0A11	クラレンス		speaker
+laev14.0A2A	いるんだろ？　天使様よ。{n}		text
+laev14.0AA3	クラレンス		speaker
+laev14.0ABC	ほんとはお前が欲しがってるのはわかってるんだ。		text

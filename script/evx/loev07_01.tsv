@@ -1,0 +1,36 @@
+id	jp	en	notes
+loev07_01.0002	再会(一回目）		dev label (guess: not shown)
+loev07_01.00A2	ルディ		unit name (32-byte field)
+loev07_01.00DE	サヴィア		unit name (32-byte field)
+loev07_01.053C	街の娘		speaker
+loev07_01.0551	こんにちは。		text
+loev07_01.057C	ルディエール		speaker
+loev07_01.0597	ええと、君は……。		text
+loev07_01.05C8	街の娘		speaker
+loev07_01.05DD	あの時はありがとう。{n}あなた、とても勇気があるのね。		text
+loev07_01.0658	ルディエール		speaker
+loev07_01.0673	……いや、そんなことない。		text
+loev07_01.06AC	子供相手にあいつらが{n}あんなばかなことしてるからさ……。		text
+loev07_01.0747	街の娘		speaker
+loev07_01.075C	名前はなんていうの？		text
+loev07_01.078F	ルディエール		speaker
+loev07_01.07AA	ルディ……{n}ルディ・トライア。		text
+loev07_01.07E7	サヴィア		speaker
+loev07_01.07FE	私はサヴィア。{n}あなた、貴族なの？		text
+loev07_01.083F	ルディエール		speaker
+loev07_01.085A	まあね……たいした貴族じゃないけど。{n}……王家の特使みたいなことをやってる。		text
+loev07_01.08C5	サヴィア		speaker
+loev07_01.08DC	ふうん、西方の貴族にもまともな人がいるのね。		text
+loev07_01.0927	私たち貧しい東の人間が会う貴族なんてのは{n}ああいうごう慢な連中ばかりだから。		text
+loev07_01.0992	ルディエール		speaker
+loev07_01.09AD	まあ、いろんなヤツがいるさ……。		text
+loev07_01.09EC	君はなにをしてるんだ？		text
+loev07_01.0A21	サヴィア		speaker
+loev07_01.0A38	貧しい子供たちの世話をしながら{n}読み書きを教えているの。		text
+loev07_01.0AD3	サヴィア		speaker
+loev07_01.0AEA	今度このあたりに来たときに寄ってね。{n}あなたの旅の話を聞かせて。		text
+loev07_01.0B49	私がどこにいるかは{n}子供たちに聞くときっとわかるわ。		text
+loev07_01.0B9C	ルディエール		speaker
+loev07_01.0BB7	ああ、うん。寄らせてもらうよ。		text
+loev07_01.0BF4	サヴィア		speaker
+loev07_01.0C0B	じゃあね、ありがとう。		text

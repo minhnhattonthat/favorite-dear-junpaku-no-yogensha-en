@@ -1,0 +1,272 @@
+id	jp	en	notes
+rfd2.8009B57C	同　行　中		luix1
+rfd2.8009B5F8	BraveChgStat() ～ UnKnown Brave State...{0A}		luix1
+rfd2.8009B6E0	　　		luix1
+rfd2.8009B6E8	事件：		luix1
+rfd2.8009B6F0	天界へ		ptrx1
+rfd2.8009B6F8	ステータス		ptrx1
+rfd2.8009B704	妖　精		ptrx1
+rfd2.8009B70C	勇　者		ptrx1
+rfd2.8009B9B4	探索を行います。よろしいですか？		luix1
+rfd2.8009B9D8	　はい		luix1
+rfd2.8009B9E0	　いいえ		luix1
+rfd2.8009B9EC	国　境		ptrx1
+rfd2.8009B9F4	混乱度		ptrx1
+rfd2.8009B9FC	辺境		ptrx1
+rfd2.8009BA04	　　　　王国		ptrx1
+rfd2.8009BA14	レグランス		ptrx1
+rfd2.8009BA20	未開地		ptrx1
+rfd2.8009BA28	六王国連合		ptrx1
+rfd2.8009BA34	　　　　教国		ptrx1
+rfd2.8009BA44	エクレシア		ptrx1
+rfd2.8009BA50	ブレメース島		ptrx1
+rfd2.8009BA60	　		ptrx7
+rfd2.8009BA64	ゼルン公国		ptrx1
+rfd2.8009BA70	　　　　公国		ptrx1
+rfd2.8009BA80	クレージュ　		ptrx1
+rfd2.8009BA90	　　　　帝国		ptrx1
+rfd2.8009BAA0	グローサイン		ptrx1
+rfd2.8009BAB0	世界混乱度		luix1
+rfd2.8009BABC	混乱度：		luix2
+rfd2.8009BAC8	探　索		luix1
+rfd2.8009BB08	　		luix2
+rfd2.8009BB0C	発見		luix1
+rfd2.8009BB14	待機		luix1
+rfd2.8009BB1C	任務		luix1
+rfd2.8009BB24	不明		luix1
+rfd2.8009BB2C	負傷		luix1
+rfd2.8009BB34	死亡		luix1
+rfd2.8009BB58	現在地：%s－%s		luix1
+rfd2.8009BB68	%s　　　　　　　　混乱度　		luix1
+rfd2.8009BB84	睡眠中　　　　　　　		luix1
+rfd2.8009BB9C	修行中　　　　　　　		luix1
+rfd2.8009BBB4	休息中　　　　　　　		luix1
+rfd2.8009BBCC	移動中　　　　　　　		luix1
+rfd2.8009BBE4	任務遂行中　　　　　		luix1
+rfd2.8009BC14	任務　：		luix1
+rfd2.8009BC20	移動先：		luix1
+rfd2.8009BC2C	%sをスカウトします。よろしいですか？		luix1
+rfd2.8009BC54	　はい		luix2
+rfd2.8009BC5C	　いいえ		luix2
+rfd2.8009BC68	%sを訪問します。よろしいですか？		luix1
+rfd2.8009BC8C	ＡＰが足りません		luix1
+rfd2.8009BCC0	目的地はここでいいんだな？		luix1
+rfd2.8009BCDC	ここか……		luix1
+rfd2.8009BCE8	そこへ行けばいいんだな？		luix1
+rfd2.8009BD04	ここでいいんだな？		luix1
+rfd2.8009BD18	ふーん、そこへ行けばいいのね？		luix1
+rfd2.8009BD38	ここね？		luix1
+rfd2.8009BD44	ここですか？		luix1
+rfd2.8009BD54	ここでよろしいですか？		luix1
+rfd2.8009BD6C	　はい		luix3
+rfd2.8009BD74	　いいえ		luix3
+rfd2.8009BD9C	このアイテムを贈りますか。		luix1
+rfd2.8009BDB8	ＩＴＥＭ		ptrx1
+rfd2.8009BDC4	任　務		ptrx1
+rfd2.8009BDCC	会　話		ptrx1
+rfd2.8009BE24	まだ話があるのか？		luix1
+rfd2.8009BE38	まだ、あるのか……。		luix1
+rfd2.8009BE50	まだなにか話したいことでもあるのか？		luix1
+rfd2.8009BE78	まだなにかあるのか？		luix1
+rfd2.8009BE90	まだなにかあるの？		luix1
+rfd2.8009BEA4	他にはなにかある？		luix1
+rfd2.8009BEB8	天使様、まだなにかお話がありますか？		luix1
+rfd2.8009BEE0	何の御用でしょう		luix1
+rfd2.8009BF14	目的地はどこだ？		luix1
+rfd2.8009BF28	どこへ行けばいいんだ。		luix1
+rfd2.8009BF40	どこへ行けばいいんだ？		luix2
+rfd2.8009BF58	どこへ行けばいいの？		luix2
+rfd2.8009BF70	目的地はどこですか？		luix1
+rfd2.8009BFA4	あれ？		luix1
+rfd2.8009BFAC	あら？		luix1
+rfd2.8009BFB4	アイテムを持っていませんでしたね。		luix1
+rfd2.8009BFD8	訪問を終了します。		luix1
+rfd2.8009BFEC	勇者に同行しますか？		luix1
+rfd2.8009C004	　同行する		luix1
+rfd2.8009C010	　同行しない		luix1
+rfd2.8009C028	プレゼント　　		ptrx1
+rfd2.8009C038	羽　　　　　　		ptrx1
+rfd2.8009C048	本　　　　　　		ptrx1
+rfd2.8009C058	薬草　　　　　		ptrx1
+rfd2.8009C068	ポーション　　		ptrx1
+rfd2.8009C078	お守り　　　　		ptrx1
+rfd2.8009C088	リング　　　　		ptrx1
+rfd2.8009C098	ブレスレット　		ptrx1
+rfd2.8009C0A8	ペンダント　　		ptrx1
+rfd2.8009C0B8	ブーツ　　　　		ptrx1
+rfd2.8009C0C8	通常鎧　　　　		ptrx1
+rfd2.8009C0D8	軽装鎧　　　　		ptrx1
+rfd2.8009C0E8	ローブ　　　　		ptrx1
+rfd2.8009C0F8	弓　　　　　　		ptrx1
+rfd2.8009C108	片手剣　　　　		ptrx1
+rfd2.8009C118	ロッド　　　　		ptrx1
+rfd2.8009C128	スタッフ　　　		ptrx1
+rfd2.8009C138	湾曲刀　　　　		ptrx1
+rfd2.8009C148	片刃両手剣　　		ptrx1
+rfd2.8009C158	両刃両手剣　　		ptrx1
+rfd2.8009C168	ストレス：		ptrx1
+rfd2.8009C174	正義感：		ptrx1
+rfd2.8009C180	ＨＰ：		ptrx1
+rfd2.8009C188	素早さ：		ptrx1
+rfd2.8009C194	防御：		ptrx1
+rfd2.8009C19C	攻撃：		ptrx1
+rfd2.8009C1A4	９		ptrx1
+rfd2.8009C1A8	８		ptrx1
+rfd2.8009C1AC	７		ptrx1
+rfd2.8009C1B0	６		ptrx1
+rfd2.8009C1B4	５		ptrx1
+rfd2.8009C1B8	４		ptrx1
+rfd2.8009C1BC	３		ptrx1
+rfd2.8009C1C0	２		ptrx1
+rfd2.8009C1C4	１		ptrx1
+rfd2.8009C1C8	０		ptrx1
+rfd2.8009C1CC	勇者に贈るアイテムを選んでください。		luix1
+rfd2.8009C1F4	装備：可		luix1
+rfd2.8009C200	装備：不可		luix1
+rfd2.8009C20C	ー		luix4
+rfd2.8009C210	　		luix3
+rfd2.8009C254	同行を中断します		luix1
+rfd2.8009C268	　勇者に話しかける		luix1
+rfd2.8009C27C	　同行を終了する		luix1
+rfd2.8009C290	を		luix1
+rfd2.8009C294	に同行させますか？		luix1
+rfd2.8009C2A8	　はい		luix3
+rfd2.8009C2B0	　いいえ		luix3
+rfd2.8009C2BC	探索を中断し		luix1
+rfd2.8009C2CC	同行を中断し		luix1
+rfd2.8009C2DC	待機させますか？		luix1
+rfd2.8009C2F0	を天界に帰しますか？		luix1
+rfd2.8009C308	指示を出す妖精を選択します。		luix1
+rfd2.8009C328	天界に帰還		ptrx1
+rfd2.8009C334	待　機		ptrx1
+rfd2.8009C33C	勇者に同行		ptrx1
+rfd2.8009C348	探　索		ptrx1
+rfd2.8009C350	に指示を出します。		luix1
+rfd2.8009C364	を勇者に同行させます。		luix1
+rfd2.8009C37C	を待機させます。		luix1
+rfd2.8009C390	を帰還させます。		luix1
+rfd2.8009C3A4	　		luix1
+rfd2.8009C3A8	：		luix1
+rfd2.8009C3AC	待機		luix1
+rfd2.8009C3B4	次の探索地域に移動中		luix1
+rfd2.8009C3CC	を探索中		luix1
+rfd2.8009C3D8	に同行中		luix1
+rfd2.8009C450	天　使		ptrx1
+rfd2.8009C458	妖　精		ptrx1
+rfd2.8009C460	勇　者		ptrx1
+rfd2.8009C480	　		luix3
+rfd2.8009C4B8	　《はい》		luix2
+rfd2.8009C4C4	　《いいえ》		luix2
+rfd2.8009C4D4	に会う		luix1
+rfd2.8009C4DC	会わない		luix1
+rfd2.8009C4E8	急行しますか		luix1
+rfd2.8009C570	＜地方名＞		luix3
+rfd2.8009C57C	＜勇者名＞		luix3
+rfd2.8009C588	○○		luix1
+rfd2.8009C590	００		luix1
+rfd2.8009C598	０		luix1
+rfd2.8009C59C	＜勇者名１＞		luix1
+rfd2.8009C5AC	＜勇者名２＞		luix1
+rfd2.8009C5BC	＜妖精名＞		luix1
+rfd2.8009C5C8	＜イベント名＞		luix1
+rfd2.8009C5D8	＜目的地名＞		luix1
+rfd2.8009CF34	ＮＵＬＬ		luix1
+rfd2.8009CF40	＄＄＄＄＄＄		luix1
+rfd2.8009CF8C	９		ptrx1
+rfd2.8009CF90	８		ptrx1
+rfd2.8009CF94	７		ptrx1
+rfd2.8009CF98	６		ptrx1
+rfd2.8009CF9C	５		ptrx1
+rfd2.8009CFA0	４		ptrx1
+rfd2.8009CFA4	３		ptrx1
+rfd2.8009CFA8	２		ptrx1
+rfd2.8009CFAC	１		ptrx1
+rfd2.8009CFB0	０		ptrx1
+rfd2.8009CFD4	ラファエルに会う		luix1
+rfd2.8009CFE8	装備アイテムの入手		luix1
+rfd2.8009CFFC	消費アイテムの入手		luix1
+rfd2.8009D010	妖精を借りる　情報の入手		luix1
+rfd2.8009D02C	自分の部屋へ戻る		luix1
+rfd2.8009D040	地上界へ帰る		luix2
+rfd2.8009D084	ゲームデータのセーブやロード		luix1
+rfd2.8009D0A4	各キャラクターのステータスを確認		luix1
+rfd2.8009D0C8	１日過ごしてＡＰを回復		luix1
+rfd2.8009D0E0	天界の他の宮へ移動		luix1
+rfd2.8009D120	どうしたのです？　＄＄＄＄＄＄。		luix1
+rfd2.8009D144	またいつでも来なさい、＄＄＄＄＄＄。		luix1
+rfd2.8009D16C	いらっしゃい。		luix1
+rfd2.8009D17C	なにか必要なものがあるのかしら。		luix1
+rfd2.8009D1A0	これは		luix2
+rfd2.8009D1A8	個持っているわね。		luix2
+rfd2.8009D1BC	それ以上は持てないみたいね。		luix1
+rfd2.8009D1DC	まずは、アイテムを勇者に渡していらっしゃい。		luix1
+rfd2.8009D20C	これでいいのかしら？		luix2
+rfd2.8009D224	　はい		luix7
+rfd2.8009D22C	　いいえ		luix7
+rfd2.8009D238	あら、ＡＰが足りないみたいよ。		luix1
+rfd2.8009D258	フロー宮から移動しますか？		luix1
+rfd2.8009D274	そう、これは必要ないのね。		luix2
+rfd2.8009D290	勇者によろこんでもらえるといいわね。		luix2
+rfd2.8009D2B8	アイテムはしっかり活用しなさいね。		luix1
+rfd2.8009D2DC	また必要なものがあったら、来るといいわ。		luix1
+rfd2.8009D308	こんにちは、今日はどうしたのですか？		luix1
+rfd2.8009D330	あなたの勇者に、必要なものがあるのですか？		luix1
+rfd2.8009D35C	そんなにたくさんは持てませんよ。		luix1
+rfd2.8009D380	勇者に渡してから、またいらっしゃい。		luix1
+rfd2.8009D3A8	ＡＰが足りないみたいですね。		luix1
+rfd2.8009D3C8	エミリア宮から移動しますか？		luix1
+rfd2.8009D3E8	そうですか、これは必要ないのですね。		luix2
+rfd2.8009D410	勇者のために、		luix1
+rfd2.8009D420	アイテムはきちんと用意しておくのですよ。		luix1
+rfd2.8009D44C	あら、いらっしゃい。今日はどうしたの？		luix1
+rfd2.8009D474	妖精が必要なの？		luix5
+rfd2.8009D488	それとも誰かのことが聞きたいの？		luix5
+rfd2.8009D4AC	フォータ離宮から移動しますか？		luix1
+rfd2.8009D4CC	この子でいい？		luix1
+rfd2.8009D4DC	じゃあ、この子といっしょにがんばってね。		luix1
+rfd2.8009D508	そう、この子じゃないのね。		luix1
+rfd2.8009D524	もう、手伝える子たちはいないわよ。		luix1
+rfd2.8009D548	の情報を聞きますか？		luix1
+rfd2.8009D560	ＡＰが足りないわよ。		luix1
+rfd2.8009D578	あら、ＡＰが足りないみたいね。		luix1
+rfd2.8009D598	妖精たちには、あまり無理させちゃダメよ。		luix1
+rfd2.8009D5C4	またなにかあったら、いらっしゃい。		luix1
+rfd2.8009D5E8	地上に戻る		ptrx2
+rfd2.8009D5F4	ラキア宮		ptrx1 luix1
+rfd2.8009D600	フォータ離宮		ptrx1
+rfd2.8009D610	エミリア宮		ptrx1
+rfd2.8009D61C	フロー宮		ptrx1
+rfd2.8009D628	聖アザリア宮		ptrx1
+rfd2.8009D638	移動先を選択してください		luix1
+rfd2.8009D654	移　動		ptrx1
+rfd2.8009D65C	休　息		ptrx1
+rfd2.8009D664	ステータス		ptrx1
+rfd2.8009D670	データ		ptrx1
+rfd2.8009D678	妖精雇用		luix1
+rfd2.8009D684	情　報		luix1
+rfd2.8009D694	ＡＰ回復中・・・		luix1
+rfd2.8009D6A8	時が過ぎるのみ・・・		luix1
+rfd2.8009D6C8	ローザはちょっと言葉づかいは冷たいけれど、		luix1
+rfd2.8009D6F4	とても心のやさしい、いい子よ。		luix1
+rfd2.8009D714	きっと、あなたの役に立つと思うわ。		luix1
+rfd2.8009D738	フロリンダはあんな格好をしているけど、		luix1
+rfd2.8009D760	とっても真面目に仕事をするいい子よ。		luix1
+rfd2.8009D788	シェリーは調子のいいところがちょっとあるけど、		luix1
+rfd2.8009D7B8	仕事はしっかりこなしてくれる子よ。		luix1
+rfd2.8009D7DC	リリィはなんでもこなせるマイペースな子よ。		luix1
+rfd2.8009D808	少しおとなしく見えるかもしれないけど、		luix1
+rfd2.8009D830	リンクスは人一倍のがんばり屋よ。		luix1
+rfd2.8009D854	ちょっと危なっかしく見えるけど、大丈夫！		luix1
+rfd2.8009D880	アクイラは少しおっとりしているかもしれないわね。		luix1
+rfd2.8009D8B4	でも、仕事はしっかりしてくれるから、		luix1
+rfd2.8009D8DC	シータスとてもしっかり者で、仕事はよくできるわ。		luix1
+rfd2.8009D910	見かけに惑わされたりしないでね。		luix1
+rfd2.8009D934	レーパスはとても面倒見のいい子よ。		luix1
+rfd2.8009D958	真面目で正義感の強い彼女なら		luix1
+rfd2.8009D99C	誰のことが聞きたいの？		luix1
+rfd2.8009D9E4	ね。		luix1
+rfd2.8009D9F4	／		luix1
+rfd2.8009D9F8	００００		luix1
+rfd2.8009DA04	＄＄＄＄＄＄、ボーナスＡＰ		luix1
+rfd2.8009DA20	です。{n}アルカヤでのあなたの行動に役立ててください。		luix1
+rfd2.8009DBA4	＄＄＄＄＄＄		luix1

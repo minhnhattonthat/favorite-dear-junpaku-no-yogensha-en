@@ -1,0 +1,25 @@
+id	jp	en	notes
+ceev19_01.0002	天使の大けが		dev label (guess: not shown)
+ceev19_01.00A2	セシア		unit name (32-byte field)
+ceev19_01.00DE	クラレンス		unit name (32-byte field)
+ceev19_01.04DC	クラレンス		speaker
+ceev19_01.04F5	なんだ、お嬢さん、怖い顔してどうした？		text
+ceev19_01.052A	セシア		speaker
+ceev19_01.053F	あなたがヴァイパーですね。{n}魔石を返していただきに来ました！		text
+ceev19_01.058A	クラレンス		speaker
+ceev19_01.05A3	おいおい、人聞きが悪いな。{n}俺はこれをひとから譲り受けたんだぜ。		text
+ceev19_01.0636	セシア		speaker
+ceev19_01.064B	それはロクスをだまして手に入れたということなら、{n}もっと許しません！		text
+ceev19_01.0702	クラレンス		speaker
+ceev19_01.071B	まあ、落ち着けよ、お嬢さん。{n}それにロクスを知ってるっていうなら{n}なおさらウソはつけねえな。		text
+ceev19_01.0786	わかった。{n}どうせ頼まれごとなんだ。{n}返すよ。		text
+ceev19_01.07D7	セシア		speaker
+ceev19_01.07EC	では、すぐに！		text
+ceev19_01.0809	クラレンス		speaker
+ceev19_01.0822	いや、お嬢さんにじゃねえ、天使様にだ。		text
+ceev19_01.0857	セシア		speaker
+ceev19_01.086C	え？		text
+ceev19_01.08CF	クラレンス		speaker
+ceev19_01.08E8	いるんだろ？　天使様よ。		text
+ceev19_01.095F	クラレンス		speaker
+ceev19_01.0978	ほんとはお前が欲しがってるのはわかってるんだ。		text

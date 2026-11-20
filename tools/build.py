@@ -9,8 +9,9 @@
 
 Steps: check the dump against rom.sha1; unpack it into work/disc/tree with dumpsxiso if that is missing; rebuild each
 LKF that has changed entries (lkf.build, header rewritten); write build/<name>.xml from work/disc/layout.xml with
-every file pointing at its original or rebuilt copy; run mkpsxiso. Insertion steps (later phases) hand their files to
-build() as `lkf_changes` {archive: {entry name: bytes}} and `files` {disc file name: bytes}."""
+every file pointing at its original or rebuilt copy; run mkpsxiso. The default build takes its changes from
+script/*.tsv `en` columns (tools/insert.py) as `lkf_changes` {archive: {entry name: bytes}} and `files`
+{disc file name: bytes}; with no translated rows it equals the original disc."""
 import argparse
 import hashlib
 import subprocess
@@ -127,7 +128,10 @@ def main():
     if a.grow_test:
         out = build("grow", lkf_changes=grow_changes())
     else:
-        out = build()   # insertion steps (phase 7) pass their lkf_changes/files here
+        import insert
+        lkf_changes, files, nrows = insert.changes("en")
+        out = build(lkf_changes=lkf_changes, files=files)
+        print(f"{nrows} translated rows")
     print(f"{out}: sha1 {sha1(out)}")
 
 

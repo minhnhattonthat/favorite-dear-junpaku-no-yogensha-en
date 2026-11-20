@@ -1,0 +1,32 @@
+id	jp	en	notes
+eiev10b.0002	聖都陥落		dev label (guess: not shown)
+eiev10b.00A2	アイリーン		unit name (32-byte field)
+eiev10b.00DE	セレニス		unit name (32-byte field)
+eiev10b.011A	帝国騎士		unit name (32-byte field)
+eiev10b.0156	帝国騎士		unit name (32-byte field)
+eiev10b.0540	アイリーン		speaker
+eiev10b.0559	姉さん……。		text
+eiev10b.0584	セレニス		speaker
+eiev10b.059B	うん？{n}お前……アイリーン？		text
+eiev10b.05D6	アイリーン		speaker
+eiev10b.05EF	そうよ……。		text
+eiev10b.061A	セレニス		speaker
+eiev10b.0631	こんなところにどうしたの？		text
+eiev10b.066A	アイリーン		speaker
+eiev10b.0683	セレニス姉さんこそ……なにをしているの？		text
+eiev10b.06CA	アイリーン		speaker
+eiev10b.06E3	お前には関係のないことよ。アイリーン。		text
+eiev10b.0758	アイリーン		speaker
+eiev10b.0771	セレニス姉さん……本当にフェイン、殺したの？		text
+eiev10b.07BC	ウソよね……？		text
+eiev10b.07E9	セレニス		speaker
+eiev10b.0800	ああ、フェインか……。		text
+eiev10b.0835	確かに殺したわよ。		text
+eiev10b.0866	刺客達にやらせたわ。		text
+eiev10b.0899	こそこそ嗅ぎ回られてうっとうしかったから。フフフ。		text
+eiev10b.08EA	アイリーン		speaker
+eiev10b.0903	ひどい……		text
+eiev10b.092C	あなたはもう姉さんじゃない……		text
+eiev10b.0969	セレニス		speaker
+eiev10b.0980	ああ、私もお前を妹などと思っていないわ。		text
+eiev10b.09C7	さあ、目障りだからお前も死になさい。		text

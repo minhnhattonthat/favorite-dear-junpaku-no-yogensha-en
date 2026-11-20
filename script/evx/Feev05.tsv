@@ -1,0 +1,16 @@
+id	jp	en	notes
+Feev05.0002	刺客		dev label (guess: not shown)
+Feev05.00A2	フェイン		unit name (32-byte field)
+Feev05.00DE	ウィザード		unit name (32-byte field)
+Feev05.011A	ウィザード		unit name (32-byte field)
+Feev05.0156	ウィザード		unit name (32-byte field)
+Feev05.0192	ウィザード		unit name (32-byte field)
+Feev05.01CE	ウィザード		unit name (32-byte field)
+Feev05.04C8	フェイン		speaker
+Feev05.04DF	誰だ！		text
+Feev05.0544	フェイン		speaker
+Feev05.055B	貴様らか……。		text
+Feev05.0578	ウォーロック		speaker
+Feev05.0593	…………。		text
+Feev05.05AC	フェイン		speaker
+Feev05.05C3	また、無言というわけか……{n}だが、今度は前のようにいかんぞ。		text

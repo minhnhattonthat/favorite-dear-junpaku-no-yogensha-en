@@ -1,0 +1,34 @@
+id	jp	en	notes
+laev02.0058	レイラ		speaker
+laev02.0062	牢から逃げ出せたのは、うれしいけれど、{n}これからどうしたらいいのかしら……。{wait}{clear}		
+laev02.00B2	＄＄＄＄＄＄		speaker
+laev02.00C2	レイラ、なにか心配ごとでも？{wait}{clear}		
+laev02.00E2	レイラ		speaker
+laev02.00EC	いいえ、そうではないの……。{wait}{clear}ただ、騎士としての立場から離れていることなんて{n}あまりなかったものだから、なんだか不思議で……。{wait}{clear}		
+laev02.0170	ＮＵＬＬ		speaker
+laev02.0180	《気持ちを楽にしてください。》{n}		
+laev02.01A6	《そのうち、慣れてくるものです。》{n}		
+laev02.01D6	＄＄＄＄＄＄		speaker
+laev02.01E6	レイラ自身はこの状況に混乱していると思いますが、{n}気持ちを楽にしてください。{wait}{clear}そのうちに、あなたの誤解はとけて、{n}安心して帝国へ戻ることもできると思いますよ。{wait}{clear}		
+laev02.028A	レイラ		speaker
+laev02.0294	そうね……。{n}ありがとう、＄＄＄＄＄＄。{wait}{clear}		
+laev02.02CA	＄＄＄＄＄＄		speaker
+laev02.02DA	今はレイラ自身が混乱しているのだと思いますが、{n}そのうち、慣れてきます。{wait}{clear}帝国騎士としては気づかなかったことも、{n}なにかわかるかもしれませんし……。{n}きっと帝国へもすぐに戻ることができますよ。{wait}{clear}		
+laev02.03A0	レイラ		speaker
+laev02.03AA	そうね……。{wait}{clear}		
+laev02.03BA	レイラ		speaker
+laev02.03C4	そろそろ、今日泊まる宿屋を探しましょうか。{wait}{clear}		
+laev02.03F2	＄＄＄＄＄＄		speaker
+laev02.0402	はい。{wait}{clear}		
+laev02.041A	宿屋の主		speaker
+laev02.0426	では、騎士様、この部屋をお使いください。{n}いえいえ、お代はお安くしておきます。{wait}{clear}それに、気に入っていただければ{n}いつまででもお使いになって結構ですから。{n}では、ごゆっくり。{wait}{clear}		
+laev02.04EE	レイラ		speaker
+laev02.04F8	＄＄＄＄＄＄……いる？{wait}{clear}		
+laev02.0512	＄＄＄＄＄＄		speaker
+laev02.0522	はい、ここに。{wait}{clear}		
+laev02.0534	レイラ		speaker
+laev02.053E	今の……見ていたわよね？{wait}{clear}		
+laev02.055A	＄＄＄＄＄＄		speaker
+laev02.056A	はい……。{wait}{clear}		
+laev02.0578	レイラ		speaker
+laev02.0582	この軍服のせいでこんなふうになるなんて……{n}いい気持ちはしないわね……。{wait}{clear}		

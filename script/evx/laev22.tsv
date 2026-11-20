@@ -1,0 +1,7 @@
+id	jp	en	notes
+laev22.0002	サヴィオ戦		dev label (guess: not shown)
+laev22.00A2	サヴィオ通常		unit name (32-byte field)
+laev22.00DE	レイラ		unit name (32-byte field)
+laev22.04A8	サヴィオ		speaker
+laev22.04CF	お前は……{n}セレニスの言っていた天使の勇者だな……。		text
+laev22.0512	殺す。		text

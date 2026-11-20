@@ -1,0 +1,29 @@
+id	jp	en	notes
+roev21.0002	セレニスとの戦い		dev label (guess: not shown)
+roev21.00A2	ロクス		unit name (32-byte field)
+roev21.00DE	セレニス		unit name (32-byte field)
+roev21.011A	魔法		unit name (32-byte field)
+roev21.0156	エンディミオン		unit name (32-byte field)
+roev21.0192	魔石（初期）		unit name (32-byte field)
+roev21.01CE	魔石（点滅）		unit name (32-byte field)
+roev21.020A	魔石（赤）		unit name (32-byte field)
+roev21.0246	魔石の台		unit name (32-byte field)
+roev21.04E8	セレニス		speaker
+roev21.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
+roev21.0532	ロクス		speaker
+roev21.0547	帝国の魔女……。{n}ここでお前を止めなければならない。		text
+roev21.058A	元凶がお前だと言うことは{n}わかっているんだ。		text
+roev21.05C5	セレニス		speaker
+roev21.05DC	ハハハ、あなた達に私を止めることなど{n}できないわ。		text
+roev21.0691	セレニス		speaker
+roev21.06A8	そこでじっとしていなさい。{n}天使の勇者よ。		text
+roev21.06E1	偉大な力がよみがえるのを見せてあげるわ。		text
+roev21.073C	皇帝、魔石に最後の魂を捧ぐ時がきました。		text
+roev21.0783	あなたは伝説と同じように天竜となって、{n}世界を生まれ変わらせるのです。		text
+roev21.082C	エンディミオン		speaker
+roev21.0849	セレニス……お前はなにを……。		text
+roev21.0886	セレニス		speaker
+roev21.089D	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。		text
+roev21.0906	さあ……始めましょう……。		text
+roev21.09BB	エンディミオン		speaker
+roev21.09D8	ああ……。		text

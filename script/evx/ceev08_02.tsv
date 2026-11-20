@@ -1,0 +1,27 @@
+id	jp	en	notes
+ceev08_02.0002	聖母2		dev label (guess: not shown)
+ceev08_02.00A2	セシア		unit name (32-byte field)
+ceev08_02.00DE	聖母		unit name (32-byte field)
+ceev08_02.011A	魔獣１		unit name (32-byte field)
+ceev08_02.0156	魔獣２		unit name (32-byte field)
+ceev08_02.0192	魔獣３		unit name (32-byte field)
+ceev08_02.01CE	イオン		unit name (32-byte field)
+ceev08_02.0498	イオン		speaker
+ceev08_02.04AD	魔石を渡せ。{n}渡さないと殺す。		text
+ceev08_02.04DA	聖母		speaker
+ceev08_02.04ED	強き力を持つ幼き子……{n}あなたが、なんと言おうとも{n}この石を渡すわけにはいきません。		text
+ceev08_02.0550	イオン		speaker
+ceev08_02.0565	…………。		text
+ceev08_02.057E	ゾネ！　モーント！　スターン！{n}こいつを殺せ！　		text
+ceev08_02.0649	セシア		speaker
+ceev08_02.065E	やめて！		text
+ceev08_02.0725	イオン		speaker
+ceev08_02.073A	お前……		text
+ceev08_02.0761	セシア		speaker
+ceev08_02.0776	あなた、あの時の……		text
+ceev08_02.07A9	イオン		speaker
+ceev08_02.07BE	じゃまするな……		text
+ceev08_02.07ED	セシア		speaker
+ceev08_02.0802	なぜあなたがこんなことをするの？{n}理由を聞かせて……。		text
+ceev08_02.0857	イオン		speaker
+ceev08_02.086C	うるさい……。{n}……今度来るときは必ず魔石をもらうからな。		text

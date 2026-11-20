@@ -1,0 +1,70 @@
+id	jp	en	notes
+Feev31b.0002	ラストバトル(無様に食われる)		dev label (guess: not shown)
+Feev31b.00A2	フェイン		unit name (32-byte field)
+Feev31b.00DE	ベルゼバブ		unit name (32-byte field)
+Feev31b.011A	天竜		unit name (32-byte field)
+Feev31b.04A8	エンディミオン		speaker
+Feev31b.04C5	どうだ、わかったか？		text
+Feev31b.04F8	これが、支配者の力だ。		text
+Feev31b.052D	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
+Feev31b.0584	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！		text
+Feev31b.05E3	神という名は我らのためにあるのだ……		text
+Feev31b.0626	きょう慢な天使よ、思い知るがいい。		text
+Feev31b.0667	しかし……我々は{n}王としての慈悲を知るものだ……		text
+Feev31b.06B6	高貴なものだけがもつ偉大な慈悲だ。		text
+Feev31b.06F7	天使よ、この勇者の魂を救いたくはないか？		text
+Feev31b.073E	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。		text
+Feev31b.07C5	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。		text
+Feev31b.083C	さあ、答えよ。		text
+Feev31b.0869	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
+Feev31b.08C8	《わかりました……》		choice
+Feev31b.08DF	《いいえ……》		choice
+Feev31b.0900	＄＄＄＄＄＄		speaker
+Feev31b.091B	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
+Feev31b.096A	どうか……彼の魂を、{n}彼の命を救ってください……		text
+Feev31b.09B9	エンディミオン		speaker
+Feev31b.09D6	ふふ、すばらしい。{n}いい心ばえだ……		text
+Feev31b.0A19	では……この勇者を救ってやろう……。		text
+Feev31b.0AA0	＄＄＄＄＄＄		speaker
+Feev31b.0ABB	フェイン！！		text
+Feev31b.0AE6	エンディミオン		speaker
+Feev31b.0B03	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
+Feev31b.0B5C	すべてを失ったその顔が見たかったのだ！		text
+Feev31b.0BA1	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
+Feev31b.0BF8	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
+Feev31b.0C47	死ね。		text
+Feev31b.0CBC	＄＄＄＄＄＄		speaker
+Feev31b.0CD7	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
+Feev31b.0D28	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
+Feev31b.0D9F	エンディミオン		speaker
+Feev31b.0DBC	ふん、小賢しいことを……。		text
+Feev31b.0DF5	いいだろう。		text
+Feev31b.0E20	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
+Feev31b.0E69	男の声		speaker
+Feev31b.0E7E	待て、ベルゼバブ……		text
+Feev31b.0ED9	エンディミオン		speaker
+Feev31b.0EF6	私の真の名を呼ぶとは……		text
+Feev31b.0F2D	男の声		speaker
+Feev31b.0F42	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
+Feev31b.0F99	ベルゼバブ		speaker
+Feev31b.0FB2	その声……この波動は！！		text
+Feev31b.1079	ミカエル		speaker
+Feev31b.1090	久しぶりだな、ハエの王。		text
+Feev31b.10C7	ベルゼバブ		speaker
+Feev31b.10E0	ミカエル！　ラファエル！		text
+Feev31b.1117	ミカエル		speaker
+Feev31b.112E	遅れてすまなかったな、＄＄＄＄＄＄。		text
+Feev31b.1171	ラファエル		speaker
+Feev31b.118A	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
+Feev31b.11ED	そして、影にいる堕天使の存在の強大さも……。		text
+Feev31b.1238	ミカエル		speaker
+Feev31b.124F	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
+Feev31b.12AC	やつらを、ともに倒そう。		text
+Feev31b.12E3	ラファエル		speaker
+Feev31b.12FC	さあ、勇者よ、よみがえりなさい。		text
+Feev31b.13CF	フェイン		speaker
+Feev31b.13E6	……これは……		text
+Feev31b.1413	ラファエル		speaker
+Feev31b.142C	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
+Feev31b.147F	ベルゼバブ		speaker
+Feev31b.1498	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text

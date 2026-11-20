@@ -1,0 +1,26 @@
+id	jp	en	notes
+men1_Ro02.0052	ロクス		speaker
+men1_Ro02.005C	やっと来たか。{wait}{clear}		
+men1_Ro02.006E	＄＄＄＄＄＄		speaker
+men1_Ro02.007E	どうしたのですか、ロクス？{n}なにか気になることでも？{wait}{clear}		
+men1_Ro02.00B6	ロクス		speaker
+men1_Ro02.00C0	いや、そんなんじゃない。{n}ちょっと話がしたいと思ったんだが……{n}いいか？{wait}{clear}		
+men1_Ro02.010C	ＮＵＬＬ		speaker
+men1_Ro02.011C	《ええ、もちろんです。》{n}		
+men1_Ro02.013C	《今は、ちょっと……。》{n}		
+men1_Ro02.015C	＄＄＄＄＄＄		speaker
+men1_Ro02.016C	ええ、もちろんです。{n}ロクスに呼んでもらえるなんて、うれしいです。{wait}{clear}		
+men1_Ro02.01B2	ロクス		speaker
+men1_Ro02.01BC	そんなによろこぶことじゃないと思うが……。{n}まあいい。{wait}{clear}じゃあ、少しだけつきあってくれ。{wait}{clear}		
+men1_Ro02.021A	＄＄＄＄＄＄		speaker
+men1_Ro02.022A	はい。{wait}{clear}		
+men1_Ro02.0238	＄＄＄＄＄＄		speaker
+men1_Ro02.0248	今は、ちょっと……{n}ロクスには申し訳ないのですが、{n}あまり時間がなくて……。{wait}{clear}		
+men1_Ro02.0298	ロクス		speaker
+men1_Ro02.02A2	僕につきあう時間はないと？{n}お忙しくてよろしいじゃないですか、天使様。{wait}{clear}		
+men1_Ro02.02EC	＄＄＄＄＄＄		speaker
+men1_Ro02.02FC	あの……そういうわけでは……。{n}でも、すみません……。{wait}{clear}		
+men1_Ro02.0336	ロクス		speaker
+men1_Ro02.0340	まあ、いいさ。{n}たいした話でもないことだし。{n}また、そのうち呼ぶよ、そのうち。{wait}{clear}		
+men1_Ro02.0392	＄＄＄＄＄＄		speaker
+men1_Ro02.03A2	はい、わかりました。{n}本当にすみませんでした。{wait}{clear}		

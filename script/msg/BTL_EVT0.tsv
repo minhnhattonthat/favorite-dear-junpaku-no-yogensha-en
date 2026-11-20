@@ -1,0 +1,865 @@
+id	jp	en	notes
+BTL_EVT0.01E0S	フェイン		speaker
+BTL_EVT0.01E9	村を襲っているのは、お前たちか？		
+BTL_EVT0.020DS	タイタン		speaker
+BTL_EVT0.0216	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！		
+BTL_EVT0.02BES	フェイン		speaker
+BTL_EVT0.02C7	戦いたくはないが……行くぞ。		
+BTL_EVT0.02E7S	フェイン		speaker
+BTL_EVT0.02F0	終わりか……。		
+BTL_EVT0.0302S	タイタン		speaker
+BTL_EVT0.030B	ふん！　口ほどにもない！！		
+BTL_EVT0.0329S	タイタン		speaker
+BTL_EVT0.0332	ふん！　口ほどにもない！！		
+BTL_EVT0.0374S	帝国兵		speaker
+BTL_EVT0.037B	黙って我々に従え！{n}逆らうというのなら、殺す！		
+BTL_EVT0.03ADS	帝国兵		speaker
+BTL_EVT0.03B4	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
+BTL_EVT0.03E4S	帝国兵		speaker
+BTL_EVT0.03EB	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
+BTL_EVT0.043FS	フェイン		speaker
+BTL_EVT0.0448	帝国はなぜこんなことをする！？		
+BTL_EVT0.046AS	帝国騎士		speaker
+BTL_EVT0.0473	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！		
+BTL_EVT0.04BBS	フェイン		speaker
+BTL_EVT0.04C4	なぜ、こんなところまで？		
+BTL_EVT0.04E0S	帝国騎士		speaker
+BTL_EVT0.04E9	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
+BTL_EVT0.052DS	帝国騎士		speaker
+BTL_EVT0.0536	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
+BTL_EVT0.059ES	フェイン		speaker
+BTL_EVT0.05A7	あれはいったい……。		
+BTL_EVT0.05BFS	ファントム		speaker
+BTL_EVT0.05CA	…………。		
+BTL_EVT0.05D8S	ファントム		speaker
+BTL_EVT0.05E3	…………。		
+BTL_EVT0.0639S	フェイン		speaker
+BTL_EVT0.0642	帝国はなぜこんなことをする！？		
+BTL_EVT0.0664S	帝国兵		speaker
+BTL_EVT0.066B	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！		
+BTL_EVT0.06B3S	フェイン		speaker
+BTL_EVT0.06BC	この帝国の動き……。{n}何が起ころうとしているのだ？		
+BTL_EVT0.06F2S	帝国兵		speaker
+BTL_EVT0.06F9	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT0.0725S	帝国兵		speaker
+BTL_EVT0.072C	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT0.077CS	フェイン		speaker
+BTL_EVT0.0785	お前らか、こんなことをしたのは……。		
+BTL_EVT0.07ADS	帝国兵		speaker
+BTL_EVT0.07B4	なんだ貴様は？{n}我々に歯向かうなどもってのほかだ！		
+BTL_EVT0.07EAS	フェイン		speaker
+BTL_EVT0.07F3	くそっ……。{n}こんなことがいつまで続くんだ……。		
+BTL_EVT0.0827S	帝国兵		speaker
+BTL_EVT0.082E	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT0.085AS	帝国兵		speaker
+BTL_EVT0.0861	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT0.08B1S	カイゼル		speaker
+BTL_EVT0.08BA	我々帝国軍に逆らうだと、面白い……。{n}行くぞ！！		
+BTL_EVT0.08EES	カイゼル		speaker
+BTL_EVT0.08F7	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。		
+BTL_EVT0.0951S	カイゼル		speaker
+BTL_EVT0.095A	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。		
+BTL_EVT0.09B8S	カイゼル		speaker
+BTL_EVT0.09C1	ふん……我々に逆らうなど……愚かな……。		
+BTL_EVT0.09EDS	カイゼル		speaker
+BTL_EVT0.09F6	…………。		
+BTL_EVT0.0A28S	フェイン		speaker
+BTL_EVT0.0A31	あの男は……魔剣に魂を奪われたのか……。		
+BTL_EVT0.0A5DS	アルベリック		speaker
+BTL_EVT0.0A6A	この剣も喜んでいる……		
+BTL_EVT0.0A84S	アルベリック		speaker
+BTL_EVT0.0A91	天使の勇者の血は最高だとね……。		
+BTL_EVT0.0AB5S	アルベリック		speaker
+BTL_EVT0.0AC2	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
+BTL_EVT0.0B1ES	騎士隊長		speaker
+BTL_EVT0.0B27	帝国バンザイ！！		
+BTL_EVT0.0B3BS	騎士隊長		speaker
+BTL_EVT0.0B44	帝国バンザイ！！		
+BTL_EVT0.0B7CS	帝国兵		speaker
+BTL_EVT0.0B83	我々に、歯向かうやつはどこだ！！		
+BTL_EVT0.0BA7S	フェイン		speaker
+BTL_EVT0.0BB0	くっ……帝国のやつら……。{n}まだいるのか？		
+BTL_EVT0.0BDES	帝国兵		speaker
+BTL_EVT0.0BE5	我々に勝てると思っているのか！！		
+BTL_EVT0.0C09S	帝国兵		speaker
+BTL_EVT0.0C10	我々に勝てると思っているのか！！		
+BTL_EVT0.0C58S	帝国騎士		speaker
+BTL_EVT0.0C61	ええいっ！　おれが相手だ！！		
+BTL_EVT0.0C81S	帝国騎士		speaker
+BTL_EVT0.0C8A	つ、強すぎる……。		
+BTL_EVT0.0CA0S	帝国騎士		speaker
+BTL_EVT0.0CA9	敵として、不足はなかった……。		
+BTL_EVT0.0CCBS	帝国騎士		speaker
+BTL_EVT0.0CD4	おれに勝てるはずなどない！　わはははは！		
+BTL_EVT0.0D24S	盗賊		speaker
+BTL_EVT0.0D29	てめえ、やっちまうぞ。		
+BTL_EVT0.0D43S	フェイン		speaker
+BTL_EVT0.0D4C	いくぞ！		
+BTL_EVT0.0D58S	フェイン		speaker
+BTL_EVT0.0D61	…………。		
+BTL_EVT0.0D6FS	盗賊		speaker
+BTL_EVT0.0D74	はん！　オレたちにかなうわけねえんだよ！		
+BTL_EVT0.0DA0S	盗賊		speaker
+BTL_EVT0.0DA5	はん！　オレたちにかなうわけねえんだよ！		
+BTL_EVT0.0DF5S	帝国兵		speaker
+BTL_EVT0.0DFC	なんだ貴様は？		
+BTL_EVT0.0E0ES	フェイン		speaker
+BTL_EVT0.0E17	お前らか、こんなことをしたのは……。		
+BTL_EVT0.0E3FS	フェイン		speaker
+BTL_EVT0.0E48	…………。		
+BTL_EVT0.0E56S	帝国兵		speaker
+BTL_EVT0.0E5D	我々も甘く見られたものだな。		
+BTL_EVT0.0E7DS	帝国兵		speaker
+BTL_EVT0.0E84	我々も甘く見られたものだな。		
+BTL_EVT0.0EC8S	ゾンビ		speaker
+BTL_EVT0.0ECF	ヴヴヴ……。		
+BTL_EVT0.0EDFS	フェイン		speaker
+BTL_EVT0.0EE8	おとなしく、土にかえれ……。		
+BTL_EVT0.0F08S	フェイン		speaker
+BTL_EVT0.0F11	…………。		
+BTL_EVT0.0F1FS	ゾンビ		speaker
+BTL_EVT0.0F26	ウウヴッッ……。		
+BTL_EVT0.0F3AS	ゾンビ		speaker
+BTL_EVT0.0F41	ウウヴッッ……。		
+BTL_EVT0.0F79S	吸血鬼		speaker
+BTL_EVT0.0F80	なんだ貴様は？		
+BTL_EVT0.0F92S	フェイン		speaker
+BTL_EVT0.0F9B	貴様と話すひまなどない。{n}行くぞ！		
+BTL_EVT0.0FC1S	フェイン		speaker
+BTL_EVT0.0FCA	…………。		
+BTL_EVT0.0FD8S	吸血鬼		speaker
+BTL_EVT0.0FDF	人間ごときが、我らにかなうはずなかろう！		
+BTL_EVT0.100BS	吸血鬼		speaker
+BTL_EVT0.1012	おお、逃げていったわ！{n}わはははは……！		
+BTL_EVT0.1062S	メデューサ		speaker
+BTL_EVT0.106D	ほほほ……。		
+BTL_EVT0.107DS	フェイン		speaker
+BTL_EVT0.1086	…………。		
+BTL_EVT0.1094S	メデューサ		speaker
+BTL_EVT0.109F	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
+BTL_EVT0.10DBS	メデューサ		speaker
+BTL_EVT0.10E6	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
+BTL_EVT0.1146S	暗殺者		speaker
+BTL_EVT0.114D	なんだー、お前は？{n}オレたちの邪魔をするな！		
+BTL_EVT0.117DS	フェイン		speaker
+BTL_EVT0.1186	あんな連中がいるなんて、{n}レグランスもいろいろありそうだな……。		
+BTL_EVT0.11CAS	暗殺者		speaker
+BTL_EVT0.11D1	いい気味だぜ。		
+BTL_EVT0.11E3S	暗殺者		speaker
+BTL_EVT0.11EA	はっ！　逃げて行きやがったぜ！		
+BTL_EVT0.1230S	フェイン		speaker
+BTL_EVT0.1239	帝国軍に魔族が？		
+BTL_EVT0.124DS	フェイン		speaker
+BTL_EVT0.1256	帝国を止めなければ……。		
+BTL_EVT0.1272S	帝国軍		speaker
+BTL_EVT0.1279	ははははは！		
+BTL_EVT0.1289S	帝国軍		speaker
+BTL_EVT0.1290	ははははは！		
+BTL_EVT0.12C4S	フェイン		speaker
+BTL_EVT0.12CD	お前らをのさばらしておくわけにはいかない。		
+BTL_EVT0.12FBS	暗殺者		speaker
+BTL_EVT0.1302	我々の邪魔をするな！		
+BTL_EVT0.131AS	暗殺者		speaker
+BTL_EVT0.1321	くそ……。		
+BTL_EVT0.132FS	暗殺者		speaker
+BTL_EVT0.1336	思い知ったか！		
+BTL_EVT0.1348S	暗殺者		speaker
+BTL_EVT0.134F	思い知ったか！		
+BTL_EVT0.1385S	ティタン		speaker
+BTL_EVT0.138E	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！		
+BTL_EVT0.13D2S	フェイン		speaker
+BTL_EVT0.13DB	これ以上お前たちの好きにはさせん。		
+BTL_EVT0.1401S	フェイン		speaker
+BTL_EVT0.140A	終わりか……。		
+BTL_EVT0.141CS	ティタン		speaker
+BTL_EVT0.1425	に、二度とくるな！！		
+BTL_EVT0.143DS	ティタン		speaker
+BTL_EVT0.1446	に、二度とくるな！！		
+BTL_EVT0.1482S	サヴィオ		speaker
+BTL_EVT0.148B	お前は……{n}セレニスの言っていた天使の勇者だな……。		
+BTL_EVT0.14C3S	サヴィオ		speaker
+BTL_EVT0.14CC	殺す。		
+BTL_EVT0.14D6S	フェイン		speaker
+BTL_EVT0.14DF	セレニスを知っているのか？		
+BTL_EVT0.14FDS	サヴィオ		speaker
+BTL_EVT0.1506	俺に鎧をくれた魔女だ……{wait}{clear}だが、これ以上はお前には語らん……{n}死んでいく男に{n}なにを聞かせても無駄だからな……		
+BTL_EVT0.157AS	サヴィオ		speaker
+BTL_EVT0.1583	ぐ、ぐぐぐ……。		
+BTL_EVT0.1597S	サヴィオ		speaker
+BTL_EVT0.15A0	がああああ！！		
+BTL_EVT0.15B2S	サヴィオ		speaker
+BTL_EVT0.15BB	邪魔者は……死ね。		
+BTL_EVT0.15D1S	サヴィオ		speaker
+BTL_EVT0.15DA	うおーっ！		
+BTL_EVT0.160CS	クラレンス		speaker
+BTL_EVT0.1617	くそ……。{n}世界が滅ぶのを、この目で見たかったぜ……。		
+BTL_EVT0.1651S	フェイン		speaker
+BTL_EVT0.165A	貴様……{n}この世界をそこまで恨んでいるのか……？		
+BTL_EVT0.168ES	クラレンス		speaker
+BTL_EVT0.1699	お前には関係ねえ。{wait}{clear}先に地獄で待ってるぜ……。		
+BTL_EVT0.16CDS	フェイン		speaker
+BTL_EVT0.16D6	…………。		
+BTL_EVT0.16E4S	クラレンス		speaker
+BTL_EVT0.16EF	あばよ、天使の勇者さん。{wait}{clear}……後から俺も行くから心配すんな。		
+BTL_EVT0.1731S	クラレンス		speaker
+BTL_EVT0.173C	ははは！　いい様だぜ！		
+BTL_EVT0.179ES	フェイン		speaker
+BTL_EVT0.17A7	こんな小さな町まで襲うのか！？　帝国は！！		
+BTL_EVT0.17D5S	帝国兵		speaker
+BTL_EVT0.17DC	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！		
+BTL_EVT0.1820S	フェイン		speaker
+BTL_EVT0.1829	帝国でなにが起こっているんだ……？		
+BTL_EVT0.184FS	帝国兵		speaker
+BTL_EVT0.1856	お前ひとりにやられる我が軍ではないわ！		
+BTL_EVT0.1880S	帝国兵		speaker
+BTL_EVT0.1887	お前ひとりにやられる我が軍ではないわ！		
+BTL_EVT0.18D5S	フェイン		speaker
+BTL_EVT0.18DE	帝国は昔の領土を取り戻そうとしているのか……？		
+BTL_EVT0.1910S	帝国兵		speaker
+BTL_EVT0.1917	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
+BTL_EVT0.1963S	フェイン		speaker
+BTL_EVT0.196C	いったいどうすればいいんだ……。		
+BTL_EVT0.1990S	帝国兵		speaker
+BTL_EVT0.1997	わはははっ！{n}偉大なる帝国に栄えあれ！		
+BTL_EVT0.19C1S	帝国兵		speaker
+BTL_EVT0.19C8	わはははっ！{n}偉大なる帝国に栄えあれ！		
+BTL_EVT0.1A16S	フェイン		speaker
+BTL_EVT0.1A1F	これ以上、罪のない人々を苦しめて{n}帝国はなにをしようというのだ！？		
+BTL_EVT0.1A65S	帝国騎士		speaker
+BTL_EVT0.1A6E	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！		
+BTL_EVT0.1ACES	フェイン		speaker
+BTL_EVT0.1AD7	誰が……貴様らなどに……。		
+BTL_EVT0.1AF5S	フェイン		speaker
+BTL_EVT0.1AFE	くそ……{n}帝国相手ではきりがない……。		
+BTL_EVT0.1B28S	帝国騎士		speaker
+BTL_EVT0.1B31	我々に逆らうなど、むだなこと！		
+BTL_EVT0.1B53S	帝国騎士		speaker
+BTL_EVT0.1B5C	我々に逆らうなど、むだなこと！		
+BTL_EVT0.1BA2S	フェイン		speaker
+BTL_EVT0.1BAB	これ以上、罪のない人々を苦しめて{n}帝国はなにをしようというのだ！？		
+BTL_EVT0.1BF1S	帝国兵		speaker
+BTL_EVT0.1BF8	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
+BTL_EVT0.1C44S	フェイン		speaker
+BTL_EVT0.1C4D	くそ……{n}帝国相手ではきりがない……。		
+BTL_EVT0.1C77S	帝国騎士		speaker
+BTL_EVT0.1C80	我らには紅月王がついておられる！　わはははは！		
+BTL_EVT0.1CB2S	帝国騎士		speaker
+BTL_EVT0.1CBB	我らには紅月王がついておられる！　わはははは！		
+BTL_EVT0.1D11S	フェイン		speaker
+BTL_EVT0.1D1A	罪のない人々を苦しめてまで{n}昔の領土を取り戻そうというのか！？		
+BTL_EVT0.1D5CS	帝国騎士		speaker
+BTL_EVT0.1D65	我らの進軍、誰にも止めることなどできん！		
+BTL_EVT0.1D91S	フェイン		speaker
+BTL_EVT0.1D9A	この戦いにかったとしても、止められない……{n}くそっ！		
+BTL_EVT0.1DD2S	帝国騎士		speaker
+BTL_EVT0.1DDB	我が戦いは、皇帝のため！		
+BTL_EVT0.1DF7S	帝国騎士		speaker
+BTL_EVT0.1E00	我が戦いは、皇帝のため！		
+BTL_EVT0.1E40S	フェイン		speaker
+BTL_EVT0.1E49	魔物までが帝国軍に加わっているのか？{n}また、紅月王の悲劇を繰り返すつもりか！？		
+BTL_EVT0.1E9BS	融合兵		speaker
+BTL_EVT0.1EA2	そのとおりだ！{n}皇帝のご意志に従う我らを止めることなどできん！		
+BTL_EVT0.1EE4S	フェイン		speaker
+BTL_EVT0.1EED	こんなことが起こるなんて……。{n}だが、あきらめはしない……。		
+BTL_EVT0.1F2DS	融合兵		speaker
+BTL_EVT0.1F34	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
+BTL_EVT0.1F74S	融合兵		speaker
+BTL_EVT0.1F7B	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
+BTL_EVT0.1FDFS	フェイン		speaker
+BTL_EVT0.1FE8	こんなモンスターまで現れるとは……。		
+BTL_EVT0.2010S	フェイン		speaker
+BTL_EVT0.2019	…………。		
+BTL_EVT0.2027S	カオスジェリー		speaker
+BTL_EVT0.2036	ギュルギュルゥ……。		
+BTL_EVT0.204ES	カオスジェリー		speaker
+BTL_EVT0.205D	ギュルギュルゥ……。		
+BTL_EVT0.2099S	フェイン		speaker
+BTL_EVT0.20A2	これ以上人を襲うというなら、倒すだけだ……。		
+BTL_EVT0.20D2S	フェイン		speaker
+BTL_EVT0.20DB	終わったな……。		
+BTL_EVT0.20EFS	デッドプラント		speaker
+BTL_EVT0.20FE	ひゅるひゅる……。		
+BTL_EVT0.2114S	デッドプラント		speaker
+BTL_EVT0.2123	ひゅるひゅる……。		
+BTL_EVT0.215DS	フェイン		speaker
+BTL_EVT0.2166	貴様らのような卑劣な連中は許さん！		
+BTL_EVT0.218CS	シーフ		speaker
+BTL_EVT0.2193	オレたちの邪魔しようってのか？{n}はん！　面白れえ！		
+BTL_EVT0.21C9S	フェイン		speaker
+BTL_EVT0.21D2	口ほどにもない……。		
+BTL_EVT0.21EAS	シーフ		speaker
+BTL_EVT0.21F1	はっはは！　ざまあみやがれ！		
+BTL_EVT0.2211S	シーフ		speaker
+BTL_EVT0.2218	はっはは！　ざまあみやがれ！		
+BTL_EVT0.225CS	フェイン		speaker
+BTL_EVT0.2265	こんなやつに襲われたら、{n}船はひとたまりもないだろうな……。{wait}{clear}ブレメースの人のためにも、お前を倒す！		
+BTL_EVT0.22CFS	フェイン		speaker
+BTL_EVT0.22D8	これで、港は大丈夫だろう。		
+BTL_EVT0.22F6S	海竜		speaker
+BTL_EVT0.22FB	グギャア～！		
+BTL_EVT0.230BS	海竜		speaker
+BTL_EVT0.2310	グギャア～！		
+BTL_EVT0.2344S	フェイン		speaker
+BTL_EVT0.234D	おとなしく海で暮らしてくれればいいものを……。		
+BTL_EVT0.237FS	フェイン		speaker
+BTL_EVT0.2388	これでブレメースの人たちは大丈夫だろう。		
+BTL_EVT0.23B4S	海竜		speaker
+BTL_EVT0.23B9	グギギャア～！		
+BTL_EVT0.23CBS	海竜		speaker
+BTL_EVT0.23D0	グギギャア～！		
+BTL_EVT0.2406S	フェイン		speaker
+BTL_EVT0.240F	街道で暴れられては、しかたがない……。{n}退治するしかないな。		
+BTL_EVT0.244FS	フェイン		speaker
+BTL_EVT0.2458	これで、もう大丈夫だろう。		
+BTL_EVT0.2476S	ヴェノム		speaker
+BTL_EVT0.247F	シューシューシュー……		
+BTL_EVT0.2499S	ヴェノム		speaker
+BTL_EVT0.24A2	シューシューシュー……		
+BTL_EVT0.24E0S	フェイン		speaker
+BTL_EVT0.24E9	おとなしく暮らしていれば、よかったものを……。		
+BTL_EVT0.251BS	フェイン		speaker
+BTL_EVT0.2524	終わった……。{n}これで村も大丈夫だろう。		
+BTL_EVT0.2550S	ロック		speaker
+BTL_EVT0.2557	クワァアアー！		
+BTL_EVT0.2569S	ロック		speaker
+BTL_EVT0.2570	クワァアアー！		
+BTL_EVT0.25A6S	フェイン		speaker
+BTL_EVT0.25AF	街道で暴れられては、しかたがない……。{n}退治するしかないな。		
+BTL_EVT0.25EFS	フェイン		speaker
+BTL_EVT0.25F8	これで、もう大丈夫だろう。		
+BTL_EVT0.2616S	ミリピード		speaker
+BTL_EVT0.2621	ギシギシギシギシギシギシ……		
+BTL_EVT0.2641S	ミリピード		speaker
+BTL_EVT0.264C	ギシギシギシギシギシギシ……		
+BTL_EVT0.2690S	フェイン		speaker
+BTL_EVT0.2699	やはり、アンデッドたちか……{n}あわれな魔物ども……。{n}俺が、地獄へ送りかえしてやろう。		
+BTL_EVT0.26F3S	フェイン		speaker
+BTL_EVT0.26FC	地獄へ帰れ……。		
+BTL_EVT0.2710S	スカルナイト		speaker
+BTL_EVT0.271D	ニンゲン……イラナイ……{n}クカカカカカカ……！		
+BTL_EVT0.274FS	スカルナイト		speaker
+BTL_EVT0.275C	ニンゲン……イラナイ……{n}クカカカカカカ……！		
+BTL_EVT0.27B2S	フェイン		speaker
+BTL_EVT0.27BB	この泣き声は、やはりバンシーだったのだな……		
+BTL_EVT0.27EBS	フェイン		speaker
+BTL_EVT0.27F4	あわれな魔物だ……。		
+BTL_EVT0.280CS	バンシー		speaker
+BTL_EVT0.2815	ひひひひひ……		
+BTL_EVT0.2827S	バンシー		speaker
+BTL_EVT0.2830	ひひひひひ……		
+BTL_EVT0.2866S	フェイン		speaker
+BTL_EVT0.286F	お前たちか？{n}村を襲っているというのは。		
+BTL_EVT0.289BS	バーグラー		speaker
+BTL_EVT0.28A6	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
+BTL_EVT0.291AS	フェイン		speaker
+BTL_EVT0.2923	こんな連中はまだまだいるんだろうな……。		
+BTL_EVT0.294FS	バーグラー		speaker
+BTL_EVT0.295A	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT0.2992S	バーグラー		speaker
+BTL_EVT0.299D	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT0.29F9S	フェイン		speaker
+BTL_EVT0.2A02	お前たちか？{n}村を襲っているというのは。		
+BTL_EVT0.2A2ES	バーグラー		speaker
+BTL_EVT0.2A39	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
+BTL_EVT0.2AADS	フェイン		speaker
+BTL_EVT0.2AB6	こんな連中はまだまだいるんだろうな……。		
+BTL_EVT0.2AE2S	バーグラー		speaker
+BTL_EVT0.2AED	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT0.2B25S	バーグラー		speaker
+BTL_EVT0.2B30	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT0.2B8CS	フェイン		speaker
+BTL_EVT0.2B95	魔族……どうして……。		
+BTL_EVT0.2BAFS	リベザル		speaker
+BTL_EVT0.2BB8	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！		
+BTL_EVT0.2C18S	フェイン		speaker
+BTL_EVT0.2C21	とうとうやつらのお出ましか……。		
+BTL_EVT0.2C45S	リベザル		speaker
+BTL_EVT0.2C4E	人間など我らの敵ではない！{n}ふははははは……っ！		
+BTL_EVT0.2C82S	リベザル		speaker
+BTL_EVT0.2C8B	人間など我らの敵ではない！{n}ふははははは……っ！		
+BTL_EVT0.2CE3S	フェイン		speaker
+BTL_EVT0.2CEC	お前たち、なにを企んでいる？		
+BTL_EVT0.2D0CS	反乱兵		speaker
+BTL_EVT0.2D13	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！		
+BTL_EVT0.2D6FS	フェイン		speaker
+BTL_EVT0.2D78	この様子では{n}レグランスの情勢もかなり不安だな……。		
+BTL_EVT0.2DB0S	反乱兵		speaker
+BTL_EVT0.2DB7	我々の邪魔などさせん！		
+BTL_EVT0.2DD1S	反乱兵		speaker
+BTL_EVT0.2DD8	我々の邪魔などさせん！		
+BTL_EVT0.2E16S	フェイン		speaker
+BTL_EVT0.2E1F	これ以上人を襲うというなら、倒すだけだ……。		
+BTL_EVT0.2E4FS	ジャイアント		speaker
+BTL_EVT0.2E5C	人間ごときがおれに勝てると思うな！		
+BTL_EVT0.2E82S	フェイン		speaker
+BTL_EVT0.2E8B	終わったな……。		
+BTL_EVT0.2E9FS	ジャイアント		speaker
+BTL_EVT0.2EAC	おれが負けるわけなどない！{n}ぐわはははっ！		
+BTL_EVT0.2EDAS	ジャイアント		speaker
+BTL_EVT0.2EE7	おれが負けるわけなどない！{n}ぐわはははっ！		
+BTL_EVT0.2F39S	フェイン		speaker
+BTL_EVT0.2F42	村を襲うのをやめろ！		
+BTL_EVT0.2F5AS	オーク		speaker
+BTL_EVT0.2F61	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
+BTL_EVT0.2F93S	フェイン		speaker
+BTL_EVT0.2F9C	…………。		
+BTL_EVT0.2FAAS	オーク		speaker
+BTL_EVT0.2FB1	ニンゲン　ジャマ……！		
+BTL_EVT0.2FCBS	オーク		speaker
+BTL_EVT0.2FD2	ニンゲン　ジャマ……！		
+BTL_EVT0.3010S	フェイン		speaker
+BTL_EVT0.3019	こいつらか……。		
+BTL_EVT0.302DS	グレムリン		speaker
+BTL_EVT0.3038	キシシシシシ！		
+BTL_EVT0.304AS	フェイン		speaker
+BTL_EVT0.3053	ふう……終わったか……。		
+BTL_EVT0.306FS	グレムリン		speaker
+BTL_EVT0.307A	キシシシシシ！		
+BTL_EVT0.308CS	グレムリン		speaker
+BTL_EVT0.3097	キシシシシシ！		
+BTL_EVT0.30CDS	フェイン		speaker
+BTL_EVT0.30D6	お前ら……		
+BTL_EVT0.30E4S	ゴーゴン		speaker
+BTL_EVT0.30ED	ふふふ……いい男がきたわね……。{n}石にしてずっとここにおいてあげるわ。		
+BTL_EVT0.3137S	フェイン		speaker
+BTL_EVT0.3140	終わりだ……。		
+BTL_EVT0.3152S	ゴーゴン		speaker
+BTL_EVT0.315B	ふふふふ……{n}あはははは……！		
+BTL_EVT0.317DS	ゴーゴン		speaker
+BTL_EVT0.3186	ふふふふ……{n}あはははは……！		
+BTL_EVT0.31CCS	フェイン		speaker
+BTL_EVT0.31D5	襲ってくるなら、倒すだけだ。		
+BTL_EVT0.31F5S	フェイン		speaker
+BTL_EVT0.31FE	終わりだ……。		
+BTL_EVT0.3210S	ヘルハウンド		speaker
+BTL_EVT0.321D	うおおお～んっ！！		
+BTL_EVT0.3233S	ヘルハウンド		speaker
+BTL_EVT0.3240	うおおお～んっ！！		
+BTL_EVT0.327AS	フェイン		speaker
+BTL_EVT0.3283	竜巻の原因は、キメラだったのか。		
+BTL_EVT0.32A7S	キメラ		speaker
+BTL_EVT0.32AE	きえ～！　きえ～！		
+BTL_EVT0.32C4S	フェイン		speaker
+BTL_EVT0.32CD	これでもう大丈夫だろう。		
+BTL_EVT0.32E9S	キメラ		speaker
+BTL_EVT0.32F0	きえ～！　きえ～！		
+BTL_EVT0.3306S	キメラ		speaker
+BTL_EVT0.330D	きえ～！　きえ～！		
+BTL_EVT0.3347S	フェイン		speaker
+BTL_EVT0.3350	森の中でおとなしくしてくれていれば……。{n}襲ってくるなら、しかたがない。		
+BTL_EVT0.339CS	フェイン		speaker
+BTL_EVT0.33A5	ひとまずは、これでいいだろう。		
+BTL_EVT0.33C7S	グリズリー		speaker
+BTL_EVT0.33D2	ぐがあ～！		
+BTL_EVT0.33E0S	グリズリー		speaker
+BTL_EVT0.33EB	ぐがあ～！		
+BTL_EVT0.341DS	フェイン		speaker
+BTL_EVT0.3426	おとなしく海で暮らしてくれればいいものを……。		
+BTL_EVT0.3458S	フェイン		speaker
+BTL_EVT0.3461	これで町の人たちは大丈夫だろう。		
+BTL_EVT0.3485S	海竜		speaker
+BTL_EVT0.348A	グギギャア～！		
+BTL_EVT0.349CS	海竜		speaker
+BTL_EVT0.34A1	グギギャア～！		
+BTL_EVT0.34D7S	フェイン		speaker
+BTL_EVT0.34E0	お前ら、このあたりを荒らしている盗賊だな？		
+BTL_EVT0.350ES	ミリシア		speaker
+BTL_EVT0.3517	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！		
+BTL_EVT0.3567S	フェイン		speaker
+BTL_EVT0.3570	口ほどにもないな……。		
+BTL_EVT0.358AS	ミリシア		speaker
+BTL_EVT0.3593	はははっ！　まだまだ暴れるぜ！		
+BTL_EVT0.35B5S	ミリシア		speaker
+BTL_EVT0.35BE	はははっ！　まだまだ暴れるぜ！		
+BTL_EVT0.3604S	フェイン		speaker
+BTL_EVT0.360D	やはりお前たちの仕業だったか……。		
+BTL_EVT0.3633S	ノスフェラトゥ		speaker
+BTL_EVT0.3642	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。		
+BTL_EVT0.36B4S	フェイン		speaker
+BTL_EVT0.36BD	…………。		
+BTL_EVT0.36CBS	ノスフェラトゥ		speaker
+BTL_EVT0.36DA	人間はすべて我らにひざまずくがいい！		
+BTL_EVT0.3702S	ノスフェラトゥ		speaker
+BTL_EVT0.3711	人間はすべて我らにひざまずくがいい！		
+BTL_EVT0.375DS	ヘルハウンド		speaker
+BTL_EVT0.376A	グルル……！		
+BTL_EVT0.377AS	フェイン		speaker
+BTL_EVT0.3783	村人を殺していたのは、お前らだったのだな。		
+BTL_EVT0.37B1S	フェイン		speaker
+BTL_EVT0.37BA	終わった……これで大丈夫だ……。		
+BTL_EVT0.37DES	ヘルハウンド		speaker
+BTL_EVT0.37EB	ウワオオ～ン！		
+BTL_EVT0.37FDS	ヘルハウンド		speaker
+BTL_EVT0.380A	ウワオオ～ン！		
+BTL_EVT0.3840S	グレムリン		speaker
+BTL_EVT0.384B	キシー！　キシシシー！		
+BTL_EVT0.3865S	フェイン		speaker
+BTL_EVT0.386E	こいつらが子供達を……。		
+BTL_EVT0.388AS	フェイン		speaker
+BTL_EVT0.3893	これで被害はもう出ないはずだ……。		
+BTL_EVT0.38B9S	グレムリン		speaker
+BTL_EVT0.38C4	キシー！　キシシシー！		
+BTL_EVT0.38DES	グレムリン		speaker
+BTL_EVT0.38E9	キシー！　キシシシー！		
+BTL_EVT0.3927S	フェイン		speaker
+BTL_EVT0.3930	人々に被害が出る前に退治する。		
+BTL_EVT0.3952S	フェイン		speaker
+BTL_EVT0.395B	終わりだ……。		
+BTL_EVT0.396DS	デスウィドウ		speaker
+BTL_EVT0.397A	ギーギーギー		
+BTL_EVT0.398AS	デスウィドウ		speaker
+BTL_EVT0.3997	ギーギーギー		
+BTL_EVT0.39CBS	フェイン		speaker
+BTL_EVT0.39D4	おとなしく暮らしていれば、よかったものを……。		
+BTL_EVT0.3A06S	フェイン		speaker
+BTL_EVT0.3A0F	終わった……。{n}これで村も大丈夫だろう。		
+BTL_EVT0.3A3BS	ベルクート		speaker
+BTL_EVT0.3A46	クワァアアー！		
+BTL_EVT0.3A58S	ベルクート		speaker
+BTL_EVT0.3A63	クワァアアー！		
+BTL_EVT0.3A99S	フェイン		speaker
+BTL_EVT0.3AA2	どうして人々を襲う！		
+BTL_EVT0.3ABAS	ホブゴブリン		speaker
+BTL_EVT0.3AC7	コノむら、モラッタ。{n}オレタチノむらニスル！		
+BTL_EVT0.3AF7S	フェイン		speaker
+BTL_EVT0.3B00	……終わったか……。		
+BTL_EVT0.3B18S	ホブゴブリン		speaker
+BTL_EVT0.3B25	オレタチノむら、マモッタ！		
+BTL_EVT0.3B43S	ホブゴブリン		speaker
+BTL_EVT0.3B50	オレタチノむら、マモッタ！		
+BTL_EVT0.3B92S	海竜		speaker
+BTL_EVT0.3B97	グギギャギャ～！		
+BTL_EVT0.3BABS	フェイン		speaker
+BTL_EVT0.3BB4	村の迷惑になる以上、倒さなければならないな……。{n}おとなしく海で暮らしてくれればいいものを……。		
+BTL_EVT0.3C18S	フェイン		speaker
+BTL_EVT0.3C21	これで、村は救われるだろう……。		
+BTL_EVT0.3C45S	海竜		speaker
+BTL_EVT0.3C4A	グギャア～！　グギャア～！		
+BTL_EVT0.3C68S	海竜		speaker
+BTL_EVT0.3C6D	グギャア～！　グギャア～！		
+BTL_EVT0.3CAFS	フェイン		speaker
+BTL_EVT0.3CB8	声の正体は海竜だったのか……。{n}このままおとなしく帰ればいいが、{n}襲ってくるのであれば倒す。		
+BTL_EVT0.3D18S	フェイン		speaker
+BTL_EVT0.3D21	これで、静けさが戻るだろう……。		
+BTL_EVT0.3D45S	海竜		speaker
+BTL_EVT0.3D4A	ギャアアア～ギャアアア～		
+BTL_EVT0.3D66S	海竜		speaker
+BTL_EVT0.3D6B	ギャアアア～ギャアアア～		
+BTL_EVT0.3DABS	ノスフェラトゥ		speaker
+BTL_EVT0.3DBA	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。		
+BTL_EVT0.3E06S	フェイン		speaker
+BTL_EVT0.3E0F	言いたいことはそれだけだな……行くぞ！		
+BTL_EVT0.3E39S	フェイン		speaker
+BTL_EVT0.3E42	……いやらしい連中だ……。		
+BTL_EVT0.3E60S	ノスフェラトゥ		speaker
+BTL_EVT0.3E6F	はははは……！{n}天使の勇者など、他愛もないものだな。		
+BTL_EVT0.3EA7S	ノスフェラトゥ		speaker
+BTL_EVT0.3EB6	はははは……！{n}天使の勇者など、他愛もないものだな。		
+BTL_EVT0.3F12S	フェイン		speaker
+BTL_EVT0.3F1B	貴様、何者だ！？		
+BTL_EVT0.3F2FS	アロケン		speaker
+BTL_EVT0.3F38	愚かな人間に名乗る名などない。行くぞ！		
+BTL_EVT0.3F62S	アロケン		speaker
+BTL_EVT0.3F6B	安心するなよ……これからがすべての始まりだ……！		
+BTL_EVT0.3F9FS	アロケン		speaker
+BTL_EVT0.3FA8	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
+BTL_EVT0.3FE2S	アロケン		speaker
+BTL_EVT0.3FEB	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
+BTL_EVT0.4049S	フェイン		speaker
+BTL_EVT0.4052	貴様、何者だ！？		
+BTL_EVT0.4066S	ウジャト		speaker
+BTL_EVT0.406F	愚かな人間に名乗る名などない。{n}行くわよ！		
+BTL_EVT0.409DS	ウジャト		speaker
+BTL_EVT0.40A6	安心しないことよ……{n}これからがすべての始まり……！		
+BTL_EVT0.40DES	ウジャト		speaker
+BTL_EVT0.40E7	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
+BTL_EVT0.4121S	ウジャト		speaker
+BTL_EVT0.412A	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
+BTL_EVT0.4188S	フェイン		speaker
+BTL_EVT0.4191	貴様、何者だ！？		
+BTL_EVT0.41A5S	リベザル		speaker
+BTL_EVT0.41AE	愚かな人間に名乗る名はない。行くぜ！		
+BTL_EVT0.41D6S	リベザル		speaker
+BTL_EVT0.41DF	安心するな……これからがすべての始まりだ……！		
+BTL_EVT0.4211S	リベザル		speaker
+BTL_EVT0.421A	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
+BTL_EVT0.4258S	リベザル		speaker
+BTL_EVT0.4261	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
+BTL_EVT0.42C3S	ゴーゴン		speaker
+BTL_EVT0.42CC	待っていたのは、あなたじゃないわ。{n}邪魔だから消えて！		
+BTL_EVT0.4306S	ゴーゴン		speaker
+BTL_EVT0.430F	ひとめ会いたかったのに……彼に……。		
+BTL_EVT0.4337S	ゴーゴン		speaker
+BTL_EVT0.4340	私が会いたいのは、ただひとりよ！		
+BTL_EVT0.4364S	ゴーゴン		speaker
+BTL_EVT0.436D	私が会いたいのは、ただひとりよ！		
+BTL_EVT0.43B5S	フェイン		speaker
+BTL_EVT0.43BE	人々の邪魔になるならしかたがない……。{n}退治するしかないな。		
+BTL_EVT0.43FES	フェイン		speaker
+BTL_EVT0.4407	これで、もう大丈夫だろう。		
+BTL_EVT0.4425S	スキュラ		speaker
+BTL_EVT0.442E	きえ～！　きえ～！		
+BTL_EVT0.4444S	スキュラ		speaker
+BTL_EVT0.444D	きえ～！　きえ～！		
+BTL_EVT0.4487S	フェイン		speaker
+BTL_EVT0.4490	お前たち、なにを企んでいる？		
+BTL_EVT0.44B0S	バラム		speaker
+BTL_EVT0.44B7	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！		
+BTL_EVT0.44F7S	フェイン		speaker
+BTL_EVT0.4500	魔族と手を結ぶ人間がいるなんて……。		
+BTL_EVT0.4528S	バラム		speaker
+BTL_EVT0.452F	誰も俺を止めることなどできん！		
+BTL_EVT0.4551S	バラム		speaker
+BTL_EVT0.4558	誰も俺を止めることなどできん！		
+BTL_EVT0.459ES	融合兵		speaker
+BTL_EVT0.45A5	ワレワレノ　ジャマヲ　スルナ！		
+BTL_EVT0.45C7S	融合兵		speaker
+BTL_EVT0.45CE	イマイマシイ　ニンゲン　ドモ……！		
+BTL_EVT0.45F4S	融合兵		speaker
+BTL_EVT0.45FB	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
+BTL_EVT0.462DS	融合兵		speaker
+BTL_EVT0.4634	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
+BTL_EVT0.468AS	フェイン		speaker
+BTL_EVT0.4693	村人の命を狙う以上、倒す！		
+BTL_EVT0.46B1S	ノスフェラトゥ		speaker
+BTL_EVT0.46C0	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
+BTL_EVT0.4718S	フェイン		speaker
+BTL_EVT0.4721	…………。		
+BTL_EVT0.472FS	ノスフェラトゥ		speaker
+BTL_EVT0.473E	人間はすべて我らにひざまずくがいい！		
+BTL_EVT0.4766S	ノスフェラトゥ		speaker
+BTL_EVT0.4775	人間はすべて我らにひざまずくがいい！		
+BTL_EVT0.47C1S	ウィザード		speaker
+BTL_EVT0.47CC	あの方をよみがえらせるには、{n}まだまだ女が足りん……。		
+BTL_EVT0.4806S	フェイン		speaker
+BTL_EVT0.480F	貴様らが、女性を連れ去ったのだな！？{n}許せん！		
+BTL_EVT0.4841S	フェイン		speaker
+BTL_EVT0.484A	嫌な事件だ……。		
+BTL_EVT0.485ES	ウィザード		speaker
+BTL_EVT0.4869	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
+BTL_EVT0.48A7S	ウィザード		speaker
+BTL_EVT0.48B2	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
+BTL_EVT0.4914S	フェイン		speaker
+BTL_EVT0.491D	こいつらか……。		
+BTL_EVT0.4931S	グレムリン		speaker
+BTL_EVT0.493C	キシシシシシ！		
+BTL_EVT0.494ES	フェイン		speaker
+BTL_EVT0.4957	ふう……終わったか……。		
+BTL_EVT0.4973S	グレムリン		speaker
+BTL_EVT0.497E	キシシシシシ！		
+BTL_EVT0.4990S	グレムリン		speaker
+BTL_EVT0.499B	キシシシシシ！		
+BTL_EVT0.49D1S	リベザル		speaker
+BTL_EVT0.49DA	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！		
+BTL_EVT0.4A20S	フェイン		speaker
+BTL_EVT0.4A29	そんなことはさせない！		
+BTL_EVT0.4A43S	フェイン		speaker
+BTL_EVT0.4A4C	この森にまで魔族が現れたのか……。		
+BTL_EVT0.4A72S	リベザル		speaker
+BTL_EVT0.4A7B	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
+BTL_EVT0.4AB9S	リベザル		speaker
+BTL_EVT0.4AC2	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
+BTL_EVT0.4B24S	フェイン		speaker
+BTL_EVT0.4B2D	黒い影の正体は、シャドウだったのか！		
+BTL_EVT0.4B55S	フェイン		speaker
+BTL_EVT0.4B5E	これで、もう大丈夫だろう。		
+BTL_EVT0.4B7CS	ファントム		speaker
+BTL_EVT0.4B87	ひゅうひゅう……		
+BTL_EVT0.4B9BS	ファントム		speaker
+BTL_EVT0.4BA6	ひゅうひゅう……		
+BTL_EVT0.4BDES	フェイン		speaker
+BTL_EVT0.4BE7	とうとう進軍してきたのか……{n}この聖都へ……。		
+BTL_EVT0.4C19S	帝国騎士		speaker
+BTL_EVT0.4C22	貴様ひとりで、{n}我々の兵力相手に何ができると言うのだ？		
+BTL_EVT0.4C5CS	フェイン		speaker
+BTL_EVT0.4C65	くっ……。		
+BTL_EVT0.4C73S	帝国騎士		speaker
+BTL_EVT0.4C7C	我々に逆らうからだ！　ははははは！		
+BTL_EVT0.4CA2S	帝国騎士		speaker
+BTL_EVT0.4CAB	ぶざまだな！　ははははは！		
+BTL_EVT0.4CEDS	私兵		speaker
+BTL_EVT0.4CF2	痛い目にあいてえのか！		
+BTL_EVT0.4D0CS	フェイン		speaker
+BTL_EVT0.4D15	終わったか。		
+BTL_EVT0.4D25S	私兵		speaker
+BTL_EVT0.4D2A	ざまみろ！　		
+BTL_EVT0.4D3AS	私兵		speaker
+BTL_EVT0.4D3F	ざまみろ！　		
+BTL_EVT0.4D73S	フェイン		speaker
+BTL_EVT0.4D7C	貴様ら……どけっ！		
+BTL_EVT0.4D92S	帝国騎士		speaker
+BTL_EVT0.4D9B	なんだ貴様！！{n}誰も通すなと言われている。{wait}{clear}それでも通りたいというのなら、{n}我々に勝ってからにしろ！		
+BTL_EVT0.4E05S	帝国騎士		speaker
+BTL_EVT0.4E0E	帝国バンザイ！！		
+BTL_EVT0.4E22S	帝国騎士		speaker
+BTL_EVT0.4E2B	帝国バンザイ！！		
+BTL_EVT0.4E63S	帝国兵		speaker
+BTL_EVT0.4E6A	帝国バンザイ！！		
+BTL_EVT0.4E7ES	帝国兵		speaker
+BTL_EVT0.4E85	帝国バンザイ！！		
+BTL_EVT0.4F29S	レイブンルフト		speaker
+BTL_EVT0.4F38	ようこそ、我が城へ。{n}天使の勇者。		
+BTL_EVT0.4F5ES	フェイン		speaker
+BTL_EVT0.4F67	吸血鬼の王、レイブンルフト。{n}世界を汚すお前の血を、今日、絶やしてみせよう。		
+BTL_EVT0.4FB7S	レイブンルフト		speaker
+BTL_EVT0.4FC6	勇ましさは認めよう。{wait}{clear}だが、その勇ましさだけで{n}私に勝てるなどというのは間違いだ。{wait}{clear}思い知れ、己の無力さを！		
+BTL_EVT0.503AS	レイブンルフト		speaker
+BTL_EVT0.5049	なかなかの力だ……。		
+BTL_EVT0.5061S	レイブンルフト		speaker
+BTL_EVT0.5070	だが、私の力はこんなものではないぞ……		
+BTL_EVT0.509AS	レイブンルフト		speaker
+BTL_EVT0.50A9	ウォオオオオオオ！！！		
+BTL_EVT0.50C3S	レイブンルフト		speaker
+BTL_EVT0.50D2	天使よ、これでわかったか、おのれの偽善を！		
+BTL_EVT0.5100S	レイブンルフト		speaker
+BTL_EVT0.510F	この勇者はお前が殺したのだぞ！！		
+BTL_EVT0.5133S	レイブンルフト		speaker
+BTL_EVT0.5142	フハハハハ！！		
+BTL_EVT0.5154S	レイブンルフト		speaker
+BTL_EVT0.5163	……なにが天使の勇者だ。		
+BTL_EVT0.517FS	レイブンルフト		speaker
+BTL_EVT0.518E	無様な敗北者が……。		
+BTL_EVT0.51CAS	レイブンルフト		speaker
+BTL_EVT0.51D9	私は闇の中に帰るだけだ……。		
+BTL_EVT0.51F9S	レイブンルフト		speaker
+BTL_EVT0.5208	天使よ、これでわかったか、おのれの偽善を！		
+BTL_EVT0.5236S	レイブンルフト		speaker
+BTL_EVT0.5245	この勇者はお前が殺したのだぞ！！		
+BTL_EVT0.5269S	レイブンルフト		speaker
+BTL_EVT0.5278	フハハハハ！！		
+BTL_EVT0.528AS	レイブンルフト		speaker
+BTL_EVT0.5299	……なにが天使の勇者だ。		
+BTL_EVT0.52B5S	レイブンルフト		speaker
+BTL_EVT0.52C4	無様な敗北者が……。		
+BTL_EVT0.5300S	フェイン		speaker
+BTL_EVT0.5309	強い魔導の力を利用されていたのか……？{n}くそっ……。		
+BTL_EVT0.5341S	イオン		speaker
+BTL_EVT0.5348	ぼくの邪魔をするから……。		
+BTL_EVT0.5366S	イオン		speaker
+BTL_EVT0.536D	ぼくの邪魔をするから……。		
+BTL_EVT0.53D3S	フェイン		speaker
+BTL_EVT0.53DC	セレニスが多くの人間の心を狂わせている……{n}なぜだ……		
+BTL_EVT0.5416S	サヴィオ		speaker
+BTL_EVT0.541F	グハハハハハ。		
+BTL_EVT0.5431S	サヴィオ		speaker
+BTL_EVT0.543A	グハハハハハ。		
+BTL_EVT0.5470S	フェイン		speaker
+BTL_EVT0.5479	帝国軍に魔族がいるというのは{n}本当だったんだな……{n}それに、こいつは……。		
+BTL_EVT0.54C7S	モラクス		speaker
+BTL_EVT0.54D0	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！		
+BTL_EVT0.551ES	モラクス		speaker
+BTL_EVT0.5527	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。		
+BTL_EVT0.5577S	フェイン		speaker
+BTL_EVT0.5580	誰が……こいつを……。		
+BTL_EVT0.559AS	モラクス		speaker
+BTL_EVT0.55A3	首を洗って出直して来い！{n}ワハハハっ！		
+BTL_EVT0.55CDS	モラクス		speaker
+BTL_EVT0.55D6	ワハハハ！　天使の勇者など、赤子のようだ！		
+BTL_EVT0.5628S	ラルヴァ		speaker
+BTL_EVT0.5631	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！		
+BTL_EVT0.56C3S	フェイン		speaker
+BTL_EVT0.56CC	貴様……。{n}二度とそんな口が聞けないようにしてやる……。		
+BTL_EVT0.5708S	ラルヴァ		speaker
+BTL_EVT0.5711	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！		
+BTL_EVT0.5761S	ラルヴァ		speaker
+BTL_EVT0.576A	な、なんで……あたしが……。		
+BTL_EVT0.578AS	フェイン		speaker
+BTL_EVT0.5793	貴様……誰に召還された？{n}答えろ！		
+BTL_EVT0.57B9S	ラルヴァ		speaker
+BTL_EVT0.57C2	ふん……誰に喚ばれたかなんて……覚えてないよ。{n}そんなこと……関係ないからね……。{wait}{clear}ふふふ……苦しむがいいさ……{n}すべてはこれからだからね……{n}あははは……っ！		
+BTL_EVT0.5868S	ラルヴァ		speaker
+BTL_EVT0.5871	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
+BTL_EVT0.58CDS	ラルヴァ		speaker
+BTL_EVT0.58D6	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
+BTL_EVT0.595ES	セレニス		speaker
+BTL_EVT0.5967	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
+BTL_EVT0.599DS	セレニス		speaker
+BTL_EVT0.59A6	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
+BTL_EVT0.5A90S	王の女		speaker
+BTL_EVT0.5A97	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
+BTL_EVT0.5AE7S	フェイン		speaker
+BTL_EVT0.5AF0	貴様らには、関係のないことだ……。		
+BTL_EVT0.5B16S	王の女		speaker
+BTL_EVT0.5B1D	ばかね！　ここでもずくと消えなさい！！		
+BTL_EVT0.5B47S	フェイン		speaker
+BTL_EVT0.5B50	城が消えた……。{wait}{clear}この先には進むなと言うことか……？		
+BTL_EVT0.5B8AS	王の女		speaker
+BTL_EVT0.5B91	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
+BTL_EVT0.5BD3S	王の女		speaker
+BTL_EVT0.5BDA	逃げましたわよ……。{n}ホホホホ……		
+BTL_EVT0.5C24S	ウォーロック		speaker
+BTL_EVT0.5C31	…………。		
+BTL_EVT0.5C3FS	ウォーロック		speaker
+BTL_EVT0.5C4C	…………。		
+BTL_EVT0.5CA2S	ノスフェラトゥ		speaker
+BTL_EVT0.5CB1	人間ごときに、我らの邪魔などさせるか！		
+BTL_EVT0.5CDBS	フェイン		speaker
+BTL_EVT0.5CE4	……終わったか……。		
+BTL_EVT0.5CFCS	ノスフェラトゥ		speaker
+BTL_EVT0.5D0B	人間など、我らの敵ではない！		
+BTL_EVT0.5D2BS	ノスフェラトゥ		speaker
+BTL_EVT0.5D3A	逃げていきおったわ！		
+BTL_EVT0.5DBES	フェイン		speaker
+BTL_EVT0.5DC7	なぜ、勇者の君が吸血鬼となった？		
+BTL_EVT0.5DEBS	クライヴ		speaker
+BTL_EVT0.5DF4	…………。		
+BTL_EVT0.5E02S	フェイン		speaker
+BTL_EVT0.5E0B	答えろ！		
+BTL_EVT0.5E17S	クライヴ		speaker
+BTL_EVT0.5E20	…………。		
+BTL_EVT0.5E2ES	フェイン		speaker
+BTL_EVT0.5E37	しかたがない……		
+BTL_EVT0.5E4BS	フェイン		speaker
+BTL_EVT0.5E54	…………。{wait}{clear}すまない……。		
+BTL_EVT0.5E74S	クライヴ		speaker
+BTL_EVT0.5E7D	…………。		
+BTL_EVT0.5E8BS	クライヴ		speaker
+BTL_EVT0.5E94	…………。		
+BTL_EVT0.5EC6S	フェイン		speaker
+BTL_EVT0.5ECF	お前達、誰の命で俺をねらう？		
+BTL_EVT0.5EEFS	フェイン		speaker
+BTL_EVT0.5EF8	クッ……{n}こんなところで……		
+BTL_EVT0.5F3CS	帝国歩兵		speaker
+BTL_EVT0.5F45	皇帝陛下バンザイ！		
+BTL_EVT0.5F5BS	帝国歩兵		speaker
+BTL_EVT0.5F64	皇帝陛下バンザイ！		
+BTL_EVT0.5F9ES	フェイン		speaker
+BTL_EVT0.5FA7	襲ってくるなら、倒すだけだ。		
+BTL_EVT0.5FC7S	フェイン		speaker
+BTL_EVT0.5FD0	終わりだ……。		
+BTL_EVT0.5FE2S	ティンダロス		speaker
+BTL_EVT0.5FEF	うおおお～んっ！！		
+BTL_EVT0.6005S	ティンダロス		speaker
+BTL_EVT0.6012	うおおお～んっ！！		
+BTL_EVT0.604CS	フェイン		speaker
+BTL_EVT0.6055	くだらん儀式はやめろ！		
+BTL_EVT0.606FS	フェイン		speaker
+BTL_EVT0.6078	ウォーロックとして、腹立たしいな……{n}こんな事件は……。		
+BTL_EVT0.60B4S	ウォーロック		speaker
+BTL_EVT0.60C1	我らの儀式の意味……わかるはずはない……。		
+BTL_EVT0.60EFS	ウォーロック		speaker
+BTL_EVT0.60FC	我らの儀式の意味……わかるはずはない……。		
+BTL_EVT0.614ES	ウジャト		speaker
+BTL_EVT0.6157	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		
+BTL_EVT0.619FS	フェイン		speaker
+BTL_EVT0.61A8	これが魔族の力か……。		
+BTL_EVT0.61C2S	ウジャト		speaker
+BTL_EVT0.61CB	あははは！{n}情けない勇者だこと！		
+BTL_EVT0.61EFS	ウジャト		speaker
+BTL_EVT0.61F8	あははは！{n}情けない勇者だこと！		
+BTL_EVT0.6240S	フェイン		speaker
+BTL_EVT0.6249	お前らを倒す！		
+BTL_EVT0.625BS	フェイン		speaker
+BTL_EVT0.6264	…………。		
+BTL_EVT0.6272S	ティンダロス		speaker
+BTL_EVT0.627F	ウオォ～ン！！		
+BTL_EVT0.6291S	ティンダロス		speaker
+BTL_EVT0.629E	ウオォ～ン！！		
+BTL_EVT0.62D4S	モラクス		speaker
+BTL_EVT0.62DD	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！		
+BTL_EVT0.6331S	フェイン		speaker
+BTL_EVT0.633A	…………。		
+BTL_EVT0.6348S	モラクス		speaker
+BTL_EVT0.6351	ふははは！　出直してこい！		
+BTL_EVT0.636FS	モラクス		speaker
+BTL_EVT0.6378	勇者とは、あんなものか！{n}ふははははは……！		

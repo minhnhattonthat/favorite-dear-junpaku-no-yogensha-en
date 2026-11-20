@@ -1,0 +1,19 @@
+id	jp	en	notes
+loev26.00A2	ルディ		unit name (32-byte field)
+loev26.00DE	イオン		unit name (32-byte field)
+loev26.011A	ウサギ１		unit name (32-byte field)
+loev26.0156	ウサギ２		unit name (32-byte field)
+loev26.0192	ウサギ３		unit name (32-byte field)
+loev26.01CE	死人		unit name (32-byte field)
+loev26.020A	死人		unit name (32-byte field)
+loev26.0498	イオン		speaker
+loev26.04AD	魔石はあの人に渡したし、お母さんも……。		text
+loev26.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。		text
+loev26.0609	イオン		speaker
+loev26.061E	なんだ？　お前……。		text
+loev26.0641	ルディエール		speaker
+loev26.065C	お前……お前がこの人たちを？		text
+loev26.0687	なんて、酷いことをするんだ！		text
+loev26.06B2	イオン		speaker
+loev26.06C7	うるさい！{n}僕の邪魔をするから悪いんだ！		text
+loev26.06FE	ゾネ、モーント、スターン！　こいつを殺せ！！		text

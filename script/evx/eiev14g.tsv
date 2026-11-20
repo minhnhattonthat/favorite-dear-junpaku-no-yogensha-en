@@ -1,0 +1,24 @@
+id	jp	en	notes
+eiev14g.0002	セレニス中ボス		dev label (guess: not shown)
+eiev14g.00A2	アイリーン		unit name (32-byte field)
+eiev14g.00DE	セレニス		unit name (32-byte field)
+eiev14g.011A	椅子		unit name (32-byte field)
+eiev14g.0156	魔石の台		unit name (32-byte field)
+eiev14g.04EC	アイリーン		speaker
+eiev14g.0505	お姉ちゃん！！		text
+eiev14g.0532	セレニス		speaker
+eiev14g.0549	アイリーン？{n}ねえ……{n}私……ひどい夢をみたの……		text
+eiev14g.059A	もう朝よね……{n}よかった……		text
+eiev14g.05D5	今日から私、フェインの奥さんよ……		text
+eiev14g.0616	私……{n}この日が来るのを……{n}ずっと待ってた……。		text
+eiev14g.0667	アイリーン		speaker
+eiev14g.0680	お姉ちゃん……。		text
+eiev14g.06AF	セレニス		speaker
+eiev14g.06C6	うれしい……		text
+eiev14g.06F1	アイリーン		speaker
+eiev14g.070A	セレニス……お姉ちゃん！！！		text
+eiev14g.0745	＄＄＄＄＄＄		speaker
+eiev14g.0760	塔が崩れます！{n}アイリーン早くここから降りましょう！		text
+eiev14g.07B3	アイリーン		speaker
+eiev14g.07CC	……お姉ちゃん、さよなら……		text
+eiev14g.0807	ごめんね……		text

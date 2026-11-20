@@ -1,0 +1,31 @@
+id	jp	en	notes
+roev20_03.00A2	ロクス		unit name (32-byte field)
+roev20_03.00DE	クライブ		unit name (32-byte field)
+roev20_03.04C8	ロクス		speaker
+roev20_03.04DD	天使の勇者だな。		text
+roev20_03.04FC	クライヴ		speaker
+roev20_03.0513	……お前は？		text
+roev20_03.052E	ロクス		speaker
+roev20_03.0543	見ての通りの僧侶さ。{n}同じ天使の勇者として君を助けよう。		text
+roev20_03.058A	クライヴ		speaker
+roev20_03.05A1	……その必要はない。		text
+roev20_03.05C4	ロクス		speaker
+roev20_03.05D9	おっと、強がるな。{n}それにたいしたことはしない。		text
+roev20_03.0618	クライヴ		speaker
+roev20_03.062F	なにをするつもりだ。		text
+roev20_03.0652	ロクス		speaker
+roev20_03.0667	なに一瞬さ……。		text
+roev20_03.06E6	クライヴ		speaker
+roev20_03.06FD	……これは。		text
+roev20_03.0718	ロクス		speaker
+roev20_03.072D	傷は治ったはずだ。		text
+roev20_03.07B2	クライヴ		speaker
+roev20_03.07C9	……すまん。		text
+roev20_03.07E4	ロクス		speaker
+roev20_03.07F9	別に礼などいらんよ。{n}……ところで、君とはどこかで{n}会ったことがあるか？		text
+roev20_03.0850	クライヴ		speaker
+roev20_03.0867	いや、ないと思うが。		text
+roev20_03.088A	ロクス		speaker
+roev20_03.089F	そうか……考え違いか……{n}まあいい。また、どこかで会おう。		text
+roev20_03.08E8	クライヴ		speaker
+roev20_03.08FF	ああ、すまなかったな……。		text

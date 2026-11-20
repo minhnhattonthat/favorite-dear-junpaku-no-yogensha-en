@@ -1,0 +1,19 @@
+id	jp	en	notes
+clev12_02.0002	1		dev label (guess: not shown)
+clev12_02.00A2	クライヴ		unit name (32-byte field)
+clev12_02.00DE	セシア		unit name (32-byte field)
+clev12_02.0530	セシア		speaker
+clev12_02.0545	クライヴ、{n}話を聞いてもらえますか？		text
+clev12_02.0578	クライヴ		speaker
+clev12_02.058F	なんだ……		text
+clev12_02.05A8	セシア		speaker
+clev12_02.05BD	ヴァスティールの剣を知っていますか？		text
+clev12_02.05F0	クライヴ		speaker
+clev12_02.0607	……そんなものに興味はない。		text
+clev12_02.0632	セシア		speaker
+clev12_02.0647	彼の剣は天使様の祝福を受けた特別な剣でした。		text
+clev12_02.0682	魔王となった今のヴァスティールが{n}持っているとは思えません。		text
+clev12_02.06CD	あの剣がどこにあるのか……{n}今はわかりません。		text
+clev12_02.070A	あなたが探し出してください。{n}剣はきっと力になるはずです。		text
+clev12_02.0753	クライヴ		speaker
+clev12_02.076A	…………。		text

@@ -1,0 +1,15 @@
+id	jp	en	notes
+feev28.0002	アルベリック戦		dev label (guess: not shown)
+feev28.00A2	フェイン		unit name (32-byte field)
+feev28.00DE	アルベリック		unit name (32-byte field)
+feev28.011A	コマンダー		unit name (32-byte field)
+feev28.0156	コマンダー		unit name (32-byte field)
+feev28.0192	コマンダー		unit name (32-byte field)
+feev28.01CE	コマンダー		unit name (32-byte field)
+feev28.04D8	アルベリック		speaker
+feev28.04F3	天使の勇者か……		text
+feev28.0522	我が魔剣の餌食となりにきたな……		text
+feev28.0551	フェイン		speaker
+feev28.0568	帝国の暴挙……{n}お前を倒して終わらせるぞ。		text
+feev28.05A1	アルベリック		speaker
+feev28.05BC	せいぜい吠えるがいい。{n}お前など、我が剣に{n}かかれば赤子のような物だ……		text

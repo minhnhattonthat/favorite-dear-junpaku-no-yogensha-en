@@ -1,0 +1,61 @@
+id	jp	en	notes
+ceev01_01.006E	＄＄＄＄＄＄		speaker
+ceev01_01.007E	！！{wait}{clear}		
+ceev01_01.0086	セシア		speaker
+ceev01_01.0094	あっ！{wait}{clear}		
+ceev01_01.009E	＄＄＄＄＄＄		speaker
+ceev01_01.00AE	ま、待ってください！！{wait}{clear}		
+ceev01_01.00C8	セシア		speaker
+ceev01_01.00D6	えっ！？　人？{wait}{clear}		
+ceev01_01.010E	セシア		speaker
+ceev01_01.011C	……ごめんなさい。{n}弓を向けてしまうなんて……。{wait}{clear}		
+ceev01_01.0150	＄＄＄＄＄＄		speaker
+ceev01_01.0160	……あなたはこの森に住むセシアですか？{wait}{clear}		
+ceev01_01.0196	セシア		speaker
+ceev01_01.01A4	はい、そうです。{n}あなたは天使様……ですか？{wait}{clear}		
+ceev01_01.01D4	＄＄＄＄＄＄		speaker
+ceev01_01.01E4	ええ、私は＄＄＄＄＄＄。天からの使いです。{wait}{clear}セシアに会いにきました。{wait}{clear}		
+ceev01_01.022E	セシア		speaker
+ceev01_01.023C	私に？　天使様がですか？{wait}{clear}		
+ceev01_01.0258	＄＄＄＄＄＄		speaker
+ceev01_01.0268	はい、あなたに頼みたいことがあるのです。{wait}{clear}今、この地上では{n}たくさんの混乱が生じようとしています。{wait}{clear}まだ姿を現さない大きな厄災もふくめて、{n}世界は危機に陥ろうとしているのです。{wait}{clear}ですから、あなたに、私とともに{n}世界の混乱を正すための協力をして欲しいのです。{wait}{clear}		
+ceev01_01.0372	セシア		speaker
+ceev01_01.0380	私が天使様と……伝説は本当だったのですね……。{wait}{clear}		
+ceev01_01.03B2	＄＄＄＄＄＄		speaker
+ceev01_01.03C2	伝説？{wait}{clear}		
+ceev01_01.03CC	セシア		speaker
+ceev01_01.03DA	ご存じないのですか？{wait}{clear}		
+ceev01_01.03F6	このレイフォリアの森を守護する聖ディアナ様は{n}天使様に祝福され、世界を救ったと語られています。{wait}{clear}		
+ceev01_01.045C	そのディアナ様と同じことが私に起こるなんて……。{wait}{clear}		
+ceev01_01.0498	セシア		speaker
+ceev01_01.04A6	私が天使様に選ばれるなんて……{n}信じられません……{wait}{clear}		
+ceev01_01.04DC	＄＄＄＄＄＄		speaker
+ceev01_01.04EC	ともに戦ってくれますか？{wait}{clear}		
+ceev01_01.0508	セシア		speaker
+ceev01_01.0516	はい……私でよろしれば……{wait}{clear}		
+ceev01_01.0538	天使様にお仕えします。{wait}{clear}		
+ceev01_01.0552	＄＄＄＄＄＄		speaker
+ceev01_01.0562	ありがとう、セシア。{wait}{clear}あなたに頼むべきことがあるときまた訪れます。{wait}{clear}		
+ceev01_01.05AA	セシア		speaker
+ceev01_01.05B8	はい、わかりました……。{n}いつでもお待ちしています、天使様。{wait}{clear}		
+ceev01_01.0614	セシア		speaker
+ceev01_01.061E	あの、天使様……{wait}{clear}少し待っていただけませんか？{wait}{clear}長老たちに天使様についていくことを{n}報告をしなければなりません。{wait}{clear}勝手に村を出ることはできないですから……。{wait}{clear}それに、心の準備も……。{wait}{clear}		
+ceev01_01.06E0	ＮＵＬＬ		speaker
+ceev01_01.06F0	《どうしても頼みたい》{n}		
+ceev01_01.070E	《また来ます》{n}		
+ceev01_01.072A	＄＄＄＄＄＄		speaker
+ceev01_01.073A	セシア、お願いします。{n}あなたの協力が必要なのです。{wait}{clear}		
+ceev01_01.077E	セシア		speaker
+ceev01_01.0788	天使様がそこまでおっしゃるのなら……。{wait}{clear}		
+ceev01_01.07B2	＄＄＄＄＄＄		speaker
+ceev01_01.07C2	ともに戦ってくれるのですね？{wait}{clear}		
+ceev01_01.07E2	セシア		speaker
+ceev01_01.07EC	はい、私でよろしければ……{n}天使様にお仕えします。{wait}{clear}長老たちにはあとで報告します。{wait}{clear}村を出ることも{n}天使様に選ばれてということならば……{n}許してくれるでしょう。{wait}{clear}		
+ceev01_01.0894	＄＄＄＄＄＄		speaker
+ceev01_01.08A4	ありがとう、セシア。{wait}{clear}		
+ceev01_01.08BC	セシア		speaker
+ceev01_01.08C6	いいえ、お礼など……{wait}{clear}私、精一杯、できることをさせてもらいます。{wait}{clear}		
+ceev01_01.0922	＄＄＄＄＄＄		speaker
+ceev01_01.0932	では、また後日もう一度ここに来ます。{wait}{clear}		
+ceev01_01.0966	セシア		speaker
+ceev01_01.0970	お願いします、天使様。{wait}{clear}必ず天使様に協力できるように話してみます。{wait}{clear}では、また。{wait}{clear}		

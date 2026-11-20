@@ -1,0 +1,33 @@
+id	jp	en	notes
+men2_Ro01.0052	ロクス		speaker
+men2_Ro01.005C	やっと来たか。{wait}{clear}		
+men2_Ro01.006E	＄＄＄＄＄＄		speaker
+men2_Ro01.007E	すみません！{n}妖精に聞いて、すぐに来たんですけど{n}遅かったですか？{wait}{clear}		
+men2_Ro01.00D0	ロクス		speaker
+men2_Ro01.00DA	ったく、冗談も通じないな、君は。{wait}{clear}		
+men2_Ro01.00FE	＄＄＄＄＄＄		speaker
+men2_Ro01.010E	冗談……？{wait}{clear}		
+men2_Ro01.0128	ロクス		speaker
+men2_Ro01.0132	ははは……。{n}それだけ急いで来てくれたのはうれしいけどな。{wait}{clear}		
+men2_Ro01.017C	なあ、＄＄＄＄＄＄、時間はあるのか？{wait}{clear}		
+men2_Ro01.01A4	ＮＵＬＬ		speaker
+men2_Ro01.01B4	《ええ、大丈夫です。》{n}		
+men2_Ro01.01D2	《そうですね……ちょっと……。》{n}		
+men2_Ro01.01FA	＄＄＄＄＄＄		speaker
+men2_Ro01.020A	ええ、もちろん大丈夫です。{wait}{clear}		
+men2_Ro01.0228	ロクス		speaker
+men2_Ro01.0232	そうか、じゃあ、ゆっくり話ができるな。{wait}{clear}今は、大変なときなのはわかっているけど、{n}少しくらい、のんびりしてもいいだろ？{wait}{clear}		
+men2_Ro01.02AE	＄＄＄＄＄＄		speaker
+men2_Ro01.02BE	ええ……。{wait}{clear}		
+men2_Ro01.02CC	ロクス		speaker
+men2_Ro01.02D6	そうか……よかった……。{wait}{clear}		
+men2_Ro01.02F6	＄＄＄＄＄＄		speaker
+men2_Ro01.0306	そうですね……{n}実は、ちょっと用があって……。{wait}{clear}		
+men2_Ro01.0344	ロクス		speaker
+men2_Ro01.034E	そうか……{n}じゃあ、ゆっくりしていけないのか？{wait}{clear}		
+men2_Ro01.0380	＄＄＄＄＄＄		speaker
+men2_Ro01.0390	ふふふ……なんて、ウソです。{wait}{clear}		
+men2_Ro01.03BC	ロクス		speaker
+men2_Ro01.03C6	おいおい、おどかさないでくれよ。{n}それに天使がウソなんかついていいのか？{wait}{clear}		
+men2_Ro01.0412	＄＄＄＄＄＄		speaker
+men2_Ro01.0422	ロクスにたいしてなら、きっと許してもらえます。{wait}{clear}		

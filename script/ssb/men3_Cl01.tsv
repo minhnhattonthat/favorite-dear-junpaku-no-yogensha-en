@@ -1,0 +1,22 @@
+id	jp	en	notes
+men3_Cl01.0052	クライヴ		speaker
+men3_Cl01.005E	すまない……呼び出して。{wait}{clear}		
+men3_Cl01.007A	＄＄＄＄＄＄		speaker
+men3_Cl01.008A	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
+men3_Cl01.00C8	クライヴ		speaker
+men3_Cl01.00D4	いや……これを……{n}銀のナイフをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
+men3_Cl01.012E	ＮＵＬＬ		speaker
+men3_Cl01.013E	《ありがとうございます。》{n}		
+men3_Cl01.0160	《戒律があるので……。》{n}		
+men3_Cl01.0180	＄＄＄＄＄＄		speaker
+men3_Cl01.0190	ありがとうございます。{wait}{clear}えっと、これは武器として使えるのですか？{wait}{clear}		
+men3_Cl01.01D6	クライヴ		speaker
+men3_Cl01.01E2	いや、お守りみたいなものだ。{n}銀にはそういう力がある……。{wait}{clear}		
+men3_Cl01.0220	＄＄＄＄＄＄		speaker
+men3_Cl01.0230	そうなのですか。{n}ではいただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
+men3_Cl01.0286	＄＄＄＄＄＄		speaker
+men3_Cl01.0296	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Cl01.02FA	クライヴ		speaker
+men3_Cl01.0306	そうか……。{n}なら、しかたがない。{wait}{clear}		
+men3_Cl01.032C	＄＄＄＄＄＄		speaker
+men3_Cl01.033C	本当にすみません。{wait}{clear}		

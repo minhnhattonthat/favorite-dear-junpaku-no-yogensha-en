@@ -28,19 +28,26 @@ Full per-file list: `python -X utf8 tools/scantext.py summary work/lkf work/disc
 | SSB_DATA `*.end` | 21 | 645 | 8535 | ending narrations, plain SJIS + CRLF |
 | FD2BN overlays | op.bin, rfd2.bin, ed.bin, pro.bin | 569 | 7958 | NUL-terminated SJIS, pointers below |
 | SLPS_027.54 | 1 | 513 | 3020 | NUL-terminated SJIS, pointers below |
-| GRPDATA `Dummy00.DAT` | 1 | 35 | 840 | fixed 50-byte records of full-width-padded dialogue (`久しぶりだな、ラビエル。　　...`); name says dummy, guess unused: check for a reader in phase 4 |
+| GRPDATA `Dummy00.DAT` | 1 | 35 | 840 | fixed 50-byte records (48 bytes of full-width-padded dialogue + CRLF, `久しぶりだな、ラビエル。　　...`); name says dummy, guess unused: extracted anyway (`script/misc/`); confirm with fileslog.lua in phase 8 |
 | GRPDATA `FD2Font.FPK` | 1 | 7 | 320 | the font's character list (not text) |
 | GRPDATA `*.tim/.blf/.rct`, FD2SN `*.seq/.vb/.blf` | ~1090 | - | - | false hits: pixel/sound bytes that decode as SJIS. Not text |
 
-## MSG banks (SSB_DATA *.MSG; verified by decoding FryMsg0, T_Msg00, MssAns0)
+## MSG banks (SSB_DATA *.MSG; all 108 verified: `tools/msg.py` parses and rebuilds every bank byte for byte)
 
-u16 offset table at 0 (entry count = first offset / 2), then per entry: u16 byte length, then that many bytes of
-SJIS text, entries back to back (no gap). **Not all banks**: BrvMsgQ0 entry 3 is `00 00 94 00` + 148 bytes of text +
-`0a 00` + 10 bytes..., so some entries hold several (u16 length, text) parts, and even that model fails on a later
-BrvMsg entry (`tests/test_formats.py::test_msg_banks_parse`, xfail). Decode the BrvMsgQ/BMsgQ layout in phase 4. Offsets are 16-bit, so a bank must stay under 64 KB (largest now 27 KB,
-T_Msg00). Escapes seen: `\l` line break, `\k` wait for a key, `\c` clear the box (new page). Others: list them in
-phase 4 (grep `\\.`). Names: FryMsg (fairy?), BrvMsgQ/BMsgQ (hero messages), MssReq/MssAns (missions),
-T_Msg (teacher/tutor? "Tell me about Fein"), GenAnsw/GenNG, EMP_OK/NG, NASI_OK/NG, BTL_EVT, men3_*.
+Five layouts (`msg.layout()` picks by name):
+
+| layout | banks | format |
+|---|---|---|
+| plain | 57 (FryMsg, GenAnsw/GenNG, EMP_*, NASI_*, B_ItemRes, BVisit, T_Msg, HVN_Msg00, EQP_Item, SUP_Item, ...) | u16 offset table at 0 (count = first offset / 2); entry = u16 length + text, back to back |
+| reply | BrvMsgQ0-6, BMsgQ* (42) | plain, but entries 3, 6, 9.. (the hero's reply in each topic / question / reply triple) start with 2 bytes before the length: (face?, s8 affection delta?), e.g. `00 00`, `04 00`, `00 f6` (-10), `00 05` |
+| idtab | MssReq, MssAns0-6 | u32 count, count x (u16 offset, u16 id; ids 0..1056 not contiguous), entries = u16 length + text |
+| names | EvName | u32 count, count x 24-byte records: u16 id + 22-byte NUL-padded text |
+| battle | BTL_EVT0-6 | u16 count, count x (u16 id 3000.., u16 offset), u32 0xFFFFFFFF; record = 18 u16 slot offsets (0 = none, relative to the record) + messages: u16 length, speaker NUL text, u16 tail (0xFFFF, or a value like 0x09DD/0x0446: guess, a voice id). Slots are entry points into the message stream (a slot's run continues into the next slot's messages). Empty records are 36 zero bytes |
+
+Offsets are 16-bit, so a bank must stay under 64 KB (largest now 27 KB, T_Msg00; `msg.build` asserts it). Escapes
+(complete list, grep over every MSG/EVX): `\l` line break, `\k` wait for a key, `\c` clear the box (new page); EVX has
+`\l` only. A 0x5C byte is also a Shift-JIS trail byte (表 95 5C, ソ 83 5C), so escapes are read only at character
+boundaries (`tools/jtext.py`).
 
 ## .end files (endings; verified: feed1.end)
 
@@ -63,8 +70,16 @@ offset = vaddr - 0x80020000 + 0x800, 0x7c000 bytes.
   u32 = overlay id 6..10; the EXE itself holds id 5 at that address). With that base: op.bin 325 of 329 string starts hit a u32 pointer (tables), 2 lui; rfd2.bin
   136 lui + 30 table of 176; ed.bin 10 of 11 lui; pro.bin only 16 of 70 (the rest: guess, offsets added at run time
   or strings inside longer records; find in phase 4). Battle.bin has no text.
-- Extraction should walk these pointers (and record every referencing site) rather than scan, so an English string
-  can move to free space and every site be repointed.
+- **Extraction (phase 4, verified by `tests/test_text.py::test_coverage`): `tools/codetext.py`** walks u32 pointers
+  and lui pairs, so every string has its referencing sites (the `notes` column: `ptrxN`, `luixN`). Every string in
+  the EXE and the four overlays now has a reference. pro.bin's remaining 54: the prologue personality quiz, fixed
+  tables reached as base + index * stride (base 0x800A03C4 is lui-built): 20 questions x 0x8C bytes from
+  0x800A03C4, 40 answers x 0x30 from 0x800A0EB4 (answer A of question k at k, answer B at 20 + k: 円すい形 / 立方体).
+  Quiz text uses **`￥` (81 8F) as its line break**. `codetext.NOT_TEXT` lists the 13 pointer/lui hits that are code
+  (one kanji like 蝣 屁 鳥; the 鳥 hits are `jal` words `92 b9 00 0c`). Not text either: the two glyph-index tables at
+  EXE 0x8007E203/0x8007E813 (waived in the test).
+- Memory-card save titles (`純白の預言者　ゲームデータ０１　`, EXE 0x8008CD74..) are what the BIOS card manager shows: full-width
+  SJIS only there. Keep or translate in full-width letters (phase 7 decision).
 
 ## LKF entry lookup
 
@@ -79,3 +94,25 @@ entries boots and reaches every scene tried (`disc.md` §Grow test).
 
 `＄＄＄＄＄＄` (six full-width ＄, SJIS 81 90) in ssb text = the player's angel name (default ラビエル, entered at New
 Game; 4 katakana max seen in the name-entry screen). Verified in ceev01_01.ssb context.
+
+## Extraction (phase 4; `tools/extract.py`, tests in `tests/test_text.py`)
+
+`script/` TSVs, columns `id jp en notes`; ids = `<file stem>.<hex offset of the text in the original file>` (ssb rows:
+offset of the row's first token; EXE/overlays: `SLPS.<vaddr>`, `<overlay>.<vaddr>`). One Source per file
+(`extract.sources()`): its rows and a `build({id: text})` that the insert step (`tools/insert.py`, called by
+`build.py`) uses with the `en` texts.
+
+| dir | from | rows | row = |
+|---|---|---|---|
+| `msg/` (108) | SSB_DATA *.MSG | 15130 | one entry (BTL_EVT: speaker `....S` and text rows per message) |
+| `ssb/` (287) | SSB_DATA *.ssb | 9821 | a run of text tokens with ops 02/05/06 as {n}/{wait}/{clear}, cut at jump targets; speaker names (op 0x19) are their own rows (notes `speaker`) |
+| `evx/` (269) | SSB_DATA *.EVX | 5855 | one item: title (dev label), unit name (32-byte field), speaker, text, choice |
+| `end/` (21) | SSB_DATA *.end | 198 | a paragraph; CRLF inside as {n} |
+| `misc/Dummy00.tsv` | GRPDATA Dummy00.DAT | 35 | a record (re-padded to 48 bytes with full-width spaces) |
+| `ovl/` (4), `exe.tsv` | FD2BN op/rfd2/ed/pro.bin, SLPS_027.54 | 1253 | one NUL-terminated string; notes give the reference kinds; replaced in place only until relocation (phase 7) |
+
+Text form (`tools/jtext.py`): SJIS characters as themselves, `{n}` `{wait}` `{clear}`, `{XX}` for any other byte
+(unmapped or NEC/IBM duplicate codes too), so `encode(decode(b)) == b` for any bytes. Tests: every row and every file
+round-trips; every SJIS run in a source file starts inside a row (`test_coverage`, after skipping op arguments and
+header tables; 3+ characters in the EXE/overlays, 1+ elsewhere); `script/` matches the disc; ssb and EVX files keep
+their jumps / record sizes when every row grows.

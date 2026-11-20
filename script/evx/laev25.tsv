@@ -1,0 +1,18 @@
+id	jp	en	notes
+laev25.00A2	レイラ		unit name (32-byte field)
+laev25.00DE	イオン		unit name (32-byte field)
+laev25.011A	ウサギ１		unit name (32-byte field)
+laev25.0156	ウサギ２		unit name (32-byte field)
+laev25.0192	ウサギ３		unit name (32-byte field)
+laev25.01CE	死人		unit name (32-byte field)
+laev25.020A	死人		unit name (32-byte field)
+laev25.0498	イオン		speaker
+laev25.04AD	魔石はあの人に渡したし、お母さんも……。		text
+laev25.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。		text
+laev25.059D	イオン		speaker
+laev25.05B2	なんだ？　お前……。		text
+laev25.0611	レイラ		speaker
+laev25.0626	こんな酷いことを……。		text
+laev25.064B	イオン		speaker
+laev25.0660	うるさい！{n}僕の邪魔をするから悪いんだ！		text
+laev25.0697	ゾネ、モーント、スターン！　こいつを殺せ！！		text

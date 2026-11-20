@@ -1,0 +1,27 @@
+id	jp	en	notes
+roev20_09.00A2	ロクス		unit name (32-byte field)
+roev20_09.00DE	レイラ		unit name (32-byte field)
+roev20_09.04C8	ロクス		speaker
+roev20_09.04DD	あなたは天使の勇者ですね？		text
+roev20_09.0506	レイラ		speaker
+roev20_09.051B	……誰？		text
+roev20_09.0532	ロクス		speaker
+roev20_09.0547	私はあなたと同じ天使の勇者です。		text
+roev20_09.0576	けがを見せてもらえませんか？{n}なにかできるかもしれません。		text
+roev20_09.05BF	レイラ		speaker
+roev20_09.05D4	…………。		text
+roev20_09.05ED	ロクス		speaker
+roev20_09.0602	失礼。		text
+roev20_09.0677	ロクス		speaker
+roev20_09.068C	これで、回復したはずです。{n}どうですか？　感じは？		text
+roev20_09.0725	レイラ		speaker
+roev20_09.073A	本当……ありがとう……{n}名はなんと？		text
+roev20_09.076D	ロクス		speaker
+roev20_09.0782	ロクス・ラス・フロレスです。		text
+roev20_09.07AD	レイラ		speaker
+roev20_09.07C2	帝国の人間を助けてくれる者など{n}いるはずがないと、怪しんでしまいました。		text
+roev20_09.0819	すみません、ロクス。		text
+roev20_09.083C	ロクス		speaker
+roev20_09.0851	礼には及びません。{n}あなたのように美しい人の力になれたのです。		text
+roev20_09.089E	今度、出会ったときは{n}食事でもいたしましょう。		text
+roev20_09.08DB	では。		text

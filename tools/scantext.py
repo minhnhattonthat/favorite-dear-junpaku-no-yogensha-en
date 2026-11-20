@@ -14,6 +14,11 @@ LEAD = set(range(0x81, 0xA0)) | set(range(0xE0, 0xF0))
 
 
 def runs(data, min_chars=3):
+    return [(start, s) for start, _, s in spans(data, min_chars)]
+
+
+def spans(data, min_chars=3):
+    """(start, end, text) for every run; end is exclusive (trailing ASCII spaces included in the bytes)."""
     i, n = 0, len(data)
     out = []
     while i < n:
@@ -39,7 +44,7 @@ def runs(data, min_chars=3):
                 break
         if chars >= min_chars and kana:
             s = "".join(text).rstrip(" ")
-            out.append((start, s))
+            out.append((start, j, s))
             i = j
         else:
             i = start + 1

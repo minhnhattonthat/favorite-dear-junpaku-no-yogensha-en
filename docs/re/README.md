@@ -13,8 +13,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | `disc.md` | disc files, LKF archive format | LKF verified; identity rebuild not tested |
-| `text.md` | Shift-JIS encoding, fonts, text-bearing files (ranges), MSG banks, .end files, EXE/overlay string pointer forms, overlay base, LKF entry lookup, name placeholder | encoding, MSG, pointer forms verified; BrvMsg layout and pro.bin pointers open |
-| `events.md` | ssb event-script byte stream (opcodes, inline text), EVX battle setups | tokenizer verified on 344/346 files; linearity a guess |
+| `text.md` | Shift-JIS encoding, fonts, text-bearing files (ranges), MSG banks (5 layouts), .end files, EXE/overlay string pointer forms and fixed tables, overlay base, LKF entry lookup, name placeholder, extraction (`script/`) | all text sources extracted with roundtrip + coverage tests; ASCII printing open (phase 5) |
+| `events.md` | ssb event-script byte stream (opcodes, jumps, inline text), EVX battle setups and message records | ssb: all 346 rebuild, jumps re-pointed; EVX growth not boot-tested |
 | `graphics.md` | graphics-text survey: TIM sweep (reviewed), name plates, BLF, FMV, rows G1-G15 | static sweep complete; tour rows added in phase 5 |
 | `debug.md` | debug warp: LKF by-name directory in RAM (MSF read), event swap, New Game route, overlays | event warp verified (scenes.tsv); battle/credits/game over open |
 | `space.md` | growth and buffer limits | candidates; overlay base verified |
@@ -24,6 +24,7 @@ carry over). No earlier patch or tools for this game found (web search 2026-11-2
 no community tools).
 
 Helpers: `tools/lkf.py` (LKF list/extract/build), `tools/scantext.py` (SJIS run scan), `tools/ssb.py` (ssb
-tokenizer), `tools/tim.py` (TIM -> PNG, dump every TIM in the LKFs), `tools/gfxsheets.py` (labelled sheets),
+tokenizer, rows, rebuild), `tools/msg.py` / `tools/evx.py` / `tools/codetext.py` / `tools/misctext.py` (text codecs),
+`tools/jtext.py` (text form), `tools/extract.py` / `tools/insert.py` (script/ TSVs in and out), `tools/tim.py` (TIM -> PNG, dump every TIM in the LKFs), `tools/gfxsheets.py` (labelled sheets),
 `tools/retools.py` (MIPS disassembly, lui/addiu xrefs), `tools/pix.py` (name plates), `tools/str2352.py` (FMV sectors
 for ffmpeg).

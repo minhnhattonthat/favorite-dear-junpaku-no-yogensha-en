@@ -1,0 +1,9 @@
+id	jp	en	notes
+roev08.0002	聖都陥落		dev label (guess: not shown)
+roev08.00A2	ロクス		unit name (32-byte field)
+roev08.00DE	帝国騎士		unit name (32-byte field)
+roev08.011A	帝国歩兵		unit name (32-byte field)
+roev08.0156	帝国歩兵		unit name (32-byte field)
+roev08.0192	帝国歩兵		unit name (32-byte field)
+roev08.04E8	ロクス		speaker
+roev08.04FD	この軍勢は……{n}くっ……せめて、聖堂へは……		text

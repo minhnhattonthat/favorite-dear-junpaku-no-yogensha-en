@@ -1,0 +1,16 @@
+id	jp	en	notes
+laev19_03.0002	1		dev label (guess: not shown)
+laev19_03.00A2	レイラ		unit name (32-byte field)
+laev19_03.00DE	ルディ		unit name (32-byte field)
+laev19_03.0530	ルディエール		speaker
+laev19_03.054B	おい！　お前、{n}ここで悪さしようってんじゃないだろうな？		text
+laev19_03.0592	レイラ		speaker
+laev19_03.05A7	え？		text
+laev19_03.05BA	ルディエール		speaker
+laev19_03.05D5	帝国の連中はろくなことしないからな。{n}お前だって、やつらの仲間なんだろう？		text
+laev19_03.062E	レイラ		speaker
+laev19_03.0643	それは……。{n}でも、私はなにも……。		text
+laev19_03.06C6	ルディエール		speaker
+laev19_03.06E1	その軍服が恐怖の象徴だ……。		text
+laev19_03.076C	レイラ		speaker
+laev19_03.0781	…………。		text

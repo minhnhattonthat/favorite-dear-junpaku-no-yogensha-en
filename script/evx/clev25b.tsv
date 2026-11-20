@@ -1,0 +1,70 @@
+id	jp	en	notes
+clev25b.0002	ラストバトル		dev label (guess: not shown)
+clev25b.00A2	クライヴ		unit name (32-byte field)
+clev25b.00DE	ベルゼバブ		unit name (32-byte field)
+clev25b.011A	天竜		unit name (32-byte field)
+clev25b.04A8	エンディミオン		speaker
+clev25b.04C5	どうだ、わかったか？		text
+clev25b.04F8	これが、支配者の力だ。		text
+clev25b.052D	貴様では傷ひとつ{n}指一本ふれることもかなわなかったろう。		text
+clev25b.0584	この力こそ……{n}この力こそ、我らがすべてを統べるという証なのだ！		text
+clev25b.05E3	神という名は我らのためにあるのだ……		text
+clev25b.0626	きょう慢な天使よ、思い知るがいい。		text
+clev25b.0667	しかし……我々は{n}王としての慈悲を知るものだ……		text
+clev25b.06B6	高貴なものだけがもつ偉大な慈悲だ。		text
+clev25b.06F7	天使よ、この勇者の魂を救いたくはないか？		text
+clev25b.073E	新しい神の使いとして、我らの元にくれば、{n}お前の今までの行いもすべて忘れ{n}お前とこの勇者を救ってやろう。		text
+clev25b.07C5	我らが偉大な力にふれてみてよくわかったろう？{n}どちらが正しく、どちらが間違っているのか。		text
+clev25b.083C	さあ、答えよ。		text
+clev25b.0869	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
+clev25b.08C8	《わかりました……》		choice
+clev25b.08DF	《いいえ……》		choice
+clev25b.0900	＄＄＄＄＄＄		speaker
+clev25b.091B	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
+clev25b.096A	どうか……彼の魂を、{n}彼の命を救ってください……		text
+clev25b.09B9	エンディミオン		speaker
+clev25b.09D6	ふふ、すばらしい。{n}いい心ばえだ……		text
+clev25b.0A19	では……この勇者を救ってやろう……。		text
+clev25b.0AA0	＄＄＄＄＄＄		speaker
+clev25b.0ABB	クライヴ！！		text
+clev25b.0AE6	エンディミオン		speaker
+clev25b.0B03	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
+clev25b.0B5C	すべてを失ったその顔が見たかったのだ！		text
+clev25b.0BA1	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
+clev25b.0BF8	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
+clev25b.0C47	死ね。		text
+clev25b.0CBC	＄＄＄＄＄＄		speaker
+clev25b.0CD7	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
+clev25b.0D28	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
+clev25b.0D9F	エンディミオン		speaker
+clev25b.0DBC	ふん、小賢しいことを……。		text
+clev25b.0DF5	いいだろう。		text
+clev25b.0E20	お前らも死んでサタン様の魂の{n}癒しとなれ。		text
+clev25b.0E69	男の声		speaker
+clev25b.0E7E	待て、ベルゼバブ……		text
+clev25b.0ED9	エンディミオン		speaker
+clev25b.0EF6	私の真の名を呼ぶとは……		text
+clev25b.0F2D	男の声		speaker
+clev25b.0F42	お前のその赤い目を、汚いやり口を{n}忘れるはずなかろう……		text
+clev25b.0F99	ベルゼバブ		speaker
+clev25b.0FB2	その声……この波動は！！		text
+clev25b.1079	ミカエル		speaker
+clev25b.1090	久しぶりだな、ハエの王。		text
+clev25b.10C7	ベルゼバブ		speaker
+clev25b.10E0	ミカエル！　ラファエル！		text
+clev25b.1117	ミカエル		speaker
+clev25b.112E	遅れてすまなかったな、＄＄＄＄＄＄。		text
+clev25b.1171	ラファエル		speaker
+clev25b.118A	サタンの竜がよみがえった時{n}こういう日がくるとわかっていました……。		text
+clev25b.11ED	そして、影にいる堕天使の存在の強大さも……。		text
+clev25b.1238	ミカエル		speaker
+clev25b.124F	ベルゼバブとサタンの天竜を{n}お前一人に任せるわけにはいかない。		text
+clev25b.12AC	やつらを、ともに倒そう。		text
+clev25b.12E3	ラファエル		speaker
+clev25b.12FC	さあ、勇者よ、よみがえりなさい。		text
+clev25b.13CF	クライヴ		speaker
+clev25b.13E6	……俺は……		text
+clev25b.1411	ラファエル		speaker
+clev25b.142A	地上の勇者よ、{n}もう一度人の力を悪魔に見せるのです。		text
+clev25b.147D	ベルゼバブ		speaker
+clev25b.1496	貴様らがいくら集まろうと、{n}この人間が私をたおすことなど絶対にできんぞ！		text

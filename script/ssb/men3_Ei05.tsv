@@ -1,0 +1,26 @@
+id	jp	en	notes
+men3_Ei05.005C	アイリーン		speaker
+men3_Ei05.006A	ごめん、急に呼んで。{wait}{clear}		
+men3_Ei05.0082	＄＄＄＄＄＄		speaker
+men3_Ei05.0092	どうしたのですか、アイリーン？{n}なにか困ったことでも？{wait}{clear}		
+men3_Ei05.00CC	アイリーン		speaker
+men3_Ei05.00DA	ううん、そんなことはないから大丈夫。{n}＄＄＄＄＄＄に、この魔導書をあげようと思って。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれる？{wait}{clear}		
+men3_Ei05.016C	ＮＵＬＬ		speaker
+men3_Ei05.017C	《ありがとうございます。》{n}		
+men3_Ei05.019E	《戒律があるので……。》{n}		
+men3_Ei05.01BE	＄＄＄＄＄＄		speaker
+men3_Ei05.01CE	ありがとうございます。{n}この魔導書には、なにかいわれがあるのですか？{wait}{clear}		
+men3_Ei05.0216	アイリーン		speaker
+men3_Ei05.0224	それ、おじいちゃんが書いた本だよ。{wait}{clear}		
+men3_Ei05.024A	＄＄＄＄＄＄		speaker
+men3_Ei05.025A	そんな大切なものをいただいてもいいのですか？{wait}{clear}		
+men3_Ei05.0296	アイリーン		speaker
+men3_Ei05.02A4	うん。{wait}{clear}その本に書いてあることは、ぜんぶ覚えてるし、{n}だったら、誰かの役に立ててもらった方が、{n}ぜったいにいいと思って……。{wait}{clear}		
+men3_Ei05.0326	＄＄＄＄＄＄		speaker
+men3_Ei05.0336	そんな大切なものを……。{n}本当にありがとうございます。{wait}{clear}		
+men3_Ei05.0374	＄＄＄＄＄＄		speaker
+men3_Ei05.0384	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
+men3_Ei05.03F4	アイリーン		speaker
+men3_Ei05.0402	そうなの？{n}なあんだ、じゃあしかたがないね。{n}ちょっとがっかりしちゃうけど……。{wait}{clear}		
+men3_Ei05.0456	＄＄＄＄＄＄		speaker
+men3_Ei05.0466	本当にすみません。{wait}{clear}		

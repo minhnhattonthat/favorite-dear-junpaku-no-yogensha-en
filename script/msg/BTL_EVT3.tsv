@@ -1,0 +1,839 @@
+id	jp	en	notes
+BTL_EVT3.01E0S	ロクス		speaker
+BTL_EVT3.01E7	お前らか？　村を襲っているのは？		
+BTL_EVT3.020BS	タイタン		speaker
+BTL_EVT3.0214	はじめにおれたちを襲ったのは、人間だ！！{n}見たこともない獣を連れて、おれたちを……。{wait}{clear}おれたちは、仕返しをしているだけ……{n}邪魔するヤツはひねりつぶしてやるっ！！		
+BTL_EVT3.02BCS	ロクス		speaker
+BTL_EVT3.02C3	お前らが来るならしかたない……。		
+BTL_EVT3.02E7S	ロクス		speaker
+BTL_EVT3.02EE	さてと……{n}終わったことだし、とっとと帰るか。		
+BTL_EVT3.0320S	タイタン		speaker
+BTL_EVT3.0329	ふん！　口ほどにもない！！		
+BTL_EVT3.0347S	タイタン		speaker
+BTL_EVT3.0350	ふん！　口ほどにもない！！		
+BTL_EVT3.0392S	帝国兵		speaker
+BTL_EVT3.0399	黙って我々に従え！{n}逆らうというのなら、殺す！		
+BTL_EVT3.03CBS	帝国兵		speaker
+BTL_EVT3.03D2	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
+BTL_EVT3.0402S	帝国兵		speaker
+BTL_EVT3.0409	わははは！{n}我々帝国軍に逆らおうなどムダだ！		
+BTL_EVT3.045DS	ロクス		speaker
+BTL_EVT3.0464	帝国軍はなにを考えてるんだ？{n}こんな森を攻めるなんて、むだなことだろう？		
+BTL_EVT3.04B0S	帝国騎士		speaker
+BTL_EVT3.04B9	お前には関係のない。{n}我々の進軍を邪魔する者は、何人たりとも許さん！		
+BTL_EVT3.0501S	ロクス		speaker
+BTL_EVT3.0508	何が起きようとしているんだ……。		
+BTL_EVT3.052CS	帝国騎士		speaker
+BTL_EVT3.0535	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
+BTL_EVT3.0579S	帝国騎士		speaker
+BTL_EVT3.0582	お前たちが我々帝国軍にかなうはずなどない！{n}わははははは……っ！		
+BTL_EVT3.05EAS	ロクス		speaker
+BTL_EVT3.05F1	ああいうのは、勘弁して欲しいものだ。		
+BTL_EVT3.0619S	ファントム		speaker
+BTL_EVT3.0624	…………。		
+BTL_EVT3.0632S	ファントム		speaker
+BTL_EVT3.063D	…………。		
+BTL_EVT3.066FS	イオン		speaker
+BTL_EVT3.0676	ぼくの邪魔をするから……。		
+BTL_EVT3.0694S	イオン		speaker
+BTL_EVT3.069B	ぼくの邪魔をするから……。		
+BTL_EVT3.06DDS	ロクス		speaker
+BTL_EVT3.06E4	帝国軍はなにを考えてるんだ？		
+BTL_EVT3.0704S	帝国兵		speaker
+BTL_EVT3.070B	お前には関係のないこと……。{n}我々に逆らう者は、何人たりとも許さん！		
+BTL_EVT3.0753S	ロクス		speaker
+BTL_EVT3.075A	いったいなにが起ころうとしてるんだ？		
+BTL_EVT3.0782S	帝国兵		speaker
+BTL_EVT3.0789	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT3.07B5S	帝国兵		speaker
+BTL_EVT3.07BC	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT3.080CS	ロクス		speaker
+BTL_EVT3.0813	なにを考えてるんだ……帝国は……！		
+BTL_EVT3.0839S	帝国兵		speaker
+BTL_EVT3.0840	なんだ、貴様！！{n}我々の邪魔はさせん！！		
+BTL_EVT3.086CS	ロクス		speaker
+BTL_EVT3.0873	いつまで続くんだ……こんなことが……。		
+BTL_EVT3.089DS	帝国兵		speaker
+BTL_EVT3.08A4	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT3.08D0S	帝国兵		speaker
+BTL_EVT3.08D7	我々の邪魔をするなど……{n}愚かなやつめ！		
+BTL_EVT3.0927S	カイゼル		speaker
+BTL_EVT3.0930	我々帝国軍に逆らうだと、面白い……。{n}行くぞ！！		
+BTL_EVT3.0964S	カイゼル		speaker
+BTL_EVT3.096D	帝国騎士として国のために死ねるのなら、本望……。{n}ただ、最後にひとつだけ頼みたい……。		
+BTL_EVT3.09C7S	カイゼル		speaker
+BTL_EVT3.09D0	レイラという帝国騎士に会ったら、{n}彼女の部下を殺したことを{n}詫びたかったと伝えてくれ……。		
+BTL_EVT3.0A2ES	カイゼル		speaker
+BTL_EVT3.0A37	ふん……我々に逆らうなど……愚かな……。		
+BTL_EVT3.0A63S	カイゼル		speaker
+BTL_EVT3.0A6C	…………。		
+BTL_EVT3.0A9ES	アルベリック		speaker
+BTL_EVT3.0AAB	天使の勇者か……		
+BTL_EVT3.0ABFS	アルベリック		speaker
+BTL_EVT3.0ACC	我が魔剣の餌食となりにきたな……		
+BTL_EVT3.0AF0S	ロクス		speaker
+BTL_EVT3.0AF7	帝国の病を象徴するような男だな。		
+BTL_EVT3.0B1BS	アルベリック		speaker
+BTL_EVT3.0B28	ふん、病か……{wait}{clear}そんなものこの剣が{n}すべて癒してくれたよ……{wait}{clear}人の魂を吸ってな！		
+BTL_EVT3.0B80S	ロクス		speaker
+BTL_EVT3.0B87	魔による癒しだと……ふざけるな……。		
+BTL_EVT3.0BAFS	アルベリック		speaker
+BTL_EVT3.0BBC	この剣も喜んでいる……		
+BTL_EVT3.0BD6S	アルベリック		speaker
+BTL_EVT3.0BE3	天使の勇者の血は最高だとね……。		
+BTL_EVT3.0C07S	アルベリック		speaker
+BTL_EVT3.0C14	はははは！{n}天使の勇者など、僕の剣の癒しにもならん！		
+BTL_EVT3.0C70S	騎士隊長		speaker
+BTL_EVT3.0C79	帝国バンザイ！！		
+BTL_EVT3.0C8DS	騎士隊長		speaker
+BTL_EVT3.0C96	帝国バンザイ！！		
+BTL_EVT3.0CCES	帝国兵		speaker
+BTL_EVT3.0CD5	我々に、歯向かうやつはどこだ！！		
+BTL_EVT3.0CF9S	ロクス		speaker
+BTL_EVT3.0D00	くそっ！　きりがない！		
+BTL_EVT3.0D1AS	帝国兵		speaker
+BTL_EVT3.0D21	我々に勝てるとおもっているか！！		
+BTL_EVT3.0D45S	帝国兵		speaker
+BTL_EVT3.0D4C	我々に勝てると思っているのか！！		
+BTL_EVT3.0D94S	帝国騎士		speaker
+BTL_EVT3.0D9D	ええいっ！　おれが相手だ！！		
+BTL_EVT3.0DBDS	帝国騎士		speaker
+BTL_EVT3.0DC6	つ、強すぎる……。		
+BTL_EVT3.0DDCS	帝国騎士		speaker
+BTL_EVT3.0DE5	敵として、不足はなかった……。		
+BTL_EVT3.0E07S	帝国騎士		speaker
+BTL_EVT3.0E10	おれに勝てるはずなどない！　わはははは！		
+BTL_EVT3.0E60S	盗賊		speaker
+BTL_EVT3.0E65	てめえ、やっちまうぞ。		
+BTL_EVT3.0E7FS	ロクス		speaker
+BTL_EVT3.0E86	小さな村でいきがっている連中に{n}僕が負けるわけないだろう。		
+BTL_EVT3.0EC4S	ロクス		speaker
+BTL_EVT3.0ECB	ふん……口ほどにもない連中だ……。		
+BTL_EVT3.0EF1S	盗賊		speaker
+BTL_EVT3.0EF6	はん！　オレたちにかなうわけねえんだよ！		
+BTL_EVT3.0F22S	盗賊		speaker
+BTL_EVT3.0F27	はん！　オレたちにかなうわけねえんだよ！		
+BTL_EVT3.0F77S	帝国兵		speaker
+BTL_EVT3.0F7E	なんだ貴様は？		
+BTL_EVT3.0F90S	ロクス		speaker
+BTL_EVT3.0F97	お前らか、こんなことをしたのは……。		
+BTL_EVT3.0FBFS	ロクス		speaker
+BTL_EVT3.0FC6	ったく……くだらん連中だ……。		
+BTL_EVT3.0FE8S	帝国兵		speaker
+BTL_EVT3.0FEF	我々も甘く見られたものだな。		
+BTL_EVT3.100FS	帝国兵		speaker
+BTL_EVT3.1016	我々も甘く見られたものだな。		
+BTL_EVT3.105AS	ゾンビ		speaker
+BTL_EVT3.1061	ヴヴヴ……。		
+BTL_EVT3.1071S	ロクス		speaker
+BTL_EVT3.1078	死者は土にかえしてやろう……。		
+BTL_EVT3.109AS	ロクス		speaker
+BTL_EVT3.10A1	アンデッドは、勘弁して欲しいな……。		
+BTL_EVT3.10C9S	ゾンビ		speaker
+BTL_EVT3.10D0	ウウヴッッ……。		
+BTL_EVT3.10E4S	ゾンビ		speaker
+BTL_EVT3.10EB	ウウヴッッ……。		
+BTL_EVT3.1123S	吸血鬼		speaker
+BTL_EVT3.112A	なんだ貴様は？		
+BTL_EVT3.113CS	ロクス		speaker
+BTL_EVT3.1143	お前に名乗ってもしかたがない。{n}行くぞ！		
+BTL_EVT3.116FS	ロクス		speaker
+BTL_EVT3.1176	他愛もない……。		
+BTL_EVT3.118AS	吸血鬼		speaker
+BTL_EVT3.1191	人間ごときが、我らにかなうはずなかろう！		
+BTL_EVT3.11BDS	吸血鬼		speaker
+BTL_EVT3.11C4	おお、逃げていったわ！{n}わはははは……！		
+BTL_EVT3.1214S	メデューサ		speaker
+BTL_EVT3.121F	ほほほ……。		
+BTL_EVT3.122FS	ロクス		speaker
+BTL_EVT3.1236	いくら女性でもこういうのは苦手だな……。		
+BTL_EVT3.1262S	ロクス		speaker
+BTL_EVT3.1269	女は魔物とは言うけど、本物は勘弁して欲しいな。		
+BTL_EVT3.129BS	メデューサ		speaker
+BTL_EVT3.12A6	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
+BTL_EVT3.12E2S	メデューサ		speaker
+BTL_EVT3.12ED	こんなおしとやかな私に負けるなんて……{n}情けない男……。		
+BTL_EVT3.134DS	暗殺者		speaker
+BTL_EVT3.1354	なんだー、お前は？{n}オレたちの邪魔をするな！		
+BTL_EVT3.1384S	ロクス		speaker
+BTL_EVT3.138B	ああいう連中が多いと苦労がたえないな。		
+BTL_EVT3.13B5S	暗殺者		speaker
+BTL_EVT3.13BC	いい気味だぜ。		
+BTL_EVT3.13CES	暗殺者		speaker
+BTL_EVT3.13D5	はっ！　逃げて行きやがったぜ！		
+BTL_EVT3.141BS	ロクス		speaker
+BTL_EVT3.1422	なんだ？　帝国軍に魔物が！？		
+BTL_EVT3.1442S	ロクス		speaker
+BTL_EVT3.1449	これも魔石のせいか……？		
+BTL_EVT3.1465S	帝国軍		speaker
+BTL_EVT3.146C	ははははは！		
+BTL_EVT3.147CS	帝国軍		speaker
+BTL_EVT3.1483	ははははは！		
+BTL_EVT3.14B7S	ロクス		speaker
+BTL_EVT3.14BE	おとなしくしていればいいものを。		
+BTL_EVT3.14E2S	暗殺者		speaker
+BTL_EVT3.14E9	我々の邪魔をするな！		
+BTL_EVT3.1501S	暗殺者		speaker
+BTL_EVT3.1508	くそ……。		
+BTL_EVT3.1516S	暗殺者		speaker
+BTL_EVT3.151D	思い知ったか！		
+BTL_EVT3.152FS	暗殺者		speaker
+BTL_EVT3.1536	思い知ったか！		
+BTL_EVT3.156CS	ティタン		speaker
+BTL_EVT3.1575	な、なんの用だ……。{wait}{clear}こ、ここはもう俺たちの土地。{n}出て行け！		
+BTL_EVT3.15B9S	ロクス		speaker
+BTL_EVT3.15C0	口で言ってもわからないなら、しかたがない……。		
+BTL_EVT3.15F2S	ロクス		speaker
+BTL_EVT3.15F9	小さな村を襲って、{n}なんになるっていうんだ……。		
+BTL_EVT3.162DS	ティタン		speaker
+BTL_EVT3.1636	に、二度とくるな！！		
+BTL_EVT3.164ES	ティタン		speaker
+BTL_EVT3.1657	に、二度とくるな！！		
+BTL_EVT3.1693S	サヴィオ		speaker
+BTL_EVT3.169C	お前は……{n}セレニスの言っていた天使の勇者だな……。		
+BTL_EVT3.16D4S	サヴィオ		speaker
+BTL_EVT3.16DD	殺す。		
+BTL_EVT3.16E7S	ロクス		speaker
+BTL_EVT3.16EE	鎧の化け物か……{wait}{clear}いいだろう、僕が相手だ。		
+BTL_EVT3.171ES	サヴィオ		speaker
+BTL_EVT3.1727	ぐ、ぐぐぐ……。		
+BTL_EVT3.173BS	サヴィオ		speaker
+BTL_EVT3.1744	がああああ！！		
+BTL_EVT3.1756S	サヴィオ		speaker
+BTL_EVT3.175F	邪魔者は……死ね。		
+BTL_EVT3.1775S	サヴィオ		speaker
+BTL_EVT3.177E	うおーっ！		
+BTL_EVT3.17B0S	クラレンス		speaker
+BTL_EVT3.17BB	あばよ、ロクス。{wait}{clear}……後から俺も行くから心配すんな。		
+BTL_EVT3.17F5S	クラレンス		speaker
+BTL_EVT3.1800	ははは！　いい様だぜ！		
+BTL_EVT3.1862S	ロクス		speaker
+BTL_EVT3.1869	こんな辺境を襲って、なんの意味があるんだ？		
+BTL_EVT3.1897S	帝国兵		speaker
+BTL_EVT3.189E	ふん！　お前になど関係ない。{n}我々の邪魔をするなら、殺すだけだ！		
+BTL_EVT3.18E2S	ロクス		speaker
+BTL_EVT3.18E9	嫌な連中だ……。		
+BTL_EVT3.18FDS	帝国兵		speaker
+BTL_EVT3.1904	お前ひとりにやられる我が軍ではないわ！		
+BTL_EVT3.192ES	帝国兵		speaker
+BTL_EVT3.1935	お前ひとりにやられる我が軍ではないわ！		
+BTL_EVT3.1983S	ロクス		speaker
+BTL_EVT3.198A	こんな辺境を襲って、なんの意味があるんだ？		
+BTL_EVT3.19B8S	帝国兵		speaker
+BTL_EVT3.19BF	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
+BTL_EVT3.1A0BS	ロクス		speaker
+BTL_EVT3.1A12	いったいどうなるんだ……この世界は……。		
+BTL_EVT3.1A3ES	帝国兵		speaker
+BTL_EVT3.1A45	わはははっ！{n}偉大なる帝国に栄えあれ！		
+BTL_EVT3.1A6FS	帝国兵		speaker
+BTL_EVT3.1A76	わはははっ！{n}偉大なる帝国に栄えあれ！		
+BTL_EVT3.1AC4S	ロクス		speaker
+BTL_EVT3.1ACB	エクレシアのこんな小さな村を襲って、{n}なんになるというんだ！？		
+BTL_EVT3.1B0DS	帝国騎士		speaker
+BTL_EVT3.1B16	我々にとって大儀に勝るものはない。{n}いま慈悲をこえば、助けてやってもいいぞ……{n}わはははっ！		
+BTL_EVT3.1B76S	ロクス		speaker
+BTL_EVT3.1B7D	誰が、貴様らなんかに……。		
+BTL_EVT3.1B9BS	ロクス		speaker
+BTL_EVT3.1BA2	とうとうエクレシアまで……{n}でも、このままじゃすまないだろう……{n}きっと……。		
+BTL_EVT3.1BF4S	帝国騎士		speaker
+BTL_EVT3.1BFD	我々に逆らうなど、むだなこと！		
+BTL_EVT3.1C1FS	帝国騎士		speaker
+BTL_EVT3.1C28	我々に逆らうなど、むだなこと！		
+BTL_EVT3.1C6ES	ロクス		speaker
+BTL_EVT3.1C75	エクレシアのこんな小さな村や、{n}女性を襲うなんて、卑怯だぞ！		
+BTL_EVT3.1CB5S	帝国兵		speaker
+BTL_EVT3.1CBC	我が皇帝のお志など、お前にはわからんだろう。{n}黙って我々に従うか、死ね！		
+BTL_EVT3.1D08S	ロクス		speaker
+BTL_EVT3.1D0F	とうとうエクレシアまで……{n}でも、このままじゃすまないだろう……{n}きっと……。		
+BTL_EVT3.1D61S	帝国騎士		speaker
+BTL_EVT3.1D6A	我らには紅月王がついておられる！　わはははは！		
+BTL_EVT3.1D9CS	帝国騎士		speaker
+BTL_EVT3.1DA5	我らには紅月王がついておられる！　わはははは！		
+BTL_EVT3.1DFBS	ロクス		speaker
+BTL_EVT3.1E02	こんなこをして……{n}いったいなんになると言うんだ！？		
+BTL_EVT3.1E3AS	帝国騎士		speaker
+BTL_EVT3.1E43	我らの進軍、誰にも止めることなどできん！		
+BTL_EVT3.1E6FS	ロクス		speaker
+BTL_EVT3.1E76	くそっ！　これじゃ、きりがない！		
+BTL_EVT3.1E9AS	帝国騎士		speaker
+BTL_EVT3.1EA3	我が戦いは、皇帝のため！		
+BTL_EVT3.1EBFS	帝国騎士		speaker
+BTL_EVT3.1EC8	我が戦いは、皇帝のため！		
+BTL_EVT3.1F08S	ロクス		speaker
+BTL_EVT3.1F0F	こんな魔物までが帝国軍に？{n}まるで、あの伝説と同じじゃないか……。		
+BTL_EVT3.1F55S	融合兵		speaker
+BTL_EVT3.1F5C	そのとおりだ！{n}皇帝のご意志に従う我らを止めることなどできん！		
+BTL_EVT3.1F9ES	ロクス		speaker
+BTL_EVT3.1FA5	……まさか……{n}本当にこんなことになるなんて……。{n}だけど、あきらめない……。		
+BTL_EVT3.1FF7S	融合兵		speaker
+BTL_EVT3.1FFE	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
+BTL_EVT3.203ES	融合兵		speaker
+BTL_EVT3.2045	ぐわはははっ！　愚かな人間ども！{n}我らの力を思い知ったか！！		
+BTL_EVT3.20A9S	ロクス		speaker
+BTL_EVT3.20B0	なんなんだ？　この血のにおい……。{n}ったく、こんなところまで来るんじゃなかったな。		
+BTL_EVT3.2106S	ロクス		speaker
+BTL_EVT3.210D	……二度とこんな依頼は受けないぞ。		
+BTL_EVT3.2133S	カオスジェリー		speaker
+BTL_EVT3.2142	ギュルギュルゥ……。		
+BTL_EVT3.215AS	カオスジェリー		speaker
+BTL_EVT3.2169	ギュルギュルゥ……。		
+BTL_EVT3.21A5S	ロクス		speaker
+BTL_EVT3.21AC	みにくい花など、見たくないな……。{n}とっとと退治してやろう……。		
+BTL_EVT3.21F0S	ロクス		speaker
+BTL_EVT3.21F7	ふっ……終わった……。		
+BTL_EVT3.2211S	デッドプラント		speaker
+BTL_EVT3.2220	ひゅるひゅる……。		
+BTL_EVT3.2236S	デッドプラント		speaker
+BTL_EVT3.2245	ひゅるひゅる……。		
+BTL_EVT3.227FS	ロクス		speaker
+BTL_EVT3.2286	女性ばかりを狙うなど卑怯なやつらだ。{n}女性を傷つけたのなら、許さないぞ！		
+BTL_EVT3.22D2S	シーフ		speaker
+BTL_EVT3.22D9	オレたちの邪魔しようってのか？{n}はん！　面白れえ！		
+BTL_EVT3.230FS	ロクス		speaker
+BTL_EVT3.2316	ふん！{n}お前らごときが、僕にかなうわけないだろう。		
+BTL_EVT3.234CS	シーフ		speaker
+BTL_EVT3.2353	はっはは！　ざまあみやがれ！		
+BTL_EVT3.2373S	シーフ		speaker
+BTL_EVT3.237A	はっはは！　ざまあみやがれ！		
+BTL_EVT3.23BES	ロクス		speaker
+BTL_EVT3.23C5	こんなのに襲われたら、{n}たまったもんじゃないだろうな……。		
+BTL_EVT3.2403S	ロクス		speaker
+BTL_EVT3.240A	ふぅ……これで船も大丈夫だろう……。		
+BTL_EVT3.2432S	海竜		speaker
+BTL_EVT3.2437	グギャア～！		
+BTL_EVT3.2447S	海竜		speaker
+BTL_EVT3.244C	グギャア～！		
+BTL_EVT3.2480S	ロクス		speaker
+BTL_EVT3.2487	ふう……{n}戦うために海岸になど来たくなかったけれど{n}しかたがない……。{wait}{clear}おとなしく帰ってはくれないのだろう？{n}ならば、倒すだけだ。		
+BTL_EVT3.250FS	ロクス		speaker
+BTL_EVT3.2516	ふぅ……これで大丈夫だろう……。		
+BTL_EVT3.253AS	海竜		speaker
+BTL_EVT3.253F	グギギャア～！		
+BTL_EVT3.2551S	海竜		speaker
+BTL_EVT3.2556	グギギャア～！		
+BTL_EVT3.258CS	ロクス		speaker
+BTL_EVT3.2593	街道で暴れられちゃ、迷惑だ。{n}僕がとっとと退治してやろう。		
+BTL_EVT3.25D1S	ロクス		speaker
+BTL_EVT3.25D8	終わった……これで街道も使えるようになるな。		
+BTL_EVT3.2608S	ヴェノム		speaker
+BTL_EVT3.2611	シューシューシュー……		
+BTL_EVT3.262BS	ヴェノム		speaker
+BTL_EVT3.2634	シューシューシュー……		
+BTL_EVT3.2672S	ロクス		speaker
+BTL_EVT3.2679	おとなしく帰ってはくれないのだろう？{n}ならば、倒すだけだ。		
+BTL_EVT3.26B7S	ロクス		speaker
+BTL_EVT3.26BE	ふぅ……終わったか……。		
+BTL_EVT3.26DAS	ロック		speaker
+BTL_EVT3.26E1	クワァアアー！		
+BTL_EVT3.26F3S	ロック		speaker
+BTL_EVT3.26FA	クワァアアー！		
+BTL_EVT3.2730S	ロクス		speaker
+BTL_EVT3.2737	街道で暴れられちゃ、迷惑だ。{n}僕がとっとと退治してやろう。		
+BTL_EVT3.2775S	ロクス		speaker
+BTL_EVT3.277C	終わったな……これで大丈夫だろう。		
+BTL_EVT3.27A2S	ミリピード		speaker
+BTL_EVT3.27AD	ギシギシギシギシギシギシ……		
+BTL_EVT3.27CDS	ミリピード		speaker
+BTL_EVT3.27D8	ギシギシギシギシギシギシ……		
+BTL_EVT3.281CS	ロクス		speaker
+BTL_EVT3.2823	やっぱり、アンデッドか……{n}ああ……こんな連中を相手にするとは……。{n}まあ、いい、とっとと片づけさせてもらう！		
+BTL_EVT3.2895S	ロクス		speaker
+BTL_EVT3.289C	お前らは、土の中でおとなしくしていろ。		
+BTL_EVT3.28C6S	スカルナイト		speaker
+BTL_EVT3.28D3	ニンゲン……イラナイ……{n}クカカカカカカ……！		
+BTL_EVT3.2905S	スカルナイト		speaker
+BTL_EVT3.2912	ニンゲン……イラナイ……{n}クカカカカカカ……！		
+BTL_EVT3.2968S	ロクス		speaker
+BTL_EVT3.296F	やはり、バンシーだった……。{n}まあ、正体がわかったところで、{n}気味が悪いのは変わらないな……。		
+BTL_EVT3.29D1S	ロクス		speaker
+BTL_EVT3.29D8	ふう……終わった……。{n}でも、苦手だな、こういうのは。		
+BTL_EVT3.2A12S	バンシー		speaker
+BTL_EVT3.2A1B	ひひひひひ……		
+BTL_EVT3.2A2DS	バンシー		speaker
+BTL_EVT3.2A36	ひひひひひ……		
+BTL_EVT3.2A6CS	ロクス		speaker
+BTL_EVT3.2A73	エクレシアの村を襲ってるのは、お前たちか？		
+BTL_EVT3.2AA1S	バーグラー		speaker
+BTL_EVT3.2AAC	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
+BTL_EVT3.2B20S	ロクス		speaker
+BTL_EVT3.2B27	くだらない連中だ……ったく……。		
+BTL_EVT3.2B4BS	バーグラー		speaker
+BTL_EVT3.2B56	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT3.2B8ES	バーグラー		speaker
+BTL_EVT3.2B99	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT3.2BF5S	ロクス		speaker
+BTL_EVT3.2BFC	エクレシアの村を襲ってるのは、お前たちか？		
+BTL_EVT3.2C2AS	バーグラー		speaker
+BTL_EVT3.2C35	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！		
+BTL_EVT3.2CA9S	ロクス		speaker
+BTL_EVT3.2CB0	くだらない連中だ……ったく……。		
+BTL_EVT3.2CD4S	バーグラー		speaker
+BTL_EVT3.2CDF	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT3.2D17S	バーグラー		speaker
+BTL_EVT3.2D22	はははっ！{n}てめえひとりで、なにができるってんだよ！		
+BTL_EVT3.2D7ES	ロクス		speaker
+BTL_EVT3.2D85	貴様……魔族……。		
+BTL_EVT3.2D9BS	リベザル		speaker
+BTL_EVT3.2DA4	ふははは……{n}やっと、我らの世界ができそうだからなぁ。{wait}{clear}邪魔なお前たちには消えてもらおう！		
+BTL_EVT3.2E04S	ロクス		speaker
+BTL_EVT3.2E0B	くっ……。		
+BTL_EVT3.2E19S	リベザル		speaker
+BTL_EVT3.2E22	人間など我らの敵ではない！{n}ふははははは……っ！		
+BTL_EVT3.2E56S	リベザル		speaker
+BTL_EVT3.2E5F	人間など我らの敵ではない！{n}ふははははは……っ！		
+BTL_EVT3.2EB7S	ロクス		speaker
+BTL_EVT3.2EBE	お前たち、なにをする気だ？		
+BTL_EVT3.2EDCS	反乱兵		speaker
+BTL_EVT3.2EE3	ふん！　お前には関係ないことだ。{wait}{clear}だが、我々がここにいるのが知られるとまずい。{n}死ね！		
+BTL_EVT3.2F3FS	ロクス		speaker
+BTL_EVT3.2F46	レグランスも大変そうだ……。{n}まあ、僕には関係ないけど……。		
+BTL_EVT3.2F86S	反乱兵		speaker
+BTL_EVT3.2F8D	我々の邪魔などさせん！		
+BTL_EVT3.2FA7S	反乱兵		speaker
+BTL_EVT3.2FAE	我々の邪魔などさせん！		
+BTL_EVT3.2FECS	ロクス		speaker
+BTL_EVT3.2FF3	街道で暴れられては、迷惑だ。{n}とっとと退治してやろう……。		
+BTL_EVT3.3031S	ジャイアント		speaker
+BTL_EVT3.303E	人間ごときがおれに勝てると思うな！		
+BTL_EVT3.3064S	ロクス		speaker
+BTL_EVT3.306B	ふっ……終わった……。		
+BTL_EVT3.3085S	ジャイアント		speaker
+BTL_EVT3.3092	おれが負けるわけなどない！{n}ぐわはははっ！		
+BTL_EVT3.30C0S	ジャイアント		speaker
+BTL_EVT3.30CD	おれが負けるわけなどない！{n}ぐわはははっ！		
+BTL_EVT3.311FS	ロクス		speaker
+BTL_EVT3.3126	村で暴れるのはやめてくれないか？		
+BTL_EVT3.314AS	オーク		speaker
+BTL_EVT3.3151	ウルサイ！{n}ニンゲンダケ　イイオモイ　スルナ！		
+BTL_EVT3.3183S	ロクス		speaker
+BTL_EVT3.318A	村はこれでいいが……{n}あまりいい気持ちはしないな……。		
+BTL_EVT3.31C4S	オーク		speaker
+BTL_EVT3.31CB	ニンゲン　ジャマ……！		
+BTL_EVT3.31E5S	オーク		speaker
+BTL_EVT3.31EC	ニンゲン　ジャマ……！		
+BTL_EVT3.322AS	ロクス		speaker
+BTL_EVT3.3231	うわっ！　嫌な感じだな……これは……。		
+BTL_EVT3.325BS	グレムリン		speaker
+BTL_EVT3.3266	キシシシシシ！		
+BTL_EVT3.3278S	ロクス		speaker
+BTL_EVT3.327F	ふう……終わった……。		
+BTL_EVT3.3299S	グレムリン		speaker
+BTL_EVT3.32A4	キシシシシシ！		
+BTL_EVT3.32B6S	グレムリン		speaker
+BTL_EVT3.32C1	キシシシシシ！		
+BTL_EVT3.32F7S	ロクス		speaker
+BTL_EVT3.32FE	お前ら……		
+BTL_EVT3.330CS	ゴーゴン		speaker
+BTL_EVT3.3315	ふふふ……いい男がきたわね……。{n}石にしてずっとここにおいてあげるわ。		
+BTL_EVT3.335FS	ロクス		speaker
+BTL_EVT3.3366	ふう……終わりだ……。		
+BTL_EVT3.3380S	ゴーゴン		speaker
+BTL_EVT3.3389	ふふふふ……{n}あはははは……！		
+BTL_EVT3.33ABS	ゴーゴン		speaker
+BTL_EVT3.33B4	ふふふふ……{n}あはははは……！		
+BTL_EVT3.33FAS	ロクス		speaker
+BTL_EVT3.3401	村から出ていく気がないなら、退治するしかないな。		
+BTL_EVT3.3435S	ロクス		speaker
+BTL_EVT3.343C	終わったか……。		
+BTL_EVT3.3450S	ヘルハウンド		speaker
+BTL_EVT3.345D	うおおお～んっ！！		
+BTL_EVT3.3473S	ヘルハウンド		speaker
+BTL_EVT3.3480	うおおお～んっ！！		
+BTL_EVT3.34BAS	ロクス		speaker
+BTL_EVT3.34C1	竜巻の原因は、キメラだったのか？		
+BTL_EVT3.34E5S	キメラ		speaker
+BTL_EVT3.34EC	きえ～！　きえ～！		
+BTL_EVT3.3502S	ロクス		speaker
+BTL_EVT3.3509	これでもう大丈夫だな。		
+BTL_EVT3.3523S	キメラ		speaker
+BTL_EVT3.352A	きえ～！　きえ～！		
+BTL_EVT3.3540S	キメラ		speaker
+BTL_EVT3.3547	きえ～！　きえ～！		
+BTL_EVT3.3581S	ロクス		speaker
+BTL_EVT3.3588	僕を襲うっていうなら、しかたない……。		
+BTL_EVT3.35B2S	ロクス		speaker
+BTL_EVT3.35B9	まあ、とりあえず、これで大丈夫だろう。		
+BTL_EVT3.35E3S	グリズリー		speaker
+BTL_EVT3.35EE	ぐがあ～！		
+BTL_EVT3.35FCS	グリズリー		speaker
+BTL_EVT3.3607	ぐがあ～！		
+BTL_EVT3.3639S	ロクス		speaker
+BTL_EVT3.3640	ふう……{n}この場所には戦うためになど来たくなかったな……。{wait}{clear}おとなしく帰ってはくれないのだろう？{n}ならば、倒すだけだ。		
+BTL_EVT3.36BCS	ロクス		speaker
+BTL_EVT3.36C3	ふぅ……これで大丈夫だろう……。		
+BTL_EVT3.36E7S	海竜		speaker
+BTL_EVT3.36EC	グギギャア～！		
+BTL_EVT3.36FES	海竜		speaker
+BTL_EVT3.3703	グギギャア～！		
+BTL_EVT3.3739S	ロクス		speaker
+BTL_EVT3.3740	このへんで暴れてる盗賊って、{n}あんたたちのことか？		
+BTL_EVT3.3776S	ミリシア		speaker
+BTL_EVT3.377F	フン！　だったら、どうしようってんだ？{n}てめえも、ここに持ち物置いていきな！		
+BTL_EVT3.37CFS	ロクス		speaker
+BTL_EVT3.37D6	くだらん連中だ……。		
+BTL_EVT3.37EES	ミリシア		speaker
+BTL_EVT3.37F7	はははっ！　まだまだ暴れるぜ！		
+BTL_EVT3.3819S	ミリシア		speaker
+BTL_EVT3.3822	はははっ！　まだまだ暴れるぜ！		
+BTL_EVT3.3868S	ロクス		speaker
+BTL_EVT3.386F	やはり貴様らアンデッドの仕業だったんだな。		
+BTL_EVT3.389DS	ノスフェラトゥ		speaker
+BTL_EVT3.38AC	ああ、この村の者はすべて我が僕となった。{n}だが、貴様のその顔では僕にはなりそうもないな。{n}では、殺してやろう。		
+BTL_EVT3.391ES	ロクス		speaker
+BTL_EVT3.3925	地獄へ帰れ……。		
+BTL_EVT3.3939S	ノスフェラトゥ		speaker
+BTL_EVT3.3948	人間はすべて我らにひざまずくがいい！		
+BTL_EVT3.3970S	ノスフェラトゥ		speaker
+BTL_EVT3.397F	人間はすべて我らにひざまずくがいい！		
+BTL_EVT3.39CBS	ヘルハウンド		speaker
+BTL_EVT3.39D8	グルル……！		
+BTL_EVT3.39E8S	ロクス		speaker
+BTL_EVT3.39EF	お前たちが、村人を襲っていたんだな？		
+BTL_EVT3.3A17S	ロクス		speaker
+BTL_EVT3.3A1E	ふう……これで大丈夫だろう。		
+BTL_EVT3.3A3ES	ヘルハウンド		speaker
+BTL_EVT3.3A4B	ウワオオ～ン！		
+BTL_EVT3.3A5DS	ヘルハウンド		speaker
+BTL_EVT3.3A6A	ウワオオ～ン！		
+BTL_EVT3.3AA0S	グレムリン		speaker
+BTL_EVT3.3AAB	キシー！　キシシシー！		
+BTL_EVT3.3AC5S	ロクス		speaker
+BTL_EVT3.3ACC	こいつらが子供たちを……？		
+BTL_EVT3.3AEAS	ロクス		speaker
+BTL_EVT3.3AF1	嫌なやつらだったな……。		
+BTL_EVT3.3B0DS	グレムリン		speaker
+BTL_EVT3.3B18	キシー！　キシシシー！		
+BTL_EVT3.3B32S	グレムリン		speaker
+BTL_EVT3.3B3D	キシー！　キシシシー！		
+BTL_EVT3.3B7BS	ロクス		speaker
+BTL_EVT3.3B82	被害が出る前に、片づけさせてもらおう。		
+BTL_EVT3.3BACS	ロクス		speaker
+BTL_EVT3.3BB3	終わったな……。		
+BTL_EVT3.3BC7S	デスウィドウ		speaker
+BTL_EVT3.3BD4	ギーギーギー		
+BTL_EVT3.3BE4S	デスウィドウ		speaker
+BTL_EVT3.3BF1	ギーギーギー		
+BTL_EVT3.3C25S	ロクス		speaker
+BTL_EVT3.3C2C	おとなしく帰ってはくれないのだろう？{n}ならば、倒すだけだ。		
+BTL_EVT3.3C6AS	ロクス		speaker
+BTL_EVT3.3C71	ふぅ……終わったか……。		
+BTL_EVT3.3C8DS	ベルクート		speaker
+BTL_EVT3.3C98	クワァアアー！		
+BTL_EVT3.3CAAS	ベルクート		speaker
+BTL_EVT3.3CB5	クワァアアー！		
+BTL_EVT3.3CEBS	ロクス		speaker
+BTL_EVT3.3CF2	どうして村を襲ったんだ？		
+BTL_EVT3.3D0ES	ホブゴブリン		speaker
+BTL_EVT3.3D1B	コノむら、モラッタ。{n}オレタチノむらニスル！		
+BTL_EVT3.3D4BS	ロクス		speaker
+BTL_EVT3.3D52	これで、もう大丈夫だろう……。		
+BTL_EVT3.3D74S	ホブゴブリン		speaker
+BTL_EVT3.3D81	オレタチノむら、マモッタ！		
+BTL_EVT3.3D9FS	ホブゴブリン		speaker
+BTL_EVT3.3DAC	オレタチノむら、マモッタ！		
+BTL_EVT3.3DEES	海竜		speaker
+BTL_EVT3.3DF3	グギギャギャ～！		
+BTL_EVT3.3E07S	ロクス		speaker
+BTL_EVT3.3E0E	ふう……{n}戦うために海岸になど来たくなかったけれど{n}しかたがない……。{wait}{clear}おとなしく帰ってはくれないのだろう？{n}ならば、倒すだけだ。		
+BTL_EVT3.3E96S	ロクス		speaker
+BTL_EVT3.3E9D	ふぅ……これで大丈夫だろう……。		
+BTL_EVT3.3EC1S	海竜		speaker
+BTL_EVT3.3EC6	グギャア～！　グギャア～！		
+BTL_EVT3.3EE4S	海竜		speaker
+BTL_EVT3.3EE9	グギャア～！　グギャア～！		
+BTL_EVT3.3F2BS	ロクス		speaker
+BTL_EVT3.3F32	声の正体は海竜だったんだな……。{wait}{clear}さて、ここは僕の好きな場所でもある。{n}雰囲気ぶちこわしなお前には去ってもらおうか。		
+BTL_EVT3.3FACS	ロクス		speaker
+BTL_EVT3.3FB3	ふう……これでいつものリパに戻ったわけだ。		
+BTL_EVT3.3FE1S	海竜		speaker
+BTL_EVT3.3FE6	ギャアアア～ギャアアア～		
+BTL_EVT3.4002S	海竜		speaker
+BTL_EVT3.4007	ギャアアア～ギャアアア～		
+BTL_EVT3.4047S	ノスフェラトゥ		speaker
+BTL_EVT3.4056	これはこれは、天使の勇者。{n}我々の誘いに応じてくださるとは、光栄ですな。		
+BTL_EVT3.40A2S	ロクス		speaker
+BTL_EVT3.40A9	お前らのくだらん誘いにのった覚えはない。{n}行くぞ！		
+BTL_EVT3.40DFS	ロクス		speaker
+BTL_EVT3.40E6	嫌な連中だ……。		
+BTL_EVT3.40FAS	ノスフェラトゥ		speaker
+BTL_EVT3.4109	はははは……！{n}天使の勇者など、他愛もないものだな。		
+BTL_EVT3.4141S	ノスフェラトゥ		speaker
+BTL_EVT3.4150	はははは……！{n}天使の勇者など、他愛もないものだな。		
+BTL_EVT3.41ACS	ロクス		speaker
+BTL_EVT3.41B3	お前は何者だ？		
+BTL_EVT3.41C5S	アロケン		speaker
+BTL_EVT3.41CE	愚かな人間に名乗る名などない。行くぞ！		
+BTL_EVT3.41F8S	アロケン		speaker
+BTL_EVT3.4201	安心するなよ……これからがすべての始まりだ……！		
+BTL_EVT3.4235S	アロケン		speaker
+BTL_EVT3.423E	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
+BTL_EVT3.4278S	アロケン		speaker
+BTL_EVT3.4281	人間の分際で、俺に勝てるはずなかろう。{n}うわはははっ！		
+BTL_EVT3.42DFS	ロクス		speaker
+BTL_EVT3.42E6	お前は何者だ？		
+BTL_EVT3.42F8S	ウジャト		speaker
+BTL_EVT3.4301	愚かな人間に名乗る名などない。{n}行くわよ！		
+BTL_EVT3.432FS	ウジャト		speaker
+BTL_EVT3.4338	安心しないことよ……{n}これからがすべての始まり……！		
+BTL_EVT3.4370S	ウジャト		speaker
+BTL_EVT3.4379	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
+BTL_EVT3.43B3S	ウジャト		speaker
+BTL_EVT3.43BC	人間の分際で、私に勝てるはずないわよ。{n}あははははっ！		
+BTL_EVT3.441AS	ロクス		speaker
+BTL_EVT3.4421	お前は何者だ？		
+BTL_EVT3.4433S	リベザル		speaker
+BTL_EVT3.443C	愚かな人間に名乗る名はない。行くぜ！		
+BTL_EVT3.4464S	リベザル		speaker
+BTL_EVT3.446D	安心するな……これからがすべての始まりだ……！		
+BTL_EVT3.449FS	リベザル		speaker
+BTL_EVT3.44A8	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
+BTL_EVT3.44E6S	リベザル		speaker
+BTL_EVT3.44EF	人間の分際で、おれに勝てるはずなかろう。{n}うへへへへへっ！		
+BTL_EVT3.4551S	ゴーゴン		speaker
+BTL_EVT3.455A	待っていたわ……ロクス……。{n}私はあなたに会うためにここにいたの。{wait}{clear}お金に負けたあなたですものね。{n}私の僕になるのにふさわしい！		
+BTL_EVT3.45E0S	ロクス		speaker
+BTL_EVT3.45E7	なに、わけのわからないことを言ってるんだ？{wait}{clear}モンスターの高利貸しなんて悪趣味もいいところだ。{n}そんな連中は僕が退治してやる！		
+BTL_EVT3.4669S	ゴーゴン		speaker
+BTL_EVT3.4672	ああ……せっかく会えたのに……ロクス……。		
+BTL_EVT3.46A0S	ロクス		speaker
+BTL_EVT3.46A7	モンスターに好かれるなんて、最悪な気分だ……。		
+BTL_EVT3.46D9S	ゴーゴン		speaker
+BTL_EVT3.46E2	意外と弱いのね……彼ったら……。		
+BTL_EVT3.4706S	ゴーゴン		speaker
+BTL_EVT3.470F	意外と弱いのね……彼ったら……。		
+BTL_EVT3.4757S	ロクス		speaker
+BTL_EVT3.475E	街道に巣くうなんて、迷惑だ。{n}僕がとっとと退治してやろう。		
+BTL_EVT3.479CS	ロクス		speaker
+BTL_EVT3.47A3	終わった……これで街道も使えるようになるな。		
+BTL_EVT3.47D3S	スキュラ		speaker
+BTL_EVT3.47DC	きえ～！　きえ～！		
+BTL_EVT3.47F2S	スキュラ		speaker
+BTL_EVT3.47FB	きえ～！　きえ～！		
+BTL_EVT3.4835S	ロクス		speaker
+BTL_EVT3.483C	お前たち、なにをする気だ？		
+BTL_EVT3.485AS	バラム		speaker
+BTL_EVT3.4861	決まってるだろう？{n}俺たちに逆らう人間を根絶やしにするのさ！		
+BTL_EVT3.48A1S	ロクス		speaker
+BTL_EVT3.48A8	魔族と手を結ぶ人間……最悪だ……。		
+BTL_EVT3.48CES	バラム		speaker
+BTL_EVT3.48D5	誰も俺を止めることなどできん！		
+BTL_EVT3.48F7S	バラム		speaker
+BTL_EVT3.48FE	誰も俺を止めることなどできん！		
+BTL_EVT3.4944S	融合兵		speaker
+BTL_EVT3.494B	ワレワレノ　ジャマヲ　スルナ！		
+BTL_EVT3.496DS	融合兵		speaker
+BTL_EVT3.4974	イマイマシイ　ニンゲン　ドモ……！		
+BTL_EVT3.499AS	融合兵		speaker
+BTL_EVT3.49A1	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
+BTL_EVT3.49D3S	融合兵		speaker
+BTL_EVT3.49DA	テンシノ　ユウシャナド{n}タイシタコト　ナイ！　		
+BTL_EVT3.4A30S	ロクス		speaker
+BTL_EVT3.4A37	村人の命を狙うというのなら、僕が倒す！		
+BTL_EVT3.4A61S	ノスフェラトゥ		speaker
+BTL_EVT3.4A70	ふふふ……この村の者のほとんどは、{n}すでに、私の僕。{n}あなたもくわえてあげましょう！		
+BTL_EVT3.4AC8S	ロクス		speaker
+BTL_EVT3.4ACF	……いいかげんにしろ……！		
+BTL_EVT3.4AEDS	ノスフェラトゥ		speaker
+BTL_EVT3.4AFC	人間はすべて我らにひざまずくがいい！		
+BTL_EVT3.4B24S	ノスフェラトゥ		speaker
+BTL_EVT3.4B33	人間はすべて我らにひざまずくがいい！		
+BTL_EVT3.4B7FS	ウィザード		speaker
+BTL_EVT3.4B8A	あの方をよみがえらせるには、{n}まだまだ女が足りん……。		
+BTL_EVT3.4BC4S	ロクス		speaker
+BTL_EVT3.4BCB	女性たちを……{n}お前たちのくだらない儀式の犠牲にしたな！？{n}許さん！		
+BTL_EVT3.4C13S	ロクス		speaker
+BTL_EVT3.4C1A	嫌な事件だ……。		
+BTL_EVT3.4C2ES	ウィザード		speaker
+BTL_EVT3.4C39	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
+BTL_EVT3.4C77S	ウィザード		speaker
+BTL_EVT3.4C82	あの方をよみがえらせるのだ！{n}何人たりとも、邪魔はさせん！		
+BTL_EVT3.4CE4S	ロクス		speaker
+BTL_EVT3.4CEB	うわっ！　嫌な感じだな……これは……。		
+BTL_EVT3.4D15S	グレムリン		speaker
+BTL_EVT3.4D20	キシシシシシ！		
+BTL_EVT3.4D32S	ロクス		speaker
+BTL_EVT3.4D39	ふう……終わった……。		
+BTL_EVT3.4D53S	グレムリン		speaker
+BTL_EVT3.4D5E	キシシシシシ！		
+BTL_EVT3.4D70S	グレムリン		speaker
+BTL_EVT3.4D7B	キシシシシシ！		
+BTL_EVT3.4DB1S	リベザル		speaker
+BTL_EVT3.4DBA	ここのどこが聖なる森だと言うんだ？{n}すべておれ様のものにしてやる！		
+BTL_EVT3.4E00S	ロクス		speaker
+BTL_EVT3.4E07	そんなこと、させるものか！		
+BTL_EVT3.4E25S	ロクス		speaker
+BTL_EVT3.4E2C	ここに魔族が現れるなんて……。		
+BTL_EVT3.4E4ES	リベザル		speaker
+BTL_EVT3.4E57	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
+BTL_EVT3.4E95S	リベザル		speaker
+BTL_EVT3.4E9E	森はすべておれ様のものだ！{n}ふははは……ふははははは……！		
+BTL_EVT3.4F00S	ロクス		speaker
+BTL_EVT3.4F07	正体は、シャドウか！？		
+BTL_EVT3.4F21S	ロクス		speaker
+BTL_EVT3.4F28	終わった……{n}これで安心して街道が使えるようになるな。		
+BTL_EVT3.4F62S	ファントム		speaker
+BTL_EVT3.4F6D	ひゅうひゅう……		
+BTL_EVT3.4F81S	ファントム		speaker
+BTL_EVT3.4F8C	ひゅうひゅう……		
+BTL_EVT3.4FE8S	私兵		speaker
+BTL_EVT3.4FED	痛い目にあいてえのか！		
+BTL_EVT3.5007S	ロクス		speaker
+BTL_EVT3.500E	やれやれ、終わったか。		
+BTL_EVT3.5028S	私兵		speaker
+BTL_EVT3.502D	ざまみろ！　		
+BTL_EVT3.503DS	私兵		speaker
+BTL_EVT3.5042	ざまみろ！　		
+BTL_EVT3.5076S	帝国騎士		speaker
+BTL_EVT3.507F	帝国バンザイ！！		
+BTL_EVT3.5093S	帝国騎士		speaker
+BTL_EVT3.509C	帝国バンザイ！！		
+BTL_EVT3.50D4S	帝国兵		speaker
+BTL_EVT3.50DB	帝国バンザイ！！		
+BTL_EVT3.50EFS	帝国兵		speaker
+BTL_EVT3.50F6	帝国バンザイ！！		
+BTL_EVT3.5176S	ならず者		speaker
+BTL_EVT3.517F	ざまぁ、みやがれ！{n}おれたちの邪魔をした礼をたっぷり返したぜ！！{wait}{clear}二度と邪魔するんじゃねえ！		
+BTL_EVT3.51E1S	ならず者		speaker
+BTL_EVT3.51EA	ざまぁ、みやがれ！{n}おれたちの邪魔をした礼をたっぷり返したぜ！！{wait}{clear}二度と邪魔するんじゃねえ！		
+BTL_EVT3.5270S	レイブンルフト		speaker
+BTL_EVT3.527F	ようこそ、我が城へ。{n}天使の勇者。		
+BTL_EVT3.52A5S	ロクス		speaker
+BTL_EVT3.52AC	アンデッドの王、レイブンルフト。{n}僕がお前に引導を渡そう。		
+BTL_EVT3.52EAS	レイブンルフト		speaker
+BTL_EVT3.52F9	勇ましいな……{wait}{clear}ん？　お前は教会の……{n}……そうかこれがめぐり合わせということか。		
+BTL_EVT3.5351S	ロクス		speaker
+BTL_EVT3.5358	なにを言っている？		
+BTL_EVT3.536ES	レイブンルフト		speaker
+BTL_EVT3.537D	死に行くお前には関係ない。{n}昔のことを思い出しただけだ。{wait}{clear}さあ、行くぞ。		
+BTL_EVT3.53CBS	レイブンルフト		speaker
+BTL_EVT3.53DA	なかなかの力だ……。		
+BTL_EVT3.53F2S	レイブンルフト		speaker
+BTL_EVT3.5401	だが、私の力はこんなものではないぞ……		
+BTL_EVT3.542BS	レイブンルフト		speaker
+BTL_EVT3.543A	ウォオオオオオオ！！！		
+BTL_EVT3.5454S	レイブンルフト		speaker
+BTL_EVT3.5463	……なにが天使の勇者だ。		
+BTL_EVT3.547FS	レイブンルフト		speaker
+BTL_EVT3.548E	無様な敗北者が……。		
+BTL_EVT3.54A6S	レイブンルフト		speaker
+BTL_EVT3.54B5	……なにが天使の勇者だ。		
+BTL_EVT3.54D1S	レイブンルフト		speaker
+BTL_EVT3.54E0	無様な敗北者が……。		
+BTL_EVT3.551CS	レイブンルフト		speaker
+BTL_EVT3.552B	……なにが天使の勇者だ。		
+BTL_EVT3.5547S	レイブンルフト		speaker
+BTL_EVT3.5556	無様な敗北者が……。		
+BTL_EVT3.556ES	レイブンルフト		speaker
+BTL_EVT3.557D	……なにが天使の勇者だ。		
+BTL_EVT3.5599S	レイブンルフト		speaker
+BTL_EVT3.55A8	無様な敗北者が……。		
+BTL_EVT3.562CS	ロクス		speaker
+BTL_EVT3.5633	鎧にとりつかれていたのか……。{wait}{clear}哀れなやつだ。		
+BTL_EVT3.5667S	サヴィオ		speaker
+BTL_EVT3.5670	グハハハハハ。		
+BTL_EVT3.5682S	サヴィオ		speaker
+BTL_EVT3.568B	グハハハハハ。		
+BTL_EVT3.56C1S	ロクス		speaker
+BTL_EVT3.56C8	あいつの話は本当だったのか？{n}でも、どうして帝国軍に魔族が……？		
+BTL_EVT3.570CS	モラクス		speaker
+BTL_EVT3.5715	貴様、天使の勇者だな？{n}我らが招かれた以上、貴様に勝利などない。{n}行くぞ！		
+BTL_EVT3.5763S	モラクス		speaker
+BTL_EVT3.576C	おれひとりを倒したくらいでいい気になるなよ。{n}貴様を地獄で待っているさ……。		
+BTL_EVT3.57BCS	ロクス		speaker
+BTL_EVT3.57C3	帝国軍に魔族なんて……{n}まさか……伝説が？		
+BTL_EVT3.57F1S	モラクス		speaker
+BTL_EVT3.57FA	首を洗って出直して来い！{n}ワハハハっ！		
+BTL_EVT3.5824S	モラクス		speaker
+BTL_EVT3.582D	ワハハハ！　天使の勇者など、赤子のようだ！		
+BTL_EVT3.587FS	ラルヴァ		speaker
+BTL_EVT3.5888	よく来たわね、天使の勇者。{n}こんな野営地、あたしには必要ないのにねえ。{wait}{clear}本当に面倒くさい……だから、人間なんて{n}とっとと私が殺してあげるわ！		
+BTL_EVT3.591AS	ロクス		speaker
+BTL_EVT3.5921	なんだって……。{n}その言葉、後悔するなよ。		
+BTL_EVT3.594FS	ラルヴァ		speaker
+BTL_EVT3.5958	あははは！　面白いことを言う！{n}じゃあ、その腕、見せてもらいましょうかっ！！		
+BTL_EVT3.59A8S	ラルヴァ		speaker
+BTL_EVT3.59B1	な、なんで……あたしが……。		
+BTL_EVT3.59D1S	ロクス		speaker
+BTL_EVT3.59D8	貴様など……相手にもならない……。{n}		
+BTL_EVT3.5A00S	ラルヴァ		speaker
+BTL_EVT3.5A09	ふん、よく言う……。{n}あんたたちが本当に苦しむのは、これからさ。{n}あはははっ！		
+BTL_EVT3.5A5BS	ラルヴァ		speaker
+BTL_EVT3.5A64	あたしに勝とうなんて、人間には無理なのさ。{n}たとえ天使の勇者であってもね。{n}あはははっ！		
+BTL_EVT3.5AC0S	ラルヴァ		speaker
+BTL_EVT3.5AC9	なんだい、逃げるんだ？{n}やっぱりつまらないねえ、人間ってさ。		
+BTL_EVT3.5B51S	セレニス		speaker
+BTL_EVT3.5B5A	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
+BTL_EVT3.5B90S	セレニス		speaker
+BTL_EVT3.5B99	ふふふ……。{n}天使の勇者も所詮この程度なのね……。		
+BTL_EVT3.5C83S	王の女		speaker
+BTL_EVT3.5C8A	お前は、どこへ行こうとしているの？{wait}{clear}返答しだいでは、旅はここでおしまいよ。		
+BTL_EVT3.5CDAS	ロクス		speaker
+BTL_EVT3.5CE1	化け物に答える必要はない。		
+BTL_EVT3.5CFFS	王の女		speaker
+BTL_EVT3.5D06	化け物！？　なんて失敬な！{wait}{clear}ここでもずくと消えなさい！！		
+BTL_EVT3.5D44S	ロクス		speaker
+BTL_EVT3.5D4B	あの手の化け物は一番始末が悪い……。{wait}{clear}おや！？　城が見えなくなった……。{n}ここから先へは進めないということか？		
+BTL_EVT3.5DBFS	王の女		speaker
+BTL_EVT3.5DC6	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
+BTL_EVT3.5E08S	王の女		speaker
+BTL_EVT3.5E0F	逃げましたわよ……。{n}ホホホホ……		
+BTL_EVT3.5EA1S	ノスフェラトゥ		speaker
+BTL_EVT3.5EB0	人間ごときに、我らの邪魔などさせるものか！		
+BTL_EVT3.5EDES	ロクス		speaker
+BTL_EVT3.5EE5	貴様らに救いはない……。		
+BTL_EVT3.5F01S	ノスフェラトゥ		speaker
+BTL_EVT3.5F10	人間など、我らの敵ではない！		
+BTL_EVT3.5F30S	ノスフェラトゥ		speaker
+BTL_EVT3.5F3F	逃げていきおったわ！		
+BTL_EVT3.5FC3S	ロクス		speaker
+BTL_EVT3.5FCA	お前が元勇者だったとしても、{n}僕は容赦しないぞ。		
+BTL_EVT3.5FFES	クライヴ		speaker
+BTL_EVT3.6007	…………。		
+BTL_EVT3.6015S	ロクス		speaker
+BTL_EVT3.601C	もう、何を話しても無駄のようだな。		
+BTL_EVT3.6042S	ロクス		speaker
+BTL_EVT3.6049	…………。{wait}{clear}くそ……。{n}むなしいだけだ……こんな戦い……。		
+BTL_EVT3.6089S	クライヴ		speaker
+BTL_EVT3.6092	…………。		
+BTL_EVT3.60A0S	クライヴ		speaker
+BTL_EVT3.60A9	…………。		
+BTL_EVT3.6123S	ロクス		speaker
+BTL_EVT3.612A	村から出ていく気がないなら、退治するしかないな。		
+BTL_EVT3.615ES	ロクス		speaker
+BTL_EVT3.6165	終わったか……。		
+BTL_EVT3.6179S	ティンダロス		speaker
+BTL_EVT3.6186	うおおお～んっ！！		
+BTL_EVT3.619CS	ティンダロス		speaker
+BTL_EVT3.61A9	うおおお～んっ！！		
+BTL_EVT3.61E3S	ロクス		speaker
+BTL_EVT3.61EA	くだらん儀式など、やめろ！		
+BTL_EVT3.6208S	ロクス		speaker
+BTL_EVT3.620F	最悪だ……。		
+BTL_EVT3.621FS	ウォーロック		speaker
+BTL_EVT3.622C	我らの儀式の意味……わかるはずはない……。		
+BTL_EVT3.625AS	ウォーロック		speaker
+BTL_EVT3.6267	我らの儀式の意味……わかるはずはない……。		
+BTL_EVT3.62B9S	ウジャト		speaker
+BTL_EVT3.62C2	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		
+BTL_EVT3.630AS	ロクス		speaker
+BTL_EVT3.6311	なんて連中だ……っ！		
+BTL_EVT3.6329S	ウジャト		speaker
+BTL_EVT3.6332	あははは！{n}情けない勇者だこと！		
+BTL_EVT3.6356S	ウジャト		speaker
+BTL_EVT3.635F	あははは！{n}情けない勇者だこと！		
+BTL_EVT3.63A7S	ロクス		speaker
+BTL_EVT3.63AE	お前ら……っ！		
+BTL_EVT3.63C0S	ロクス		speaker
+BTL_EVT3.63C7	終わった……。		
+BTL_EVT3.63D9S	ティンダロス		speaker
+BTL_EVT3.63E6	ウオォ～ン！！		
+BTL_EVT3.63F8S	ティンダロス		speaker
+BTL_EVT3.6405	ウオォ～ン！！		
+BTL_EVT3.643BS	モラクス		speaker
+BTL_EVT3.6444	ふふん、天使の勇者といえど、たかが人間。{n}俺様にかなうわけなかろう！{wait}{clear}行くぞ！		
+BTL_EVT3.6498S	ロクス		speaker
+BTL_EVT3.649F	いやらしいやつらだ……！		
+BTL_EVT3.64BBS	モラクス		speaker
+BTL_EVT3.64C4	ふははは！　出直してこい！		
+BTL_EVT3.64E2S	モラクス		speaker
+BTL_EVT3.64EB	勇者とは、あんなものか！{n}ふははははは……！		

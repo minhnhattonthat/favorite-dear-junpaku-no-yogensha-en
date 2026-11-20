@@ -1,0 +1,20 @@
+id	jp	en	notes
+clev19.0002	天使の大けが		dev label (guess: not shown)
+clev19.00A2	クライヴ		unit name (32-byte field)
+clev19.00DE	クラレンス		unit name (32-byte field)
+clev19.04EC	クラレンス		speaker
+clev19.0505	なんだお前は？		text
+clev19.0522	クライヴ		speaker
+clev19.0539	魔石とやらを返してもらう。		text
+clev19.0562	クラレンス		speaker
+clev19.057B	ああ？{n}突然現れてずいぶんな物言いだな。		text
+clev19.05B2	ひとに物を頼むときは{n}言い方ってもんがあるだろ？		text
+clev19.0641	クライヴ		speaker
+clev19.0658	……死にたいのなら、そのままでいろ。		text
+clev19.06EF	クラレンス		speaker
+clev19.0708	おおっと、コワイね。{n}すげえ迫力だぜ、兄ちゃん。{n}そんな長物振り回されちゃかなわねえ。		text
+clev19.076D	わかったよ、どうせ頼まれごとなんだ……{n}素直に返すぜ。		text
+clev19.0816	クラレンス		speaker
+clev19.082F	天使様によ。		text
+clev19.089A	クラレンス		speaker
+clev19.08B3	お前がほしがってんだろ。ほんとは。		text

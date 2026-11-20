@@ -1,0 +1,77 @@
+id	jp	en	notes
+pro.8009B4E0	名前を決定します。		luix1
+pro.8009B4F4	性別を決定します。		luix1
+pro.8009B508	誕生日を決定します。		luix1
+pro.8009B520	これでいいですか？		luix1
+pro.8009B534	はい		luix2
+pro.8009B53C	いいえ		luix2
+pro.8009B544	前作「フェイバリットディア」のデータを		luix1
+pro.8009B56C	読み込むことができます。		luix1
+pro.8009B588	フェイバリットディアのデータを読み込みますか？		luix1
+pro.8009B684	　		luix1
+pro.8009B6A8	￥		luix1
+pro.8009B6AC	これから、		luix1
+pro.8009B6B8	あなたのパートナーを選ぶため、		luix1
+pro.8009B6D8	４つの質問をします。		luix1
+pro.8009B6F0	これで、質問は終了です。		luix1
+pro.800A03C4	あなたは広くて明るい部屋に￥置物を飾ろうと思っています。￥どちらの大理石の置物を選びますか？￥		luix1 tabx1
+pro.800A0450	あなたは誰かと一緒に月を見ています。￥相手は同性でも異性でもかまいません。￥そのとき見ていた月の形は？￥		table 800A03C4 stride 0x8c
+pro.800A04DC	あなたは熱があって起き上がれません。￥でも、今日はたいせつな用事があるのです。￥それはどんな用ですか？￥		table 800A03C4 stride 0x8c
+pro.800A0568	あなたは１人で海辺の町を訪れました。￥いま、あなたは海の方を見ていると、￥ある景色が見えます。それはなんですか？￥		table 800A03C4 stride 0x8c
+pro.800A05F4	やろうと思っていることは、￥計画を立てて、きちんと行動したい。￥		table 800A03C4 stride 0x8c
+pro.800A0680	海の彼方に太陽が見えます。￥その太陽を見ながらふたりで話しています。￥なにを話していると思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A070C	あなたが旅で行きたいところは？　と聞かれて￥どこが最初に浮かびましたか？￥		table 800A03C4 stride 0x8c
+pro.800A0798	あなたと仲のいい友達の元気がないようです。￥いつもはよくしゃべる明るい人なのに……￥さて、あなたはどうしようと思いましたか？￥		table 800A03C4 stride 0x8c
+pro.800A0824	あなたは物語を考えています。￥どんなストーリーにしようと思いましたか？￥		table 800A03C4 stride 0x8c
+pro.800A08B0	目の前の水の入ったグラスがあります。￥のどがかわいているあなたは、￥グラスを手に取りますが、どこを持ちますか？￥		table 800A03C4 stride 0x8c
+pro.800A093C	あなたは急に友達から食事に招待されました。￥しかし、料理には嫌いなものが入っています。￥そのとき、あなたはどうしますか？￥		table 800A03C4 stride 0x8c
+pro.800A09C8	大切な人と大ゲンカしたのですが、￥相手が花束を持ってきたので、許すことに。￥彼（彼女）が持ってきた花は何色ですか？￥		table 800A03C4 stride 0x8c
+pro.800A0A54	家の中にランプがともっています。￥いくつのランプがついていると思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A0AE0	あなたは眠っていて、夢を見ていて、￥寝言も言っているようです。￥どんな夢を見ていると思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A0B6C	とても高い場所に美しい花が咲いています。￥背伸びして手を伸ばすとぎりぎり届きました。￥あなたは何本の花を手にしましたか？￥		table 800A03C4 stride 0x8c
+pro.800A0BF8	あなたは夢の中で海を小船で漂流しています。￥助けられるまで苦しかったことといえば、￥まず何でしょうか？￥		table 800A03C4 stride 0x8c
+pro.800A0C84	あなたの友人どうしが口ゲンカをしています。￥かなりはげしいケンカのようですが、￥そのときのあなたのとる行動は？￥		table 800A03C4 stride 0x8c
+pro.800A0D10	あなたは大好きな人におくりものをしようと￥思っていて、あとは箱につめるだけです。￥中身に対する箱の大きさは？￥		table 800A03C4 stride 0x8c
+pro.800A0D9C	あなたが大切に思っている人がいます。￥その人には自分のことも￥理解していて欲しいと思いますか？￥		table 800A03C4 stride 0x8c
+pro.800A0E28	自分の判断に責任をもって行動できる！？￥		table 800A03C4 stride 0x8c
+pro.800A0EB4	円すい形		luix1 tabx1
+pro.800A0EE4	三日月		table 800A0EB4 stride 0x30
+pro.800A0F14	恋人や友人との遊びの約束		table 800A0EB4 stride 0x30
+pro.800A0F44	漁をするために、船を出そうとしている漁師たち		table 800A0EB4 stride 0x30
+pro.800A0F74	計画立てるの大好き！		table 800A0EB4 stride 0x30
+pro.800A0FA4	日の出って、活力がわきあがる感じがする。		table 800A0EB4 stride 0x30
+pro.800A0FD4	せっかく旅するなら、いろいろ見てみたい！		table 800A0EB4 stride 0x30
+pro.800A1004	真っ先にその友達のところへ行って理由を聞く		table 800A0EB4 stride 0x30
+pro.800A1034	前半は不幸だが、幸せな結末を迎える物語		table 800A0EB4 stride 0x30
+pro.800A1064	グラスの上の方		table 800A0EB4 stride 0x30
+pro.800A1094	嫌いなものは、やっぱり食べられない。		table 800A0EB4 stride 0x30
+pro.800A10C4	黄色の花		table 800A0EB4 stride 0x30
+pro.800A10F4	ひとつ		table 800A0EB4 stride 0x30
+pro.800A1124	いろいろな場所を旅行をしている夢		table 800A0EB4 stride 0x30
+pro.800A1154	１本		table 800A0EB4 stride 0x30
+pro.800A1184	食料と水がない不安		table 800A0EB4 stride 0x30
+pro.800A11B4	ただただケンカの行方を見守る		table 800A0EB4 stride 0x30
+pro.800A11E4	箱が小さすぎる……。		table 800A0EB4 stride 0x30
+pro.800A1214	できたら、そうして欲しい。		table 800A0EB4 stride 0x30
+pro.800A1244	もちろん！		table 800A0EB4 stride 0x30
+pro.800A1274	立方体		luix1 tabx1
+pro.800A12A4	満月		table 800A0EB4 stride 0x30
+pro.800A12D4	たいせつな仕事		table 800A0EB4 stride 0x30
+pro.800A1304	砂浜で犬と転げまわって遊ぶ子供		table 800A0EB4 stride 0x30
+pro.800A1334	行き当たりばったりが楽しい		table 800A0EB4 stride 0x30
+pro.800A1364	夕日は夢があるような気がする……。		table 800A0EB4 stride 0x30
+pro.800A1394	あたたかくてのんびりしたところ。		table 800A0EB4 stride 0x30
+pro.800A13C4	自分に関係した事ではないか？　と考えてみる		table 800A0EB4 stride 0x30
+pro.800A13F4	前半は楽しいが、悲しい結末を迎える物語		table 800A0EB4 stride 0x30
+pro.800A1424	グラスの下の方		table 800A0EB4 stride 0x30
+pro.800A1454	好きなものも嫌いなものも均等に食べる。		table 800A0EB4 stride 0x30
+pro.800A1484	緑の葉っぱ		table 800A0EB4 stride 0x30
+pro.800A14B4	たくさん		table 800A0EB4 stride 0x30
+pro.800A14E4	知らない人に囲まれてちやほやされている夢		table 800A0EB4 stride 0x30
+pro.800A1514	２本以上		table 800A0EB4 stride 0x30
+pro.800A1544	海に囲まれて一人ぼっちの孤独		table 800A0EB4 stride 0x30
+pro.800A1574	なんとかふたりをなだめる。		table 800A0EB4 stride 0x30
+pro.800A15A4	ちょうどいい感じ！		table 800A0EB4 stride 0x30
+pro.800A15D4	自分が信じているだけでいい！		table 800A0EB4 stride 0x30
+pro.800A1604	いや、自信がないときもある。		table 800A0EB4 stride 0x30
+pro.800A1864	ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ　　　　　　ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ？！・　　　あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん　　がぎぐげござじずぜぞだぢづでど　ばびぶべぼぱぴぷぺぽ　０１２３４ぁぃぅぇぉっゃゅょー　５６７８９アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン　　ガギグゲゴザジズゼゾダヂヅデド　バビブベボパピプペポヴ　　　　　ァィゥェォッャュョ　　　　　　　		luix1

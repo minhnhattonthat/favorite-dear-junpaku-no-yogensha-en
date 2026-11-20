@@ -1,0 +1,41 @@
+id	jp	en	notes
+eiev05f.0002	1		dev label (guess: not shown)
+eiev05f.00A2	アイリーン		unit name (32-byte field)
+eiev05f.00DE	盲目の魔道士		unit name (32-byte field)
+eiev05f.04A4	アイリーン		speaker
+eiev05f.04BD	グランドマスター、{n}帝国はいったいなんのためにこんなことを……？		text
+eiev05f.050C	マスター		speaker
+eiev05f.0523	千年前の伝説だ……{n}紅月王の復活をもくろんでいるのだ。		text
+eiev05f.0568	アイリーン		speaker
+eiev05f.0581	まさか……		text
+eiev05f.059A	マスター		speaker
+eiev05f.05B1	いや……魔に魅入られたセレニスは、{n}それを実行しようとしているのだ……。		text
+eiev05f.0690	アイリーン		speaker
+eiev05f.06A9	姉さんが……！？		text
+eiev05f.06C8	マスター		speaker
+eiev05f.06DF	セレニスは帝国に渡って宮廷にいる……{n}これはギルドが確認したのだ……。		text
+eiev05f.0734	あの悲劇が、こんなことを引き起こすとは……。		text
+eiev05f.0783	アイリーン		speaker
+eiev05f.079C	そんな……。		text
+eiev05f.07B7	マスター		speaker
+eiev05f.07CE	まだ、セレニスを姉だと思ってはいまいな……。		text
+eiev05f.0809	禁忌だった秘術によってよみがえった彼女は、{n}もう、お前の姉ではないのだ……。		text
+eiev05f.0878	アイリーン		speaker
+eiev05f.0891	……私は姉を止めます。		text
+eiev05f.08B6	マスター		speaker
+eiev05f.08CD	無理だ、アイリーン。{n}あの秘術は……人の体を抜けがらにしてしまうもの。		text
+eiev05f.0922	だから、古くから禁じられているのだ。		text
+eiev05f.0955	もう、彼女は、お前の姉でもフェインの妻でもない。		text
+eiev05f.0994	アイリーン		speaker
+eiev05f.09AD	私は……あきらめることはできません。{n}セレニスは、私の姉です……。		text
+eiev05f.09FE	マスター		speaker
+eiev05f.0A15	あきらめない……フェインもそう言った……。{n}だが……結果はかわらん。{n}受け入れるのだ……アイリーン。		text
+eiev05f.0A88	アイリーン		speaker
+eiev05f.0AA1	すみません、グランドマスター。		text
+eiev05f.0ACE	私は姉に会うまで、{n}いいえ、姉を元にもどすまで……{n}あきらめません……。		text
+eiev05f.0B25	マスター		speaker
+eiev05f.0B3C	……そうか。{n}ジグの血だな……{n}一度決めたことは聞かんようだ……。		text
+eiev05f.0B8D	私はレグランスのロッジへ向かう。{n}また、いつでも訪ねてきてくれ。		text
+eiev05f.0BDC	アイリーン、君はまだ若い……{n}決して命を粗末にするな……。		text
+eiev05f.0C25	アイリーン		speaker
+eiev05f.0C3E	はい……グランドマスター。		text

@@ -1,0 +1,124 @@
+id	jp	en	notes
+feev07_01.0048	フェイン		speaker
+feev07_01.0058	どうだ？　＄＄＄＄＄＄、たまにはつきあわないか？{wait}{clear}		
+feev07_01.008C	ＮＵＬＬ		speaker
+feev07_01.009C	《ええ、いいですよ。》{n}		
+feev07_01.00BA	《すみません……。》{n}		
+feev07_01.00E0	＄＄＄＄＄＄		speaker
+feev07_01.00F0	ええ、いいですよ。{n}せっかくフェインが誘ってくださったのですから。{wait}{clear}		
+feev07_01.0136	フェイン		speaker
+feev07_01.0146	そこの店でいいか？{wait}{clear}		
+feev07_01.015C	＄＄＄＄＄＄		speaker
+feev07_01.016C	はい。{wait}{clear}		
+feev07_01.0184	＄＄＄＄＄＄		speaker
+feev07_01.0194	すみません……{n}もう、行かなければならないのです。{wait}{clear}		
+feev07_01.01CA	フェイン		speaker
+feev07_01.01DA	そうか……残念だな。{wait}{clear}		
+feev07_01.01F6	まあ、忙しい身なのだからしかたないな。{wait}{clear}		
+feev07_01.0224	またにしよう。{wait}{clear}		
+feev07_01.0268	フェイン		speaker
+feev07_01.0278	こうして時間をとって君と話したかった。{wait}{clear}		
+feev07_01.02A6	いつも立ち話ばかりだからな。{wait}{clear}		
+feev07_01.02C6	フェイン		speaker
+feev07_01.02D6	どうした？　浮かない顔をして？{wait}{clear}		
+feev07_01.02FC	なにか悩みでもあるのか？{wait}{clear}		
+feev07_01.0318	ＮＵＬＬ		speaker
+feev07_01.0328	《いいえ、別に……》{n}		
+feev07_01.0344	《ええ、ちょっと……》{n}		
+feev07_01.0362	＄＄＄＄＄＄		speaker
+feev07_01.0372	いいえ、別に……。{n}大丈夫ですよ、とくになにもありませんから。{wait}{clear}		
+feev07_01.03B4	フェイン		speaker
+feev07_01.03C4	そうか……気のせいか。{wait}{clear}		
+feev07_01.03E2	ならいいんだ。{wait}{clear}		
+feev07_01.03F4	フェイン		speaker
+feev07_01.0400	ところで、君はこの世界のことを{n}あまり知らなかったようだが……{n}君から見てこの世界はどう見える？{wait}{clear}救うに値する、すばらしい世界か？{wait}{clear}		
+feev07_01.0488	ＮＵＬＬ		speaker
+feev07_01.0498	《はい……》{n}		
+feev07_01.04AC	《いえ……》{n}		
+feev07_01.04CC	＄＄＄＄＄＄		speaker
+feev07_01.04DC	はい、もちろんです。{wait}{clear}私はこの世界にふれて{n}自分の使命を必ず成しとげないといけないと、{n}より強く思いました。{wait}{clear}		
+feev07_01.054E	フェイン		speaker
+feev07_01.055A	天使らしい言葉だな。{n}ただ、本当にそう思うのか？{wait}{clear}この世界は君のような純粋な天使から見れば{n}汚れた世界のように思わないか？{wait}{clear}		
+feev07_01.05DA	＄＄＄＄＄＄		speaker
+feev07_01.05EA	いいえ……{n}私はこの世界が汚れているとは思いません。{wait}{clear}私は……{n}そんなふうに世界を見たことなどありません……。{wait}{clear}ここでは、人は人らしく生きていると思います。{n}それが誤った道なのか、正しい道なのかは{n}人間自身が結果を出すことです。{wait}{clear}ただ、私はここに住む人以外のものに、{n}この世界が利用され、{n}破壊されるのを防ぎたいのです。{wait}{clear}		
+feev07_01.0734	フェイン		speaker
+feev07_01.0740	そうだな……。{n}俺もこの世界が楽園だとは思わない。{wait}{clear}差別や貧困……{n}いや、それを生み出す人のみにくさ、愚かさ……。{wait}{clear}嫌なことはたくさんある。{n}だが、ここは自分にとってかけがえのない世界だ。{wait}{clear}強く守りたいと思っている……。{wait}{clear}		
+feev07_01.0826	＄＄＄＄＄＄		speaker
+feev07_01.0836	フェイン……。{wait}{clear}		
+feev07_01.0848	フェイン		speaker
+feev07_01.0854	…………。{wait}{clear}君がそう思っていると聞いて安心した。{wait}{clear}		
+feev07_01.088A	＄＄＄＄＄＄		speaker
+feev07_01.089A	安心？{wait}{clear}		
+feev07_01.08A4	フェイン		speaker
+feev07_01.08B0	ああ。{wait}{clear}君がこの世界のみにくさに{n}あきれ返っているのではないかと思ってな。{wait}{clear}		
+feev07_01.0900	＄＄＄＄＄＄		speaker
+feev07_01.0910	そんなことは……ありません……。{wait}{clear}私は……最後までともに戦うつもりです。{n}逃げるつもりはありません。{wait}{clear}		
+feev07_01.097A	フェイン		speaker
+feev07_01.0986	すまない。{n}失礼なこと言ってしまったな。{n}謝ろう。{wait}{clear}君のことが正直、わからなかったんだ。{n}天使として、ただ天界の命を{n}我々に伝えているだけなのかと……。{wait}{clear}こうして話せてよかった。{n}君の考えがわかった。{wait}{clear}ともに戦おう……これからも。{wait}{clear}		
+feev07_01.0A80	＄＄＄＄＄＄		speaker
+feev07_01.0A90	いえ……{n}自分がこの世界を救うに値するかどうかを{n}考えたりはしません……。{wait}{clear}それは私が判断することではありませんから。{wait}{clear}		
+feev07_01.0B0C	フェイン		speaker
+feev07_01.0B18	そうか……。{n}君がこの世界をどう思ってるか知らないが、{n}俺にとってこの世界はかけがえのない世界だ。{wait}{clear}守らなくてはいけないと思っている。{wait}{clear}＄＄＄＄＄＄、{n}これからも協力しあってともに戦おう。{wait}{clear}		
+feev07_01.0BDC	＄＄＄＄＄＄		speaker
+feev07_01.0BEC	はい。{wait}{clear}		
+feev07_01.0C00	＄＄＄＄＄＄		speaker
+feev07_01.0C10	ええ、ちょっと……。{wait}{clear}		
+feev07_01.0C28	フェイン		speaker
+feev07_01.0C38	そうか。{wait}{clear}		
+feev07_01.0C48	自分でよければ聞く……。{wait}{clear}		
+feev07_01.0C64	＄＄＄＄＄＄		speaker
+feev07_01.0C74	はい……。{wait}{clear}		
+feev07_01.0C82	ＮＵＬＬ		speaker
+feev07_01.0C92	《勇者たちについて、ちょっと……》{n}		
+feev07_01.0CBC	《世界の混乱の原因が……》{n}		
+feev07_01.0CDE	＄＄＄＄＄＄		speaker
+feev07_01.0CEE	勇者たちについて、気になることがあるのです。{n}というよりも……{n}私が彼らを理解できているのかが心配で……。{wait}{clear}		
+feev07_01.0D5C	フェイン		speaker
+feev07_01.0D68	そうか……。{n}君も人を理解できるかどうかで、悩むのだな。{wait}{clear}だが、それは君の仕事をうまく運ぶために{n}考えていることなのか？　それとも……。{wait}{clear}		
+feev07_01.0DF6	＄＄＄＄＄＄		speaker
+feev07_01.0E06	確かに、天使である私が彼らを理解するのは、{n}任務のためと思われても、{n}しかたがないかもしれません……。{wait}{clear}ですが、それだけではありません。{wait}{clear}		
+feev07_01.0E94	フェイン		speaker
+feev07_01.0EA0	それだけではない？{wait}{clear}		
+feev07_01.0EB6	＄＄＄＄＄＄		speaker
+feev07_01.0EC6	はい。{n}私は、彼らが悩むときや、苦しいときには、{n}なにかできることをしたいのです。{wait}{clear}ですが、お互いを信じられないのでは、{n}なんの助けにもならないと思っています……。{wait}{clear}だから……。{wait}{clear}		
+feev07_01.0F80	フェイン		speaker
+feev07_01.0F8C	そうか……。{n}それは悩んで当然のことかもしれないな。{wait}{clear}		
+feev07_01.0FC4	＄＄＄＄＄＄		speaker
+feev07_01.0FD4	やはり、そういうものでしょうか。{wait}{clear}		
+feev07_01.0FF8	フェイン		speaker
+feev07_01.1004	ああ。{n}お互いを理解し合うということは、{n}一朝一夕にできることじゃない。{wait}{clear}人間同士だって、かんたんなことじゃない。{n}まして、君は天使だ……。{wait}{clear}いくら一緒にいても、{n}俺たちにはなにを考えているのか、{n}わからないと思われてもしかたがないと思う。{wait}{clear}		
+feev07_01.10FC	＄＄＄＄＄＄		speaker
+feev07_01.110C	やはり……そうですよね……。{wait}{clear}		
+feev07_01.112C	フェイン		speaker
+feev07_01.1138	だが、君が俺たちを{n}理解しようとしてくれている気持ちは{n}きっと伝わると、俺は思う……。{wait}{clear}こうして話していると、{n}君は信頼できる相手だと思うからな……。{wait}{clear}		
+feev07_01.11D4	＄＄＄＄＄＄		speaker
+feev07_01.11E4	ありがとうございます、フェイン。{wait}{clear}		
+feev07_01.1208	フェイン		speaker
+feev07_01.1214	あせらないことだ。{n}人にはいろいろな面がある。{n}見えている部分がすべてとは限らないからな。{wait}{clear}		
+feev07_01.1272	＄＄＄＄＄＄		speaker
+feev07_01.1282	はい、そうですね……。{n}私も少しくらい失敗しても、{n}くじけないようにします。{wait}{clear}		
+feev07_01.12D2	フェイン		speaker
+feev07_01.12DE	ハハハ……その意気だ。{wait}{clear}		
+feev07_01.12FC	＄＄＄＄＄＄		speaker
+feev07_01.130C	世界の混乱の原因が気になるのです。{n}今、見えていることの奥底に、{n}恐ろしいことがひそんでいる気がしています。{wait}{clear}ただ、それがわからないのです……。{wait}{clear}		
+feev07_01.13A2	フェイン		speaker
+feev07_01.13AE	俺は君とこうして世界を見ていると、{n}自分たち人間の愚かさばかりが目につく……。{n}強い者が弱い者をしいたげている……。{wait}{clear}しかし、君は、この目に見える混乱だけではなく、{n}なにかべつな原因を考えているのだな。{wait}{clear}		
+feev07_01.147E	＄＄＄＄＄＄		speaker
+feev07_01.148E	そうです。{n}人がいろいろな欲望に負けることはあると思います。{n}ですが、それは自分が選ぶ結果でしかないのです。{wait}{clear}ただ、その欲望が、人以外のなにかによって{n}もたらされたものだったら……{n}それはとても恐ろしいことになります。{wait}{clear}		
+feev07_01.156E	フェイン		speaker
+feev07_01.157A	そうか……。{wait}{clear}自分ももう少し別の視点で、今起こっていることを{n}考えた方がいいのかもしれないな……。{wait}{clear}ありがとう、＄＄＄＄＄＄。君と話していなければ、俺は目先の混乱にばかり{n}とらわれていたかもしれない。{wait}{clear}		
+feev07_01.164A	＄＄＄＄＄＄		speaker
+feev07_01.165A	フェイン……。{wait}{clear}		
+feev07_01.166C	フェイン		speaker
+feev07_01.1678	それに、君は俺が思っていた以上に、{n}この世界のことを考えてくれているようだ。{wait}{clear}正直なところ、君にとってこんな世界など{n}取るに足らないのではないかと思っていたのだ。{wait}{clear}だが、今の話を聞いて、{n}君の気持ちがよくわかった。{n}{wait}{clear}勝手に失礼なことを考えていて、すまなかった。{wait}{clear}		
+feev07_01.1788	＄＄＄＄＄＄		speaker
+feev07_01.1798	いいえ、フェイン、気にしないでください。{n}私もこうして話ができて、とてもうれしいですから。{wait}{clear}		
+feev07_01.17F6	フェイン		speaker
+feev07_01.1802	そうか……。{wait}{clear}		
+feev07_01.1812	フェイン		speaker
+feev07_01.181E	おっと、ずいぶんと話こんでしまったな。{n}そろそろ出よう。{wait}{clear}		
+feev07_01.188A	フェイン		speaker
+feev07_01.189A	今夜は君と話せて楽しかった……。{wait}{clear}		
+feev07_01.18C2	お休み……＄＄＄＄＄＄。{wait}{clear}		
+feev07_01.18DE	＄＄＄＄＄＄		speaker
+feev07_01.18EE	お休みなさい。{wait}{clear}		

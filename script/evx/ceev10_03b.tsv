@@ -1,0 +1,18 @@
+id	jp	en	notes
+ceev10_03b.0002	聖母2		dev label (guess: not shown)
+ceev10_03b.00A2	セシア		unit name (32-byte field)
+ceev10_03b.00DE	聖母		unit name (32-byte field)
+ceev10_03b.011A	イオン		unit name (32-byte field)
+ceev10_03b.0498	イオン		speaker
+ceev10_03b.04AD	これで母さんを元気にできる……。		text
+ceev10_03b.0530	セシア		speaker
+ceev10_03b.0545	あなた……なんてことを……。		text
+ceev10_03b.0644	セシア		speaker
+ceev10_03b.0659	しっかりしてください！		text
+ceev10_03b.067E	聖母		speaker
+ceev10_03b.0691	ああ……魔石を奪われてしまいました。		text
+ceev10_03b.06C4	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
+ceev10_03b.0739	そうなっては、世界は破滅してしまいます。		text
+ceev10_03b.0770	天使に見いだされた子よ……{n}どうか世界を守ってください……。		text
+ceev10_03b.07C7	セシア		speaker
+ceev10_03b.07DC	そんな……。{n}こんなことになるなんて……。		text

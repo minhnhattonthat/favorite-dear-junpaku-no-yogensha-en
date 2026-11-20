@@ -1,0 +1,11 @@
+id	jp	en	notes
+roev13c.0002	ヴァイパ－の罠（戦闘勝利後）		dev label (guess: not shown)
+roev13c.00A2	ロクス		unit name (32-byte field)
+roev13c.00DE	クラレンス		unit name (32-byte field)
+roev13c.011A	クラレンス		unit name (32-byte field)
+roev13c.0156	クラレンス		unit name (32-byte field)
+roev13c.04BC	クラレンス		speaker
+roev13c.04D5	ちっ、強えな。なかなか。		text
+roev13c.050C	……だが、魔石は渡せねえ。{n}これは俺の最後の楽しみなんだ……		text
+roev13c.062F	クラレンス		speaker
+roev13c.0648	あばよ！		text
