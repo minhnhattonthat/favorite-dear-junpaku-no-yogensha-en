@@ -1,0 +1,43 @@
+id	en
+FryMsg1.2EF0	Angeeel! A man named Rocus Las Flores of Linares in the Holy Nation of Ecclesia would've been perfect as a hero candidate.{wait}{clear}But in all the mess when the Empire invaded the Holy City, he went missing.{wait}{clear}We can't find him anymore. It's super sad, but one of Arcaya's hopes is gone now.
+FryMsg1.3030	Angeeel! A girl named Irene Tirnag of Bremes Isle would've been perfect as a hero candidate.{wait}{clear}But she went missing in the incident with the Heavenly Dragon coming back.{wait}{clear}We can't find her anymore. It's super sad, but one of Arcaya's hopes is gone now.
+FryMsg1.3164	Angeeel! A woman named Leyla Vigrid of Reizefut in the Grosain Empire would've been perfect as a hero candidate.{wait}{clear}But she was framed for treason and got killed...{wait}{clear}It's super sad, but one of Arcaya's hopes is gone now.
+FryMsg1.326C	Angeeel! A girl named Cecia of Fes in the untamed lands would've been perfect as a hero candidate.{wait}{clear}But she got caught up in the attack on St. Diana, who protected the Reyforia Forest, and went missing.{wait}{clear}We can't find her anymore. It's super sad, but one of Arcaya's hopes is gone now.
+FryMsg1.33CA	Angeeel! Leyla-sama tried to assassinate the Emperor at an evening ball, and Alberic killed her!{wait}{clear}Leyla-sama must've been really tormented over her father's and mother's deaths... I just know it...{wait}{clear}Angeeel, Florin's super sad... One of Arcaya's hopes is gone now.
+FryMsg2.008E	Angel, the chaos in the world seems to be spreading. Please be careful, okay?
+FryMsg2.00D0	Angel! It's no use! We can't stop the chaos in the world anymore!
+FryMsg2.0112	Angel, keep an eye on your AP, okay? If it runs out, you'll have to go back to the Heavens.
+FryMsg2.0170	Angel, your AP has run out. You'll have to go back to the Heavens.
+FryMsg2.01B2	I'm sorry, Angel. I've gotten pretty worn out...{wait}{clear}I'd be really happy if I could have a day off...{wait}{clear}I'm counting on you, Angel.
+FryMsg2.0242	Angel? Do you have a moment?{wait}{clear}＜妖精名＞ seems really tired. Please let them rest once in a while.
+FryMsg2.02B4	I'm sorry, Angel.{wait}{clear}＜妖精名＞ went back to the Heavens without asking.
+FryMsg2.02F8	Angel, there's a hero who'd like to see you...{wait}{clear}Will you go see ＜勇者名＞?
+FryMsg2.0354	All right... Then I'll pass that along.
+FryMsg2.0388	Angel, there are heroes who'd like to see you...{wait}{clear}Who will you go see, ＜勇者名１＞ or ＜勇者名２＞?
+FryMsg2.0434	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up.
+FryMsg2.0472	A report, Angel.{wait}{clear}＜勇者名＞'s level has gone up by ○○.
+FryMsg2.04E0	That's the spirit! Let's hurry, Angel!{wait}{clear}And please support ＜勇者名＞ in the battle!
+FryMsg2.054E	Oh no... Angel... Well, we can't support them, but let's at least go watch the battle!
+FryMsg2.05AA	Angel! ＜勇者名＞ has run into the enemy!{wait}{clear}We can't support them, but let's at least go watch the battle!
+FryMsg2.0614	Angel, it's terrible! It looks like ＜勇者名＞ was badly hurt in battle!{wait}{clear}Please go to ＜勇者名＞!{wait}{clear}And when you get there, give them a healing item, or go with them and give your blessing.
+FryMsg2.06F0	Are you sure you don't want to go to ＜勇者名＞? They're badly hurt.{wait}{clear}Please hurry and give them a healing item, or go with them and give your blessing.
+FryMsg2.0780	It's terrible, Angel! ＜勇者名＞ has gone missing.{wait}{clear}It seems they were unhappy about something... Angel, what should we do?
+FryMsg2.07FE	Angel... It's been quite a while since ＜勇者名＞ went missing... Is that all right?
+FryMsg2.0858	We've found ＜勇者名＞, who had gone missing.
+FryMsg2.088C	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, is happening in ＜地方名＞. Would you ask a hero to handle it?
+FryMsg2.0932	It looks like ＜勇者名＞ failed to resolve ＜イベント名＞...
+FryMsg2.0970	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in ＜地方名＞ has gone away.
+FryMsg2.09DC	Angel, the incident has vanished.{wait}{clear}It looks like ＜イベント名＞ in ＜地方名＞ has gone away.{wait}{clear}＜勇者名＞, who was heading there, didn't make it in time.
+FryMsg2.0A84	＜勇者名＞ has arrived at ＜目的地名＞.
+FryMsg2.0ABA	A report, Angel.{wait}{clear}I searched ＜地方名＞, but there was nothing out of the ordinary.
+FryMsg2.0B1C	A report, Angel.{wait}{clear}Your level's about to go up. When you go back to the Heavens, please go see Lord Raphael.
+FryMsg2.0B98	Angel, it's terrible! ＜勇者名＞ has lost their life in battle with an enemy bewitched by a fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞'s soul can never be brought back.
+FryMsg2.0C4C	Angel, I've found a hero candidate.
+FryMsg2.0C6E	In Sayak, Celesta, in the Six Kingdoms Alliance, I found a man named Fein Lu Lugus.{wait}{clear}He's a Warlock who takes on all sorts of jobs for the Guild of mages.{wait}{clear}Maybe it comes with the job, but he knows a great deal, and he seems well versed in Arcaya's history, too.{wait}{clear}I'm sure he'll help you, Angel! Why not go and meet him?
+FryMsg2.0DAC	In Leszno, Slatina, in the Duchy of Courrege, I found a man named Clive Saingrent.{wait}{clear}He's a vampire hunter who specializes in taking on undead-slaying jobs.{wait}{clear}He works with real force, and he's very impressive, but there's something not quite human about him that worries me a little.{wait}{clear}And the fight in the graveyard was a bit scary...{wait}{clear}Well, his skill is the real thing, so why not go and meet him once?
+FryMsg2.0F2E	In Fanlan, the capital of the Kingdom of Legrance, in Ellora, I found a man named Rudiere Trier Legrance.{wait}{clear}Um, he's the second prince of Legrance, but he hardly has anything to do with running the country, and he just seems to play around every day.{wait}{clear}But he looks like he's itching to do something. I got the feeling his curiosity and drive are stronger than anyone's!{wait}{clear}I'm sure he'll do great as a hero. Please go and meet him, Angel.
+FryMsg2.10D6	In Araras, the capital of the Holy Nation of Ecclesia, in Linares, I found a man named Rocus Las Flores.{wait}{clear}He seems to have a special power, and they say he's really supposed to become Pope, but right now he's just living an ordinary life.{wait}{clear}It's hard to say this to you, Angel, but when I looked into him, there were some things I wasn't so sure about...{wait}{clear}Oh, but, but, he's a clergyman, so I'm sure he'll be easy for you to talk to, Angel! Why not go and meet him first?
+FryMsg2.1282	In Darg on Bremes Isle, I found a girl named Irene Tirnag.{wait}{clear}She's still just a little girl, but she only has one owl with her, and nobody else seems to live with her.{wait}{clear}She studies by reading lots of magic books every day, and she seems to be quite a powerful mage.{wait}{clear}And it looked like she was working so hard for some reason.{wait}{clear}I can feel really strong power in her, so I'm sure she'll do great as a hero! Please go and meet her, Angel.
+FryMsg2.1462	In Reizefut, the capital of the Grosain Empire, in Reizefut, I found a woman named Leyla Vigrid.{wait}{clear}She's the first woman to become a knight in the Empire, and she's strong enough to lead a whole order of knights.{wait}{clear}But it seems she got caught up in some trouble, and she's in prison now.{wait}{clear}But, Angel, she's someone with a strong sense of justice. She's not a bad person!{wait}{clear}So couldn't you help her?
+FryMsg2.15E4	In Leiria, Fes, in the untamed lands, I found a girl named Cecia.{wait}{clear}She's a girl from the clan living in the vast Reyforia Forest that covers most of the untamed lands, and she's an amazing archer.{wait}{clear}She seems very pure, with a strong sense of justice, so I'm sure she'll help you, Angel. Please, please go and meet her.
+FryMsg2.1708	Angel! Fein Lu Lugus, the hero candidate we found, has passed away.{wait}{clear}It seems somebody attacked him on his travels... It's a real shame, but one of Arcaya's hopes is gone.

@@ -1,5 +1,5 @@
 id	jp	en	notes
-FryMsg6.008E	天使様、世界の混乱が進んでいるようです。{n}十分に気をつけてください。		
+FryMsg6.008E	天使様、世界の混乱が進んでいるようです。{n}十分に気をつけてください。	Angel, the chaos in the world seems to be{n}spreading. Please be very careful.	
 FryMsg6.00D4	天使様！　もう無理です。{n}これ以上混乱を止めることはできません！		
 FryMsg6.0116	天使様、ＡＰには気をつけてください。{n}なくなってしまった場合は、{n}天界に戻らないといけませんからね。		
 FryMsg6.017C	天使様、ＡＰがなくなってしまいました。{n}天界に戻らないとダメですよ。		
@@ -20,16 +20,16 @@ FryMsg6.0616	大変です！{n}＜勇者名＞様が戦闘で{n}大ケガして�
 FryMsg6.06E6	天使様、{n}大ケガを負われている＜勇者名＞様のもとへ{n}行かなくてもいいんですか？{wait}{clear}早く行って、回復アイテムを渡すか、{n}同行して祝福してあげてください。		
 FryMsg6.077E	大変です、天使様！{n}＜勇者名＞様が行方不明になってしまいました。{wait}{clear}なにか不満があったようなのですが……。{n}天使様、どうしましょうか？		
 FryMsg6.0806	天使様、{n}＜勇者名＞様が行方不明になられてから、{n}ずいぶん経ちますが、このままでいいんですか？		
-FryMsg6.0866	行方不明になっていた{n}＜勇者名＞様を発見しました。		
+FryMsg6.0866	行方不明になっていた{n}＜勇者名＞様を発見しました。	We've found ＜勇者名＞, who had gone missing.	
 FryMsg6.089A	天使様、事件です！{wait}{clear}＜地方名＞で＜イベント名＞という{n}事件が起こっています。{n}勇者様にお願いしていただけないでしょうか？	Angel, there's an incident!{wait}{clear}An incident, ＜イベント名＞, has broken out in{n}＜地方名＞. Will you ask a hero to handle it?	
 FryMsg6.0916	＜勇者名＞様が{n}＜イベント名＞を解決しました。		
 FryMsg6.0946	＜勇者名＞様が{n}＜イベント名＞解決に失敗してしまったようです。		
 FryMsg6.0986	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。	Angel, the incident has vanished.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems to have gone away.	
 FryMsg6.09F2	天使様、事件が消滅してしまいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなってしまったようです。{wait}{clear}また、そこに向かっていた＜勇者名＞様は{n}間に合いませんでした。		
-FryMsg6.0AA0	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着しました。		
+FryMsg6.0AA0	＜勇者名＞様が{n}目的地＜目的地名＞へ{n}到着しました。	＜勇者名＞ has arrived at ＜目的地名＞.	
 FryMsg6.0AD6	天使様、報告します。{wait}{clear}＜地方名＞を探索してみたのですが{n}特別、変わったことなどありませんでした。		
 FryMsg6.0B3A	天使様、報告します。{wait}{clear}天使様のレベルが上がりそうです。{n}天界へ戻られたときは、{n}ラファエル様のところへ行くといいと思います。		
-FryMsg6.0BBA	天使様、大変です！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}とても悲しいことなのですが、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできません。		
+FryMsg6.0BBA	天使様、大変です！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}とても悲しいことなのですが、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできません。	Angel, it's terrible! ＜勇者名＞ has lost their{n}life in battle with an enemy bewitched by a{n}fallen angel...{wait}{clear}It's very sad, but ＜勇者名＞'s soul can never be{n}brought back.	
 FryMsg6.0C70	天使様、勇者候補を発見しました！		
 FryMsg6.0C92	六王国連合、セレスタのサヤクで{n}ウォーロックの青年を見つけました。{wait}{clear}名前はフェイン・ルー・ルグス。{wait}{clear}彼は、旅をしながら{n}魔法ギルドの依頼を受けて{n}さまざまな仕事をこなしているようです。{wait}{clear}また、非常に知識が豊富で、{n}アルカヤの歴史や魔法などに{n}とても詳しいようです。{wait}{clear}彼は天使様の協力者として適任と思います。{n}ぜひ、お会いになられてみてはいかがですか？		
 FryMsg6.0DFA	クレージュ公国、スラティナのレシュノで{n}クライヴ・セイングレントという{n}青年を見つけました。{wait}{clear}彼は、主に辺境の町や村からの依頼を受けて{n}アンデッドを専門に退治する{n}ヴァンパイアハンターです。{wait}{clear}職業柄かもしれませんが、{n}夜にばかり活動しているのを見ると{n}どうも人間ではない匂いを感じるのですが……。{wait}{clear}ただ、剣の腕はすばらしいものがありました。{n}なので、ぜひお会いになられた方がいいと思います。{n}いかがでしょうか、天使様。		
@@ -38,7 +38,7 @@ FryMsg6.1160	エクレシア教国、リナレスにある首都アララスで{
 FryMsg6.12A6	ブレメース島のダーグで{n}アイリーン・ティルナーグという{n}魔導士の少女を見つけました。{wait}{clear}フクロウとともに塔に住んでいて、{n}毎日、魔法の知識の探求に励んでいます。{wait}{clear}魔導の力は大変大きく、強く感じますから、{n}勇者様になれば、きっと活躍されると思います。{n}まずは、お会いになられてみてはいかがですか？		
 FryMsg6.13D0	グローサイン帝国、レイゼフートにある{n}首都レイゼフートで{n}帝国騎士の女性を見つけました。{wait}{clear}名前はレイラ・ヴィグリード。{n}すぐれた剣技と強い正義感をお持ちで、{n}女性としてはじめて騎士となった方だそうです。{wait}{clear}ただ、なにかトラブルに巻き込まれたようで{n}いまは投獄されています。{wait}{clear}まったくいわれのない罪で囚われたようなので、{n}助けて差し上げてくださいませんか、天使様？		
 FryMsg6.1540	未開の地、フェスのレイリアで、{n}非常に巧みに弓を扱う少女を見つけました。{wait}{clear}名前はセシア。{n}未開の地一帯に広がるレイフォリアの森に住む{n}一族の娘です。{wait}{clear}詳しくはわからなかったのですが、{n}一族に伝わる伝説から、{n}天使様にあこがれているようです。{wait}{clear}ですから、きっと天使様に{n}こころよく協力してくださると思います。{n}お会いになられてみてはいかがですか？		
-FryMsg6.16A0	天使様、勇者候補として発見した{n}フェイン・ルー・ルグス様が亡くなられました。{wait}{clear}旅の途中で何者かに襲われたようです……。{n}とても残念ですが、{n}アルカヤの希望がひとつ失われました。		
+FryMsg6.16A0	天使様、勇者候補として発見した{n}フェイン・ルー・ルグス様が亡くなられました。{wait}{clear}旅の途中で何者かに襲われたようです……。{n}とても残念ですが、{n}アルカヤの希望がひとつ失われました。	Angel, Fein Lu Lugus, whom we found as a{n}hero candidate, has passed away.{wait}{clear}It seems someone attacked him on his{n}travels... It's a great shame, but one of{n}Arcaya's hopes has been lost.	
 FryMsg6.1754	天使様、勇者候補として発見した{n}フェイン・ルー・ルグス様が、{n}行方不明になられました。{wait}{clear}ギルドが帝国に襲われたのが原因のようですが、{n}フェイン様の行方はまったくわかりません……。{wait}{clear}とても残念ですが、{n}アルカヤの希望がひとつ失われました。	Angel, Fein Lu Lugus, whom we found as a{n}hero candidate, has gone missing.{wait}{clear}It seems to be because the Empire attacked{n}the Guild, but we have no idea where{n}Fein-san is...{wait}{clear}It's a great shame, but one of Arcaya's{n}hopes has been lost.	
 FryMsg6.1846	天使様、勇者候補として発見した{n}ルディエール・トライア・レグランス様が、{n}行方不明になられました。{wait}{clear}国王であるお兄様が何者かの手によって{n}暗殺されたのが原因だと思うのですが……。{n}ルディエール様の行方はまったくわかりません……。{wait}{clear}とても残念ですが、{n}アルカヤの希望がひとつ失われました。	Angel, Rudiere Trier Legrance, whom we found{n}as a hero candidate, has gone missing.{wait}{clear}I think it's because his brother the king{n}was assassinated by someone... We have no{n}idea where Rudiere-san is...{wait}{clear}It's a great shame, but one of Arcaya's{n}hopes has been lost.	
 FryMsg6.196A	天使様、勇者候補として発見した{n}ロクス・ラス・フロレス様が、{n}行方不明になられました。{wait}{clear}エクレシア教国の首都、アララスが帝国によって{n}陥落したのが原因だと思うのですが……。{n}ロクス様の行方はまったくわかりません……。{wait}{clear}とても残念ですが、{n}アルカヤの希望がひとつ失われました。	Angel, Rocus Las Flores, whom we found as a{n}hero candidate, has gone missing.{wait}{clear}I think it's because Araras, the capital of{n}the Holy Nation of Ecclesia, fell to the{n}Empire... We have no idea where Rocus-san{wait}{clear}is...{wait}{clear}It's a great shame, but one of Arcaya's{n}hopes has been lost.	
