@@ -1,12 +1,12 @@
 # Space and limits (candidates only)
 
 - Disc: the archives and FMVs are opened by file name through the ISO9660 directory (EXE 0x844 names, opener at
-  0x80023168), so mkpsxiso can re-lay files and let archives grow (later LBAs shift; savestates go stale). Not tested
-  yet (phase 3 identity build first).
-- LKF entries can grow (`lkf.build` re-lays them). The game addresses entries by index; guess: it reads offsets from
-  the archive header at run time (`text.md` §LKF entry lookup). The header's "largest entry" u32 (0x0c) is probably
-  the load-buffer size: keep it updated (lkf.build) and find the allocation that uses it before any file grows past
-  the current maximum. Verify both in phase 3 (grow one entry, boot, reach a scene that loads it).
+  0x80023168), so mkpsxiso can re-lay files and let archives grow (later LBAs shift; savestates go stale). Verified
+  by the grow test (`disc.md` §Grow test).
+- LKF entries can grow (`lkf.build` re-lays them; verified, `disc.md` §Grow test): the game takes each entry's
+  position from the archive header at boot. The header's "largest entry" u32 (0x0c) may be a load-buffer size:
+  `lkf.build` keeps it updated. An SSB_DATA script grown past the old maximum (0x6b16 -> 0x7be8) still ran; the
+  real limit for scripts is the script buffer at 0x801A4BB0 (size unknown, phase 4/5).
 - RAM load buffer per file type (ssb, MSG): find the loader and its buffer in phase 4/5, and enforce the limit in the
   build.
 - MSG banks: u16 offsets, so each bank < 64 KB (largest 27 KB).

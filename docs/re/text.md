@@ -72,7 +72,8 @@ The EXE names the archives (`FD2bn.LKF`, `FD2sn.LKF`, `GrpData.LKF`, `SSB_Data.L
 opens all four at 0x80023168 (function table call through 0x8007611c+0x20, handles at 0x8007efa8). No entry names
 appear in the EXE or overlays, so files are addressed by index. Guess: entry offsets and sizes come from each
 archive's header at run time (no table of them found; a u32 search for the first 60 entry offsets/sectors hit only
-small common numbers). Verify in phase 3 by rebuilding with one entry grown and booting.
+small common numbers). Verified in phase 3: the in-RAM directory is built from the header, and a build with grown
+entries boots and reaches every scene tried (`disc.md` §Grow test).
 
 ## Name placeholder
 

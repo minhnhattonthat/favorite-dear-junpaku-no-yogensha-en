@@ -3,7 +3,9 @@
 Unpack: `tools/mkpsxiso/mkpsxiso-2.30-win64/dumpsxiso.exe -x work/disc/tree -s work/disc/layout.xml "rom/Favorite Dear - Junpaku no Yogensha (Japan).bin"`
 (15 files, one Mode2 data track; `license_data.dat` = licence sectors). Boot: SYSTEM.CNF -> `SLPS_027.54` (main EXE,
 496 KB). Unlike the first game (PSX.EXE + GDATA.BIN, see `../favorite-dear-en/docs/re/disc.md`) this one keeps its
-data in four `+LKF` archives. Identity rebuild with mkpsxiso: not yet tested (phase 3).
+data in four `+LKF` archives. Identity rebuild (verified, `tests/test_build.py`): `tools/build.py --identity`
+re-lays all four LKFs with `lkf.build` and runs mkpsxiso on a layout.xml with per-file `source` paths; the image's
+SHA-1 equals the original's (~3 s). The mkpsxiso cue is a single MODE2/2352 track, like the original.
 
 | File | What | State |
 |---|---|---|
@@ -23,7 +25,17 @@ Header 0x20 bytes: `"+LKF"`, u32 count, u32 data start (= first entry's offset),
 entry seen), u32 offset, u32 size. Data is sector (0x800) aligned, in entry order, zero-padded, and the packer always pads at least
 one byte: a file ending exactly on a sector boundary is followed by a whole zero sector (FD2SN ASIA_B.VB).
 `lkf.build()` re-lays entries the same way and rebuilds SSB_DATA, FD2BN and FD2SN byte for byte
-(`tests/test_formats.py`; GRPDATA not in the test, 85 MB); whether the game reads offsets from the archive header or from a table in the EXE/overlays is
-**not yet known** (search the EXE for the archive's offsets before changing any entry size).
+(`tests/test_formats.py`; all four through the identity build, `tests/test_build.py`). The game reads every entry's
+offset and size from the archive header at boot (`debug.md` §How it works), so entries can grow.
+
+## Grow test (verified 2026-11-20)
+
+`tools/build.py --grow-test` appends 0x1800 zero bytes to the first entry of each LKF (alkaya.ssb, op.bin, se.bin,
+FD2Font.FPK): every later entry, and every file after the archives (VOICE.XA, all STR), moves by 3+ sectors. Warps
+on `build/grow.cue` (`warp.py ... --out-dir work/qa/grow`): title (CI_LOGO + DEMO.STR), prologue, tutorial
+(alkaya.ssb itself, grown), battle_h3 (Battle.bin, battle graphics), credits (ENDING.STR), map_menu: all `ok`, and
+the battle and staff roll sheets look like the original's. In SSB_DATA the grown alkaya.ssb (0x7be8) became the
+largest entry (was 0x6b16) and the tutorial still ran it, so going past the old "largest entry" works there; in the
+other three archives the grown entry stayed below the largest one.
 
 Extracted copies: `work/lkf/<ARCHIVE>/<index>_<name>` (`lkf.py extract`).

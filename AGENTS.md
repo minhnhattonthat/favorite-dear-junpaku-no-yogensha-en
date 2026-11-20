@@ -4,7 +4,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 Reference project: the first game, `../favorite-dear-en` (same series, different engine/disc layout; reuse its glossary, style and tool ideas).
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py`        -> build/fd2_en.bin/.cue (checks the dump against `rom.sha1` first; not written yet)
+- Build:    `python -X utf8 tools/build.py`        -> build/fd2_en.bin/.cue (checks the dump against `rom.sha1` first; `--identity`: no edits, must equal the original)
 - Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this; `git config core.hooksPath tools/hooks` once per clone)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py C:/abs/path/build/fd2_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 tools/debug/warp.py <scene> | --event NAME.ssb | --all -j 4 [--state]` (cold boot, no save; scenes: `tools/debug/scenes.tsv`, how: `docs/re/debug.md`; never ask the user to play to a scene)

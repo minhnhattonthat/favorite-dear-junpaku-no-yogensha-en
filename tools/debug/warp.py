@@ -8,7 +8,7 @@
 Each run writes work/qa/warp/<scene>/ (shots every 150 frames, sheet.png, arrived.png, log.txt, emu.txt) and, with
 --state, work/states/<scene>.sstate (60 frames after arrival, or after POST). Exit 1 if any scene was not reached
 ("WARP OK" missing in the log), its proof shot is blank, or (AFTER=mash) the screen never changed after arrival.
-Results are appended to work/qa/warp/results.tsv. Lua side: tools/debug/warp.lua; how it works: docs/re/debug.md.
+Results are appended to work/qa/warp/results.tsv (--out-dir D: D/<scene>/ and D/results.tsv instead). Lua side: tools/debug/warp.lua; how it works: docs/re/debug.md.
 
 scenes.tsv columns:
   scene   name (also the output folder and state name)
@@ -60,6 +60,7 @@ SCRIPT_BUF = 0x801A4BB0
 DEFAULT_CARD = "tools/debug/cards/fd1_clear.mcd"
 EXTRA = []
 SHOT_EVERY = 150
+OUT_ROOT = os.path.join(REPO, "work", "qa", "warp")
 _files = None
 
 
@@ -160,7 +161,7 @@ def card_for(sc, out):
 
 
 def run(sc, cue, state, timeout):
-    out = os.path.join(REPO, "work", "qa", "warp", sc["scene"])
+    out = os.path.join(OUT_ROOT, sc["scene"])
     os.makedirs(out, exist_ok=True)
     for f in glob.glob(os.path.join(out, "*.png")):
         os.remove(f)
@@ -220,9 +221,12 @@ def main():
     ap.add_argument("--var", action="append", default=[], help="extra NAME=LUA global (repeatable)")
     ap.add_argument("--debugger", action="store_true", help="interpreter mode (needed for L.on_exec hooks)")
     ap.add_argument("--shot-every", type=int, default=150, help="frames between shots (default 150)")
+    ap.add_argument("--out-dir", help="folder for the scene folders and results.tsv (default work/qa/warp)")
     a = ap.parse_args()
-    global SHOT_EVERY
+    global SHOT_EVERY, OUT_ROOT
     SHOT_EVERY = a.shot_every
+    if a.out_dir:
+        OUT_ROOT = os.path.abspath(a.out_dir)
     for f in a.lua:
         EXTRA.extend(["--script", os.path.abspath(f)])
     for v in a.var:
@@ -250,8 +254,8 @@ def main():
         lua_vars(s)  # fail on an unknown file name before any emulator starts
     with ThreadPoolExecutor(max_workers=a.j) as ex:
         res = list(ex.map(lambda s: run(s, a.cue, a.state, a.timeout), todo))
-    os.makedirs(os.path.join(REPO, "work", "qa", "warp"), exist_ok=True)
-    with open(os.path.join(REPO, "work", "qa", "warp", "results.tsv"), "a", encoding="utf-8") as f:
+    os.makedirs(OUT_ROOT, exist_ok=True)
+    with open(os.path.join(OUT_ROOT, "results.tsv"), "a", encoding="utf-8") as f:
         for r in res:
             f.write("\t".join(str(x) for x in r) + "\n")
     bad = 0

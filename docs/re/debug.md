@@ -14,7 +14,7 @@ cold boot, no save, no savestate. Scene list: `tools/debug/scenes.tsv` (columns 
   0x80087B54, rounds the size to sectors and hands **the MSF at +0x25** to CdControl (`0x8005D4BC`, cmd 0xA0 path at
   0x8003A278): patching only `+0x2C/+0x30` changes nothing, the MSF word is what moves the read.
   Consequence for phase 3: the disc position of every LKF entry is taken from the archive header at boot (the MSF is
-  computed from the header offset), so entries can grow if the header is rewritten. Not yet a boot test.
+  computed from the header offset), so entries can grow if the header is rewritten (boot-tested: `disc.md` §Grow test).
 - **Event warp.** New Game runs `prologue.ssb` right after the name entry (into the script buffer 0x801A4BB0).
   `warp.lua` copies the target's `+0x24`, `+0x2C` and `+0x30` words into the prologue's record every frame, so the
   game's own loader reads the target. Arrival = 16 bytes from the middle of the target file appear at the same
