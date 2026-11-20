@@ -179,6 +179,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `これは N 個持っているわね。`): English fragments were written to read in JP order (", accompany " + "?",
   "Of these, you have " + "."), check them in game; rfd2.8009D958 (Titania on a fairy, 彼女) written neutral;
   SLPS パレーゼ treated as Valese (バレーゼ). Glossary gained the EXE town table, heaven palaces, Holy Nation.
+- **Phase 8 progress (2026-11-21, 18th worker):** build re-verified (sha1 da353c51...). Full tour
+  `warp.py --all -j 1 --cue <abs>/build/fd2_en.cue --out-dir work/qa/tour` was killed by the host for low memory
+  after 48 of 66 scene folders: re-run the rest (`warp.py SCENE.. --out-dir work/qa/tour`) with nothing else open, then
+  `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build build/fd2_en.bin` and verdicts. `docs/visual-qa-brief.md`
+  copied (add standing non-bugs). New, UNTESTED in the emulator: `tools/debug/textcover.lua` (logs LKF loads + first
+  reads of the overlay/.end/script buffers; run on the ORIGINAL disc with `--lua tools/debug/textcover.lua --debugger
+  --out-dir work/qa/cover`) and `tools/textcover.py` (maps reads to script/ rows, waivers in docs/text_unshown.tsv;
+  EXE strings not watched yet). First test: one event scene; check that loading does not read whole files (memcpy
+  would fake full coverage) and that the run speed is usable.
 - **Next (phase 8):** QA in the emulator per the skill's phase 8 done-when (tour sheets + visual-QA verdicts via
   `qa_gate.py`, graphics text G-rows incl. the OMAKE profile panel (stylized-font graphic, still JP), chapter cards,
   game over, credits; `inkbox.py` on choice/menu boxes; stress saves; `textcover.py`). Carried from phase 7: add a
