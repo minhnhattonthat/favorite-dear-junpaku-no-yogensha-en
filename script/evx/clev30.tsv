@@ -1,18 +1,18 @@
 id	jp	en	notes
 clev30.00A2	クライブ		unit name (32-byte field)
-clev30.00DE	イオン		unit name (32-byte field)
+clev30.00DE	イオン	Ion	unit name (32-byte field)
 clev30.011A	ウサギ１		unit name (32-byte field)
 clev30.0156	ウサギ２		unit name (32-byte field)
 clev30.0192	ウサギ３		unit name (32-byte field)
 clev30.01CE	死人		unit name (32-byte field)
 clev30.020A	死人		unit name (32-byte field)
-clev30.0498	イオン		speaker
+clev30.0498	イオン	Ion	speaker
 clev30.04AD	魔石はあの人に渡したし、お母さんも……。		text
 clev30.04E4	僕の邪魔した村人はやっつけたし、{n}食料は手に入ったし……。{n}ゾネ、モーント、スターン、帰ろう。		text
-clev30.05C1	イオン		speaker
+clev30.05C1	イオン	Ion	speaker
 clev30.05D6	なんだ？　お前……。		text
 clev30.0635	クライヴ		speaker
 clev30.064C	お前が、この村人たちを……		text
-clev30.0675	イオン		speaker
+clev30.0675	イオン	Ion	speaker
 clev30.068A	うるさい！{n}僕の邪魔をするから悪いんだ！		text
 clev30.06C1	ゾネ、モーント、スターン！　こいつを殺せ！！		text

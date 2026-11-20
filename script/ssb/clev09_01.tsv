@@ -4,24 +4,24 @@ clev09_01.005A	＄＄＄＄＄＄、俺はレイブンルフト城へ向かう�
 clev09_01.00BA	ＮＵＬＬ	NULL	speaker
 clev09_01.00CA	《今は……》{n}		
 clev09_01.00DE	《わかりました》{n}		
-clev09_01.0100	＄＄＄＄＄＄		speaker
+clev09_01.0100	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev09_01.0110	今でないといけませんか？{wait}{clear}		
 clev09_01.0134	クライヴ		speaker
 clev09_01.0140	悪いが……{n}やつを倒すことより優先できることはない。{wait}{clear}		
 clev09_01.0182	クライヴ		speaker
 clev09_01.018E	俺はやつを追い続けてきた。{n}それ以外のことに興味などない……。{wait}{clear}		
-clev09_01.01E0	＄＄＄＄＄＄		speaker
+clev09_01.01E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev09_01.01F0	わかりました……{wait}{clear}		
 clev09_01.020C	ＮＵＬＬ	NULL	speaker
 clev09_01.021C	《必ず帰ってきてください》{n}		
 clev09_01.023E	《ご武運を……》{n}		
-clev09_01.0260	＄＄＄＄＄＄		speaker
+clev09_01.0260	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev09_01.0270	でも、必ず帰ってきてください……。{wait}{clear}		
 clev09_01.02A2	クライヴ		speaker
 clev09_01.02AE	……ああ。{wait}{clear}		
 clev09_01.02C6	クライヴ		speaker
-clev09_01.02D2	…………。{wait}{clear}		
-clev09_01.02EA	＄＄＄＄＄＄		speaker
+clev09_01.02D2	…………。{wait}{clear}	.........{wait}{clear}	
+clev09_01.02EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev09_01.02FA	ご武運をお祈りします……。{wait}{clear}		
 clev09_01.0324	クライヴ		speaker
 clev09_01.0330	……すまない。{wait}{clear}		

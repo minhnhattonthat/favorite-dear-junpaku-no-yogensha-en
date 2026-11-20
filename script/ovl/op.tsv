@@ -8,19 +8,19 @@ op.8009B638	ベルゼバブと天竜との戦い		ptrx1
 op.8009B654	伝説の城		ptrx2
 op.8009B660	ホタルの光りにつつまれるレーパス。		ptrx1
 op.8009B684	やさしいかがやき		ptrx1
-op.8009B698	レーパス		ptrx1
+op.8009B698	レーパス	Lepus	ptrx1
 op.8009B6A4	タンポポに座ってスーツ姿でお茶を飲むシータス。		ptrx1
 op.8009B6D4	ティータイム		ptrx1
-op.8009B6E4	シータス		ptrx1
+op.8009B6E4	シータス	Cetus	ptrx1
 op.8009B6F0	アルマジロを天使にぶつけてしまったリンクス。		ptrx1
 op.8009B720	戦いの準備		ptrx1
-op.8009B72C	リンクス		ptrx1
+op.8009B72C	リンクス	Lynx	ptrx1
 op.8009B738	オウムと遊ぶアクイラ。		ptrx1
 op.8009B750	ストレス発散！		ptrx1
-op.8009B760	アクイラ		ptrx1
+op.8009B760	アクイラ	Aquila	ptrx1
 op.8009B76C	雪の夜にはしゃぐリリィ。		ptrx1
 op.8009B788	雪花		ptrx1
-op.8009B790	リリィ		ptrx1
+op.8009B790	リリィ	Lily	ptrx1
 op.8009B798	夕日を見つめて落ち込むシェリー。		ptrx1
 op.8009B7BC	ユウウツ		ptrx1
 op.8009B7C8	シェリー	Shelly	ptrx1

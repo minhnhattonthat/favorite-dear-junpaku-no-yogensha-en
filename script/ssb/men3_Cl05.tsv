@@ -1,22 +1,22 @@
 id	jp	en	notes
 men3_Cl05.005C	クライヴ		speaker
 men3_Cl05.0068	すまない……呼び出して。{wait}{clear}		
-men3_Cl05.0084	＄＄＄＄＄＄		speaker
+men3_Cl05.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl05.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men3_Cl05.00D2	クライヴ		speaker
 men3_Cl05.00DE	いや……これを……{n}銘刀のつばを、お前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
 men3_Cl05.013A	ＮＵＬＬ	NULL	speaker
 men3_Cl05.014A	《ありがとうございます。》{n}		
 men3_Cl05.016C	《戒律があるので……。》{n}		
-men3_Cl05.018C	＄＄＄＄＄＄		speaker
+men3_Cl05.018C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl05.019C	ありがとうございます。{wait}{clear}えっと、これは？{wait}{clear}		
 men3_Cl05.01D6	クライヴ		speaker
 men3_Cl05.01E2	ああ、お守りみたいなものだ……。{wait}{clear}		
-men3_Cl05.0206	＄＄＄＄＄＄		speaker
+men3_Cl05.0206	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl05.0216	そうですか。{n}では、いただいていきますね。{wait}{clear}本当にありがとうございました。{wait}{clear}		
-men3_Cl05.026A	＄＄＄＄＄＄		speaker
+men3_Cl05.026A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl05.027A	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Cl05.02DE	クライヴ		speaker
 men3_Cl05.02EA	そうか……。{n}なら、しかたがない。{wait}{clear}		
-men3_Cl05.0310	＄＄＄＄＄＄		speaker
+men3_Cl05.0310	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl05.0320	本当にすみません。{wait}{clear}		

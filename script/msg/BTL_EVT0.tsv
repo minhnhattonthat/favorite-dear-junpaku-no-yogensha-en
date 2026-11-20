@@ -733,9 +733,9 @@ BTL_EVT0.52B5S	レイブンルフト		speaker
 BTL_EVT0.52C4	無様な敗北者が……。		
 BTL_EVT0.5300S	フェイン		speaker
 BTL_EVT0.5309	強い魔導の力を利用されていたのか……？{n}くそっ……。		
-BTL_EVT0.5341S	イオン		speaker
+BTL_EVT0.5341S	イオン	Ion	speaker
 BTL_EVT0.5348	ぼくの邪魔をするから……。		
-BTL_EVT0.5366S	イオン		speaker
+BTL_EVT0.5366S	イオン	Ion	speaker
 BTL_EVT0.536D	ぼくの邪魔をするから……。		
 BTL_EVT0.53D3S	フェイン		speaker
 BTL_EVT0.53DC	セレニスが多くの人間の心を狂わせている……{n}なぜだ……		

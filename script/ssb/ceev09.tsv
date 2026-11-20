@@ -1,38 +1,38 @@
 id	jp	en	notes
-ceev09.004E	セシア		speaker
-ceev09.005C	これが……海なんですね……。{wait}{clear}		
-ceev09.0080	水が本当にどこまでも続いていて……{wait}{clear}		
-ceev09.00AA	きれい……。{wait}{clear}		
-ceev09.00C6	セシア		speaker
-ceev09.00D4	この景色、{n}聖母様も見たことがあったでしょうか……{wait}{clear}		
-ceev09.010A	セシア		speaker
-ceev09.0118	天使様！　泳いでいいですか？{wait}{clear}		
-ceev09.013C	海でも、川や湖と変わりなく泳げるのか{n}試してみたいんです。{wait}{clear}		
-ceev09.017A	＄＄＄＄＄＄		speaker
-ceev09.018A	ええ、いいですよ。{wait}{clear}		
-ceev09.01C8	セシア		speaker
-ceev09.01D6	気持ちいい……{wait}{clear}		
-ceev09.01EC	天使様も泳ぎませんか？{wait}{clear}		
+ceev09.004E	セシア	Cecia	speaker
+ceev09.005C	これが……海なんですね……。{wait}{clear}	So this... is the sea...{wait}{clear}	
+ceev09.0080	水が本当にどこまでも続いていて……{wait}{clear}	The water really goes on forever...{wait}{clear}	
+ceev09.00AA	きれい……。{wait}{clear}	It's beautiful...{wait}{clear}	
+ceev09.00C6	セシア	Cecia	speaker
+ceev09.00D4	この景色、{n}聖母様も見たことがあったでしょうか……{wait}{clear}	I wonder if the Holy Mother ever saw this{n}view...{wait}{clear}	
+ceev09.010A	セシア	Cecia	speaker
+ceev09.0118	天使様！　泳いでいいですか？{wait}{clear}	Angel! May I go swimming?{wait}{clear}	
+ceev09.013C	海でも、川や湖と変わりなく泳げるのか{n}試してみたいんです。{wait}{clear}	I want to see if I can swim in the sea just{n}like in a river or a lake.{wait}{clear}	
+ceev09.017A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev09.018A	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
+ceev09.01C8	セシア	Cecia	speaker
+ceev09.01D6	気持ちいい……{wait}{clear}	This feels wonderful...{wait}{clear}	
+ceev09.01EC	天使様も泳ぎませんか？{wait}{clear}	Won't you swim too, Angel?{wait}{clear}	
 ceev09.0206	ＮＵＬＬ	NULL	speaker
-ceev09.0216	《はい、泳ぎます。》{n}		
-ceev09.0232	《泳ぎはちょっと……。》{n}		
-ceev09.025C	＄＄＄＄＄＄		speaker
-ceev09.026C	せっかくですから、ちょっと泳ぎましょうか。{wait}{clear}		
-ceev09.029A	セシア		speaker
-ceev09.02A8	じゃあ一緒に{n}どれだけ遠くまでいけるか競争しましょう！{wait}{clear}		
-ceev09.02E6	先に行きますよ！{wait}{clear}		
-ceev09.031C	セシア		speaker
-ceev09.032A	楽しかったですね……天使様。{wait}{clear}		
-ceev09.034E	いつか森に戻ったとき{n}この海のことを村の子供たちに話してあげます……。{wait}{clear}		
-ceev09.039C	森以外の世界がどうなっているのか{n}きっと知りたいはずですから。{wait}{clear}		
-ceev09.03DE	＄＄＄＄＄＄		speaker
-ceev09.03EE	そうしてあげてください。{wait}{clear}		
-ceev09.040A	セシア		speaker
-ceev09.0418	天使様、今日はありがとう。{wait}{clear}		
-ceev09.043A	とても、うれしかったです。{n}一緒に楽しい時間が過ごせて……。{wait}{clear}		
-ceev09.048A	＄＄＄＄＄＄		speaker
-ceev09.049A	すみません、水は苦手なものですから……。{wait}{clear}		
-ceev09.04C6	セシア		speaker
-ceev09.04D4	そうですか……。{wait}{clear}		
-ceev09.04EC	私、どこまで遠くへ泳げるか試してみます。{wait}{clear}		
-ceev09.051C	じゃあ！{wait}{clear}		
+ceev09.0216	《はい、泳ぎます。》{n}	Yes, I'll swim.{n}	
+ceev09.0232	《泳ぎはちょっと……。》{n}	Swimming isn't for me...{n}	
+ceev09.025C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev09.026C	せっかくですから、ちょっと泳ぎましょうか。{wait}{clear}	Since we're here, let's have a little swim.{wait}{clear}	
+ceev09.029A	セシア	Cecia	speaker
+ceev09.02A8	じゃあ一緒に{n}どれだけ遠くまでいけるか競争しましょう！{wait}{clear}	Then let's race and see how far out we can{n}go!{wait}{clear}	
+ceev09.02E6	先に行きますよ！{wait}{clear}	I'm going ahead!{wait}{clear}	
+ceev09.031C	セシア	Cecia	speaker
+ceev09.032A	楽しかったですね……天使様。{wait}{clear}	That was fun... wasn't it, Angel?{wait}{clear}	
+ceev09.034E	いつか森に戻ったとき{n}この海のことを村の子供たちに話してあげます……。{wait}{clear}	Someday, when I go back to the forest, I'll{n}tell the village children about this sea...{wait}{clear}	
+ceev09.039C	森以外の世界がどうなっているのか{n}きっと知りたいはずですから。{wait}{clear}	I'm sure they'll want to know what the world{n}outside the forest is like.{wait}{clear}	
+ceev09.03DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev09.03EE	そうしてあげてください。{wait}{clear}	Please do.{wait}{clear}	
+ceev09.040A	セシア	Cecia	speaker
+ceev09.0418	天使様、今日はありがとう。{wait}{clear}	Thank you for today, Angel.{wait}{clear}	
+ceev09.043A	とても、うれしかったです。{n}一緒に楽しい時間が過ごせて……。{wait}{clear}	I was so happy. Spending such a fun time{n}together...{wait}{clear}	
+ceev09.048A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev09.049A	すみません、水は苦手なものですから……。{wait}{clear}	I'm sorry; water and I don't get along...{wait}{clear}	
+ceev09.04C6	セシア	Cecia	speaker
+ceev09.04D4	そうですか……。{wait}{clear}	I see...{wait}{clear}	
+ceev09.04EC	私、どこまで遠くへ泳げるか試してみます。{wait}{clear}	I'll see how far I can swim.{wait}{clear}	
+ceev09.051C	じゃあ！{wait}{clear}	Here I go!{wait}{clear}	

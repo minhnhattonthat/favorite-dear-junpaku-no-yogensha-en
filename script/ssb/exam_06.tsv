@@ -10,13 +10,13 @@ exam_06.012E	ＮＵＬＬ	NULL	speaker
 exam_06.0158	ルディエール		speaker
 exam_06.0168	きっと伝説を利用して{n}自分の欲望を果たそうと{n}しているに違いない。{wait}{clear}		
 exam_06.01B6	ＮＵＬＬ	NULL	speaker
-exam_06.01E0	セシア		speaker
-exam_06.01EA	大丈夫、もう平気よ、{wait}{clear}		
-exam_06.0204	イオン		speaker
-exam_06.020E	…………。{wait}{clear}		
+exam_06.01E0	セシア	Cecia	speaker
+exam_06.01EA	大丈夫、もう平気よ、{wait}{clear}	It's all right, you're safe now.{wait}{clear}	
+exam_06.0204	イオン	Ion	speaker
+exam_06.020E	…………。{wait}{clear}	.........{wait}{clear}	
 exam_06.0224	ＮＵＬＬ	NULL	speaker
 exam_06.024E	レイラ		speaker
-exam_06.0258	…………。{wait}{clear}		
+exam_06.0258	…………。{wait}{clear}	.........{wait}{clear}	
 exam_06.026A	ＮＵＬＬ	NULL	speaker
 exam_06.0294	ルディエール		speaker
 exam_06.02A4	そんなばかな……。{wait}{clear}		

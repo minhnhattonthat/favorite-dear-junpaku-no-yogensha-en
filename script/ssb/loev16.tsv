@@ -4,12 +4,12 @@ loev16.024A	……おれは、彼女との約束を{n}果たせなかった。{w
 loev16.029C	ＮＵＬＬ	NULL	speaker
 loev16.02AC	《最善はつくした》{n}		
 loev16.02C6	《鎧の呪いは……》{n}		
-loev16.02E6	＄＄＄＄＄＄		speaker
+loev16.02E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev16.02F6	最善はつくしたと思います{n}ルディ……。{wait}{clear}ただ、サヴィオの力とあの呪いが……{n}悲劇を生んだのです……{wait}{clear}		
 loev16.035E	ルディエール		speaker
 loev16.036E	これ以上……{n}こんな風に人が……死んでいくなんて{wait}{clear}おれは……{wait}{clear}		
 loev16.03BC	くっ……{n}戦い続けなきゃいけないんだよな。{wait}{clear}おれにできることは{n}それしかないんだから……{wait}{clear}		
-loev16.0436	＄＄＄＄＄＄		speaker
+loev16.0436	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev16.0446	鎧の呪いは強力でした……{wait}{clear}悲劇の原因はどこかにいる{n}魔をあやつる人物です。{wait}{clear}		
 loev16.0496	ルディエール		speaker
 loev16.04A6	おれは……{n}ここで逃げるわけにはいけない……{wait}{clear}敵はまだ同じようなことをして{n}多くの人を苦しめてるんだ。{wait}{clear}それはわかってる……{wait}{clear}でも、おれは……。{wait}{clear}…………。{wait}{clear}		

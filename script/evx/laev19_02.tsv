@@ -1,12 +1,12 @@
 id	jp	en	notes
 laev19_02.0002	1		dev label (guess: not shown)
 laev19_02.00A2	レイラ		unit name (32-byte field)
-laev19_02.00DE	セシア		unit name (32-byte field)
+laev19_02.00DE	セシア	Cecia	unit name (32-byte field)
 laev19_02.0530	レイラ		speaker
 laev19_02.0545	あなたは、この前の……。		text
-laev19_02.056C	セシア		speaker
+laev19_02.056C	セシア	Cecia	speaker
 laev19_02.0581	あのときはとても失礼なことを言ってしまって、{n}本当に、すみませんでした。{n}あなたが悩んでいることも知らず……。		text
 laev19_02.05FE	レイラ		speaker
 laev19_02.0613	いえ、いいの。{n}自分の国が変わっていく様を、{n}止められなかったのは事実だから……。		text
-laev19_02.0674	セシア		speaker
+laev19_02.0674	セシア	Cecia	speaker
 laev19_02.0689	いいえ、あなたは努力したはずです。{n}どうか、これからも世界に平和が戻るよう、{n}ともにがんばっていきましょう。		text

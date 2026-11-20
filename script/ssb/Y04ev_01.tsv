@@ -1,42 +1,42 @@
 id	jp	en	notes
-Y04ev_01.0016	＄＄＄＄＄＄		speaker
+Y04ev_01.0016	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.0026	今日は、空気が冴えてますね……。{n}そして、いい月……。{wait}{clear}		
-Y04ev_01.0060	リリィ		speaker
+Y04ev_01.0060	リリィ	Lily	speaker
 Y04ev_01.006E	ふふふ……。{wait}{clear}		
-Y04ev_01.007E	＄＄＄＄＄＄		speaker
+Y04ev_01.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.008E	ん？{wait}{clear}		
-Y04ev_01.0096	リリィ		speaker
+Y04ev_01.0096	リリィ	Lily	speaker
 Y04ev_01.00A4	う～ん、気持ちいい……。{wait}{clear}		
-Y04ev_01.00C0	＄＄＄＄＄＄		speaker
+Y04ev_01.00C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.00D0	リリィのようですね……。{n}ちょっと、行ってみましょう……。{wait}{clear}		
-Y04ev_01.0134	＄＄＄＄＄＄		speaker
+Y04ev_01.0134	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.0144	リリィ……ですか？{wait}{clear}		
-Y04ev_01.015A	リリィ		speaker
+Y04ev_01.015A	リリィ	Lily	speaker
 Y04ev_01.0168	あ、天使様？{n}どうされたんですか？　こんな夜ふけに。{wait}{clear}		
-Y04ev_01.01A0	＄＄＄＄＄＄		speaker
+Y04ev_01.01A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.01B0	いえ、あなたの声が聞こえたものですから……。{n}あなたこそ、こんなところでどうしたのですか？{wait}{clear}		
-Y04ev_01.020E	リリィ		speaker
+Y04ev_01.020E	リリィ	Lily	speaker
 Y04ev_01.021C	ふふ……。{n}とってもきれいな月だったものですから、{n}ちょっと遊びたくなったんです。{wait}{clear}		
 Y04ev_01.0276	それに、この雪……。{n}真っ白でサラサラして……。{wait}{clear}		
 Y04ev_01.02AE	なんだか、とっても幻想的でしょう？{n}それで、なんとなくはしゃぎたくなったんです。{wait}{clear}		
-Y04ev_01.0302	＄＄＄＄＄＄		speaker
+Y04ev_01.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.0312	でも、本当にすてきですね……今夜は。{wait}{clear}		
-Y04ev_01.033A	リリィ		speaker
+Y04ev_01.033A	リリィ	Lily	speaker
 Y04ev_01.0348	はい。{n}こんな美しい景色は、壊したくないです……。{wait}{clear}		
-Y04ev_01.037E	＄＄＄＄＄＄		speaker
+Y04ev_01.037E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.038E	リリィ……。{wait}{clear}		
-Y04ev_01.03C6	リリィ		speaker
+Y04ev_01.03C6	リリィ	Lily	speaker
 Y04ev_01.03D4	はぁ、楽しかった……。{n}それにしても、天使様、寒くないんですか？{wait}{clear}		
-Y04ev_01.0418	＄＄＄＄＄＄		speaker
+Y04ev_01.0418	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.0428	リリィこそ、そんなかっこうで寒くないんですか？{wait}{clear}		
-Y04ev_01.045A	リリィ		speaker
+Y04ev_01.045A	リリィ	Lily	speaker
 Y04ev_01.0468	ええ、平気です。{n}私たちも天使様も、{n}気候には左右されないってことですね。{wait}{clear}		
-Y04ev_01.04B6	＄＄＄＄＄＄		speaker
+Y04ev_01.04B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.04C6	そうですね。{n}私たちは、寒いとか暑いとかで、{n}仕事ができないとは言えませんからね。{wait}{clear}		
-Y04ev_01.051C	リリィ		speaker
+Y04ev_01.051C	リリィ	Lily	speaker
 Y04ev_01.052A	ふふふ……そうですね。{wait}{clear}		
-Y04ev_01.054E	＄＄＄＄＄＄		speaker
+Y04ev_01.054E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.055E	それにしても、リリィはお休みといえば、{n}のんびりしているものとばかり{n}思っていたんですけどね。{wait}{clear}		
-Y04ev_01.05C0	リリィ		speaker
+Y04ev_01.05C0	リリィ	Lily	speaker
 Y04ev_01.05CE	天使様、失礼ですね。{n}私だって、{n}いつもいつも寝ているわけじゃないんですよ。{wait}{clear}		
 Y04ev_01.0622	いろんな、のんびりがあるんです！{wait}{clear}		

@@ -1,15 +1,15 @@
 id	jp	en	notes
 eiev09_02.0002	聖母2		dev label (guess: not shown)
 eiev09_02.00A2	アイリーン		unit name (32-byte field)
-eiev09_02.00DE	聖母		unit name (32-byte field)
-eiev09_02.011A	イオン		unit name (32-byte field)
+eiev09_02.00DE	聖母	Holy Mother	unit name (32-byte field)
+eiev09_02.011A	イオン	Ion	unit name (32-byte field)
 eiev09_02.04D8	アイリーン		speaker
 eiev09_02.04F1	あなたがこんなことを！？		text
-eiev09_02.052C	イオン		speaker
+eiev09_02.052C	イオン	Ion	speaker
 eiev09_02.0541	…………。		text
 eiev09_02.05FA	アイリーン		speaker
 eiev09_02.0613	聖母様！		text
-eiev09_02.064A	聖母		speaker
+eiev09_02.064A	聖母	Holy Mother	speaker
 eiev09_02.065D	……魔石を奪われてしまいました。		text
 eiev09_02.068C	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
 eiev09_02.0701	そうなってしまっては、世界は破滅してしまいます。		text

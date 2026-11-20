@@ -1,15 +1,15 @@
 id	jp	en	notes
 roev19_02.0002	聖母2		dev label (guess: not shown)
 roev19_02.00A2	ロクス		unit name (32-byte field)
-roev19_02.00DE	聖母		unit name (32-byte field)
-roev19_02.011A	イオン		unit name (32-byte field)
+roev19_02.00DE	聖母	Holy Mother	unit name (32-byte field)
+roev19_02.011A	イオン	Ion	unit name (32-byte field)
 roev19_02.04D8	フェイン		speaker
 roev19_02.04EF	何をしている！		text
-roev19_02.0520	イオン		speaker
+roev19_02.0520	イオン	Ion	speaker
 roev19_02.0535	なんだ、お前。		text
 roev19_02.0552	ロクス		speaker
 roev19_02.0567	子供！？{n}なぜこんな事を……。		text
-roev19_02.0594	イオン		speaker
+roev19_02.0594	イオン	Ion	speaker
 roev19_02.05A9	ぼくの邪魔をすれば殺す。		text
 roev19_02.05D0	ロクス		speaker
 roev19_02.05E5	お前がディアナ様を手にかけたのか？		text

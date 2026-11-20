@@ -8,8 +8,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
   menu buttons ~12-14, help bar ~40. Glyph torture line renders all 84 glyphs (`work/qa/p5/torture/zoom.png`).
   Marker build reached all 66 scenes (game_over/game_over2 added). New `build.py --ruler-min N` stretches every
   line to N letters for clip tests. Non-text rows excluded: debug printfs, memory-card titles, printf `%s`.
-- **Next (phase 6):** translate in batches with the plugin's translator agents (no nested workers under Orca: do
-  it yourself in batches), glossary from `../favorite-dear-en`. Budgets above; BTL_EVT banks have a 64 KB cap
+- **Phase 6 progress (2026-11-21):** `tools/batches.py` split the script into 92 batches (b001-b092, ~3500 JP chars
+  each; one row per distinct JP, merge copies it to every duplicate; order ssb, msg, evx, end, misc, ovl, exe).
+  Done: **b001-b004** (alkaya fairy intros for Rosa, Florinda, Shelly, Lily, Lynx, Aquila, Cetus, Lepus; Cecia's
+  ceed01/ceev01-10). `batches.py todo` lists the rest. Workflow per batch (no subagents under Orca): Read
+  `trans/batches/bNNN.tsv` in ~25-50-line parts, write `trans/parts/bNNN_K.tsv` (id<TAB>en), join with
+  `(echo -e "id\ten"; cat trans/parts/bNNN_*.tsv) > trans/en/bNNN.tsv`, `batches.py check bNNN`, then `merge` and
+  `build.py`. ~4 batches fit one worker context; brief in `docs/translator-brief.md`, terms in `glossary.md` (seeded
+  this session: heroes Fein, Irene, Rocus, Clive, Leyla, Rudiere, Cecia; places Grosain, Ecclesia, Six Kingdoms
+  Alliance, Legrance, Reyforia Forest...; extend it as names appear).
+  Open for phase 7: merge's wrap adds `{wait}{clear}` pages when a page runs over 3 lines, which can leave a
+  one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; the grown ssb files are not boot-tested
+  yet (script buffer size unknown). No `docs/synopsis.md` / style reference yet: write them once the story
+  scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
+- **Next (phase 6):** continue at b005 (`batches.py todo`). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

@@ -1,16 +1,16 @@
 id	jp	en	notes
-clev11.004C	＄＄＄＄＄＄		speaker
+clev11.004C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.005C	きれいですね……。{n}こんなに美しい景色、初めて見ます。{wait}{clear}……クライヴ。{wait}{clear}		
 clev11.00B8	クライヴ		speaker
-clev11.00C4	…………。{wait}{clear}		
-clev11.00D2	＄＄＄＄＄＄		speaker
+clev11.00C4	…………。{wait}{clear}	.........{wait}{clear}	
+clev11.00D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.00E2	……あなたの話を聞かせてくれませんか？{wait}{clear}		
 clev11.010C	クライヴ		speaker
 clev11.011C	たいした話などない……。{wait}{clear}		
 clev11.0138	ＮＵＬＬ	NULL	speaker
 clev11.0148	《どうして私と戦ってくれるのです？》{n}		
 clev11.0174	《なぜ、何も話してくれないのです？》{n}		
-clev11.01AA	＄＄＄＄＄＄		speaker
+clev11.01AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.01BA	あなたはどうして{n}私と戦ってくれるのですか？{wait}{clear}		
 clev11.01EA	クライヴ		speaker
 clev11.01FA	君を初めて見たとき……{wait}{clear}		
@@ -18,21 +18,21 @@ clev11.0218	幼い頃、俺を育てたばあさんが{n}よく聞かせてく�
 clev11.0260	昔、地上が闇に包まれたとき、{n}天から光を運んだ翼を持った天使の話だ。{wait}{clear}		
 clev11.02AC	信心深かった彼女は、{n}繰り返しその伝説を俺に話した……。{wait}{clear}		
 clev11.02EC	ずっと忘れていた思い出だった。{n}ただ、それだけだ……。{wait}{clear}		
-clev11.0326	＄＄＄＄＄＄		speaker
+clev11.0326	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0336	おばあさんの思い出は大切ですか？{wait}{clear}		
 clev11.035A	クライヴ		speaker
 clev11.036A	大切？{wait}{clear}		
 clev11.0378	……今の俺になにかを大切に思うなんて{n}できない……{wait}{clear}		
-clev11.03AE	＄＄＄＄＄＄		speaker
+clev11.03AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.03BE	なぜです？{wait}{clear}		
 clev11.03CC	クライヴ		speaker
 clev11.03DC	俺はすべてを失った……。{n}もうなにも思うこともない……{wait}{clear}		
-clev11.0420	＄＄＄＄＄＄		speaker
+clev11.0420	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0430	なぜ、何も語ってくれないのです？{wait}{clear}ずっと聞きたかったのです……{n}あなたがどうして、そう心を閉ざすのか……{wait}{clear}		
 clev11.049E	クライヴ		speaker
 clev11.04AE	俺のことなどどうでもいい……{wait}{clear}		
 clev11.04D2	俺にはもう……{n}語る言葉など持っていない……。{wait}{clear}		
-clev11.0504	＄＄＄＄＄＄		speaker
+clev11.0504	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0514	なぜです？{wait}{clear}		
 clev11.0522	クライヴ		speaker
 clev11.0532	俺はすべてを失った……。{wait}{clear}		
@@ -40,7 +40,7 @@ clev11.0552	もうこれ以上……語ることもない……{wait}{clear}
 clev11.057C	遅かれ早かれ、俺はこの血に負けるか、{n}やつらに殺されるかして死ぬだろう……。{wait}{clear}		
 clev11.05D0	今、俺が望むただ一つのことは……{wait}{clear}		
 clev11.05F8	できるだけ多くの吸血鬼どもと{n}地獄へ行くことだ……。{wait}{clear}		
-clev11.0630	＄＄＄＄＄＄		speaker
+clev11.0630	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0640	クライヴ…{n}そんな……あなたは……{wait}{clear}		
 clev11.0672	クライヴ		speaker
 clev11.0682	君に俺のなにがわかる？{wait}{clear}		
@@ -48,14 +48,14 @@ clev11.06A0	君はやつらが俺から奪ったものを知らないし、{n}�
 clev11.0700	俺の母親を犯し、育てくれた老夫婦を殺し、{n}師を俺の手で殺させた……。{wait}{clear}		
 clev11.074C	俺の心は怒りでできてる。{n}だがこの怒りが{n}俺の中のやつらの血を呼び覚ます……。{wait}{clear}		
 clev11.07A2	怒りに飲み込まれないようにするのも限界だ……。{n}もう、どうにもならない……。{wait}{clear}		
-clev11.07F2	＄＄＄＄＄＄		speaker
+clev11.07F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0802	クライヴ……{wait}{clear}		
 clev11.081E	クライヴ		speaker
 clev11.082E	それに死ねば……{n}この苦しみからは逃れられる……。{wait}{clear}		
 clev11.0864	ＮＵＬＬ	NULL	speaker
 clev11.0874	《苦しみを黙ってこらえないで》{n}		
 clev11.089A	《あきらめないで》{n}		
-clev11.08BE	＄＄＄＄＄＄		speaker
+clev11.08BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.08CE	私は、あなたの苦しみを{n}すべて理解することはできません……。{wait}{clear}ただ、私はあなたが……{wait}{clear}そうやって苦しみを黙ってこらえる姿に{n}耐えられないのです。{wait}{clear}		
 clev11.0966	クライヴ		speaker
 clev11.0976	俺は……{n}君が思うほど強くはない……。{wait}{clear}		
@@ -63,21 +63,21 @@ clev11.09A4	ただ、今の苦しみから{n}逃れられることだけを考�
 clev11.09E2	戦いは俺の怒りを癒すから……{n}だから俺は戦う……。{wait}{clear}		
 clev11.0A1C	決してなにかのために{n}戦っているんじゃない……。{wait}{clear}		
 clev11.0A54	だから{n}もう、俺にかまわないでくれ………。{wait}{clear}		
-clev11.0A9E	＄＄＄＄＄＄		speaker
+clev11.0A9E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0AAE	きっと……{n}あなたの苦しみを取り除く方法があるはずです。{wait}{clear}どうかあきらめないで……{wait}{clear}		
 clev11.0B12	クライヴ		speaker
 clev11.0B22	……死、以外にか？{wait}{clear}		
-clev11.0B38	＄＄＄＄＄＄		speaker
+clev11.0B38	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0B48	そうです……{n}だから、生きることを{n}はじめから投げ出さないでください……{wait}{clear}お願いです……。{wait}{clear}		
 clev11.0BB4	クライヴ		speaker
 clev11.0BC4	俺は……そんなに強くはなれない……{wait}{clear}		
 clev11.0BEE	怖いんだ……{wait}{clear}		
 clev11.0C02	あの狂気に取り込まれ、闇に落ちることが……{wait}{clear}		
-clev11.0C30	＄＄＄＄＄＄		speaker
+clev11.0C30	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0C40	信じてください……クライヴ。{n}自分を、未来を。{wait}{clear}まだ時間はあるはずです……{n}必ず一緒に乗り越えましょう。{wait}{clear}		
 clev11.0CAE	クライヴ		speaker
-clev11.0CBA	…………。{wait}{clear}		
-clev11.0CC8	＄＄＄＄＄＄		speaker
+clev11.0CBA	…………。{wait}{clear}	.........{wait}{clear}	
+clev11.0CC8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev11.0CD8	私は、未来とあなたを信じています。{wait}{clear}		
 clev11.0D0A	クライヴ		speaker
 clev11.0D1A	すまない……。{wait}{clear}		

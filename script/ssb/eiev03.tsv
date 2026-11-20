@@ -1,14 +1,14 @@
 id	jp	en	notes
 eiev03.003C	アイリーン		speaker
 eiev03.004E	ここ、デルフィニア山の近くね。{wait}{clear}		
-eiev03.0070	＄＄＄＄＄＄		speaker
+eiev03.0070	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev03.0080	デルフィニア山？{wait}{clear}アイリーンがそんな風に言うなんて、{n}なにかいわれのある場所なのですか？{wait}{clear}		
 eiev03.00EC	アイリーン		speaker
 eiev03.00FE	デルフィニア山はね、{n}あの紅月王が魔石を初めて見つけたところよ。{wait}{clear}		
 eiev03.0142	ＮＵＬＬ	NULL	speaker
 eiev03.0152	《紅月王とは？》{n}		
 eiev03.016A	《魔石とは？》{n}		
-eiev03.0180	＄＄＄＄＄＄		speaker
+eiev03.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev03.0190	紅月王とは誰ですか？{wait}{clear}		
 eiev03.01A8	アイリーン		speaker
 eiev03.01BA	今のグローサイン帝国を建国したといわれてる{n}伝説の皇帝のこと。{wait}{clear}		

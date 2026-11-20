@@ -1,31 +1,31 @@
 id	jp	en	notes
-ceev10_03.00FA	セシア		speaker
+ceev10_03.00FA	セシア	Cecia	speaker
 ceev10_03.0104	天使様……、聖母を継ぐための{n}儀式を行うことになりました。{wait}{clear}		
-ceev10_03.0142	＄＄＄＄＄＄		speaker
+ceev10_03.0142	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.0152	その儀式とはどういうものなのですか？{wait}{clear}		
-ceev10_03.017A	セシア		speaker
+ceev10_03.017A	セシア	Cecia	speaker
 ceev10_03.0184	それは……{n}聖母様から、聖母としての記憶を受け継ぐのです。{wait}{clear}		
-ceev10_03.01C2	＄＄＄＄＄＄		speaker
+ceev10_03.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.01D2	記憶を受け継ぐ？{wait}{clear}		
-ceev10_03.01E6	セシア		speaker
+ceev10_03.01E6	セシア	Cecia	speaker
 ceev10_03.01F0	はい……そうです。{n}聖母様……いえ、聖ディアナ様の記憶を{n}受け継ぐのです。{wait}{clear}ですが……。{wait}{clear}		
-ceev10_03.025C	セシア		speaker
+ceev10_03.025C	セシア	Cecia	speaker
 ceev10_03.026A	天使様……私……どうしたらいいか……。{wait}{clear}		
-ceev10_03.0294	＄＄＄＄＄＄		speaker
+ceev10_03.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.02A4	セシア……。{n}すみません、私はなにも言うことができません……。{wait}{clear}ただ、ひとつだけ言えることは、{n}あなた自身の心に従うことがいいことだと思います。{wait}{clear}		
-ceev10_03.033A	セシア		speaker
+ceev10_03.033A	セシア	Cecia	speaker
 ceev10_03.0348	むしろ、誇りに思います……。{n}聖母に選ばれるのですから……。{wait}{clear}		
 ceev10_03.038C	ただ、あまりに突然で……{n}私にそれがつとまるかどうか……。{wait}{clear}		
 ceev10_03.03DE	ＮＵＬＬ	NULL	speaker
 ceev10_03.03EE	《迷うのはわかります。》{n}		
 ceev10_03.040E	《きっと大丈夫ですよ。》{n}		
-ceev10_03.0438	＄＄＄＄＄＄		speaker
+ceev10_03.0438	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.0448	迷う気持ちはわかります。{wait}{clear}ですが、セシア……自分を信じてください。{n}あなたには……{n}あなたにしかできないことがあるのですから。{wait}{clear}		
-ceev10_03.04D6	＄＄＄＄＄＄		speaker
+ceev10_03.04D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.04E6	大丈夫ですよ。{n}きっとセシアなら立派な聖母になれるでしょう。{wait}{clear}私はそう思います。{wait}{clear}		
-ceev10_03.054A	セシア		speaker
+ceev10_03.054A	セシア	Cecia	speaker
 ceev10_03.0558	…………。{n}ありがとうございます……天使様。{wait}{clear}		
-ceev10_03.0592	セシア		speaker
+ceev10_03.0592	セシア	Cecia	speaker
 ceev10_03.05A0	ただ……不安なのです。{wait}{clear}		
 ceev10_03.05BE	私が聖母さまの記憶を受け継いだとき……{wait}{clear}		
 ceev10_03.05EC	私は、私でいられるのでしょうか……。{wait}{clear}		
@@ -39,22 +39,22 @@ ceev10_03.06DA	最後に私が私であるうちに……{n}あなたに……{w
 ceev10_03.0708	ＮＵＬＬ	NULL	speaker
 ceev10_03.0718	《セシアにキスする》{n}		
 ceev10_03.0734	《セシアを抱きしめる》{n}		
-ceev10_03.078C	セシア		speaker
+ceev10_03.078C	セシア	Cecia	speaker
 ceev10_03.079A	天使様……ありがとう。{wait}{clear}		
 ceev10_03.07B8	これで、私……{n}心を決めることができると思います……。{wait}{clear}		
-ceev10_03.082C	聖母		speaker
+ceev10_03.082C	聖母	Holy Mother	speaker
 ceev10_03.0834	目を閉じて、私に意識をあずけなさい。{wait}{clear}		
-ceev10_03.085C	セシア		speaker
-ceev10_03.0866	はい……。{wait}{clear}		
-ceev10_03.08D6	＄＄＄＄＄＄		speaker
+ceev10_03.085C	セシア	Cecia	speaker
+ceev10_03.0866	はい……。{wait}{clear}	Yes...{wait}{clear}	
+ceev10_03.08D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.08E6	セシア、その瞳の色は……。{wait}{clear}		
-ceev10_03.0904	セシア		speaker
+ceev10_03.0904	セシア	Cecia	speaker
 ceev10_03.090E	これが証です。{n}ディアナ様の記憶を受け継いだ者の……{n}聖母の証です。{wait}{clear}私は、すべてを受け取りました。{n}ディアナ様の記憶をすべて……。{wait}{clear}		
-ceev10_03.0998	＄＄＄＄＄＄		speaker
+ceev10_03.0998	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.09A8	その記憶というのは……？{wait}{clear}		
-ceev10_03.09C4	セシア		speaker
+ceev10_03.09C4	セシア	Cecia	speaker
 ceev10_03.09CE	それは、少しずつお話します……。{n}今は、まだ……。{wait}{clear}		
-ceev10_03.0A04	＄＄＄＄＄＄		speaker
+ceev10_03.0A04	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_03.0A14	セシア……。{wait}{clear}		
-ceev10_03.0A32	セシア		speaker
+ceev10_03.0A32	セシア	Cecia	speaker
 ceev10_03.0A3C	心配しないでください。{wait}{clear}この聖母様から受け継いだ知識と力で{n}この世界に秩序を取り戻せるよう、努力します。{wait}{clear}天使様、どうか、見守っていてください。{wait}{clear}		

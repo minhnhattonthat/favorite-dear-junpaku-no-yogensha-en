@@ -1,23 +1,23 @@
 id	jp	en	notes
 men3_Ro05.005C	ロクス		speaker
 men3_Ro05.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
-men3_Ro05.00A4	＄＄＄＄＄＄		speaker
+men3_Ro05.00A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro05.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
 men3_Ro05.00D8	ロクス		speaker
 men3_Ro05.00E2	いや、べつになにもないよ。{n}ただ、この金のメダイユを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
 men3_Ro05.0148	ＮＵＬＬ	NULL	speaker
 men3_Ro05.0158	《ありがとうございます。》{n}		
 men3_Ro05.017A	《戒律があるので……。》{n}		
-men3_Ro05.019A	＄＄＄＄＄＄		speaker
+men3_Ro05.019A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro05.01AA	ありがとうございます。{n}これはお守りですね。{wait}{clear}		
 men3_Ro05.01E6	ロクス		speaker
 men3_Ro05.01F0	ああ、そうだ。{n}大聖堂に巡礼に来た信徒たちに、{n}とても気に入られているものらしい。{wait}{clear}		
 men3_Ro05.0252	こんなものでも、少しはなにかの役に立つか？{wait}{clear}		
-men3_Ro05.0280	＄＄＄＄＄＄		speaker
+men3_Ro05.0280	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro05.0290	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
-men3_Ro05.02CA	＄＄＄＄＄＄		speaker
+men3_Ro05.02CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro05.02DA	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Ro05.034A	ロクス		speaker
 men3_Ro05.0354	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
-men3_Ro05.0386	＄＄＄＄＄＄		speaker
+men3_Ro05.0386	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro05.0396	本当にすみません……。{wait}{clear}		

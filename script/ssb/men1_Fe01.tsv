@@ -1,28 +1,28 @@
 id	jp	en	notes
 men1_Fe01.0052	フェイン		speaker
 men1_Fe01.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
-men1_Fe01.0082	＄＄＄＄＄＄		speaker
+men1_Fe01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.0092	ええ……{n}妖精からなにか話があると聞いたのですが。{wait}{clear}		
 men1_Fe01.00C8	フェイン		speaker
 men1_Fe01.00D4	いや……{n}実は天使としての君の心構えを知りたくて{n}呼んでもらったのだ。{wait}{clear}		
 men1_Fe01.011E	ＮＵＬＬ	NULL	speaker
 men1_Fe01.012E	《そうだったのですか……。》{n}		
 men1_Fe01.0152	《これでなにかわかりましたか？》{n}		
-men1_Fe01.017A	＄＄＄＄＄＄		speaker
+men1_Fe01.017A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.018A	そうだったのですか……。{wait}{clear}やはり人間のフェインにとって、{n}天使という存在は異質なものなのでしょうか……。{wait}{clear}		
 men1_Fe01.01F8	フェイン		speaker
 men1_Fe01.0204	いや……{n}確かに俺たちとは違うと思うが、{n}理解し合えると思っている。{wait}{clear}君の気持ちを疑うようなことをして、{n}すまなかった……。{wait}{clear}		
-men1_Fe01.0286	＄＄＄＄＄＄		speaker
+men1_Fe01.0286	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.0296	いいえ。{n}これでフェインに私たちのことが{n}少しでもわかってもらえたら、それでいいです。{wait}{clear}		
 men1_Fe01.02F0	フェイン		speaker
 men1_Fe01.02FC	そうか……。		
-men1_Fe01.030C	＄＄＄＄＄＄		speaker
+men1_Fe01.030C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.031C	これでなにかわかってもらえましたか？{wait}{clear}		
 men1_Fe01.0344	フェイン		speaker
 men1_Fe01.0350	気分を害させるようなことをして、すまなかった。{n}ただ、そういうふうに感情が表れるのを知って、{n}かえって安心した。{wait}{clear}		
-men1_Fe01.03C4	＄＄＄＄＄＄		speaker
-men1_Fe01.03D4	え？{wait}{clear}		
+men1_Fe01.03C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+men1_Fe01.03D4	え？{wait}{clear}	What?{wait}{clear}	
 men1_Fe01.03DC	フェイン		speaker
 men1_Fe01.03E8	君も俺たちと気持ちは変わらないということが{n}はっきりわかったからな。{n}これからは、もっとお互いを理解し合えるだろう。{wait}{clear}		
-men1_Fe01.0460	＄＄＄＄＄＄		speaker
+men1_Fe01.0460	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Fe01.0470	そうですね……そう思っていただけるなら、{n}私もフェインに会いに来てよかったです。{wait}{clear}		

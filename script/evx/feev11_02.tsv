@@ -1,19 +1,19 @@
 id	jp	en	notes
 feev11_02.0002	聖母2		dev label (guess: not shown)
 feev11_02.00A2	フェイン		unit name (32-byte field)
-feev11_02.00DE	聖母		unit name (32-byte field)
-feev11_02.011A	イオン		unit name (32-byte field)
+feev11_02.00DE	聖母	Holy Mother	unit name (32-byte field)
+feev11_02.011A	イオン	Ion	unit name (32-byte field)
 feev11_02.04E8	フェイン		speaker
 feev11_02.04FF	お前！		text
-feev11_02.0528	イオン		speaker
+feev11_02.0528	イオン	Ion	speaker
 feev11_02.053D	…………。		text
 feev11_02.05F6	フェイン		speaker
 feev11_02.060D	ディアナ様！		text
-feev11_02.0648	聖母		speaker
+feev11_02.0648	聖母	Holy Mother	speaker
 feev11_02.065B	ああ、フェイン……{n}魔石を奪われてしまいました。		text
 feev11_02.069A	フェイン		speaker
 feev11_02.06B1	魔石……！？{n}魔石はディアナ様が……。		text
-feev11_02.06E6	聖母		speaker
+feev11_02.06E6	聖母	Holy Mother	speaker
 feev11_02.06F9	そんなことよりも、フェイン……{n}怖れていたことが起ころうとしています。{n}彼らは天竜をよみがえらせるつもりです。		text
 feev11_02.0776	魔石がすべて集まれば、{n}世界は滅びてしまうかもしれません……。		text
 feev11_02.07C3	フェイン……どうか天使様とともに{n}世界を守ってください……。		text

@@ -1,16 +1,16 @@
 id	jp	en	notes
-laev08.0048	＄＄＄＄＄＄		speaker
+laev08.0048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.0058	レイラ、ぼんやりしてどうしたのです？{n}なにかあったのですか？{wait}{clear}		
 laev08.0098	レイラ		speaker
 laev08.00A6	昔のことをね……{n}ちょっと、思い出していたの……。{wait}{clear}		
-laev08.00DC	＄＄＄＄＄＄		speaker
+laev08.00DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.00EC	どんなことです？{wait}{clear}		
 laev08.0100	レイラ		speaker
 laev08.010E	……父の思い出……{n}それと今、一人でいる母のこと……。{wait}{clear}		
 laev08.0148	ＮＵＬＬ	NULL	speaker
 laev08.0158	《お母様はどうしているのですか？》{n}		
 laev08.0182	《お父様のどんな思い出ですか？》{n}		
-laev08.01B0	＄＄＄＄＄＄		speaker
+laev08.01B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.01C0	レイラのお母様は今はどうしているのですか？{wait}{clear}		
 laev08.01EE	レイラ		speaker
 laev08.01FC	母は帝都にいるわ。{n}ずっと一人で暮らしているはず……。{wait}{clear}		
@@ -20,16 +20,16 @@ laev08.02DA	きっと、母はショックだったはず……{n}父が死ん�
 laev08.033A	いつか時間ができたとき、帝都に戻ろうと思う……。{wait}{clear}		
 laev08.0372	私の親しい貴族たちを頼れば{n}短い時間なら、やつらにつかまらずに会えるはず。{wait}{clear}		
 laev08.03D2	……かまわない？　＄＄＄＄＄＄。{wait}{clear}		
-laev08.03F6	＄＄＄＄＄＄		speaker
+laev08.03F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.0406	ええ、もちろん。{wait}{clear}		
 laev08.041A	レイラ		speaker
 laev08.0428	ありがとう。＄＄＄＄＄＄。{wait}{clear}		
 laev08.044A	今度、都へ手紙を書くわ……{n}私の無事を知らせるためと{n}会えるように手はずを整えるために。{wait}{clear}		
-laev08.04A6	＄＄＄＄＄＄		speaker
+laev08.04A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.04B6	会えるといいですね、お母様に。{wait}{clear}		
 laev08.04D8	レイラ		speaker
 laev08.04E6	ええ……。{wait}{clear}		
-laev08.0504	＄＄＄＄＄＄		speaker
+laev08.0504	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.0514	お父様のどんなことを思い出していたのですか？{wait}{clear}		
 laev08.0562	レイラ		speaker
 laev08.0570	子供の頃の思い出ばかりね……。{wait}{clear}		
@@ -38,7 +38,7 @@ laev08.05C0	父は若い頃、右手を戦争で失って、{n}義手とこの�
 laev08.060E	だから、これを見ると{n}幼い頃からの父の姿を思い出す……。{wait}{clear}		
 laev08.064E	初めて剣を教えてくれたときのこと、{n}木にのぼって降りられなくなった私を{n}降ろしてくれたときのこと……。{wait}{clear}		
 laev08.06BC	そのときの父の姿をね……。{wait}{clear}		
-laev08.06DA	＄＄＄＄＄＄		speaker
+laev08.06DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev08.06EA	お父様はどんな方だったのですか？{wait}{clear}		
 laev08.070E	レイラ		speaker
 laev08.071C	父は勇敢な騎士だった……。{n}若くして帝国の将軍になって、{n}ずっと帝国のために働いた。{wait}{clear}		

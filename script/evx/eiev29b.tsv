@@ -21,13 +21,13 @@ eiev29b.087E	さあ、答えよ。		text
 eiev29b.08AB	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
 eiev29b.090A	《わかりました……》		choice
 eiev29b.0921	《いいえ……》		choice
-eiev29b.0942	＄＄＄＄＄＄		speaker
+eiev29b.0942	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.095D	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
 eiev29b.09AC	どうか……彼女の魂を、{n}彼女の命を救ってください……		text
 eiev29b.09FF	エンディミオン		speaker
 eiev29b.0A1C	ふふ、すばらしい。{n}いい心ばえだ……		text
 eiev29b.0A5F	では……この勇者を救ってやろう……。		text
-eiev29b.0AE6	＄＄＄＄＄＄		speaker
+eiev29b.0AE6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.0B01	アイリーン！！！		text
 eiev29b.0B30	エンディミオン		speaker
 eiev29b.0B4D	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
@@ -35,7 +35,7 @@ eiev29b.0BA6	すべてを失ったその顔が見たかったのだ！		text
 eiev29b.0BEB	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
 eiev29b.0C42	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
 eiev29b.0C91	死ね。		text
-eiev29b.0D06	＄＄＄＄＄＄		speaker
+eiev29b.0D06	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev29b.0D21	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
 eiev29b.0D72	彼女は天使の私を信じ、戦ってくれたのです。{n}彼女の魂も私の魂もあなた方に利用などさせません。		text
 eiev29b.0DED	エンディミオン		speaker

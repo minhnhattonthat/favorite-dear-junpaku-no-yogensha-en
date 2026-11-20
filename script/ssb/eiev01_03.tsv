@@ -1,8 +1,8 @@
 id	jp	en	notes
-eiev01_03.0034	＄＄＄＄＄＄		speaker
+eiev01_03.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_03.0044	アイリーン、お邪魔します。{wait}{clear}		
-eiev01_03.007C	＄＄＄＄＄＄		speaker
+eiev01_03.007C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_03.008C	アイリーン……？{wait}{clear}あれ？　いませんね……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}		
-eiev01_03.00EC	＄＄＄＄＄＄		speaker
+eiev01_03.00EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_03.00FC	アイリーン……？{wait}{clear}あら？　いないみたいですね……。{n}どこかへ出かけてしまったのでしょうか……。{wait}{clear}		
-eiev01_03.0160	しかたがないですね。{n}また、時間をあらためて来てみましょう。{wait}{clear}		
+eiev01_03.0160	しかたがないですね。{n}また、時間をあらためて来てみましょう。{wait}{clear}	It can't be helped. I'll try coming back{n}another time.{wait}{clear}	

@@ -5,68 +5,68 @@ Feev01_01.007E	黒衣の魔導士		speaker
 Feev01_01.008E	……。{wait}{clear}		
 Feev01_01.0098	フェイン		speaker
 Feev01_01.00A8	答えられないわけか……。{wait}{clear}		
-Feev01_01.00F4	＄＄＄＄＄＄		speaker
+Feev01_01.00F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0104	フェイン！{wait}{clear}		
 Feev01_01.0112	フェイン		speaker
 Feev01_01.0122	……君は？{wait}{clear}		
 Feev01_01.0130	フェイン		speaker
 Feev01_01.0140	翼……？{wait}{clear}		
 Feev01_01.0150	……死ぬのか……俺は……。{wait}{clear}		
-Feev01_01.016E	＄＄＄＄＄＄		speaker
+Feev01_01.016E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.017E	いいえ、あなたを死なせはしません。{n}さあ、手を……。{wait}{clear}		
 Feev01_01.01B6	フェイン		speaker
-Feev01_01.01C2	…………。{wait}{clear}		
-Feev01_01.01F0	＄＄＄＄＄＄		speaker
+Feev01_01.01C2	…………。{wait}{clear}	.........{wait}{clear}	
+Feev01_01.01F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0200	目を覚まされましたか？{wait}{clear}		
 Feev01_01.021A	フェイン		speaker
 Feev01_01.022A	……ここは……？{wait}{clear}		
-Feev01_01.023E	＄＄＄＄＄＄		speaker
+Feev01_01.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.024E	村の廃屋です。{n}雨つゆをしのげる場所は{n}ここしかなかったものですから……。{wait}{clear}		
 Feev01_01.02A8	フェイン		speaker
 Feev01_01.02B8	傷の手当をしてくれたようだな……。{n}		
 Feev01_01.02E0	天使……{n}		
 Feev01_01.02EE	天使にも名はあるのか？{wait}{clear}		
-Feev01_01.0308	＄＄＄＄＄＄		speaker
+Feev01_01.0308	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0318	ええ、私は＄＄＄＄＄＄と言います。{wait}{clear}		
 Feev01_01.033E	フェイン		speaker
 Feev01_01.034E	ありがとう、＄＄＄＄＄＄……。{wait}{clear}		
-Feev01_01.0370	＄＄＄＄＄＄		speaker
+Feev01_01.0370	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0380	私はあなたに頼みたいことがあってきました。{wait}{clear}今この地上には様々な混乱が起きています。{wait}{clear}目に見えるもの、目に見えないものも含めて{n}いまだ多くがなにかのきざしでしかないのですが。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}		
 Feev01_01.0472	フェイン		speaker
 Feev01_01.0482	天使の君と、世界の混乱を正す……{n}		
 Feev01_01.04A8	俺がか……？{wait}{clear}		
-Feev01_01.04B8	＄＄＄＄＄＄		speaker
+Feev01_01.04B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.04C8	ええ、あなたに頼みたいのです。{wait}{clear}		
 Feev01_01.04F2	フェイン		speaker
 Feev01_01.0502	……天使が救ってくれた命だ。{n}この奇跡が本当ならば、{n}君の言葉も嘘ではないだろう……。{wait}{clear}		
-Feev01_01.055C	＄＄＄＄＄＄		speaker
+Feev01_01.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.056C	お願いします、フェイン。{wait}{clear}		
 Feev01_01.0588	フェイン		speaker
 Feev01_01.0598	わかった……。{n}それが俺にできることならば手伝おう。{wait}{clear}		
 Feev01_01.05D4	それでどうすればいい？{wait}{clear}		
-Feev01_01.05EE	＄＄＄＄＄＄		speaker
+Feev01_01.05EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.05FE	今は体を完全に治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}		
 Feev01_01.069E	フェイン		speaker
 Feev01_01.06AE	ああ、わかった。{wait}{clear}		
 Feev01_01.06D2	フェイン		speaker
 Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}		
 Feev01_01.072E	ＮＵＬＬ	NULL	speaker
-Feev01_01.073E	《どうしても頼みたい》{n}		
+Feev01_01.073E	《どうしても頼みたい》{n}	I really need you{n}	
 Feev01_01.075C	《わかりました》{n}		
-Feev01_01.077A	＄＄＄＄＄＄		speaker
+Feev01_01.077A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.078A	どうしても、{n}あなたに協力して欲しいのです。{wait}{clear}		
 Feev01_01.07C6	フェイン		speaker
 Feev01_01.07D2	今、答えなければ駄目なのか？{wait}{clear}		
-Feev01_01.07F2	＄＄＄＄＄＄		speaker
+Feev01_01.07F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0802	お願いします。{wait}{clear}		
 Feev01_01.0814	フェイン		speaker
 Feev01_01.0820	……わかった、助けられた身だ。{n}君を手伝おう。{wait}{clear}		
 Feev01_01.085E	で、なにをすればいいんだ？{wait}{clear}		
-Feev01_01.087C	＄＄＄＄＄＄		speaker
+Feev01_01.087C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.088C	今は体を治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}		
 Feev01_01.0926	フェイン		speaker
 Feev01_01.0932	……ああ、わかった。{wait}{clear}		
-Feev01_01.0960	＄＄＄＄＄＄		speaker
+Feev01_01.0960	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev01_01.0970	わかりました。{wait}{clear}あなたが納得していただけるまで待ちます。{wait}{clear}		
 Feev01_01.09AE	フェイン		speaker
 Feev01_01.09BA	すまんな。{n}君に助けられたのに……。{wait}{clear}しばらくしたら、{n}自分なりに君の言葉が理解できるかもしれない。{wait}{clear}そのとき、力になろう。{wait}{clear}また来てくれ。{wait}{clear}		

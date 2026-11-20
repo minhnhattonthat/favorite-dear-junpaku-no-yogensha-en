@@ -21,7 +21,7 @@ Feev14.0284	わな……魔導士の術か……。{wait}{clear}
 Feev14.02A6	ここの空間を閉じてを俺を弱らせて殺すか……{n}飢え死ににでもさせるつもりなのだろう。{wait}{clear}		
 Feev14.030A	フェイン		speaker
 Feev14.031A	ふう、面倒なことになったな……{wait}{clear}		
-Feev14.033C	＄＄＄＄＄＄		speaker
+Feev14.033C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.034C	どうするのです？{wait}{clear}		
 Feev14.036E	フェイン		speaker
 Feev14.037E	そうだな……{n}まわりを歩いてみよう。{n}術のほころびがあるかもしれない。{wait}{clear}		
@@ -31,7 +31,7 @@ Feev14.0446	まだ、俺がジグについてまもない頃だ……。{wait}{c
 Feev14.0472	ＮＵＬＬ	NULL	speaker
 Feev14.0482	《ジグの話を聞く》{n}		
 Feev14.049C	《幼い頃の話を聞く》{n}		
-Feev14.04C4	＄＄＄＄＄＄		speaker
+Feev14.04C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.04D4	ジグの話をきかせてもらえませんか？{wait}{clear}		
 Feev14.0506	フェイン		speaker
 Feev14.0516	彼は力の使い方と魔導士としての生き方を{n}教えてくれた師だ。{wait}{clear}		
@@ -40,7 +40,7 @@ Feev14.05B0	むやみな力の発露は自分自身の生き方を{n}せばめ�
 Feev14.05F6	幼い俺にそう話して{n}力をおさえ、うまく使う方法を教えてくれた。{wait}{clear}		
 Feev14.0646	フェイン		speaker
 Feev14.0656	でも……結局……俺は師の言葉をまもれなかった。{wait}{clear}		
-Feev14.069E	＄＄＄＄＄＄		speaker
+Feev14.069E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.06AE	あなたの幼いころの話を{n}聞かせてもらえませんか？{wait}{clear}		
 Feev14.06EE	フェイン		speaker
 Feev14.06FE	ジグに引き取られる前の記憶はほとんどない……。{wait}{clear}		
@@ -62,7 +62,7 @@ Feev14.0A42	こっちだ……{wait}{clear}
 Feev14.0A70	フェイン		speaker
 Feev14.0A80	俺達をはめた術者はたいしたやつではないな……{wait}{clear}		
 Feev14.0AB4	または見くびられたか……{wait}{clear}		
-Feev14.0AD0	＄＄＄＄＄＄		speaker
+Feev14.0AD0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev14.0AE0	どうしてです？{wait}{clear}		
 Feev14.0AF2	フェイン		speaker
 Feev14.0B02	ここまでたくさんの流水を{n}閉じこめることはできないんだ、この術は。{wait}{clear}		

@@ -4,7 +4,7 @@ clev06.0134	！{wait}{clear}
 clev06.015A	姫		speaker
 clev06.0160	なぜ私を無視なさるの？{n}冷たいお方……。{wait}{clear}でも……{n}そんな冷たい表情が素敵ですわ……{wait}{clear}		
 clev06.01BA	クライヴ		speaker
-clev06.01C6	…………。{wait}{clear}		
+clev06.01C6	…………。{wait}{clear}	.........{wait}{clear}	
 clev06.01D4	姫		speaker
 clev06.01DA	本当に私をみてなにも感じませんの？{wait}{clear}……私、実はあなたの{n}お父様にとてもよくされていますの。{wait}{clear}だから、私のこと{n}好きになさってもいいのよ……。{wait}{clear}		
 clev06.0270	クライヴ		speaker

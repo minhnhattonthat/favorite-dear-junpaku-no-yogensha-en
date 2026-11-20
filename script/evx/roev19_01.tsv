@@ -1,48 +1,48 @@
 id	jp	en	notes
 roev19_01.0002	聖母と会って		dev label (guess: not shown)
-roev19_01.00A2	聖母		unit name (32-byte field)
+roev19_01.00A2	聖母	Holy Mother	unit name (32-byte field)
 roev19_01.00DE	ロクス		unit name (32-byte field)
-roev19_01.04D8	聖母		speaker
+roev19_01.04D8	聖母	Holy Mother	speaker
 roev19_01.04EB	よくここまで来ました。{n}天使に導かれし勇者よ。		text
 roev19_01.0528	ロクス		speaker
 roev19_01.053D	……あなたは？		text
-roev19_01.055A	聖母		speaker
+roev19_01.055A	聖母	Holy Mother	speaker
 roev19_01.056D	この聖なる森を守っているディアナという者です。{n}ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけなのです……。		text
 roev19_01.0600	ロクス		speaker
 roev19_01.0615	大仰な話ですね……それはまた。		text
-roev19_01.0642	聖母		speaker
+roev19_01.0642	聖母	Holy Mother	speaker
 roev19_01.0655	そうですね。{n}あなた、名はなんというのですか？		text
 roev19_01.0692	ロクス		speaker
 roev19_01.06A7	ロクス・ラス・フロレスです。		text
-roev19_01.06D2	聖母		speaker
+roev19_01.06D2	聖母	Holy Mother	speaker
 roev19_01.06E5	ロクス・ラス・フロレス……？{n}では、今の聖王国の教皇ですか？		text
 roev19_01.0780	ロクス		speaker
 roev19_01.0795	なぜそれを？{n}それに、聖王国だなんて古い言い回しを……。		text
-roev19_01.07DC	聖母		speaker
+roev19_01.07DC	聖母	Holy Mother	speaker
 roev19_01.07EF	そうですか……{n}いま、聖王国と呼ぶ者はいないのですね……。		text
 roev19_01.0838	あなたのことは、たたずまいでわかります。{n}法衣をまとった勇者ならば、{n}癒しの手を持っている者にちがいないでしょう。		text
 roev19_01.08B9	ロクス		speaker
 roev19_01.08CE	確かに癒しの手は……持っていますが、{n}教皇にはなっていません。		text
-roev19_01.091B	聖母		speaker
+roev19_01.091B	聖母	Holy Mother	speaker
 roev19_01.092E	そうですか……。{n}ロクス、こちらに来なさい。		text
 roev19_01.0969	ロクス		speaker
 roev19_01.097E	？		text
-roev19_01.09D3	聖母		speaker
+roev19_01.09D3	聖母	Holy Mother	speaker
 roev19_01.09E6	あなたはよく似ていますね……初代の教皇に。		text
 roev19_01.0A1F	ロクス		speaker
 roev19_01.0A34	あなたはなにを言っているんです？		text
-roev19_01.0A63	聖母		speaker
+roev19_01.0A63	聖母	Holy Mother	speaker
 roev19_01.0A76	私は感じたままを話しているだけ……。		text
 roev19_01.0AA9	ロクス……あなたには力があります。{n}ただ、迷いもあります……。		text
 roev19_01.0AF6	敵はそこをついてくるでしょう。{n}でも、信念を持ち、誘惑に負けないでください……。		text
 roev19_01.0B55	あなたは、私とともに戦った勇者です……。{n}きっと、大丈夫です。		text
 roev19_01.0BA2	ロクス		speaker
 roev19_01.0BB7	なんとなく……わかるような気がします……。{n}あなたの言葉の意味が……。		text
-roev19_01.0C0C	聖母		speaker
+roev19_01.0C0C	聖母	Holy Mother	speaker
 roev19_01.0C1F	そうですか……よかった……。		text
 roev19_01.0C4A	ロクス		speaker
 roev19_01.0C5F	ご忠告ありがとうございました。		text
-roev19_01.0C8C	聖母		speaker
+roev19_01.0C8C	聖母	Holy Mother	speaker
 roev19_01.0C9F	ロクス、己を信じて進みなさい。		text
 roev19_01.0CCC	ロクス		speaker
 roev19_01.0CE1	はい……。		text

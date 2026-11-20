@@ -1,11 +1,11 @@
 id	jp	en	notes
 ceev19_02.0002	ヴァイパーの罠		dev label (guess: not shown)
 ceev19_02.00A2	クラレンス		unit name (32-byte field)
-ceev19_02.00DE	セシア		unit name (32-byte field)
-ceev19_02.04A8	セシア		speaker
+ceev19_02.00DE	セシア	Cecia	unit name (32-byte field)
+ceev19_02.04A8	セシア	Cecia	speaker
 ceev19_02.04BD	天使様には関係のないこと。{n}私に魔石を渡しなさい！　ヴァイパー！		text
 ceev19_02.055C	クラレンス		speaker
 ceev19_02.0575	ちっ！{n}天使が出てこないっていうなら、{n}こいつは渡せねえな。		text
 ceev19_02.05CC	これは、俺の最後の楽しみなんでね。{n}あばよ！		text
-ceev19_02.0653	セシア		speaker
+ceev19_02.0653	セシア	Cecia	speaker
 ceev19_02.0668	待ちなさい！！		text

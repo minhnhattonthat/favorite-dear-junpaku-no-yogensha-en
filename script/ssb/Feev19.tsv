@@ -16,7 +16,7 @@ Feev19.02AA	フェイン		speaker
 Feev19.02BA	……セレニス！！{wait}{clear}		
 Feev19.02F6	フェイン		speaker
 Feev19.0306	……セレニス！！{wait}{clear}		
-Feev19.035A	＄＄＄＄＄＄		speaker
+Feev19.035A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.036A	塔が崩れます、フェイン！{wait}{clear}		
 Feev19.0386	フェイン		speaker
 Feev19.0396	セレニス……{wait}{clear}		
@@ -24,82 +24,82 @@ Feev19.03AA	一人で行かせはしない……。{wait}{clear}
 Feev19.03D2	フェイン		speaker
 Feev19.03E2	世話になったな……＄＄＄＄＄＄。{wait}{clear}		
 Feev19.040A	君には感謝している……。{wait}{clear}		
-Feev19.0426	＄＄＄＄＄＄		speaker
+Feev19.0426	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0436	フェイン！！{wait}{clear}		
 Feev19.0450	フェイン		speaker
 Feev19.0460	やっと……一緒になれたな……。{wait}{clear}		
 Feev19.048C	ＮＵＬＬ	NULL	speaker
 Feev19.0498	ゴゴゴゴゴ……{wait}{clear}		
-Feev19.04C0	＄＄＄＄＄＄		speaker
+Feev19.04C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.04D0	フェイン……。{wait}{clear}		
-Feev19.0504	＄＄＄＄＄＄		speaker
+Feev19.0504	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0514	どうして……{n}どうして……こんなことに……。{wait}{clear}		
-Feev19.054C	＄＄＄＄＄＄		speaker
+Feev19.054C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.055C	私では悲劇を止められない……。{n}天使の使命とは、いったいなんなんだ……！？{wait}{clear}		
-Feev19.05AE	＄＄＄＄＄＄		speaker
+Feev19.05AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.05BE	私では悲劇を止められない……。{n}天使の使命とは、いったいなに……！？{wait}{clear}		
-Feev19.0616	＄＄＄＄＄＄		speaker
+Feev19.0616	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0626	ラファエル様！　ラファエル様っ！！！{wait}{clear}		
 Feev19.0660	ラファエル		speaker
 Feev19.066E	＄＄＄＄＄＄、{n}そんなに慌てて、どうしたのですか？{n}{wait}{clear}		
-Feev19.06A6	＄＄＄＄＄＄		speaker
+Feev19.06A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.06B6	ラファエル様……{n}勇者フェインが死にました……。{wait}{clear}自分の使った魔法によって{n}悪魔に魂を乗っ取られた妻を救い、{n}自分の罪を償うために……。{wait}{clear}私は彼を救うことができませんでした……。{n}それは、私自身の力が足りなかったからです。{wait}{clear}ですが、ラファエル様、{n}私はわからなくなってしまったのです。{wait}{clear}今、私がしているように{n}天使が人間に戦いを強いることは、{n}本当に正しいことなのでしょうか？{wait}{clear}		
 Feev19.083A	ラファエル		speaker
 Feev19.0848	…………。{wait}{clear}……＄＄＄＄＄＄……私についてきなさい。{wait}{clear}		
-Feev19.0888	＄＄＄＄＄＄		speaker
+Feev19.0888	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0898	え？{n}あ、はい……。{wait}{clear}		
 Feev19.08C8	ラファエル		speaker
 Feev19.08D6	…………。{wait}{clear}……いないようですね……。{wait}{clear}		
-Feev19.0902	＄＄＄＄＄＄		speaker
+Feev19.0902	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0912	誰かを探していらっしゃるのですか？{wait}{clear}		
 Feev19.0938	ラファエル		speaker
 Feev19.0946	ミカエルに会えればと思って、{n}ここへ来てみたのですが……残念です……。{wait}{clear}		
-Feev19.09AA	＄＄＄＄＄＄		speaker
+Feev19.09AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.09BA	ミカエル様ですか？{wait}{clear}		
 Feev19.09D0	ラファエル		speaker
 Feev19.09DE	ええ。{wait}{clear}		
-Feev19.09F4	＄＄＄＄＄＄		speaker
+Feev19.09F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0A04	ミカエル様とは、一度、お会いしたことがあります。{wait}{clear}		
 Feev19.0A38	ラファエル		speaker
 Feev19.0A46	では、彼はあなたに堕天使たちのことを{n}話してくれませんでしたか？{wait}{clear}		
-Feev19.0A8A	＄＄＄＄＄＄		speaker
+Feev19.0A8A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0A9A	いいえ。{n}そのとき私は違うことをお聞きしたので、{n}堕天使のことはなにも…………。{wait}{clear}		
 Feev19.0AEE	ラファエル		speaker
-Feev19.0AFC	そうですか……。{wait}{clear}		
+Feev19.0AFC	そうですか……。{wait}{clear}	I see...{wait}{clear}	
 Feev19.0B10	ミカエルなら……堕天使たちと{n}もっとも多く戦っている彼と話せば、{n}あなたの迷いもなくなると思ったのですが……。{wait}{clear}		
-Feev19.0B82	＄＄＄＄＄＄		speaker
-Feev19.0B92	…………。{wait}{clear}		
+Feev19.0B82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+Feev19.0B92	…………。{wait}{clear}	.........{wait}{clear}	
 Feev19.0BA0	ラファエル		speaker
 Feev19.0BAE	＄＄＄＄＄＄、このバラを見なさい。{wait}{clear}ミカエルは、大天使の長として、{n}天使たちを堕天使との戦いへと導きました。{wait}{clear}しかし、天使たちの多くは、{n}戦いの中で力つきていったのです……。{wait}{clear}魂だけの存在である天使の死は、本当の消滅です。{wait}{clear}ミカエルが自分とともに戦い、{n}死んでいった者を想って植えたのが{n}このバラなのです。{wait}{clear}		
-Feev19.0CEC	＄＄＄＄＄＄		speaker
+Feev19.0CEC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0CFC	ミカエル様が、そんなことを……。{wait}{clear}		
 Feev19.0D20	ラファエル		speaker
 Feev19.0D2E	きびしく激しいミカエルでさえ、そうなのですから、{n}私たちが迷い、悩み、苦しむのは、{n}当然なのかもしれません。{wait}{clear}そして、あなたのように地上界にいれば、{n}なおさらのことでしょう……。{wait}{clear}あなたが、人を救えなかったことを悔やむ気持ちは{n}よくわかります。{wait}{clear}一度でも地上界を守護した天使なら、{n}誰でも感じる想いです。{wait}{clear}ただ、私たちがいくら彼らに道を示したとしても{n}彼ら自身に未来を切り開こうとする意志がない限り、{n}運命は彼らを飲み込んでしまうのです。{wait}{clear}		
-Feev19.0EF0	＄＄＄＄＄＄		speaker
+Feev19.0EF0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.0F00	ラファエル様……{n}運命を変える力を人が持っていることはわかります。{wait}{clear}ですが、それでも私には{n}彼らを救う力がなかったとしか……思えません。{wait}{clear}		
 Feev19.0F8E	ラファエル		speaker
 Feev19.0F9C	＄＄＄＄＄＄、あなたの悲しみはわかります。{n}自分を責める気持ちも、とてもわかります。{wait}{clear}ですが、あなたの悲しみが続くように、{n}残された者たちの悲しみも続くのですよ。{n}その気持ちを救ってあげられるは、誰なのですか？{wait}{clear}		
-Feev19.1074	＄＄＄＄＄＄		speaker
-Feev19.1084	…………。{wait}{clear}		
+Feev19.1074	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+Feev19.1084	…………。{wait}{clear}	.........{wait}{clear}	
 Feev19.1092	ラファエル		speaker
 Feev19.10A0	私たち大天使が、{n}なによりもしなくてはならないことは{n}天界の門を守ることです。{wait}{clear}		
 Feev19.1116	ラファエル		speaker
 Feev19.1124	サタンが天界の門をくぐり、{n}神の御座に手をかけたときこそが{n}すべての世界の破滅です。{wait}{clear}それだけは、たとえどんなことがあろうとも{n}はばまなければいけないのです。{wait}{clear}		
-Feev19.11C8	＄＄＄＄＄＄		speaker
+Feev19.11C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.11D8	それは、わかっています。{n}私たちがサタンと戦う理由は……。{wait}{clear}ですが、それと人とのあいだに{n}なにか関係があるというのですか？{n}戦ってもらう理由にはならないと……{wait}{clear}		
 Feev19.1286	ラファエル		speaker
 Feev19.1294	あなたは忘れてしまったようですね。{n}人の血筋のことを……。{n}人は、誰から生まれたのかを……。{wait}{clear}		
-Feev19.12F4	＄＄＄＄＄＄		speaker
+Feev19.12F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.1304	あっ……！{n}まさか……そんな……{wait}{clear}		
 Feev19.134E	ラファエル		speaker
 Feev19.135C	私たちも、堕天使も、{n}なにを成すべきかわかっているのです。{n}そのために人が必要であることも……。{wait}{clear}そして、人自身の立場も役割も……。{wait}{clear}ただ、堕天使には、{n}私たちのような葛藤はないのです。{n}あるのは、ただ、欲望のみです。{wait}{clear}無限の力、支配と混沌を欲し、{n}すべてのものをむさぼるためだけの欲望……。{wait}{clear}悲しみや、憎しみは、欲望につながっていきます。{n}しかし、その誘惑に負けてはなりません。{n}私たちも、そして、人も……。{wait}{clear}		
-Feev19.1502	＄＄＄＄＄＄		speaker
+Feev19.1502	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.1512	ラファエル様……{n}すみませんでした……。{wait}{clear}私は大切な人を失った悲しみにだけ{n}とらわれていました。{n}それでは、なにも変わらないのですね……。{wait}{clear}今、私がしっかりしなければ、{n}もっと悲劇が生まれるかもしれない……。{wait}{clear}		
 Feev19.15EA	ラファエル		speaker
 Feev19.15F8	善なる者が正しき道を歩めるよう、{n}なにがあっても導いていかねばなりません。{n}それが、またすべてを守ることになるでしょう。{wait}{clear}なにが正しいことなのか判断に迷ったときは、{n}心の声に耳を澄ませなさい。{wait}{clear}誰のためなのか……{n}誰のために、あなたの存在があるのか……{wait}{clear}あなたは、わかっているのですから。{wait}{clear}		
-Feev19.1722	＄＄＄＄＄＄		speaker
+Feev19.1722	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.1732	……はい……。{wait}{clear}		
 Feev19.1744	ラファエル		speaker
 Feev19.1752	さあ、悲しんでいる人のもとへお行きなさい。{n}きっと、あなたを待っていますよ。{wait}{clear}		
-Feev19.17A2	＄＄＄＄＄＄		speaker
+Feev19.17A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev19.17B2	はい……。{wait}{clear}ラファエル様……ありがとうございました。{wait}{clear}		

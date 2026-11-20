@@ -1,7 +1,7 @@
 id	jp	en	notes
 loev13.0054	ルディエール		speaker
 loev13.0068	なんだ……＄＄＄＄＄＄……。{wait}{clear}		
-loev13.0088	＄＄＄＄＄＄		speaker
+loev13.0088	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev13.0098	ルディ……{wait}{clear}		
 loev13.00B4	ルディエール		speaker
 loev13.00C8	おれは……自分が情けない、＄＄＄＄＄＄{wait}{clear}		
@@ -14,14 +14,14 @@ loev13.01EA	おれは……。{wait}{clear}
 loev13.01FA	ＮＵＬＬ	NULL	speaker
 loev13.020A	《自分を信じて……》{n}		
 loev13.0226	《今は立ち止まらず……》{n}		
-loev13.0250	＄＄＄＄＄＄		speaker
+loev13.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev13.0260	今は自分を信じて……{wait}{clear}必ず、これから光を見つけることが{n}できるはずです。{wait}{clear}あなたならきっと……。{wait}{clear}		
 loev13.02D6	ルディエール		speaker
 loev13.02EA	ありがとう……。＄＄＄＄＄＄。{wait}{clear}		
 loev13.0312	今、立ち止まるわけにはいかないよな……。{wait}{clear}		
 loev13.0342	おれを信じてくれた人のためにも……。{wait}{clear}		
 loev13.036E	進むしかない……前に…。{wait}{clear}		
-loev13.03A0	＄＄＄＄＄＄		speaker
+loev13.03A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev13.03B0	今、私たちは立ち止まることはできません。{wait}{clear}混乱は進んでいます。{n}つらいかもしれませんが、{n}前を向き、進みましょう……。{wait}{clear}		
 loev13.043A	ルディエール		speaker
 loev13.044E	そうだな……{wait}{clear}		

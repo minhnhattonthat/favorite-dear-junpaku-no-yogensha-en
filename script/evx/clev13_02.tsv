@@ -1,15 +1,15 @@
 id	jp	en	notes
 clev13_02.0002	聖母2		dev label (guess: not shown)
 clev13_02.00A2	クライヴ		unit name (32-byte field)
-clev13_02.00DE	聖母		unit name (32-byte field)
-clev13_02.011A	イオン		unit name (32-byte field)
+clev13_02.00DE	聖母	Holy Mother	unit name (32-byte field)
+clev13_02.011A	イオン	Ion	unit name (32-byte field)
 clev13_02.04D8	クライヴ		speaker
 clev13_02.04EF	貴様、なにを……。		text
-clev13_02.0524	イオン		speaker
+clev13_02.0524	イオン	Ion	speaker
 clev13_02.0539	お前には関係ない！		text
 clev13_02.0606	クライヴ		speaker
 clev13_02.061D	……しっかりしてください。		text
-clev13_02.0666	聖母		speaker
+clev13_02.0666	聖母	Holy Mother	speaker
 clev13_02.0679	クライヴ……{n}魔石を奪われてしまいました。		text
 clev13_02.06B2	彼らは天竜をよみがえらせようとしているのです。{n}魔石がすべて集まれば、{n}その野望がかなってしまう……。		text
 clev13_02.0727	そうなっては、世界は破滅してしまいます。		text

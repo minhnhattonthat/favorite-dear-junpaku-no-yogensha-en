@@ -22,7 +22,7 @@ loev05_01.0580	…………。{wait}{clear}皇帝陛下、戦争で苦しむ民�
 loev05_01.05CA	エンディミオン		speaker
 loev05_01.05DC	為政者として、当然気にはかけている。{n}しかし、大儀にまさるようなことではない。{wait}{clear}		
 loev05_01.062E	ルディエール		speaker
-loev05_01.063E	…………。{wait}{clear}		
+loev05_01.063E	…………。{wait}{clear}	.........{wait}{clear}	
 loev05_01.066E	宰相		speaker
 loev05_01.0676	さて、次の会談が迫っていましてな。{wait}{clear}申し訳ないがこの時間でおわらせて頂きたい。{wait}{clear}		
 loev05_01.06CA	ルディエール		speaker
@@ -39,21 +39,21 @@ loev05_01.0804	宰相		speaker
 loev05_01.080C	そうですか。それは残念。{wait}{clear}いや、そんなにあせらず帰らなくとも、{n}大陸一美しいといわれるこの歴史ある帝都を{n}ゆっくり見て回ればよろしいのに。{wait}{clear}きっとお若いあなたの国にとって、{n}有益なことですぞ。{n}ハハハ……！{wait}{clear}		
 loev05_01.08FE	ルディエール		speaker
 loev05_01.0912	いるのか？　＄＄＄＄＄＄？{wait}{clear}		
-loev05_01.0930	＄＄＄＄＄＄		speaker
+loev05_01.0930	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.0940	はい。{wait}{clear}		
 loev05_01.0958	ルディエール		speaker
 loev05_01.096C	なんだ、あの宰相ってのは、いけすかねえな……。{wait}{clear}		
 loev05_01.09A2	……もう部屋にもどって寝るよ。{n}気分が悪い。{wait}{clear}		
-loev05_01.09D2	＄＄＄＄＄＄		speaker
+loev05_01.09D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.09E2	ルディ……。{wait}{clear}		
 loev05_01.0A00	ルディエール		speaker
 loev05_01.0A14	明日は早く出て、国に戻る。{wait}{clear}		
 loev05_01.0A36	こんな国、とっとと出て行きたいからな。{wait}{clear}		
-loev05_01.0A60	＄＄＄＄＄＄		speaker
+loev05_01.0A60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.0A70	そうですね……。{n}今夜は部屋でゆっくり休んでくださいね……。{wait}{clear}		
 loev05_01.0AB0	ルディエール		speaker
 loev05_01.0AC0	ああ……そうする……。{n}この部屋で今夜はじっとしてるよ……。{wait}{clear}		
-loev05_01.0B00	＄＄＄＄＄＄		speaker
+loev05_01.0B00	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_01.0B10	ルディ、今は旅の疲れを癒してくださいね。{wait}{clear}		
 loev05_01.0B3C	ルディエール		speaker
 loev05_01.0B4C	ああ……。{wait}{clear}		

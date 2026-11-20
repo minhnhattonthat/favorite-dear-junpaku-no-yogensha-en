@@ -3,17 +3,17 @@ Feev10.014C	フェイン		speaker
 Feev10.0158	……くっ……。{wait}{clear}		
 Feev10.0186	フェイン		speaker
 Feev10.0192	くそっ！{n}俺ひとりの力では、どうしようもない……。{wait}{clear}		
-Feev10.01C8	＄＄＄＄＄＄		speaker
+Feev10.01C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev10.01D8	フェイン、街を出ましょう。{n}ここにもいつ新手が来るかわかりません。{wait}{clear}		
 Feev10.022A	フェイン		speaker
 Feev10.0236	ああ……。{wait}{clear}		
 Feev10.026E	フェイン		speaker
 Feev10.027A	セレニス……確かに、セレニスだ……。{n}{wait}{clear}		
-Feev10.02A4	＄＄＄＄＄＄		speaker
+Feev10.02A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev10.02B4	彼女はいったい……なにがあったのですか？{n}話してもらえませんか？{wait}{clear}		
 Feev10.0304	フェイン		speaker
 Feev10.0310	…………。{wait}{clear}なにがあったのか、詳しいことは話せない……。{wait}{clear}ただ、彼女は俺が……{n}俺が愛し……そして、傷つけた……。{wait}{clear}		
-Feev10.038A	＄＄＄＄＄＄		speaker
-Feev10.039A	…………。{wait}{clear}		
+Feev10.038A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+Feev10.039A	…………。{wait}{clear}	.........{wait}{clear}	
 Feev10.03B4	フェイン		speaker
 Feev10.03C0	＄＄＄＄＄＄、すまんが、協力してくれ。{wait}{clear}帝国にいることは確実だ……。{n}俺は、もう一度、彼女と会って話したい。{wait}{clear}		

@@ -1,45 +1,45 @@
 id	jp	en	notes
-Y02ev_01.0034	＄＄＄＄＄＄		speaker
+Y02ev_01.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.0044	えっと、フロリンダに新しい着ぐるみを作ったから{n}見て欲しいと言われたのですが……。{n}たしか、このあたりにいるはず……。{wait}{clear}		
 Y02ev_01.00BE	フロリンダ	Florinda	speaker
 Y02ev_01.00D0	あっ！　天使様ぁ、来てくれたんですね！{wait}{clear}		
-Y02ev_01.00FA	＄＄＄＄＄＄		speaker
+Y02ev_01.00FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.010A	フロリンダ、いるんですか？　どこです？{wait}{clear}		
 Y02ev_01.0134	フロリンダ	Florinda	speaker
 Y02ev_01.0146	ここですぅ！　ここ、ここ！{wait}{clear}		
-Y02ev_01.0182	＄＄＄＄＄＄		speaker
+Y02ev_01.0182	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.0192	どこです？　フロリンダ。{n}見えるのはリスばかりですけど……。{wait}{clear}		
 Y02ev_01.01D2	フロリンダ	Florinda	speaker
 Y02ev_01.01E4	へへへ、天使様、ここです、ここ！{wait}{clear}		
-Y02ev_01.0208	＄＄＄＄＄＄		speaker
+Y02ev_01.0208	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.0218	あ、フロリンダ。{n}そんなところにいたんですね。{wait}{clear}		
 Y02ev_01.024A	フロリンダ	Florinda	speaker
 Y02ev_01.025C	天使様、今回のこの着ぐるみ、{n}とぉーっても良くできてるでしょ？{n}{wait}{clear}		
 Y02ev_01.02A0	フロリンダ	Florinda	speaker
 Y02ev_01.02B2	フロリンのいるとこ、天使様にわからなかったし！{wait}{clear}		
-Y02ev_01.02E4	＄＄＄＄＄＄		speaker
+Y02ev_01.02E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.02F4	ええ、そうですね。{n}よくできてますし、とても似合ってますよ。{wait}{clear}		
 Y02ev_01.0334	フロリンダ	Florinda	speaker
 Y02ev_01.0346	あはっ！　天使様にほめられちゃった！{wait}{clear}		
-Y02ev_01.036E	＄＄＄＄＄＄		speaker
+Y02ev_01.036E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.037E	さあ、そろそろ戻りましょうか、フロリンダ。{wait}{clear}		
 Y02ev_01.03AC	フロリンダ	Florinda	speaker
 Y02ev_01.03BE	はーい。{wait}{clear}		
 Y02ev_01.03EA	フロリンダ	Florinda	speaker
 Y02ev_01.03FC	天使様にほめられて、{n}とってもうれしかったですぅ。{wait}{clear}		
-Y02ev_01.043A	＄＄＄＄＄＄		speaker
+Y02ev_01.043A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.044A	でも、もう着替えてきてしまったんですか？{wait}{clear}		
 Y02ev_01.0476	フロリンダ	Florinda	speaker
 Y02ev_01.0488	はい。{n}あれは、みんなと遊ぶときの着ぐるみで、{n}お仕事用じゃないんです。{wait}{clear}		
-Y02ev_01.04D4	＄＄＄＄＄＄		speaker
+Y02ev_01.04D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.04E4	そうなんですか？{wait}{clear}		
 Y02ev_01.04F8	フロリンダ	Florinda	speaker
 Y02ev_01.050A	はい。{n}着ぐるみは、用途に合わせて着替えるんです！{wait}{clear}		
-Y02ev_01.054A	＄＄＄＄＄＄		speaker
+Y02ev_01.054A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.055A	でも、もう着替えてきてしまったんですね？{wait}{clear}		
 Y02ev_01.0586	フロリンダ	Florinda	speaker
 Y02ev_01.0598	はい。{n}あれは、みんなと遊ぶときの着ぐるみです。{wait}{clear}		
-Y02ev_01.05CC	＄＄＄＄＄＄		speaker
+Y02ev_01.05CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y02ev_01.05DC	用途に合わせて着替えるんですよね？{wait}{clear}		
 Y02ev_01.0602	フロリンダ	Florinda	speaker
 Y02ev_01.0614	はい、それがフロリンのポリシーです！{wait}{clear}		

@@ -1,18 +1,18 @@
 id	jp	en	notes
-ceev10_02.0054	セシア		speaker
-ceev10_02.005E	なんども申し訳ありません、天使様。{n}でも、聖母様の身になにかあってからでは{n}遅いと思うのです……。{wait}{clear}お願いします、{n}聖母の森へ行かせてください！{wait}{clear}		
+ceev10_02.0054	セシア	Cecia	speaker
+ceev10_02.005E	なんども申し訳ありません、天使様。{n}でも、聖母様の身になにかあってからでは{n}遅いと思うのです……。{wait}{clear}お願いします、{n}聖母の森へ行かせてください！{wait}{clear}	I'm sorry to ask again and again, Angel. But{n}if something happens to the Holy Mother, it{n}will be too late...{wait}{clear}Please, let me go to the Forest of the Holy{n}Mother!{wait}{clear}	
 ceev10_02.00F4	ＮＵＬＬ	NULL	speaker
-ceev10_02.0104	《今は無理です。》{n}		
-ceev10_02.011E	《わかりました。》{n}		
-ceev10_02.014A	＄＄＄＄＄＄		speaker
+ceev10_02.0104	《今は無理です。》{n}	Not now.{n}	
+ceev10_02.011E	《わかりました。》{n}	All right.{n}	
+ceev10_02.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_02.015A	今の任務をきちんと行って欲しいのですが……。{n}この任務が終わってからではいけませんか？{wait}{clear}		
-ceev10_02.01B8	＄＄＄＄＄＄		speaker
+ceev10_02.01B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_02.01C8	なにか急な事件が起こるかもしれません。{n}なので、できれば森へは行かないで欲しいのですが。{wait}{clear}		
-ceev10_02.0230	セシア		speaker
+ceev10_02.0230	セシア	Cecia	speaker
 ceev10_02.023A	わかりました……。{wait}{clear}		
-ceev10_02.025A	＄＄＄＄＄＄		speaker
+ceev10_02.025A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_02.026A	セシアにとってはとても心配なことでしょう。{n}森へ行ってもいいですよ。{wait}{clear}		
-ceev10_02.02B2	セシア		speaker
+ceev10_02.02B2	セシア	Cecia	speaker
 ceev10_02.02BC	ありがとうございます、天使様。{n}では、今度、天使様が訪問されるときに{n}必ずお願いします。{wait}{clear}		
-ceev10_02.0318	＄＄＄＄＄＄		speaker
+ceev10_02.0318	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev10_02.0328	わかりました。{wait}{clear}		

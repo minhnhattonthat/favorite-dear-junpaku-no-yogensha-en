@@ -1,24 +1,24 @@
 id	jp	en	notes
-men3_Ce04.0052	セシア		speaker
+men3_Ce04.0052	セシア	Cecia	speaker
 men3_Ce04.005C	急にお呼びしてすみません。{wait}{clear}		
-men3_Ce04.007A	＄＄＄＄＄＄		speaker
+men3_Ce04.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce04.008A	どうしたのですか？{n}なにか話でもあるのですか、セシア？{wait}{clear}		
-men3_Ce04.00C4	セシア		speaker
+men3_Ce04.00C4	セシア	Cecia	speaker
 men3_Ce04.00CE	いえ、お話しではなくて、{n}天使様に差し上げたいものがあったのです。{wait}{clear}花束なんですけど、{n}受け取っていただけますか？{wait}{clear}		
 men3_Ce04.0146	ＮＵＬＬ	NULL	speaker
 men3_Ce04.0156	《ありがとうございます。》{n}		
 men3_Ce04.0178	《戒律があるので……。》{n}		
-men3_Ce04.0198	＄＄＄＄＄＄		speaker
+men3_Ce04.0198	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce04.01A8	ありがとうございます。{n}えっと、この花束は、もしかしてセシアが？{wait}{clear}		
-men3_Ce04.01F8	セシア		speaker
+men3_Ce04.01F8	セシア	Cecia	speaker
 men3_Ce04.0202	はい。{n}近くにとてもきれいな花がたくさん咲いていて、{n}天使様にも見ていただきたくて！{wait}{clear}		
-men3_Ce04.0266	セシア		speaker
+men3_Ce04.0266	セシア	Cecia	speaker
 men3_Ce04.0270	でも、私は天使様に、{n}こんなものしか差し上げられなくて……。{wait}{clear}森にだったら、{n}もっとめずらしい花も咲いているんですけど……。{wait}{clear}		
-men3_Ce04.02F2	＄＄＄＄＄＄		speaker
+men3_Ce04.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce04.0302	そんな、とんでもないです！{n}その気持ちが、とてもうれしいですよ。{n}本当にありがとうございます。{wait}{clear}		
-men3_Ce04.0368	＄＄＄＄＄＄		speaker
+men3_Ce04.0368	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce04.0378	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
-men3_Ce04.03E8	セシア		speaker
+men3_Ce04.03E8	セシア	Cecia	speaker
 men3_Ce04.03F2	そうなんですか？{n}私、知らなくて……。{wait}{clear}		
-men3_Ce04.041C	＄＄＄＄＄＄		speaker
+men3_Ce04.041C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ce04.042C	いえ、私の方こそ、本当にすみません……。{wait}{clear}		

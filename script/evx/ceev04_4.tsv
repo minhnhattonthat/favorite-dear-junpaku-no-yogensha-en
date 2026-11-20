@@ -1,6 +1,6 @@
 id	jp	en	notes
 ceev04_4.00A2	アイリーン		unit name (32-byte field)
-ceev04_4.00DE	イオン		unit name (32-byte field)
+ceev04_4.00DE	イオン	Ion	unit name (32-byte field)
 ceev04_4.011A	死人女		unit name (32-byte field)
 ceev04_4.0156	死人女		unit name (32-byte field)
 ceev04_4.0192	死人子供		unit name (32-byte field)

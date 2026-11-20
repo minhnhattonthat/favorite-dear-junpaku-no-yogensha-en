@@ -3,12 +3,12 @@ eiev11.0012	第11節「呪われた魂」		speaker
 eiev11.0074	アイリーン		speaker
 eiev11.0086	……姉さん呪いで……あんな風に……{wait}{clear}		
 eiev11.00B0	ずっと苦しめられてるのね……ひどい……{wait}{clear}		
-eiev11.00DA	＄＄＄＄＄＄		speaker
+eiev11.00DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.00EA	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
 eiev11.0140	アイリーン		speaker
 eiev11.0152	姉さんがフェインを……なぜ……{wait}{clear}		
 eiev11.0178	こんなことになってしまうなんて……{n}酷すぎる……{wait}{clear}		
-eiev11.01AC	＄＄＄＄＄＄		speaker
+eiev11.01AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.01BC	アイリーン、話してください。{n}お姉さんのことを……。{wait}{clear}		
 eiev11.0200	アイリーン		speaker
 eiev11.0212	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}		
@@ -37,7 +37,7 @@ eiev11.079A	私、どうしたらいいの……？{n}ねえ、教えて……�
 eiev11.07D4	ＮＵＬＬ	NULL	speaker
 eiev11.07E4	《なにか方法があるはず》{n}		
 eiev11.0804	《……》{n}		
-eiev11.081E	＄＄＄＄＄＄		speaker
+eiev11.081E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.082E	魔法を解く、方法がなにかきっとあるはずです……{wait}{clear}それを探し出しましょう。{wait}{clear}あきらめないでください……。{wait}{clear}		
 eiev11.08A0	アイリーン		speaker
 eiev11.08B2	なのに……なのに、姉さんは……{wait}{clear}		
@@ -46,9 +46,9 @@ eiev11.0920	ねえ、＄＄＄＄＄＄{n}私、どうしたらいいの？{wait
 eiev11.094E	ＮＵＬＬ	NULL	speaker
 eiev11.095E	《なにか方法があるはず》{n}		
 eiev11.097E	《……》{n}		
-eiev11.0998	＄＄＄＄＄＄		speaker
+eiev11.0998	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.09A8	魔法を解く方法を一緒に探しましょう……。{n}アイリーン。{wait}{clear}なにかあるはずです……信じましょう……。{wait}{clear}		
-eiev11.0A1E	＄＄＄＄＄＄		speaker
+eiev11.0A1E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev11.0A2E	……{wait}{clear}		
 eiev11.0A36	アイリーン		speaker
 eiev11.0A44	……{wait}{clear}		

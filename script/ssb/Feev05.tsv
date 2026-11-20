@@ -1,17 +1,17 @@
 id	jp	en	notes
 Feev05.004C	フェイン		speaker
 Feev05.0058	＄＄＄＄＄＄……。{n}話せるか？{wait}{clear}		
-Feev05.007A	＄＄＄＄＄＄		speaker
+Feev05.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev05.008A	はい。{wait}{clear}		
 Feev05.00BC	フェイン		speaker
 Feev05.00C8	セレニスが……{n}帝国にいるのは確かなんだな……。{wait}{clear}		
-Feev05.00FC	＄＄＄＄＄＄		speaker
-Feev05.010C	はい……。{wait}{clear}		
+Feev05.00FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+Feev05.010C	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Feev05.011A	フェイン		speaker
 Feev05.0126	彼女を狂わせた責任は俺にある……。{n}彼女を探し出して……俺は……{wait}{clear}頼む……{n}彼女がどこで、なにをしているのか{n}わかったら、俺に教えてくれ……{wait}{clear}＄＄＄＄＄＄に願うことではないのは{n}わかっている。{wait}{clear}だが、俺にはどうしても{n}彼女と会う必要があるんだ……。{wait}{clear}		
 Feev05.0228	フェイン		speaker
 Feev05.0234	……？{wait}{clear}		
-Feev05.023E	＄＄＄＄＄＄		speaker
+Feev05.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev05.024E	どうしました？　フェイン？{wait}{clear}		
 Feev05.026C	フェイン		speaker
 Feev05.0278	暗闇に気配がする……{wait}{clear}		

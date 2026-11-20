@@ -1,28 +1,28 @@
 id	jp	en	notes
-ceev02.0052	セシア		speaker
-ceev02.005C	天使様……。{wait}{clear}		
-ceev02.006C	＄＄＄＄＄＄		speaker
-ceev02.007C	セシア？　どうかしましたか？{wait}{clear}		
-ceev02.009C	セシア		speaker
-ceev02.00A6	あ、いえ……{n}こんな大きな街を見るのは、はじめてで……。{wait}{clear}		
-ceev02.00F0	セシア		speaker
-ceev02.00FA	すごいですね。{n}村の様子とはまったく違います。{n}こんなに大きな建物があって……。{wait}{clear}天使様、もっといろいろなところを{n}見てみたいのですが、いいですか？{wait}{clear}		
+ceev02.0052	セシア	Cecia	speaker
+ceev02.005C	天使様……。{wait}{clear}	Angel...{wait}{clear}	
+ceev02.006C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev02.007C	セシア？　どうかしましたか？{wait}{clear}	Cecia? What is it?{wait}{clear}	
+ceev02.009C	セシア	Cecia	speaker
+ceev02.00A6	あ、いえ……{n}こんな大きな街を見るのは、はじめてで……。{wait}{clear}	Oh, nothing... It's just the first time I've{n}seen such a big town...{wait}{clear}	
+ceev02.00F0	セシア	Cecia	speaker
+ceev02.00FA	すごいですね。{n}村の様子とはまったく違います。{n}こんなに大きな建物があって……。{wait}{clear}天使様、もっといろいろなところを{n}見てみたいのですが、いいですか？{wait}{clear}	It's amazing. It's nothing like my village.{n}There are such big buildings...{wait}{clear}Angel, I'd like to see more of the place.{n}Would that be all right?{wait}{clear}	
 ceev02.0194	ＮＵＬＬ	NULL	speaker
-ceev02.01A4	《先を急ぎませんか？》{n}		
-ceev02.01C2	《ええ、かまいません。》{n}		
-ceev02.01E8	＄＄＄＄＄＄		speaker
-ceev02.01F8	これから、街はたくさんありますし……。{n}先を急ぎませんか？{wait}{clear}		
-ceev02.0242	セシア		speaker
-ceev02.024C	そうですか……。{n}はじめて森から出たものですから、{n}ちょっとはしゃぎすぎたみたいです。{wait}{clear}天使様のおっしゃるとおり、{n}森とは違う景色ばかりなのが当然です……。{wait}{clear}		
-ceev02.02FA	セシア		speaker
-ceev02.0304	わかりました。{n}行きましょう、天使様。{wait}{clear}		
-ceev02.0338	＄＄＄＄＄＄		speaker
-ceev02.0348	そうですね、かまいませんよ。{wait}{clear}セシアにとっては、{n}はじめて見るものばかりでしょうから{n}少し、ゆっくりしましょうか？{wait}{clear}		
-ceev02.03D6	セシア		speaker
-ceev02.03E0	ありがとうございます、天使様！{wait}{clear}あ！　あそこ！{n}あの高台なら、街を見わたせますよね？{wait}{clear}行きましょう、天使様。{wait}{clear}		
-ceev02.0476	セシア		speaker
-ceev02.0480	わあ！{n}天使様、見てください！{n}建物がたくさんあって……あんなに高い建物も！{wait}{clear}街ってとっても大きくて、人がたくさんいて、{n}すごいんですね……。{wait}{clear}これから、こんな場所を旅することになるのですか？{wait}{clear}		
-ceev02.0548	＄＄＄＄＄＄		speaker
-ceev02.0558	ええ、そうですよ。{n}がんばってくださいね、セシア。{wait}{clear}		
-ceev02.058E	セシア		speaker
-ceev02.0598	はい、天使様！{wait}{clear}		
+ceev02.01A4	《先を急ぎませんか？》{n}	Shouldn't we hurry on?{n}	
+ceev02.01C2	《ええ、かまいません。》{n}	Yes, that's fine.{n}	
+ceev02.01E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev02.01F8	これから、街はたくさんありますし……。{n}先を急ぎませんか？{wait}{clear}	There will be plenty more towns ahead...{n}Shouldn't we hurry on?{wait}{clear}	
+ceev02.0242	セシア	Cecia	speaker
+ceev02.024C	そうですか……。{n}はじめて森から出たものですから、{n}ちょっとはしゃぎすぎたみたいです。{wait}{clear}天使様のおっしゃるとおり、{n}森とは違う景色ばかりなのが当然です……。{wait}{clear}	I see... It's my first time out of the{n}forest, so I think I got a little too{n}excited.{wait}{clear}You're right, Angel. Of course everything{n}looks different from the forest...{wait}{clear}	
+ceev02.02FA	セシア	Cecia	speaker
+ceev02.0304	わかりました。{n}行きましょう、天使様。{wait}{clear}	All right. Let's go, Angel.{wait}{clear}	
+ceev02.0338	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev02.0348	そうですね、かまいませんよ。{wait}{clear}セシアにとっては、{n}はじめて見るものばかりでしょうから{n}少し、ゆっくりしましょうか？{wait}{clear}	Yes, that's fine.{wait}{clear}Everything must be new to you, Cecia. Shall{n}we take our time for a little while?{wait}{clear}	
+ceev02.03D6	セシア	Cecia	speaker
+ceev02.03E0	ありがとうございます、天使様！{wait}{clear}あ！　あそこ！{n}あの高台なら、街を見わたせますよね？{wait}{clear}行きましょう、天使様。{wait}{clear}	Thank you, Angel!{wait}{clear}Oh! Over there! We could see the whole town{n}from that hill, couldn't we?{wait}{clear}Let's go, Angel.{wait}{clear}	
+ceev02.0476	セシア	Cecia	speaker
+ceev02.0480	わあ！{n}天使様、見てください！{n}建物がたくさんあって……あんなに高い建物も！{wait}{clear}街ってとっても大きくて、人がたくさんいて、{n}すごいんですね……。{wait}{clear}これから、こんな場所を旅することになるのですか？{wait}{clear}	Wow! Angel, look! So many buildings... and{n}some so tall!{wait}{clear}Towns are so big, with so many people. It's{n}amazing...{wait}{clear}Will I be traveling through places like this{n}from now on?{wait}{clear}	
+ceev02.0548	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev02.0558	ええ、そうですよ。{n}がんばってくださいね、セシア。{wait}{clear}	Yes, that's right. Do your best, Cecia.{wait}{clear}	
+ceev02.058E	セシア	Cecia	speaker
+ceev02.0598	はい、天使様！{wait}{clear}	Yes, Angel!{wait}{clear}	

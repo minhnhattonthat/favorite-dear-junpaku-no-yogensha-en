@@ -33,9 +33,9 @@ BTL_EVT5.05FFS	ファントム		speaker
 BTL_EVT5.060A	…………。		
 BTL_EVT5.0618S	ファントム		speaker
 BTL_EVT5.0623	…………。		
-BTL_EVT5.0655S	イオン		speaker
+BTL_EVT5.0655S	イオン	Ion	speaker
 BTL_EVT5.065C	ぼくの邪魔をするから……。		
-BTL_EVT5.067AS	イオン		speaker
+BTL_EVT5.067AS	イオン	Ion	speaker
 BTL_EVT5.0681	ぼくの邪魔をするから……。		
 BTL_EVT5.06C3S	帝国兵		speaker
 BTL_EVT5.06CA	わはははっ！！{n}その軍服は見かけ倒しだったな！		
@@ -715,9 +715,9 @@ BTL_EVT5.50D4S	レイブンルフト		speaker
 BTL_EVT5.50E3	無様な敗北者が……。		
 BTL_EVT5.511FS	レイラ		speaker
 BTL_EVT5.5126	こんな小さな子までが、{n}戦わなくちゃいけないなんて……。		
-BTL_EVT5.5162S	イオン		speaker
+BTL_EVT5.5162S	イオン	Ion	speaker
 BTL_EVT5.5169	ぼくの邪魔をするから……。		
-BTL_EVT5.5187S	イオン		speaker
+BTL_EVT5.5187S	イオン	Ion	speaker
 BTL_EVT5.518E	ぼくの邪魔をするから……。		
 BTL_EVT5.51F4S	レイラ		speaker
 BTL_EVT5.51FB	彼もセレニスに利用されていた……。{n}あの女はいったい……。		

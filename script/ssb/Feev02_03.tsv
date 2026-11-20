@@ -1,33 +1,33 @@
 id	jp	en	notes
 Feev02_03.0056	フェイン		speaker
 Feev02_03.0062	いるのか？　＄＄＄＄＄＄。{wait}{clear}		
-Feev02_03.0080	＄＄＄＄＄＄		speaker
+Feev02_03.0080	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.0090	はい、フェイン、なんですか？{wait}{clear}		
 Feev02_03.00B0	フェイン		speaker
 Feev02_03.00BC	この近くにもギルドのロッジがある。{n}寄りたいんだか、一緒に来るか？{wait}{clear}		
-Feev02_03.0102	＄＄＄＄＄＄		speaker
+Feev02_03.0102	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.0112	ええ、ご一緒させてください。{wait}{clear}		
 Feev02_03.0132	フェイン		speaker
 Feev02_03.013E	そうか、じゃあ、行こう。{wait}{clear}		
-Feev02_03.015A	＄＄＄＄＄＄		speaker
+Feev02_03.015A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.016A	はい。{wait}{clear}		
-Feev02_03.0190	＄＄＄＄＄＄		speaker
+Feev02_03.0190	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.01A0	フェイン、大丈夫ですか？{wait}{clear}		
 Feev02_03.01CC	フェイン		speaker
 Feev02_03.01D8	あ、ああ、＄＄＄＄＄＄。{wait}{clear}		
-Feev02_03.01F4	＄＄＄＄＄＄		speaker
+Feev02_03.01F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.0204	どうしたのですか？{n}先ほどのマスターの予言というのが{n}気になるのですか？{wait}{clear}		
 Feev02_03.025C	フェイン		speaker
 Feev02_03.0268	ああ……いや、気にしないでくれ。{wait}{clear}それより、どうした？{n}また、聞きたいことでもあるのか？{wait}{clear}		
-Feev02_03.02C6	＄＄＄＄＄＄		speaker
+Feev02_03.02C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.02D6	ええ。{n}あの、グランドマスターとは、{n}どういった方なのですか？{wait}{clear}		
 Feev02_03.0318	フェイン		speaker
 Feev02_03.0324	ああ、グランドマスターのことか。{n}グランドマスターはギルドの頂点に立つ人物だ。{wait}{clear}今はライノールという魔導士が、{n}その立場についておられる。{wait}{clear}ライノールは自分の師、ジグの兄弟子にあたる人で、{n}俺もいろいろ世話になった。{wait}{clear}		
-Feev02_03.0404	＄＄＄＄＄＄		speaker
+Feev02_03.0404	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.0414	そうなのですか……。{wait}{clear}		
 Feev02_03.042C	フェイン		speaker
 Feev02_03.0438	彼のいるのが、ギルドのロッジでも{n}グランドロッジと呼ばれるところで、{n}バーゼルのアルクマールにある。{wait}{clear}近くに行ったときには寄ろうと思っている。{n}＄＄＄＄＄＄も、彼に会えば、{n}魔導士の頂点に立つ人がどんな人物かわかるはずだ。{wait}{clear}		
-Feev02_03.051C	＄＄＄＄＄＄		speaker
+Feev02_03.051C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev02_03.052C	では、ぜひ、バーゼルへ行ったときには、{n}アルクマールへ行きましょう。{wait}{clear}		
 Feev02_03.0574	フェイン		speaker
 Feev02_03.0580	ああ。{wait}{clear}		

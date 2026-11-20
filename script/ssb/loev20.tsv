@@ -9,15 +9,15 @@ loev20.010E	大丈夫か！{wait}{clear}
 loev20.0120	目を開けてくれ！{wait}{clear}		
 loev20.0176	ルディエール		speaker
 loev20.018A	平気か？{wait}{clear}		
-loev20.0196	＄＄＄＄＄＄		speaker
+loev20.0196	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev20.01A6	ええ……{wait}{clear}		
 loev20.01B2	ルディエール		speaker
 loev20.01C6	よかった……心配したぜ……{wait}{clear}		
 loev20.0208	ルディエール		speaker
 loev20.0218	やつは逃げちまった……{n}すばしっこい野郎だ。{wait}{clear}		
-loev20.0248	＄＄＄＄＄＄		speaker
+loev20.0248	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev20.0258	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
 loev20.02E2	ルディエール		speaker
 loev20.02F2	大丈夫か？{wait}{clear}やつは魔石を持って逃げちまった。{n}とんだ野郎だ……。{wait}{clear}		
-loev20.0338	＄＄＄＄＄＄		speaker
+loev20.0338	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev20.0348	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		

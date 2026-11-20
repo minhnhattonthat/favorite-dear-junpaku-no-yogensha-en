@@ -4,12 +4,12 @@ eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんが�
 eiev20.0172	ＮＵＬＬ	NULL	speaker
 eiev20.0182	《わかりました……。》{n}		
 eiev20.01A0	《なぜ……？》{n}		
-eiev20.01C0	＄＄＄＄＄＄		speaker
+eiev20.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.01D0	わかりました。{wait}{clear}		
 eiev20.01E2	アイリーン		speaker
 eiev20.01F0	ありがと……お願いね。{wait}{clear}		
 eiev20.0216	……私がやらなくちゃいけない。{wait}{clear}逃げちゃいけないから。{wait}{clear}		
-eiev20.0262	＄＄＄＄＄＄		speaker
+eiev20.0262	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.0272	なぜ……フェインがそこまで……？{wait}{clear}		
 eiev20.02AE	アイリーン		speaker
 eiev20.02BC	今の姉さんにフェインが会ったら絶望する……。{wait}{clear}		
@@ -23,7 +23,7 @@ eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんが�
 eiev20.050C	ＮＵＬＬ	NULL	speaker
 eiev20.051C	《詳しく教えて欲しい。》{n}		
 eiev20.053C	《なぜ……？》{n}		
-eiev20.055C	＄＄＄＄＄＄		speaker
+eiev20.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.056C	アイリーン、聞かせてください。{n}お姉さんのことを……。{wait}{clear}		
 eiev20.05B2	アイリーン		speaker
 eiev20.05C0	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}あの日……{wait}{clear}		

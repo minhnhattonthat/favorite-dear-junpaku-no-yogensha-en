@@ -42,9 +42,9 @@ roev04.0504	なに……みてみな……。{wait}{clear}
 roev04.0522	次のカード……。{wait}{clear}		
 roev04.053A	アメジストの７が来れば、俺の逆転勝ちだ……。{wait}{clear}		
 roev04.056A	ロクス		speaker
-roev04.0574	…………。{wait}{clear}		
+roev04.0574	…………。{wait}{clear}	.........{wait}{clear}	
 roev04.0582	クラレンス		speaker
-roev04.0590	…………。{wait}{clear}		
+roev04.0590	…………。{wait}{clear}	.........{wait}{clear}	
 roev04.059E	クラレンス		speaker
 roev04.05B0	ほら……読んでみろ。{wait}{clear}		
 roev04.05C8	ロクス		speaker
@@ -75,10 +75,10 @@ roev04.08AE	あと、後ろの天使さんにも伝えといてくれ。{wait}{c
 roev04.08DE	間抜け面がかわいいってな。{wait}{clear}		
 roev04.0900	じゃあな！{wait}{clear}		
 roev04.0932	ロクス		speaker
-roev04.093C	…………。{wait}{clear}		
-roev04.094A	＄＄＄＄＄＄		speaker
+roev04.093C	…………。{wait}{clear}	.........{wait}{clear}	
+roev04.094A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev04.095A	どうしたのですか？　なにが起きたのです？{wait}{clear}		
 roev04.0992	ロクス		speaker
 roev04.09A0	……なんでもない……気にするな。{wait}{clear}		
-roev04.09CC	＄＄＄＄＄＄		speaker
+roev04.09CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev04.09DC	ロクス……。{wait}{clear}（それにしても彼はいったい何者？{n}　ふつうの人に私は見えないはずなのに、{n}　なんであんなことを……。）{wait}{clear}		

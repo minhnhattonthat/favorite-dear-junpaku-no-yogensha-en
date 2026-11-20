@@ -1,9 +1,9 @@
 id	jp	en	notes
-ceev10_01.0058	セシア		speaker
-ceev10_01.0062	天使様……。{n}嫌な噂を聞きました……。{n}聖母様になにかあったのでしょうか……。{wait}{clear}私にとって、{n}いえ、森に住む者にとって、{n}聖母様はかけがえのない存在なのです。{wait}{clear}		
-ceev10_01.0106	＄＄＄＄＄＄		speaker
-ceev10_01.0116	聖母様は、セシアの大切な方なのですね。{wait}{clear}		
-ceev10_01.0140	セシア		speaker
-ceev10_01.014A	はい……。{wait}{clear}		
-ceev10_01.0158	＄＄＄＄＄＄		speaker
-ceev10_01.0168	あなたの気持ちはよくわかります。{n}どうか気をつけてください……。{wait}{clear}		
+ceev10_01.0058	セシア	Cecia	speaker
+ceev10_01.0062	天使様……。{n}嫌な噂を聞きました……。{n}聖母様になにかあったのでしょうか……。{wait}{clear}私にとって、{n}いえ、森に住む者にとって、{n}聖母様はかけがえのない存在なのです。{wait}{clear}	Angel... I heard a terrible rumor... Has{n}something happened to the Holy Mother...?{wait}{clear}To me... no, to everyone who lives in the{n}forest, the Holy Mother is irreplaceable.{wait}{clear}	
+ceev10_01.0106	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev10_01.0116	聖母様は、セシアの大切な方なのですね。{wait}{clear}	The Holy Mother is precious to you, isn't{n}she, Cecia?{wait}{clear}	
+ceev10_01.0140	セシア	Cecia	speaker
+ceev10_01.014A	はい……。{wait}{clear}	Yes...{wait}{clear}	
+ceev10_01.0158	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev10_01.0168	あなたの気持ちはよくわかります。{n}どうか気をつけてください……。{wait}{clear}	I understand how you feel. Please be{n}careful...{wait}{clear}	

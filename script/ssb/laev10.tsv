@@ -1,16 +1,16 @@
 id	jp	en	notes
-laev10.0054	＄＄＄＄＄＄		speaker
+laev10.0054	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0064	どうしたのです、レイラ？{n}その格好は、どこかへ出かけるのですか？{wait}{clear}		
 laev10.00A8	レイラ		speaker
 laev10.00B2	＄＄＄＄＄＄ね……。{wait}{clear}		
 laev10.00CE	これから、宮殿へ行くの……。{wait}{clear}		
-laev10.00EE	＄＄＄＄＄＄		speaker
+laev10.00EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.00FE	え？　宮殿へ？{n}いったい、なにがあるのですか？{wait}{clear}		
 laev10.0130	レイラ		speaker
 laev10.013E	今夜、宮殿で戦勝記念の夜会が開かれる。{wait}{clear}		
 laev10.016C	そこには皇帝や宰相の出席も予定されているわ。{wait}{clear}		
 laev10.01A0	私はそこでクロイツフェルドを倒す……。{wait}{clear}		
-laev10.01CA	＄＄＄＄＄＄		speaker
+laev10.01CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.01DA	そんな……無謀です！{n}レイラにとっては、ほとんど敵しかいない宮殿で、{n}そんなことをすれば……。{wait}{clear}		
 laev10.0250	レイラ		speaker
 laev10.025E	無謀は承知の上よ……。{wait}{clear}		
@@ -19,23 +19,23 @@ laev10.02D0	それに皇帝か宰相、どちらかを葬れば……{n}あな�
 laev10.0320	ＮＵＬＬ	NULL	speaker
 laev10.0330	《それは違います！》{n}		
 laev10.034C	《落ち着いてください。》{n}		
-laev10.0372	＄＄＄＄＄＄		speaker
+laev10.0372	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0382	それは、違います！！{wait}{clear}もし、あなたが命を落とすようなことになって、{n}それで世界に平和が訪れたとしても、{n}それにどんな意味があるというのですか？{wait}{clear}私は、そんな平和を望んでいるのではありません。{n}レイラ、もう一度、一緒に考えましょう。{n}もっと別の方法もあるはずです！{wait}{clear}		
 laev10.04A4	レイラ		speaker
 laev10.04B2	止めても無駄よ。{n}私はもう決めたの……。{wait}{clear}		
 laev10.04E2	私に協力してくれる貴族たちもいるわ……{wait}{clear}		
 laev10.0510	夜会に忍び込むことも、{n}そこでやつに近づく手はずも整えたわ。{wait}{clear}		
-laev10.055A	＄＄＄＄＄＄		speaker
+laev10.055A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.056A	どうか落ち着いてくださいレイラ……。{wait}{clear}命を落とすかもしれない危険なことに{n}自ら飛び込んでゆくことを{n}お父様やお母様が望むと思うのですか？{wait}{clear}もっと別な方法があるはずです！{wait}{clear}		
 laev10.062E	レイラ		speaker
 laev10.063C	……これが最後の機会かもしれないの。{wait}{clear}		
 laev10.0668	私はこれに賭ける……。{n}あなたの指図は受けないわ……。{wait}{clear}		
-laev10.06A8	＄＄＄＄＄＄		speaker
+laev10.06A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.06B8	しかし、レイラ……。{wait}{clear}		
 laev10.06E4	レイラ		speaker
 laev10.06F2	迎えが来たわ……。{wait}{clear}		
 laev10.070C	さよなら、＄＄＄＄＄＄。{wait}{clear}		
-laev10.0734	＄＄＄＄＄＄		speaker
+laev10.0734	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0744	レイラをこのまま危険にさらすわけにいきません。{n}ついて行きましょう！{wait}{clear}		
 laev10.07A8	貴族１		speaker
 laev10.07B2	こんなに盛大な夜会が開かれるのは久しぶりですな。{wait}{clear}		
@@ -58,7 +58,7 @@ laev10.0A30	言葉には気をつけろ……レイラ。{wait}{clear}
 laev10.0A56	昔とは立場がちがう……。{n}{wait}{clear}		
 laev10.0A78	お前は帝国騎士隊長ではなく、ただの反逆者で、{n}明日の朝には処刑される身なのだからな。{wait}{clear}		
 laev10.0AD0	レイラ		speaker
-laev10.0ADE	…………。{wait}{clear}		
+laev10.0ADE	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.0AEC	アルベリック		speaker
 laev10.0B00	……しかし相変わらず、君は美しい……{n}下にいる大貴族の婦人たちが石ころのようだ。{wait}{clear}		
 laev10.0B60	アルベリック		speaker
@@ -96,11 +96,11 @@ laev10.0F8E	セレニス		speaker
 laev10.0F9E	ふ、いつまでも子供のような男……。{wait}{clear}		
 laev10.0FC8	あなた、ヴィグリード将軍の娘ね……。{wait}{clear}		
 laev10.0FF0	レイラ		speaker
-laev10.0FFE	…………。{wait}{clear}		
+laev10.0FFE	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.100C	セレニス		speaker
 laev10.101C	聞きたいことがあるの……いい？{wait}{clear}		
 laev10.103E	レイラ		speaker
-laev10.104C	…………。{wait}{clear}		
+laev10.104C	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.105A	セレニス		speaker
 laev10.106A	あなたの力の影に、{n}天使がいるという噂を聞いたの……。{wait}{clear}		
 laev10.10A4	レイラ		speaker
@@ -111,7 +111,7 @@ laev10.113A	お願い、あなたの天使に会わせて欲しいの……{wait
 laev10.116C	もし、会わせてくれたなら、あなたの命を救うわ。{wait}{clear}		
 laev10.11A2	皇帝は慈悲深いお方……{n}私の言葉であなたを救えるわ……。{wait}{clear}		
 laev10.11DE	レイラ		speaker
-laev10.11EC	…………。{wait}{clear}		
+laev10.11EC	…………。{wait}{clear}	.........{wait}{clear}	
 laev10.11FE	セレニス		speaker
 laev10.120E	強情ね……。{wait}{clear}		
 laev10.1222	いいわ……{wait}{clear}		
@@ -122,17 +122,17 @@ laev10.12A6	《姿を現す。》{n}
 laev10.12BC	《姿を現さない。》{n}		
 laev10.12D6	セレニス		speaker
 laev10.12E6	いいの？{n}彼女を救いたくないの？{wait}{clear}		
-laev10.130E	＄＄＄＄＄＄		speaker
+laev10.130E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.131E	……ここにいます。{wait}{clear}		
 laev10.1334	セレニス		speaker
 laev10.1344	やはりいたわね……。{wait}{clear}		
 laev10.1360	暗殺を謀ろうなんて、{n}ずいぶんと無茶をさせるのね……。{wait}{clear}		
-laev10.139A	＄＄＄＄＄＄		speaker
+laev10.139A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.13AA	いえ……{n}こんなことをさせるつもりはありませんでした……。{wait}{clear}		
 laev10.13E8	セレニス		speaker
 laev10.13F8	どうやら、若い天使ね。{n}しばらく前から感じていたけど……{wait}{clear}		
 laev10.1438	出会えてうれしいわ。{wait}{clear}		
-laev10.1450	＄＄＄＄＄＄		speaker
+laev10.1450	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.1460	あなたはいったい……。{wait}{clear}		
 laev10.147A	セレニス		speaker
 laev10.148A	私はこの娘と同じように天使に仕える者よ。{wait}{clear}		
@@ -147,7 +147,7 @@ laev10.16E0	セレニス		speaker
 laev10.16F0	！？{wait}{clear}		
 laev10.171E	レイラ		speaker
 laev10.172C	大丈夫？　＄＄＄＄＄＄。{wait}{clear}		
-laev10.1748	＄＄＄＄＄＄		speaker
+laev10.1748	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.1758	はい……大丈夫です……。{wait}{clear}		
 laev10.1782	レイラ		speaker
 laev10.1790	ここを出ましょう、＄＄＄＄＄＄。{wait}{clear}		

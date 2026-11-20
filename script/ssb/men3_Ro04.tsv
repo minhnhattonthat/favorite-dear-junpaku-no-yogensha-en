@@ -1,23 +1,23 @@
 id	jp	en	notes
 men3_Ro04.005C	ロクス		speaker
 men3_Ro04.0066	やっと来たか。{wait}{clear}もう来ないんじゃないかと思ったところだ。{wait}{clear}		
-men3_Ro04.00A4	＄＄＄＄＄＄		speaker
+men3_Ro04.00A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro04.00B4	なにかあったのですか？　ロクス？{wait}{clear}		
 men3_Ro04.00D8	ロクス		speaker
 men3_Ro04.00E2	いや、べつになにもないよ。{n}ただ、このタローカードを渡そうと思ったんだ。{wait}{clear}受け取ってくれないか？{wait}{clear}		
 men3_Ro04.0148	ＮＵＬＬ	NULL	speaker
 men3_Ro04.0158	《ありがとうございます。》{n}		
 men3_Ro04.017A	《戒律があるので……。》{n}		
-men3_Ro04.019A	＄＄＄＄＄＄		speaker
+men3_Ro04.019A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro04.01AA	ありがとうございます。{n}えっと、これはなにに使うカードなのですか？{wait}{clear}		
 men3_Ro04.01FC	ロクス		speaker
 men3_Ro04.0206	これか？{n}このカードは占いに使うものらしいな。{n}僕にもよくわからないが……。{wait}{clear}		
 men3_Ro04.0262	こんなものでも、少しはなにかの役に立ちそうか？{wait}{clear}		
-men3_Ro04.0294	＄＄＄＄＄＄		speaker
+men3_Ro04.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro04.02A4	ええ、もちろんです。{n}本当にありがとうございます。{wait}{clear}		
-men3_Ro04.02DE	＄＄＄＄＄＄		speaker
+men3_Ro04.02DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro04.02EE	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Ro04.035E	ロクス		speaker
 men3_Ro04.0368	戒律？{n}ったく、天使というのは面倒なものだな。{wait}{clear}		
-men3_Ro04.039A	＄＄＄＄＄＄		speaker
+men3_Ro04.039A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Ro04.03AA	本当にすみません……。{wait}{clear}		

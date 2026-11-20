@@ -1,28 +1,28 @@
 id	jp	en	notes
 men2_Ro02.0052	ロクス		speaker
 men2_Ro02.005C	やっと来たか。{wait}{clear}		
-men2_Ro02.006E	＄＄＄＄＄＄		speaker
+men2_Ro02.006E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.007E	あ、ロクス……！{n}今日はどうしたのですか？{wait}{clear}		
 men2_Ro02.00AC	ロクス		speaker
 men2_Ro02.00B6	ああ、ちょっと＄＄＄＄＄＄に{n}つきあって欲しいところがあるんだ。{wait}{clear}時間、あるか？{wait}{clear}		
 men2_Ro02.010C	ＮＵＬＬ	NULL	speaker
 men2_Ro02.011C	《お酒じゃないですよね？》{n}		
 men2_Ro02.013E	《ええ……。》{n}		
-men2_Ro02.0154	＄＄＄＄＄＄		speaker
+men2_Ro02.0154	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.0164	まさか、{n}お酒を飲みいくわけじゃないですよね…？{wait}{clear}		
 men2_Ro02.0198	ロクス		speaker
 men2_Ro02.01A2	まあ、そうも言えないことはないけどな。{n}ただ、君に迷惑はかけないつもりだ。{wait}{clear}前のように、無茶もするつもりはない。{n}それにこんなときだから、はしゃぐ気もない。{wait}{clear}		
-men2_Ro02.0244	＄＄＄＄＄＄		speaker
+men2_Ro02.0244	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.0254	そうですか……？{n}それならおつきあいしてもいいですよ。{wait}{clear}		
 men2_Ro02.029A	ロクス		speaker
 men2_Ro02.02A4	そう言ってもらえて、うれしいよ。{n}じゃあ、行こうか。{wait}{clear}		
-men2_Ro02.02E0	＄＄＄＄＄＄		speaker
+men2_Ro02.02E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.02F0	ええ……大丈夫ですけど……{n}どこへ行くのですか？{wait}{clear}		
 men2_Ro02.0324	ロクス		speaker
 men2_Ro02.032E	もしかして、酒場とかだと思っているのか？{wait}{clear}たしかに僕だからそう思われてもしかたがないけど、{n}こういうときだから、昔みたいに、{n}無茶もしないし、はしゃぐ気もないよ。{wait}{clear}		
-men2_Ro02.03D6	＄＄＄＄＄＄		speaker
+men2_Ro02.03D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.03E6	そうですか……。{n}ロクスがそう言うのでしたら、わかりました。{n}一緒に行きます。{wait}{clear}		
 men2_Ro02.0444	ロクス		speaker
 men2_Ro02.044E	そうか、よかった……。{wait}{clear}じゃあ、行こうか。{wait}{clear}		
-men2_Ro02.047E	＄＄＄＄＄＄		speaker
+men2_Ro02.047E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ro02.048E	ええ。{wait}{clear}		

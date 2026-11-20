@@ -10,18 +10,18 @@ loev10_02.019C	暗殺を行ったものはまだ見つかっていません。{n
 loev10_02.01F4	ルディエール		speaker
 loev10_02.0204	……兄さん。{n}おれはこんな終わり方認めないよ……{wait}{clear}		
 loev10_02.0260	ルディエール		speaker
-loev10_02.0270	…………。{wait}{clear}		
-loev10_02.027E	＄＄＄＄＄＄		speaker
+loev10_02.0270	…………。{wait}{clear}	.........{wait}{clear}	
+loev10_02.027E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev10_02.028E	ルディ……{wait}{clear}		
 loev10_02.029C	ＮＵＬＬ	NULL	speaker
 loev10_02.02AC	《どうして……》{n}		
 loev10_02.02C4	《残念なことです……》{n}		
-loev10_02.02EC	＄＄＄＄＄＄		speaker
+loev10_02.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev10_02.02FC	どうして、こんなことに……{wait}{clear}		
 loev10_02.031A	ルディエール		speaker
 loev10_02.032A	おれにだってわからない……。{n}ただ……兄さんは……{wait}{clear}…………。{wait}{clear}		
 loev10_02.037A	悪い……一人にしてくれないか。{n}しばらく……{wait}{clear}		
-loev10_02.03BA	＄＄＄＄＄＄		speaker
+loev10_02.03BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev10_02.03CA	残念なことです……。{wait}{clear}ルディ……{n}今は……{wait}{clear}		
 loev10_02.040E	ルディエール		speaker
 loev10_02.041E	ごめん……{wait}{clear}今は一人にしてくれないか……{n}話せる気分じゃない。{wait}{clear}		

@@ -1,8 +1,8 @@
 id	jp	en	notes
-ceev01_03.0032	＄＄＄＄＄＄		speaker
-ceev01_03.0042	えっと……{n}セシアはこの森にいるはずですが……。{wait}{clear}		
-ceev01_03.0090	＄＄＄＄＄＄		speaker
-ceev01_03.00A0	あれ？　見あたりませんね……。{n}でも、レイフォリアの森は広いですから、{n}本当にここかどうかも……。{wait}{clear}		
-ceev01_03.010A	＄＄＄＄＄＄		speaker
-ceev01_03.011A	あら？　見あたりませんね……。{n}でも、レイフォリアの森は広いですから、{n}本当にここかどうかも……。{wait}{clear}		
-ceev01_03.0180	しかたがないですね。{n}また、時間をあらためて来てみましょう。{wait}{clear}		
+ceev01_03.0032	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev01_03.0042	えっと……{n}セシアはこの森にいるはずですが……。{wait}{clear}	Let's see... Cecia should be in this{n}forest...{wait}{clear}	
+ceev01_03.0090	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev01_03.00A0	あれ？　見あたりませんね……。{n}でも、レイフォリアの森は広いですから、{n}本当にここかどうかも……。{wait}{clear}	Huh? I don't see her... But the Reyforia{n}Forest is vast; I can't be sure she's even{n}here...{wait}{clear}	
+ceev01_03.010A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev01_03.011A	あら？　見あたりませんね……。{n}でも、レイフォリアの森は広いですから、{n}本当にここかどうかも……。{wait}{clear}	Oh? I don't see her... But the Reyforia{n}Forest is vast; I can't be sure she's even{n}here...{wait}{clear}	
+ceev01_03.0180	しかたがないですね。{n}また、時間をあらためて来てみましょう。{wait}{clear}	It can't be helped. I'll try coming back{n}another time.{wait}{clear}	

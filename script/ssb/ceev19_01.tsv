@@ -3,24 +3,24 @@ ceev19_01.0060	クラレンス		speaker
 ceev19_01.006E	ほら、天使様、とりにきな。{n}これがありゃ、世界は平和だぜ。{wait}{clear}		
 ceev19_01.00AC	ＮＵＬＬ	NULL	speaker
 ceev19_01.00BC	《魔石を受け取る。》{n}		
-ceev19_01.00E6	セシア		speaker
-ceev19_01.00F4	天使様！{wait}{clear}		
+ceev19_01.00E6	セシア	Cecia	speaker
+ceev19_01.00F4	天使様！{wait}{clear}	Angel!{wait}{clear}	
 ceev19_01.0104	目を開けてください……！{wait}{clear}		
 ceev19_01.0124	お願いです……天使様……！{wait}{clear}		
-ceev19_01.0168	セシア		speaker
+ceev19_01.0168	セシア	Cecia	speaker
 ceev19_01.0176	天使様……よかった……。{wait}{clear}		
 ceev19_01.0196	大丈夫ですか、お体は……。{wait}{clear}		
-ceev19_01.01B4	＄＄＄＄＄＄		speaker
+ceev19_01.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev19_01.01C4	……ええ、大丈夫です……。{wait}{clear}		
-ceev19_01.01FE	セシア		speaker
+ceev19_01.01FE	セシア	Cecia	speaker
 ceev19_01.0208	すみません、天使様……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまいました……。{wait}{clear}		
-ceev19_01.0262	＄＄＄＄＄＄		speaker
+ceev19_01.0262	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev19_01.0272	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
-ceev19_01.02FA	セシア		speaker
+ceev19_01.02FA	セシア	Cecia	speaker
 ceev19_01.0304	天使様、大丈夫ですか？{wait}{clear}		
-ceev19_01.031E	＄＄＄＄＄＄		speaker
+ceev19_01.031E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev19_01.032E	……ええ、大丈夫です……。{wait}{clear}		
-ceev19_01.034C	セシア		speaker
+ceev19_01.034C	セシア	Cecia	speaker
 ceev19_01.0356	すみません、天使様……。{n}ヴァイパーには魔石を持ったまま{n}逃げられてしまいました……。{wait}{clear}		
-ceev19_01.03B0	＄＄＄＄＄＄		speaker
+ceev19_01.03B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev19_01.03C0	そうですか……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		

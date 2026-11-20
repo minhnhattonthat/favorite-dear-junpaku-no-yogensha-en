@@ -14,7 +14,7 @@ roev05_02.0244	……賭けです。{wait}{clear}賭けに負け、{n}その男�
 roev05_02.028E	副教皇		speaker
 roev05_02.0298	宝玉の在処を賭けの代償としたのか？{n}ロクス！{wait}{clear}なんということだ！　お前は……{wait}{clear}		
 roev05_02.02EA	ロクス		speaker
-roev05_02.02F4	…………。{wait}{clear}		
+roev05_02.02F4	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.0302	副教皇		speaker
 roev05_02.030C	それで、その男の名は？{wait}{clear}		
 roev05_02.0326	ロクス		speaker
@@ -22,7 +22,7 @@ roev05_02.0330	本名はクラレンス……確かランゲラック。{wait}{c
 roev05_02.0390	副教皇		speaker
 roev05_02.039A	一刻も早くその男を探し出さねば……。{wait}{clear}しかしロクス……{n}お前には心底失望した……。{wait}{clear}		
 roev05_02.03F2	ロクス		speaker
-roev05_02.03FC	…………。{wait}{clear}		
+roev05_02.03FC	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.040A	副教皇		speaker
 roev05_02.0414	金と教皇としての責任を{n}取り引きしてしまうとはな……。{wait}{clear}お前に分別を期待していた{n}私が愚かだったようだ……。{wait}{clear}		
 roev05_02.0486	ロクス		speaker
@@ -36,22 +36,22 @@ roev05_02.0588	ロクス……{wait}{clear}お前は二度と聖都に戻って�
 roev05_02.05CC	ロクス		speaker
 roev05_02.05D6	言われなくとも、{n}二度と戻るつもりなどない！{wait}{clear}		
 roev05_02.0630	ロクス		speaker
-roev05_02.063A	…………。{wait}{clear}		
+roev05_02.063A	…………。{wait}{clear}	.........{wait}{clear}	
 roev05_02.0648	ＮＵＬＬ	NULL	speaker
 roev05_02.0658	《宝玉とは？》{n}		
 roev05_02.066E	《落ち着いてください。》{n}		
-roev05_02.0694	＄＄＄＄＄＄		speaker
+roev05_02.0694	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev05_02.06A4	ロクス……宝玉というのは何なのですか？{wait}{clear}		
 roev05_02.06DA	ロクス		speaker
 roev05_02.06E4	……この教会で守られている魔石のことだ。{wait}{clear}開祖の初代教皇エリアスが世界を守った証だ……。{wait}{clear}二度と人の手に渡らないように守られていた。{wait}{clear}		
-roev05_02.077C	＄＄＄＄＄＄		speaker
+roev05_02.077C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev05_02.078C	デルフィニアの魔石……天竜の卵と呼ばれる{n}千年前に起きた混乱の元凶ですね。{wait}{clear}		
 roev05_02.07DA	ロクス		speaker
 roev05_02.07E4	そうだ……そうとも呼ばれているな……。{wait}{clear}		
 roev05_02.081A	ロクス		speaker
 roev05_02.0824	しかし……{n}僕は自分の意志で{n}秘宝の在処をしゃべったのではない……。{wait}{clear}カードに負けた瞬間……{n}やつの言葉に逆らえなかった。{wait}{clear}まるで強い魔法にかかったかのように……。{wait}{clear}		
 roev05_02.08DC	クソッ……{wait}{clear}この落とし前は必ずつけさせてもらう。{n}ヴァイパーめ……。{wait}{clear}		
-roev05_02.093C	＄＄＄＄＄＄		speaker
+roev05_02.093C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev05_02.094C	ロクス、落ち着いてください……。{wait}{clear}		
 roev05_02.097C	ロクス		speaker
 roev05_02.0986	……別になんともない。{n}もともと、ここになど戻ってきたくはなかった……。{wait}{clear}ヴァイパー……{n}僕はやつに借りができた……。{wait}{clear}この聖都を追われるのはかまわない……{n}だが、コケにされて終わりにはしない……。{wait}{clear}		

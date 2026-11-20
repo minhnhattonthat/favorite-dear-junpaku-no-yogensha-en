@@ -1,42 +1,42 @@
 id	jp	en	notes
-Y06ev_01.001A	＄＄＄＄＄＄		speaker
+Y06ev_01.001A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.002A	さて、アクイラにもお休みをあげましたし……。{n}のんびりしてくれているといいのですけど。{wait}{clear}		
-Y06ev_01.0084	アクイラ		speaker
+Y06ev_01.0084	アクイラ	Aquila	speaker
 Y06ev_01.0094	きゃ～、あはははっ！{wait}{clear}		
-Y06ev_01.00AC	＄＄＄＄＄＄		speaker
+Y06ev_01.00AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.00BC	アクイラ？{wait}{clear}		
-Y06ev_01.00CA	アクイラ		speaker
+Y06ev_01.00CA	アクイラ	Aquila	speaker
 Y06ev_01.00DA	あはは、くすぐったいよ！{wait}{clear}		
-Y06ev_01.011A	アクイラ		speaker
+Y06ev_01.011A	アクイラ	Aquila	speaker
 Y06ev_01.012A	あははっ！{wait}{clear}		
 Y06ev_01.013C	あ、天使様……！{wait}{clear}		
-Y06ev_01.0150	＄＄＄＄＄＄		speaker
+Y06ev_01.0150	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.0160	楽しそうですね、アクイラ。{wait}{clear}		
-Y06ev_01.017E	アクイラ		speaker
+Y06ev_01.017E	アクイラ	Aquila	speaker
 Y06ev_01.018E	あの……{n}やっぱり、こうやってみんなと遊ぶと{n}すっきりしますから……。{wait}{clear}		
-Y06ev_01.01D8	＄＄＄＄＄＄		speaker
+Y06ev_01.01D8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.01E8	そうですか。{n}それは、よかったですね。{wait}{clear}		
-Y06ev_01.0212	アクイラ		speaker
+Y06ev_01.0212	アクイラ	Aquila	speaker
 Y06ev_01.0222	はい。{n}たまにはこうして思いきり遊ばないとダメですよね。{wait}{clear}		
-Y06ev_01.025E	＄＄＄＄＄＄		speaker
+Y06ev_01.025E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.026E	そうですね。{n}気分転換は必要ですからね。{wait}{clear}		
-Y06ev_01.029A	アクイラ		speaker
+Y06ev_01.029A	アクイラ	Aquila	speaker
 Y06ev_01.02AA	はい、そう思います。{wait}{clear}		
 Y06ev_01.02C6	あの、でも、天使様が来てくれたので、{n}そろそろ帰ります。{wait}{clear}		
-Y06ev_01.0302	＄＄＄＄＄＄		speaker
+Y06ev_01.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.0312	では、一緒に帰りましょうか。{wait}{clear}		
-Y06ev_01.0332	アクイラ		speaker
+Y06ev_01.0332	アクイラ	Aquila	speaker
 Y06ev_01.0342	はい、天使様。{wait}{clear}		
-Y06ev_01.0376	＄＄＄＄＄＄		speaker
+Y06ev_01.0376	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.0386	疲れはとれましたか？　アクイラ。{wait}{clear}		
-Y06ev_01.03AA	アクイラ		speaker
+Y06ev_01.03AA	アクイラ	Aquila	speaker
 Y06ev_01.03BA	はい、ありがとうございました、天使様。{n}あの……{n}私、疲れちゃうとお仕事できないんです……。{wait}{clear}		
 Y06ev_01.041E	でも、お休み欲しいって{n}ばかり言ってちゃいけませんよね……？{wait}{clear}		
-Y06ev_01.045E	＄＄＄＄＄＄		speaker
+Y06ev_01.045E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.046E	そうですね……。{n}あまり、お休みされるのは……。{wait}{clear}		
-Y06ev_01.04A2	アクイラ		speaker
+Y06ev_01.04A2	アクイラ	Aquila	speaker
 Y06ev_01.04B2	あ、あ、そうですよね。{n}すいません、天使様。{n}大丈夫です、また、がんばりますから。{wait}{clear}		
-Y06ev_01.0508	＄＄＄＄＄＄		speaker
+Y06ev_01.0508	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y06ev_01.0518	ありがとう、アクイラ。{n}でも、あまり無理しなくていいですからね。{wait}{clear}		
-Y06ev_01.055C	アクイラ		speaker
-Y06ev_01.056C	はい、天使様！{wait}{clear}		
+Y06ev_01.055C	アクイラ	Aquila	speaker
+Y06ev_01.056C	はい、天使様！{wait}{clear}	Yes, Angel!{wait}{clear}	

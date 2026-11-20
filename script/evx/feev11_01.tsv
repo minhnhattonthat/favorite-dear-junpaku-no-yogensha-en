@@ -1,44 +1,44 @@
 id	jp	en	notes
 feev11_01.0002	1		dev label (guess: not shown)
 feev11_01.00A2	フェイン		unit name (32-byte field)
-feev11_01.00DE	聖母		unit name (32-byte field)
-feev11_01.04D8	聖母		speaker
+feev11_01.00DE	聖母	Holy Mother	unit name (32-byte field)
+feev11_01.04D8	聖母	Holy Mother	speaker
 feev11_01.04EB	戦士よ、よくここまで来ました。		text
 feev11_01.0518	フェイン		speaker
 feev11_01.052F	あなたは……。		text
-feev11_01.054C	聖母		speaker
+feev11_01.054C	聖母	Holy Mother	speaker
 feev11_01.055F	この聖なる森を守っているディアナという者です。		text
 feev11_01.059C	フェイン		speaker
 feev11_01.05B3	まさか……あの伝説は……。		text
-feev11_01.05DC	聖母		speaker
+feev11_01.05DC	聖母	Holy Mother	speaker
 feev11_01.05EF	ここへたどり着くことができるのは選ばれた者、{n}聖なる祝福を受けた者だけです……。{n}戦士よ……あなたは選ばれた者なのですね……。		text
 feev11_01.067C	フェイン		speaker
 feev11_01.0693	……自分が選ばれたかどうかはわかりません……。{n}ただ、導かれているのは確かです。		text
-feev11_01.06F2	聖母		speaker
+feev11_01.06F2	聖母	Holy Mother	speaker
 feev11_01.0705	そうですか……。{n}あなたの名前はなんというのですか？		text
 feev11_01.0748	フェイン		speaker
 feev11_01.075F	フェイン・ルー・ルグスといいます。		text
-feev11_01.0790	聖母		speaker
+feev11_01.0790	聖母	Holy Mother	speaker
 feev11_01.07A3	では、フェイン、こちらへ……。		text
 feev11_01.07D0	フェイン		speaker
 feev11_01.07E7	はい……。		text
-feev11_01.0850	聖母		speaker
+feev11_01.0850	聖母	Holy Mother	speaker
 feev11_01.0863	ずいぶんと強い力を持っていますね……{n}なかなかの才があるのが感じられます。		text
 feev11_01.08BC	フェイン		speaker
 feev11_01.08D3	…………。		text
-feev11_01.08EC	聖母		speaker
+feev11_01.08EC	聖母	Holy Mother	speaker
 feev11_01.08FF	フェイン……あなたのこれからの戦いは{n}きっと困難を極めるでしょう……。{n}		text
 feev11_01.0956	それは、あなただけでなく、{n}天使様に導かれる者、すべてに言えることですが、{n}邪悪な力と戦うためには強い意志が必要となります。		text
 feev11_01.09E1	敵は人の心の弱さをねらってくるからです。{n}ですが、それに屈してはなりませんよ。		text
 feev11_01.0A3E	フェイン		speaker
 feev11_01.0A55	ディアナ様……{n}邪悪な力の正体をあなたは知っているのですか？		text
-feev11_01.0AA0	聖母		speaker
+feev11_01.0AA0	聖母	Holy Mother	speaker
 feev11_01.0AB3	いいえ、天使様にわからないことは、{n}私にもわかりません。		text
 feev11_01.0AFA	ただ、私は、いまこの世界を狙っている、{n}悪魔の邪悪さは知っています。{n}人が彼らと戦うことのきびしさも……。		text
 feev11_01.0B73	フェイン		speaker
 feev11_01.0B8A	そうですか……。{n}自分も邪悪な存在を感じてはいます。		text
 feev11_01.0BCD	そして、{n}それが伝説の再来にならないことを{n}望んでいます……。		text
-feev11_01.0C1A	聖母		speaker
+feev11_01.0C1A	聖母	Holy Mother	speaker
 feev11_01.0C2D	そうですね、その通りです。{n}ただ、すでになにかが動き始めています。{n}どうか、いつも注意だけはしていてください。		text
 feev11_01.0CAA	私はこうしてお話しすることしかできませんが、{n}皆とは心を合わせて、魔と戦う覚悟はしています。		text
 feev11_01.0D15	フェイン……{n}天使様の守護を受けた者として、{n}この世界の暗闇をはらいのけましょう。		text

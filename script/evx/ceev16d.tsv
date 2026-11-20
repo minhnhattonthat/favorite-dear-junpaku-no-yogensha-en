@@ -1,55 +1,55 @@
 id	jp	en	notes
-ceev16d.00A2	セシア		unit name (32-byte field)
-ceev16d.00DE	イオン		unit name (32-byte field)
+ceev16d.00A2	セシア	Cecia	unit name (32-byte field)
+ceev16d.00DE	イオン	Ion	unit name (32-byte field)
 ceev16d.011A	セレニス		unit name (32-byte field)
 ceev16d.0156	母親		unit name (32-byte field)
 ceev16d.0574	セレニス		speaker
 ceev16d.058B	魔石をもらいに来たわ。イオン！		text
 ceev16d.05C4	セレニス		speaker
 ceev16d.05DB	ん？　誰だ、お前は。		text
-ceev16d.05FE	セシア		speaker
+ceev16d.05FE	セシア	Cecia	speaker
 ceev16d.0613	あなた……{n}あなたが、イオンを利用していたのね……。		text
 ceev16d.0656	セレニス		speaker
 ceev16d.066D	その雰囲気……天使の勇者か。		text
-ceev16d.0698	セシア		speaker
+ceev16d.0698	セシア	Cecia	speaker
 ceev16d.06AD	こんな小さな子を……だまして……ひどい……。		text
 ceev16d.06E8	セレニス		speaker
 ceev16d.06FF	取引は取引、約束は果たすわ。{n}さあ、イオン、お母さんを元気にしてあげるわ。		text
-ceev16d.0758	イオン		speaker
+ceev16d.0758	イオン	Ion	speaker
 ceev16d.076D	え？		text
 ceev16d.0780	セレニス		speaker
 ceev16d.0797	信じていないのね……いいわほら……。		text
-ceev16d.07DE	イオン		speaker
+ceev16d.07DE	イオン	Ion	speaker
 ceev16d.07F3	母さん！？		text
 ceev16d.0850	セレニス		speaker
 ceev16d.0867	あなたの大事なお母さんよ。イオン。		text
-ceev16d.0898	イオン		speaker
+ceev16d.0898	イオン	Ion	speaker
 ceev16d.08AD	……違う。母さんじゃない……{n}やっぱり、もう……母さんはいない……。		text
 ceev16d.0944	セレニス		speaker
 ceev16d.095B	…………。		text
-ceev16d.0A0C	イオン		speaker
+ceev16d.0A0C	イオン	Ion	speaker
 ceev16d.0A21	うあっ！！		text
-ceev16d.0A4E	セシア		speaker
+ceev16d.0A4E	セシア	Cecia	speaker
 ceev16d.0A63	イオン！		text
 ceev16d.0AAA	セレニス		speaker
 ceev16d.0AC1	魔石はもらっていくわ。		text
-ceev16d.0AE6	セシア		speaker
+ceev16d.0AE6	セシア	Cecia	speaker
 ceev16d.0AFB	待ちなさい！！		text
 ceev16d.0B18	セレニス		speaker
 ceev16d.0B2F	せいぜい子供とたわむれてなさい、天使の勇者。{n}ハハハハハ。		text
-ceev16d.0C18	セシア		speaker
+ceev16d.0C18	セシア	Cecia	speaker
 ceev16d.0C2D	イオン！		text
-ceev16d.0C44	イオン		speaker
+ceev16d.0C44	イオン	Ion	speaker
 ceev16d.0C59	……お姉ちゃん……		text
 ceev16d.0C7A	お姉ちゃんの名前……教えて……。		text
-ceev16d.0CA9	セシア		speaker
+ceev16d.0CA9	セシア	Cecia	speaker
 ceev16d.0CBE	セシアよ！		text
-ceev16d.0CD7	イオン		speaker
+ceev16d.0CD7	イオン	Ion	speaker
 ceev16d.0CEC	セシアお姉ちゃんか……。		text
-ceev16d.0D13	セシア		speaker
+ceev16d.0D13	セシア	Cecia	speaker
 ceev16d.0D28	もうしゃべらないで……。		text
-ceev16d.0D4F	イオン		speaker
+ceev16d.0D4F	イオン	Ion	speaker
 ceev16d.0D64	ごめんなさい、セシアお姉ちゃん……。		text
 ceev16d.0D97	……やっぱり、ぼく…お母さんに会いに行くよ……。		text
-ceev16d.0DD6	セシア		speaker
+ceev16d.0DD6	セシア	Cecia	speaker
 ceev16d.0DEB	イオン……。		text

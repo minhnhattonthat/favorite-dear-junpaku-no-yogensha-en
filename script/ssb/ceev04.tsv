@@ -1,21 +1,21 @@
 id	jp	en	notes
-ceev04.00EA	セシア		speaker
-ceev04.00F8	あなた、けがはない？{wait}{clear}		
-ceev04.0110	イオン		speaker
-ceev04.011A	…………。{wait}{clear}		
-ceev04.0128	セシア		speaker
-ceev04.0136	大丈夫、もう平気よ、{wait}{clear}		
-ceev04.014E	イオン		speaker
-ceev04.0158	…………。{wait}{clear}		
-ceev04.0166	セシア		speaker
-ceev04.0174	名前はなんていうの？{n}お母さん、お父さんはどうしたの？{wait}{clear}		
-ceev04.01AE	イオン		speaker
-ceev04.01B8	…………。{wait}{clear}		
-ceev04.01C6	セシア		speaker
-ceev04.01D4	……けがをしているのね。{n}今、手当を……{wait}{clear}		
-ceev04.0204	イオン		speaker
-ceev04.020E	うるさい……。{wait}{clear}		
-ceev04.0220	セシア		speaker
-ceev04.022E	え？{wait}{clear}		
-ceev04.023A	イオン		speaker
-ceev04.0244	ぼくにさわるな……。{wait}{clear}		
+ceev04.00EA	セシア	Cecia	speaker
+ceev04.00F8	あなた、けがはない？{wait}{clear}	Are you hurt?{wait}{clear}	
+ceev04.0110	イオン	Ion	speaker
+ceev04.011A	…………。{wait}{clear}	.........{wait}{clear}	
+ceev04.0128	セシア	Cecia	speaker
+ceev04.0136	大丈夫、もう平気よ、{wait}{clear}	It's all right, you're safe now.{wait}{clear}	
+ceev04.014E	イオン	Ion	speaker
+ceev04.0158	…………。{wait}{clear}	.........{wait}{clear}	
+ceev04.0166	セシア	Cecia	speaker
+ceev04.0174	名前はなんていうの？{n}お母さん、お父さんはどうしたの？{wait}{clear}	What's your name? Where are your mother and{n}father?{wait}{clear}	
+ceev04.01AE	イオン	Ion	speaker
+ceev04.01B8	…………。{wait}{clear}	.........{wait}{clear}	
+ceev04.01C6	セシア	Cecia	speaker
+ceev04.01D4	……けがをしているのね。{n}今、手当を……{wait}{clear}	...You're hurt. Let me treat that...{wait}{clear}	
+ceev04.0204	イオン	Ion	speaker
+ceev04.020E	うるさい……。{wait}{clear}	Shut up...{wait}{clear}	
+ceev04.0220	セシア	Cecia	speaker
+ceev04.022E	え？{wait}{clear}	What?{wait}{clear}	
+ceev04.023A	イオン	Ion	speaker
+ceev04.0244	ぼくにさわるな……。{wait}{clear}	Don't touch me...{wait}{clear}	

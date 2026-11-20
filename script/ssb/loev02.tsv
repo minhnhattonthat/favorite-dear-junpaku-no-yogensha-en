@@ -1,5 +1,5 @@
 id	jp	en	notes
-loev02.013E	＄＄＄＄＄＄		speaker
+loev02.013E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev02.014E	あくどい貴族がいなくなって、{n}村人もとても感謝していましたね。{wait}{clear}		
 loev02.0190	ルディエール		speaker
 loev02.01A0	ああ、でもな……{n}あんなやつがこんなところで{n}のさばるのを許した、王族……{wait}{clear}つまりおれにも……責任があるんだ。{wait}{clear}		
@@ -8,11 +8,11 @@ loev02.0232	感謝されるのはすこしバツが悪いよ……。{wait}{clea
 loev02.025C	ＮＵＬＬ	NULL	speaker
 loev02.026C	《正しいことをした……》{n}		
 loev02.028C	《そうですか……》{n}		
-loev02.02B0	＄＄＄＄＄＄		speaker
+loev02.02B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev02.02C0	いいえ、ルディ自身は正しいことをしたのです。{n}それは認めていいのではないですか？{wait}{clear}		
 loev02.0322	ルディエール		speaker
 loev02.0332	ま、そうだな……。{n}そう思った方が気分がいいな……。{wait}{clear}		
-loev02.0380	＄＄＄＄＄＄		speaker
+loev02.0380	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev02.0390	そうですか……。{wait}{clear}ルディは王族としての{n}責任を感じているのですね。{wait}{clear}		
 loev02.03E6	ルディエール		speaker
 loev02.03F6	責任……？{n}そんなおおげさなもんじゃないけどな。{wait}{clear}ただ、なんかさ、逆の立場だったら{n}納得いかないんじゃないかって思うから……。{wait}{clear}ただ、それだけさ……。{wait}{clear}		

@@ -1,5 +1,5 @@
 id	jp	en	notes
-feev03_03.004C	＄＄＄＄＄＄		speaker
+feev03_03.004C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.005C	フェイン、またグランドマスターのところへ{n}行くのですか？{wait}{clear}		
 feev03_03.0098	フェイン		speaker
 feev03_03.00A4	ああ。{n}ここまで来て、顔を出さないというのも{n}おかしいだろう？{wait}{clear}行ってくる。{wait}{clear}		
@@ -26,18 +26,18 @@ feev03_03.063C	わかりました。{wait}{clear}
 feev03_03.064E	ライノール		speaker
 feev03_03.065C	私は、この世界の起きていることを{n}むやみに心配はしていない。{wait}{clear}ただ、ロッジの……{n}我々魔導士の安全を慎重に考えているのだ。{wait}{clear}		
 feev03_03.06DC	フェイン		speaker
-feev03_03.06E8	はい……。{wait}{clear}		
+feev03_03.06E8	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev03_03.0726	フェイン		speaker
 feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}		
-feev03_03.0758	＄＄＄＄＄＄		speaker
+feev03_03.0758	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.0768	はい、なんですか？{wait}{clear}		
 feev03_03.077E	フェイン		speaker
 feev03_03.078A	帝国の動き、{n}いや……世界の混乱の理由についてだ。{n}なにか君の知っていることはないか？{wait}{clear}		
-feev03_03.07E4	＄＄＄＄＄＄		speaker
+feev03_03.07E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.07F4	いいえ、特には……。{wait}{clear}		
 feev03_03.080C	フェイン		speaker
 feev03_03.0818	そうか……。{n}なにかわかったら俺に教えてくれないか。{wait}{clear}俺はギルドを守らなくてはならない。{wait}{clear}君のいう世界の混乱、いや俺も見てきた混乱によって{n}ギルドが犯されるのは防ぎたい。{n}なんとしても。{wait}{clear}		
-feev03_03.08DA	＄＄＄＄＄＄		speaker
+feev03_03.08DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_03.08EA	はい、わかりました。{n}できるだけ、フェインに協力します。{wait}{clear}		
 feev03_03.0926	フェイン		speaker
 feev03_03.0932	すまないな……。{wait}{clear}		

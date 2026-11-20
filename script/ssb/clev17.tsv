@@ -8,7 +8,7 @@ clev17.0244	ロクス		speaker
 clev17.024E	恐ろしいやつだ……。{n}しかし、やつが言っていた、{n}めぐり合わせとは……{wait}{clear}		
 clev17.0298	ロクス		speaker
 clev17.02A2	＄＄＄＄＄＄、なにか知っているか……？{wait}{clear}		
-clev17.02CC	＄＄＄＄＄＄		speaker
+clev17.02CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev17.02DC	ええ、何となくですが……{n}機会があれば、お話しします。{wait}{clear}		
 clev17.037E	アイリーン		speaker
 clev17.038C	ヴァンパイアなんて、ホント、ごめんだわ。{n}もう、二度と会いたくない、あんなのと……。{wait}{clear}		
@@ -19,7 +19,7 @@ clev17.0576	レイブンルフト		speaker
 clev17.058C	ぐ……。{wait}{clear}		
 clev17.05BC	レイブンルフト		speaker
 clev17.05D2	お前に……敗れるとはな……。{wait}{clear}		
-clev17.05F2	セシア		speaker
+clev17.05F2	セシア	Cecia	speaker
 clev17.0600	私もあなたを倒す日がくるなど思わなかったわ……。{wait}{clear}		
 clev17.0634	レイブンルフト		speaker
 clev17.064A	ふん……。{wait}{clear}		
@@ -30,7 +30,7 @@ clev17.07D6	レイブンルフト		speaker
 clev17.07EC	……貴様に負けるとはな……{wait}{clear}		
 clev17.080E	だが忘れるな……{n}お前には私の血が、{n}竜の血が流れていることを……{wait}{clear}		
 clev17.0854	クライヴ		speaker
-clev17.0860	…………。{wait}{clear}		
+clev17.0860	…………。{wait}{clear}	.........{wait}{clear}	
 clev17.086E	レイブンルフト		speaker
 clev17.0884	お前もいつか……{n}私と同じ道を歩むだろう……。{wait}{clear}		
 clev17.08BA	そのとき絶望するがいい……{wait}{clear}		
@@ -55,7 +55,7 @@ clev17.0B6C	……長い時間だった……。{wait}{clear}
 clev17.0B8C	この血が私に与えたのはなんだったのだ……{wait}{clear}		
 clev17.0BBC	悪夢か……{wait}{clear}		
 clev17.0BCA	クライヴ		speaker
-clev17.0BD6	…………。{wait}{clear}		
+clev17.0BD6	…………。{wait}{clear}	.........{wait}{clear}	
 clev17.0BE4	レイブンルフト		speaker
 clev17.0BFA	この終わりが、私に与えられた運命なのだな……{wait}{clear}		
 clev17.0C2E	さらばだ……。{wait}{clear}		

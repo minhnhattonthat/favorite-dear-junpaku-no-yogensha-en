@@ -33,9 +33,9 @@ BTL_EVT1.0597S	ファントム		speaker
 BTL_EVT1.05A2	…………。		
 BTL_EVT1.05B0S	ファントム		speaker
 BTL_EVT1.05BB	…………。		
-BTL_EVT1.05EDS	イオン		speaker
+BTL_EVT1.05EDS	イオン	Ion	speaker
 BTL_EVT1.05F4	ぼくの邪魔をするから……。		
-BTL_EVT1.0612S	イオン		speaker
+BTL_EVT1.0612S	イオン	Ion	speaker
 BTL_EVT1.0619	ぼくの邪魔をするから……。		
 BTL_EVT1.065BS	クライヴ		speaker
 BTL_EVT1.0664	ここから退け……。		
@@ -727,9 +727,9 @@ BTL_EVT1.4AD0S	レイブンルフト		speaker
 BTL_EVT1.4ADF	無様な敗北者が……。		
 BTL_EVT1.4B1BS	クライヴ		speaker
 BTL_EVT1.4B24	…………。		
-BTL_EVT1.4B32S	イオン		speaker
+BTL_EVT1.4B32S	イオン	Ion	speaker
 BTL_EVT1.4B39	ぼくの邪魔をするから……。		
-BTL_EVT1.4B57S	イオン		speaker
+BTL_EVT1.4B57S	イオン	Ion	speaker
 BTL_EVT1.4B5E	ぼくの邪魔をするから……。		
 BTL_EVT1.4BC4S	クライヴ		speaker
 BTL_EVT1.4BCD	…………。		

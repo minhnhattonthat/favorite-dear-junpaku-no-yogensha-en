@@ -33,9 +33,9 @@ BTL_EVT4.0623S	ファントム		speaker
 BTL_EVT4.062E	…………。		
 BTL_EVT4.063CS	ファントム		speaker
 BTL_EVT4.0647	…………。		
-BTL_EVT4.0679S	イオン		speaker
+BTL_EVT4.0679S	イオン	Ion	speaker
 BTL_EVT4.0680	ぼくの邪魔をするから……。		
-BTL_EVT4.069ES	イオン		speaker
+BTL_EVT4.069ES	イオン	Ion	speaker
 BTL_EVT4.06A5	ぼくの邪魔をするから……。		
 BTL_EVT4.06E7S	アイリーン		speaker
 BTL_EVT4.06F2	帝国って、なんでこんなことするの！？		
@@ -713,9 +713,9 @@ BTL_EVT4.549BS	レイブンルフト		speaker
 BTL_EVT4.54AA	無様な敗北者が……。		
 BTL_EVT4.54E6S	アイリーン		speaker
 BTL_EVT4.54F1	この子……強い魔力を持っていたから、{n}きっと利用されたのね……可哀想に……。{wait}{clear}まさか……姉さんが……。		
-BTL_EVT4.555DS	イオン		speaker
+BTL_EVT4.555DS	イオン	Ion	speaker
 BTL_EVT4.5564	ぼくの邪魔をするから……。		
-BTL_EVT4.5582S	イオン		speaker
+BTL_EVT4.5582S	イオン	Ion	speaker
 BTL_EVT4.5589	ぼくの邪魔をするから……。		
 BTL_EVT4.55EFS	アイリーン		speaker
 BTL_EVT4.55FA	姉さんがなぜ……		

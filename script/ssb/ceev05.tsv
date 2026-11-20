@@ -1,25 +1,25 @@
 id	jp	en	notes
-ceev05.0048	セシア		speaker
-ceev05.0056	にぎやかな街ですね。{n}人がたくさん……。{wait}{clear}		
-ceev05.0086	なんだか酔ってしまいそう……。{wait}{clear}		
-ceev05.00AC	天使様、あの建物は？{wait}{clear}		
-ceev05.00C4	＄＄＄＄＄＄		speaker
-ceev05.00D4	あれは聖堂ですよ。{wait}{clear}		
-ceev05.00EA	セシア		speaker
-ceev05.00F8	聖堂？{wait}{clear}		
-ceev05.0102	＄＄＄＄＄＄		speaker
-ceev05.0112	宗教の儀式や礼拝に使われる建物で、{n}この国の名ともなった有名な場所です。{wait}{clear}		
-ceev05.015E	セシア		speaker
-ceev05.016C	立派なものなのですね……。{n}見に行ってもいいですか？　天使様。{wait}{clear}		
-ceev05.01AE	＄＄＄＄＄＄		speaker
-ceev05.01BE	ええ、いいですよ。{wait}{clear}		
-ceev05.01F8	セシア		speaker
-ceev05.0206	こんな大きな建物を人が作ったのですね……。{wait}{clear}		
-ceev05.0238	あ、あの絵……{wait}{clear}		
-ceev05.0262	セシア		speaker
-ceev05.0270	天使様が……{wait}{clear}		
-ceev05.0284	それに……これは……{n}ディアナ様も描かれています！{wait}{clear}		
-ceev05.02BE	森の伝説と一緒です……。{wait}{clear}		
-ceev05.02DE	天使様に導かれた勇者が世界を救った……{wait}{clear}		
-ceev05.030C	こんなところにも……それが伝わっている。{wait}{clear}		
-ceev05.033C	森の伝説はやっぱり本当だったんですね……。{wait}{clear}		
+ceev05.0048	セシア	Cecia	speaker
+ceev05.0056	にぎやかな街ですね。{n}人がたくさん……。{wait}{clear}	What a lively town. So many people...{wait}{clear}	
+ceev05.0086	なんだか酔ってしまいそう……。{wait}{clear}	I think I'm getting dizzy...{wait}{clear}	
+ceev05.00AC	天使様、あの建物は？{wait}{clear}	Angel, what is that building?{wait}{clear}	
+ceev05.00C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev05.00D4	あれは聖堂ですよ。{wait}{clear}	That's the cathedral.{wait}{clear}	
+ceev05.00EA	セシア	Cecia	speaker
+ceev05.00F8	聖堂？{wait}{clear}	Cathedral?{wait}{clear}	
+ceev05.0102	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev05.0112	宗教の儀式や礼拝に使われる建物で、{n}この国の名ともなった有名な場所です。{wait}{clear}	A building used for religious rites and{n}worship. It's a famous place; it even gave{n}this country its name.{wait}{clear}	
+ceev05.015E	セシア	Cecia	speaker
+ceev05.016C	立派なものなのですね……。{n}見に行ってもいいですか？　天使様。{wait}{clear}	It's magnificent... May I go and see it,{n}Angel?{wait}{clear}	
+ceev05.01AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev05.01BE	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
+ceev05.01F8	セシア	Cecia	speaker
+ceev05.0206	こんな大きな建物を人が作ったのですね……。{wait}{clear}	People built a building this big...{wait}{clear}	
+ceev05.0238	あ、あの絵……{wait}{clear}	Oh, that painting...{wait}{clear}	
+ceev05.0262	セシア	Cecia	speaker
+ceev05.0270	天使様が……{wait}{clear}	An angel...{wait}{clear}	
+ceev05.0284	それに……これは……{n}ディアナ様も描かれています！{wait}{clear}	And... this is... Diana-sama is in it too!{wait}{clear}	
+ceev05.02BE	森の伝説と一緒です……。{wait}{clear}	It's just like the forest's legend...{wait}{clear}	
+ceev05.02DE	天使様に導かれた勇者が世界を救った……{wait}{clear}	A hero guided by an angel saved the world...{wait}{clear}	
+ceev05.030C	こんなところにも……それが伝わっている。{wait}{clear}	Even here... the story has been passed down.{wait}{clear}	
+ceev05.033C	森の伝説はやっぱり本当だったんですね……。{wait}{clear}	So the forest's legend really was true...{wait}{clear}	

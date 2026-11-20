@@ -21,13 +21,13 @@ roev25b.0878	さあ、答えよ。		text
 roev25b.08A5	我らに仕えるか、それともこの勇者とともに、{n}天竜に食われ消滅するか？		text
 roev25b.0904	《わかりました……》		choice
 roev25b.091B	《いいえ……》		choice
-roev25b.093C	＄＄＄＄＄＄		speaker
+roev25b.093C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25b.0957	……はい……わかりました……{n}私はあなたの使いとなりましょう……		text
 roev25b.09A6	どうか……彼の魂を、{n}彼の命を救ってください……		text
 roev25b.09F5	エンディミオン		speaker
 roev25b.0A12	ふふ、すばらしい。{n}いい心ばえだ……		text
 roev25b.0A55	では……この勇者を救ってやろう……。		text
-roev25b.0ADC	＄＄＄＄＄＄		speaker
+roev25b.0ADC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25b.0AF7	ロクス！！！		text
 roev25b.0B22	エンディミオン		speaker
 roev25b.0B3F	ハハハハハハ！　いいぞ！{n}その姿だ……お前の絶望する姿……		text
@@ -35,7 +35,7 @@ roev25b.0B98	すべてを失ったその顔が見たかったのだ！		text
 roev25b.0BDD	つくづく度し難いな、{n}お前ら天使の愚かさというのは……。		text
 roev25b.0C34	さあ、お前も竜の体内で勇者と一緒にしてやろう……		text
 roev25b.0C83	死ね。		text
-roev25b.0CF8	＄＄＄＄＄＄		speaker
+roev25b.0CF8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev25b.0D13	いいえ……私は天使です……{n}悪魔に魂を売ることなどできません……。		text
 roev25b.0D64	彼は天使の私を信じ、戦ってくれたのです。{n}彼の魂も私の魂もあなた方に利用などさせません。		text
 roev25b.0DDB	エンディミオン		speaker

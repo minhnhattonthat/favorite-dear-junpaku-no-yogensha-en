@@ -1,33 +1,33 @@
 id	jp	en	notes
-men2_Ce01.0052	セシア		speaker
+men2_Ce01.0052	セシア	Cecia	speaker
 men2_Ce01.005C	急にお呼びしてすみません。{wait}{clear}		
-men2_Ce01.007A	＄＄＄＄＄＄		speaker
+men2_Ce01.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.008A	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}		
-men2_Ce01.00D4	セシア		speaker
+men2_Ce01.00D4	セシア	Cecia	speaker
 men2_Ce01.00DE	いえ、そんなたいしたことではないのですが……{n}ただ、ちょっと天使様とお話したいと{n}思っただけなんです……。{wait}{clear}すみません、わがままを言ってしまって……。{wait}{clear}		
 men2_Ce01.017A	ＮＵＬＬ	NULL	speaker
 men2_Ce01.018A	《セシアに呼ばれたのだから……。》{n}		
 men2_Ce01.01B4	《そうだったのですね。》{n}		
-men2_Ce01.01D4	＄＄＄＄＄＄		speaker
+men2_Ce01.01D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.01E4	セシアに呼んでもらったのですから、{n}私は来たのです。{wait}{clear}私も……会いたかったですし……。{wait}{clear}		
-men2_Ce01.024C	セシア		speaker
+men2_Ce01.024C	セシア	Cecia	speaker
 men2_Ce01.0256	え？　本当ですか？{n}うれしい……。{wait}{clear}ありがとうございます、天使様……。{wait}{clear}		
-men2_Ce01.02A2	＄＄＄＄＄＄		speaker
+men2_Ce01.02A2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.02B2	じゃあ、せっかくですから、、{n}お話ししましょうか。{wait}{clear}		
-men2_Ce01.02F4	セシア		speaker
+men2_Ce01.02F4	セシア	Cecia	speaker
 men2_Ce01.02FE	はい。{wait}{clear}		
-men2_Ce01.030C	＄＄＄＄＄＄		speaker
+men2_Ce01.030C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.031C	そうだったのですね……。{n}でも、わがままだなんて、思わないでください。{wait}{clear}		
-men2_Ce01.0366	セシア		speaker
-men2_Ce01.0370	え？{wait}{clear}		
-men2_Ce01.0378	＄＄＄＄＄＄		speaker
+men2_Ce01.0366	セシア	Cecia	speaker
+men2_Ce01.0370	え？{wait}{clear}	What?{wait}{clear}	
+men2_Ce01.0378	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.0388	私も話がしたいと思っていたのですから……。{wait}{clear}		
-men2_Ce01.03C2	セシア		speaker
+men2_Ce01.03C2	セシア	Cecia	speaker
 men2_Ce01.03CC	天使様……本当に……？{wait}{clear}		
 men2_Ce01.03F2	よかった……。{n}私、天使様の邪魔をしているんじゃないかと{n}思っていたんです。{wait}{clear}		
-men2_Ce01.0442	＄＄＄＄＄＄		speaker
+men2_Ce01.0442	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.0452	忙しいときには、きちんと言いますよ。{wait}{clear}		
-men2_Ce01.0486	セシア		speaker
+men2_Ce01.0486	セシア	Cecia	speaker
 men2_Ce01.0490	じゃあ、お話しにつきあってくださるのですね？{wait}{clear}		
-men2_Ce01.04C0	＄＄＄＄＄＄		speaker
+men2_Ce01.04C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce01.04D0	ええ、もちろんです。{wait}{clear}		

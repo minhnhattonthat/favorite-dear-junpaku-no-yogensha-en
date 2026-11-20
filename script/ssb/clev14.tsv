@@ -4,45 +4,45 @@ clev14.0058	街を歩かないか……＄＄＄＄＄＄？{wait}{clear}
 clev14.007C	ＮＵＬＬ	NULL	speaker
 clev14.008C	《珍しいですね。》{n}		
 clev14.00A6	《ええ……。》{n}		
-clev14.00C6	＄＄＄＄＄＄		speaker
+clev14.00C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.00D6	珍しいですね、{n}あなたから声をかけてくれるなんて……。{wait}{clear}		
 clev14.0110	クライヴ		speaker
 clev14.0120	たまにはな……。{n}嫌か……？{wait}{clear}		
-clev14.0140	＄＄＄＄＄＄		speaker
+clev14.0140	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0150	いいえ……{n}ただ、意外だったものですから……。{wait}{clear}行きましょう。{wait}{clear}		
-clev14.019E	＄＄＄＄＄＄		speaker
+clev14.019E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.01AE	ええ……よろこんで……。{wait}{clear}		
 clev14.01CA	クライヴ		speaker
 clev14.01DA	……すまない。{wait}{clear}		
-clev14.0204	＄＄＄＄＄＄		speaker
+clev14.0204	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0214	気持ちのいい日ですね。{wait}{clear}		
 clev14.022E	クライヴ		speaker
 clev14.023E	そうだな……。{wait}{clear}		
-clev14.0250	＄＄＄＄＄＄		speaker
+clev14.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0260	どこへ行きましょうか、クライヴ？{wait}{clear}		
 clev14.0290	クライヴ		speaker
 clev14.029C	……っ！{wait}{clear}		
-clev14.02A8	＄＄＄＄＄＄		speaker
+clev14.02A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.02B8	クライヴ？{wait}{clear}大丈夫ですか？{wait}{clear}		
 clev14.02E4	クライヴ		speaker
 clev14.02F4	ああ、平気だ……気にしないでくれ。{n}行こう……。{wait}{clear}		
-clev14.0328	＄＄＄＄＄＄		speaker
+clev14.0328	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0338	こんな陽差しの強い日ですから、{n}あまり無理はしない方が……。{wait}{clear}つらいのでしょう……？{wait}{clear}		
 clev14.0398	クライヴ		speaker
 clev14.03A8	うっ……{wait}{clear}		
-clev14.03B4	＄＄＄＄＄＄		speaker
+clev14.03B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.03C4	クライヴ！？{wait}{clear}		
 clev14.03F0	クライヴ		speaker
 clev14.0400	……すまない。{wait}{clear}		
-clev14.0412	＄＄＄＄＄＄		speaker
+clev14.0412	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0422	宿へ、戻りましょう、クライヴ……。{n}あなたに無理はさせられませんから……。{wait}{clear}		
-clev14.048E	＄＄＄＄＄＄		speaker
+clev14.048E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.049E	気分はどうですか？{wait}{clear}		
 clev14.04B4	クライヴ		speaker
 clev14.04C4	……ああ、もう平気だ。{wait}{clear}		
 clev14.04EC	クライヴ		speaker
 clev14.04FC	……情けないな……君を誘っておいて。{wait}{clear}		
-clev14.0524	＄＄＄＄＄＄		speaker
+clev14.0524	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0534	いいです、そんなことは……。{wait}{clear}		
 clev14.0562	クライヴ		speaker
 clev14.0572	俺は……{wait}{clear}		
@@ -50,13 +50,13 @@ clev14.0582	君に出会えたことを……感謝している……。{wait}{c
 clev14.05AE	ＮＵＬＬ	NULL	speaker
 clev14.05BE	《ありがとう……。》{n}		
 clev14.05DA	《私もうれしい……。》{n}		
-clev14.0602	＄＄＄＄＄＄		speaker
+clev14.0602	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0612	ありがとう。クライヴ{n}あなたにそう言ってもらえて、うれしいです。{wait}{clear}		
 clev14.0656	クライヴ		speaker
 clev14.0666	……長い時間、俺は死ぬことだけを考えていた……{n}この痛みから逃れるために。{wait}{clear}		
 clev14.06B8	今は……少しでも耐えられればと思っている。{wait}{clear}		
 clev14.06EA	君のそばいられたこの時間……{n}俺はずっと忘れない……。{wait}{clear}		
-clev14.0734	＄＄＄＄＄＄		speaker
+clev14.0734	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev14.0744	ええ……{n}私もあなたに出会えたことをうれしく思っています。{wait}{clear}だから、あなたの苦しみを……{n}少しだけでも理解して、癒すことができたら……{wait}{clear}		
 clev14.07D0	クライヴ		speaker
 clev14.07E0	すまない……。{wait}{clear}		

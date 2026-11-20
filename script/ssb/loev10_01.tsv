@@ -6,11 +6,11 @@ loev10_01.00B2	兄さんの身に何かあったらしい……。{wait}{clear}�
 loev10_01.012C	ＮＵＬＬ	NULL	speaker
 loev10_01.013C	《ええ、わかりました》{n}		
 loev10_01.015A	《何があったのです？》{n}		
-loev10_01.0182	＄＄＄＄＄＄		speaker
+loev10_01.0182	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev10_01.0192	ええ、わかりました。{n}早く、戻ってください。{wait}{clear}		
 loev10_01.01CE	ルディエール		speaker
 loev10_01.01DE	悪いな……。{wait}{clear}		
-loev10_01.01F8	＄＄＄＄＄＄		speaker
+loev10_01.01F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev10_01.0208	何があったのです？{wait}{clear}		
 loev10_01.021E	ルディエール		speaker
 loev10_01.022E	いやな噂さ……。{n}兄さんが暗殺されたって……。{wait}{clear}		

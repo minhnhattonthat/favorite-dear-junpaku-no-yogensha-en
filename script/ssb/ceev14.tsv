@@ -1,82 +1,82 @@
 id	jp	en	notes
-ceev14.0046	＄＄＄＄＄＄		speaker
+ceev14.0046	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0056	ここは、とても大きな湖ですね。{wait}{clear}		
-ceev14.008A	セシア		speaker
+ceev14.008A	セシア	Cecia	speaker
 ceev14.0094	ここは、いまはドライハウプ湖と呼ばれています。{n}そして、千年前、私たちと天竜が戦った場所です。{wait}{clear}		
-ceev14.00F6	＄＄＄＄＄＄		speaker
+ceev14.00F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0106	え？　セシア……それが、聖母の記憶？{wait}{clear}		
-ceev14.012E	セシア		speaker
+ceev14.012E	セシア	Cecia	speaker
 ceev14.0138	はい……ディアナの記憶です。{wait}{clear}千年前、紅月王がデルフィニア山で見つけた{n}魔石によって、世界は混乱の一途をたどりました。{wait}{clear}紅月王は、魔石の力によって魔族を操り、{n}人々を殺しては、魔石の力を強めていきました。{wait}{clear}そして、最後には自らも魔石に捧げ、{n}天竜が姿を現したのです。{wait}{clear}天竜はこの世界を破壊し、{n}人々の悲しみ、苦しみ、恨みを力として、{n}どんどん強大になっていきました。{wait}{clear}		
-ceev14.02CE	セシア		speaker
+ceev14.02CE	セシア	Cecia	speaker
 ceev14.02D8	そんな天竜と私たち３人は戦ったのです。{n}大天使様に導かれて……。{wait}{clear}		
-ceev14.031C	＄＄＄＄＄＄		speaker
+ceev14.031C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.032C	大天使……。{wait}{clear}		
-ceev14.033C	セシア		speaker
+ceev14.033C	セシア	Cecia	speaker
 ceev14.0346	死闘の末、私たち３人はここで天竜を倒しました。{n}そして死んだ天竜からこの湖は生まれたのです。{n}そして、３つに砕かれた魔石が私たちの手の中に。{wait}{clear}大天使様は、{n}私たちに魔石を守るよう言い残されて、{n}天界へと戻られました。{wait}{clear}私たちは魔石をひとつずつ持ち、{n}それを守ることを誓い合いました。{wait}{clear}その後、ひとりは聖者として国をおこし、{n}ひとりは、不幸にもはるか北方の地で{n}魔にとらわれてしまいました……。{wait}{clear}		
-ceev14.04F4	セシア		speaker
+ceev14.04F4	セシア	Cecia	speaker
 ceev14.04FE	それなのに、魔石は奪われてしまいました。{n}もし、魔石が３つ集まったとしたら、{n}天竜が復活し、恐ろしいことが起こります……。{wait}{clear}あのときは、世界のため、人々のため、{n}私たちは必死に戦いました。{n}そして、魔石をあずかりました。{wait}{clear}ですが、私たちに魔石を託し、{n}世界の平和を望んだ{n}大天使様のお心が、今の私にはわかりません……。{wait}{clear}		
 ceev14.0644	ＮＵＬＬ	NULL	speaker
 ceev14.0654	《不安にならないでください。》{n}		
 ceev14.067A	《一緒にがんばりましょう。》{n}		
-ceev14.06A4	＄＄＄＄＄＄		speaker
+ceev14.06A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.06B4	千年前のこの地上界を守護した大天使の考えは、{n}私にはわかりません。{wait}{clear}ですが、きっと、{n}希望と未来を人間に託されたのだと思います。{wait}{clear}セシア……{n}どうか、不安な気持ちにならないでください。{wait}{clear}私に千年前の戦いのことを話してくれて{n}本当に、ありがとうございます。{wait}{clear}千年前のことを知っているあなたにとって、{n}今がどんなに大変な状態にあるのかは、{n}私以上にわかっているのだと思います。{wait}{clear}ですが、きっと希望はあるはずです。{wait}{clear}		
-ceev14.085A	セシア		speaker
+ceev14.085A	セシア	Cecia	speaker
 ceev14.0864	そうですね……天使様。{n}ディアナ様の記憶があまりにもあざやかで、{n}弱気になってしまったようです。{wait}{clear}きっと魔石を取り戻してみせます。{wait}{clear}		
-ceev14.08F6	＄＄＄＄＄＄		speaker
+ceev14.08F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0906	千年前のこの地上界を守護した大天使の考えは、{n}私にはわかりません。{wait}{clear}ですが、きっと、{n}希望と未来を人間に託されたのだと思います。{wait}{clear}だから、セシア、一緒にがんばりましょう。{wait}{clear}千年前のことを知っているあなたにとって、{n}今がどんなに大変な状態にあるのかは、{n}私以上にわかっているのだと思います。{wait}{clear}ですが、きっと希望はあるはずです。{wait}{clear}		
-ceev14.0A56	セシア		speaker
-ceev14.0A60	天使様……。{wait}{clear}		
-ceev14.0A70	＄＄＄＄＄＄		speaker
+ceev14.0A56	セシア	Cecia	speaker
+ceev14.0A60	天使様……。{wait}{clear}	Angel...{wait}{clear}	
+ceev14.0A70	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0A80	私に千年前の戦いのことを話してくれて{n}本当に、ありがとうございます。{wait}{clear}		
-ceev14.0AC8	＄＄＄＄＄＄		speaker
+ceev14.0AC8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0AD8	セシア、ゆっくり休んでくださいね。{wait}{clear}		
-ceev14.0AFE	セシア		speaker
+ceev14.0AFE	セシア	Cecia	speaker
 ceev14.0B08	ありがとうございます、天使様。{wait}{clear}		
-ceev14.0B32	＄＄＄＄＄＄		speaker
+ceev14.0B32	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0B42	（千年前、アルカヤを守護した大天使とは{n}　いったい誰なのでしょうか……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
-ceev14.0BCE	＄＄＄＄＄＄		speaker
+ceev14.0BCE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0BDE	ラファエル様、いらっしゃいますか？{wait}{clear}		
 ceev14.0C04	ラファエル		speaker
 ceev14.0C12	その声は＄＄＄＄＄＄ですね？{wait}{clear}		
 ceev14.0C40	ラファエル		speaker
 ceev14.0C4E	どうしたのですか？{n}なにか地上界で気になることでもあるのですか？{wait}{clear}		
-ceev14.0C92	＄＄＄＄＄＄		speaker
+ceev14.0C92	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0CA2	はい……。{n}アルカヤの勇者セシアがある儀式によって、{n}千年前の記憶を受け継いだのです。{wait}{clear}それで、彼女から千年前の戦いのことと{n}天竜について教えてもらいました。{wait}{clear}そのときに戦った勇者たちを守護していたのが、{n}大天使様だと聞いたのです。{wait}{clear}もし、アルカヤを守護した大天使様からお話を{n}聞くことができれば、今のアルカヤの勇者たちを{n}もっと助けられるのではないかと思うのです……。{wait}{clear}ラファエル様、アルカヤを守護した大天使様が{n}どなたなのかご存じありませんか？{wait}{clear}		
 ceev14.0E6E	ラファエル		speaker
 ceev14.0E7C	…………。{wait}{clear}そうですか……ディアナは、そんな力を持ってまで、{n}あの戦いの記憶を後世に伝えようとしたのですね。{wait}{clear}		
-ceev14.0EF0	＄＄＄＄＄＄		speaker
+ceev14.0EF0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0F00	ラファエル様……まさか……？{wait}{clear}		
 ceev14.0F24	ラファエル		speaker
 ceev14.0F32	＄＄＄＄＄＄、黙っていて悪かったと思っています。{n}私が、千年前のアルカヤを守護した天使です。{wait}{clear}		
-ceev14.0F92	＄＄＄＄＄＄		speaker
+ceev14.0F92	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.0FA2	私にアルカヤの守護を命じてくださったとき、{n}どうしてなにも言ってくださらなかったのですか！？{wait}{clear}		
 ceev14.1002	ラファエル		speaker
 ceev14.1010	いつか時期が来たら話そうと思っていました。{n}今となっては、都合のいい言い訳にしか{n}ならないかもしれませんが……。{wait}{clear}それが、こんなことになってしまうとは……。{wait}{clear}		
-ceev14.10B2	＄＄＄＄＄＄		speaker
+ceev14.10B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.10C2	ラファエル様……。{wait}{clear}		
 ceev14.10D8	ラファエル		speaker
 ceev14.10E6	確かに私はアルカヤを守護し、彼らを導きました。{n}そして、彼らの手で天竜を倒し、アルカヤに暮らす{n}彼らと、すべての人々に未来を託したのです……。{wait}{clear}私たち天使は決して万能ではありません。{n}地上界は、あくまでも人間たちの世界です。{n}本来、我々天使が介入すべき世界ではないのです。{wait}{clear}		
-ceev14.11FC	＄＄＄＄＄＄		speaker
+ceev14.11FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.120C	ですが、魔石を彼らにあずけたのは……。{wait}{clear}		
 ceev14.1236	ラファエル		speaker
 ceev14.1244	ええ、あなたの気持ちはよくわかります。{n}私も悩みました。{n}このまま地上を去っていいものかどうかを……。{wait}{clear}ですが、我々はあの石には{n}触れることさえできないのです。{wait}{clear}		
 ceev14.12FE	ミカエル		speaker
 ceev14.130A	あなたは身をもって知りましたね……。{wait}{clear}		
-ceev14.1332	＄＄＄＄＄＄		speaker
-ceev14.1342	はい……。{wait}{clear}		
-ceev14.1350	＄＄＄＄＄＄		speaker
+ceev14.1332	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+ceev14.1342	はい……。{wait}{clear}	Yes...{wait}{clear}	
+ceev14.1350	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.1360	しかし、ラファエル様{n}あんな危険なものを地上界に置いておくなんて！{wait}{clear}		
 ceev14.13A6	ラファエル		speaker
 ceev14.13B4	ですから、私は正しい心を持った勇者たちに{n}あの魔石を託したのです。{n}それしか方法はなかったのです……。{wait}{clear}その私の気持ちを知って、ディアナはきっと……。{wait}{clear}しかし、魔石を悪用しようとする者がいるとしたら{n}とても危険なことです。{n}もしかしたら、堕天使の誰かが……。{wait}{clear}		
-ceev14.14BE	＄＄＄＄＄＄		speaker
+ceev14.14BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.14CE	魔石を集めている者がいるのは確かです。{n}ただ、その影に堕天使がいるのかどうかは、{n}私にはまだわかりません……すみません……。{wait}{clear}		
 ceev14.154E	ラファエル		speaker
 ceev14.155C	いいえ、謝ることはありません。{n}あなたの言うとおり、魔石が集められているとすると{n}心配なのは天竜が復活することです。{wait}{clear}なんとか阻止できるよう、勇者たちの協力のもと{n}がんばってもらうしかないようです。{wait}{clear}あなたにはつらい使命に{n}なってしまったようですね……。{wait}{clear}		
-ceev14.1662	＄＄＄＄＄＄		speaker
+ceev14.1662	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.1672	いいえ、つらいのは私ではありません。{n}毎日のように戦う勇者たちが、{n}もっとつらいと思います。{wait}{clear}私は、彼らのためにも天竜の復活を阻止できるよう{n}できる限り最善をつくしていきます。{wait}{clear}		
 ceev14.1728	ラファエル		speaker
 ceev14.1736	ありがとう、＄＄＄＄＄＄。{n}堕天使たちの動きは夜のように静かで{n}盗賊のように素早いもの……。{wait}{clear}あなたも、勇者たちとともに注意するのですよ。{wait}{clear}		
-ceev14.17C6	＄＄＄＄＄＄		speaker
+ceev14.17C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 ceev14.17D6	はい。{n}ありがとうございます、ラファエル様。{n}では、勇者のもとへ戻ります。{wait}{clear}		
 ceev14.1824	ラファエル		speaker
 ceev14.1832	気をつけて、＄＄＄＄＄＄。{wait}{clear}		

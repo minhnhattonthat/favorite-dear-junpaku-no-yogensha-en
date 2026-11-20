@@ -1,36 +1,36 @@
 id	jp	en	notes
-ceev10_03.00A2	セシア		unit name (32-byte field)
-ceev10_03.00DE	イオン		unit name (32-byte field)
-ceev10_03.011A	聖母		unit name (32-byte field)
-ceev10_03.04FC	セシア		speaker
+ceev10_03.00A2	セシア	Cecia	unit name (32-byte field)
+ceev10_03.00DE	イオン	Ion	unit name (32-byte field)
+ceev10_03.011A	聖母	Holy Mother	unit name (32-byte field)
+ceev10_03.04FC	セシア	Cecia	speaker
 ceev10_03.0511	聖母様！		text
-ceev10_03.0538	イオン		speaker
+ceev10_03.0538	イオン	Ion	speaker
 ceev10_03.054D	もうぼくが殺した。		text
-ceev10_03.057E	セシア		speaker
+ceev10_03.057E	セシア	Cecia	speaker
 ceev10_03.0587			speaker
 ceev10_03.0593	あなた……なぜこんなことをするの？		text
-ceev10_03.05C4	イオン		speaker
+ceev10_03.05C4	イオン	Ion	speaker
 ceev10_03.05D9	…………。		text
-ceev10_03.0602	セシア		speaker
+ceev10_03.0602	セシア	Cecia	speaker
 ceev10_03.0617	答えて！！		text
-ceev10_03.067C	セシア		speaker
+ceev10_03.067C	セシア	Cecia	speaker
 ceev10_03.0691	待ちなさいっ！！		text
-ceev10_03.071C	セシア		speaker
+ceev10_03.071C	セシア	Cecia	speaker
 ceev10_03.0731	聖母様、しっかりしてください！		text
-ceev10_03.075E	聖母		speaker
+ceev10_03.075E	聖母	Holy Mother	speaker
 ceev10_03.0771	ああ、大事な石が奪われてしまいました……。{n}セシア……もう、私の力では……。		text
-ceev10_03.07CC	セシア		speaker
+ceev10_03.07CC	セシア	Cecia	speaker
 ceev10_03.07E1	そんな……聖母様……。		text
-ceev10_03.0806	聖母		speaker
+ceev10_03.0806	聖母	Holy Mother	speaker
 ceev10_03.0819	セシア……天使に見いだされた子よ……{n}あなたが私のあとを継いではくれませんか……？		text
-ceev10_03.087A	セシア		speaker
+ceev10_03.087A	セシア	Cecia	speaker
 ceev10_03.088F	え？		text
-ceev10_03.08A2	聖母		speaker
+ceev10_03.08A2	聖母	Holy Mother	speaker
 ceev10_03.08B5	大きな責任を負わされることに、{n}迷いがあるのはわかります……。		text
 ceev10_03.0902	しかし、この聖母の力は、{n}天使に仕えるあなたの助けになるでしょう……{n}きっと……。		text
-ceev10_03.0963	セシア		speaker
+ceev10_03.0963	セシア	Cecia	speaker
 ceev10_03.0978	聖母様……申し訳ありません……{n}少しだけ……少しだけ、時間をください。		text
-ceev10_03.09CD	聖母		speaker
+ceev10_03.09CD	聖母	Holy Mother	speaker
 ceev10_03.09E0	そうですね……わかりました……。{n}儀式を行いますから、{n}それまでに気持ちを整理しておきなさい。		text
-ceev10_03.0A4D	セシア		speaker
+ceev10_03.0A4D	セシア	Cecia	speaker
 ceev10_03.0A62	はい……わかりました。		text

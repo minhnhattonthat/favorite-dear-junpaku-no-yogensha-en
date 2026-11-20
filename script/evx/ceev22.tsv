@@ -1,7 +1,7 @@
 id	jp	en	notes
 ceev22.0002	サヴィオ戦		dev label (guess: not shown)
 ceev22.00A2	サヴィオ通常		unit name (32-byte field)
-ceev22.00DE	セシア		unit name (32-byte field)
+ceev22.00DE	セシア	Cecia	unit name (32-byte field)
 ceev22.04A8	サヴィオ		speaker
 ceev22.04CF	お前は……{n}セレニスの言っていた天使の勇者だな……。		text
 ceev22.0512	殺す。		text

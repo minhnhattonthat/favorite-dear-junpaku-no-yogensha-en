@@ -5,12 +5,12 @@ eiev08.0082	ここまで来たんだからよってもいいでしょ？{wait}{c
 eiev08.00AE	ＮＵＬＬ	NULL	speaker
 eiev08.00BE	《ええ》{n}		
 eiev08.00CE	《今はちょっと》{n}		
-eiev08.00F0	＄＄＄＄＄＄		speaker
-eiev08.0100	ええ、いいですよ。{wait}{clear}		
+eiev08.00F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+eiev08.0100	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
 eiev08.011A	アイリーン		speaker
 eiev08.012C	よかった。{wait}{clear}		
 eiev08.013E	ちょっと調べたいことがあるから、{n}行きたかったんだ。{wait}{clear}		
-eiev08.0180	＄＄＄＄＄＄		speaker
+eiev08.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.0190	今はちょっと。{n}また今度にしてもらえせんか？{wait}{clear}		
 eiev08.01CC	アイリーン		speaker
 eiev08.01DE	そう……{wait}{clear}		
@@ -25,7 +25,7 @@ eiev08.0356	さ、こっち！　いいでしょ？{wait}{clear}
 eiev08.0374	ＮＵＬＬ	NULL	speaker
 eiev08.0384	《ええ》{n}		
 eiev08.0394	《もう戻る》{n}		
-eiev08.03B2	＄＄＄＄＄＄		speaker
+eiev08.03B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.03C2	ええ、いいですよ、アイリーン。{wait}{clear}		
 eiev08.03EC	ＮＵＬＬ	NULL	speaker
 eiev08.03F8	がさ、がさ。{wait}{clear}		
@@ -34,12 +34,12 @@ eiev08.0438	アイリーン		speaker
 eiev08.044A	ふう……{n}ありがと、手伝ってくれて。{wait}{clear}		
 eiev08.0476	大体調べたかったこと、わかったわ。{wait}{clear}		
 eiev08.04A0	あーあ、なんだか疲れちゃった……。{wait}{clear}		
-eiev08.04CA	…………。{wait}{clear}		
+eiev08.04CA	…………。{wait}{clear}	.........{wait}{clear}	
 eiev08.04EC	ねえ、＄＄＄＄＄＄。{wait}{clear}		
 eiev08.0508	私、なんだかあなたと、一緒にこの家にいたら{n}昔のこと思い出しちゃった……。{wait}{clear}		
 eiev08.055A	どうしてだろ……{wait}{clear}		
 eiev08.0572	一人で住んでたころは思い出さなかったのに……。{wait}{clear}		
-eiev08.05A4	＄＄＄＄＄＄		speaker
+eiev08.05A4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.05B4	どんな、思い出です？{wait}{clear}		
 eiev08.05CC	アイリーン		speaker
 eiev08.05DE	うん……。{wait}{clear}		
@@ -55,14 +55,14 @@ eiev08.0790	フェインはやさしかった……。{wait}{clear}
 eiev08.07B4	そんな頃の……いろんなこと……{wait}{clear}		
 eiev08.07DA	もう二度と……戻ってこない……。{wait}{clear}		
 eiev08.0820	アイリーン		speaker
-eiev08.082E	…………。{wait}{clear}		
-eiev08.083C	＄＄＄＄＄＄		speaker
+eiev08.082E	…………。{wait}{clear}	.........{wait}{clear}	
+eiev08.083C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.084C	アイリーン……{wait}{clear}		
 eiev08.086A	アイリーン		speaker
 eiev08.087C	あ、ごめん……{n}なんだか……変よね……{wait}{clear}		
 eiev08.08AA	ハハ……私らしくないよね……{wait}{clear}		
 eiev08.08DA	忘れて……＄＄＄＄＄＄。{wait}{clear}		
-eiev08.090C	＄＄＄＄＄＄		speaker
+eiev08.090C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev08.091C	ごめんなさい、アイリーン。{n}もう戻らなくてはなりません。{wait}{clear}		
 eiev08.0964	アイリーン		speaker
 eiev08.0976	ケチ……。{wait}{clear}		

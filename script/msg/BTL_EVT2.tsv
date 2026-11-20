@@ -33,9 +33,9 @@ BTL_EVT2.05C5S	ファントム		speaker
 BTL_EVT2.05D0	…………。		
 BTL_EVT2.05DES	ファントム		speaker
 BTL_EVT2.05E9	…………。		
-BTL_EVT2.061BS	イオン		speaker
+BTL_EVT2.061BS	イオン	Ion	speaker
 BTL_EVT2.0622	ぼくの邪魔をするから……。		
-BTL_EVT2.0640S	イオン		speaker
+BTL_EVT2.0640S	イオン	Ion	speaker
 BTL_EVT2.0647	ぼくの邪魔をするから……。		
 BTL_EVT2.0689S	ルディ		speaker
 BTL_EVT2.0690	進軍をやめろ！！		
@@ -721,9 +721,9 @@ BTL_EVT2.55F3S	レイブンルフト		speaker
 BTL_EVT2.5602	無様な敗北者が……。		
 BTL_EVT2.563ES	ルディエール		speaker
 BTL_EVT2.564B	どうして、こんな小さな子供まで……。{n}こいつも誰かに利用されてたのか……？		
-BTL_EVT2.5699S	イオン		speaker
+BTL_EVT2.5699S	イオン	Ion	speaker
 BTL_EVT2.56A0	ぼくの邪魔をするから……。		
-BTL_EVT2.56BES	イオン		speaker
+BTL_EVT2.56BES	イオン	Ion	speaker
 BTL_EVT2.56C5	ぼくの邪魔をするから……。		
 BTL_EVT2.5707S	ルディ		speaker
 BTL_EVT2.570E	クッ……なんてばか力だ……。		

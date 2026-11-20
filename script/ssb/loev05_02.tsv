@@ -1,11 +1,11 @@
 id	jp	en	notes
-loev05_02.002A	＄＄＄＄＄＄		speaker
+loev05_02.002A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.003A	こんばんは、ルディ。{wait}{clear}		
-loev05_02.005C	＄＄＄＄＄＄		speaker
+loev05_02.005C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.006C	変ですね……{n}部屋でじっとしていると言っていたのに……。{wait}{clear}あ……！{n}外にいるようですね。{n}行ってみましょう。{wait}{clear}		
 loev05_02.00EE	ルディエール		speaker
 loev05_02.0102	なんだ……。{n}どうした？{wait}{clear}		
-loev05_02.011E	＄＄＄＄＄＄		speaker
+loev05_02.011E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.012E	いえ、ちょっとルディのことが気になって……。{wait}{clear}ルディこそ、こんな時間にこんなところで、{n}どうしたのですか？{wait}{clear}		
 loev05_02.019E	ルディエール		speaker
 loev05_02.01B2	あ、うん……なんだか眠れなくてさ。{wait}{clear}		
@@ -16,13 +16,13 @@ loev05_02.027C	あいつらがおれをばかにすんのも当然かもな。{w
 loev05_02.02AA	ＮＵＬＬ	NULL	speaker
 loev05_02.02BA	《そんなことはない》{n}		
 loev05_02.02D6	《気を落とすことはない》{n}		
-loev05_02.0300	＄＄＄＄＄＄		speaker
+loev05_02.0300	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.0310	そんなことはありません。{n}あなたの国は立派な国です。{wait}{clear}それぞれの国に事情はあります。{n}でも、そこに優劣はないはずです。{wait}{clear}		
 loev05_02.038C	ルディエール		speaker
 loev05_02.03A0	そうだな……。{wait}{clear}		
 loev05_02.03B6	おれたちの国はこれからだ……{wait}{clear}		
 loev05_02.03DA	これから、{n}自分たちのできることをするしかないな……。{wait}{clear}		
-loev05_02.041E	＄＄＄＄＄＄		speaker
+loev05_02.041E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev05_02.042E	人の言葉に気を落とす必要はありません。{wait}{clear}ルディはレグランスを誇りに思っているんでしょう。{n}その想いを信じてください。{wait}{clear}		
 loev05_02.04A8	ルディエール		speaker
 loev05_02.04BC	ああ……そうだな。{wait}{clear}		
@@ -69,7 +69,7 @@ loev05_02.0A56	ルディエール		speaker
 loev05_02.0A6A	失礼な物言いをお許しください。{wait}{clear}		
 loev05_02.0A90	ただ、今のお話を聞いていて、そう思ったのです。{wait}{clear}		
 loev05_02.0AC2	エンディミオン		speaker
-loev05_02.0AD4	…………。{wait}{clear}		
+loev05_02.0AD4	…………。{wait}{clear}	.........{wait}{clear}	
 loev05_02.0AE2	ルディエール		speaker
 loev05_02.0AF6	今度は、ぜひ我がレグランスに{n}お越しください、陛下。{wait}{clear}		
 loev05_02.0B32	帝国ほど豊かではありませんが{n}季候はよく、食べ物も豊富で皆、美味です。{wait}{clear}		

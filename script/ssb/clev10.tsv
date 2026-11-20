@@ -4,11 +4,11 @@ clev10.004C	……あの城か。{wait}{clear}
 clev10.005E	ＮＵＬＬ	NULL	speaker
 clev10.006E	《話しかける》{n}		
 clev10.0084	《話しかけない》{n}		
-clev10.00AE	＄＄＄＄＄＄		speaker
+clev10.00AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.00BE	クライヴ！{wait}{clear}		
 clev10.00E2	クライヴ		speaker
 clev10.00EE	いたのか……{wait}{clear}		
-clev10.00FE	＄＄＄＄＄＄		speaker
+clev10.00FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.010E	本当に行くのですか？{wait}{clear}		
 clev10.012E	クライヴ		speaker
 clev10.013A	……ああ。{wait}{clear}		
@@ -39,24 +39,24 @@ clev10.04A6	クライヴ		speaker
 clev10.04B6	待て！！　レイブンルフト！！！{wait}{clear}		
 clev10.04D8	レイブンルフト		speaker
 clev10.04EE	いつかお前も私の前にひれふす時がくる。{n}また会おう。{wait}{clear}		
-clev10.0530	＄＄＄＄＄＄		speaker
+clev10.0530	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.0540	大丈夫ですか、クライヴ！{wait}{clear}		
 clev10.057A	クライヴ		speaker
 clev10.0586	＄＄＄＄＄＄か……。{wait}{clear}やつの城は？{wait}{clear}		
-clev10.05AE	＄＄＄＄＄＄		speaker
+clev10.05AE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.05BE	もう、見えません……{n}巨大な魔力で存在を隠してしまったようです。{wait}{clear}		
 clev10.0610	クライヴ		speaker
 clev10.061C	クッ……{wait}{clear}		
 clev10.0628	ＮＵＬＬ	NULL	speaker
 clev10.0638	《どうか怒りを……》{n}		
 clev10.0654	《なぜそこまで……》{n}		
-clev10.067A	＄＄＄＄＄＄		speaker
+clev10.067A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.068A	どうか怒りを……{wait}{clear}そんな感情だけでは……なにも解決できません。{wait}{clear}		
 clev10.06CE	クライヴ		speaker
-clev10.06DA	…………。{wait}{clear}		
+clev10.06DA	…………。{wait}{clear}	.........{wait}{clear}	
 clev10.06FC	何がわかる……{n}お前に……{wait}{clear}		
 clev10.0724	何がわかる……{n}君に……{wait}{clear}		
-clev10.0750	＄＄＄＄＄＄		speaker
+clev10.0750	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev10.0760	なぜそこまで……{wait}{clear}		
 clev10.0780	クライヴ		speaker
 clev10.078C	言う必要はない……{wait}{clear}		

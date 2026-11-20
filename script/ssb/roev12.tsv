@@ -1,14 +1,14 @@
 id	jp	en	notes
-roev12.0048	＄＄＄＄＄＄		speaker
+roev12.0048	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0058	ロクス、今日もお酒ですか……？{wait}{clear}		
 roev12.007A	ロクス		speaker
 roev12.0084	ああ、＄＄＄＄＄＄か。{n}どうだ、お前も飲まないか？{wait}{clear}今日は騒いだりする気分じゃないんだ。{n}たまには男同士で飲んでみるのも悪くないだろうし。{wait}{clear}		
-roev12.0114	＄＄＄＄＄＄		speaker
+roev12.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0124	そうですか……？{wait}{clear}		
 roev12.0138	ＮＵＬＬ	NULL	speaker
 roev12.0148	《わかりました、おつき合いします。》{n}		
 roev12.0174	《やっぱりお酒はちょっと……。》{n}		
-roev12.01A8	＄＄＄＄＄＄		speaker
+roev12.01A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.01B8	わかりました。{n}ロクスがそう言うのなら、おつき合いします。{wait}{clear}		
 roev12.0204	ロクス		speaker
 roev12.020E	じゃあ、人の姿になれよ。{n}行こう。{wait}{clear}		
@@ -17,100 +17,100 @@ roev12.025A	バカをしていることは自分でわかってるさ。{n}た�
 roev12.02DC	ＮＵＬＬ	NULL	speaker
 roev12.02EC	《そうでしょうか……。》{n}		
 roev12.030C	《それを望んでいるのですか？》{n}		
-roev12.0338	＄＄＄＄＄＄		speaker
+roev12.0338	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0348	そうでしょうか……。{n}ただ、あなたは甘えているのではないですか？{wait}{clear}		
 roev12.039A	ロクス		speaker
 roev12.03A4	きびしいな……{n}ああ、確かにそうさ……{n}俺は自分一人じゃなにもできない……。{wait}{clear}たいした人間じゃない。{n}だからいらだってる……。{wait}{clear}		
 roev12.0436	人に当たって、酒に逃げて……{n}まわりからの期待からも逃げてる……。{wait}{clear}		
-roev12.047C	＄＄＄＄＄＄		speaker
+roev12.047C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.048C	いいえ、ロクス、{n}あなたは弱い人ではないと思いますよ……。{wait}{clear}ただ、自分が本当はどんな人間なのか、{n}それを知らないだけです……。{n}私はそう思います。{wait}{clear}		
-roev12.052E	＄＄＄＄＄＄		speaker
+roev12.052E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.053E	あなたは本当にそれを望んでいるのですか？{wait}{clear}		
 roev12.056A	ロクス		speaker
 roev12.0574	望んじゃあいないさ……べつにな……。{wait}{clear}		
-roev12.059C	＄＄＄＄＄＄		speaker
+roev12.059C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.05AC	では、いつか変わることができると思いますよ。{n}ロクスは。{wait}{clear}		
 roev12.05E8	ロクス		speaker
 roev12.05F2	いいかげんな断言だな。{wait}{clear}		
-roev12.060C	＄＄＄＄＄＄		speaker
+roev12.060C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.061C	いいえ、いいかげんに言っているのではありません。{wait}{clear}今は、あなたは自分が本当はどんな人間なのかを{n}知らないだけだと……そう思っているのです。{wait}{clear}		
 roev12.06AC	ロクス		speaker
 roev12.06B6	自分のことが完全にわかるヤツなどいるものか……{wait}{clear}		
-roev12.06E8	＄＄＄＄＄＄		speaker
+roev12.06E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.06F8	たしかに自分のことを知るのは{n}むずかしいことかもしれません。{wait}{clear}でも、知ろうとすれば、{n}少しずつ、わかってゆくはずです。{wait}{clear}たとえ迷い、間違いながらであっても……。{n}それが生きるということだと……思います。{wait}{clear}		
 roev12.07D8	ロクス		speaker
 roev12.07E2	天使のお前に人の生き方を説教されるとは……。{wait}{clear}		
 roev12.081E	天使の考えに迷いなんてないのかと思ったがな。{wait}{clear}		
-roev12.084E	＄＄＄＄＄＄		speaker
+roev12.084E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.085E	私たちは魂だけの存在であっても、{n}考え方は人となんら変わりはありません。{wait}{clear}		
 roev12.08B8	ロクス		speaker
 roev12.08C2	……そういえば……{n}悪魔はたしか昔天使だったという{n}神話を聞いたことがあるな……。{wait}{clear}		
-roev12.0918	＄＄＄＄＄＄		speaker
+roev12.0918	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0928	そうです……。{n}多くの天使が欲望に負け、天を追放されました。{wait}{clear}		
 roev12.0968	ロクス		speaker
 roev12.0972	天使でさえ、悩み、{n}欲望と戦っているというのか……？{wait}{clear}		
 roev12.09B8	ふん、俺ごときがこうなのもしかたないのかもな。{wait}{clear}		
-roev12.09EA	＄＄＄＄＄＄		speaker
+roev12.09EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.09FA	少しは気が楽になりましたか？　ロクス？{wait}{clear}		
 roev12.0A24	ロクス		speaker
 roev12.0A2E	ふん！　さあな……。{wait}{clear}もうこんな話はヤメだ。{n}飲んで、もっとくだらん話をしよう。{wait}{clear}		
-roev12.0AA6	＄＄＄＄＄＄		speaker
+roev12.0AA6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0AB6	もっと飲んでくださいよ～。{n}私の酒は飲めないって言うんじゃないでしょうね。{wait}{clear}		
 roev12.0B04	ロクス		speaker
 roev12.0B0E	おい、なんだよ。{n}少し飲み過ぎたんじゃないのか？{wait}{clear}		
-roev12.0B42	＄＄＄＄＄＄		speaker
+roev12.0B42	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0B52	そんなことないですよ～。{n}なんだか、とっても楽しいです～！{wait}{clear}それに～、大変なんですからね、私だって～。{n}たまにはいいですよね～。{n}少しくらい羽目をはずしても～。{wait}{clear}		
 roev12.0C04	まえの任務のときだって、{n}もう、あれはヤダ～、これはヤダ～って{n}ロクスみたいにわがままな人がいて～。{wait}{clear}ここでは、ロクスって人がいて～。{n}も～、大変で大変で～。{wait}{clear}		
 roev12.0CA8	ロクス		speaker
 roev12.0CB2	＄＄＄＄＄＄、本当に大丈夫か？{n}{wait}{clear}		
-roev12.0CD6	＄＄＄＄＄＄		speaker
+roev12.0CD6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0CE6	あははは～。{n}平気ですよ、このくらい～。{n}あれ、ロクス、なんの話してたんでしたっけ？{wait}{clear}		
 roev12.0D3E	ロクス		speaker
 roev12.0D48	……そろそろ正体がなくなってきたな。{n}出るぞ、＄＄＄＄＄＄。{wait}{clear}		
-roev12.0D88	＄＄＄＄＄＄		speaker
+roev12.0D88	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0D98	そうですね、戻りましょうか～。{n}ロクスはお酒、飲み過ぎですからね～。{wait}{clear}		
 roev12.0DE0	ロクス		speaker
 roev12.0DEA	なんだよ……。{wait}{clear}おい！？{n}羽が見えてるぞ、平気なのか？{wait}{clear}		
-roev12.0E26	＄＄＄＄＄＄		speaker
+roev12.0E26	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0E36	だいじょ～ぶ、ですぅ……。{n}フツーの人には見えていませんよ～。{wait}{clear}たぶん……。{wait}{clear}		
 roev12.0E88	ロクス		speaker
 roev12.0E92	……おいおい。{n}まあ、いい出よう。{wait}{clear}		
 roev12.0ED4	ロクス		speaker
 roev12.0EDE	宿屋に帰ってきたぞ、＄＄＄＄＄＄。{n}どうするんだ？　戻れるのか？{wait}{clear}		
-roev12.0F22	＄＄＄＄＄＄		speaker
+roev12.0F22	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0F32	はい？　戻れますよ。{n}ぜ～んぜん、大丈夫です～。{wait}{clear}ほ～ら、体も消せますし……。{wait}{clear}		
 roev12.0F86	ロクス		speaker
 roev12.0F90	……ちっとも消えてないぞ。{wait}{clear}		
-roev12.0FAE	＄＄＄＄＄＄		speaker
+roev12.0FAE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.0FBE	……あれ……。{n}気のせいじゃないですか～？{wait}{clear}		
 roev12.0FFA	ロクス		speaker
 roev12.1004	もう、かまってられん……。{n}僕は寝るぞ、あとは勝手にしろ！{wait}{clear}		
 roev12.1046	ロクス		speaker
-roev12.1050	…………。{wait}{clear}		
-roev12.105E	＄＄＄＄＄＄		speaker
+roev12.1050	…………。{wait}{clear}	.........{wait}{clear}	
+roev12.105E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.106E	ＺＺＺＺＺＺＺＺ……。{wait}{clear}		
 roev12.1088	ロクス		speaker
 roev12.1092	……ったく。{wait}{clear}		
 roev12.10A8	ロクス		speaker
 roev12.10B2	おい、起きろ！{wait}{clear}		
-roev12.10DE	＄＄＄＄＄＄		speaker
+roev12.10DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.10EE	……はい？{wait}{clear}		
 roev12.10FC	ロクス		speaker
 roev12.1106	いつまで寝てるんだ？{wait}{clear}		
-roev12.111E	＄＄＄＄＄＄		speaker
+roev12.111E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.112E	あ、あれ？{n}どうしてここにロクスが？{wait}{clear}		
 roev12.1156	ロクス		speaker
 roev12.1160	ノー天気だな。{n}飲んだこと、覚えているか？{wait}{clear}		
-roev12.118E	＄＄＄＄＄＄		speaker
+roev12.118E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.119E	はい？{n}ええ、お酒を飲んだことですよね。{wait}{clear}ちゃんと覚えてますよ。{n}えっと、ロクスの話を聞いて……それから……{wait}{clear}……それから……{wait}{clear}……覚えてません……。{n}あの……私、なにかしたんでしょうか？{wait}{clear}		
 roev12.1264	ロクス		speaker
 roev12.126E	僕のベッドに寝ていたんだ。{n}自分でちゃんと考えてみたらどうだ？{wait}{clear}		
-roev12.12B0	＄＄＄＄＄＄		speaker
+roev12.12B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.12C0	え？　ここで寝てしまったんですか？{n}……すみません。{wait}{clear}……あ！{n}とするとずいぶん時間がたってしまったのですね。{n}やらなくてはいけないことが……！{wait}{clear}失礼します！！{wait}{clear}		
 roev12.1376	ロクス		speaker
 roev12.1380	おい！　ちょっと待て！！{wait}{clear}		
 roev12.13AA	……やれやれ、あいつめ。{n}人のことをとやかく言えないぞ……。{wait}{clear}		
-roev12.13FA	＄＄＄＄＄＄		speaker
+roev12.13FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev12.140A	やっぱりお酒はちょっと……。{n}ロクスも少しお酒から離れた方がいいと思いますよ。{wait}{clear}		
 roev12.146A	ロクス		speaker
 roev12.1474	ふん……あいかわらず、かたぶつだな。{wait}{clear}		

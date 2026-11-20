@@ -1,26 +1,26 @@
 id	jp	en	notes
 loev04_03.0046	ルディエール		speaker
 loev04_03.0056	ああ、＄＄＄＄＄＄、やっと来たか。{wait}{clear}		
-loev04_03.007C	＄＄＄＄＄＄		speaker
+loev04_03.007C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_03.008C	どうしたのですか、ルディ？{wait}{clear}		
 loev04_03.00AA	ルディエール		speaker
 loev04_03.00BA	これからレグランスの特使として{n}帝国へ行くことになった。{wait}{clear}		
-loev04_03.00F6	＄＄＄＄＄＄		speaker
+loev04_03.00F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_03.0106	特使として、帝国へですか？{wait}{clear}		
 loev04_03.0124	ルディエール		speaker
 loev04_03.0134	ああ、兄さんに頼まれたんだ。{n}帝国の侵攻に対する真意を確かめろって。{wait}{clear}それから、今の皇帝のことも知るために……。{wait}{clear}だから、当分のあいだ、{n}＄＄＄＄＄＄の依頼は聞けなくなる。{wait}{clear}帝国で皇帝に会って、兄さんに報告するまでは、{n}悪いけど、おれの自由にさせてくれ。{wait}{clear}		
 loev04_03.023C	ＮＵＬＬ	NULL	speaker
 loev04_03.024C	《それは困ります。》{n}		
 loev04_03.0268	《大切なつとめですね。》{n}		
-loev04_03.028E	＄＄＄＄＄＄		speaker
+loev04_03.028E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_03.029E	ルディの事情もわかりますが、それは困ります。{wait}{clear}		
 loev04_03.02DA	ルディエール		speaker
 loev04_03.02EA	なんだよ……！{wait}{clear}確かに、世界の混乱を正すっていう{n}＄＄＄＄＄＄に協力するのは大切だとわかってる。{wait}{clear}でも、おれは兄さんが守ろうとしている国のことも{n}大事なんだ。{wait}{clear}今回は＄＄＄＄＄＄の言うことは聞けない。{n}じゃあな！{wait}{clear}		
-loev04_03.03D2	＄＄＄＄＄＄		speaker
+loev04_03.03D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_03.03E2	それは、とても大切なつとめだと私も思います。{n}私のことは気にせず、帝国へ行ってください。{wait}{clear}		
 loev04_03.044A	ルディエール		speaker
 loev04_03.045A	ありがとう、＄＄＄＄＄＄。{n}そう言ってもらって、ほっとしたよ。{wait}{clear}じゃあ、おれ、支度があるから。{wait}{clear}		
-loev04_03.04BE	＄＄＄＄＄＄		speaker
+loev04_03.04BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev04_03.04CE	ええ、気をつけて、ルディ。{wait}{clear}		
 loev04_03.04EC	ルディエール		speaker
 loev04_03.04FC	ああ、わかった。{wait}{clear}		

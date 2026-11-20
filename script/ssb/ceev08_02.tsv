@@ -1,23 +1,23 @@
 id	jp	en	notes
-ceev08_02.003A	セシア		speaker
-ceev08_02.0044	ここを抜ければ聖母の森のはず……。{wait}{clear}！{wait}{clear}		
-ceev08_02.00D6	セシア		speaker
-ceev08_02.00E0	それに、今の子も……{n}聖母の森まで入って来ることができるなんて{n}信じられません。{wait}{clear}聖母様、なにかおわかりになるのではないですか？{n}いったい、なにが起こっているのですか？{n}もしかしたら……聖母様の……。{wait}{clear}		
-ceev08_02.01AE	聖母		speaker
-ceev08_02.01B6	あなたの名は？{wait}{clear}		
-ceev08_02.01C8	セシア		speaker
-ceev08_02.01D2	あ、セシアと言います。{wait}{clear}		
-ceev08_02.01EC	聖母		speaker
-ceev08_02.01F4	セシア……お前と一緒におられるのは、{n}天使様ではないですか？{wait}{clear}		
-ceev08_02.0234	セシア		speaker
-ceev08_02.023E	え？{wait}{clear}		
-ceev08_02.0246	セシア		speaker
-ceev08_02.0250	はい……そうです……。{wait}{clear}		
-ceev08_02.026A	聖母		speaker
-ceev08_02.0272	天使様がこの地上に降りられ、{n}あなたがお仕えしているということは、{n}この世界に混乱の兆しが見えている証……。{wait}{clear}そして、あなたの想像している通り私の力が……{n}この森を守護する力が弱っているのは確かです。{n}そのため、魔物の進入も許してしまいました……。{wait}{clear}しかし……私はまだ……。{wait}{clear}		
-ceev08_02.038C	セシア		speaker
-ceev08_02.0396	聖母様……。{wait}{clear}		
-ceev08_02.03A6	聖母		speaker
-ceev08_02.03AE	セシア、今は心配せず、天使様にお仕えしなさい。{n}ただ、なにかあればいつでもここを{n}訪れるといいでしょう。{wait}{clear}		
-ceev08_02.041A	セシア		speaker
-ceev08_02.0424	はい……。{n}わかりました、聖母様。{wait}{clear}		
+ceev08_02.003A	セシア	Cecia	speaker
+ceev08_02.0044	ここを抜ければ聖母の森のはず……。{wait}{clear}！{wait}{clear}	Past here should be the Forest of the Holy{n}Mother...{wait}{clear}!{wait}{clear}	
+ceev08_02.00D6	セシア	Cecia	speaker
+ceev08_02.00E0	それに、今の子も……{n}聖母の森まで入って来ることができるなんて{n}信じられません。{wait}{clear}聖母様、なにかおわかりになるのではないですか？{n}いったい、なにが起こっているのですか？{n}もしかしたら……聖母様の……。{wait}{clear}	And that child just now... I can't believe{n}anyone could get this far into the Forest of{n}the Holy Mother.{wait}{clear}Holy Mother, don't you know something? What{n}on earth is happening? Could it be that{n}your...{wait}{clear}	
+ceev08_02.01AE	聖母	Holy Mother	speaker
+ceev08_02.01B6	あなたの名は？{wait}{clear}	What is your name?{wait}{clear}	
+ceev08_02.01C8	セシア	Cecia	speaker
+ceev08_02.01D2	あ、セシアと言います。{wait}{clear}	Oh, my name is Cecia.{wait}{clear}	
+ceev08_02.01EC	聖母	Holy Mother	speaker
+ceev08_02.01F4	セシア……お前と一緒におられるのは、{n}天使様ではないですか？{wait}{clear}	Cecia... Is the one with you not an angel?{wait}{clear}	
+ceev08_02.0234	セシア	Cecia	speaker
+ceev08_02.023E	え？{wait}{clear}	What?{wait}{clear}	
+ceev08_02.0246	セシア	Cecia	speaker
+ceev08_02.0250	はい……そうです……。{wait}{clear}	Yes... that's right...{wait}{clear}	
+ceev08_02.026A	聖母	Holy Mother	speaker
+ceev08_02.0272	天使様がこの地上に降りられ、{n}あなたがお仕えしているということは、{n}この世界に混乱の兆しが見えている証……。{wait}{clear}そして、あなたの想像している通り私の力が……{n}この森を守護する力が弱っているのは確かです。{n}そのため、魔物の進入も許してしまいました……。{wait}{clear}しかし……私はまだ……。{wait}{clear}	An angel coming down to this world, and you{n}serving that angel, is proof that signs of{n}turmoil have appeared in this world...{wait}{clear}And as you suspect, my power... the power{n}that protects this forest, has surely{n}weakened. That is why I let the monsters{wait}{clear}in...{wait}{clear}But... I can still...{wait}{clear}	
+ceev08_02.038C	セシア	Cecia	speaker
+ceev08_02.0396	聖母様……。{wait}{clear}	Holy Mother...{wait}{clear}	
+ceev08_02.03A6	聖母	Holy Mother	speaker
+ceev08_02.03AE	セシア、今は心配せず、天使様にお仕えしなさい。{n}ただ、なにかあればいつでもここを{n}訪れるといいでしょう。{wait}{clear}	Cecia, do not worry for now; serve the{n}angel. But if anything happens, you may come{n}here at any time.{wait}{clear}	
+ceev08_02.041A	セシア	Cecia	speaker
+ceev08_02.0424	はい……。{n}わかりました、聖母様。{wait}{clear}	Yes... I understand, Holy Mother.{wait}{clear}	

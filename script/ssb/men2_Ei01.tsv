@@ -1,31 +1,31 @@
 id	jp	en	notes
 men2_Ei01.0052	アイリーン		speaker
 men2_Ei01.0060	ごめん、急に呼んで。{wait}{clear}		
-men2_Ei01.0078	＄＄＄＄＄＄		speaker
+men2_Ei01.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0088	いいえ、それは気にしないでください。{n}ところで、なにかあったのですか？{wait}{clear}		
 men2_Ei01.00DE	アイリーン		speaker
 men2_Ei01.00EC	ううん、違う……そんなことじゃないの。{n}ただ、ちょっと話したいと思っただけ……。{wait}{clear}		
 men2_Ei01.0140	ＮＵＬＬ	NULL	speaker
 men2_Ei01.0150	《アイリーンも……。》{n}		
 men2_Ei01.016E	《そうだったのですね。》{n}		
-men2_Ei01.018E	＄＄＄＄＄＄		speaker
+men2_Ei01.018E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.019E	アイリーンも、{n}私に会いたいと思っていてくれたんですね。{wait}{clear}		
 men2_Ei01.01DA	アイリーン		speaker
 men2_Ei01.01E8	ち、違うよ、そんなんじゃ……！{n}だって、こんなときに、{n}そんなのんきなこと言ってられないでしょ？{wait}{clear}		
-men2_Ei01.024C	＄＄＄＄＄＄		speaker
+men2_Ei01.024C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.025C	はあ……そうですね……。{wait}{clear}		
 men2_Ei01.0278	アイリーン		speaker
 men2_Ei01.0286	もう、＄＄＄＄＄＄ったら！{wait}{clear}		
 men2_Ei01.02B0	でも、せっかく来てくれたんだから、{n}お話、しようか……。{wait}{clear}		
-men2_Ei01.02EC	＄＄＄＄＄＄		speaker
+men2_Ei01.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.02FC	ええ、そうですね。{wait}{clear}		
-men2_Ei01.0316	＄＄＄＄＄＄		speaker
+men2_Ei01.0316	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0326	そうだったのですね。{n}なにかあったのかと思って、{n}ひとりで勝手に慌ててしまったみたいです。{wait}{clear}		
 men2_Ei01.0390	アイリーン		speaker
 men2_Ei01.039E	そんなに……私のこと心配だったの？{wait}{clear}		
-men2_Ei01.03C4	＄＄＄＄＄＄		speaker
+men2_Ei01.03C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.03D4	え？　え？{n}あの……それは……もちろん……。{wait}{clear}		
 men2_Ei01.0410	アイリーン		speaker
 men2_Ei01.041E	そっか……。{n}ありがとね、＄＄＄＄＄＄。{wait}{clear}じゃあ、せっかく来てくれたんだから、{n}お話しようか。{wait}{clear}		
-men2_Ei01.0482	＄＄＄＄＄＄		speaker
+men2_Ei01.0482	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ei01.0492	はい。{wait}{clear}		

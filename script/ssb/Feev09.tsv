@@ -6,7 +6,7 @@ Feev09.008C	この街はまだ、活気にあふれているな……。{wait}{c
 Feev09.00BC	北での帝国の動きがまだ伝わっていないのか？{wait}{clear}		
 Feev09.00EE	……そうだ、＄＄＄＄＄＄。{wait}{clear}		
 Feev09.0110	ここの聖堂には興味深い絵があるのを知っているか？{wait}{clear}		
-Feev09.0150	＄＄＄＄＄＄		speaker
+Feev09.0150	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev09.0160	ええ、知っています。{n}きっと天使が描かれている絵のことですね。{wait}{clear}		
 Feev09.01A2	フェイン		speaker
 Feev09.01B2	そうだ。{wait}{clear}		
@@ -15,7 +15,7 @@ Feev09.01E2	この教会の伝える歴史にある{n}救世主たちの守護�
 Feev09.022A	ずっとヒユ的なものだと思っていたが……{wait}{clear}		
 Feev09.0258	君がこうして現れているのだから……{wait}{clear}		
 Feev09.028E	事実かもしれんな。{wait}{clear}		
-Feev09.02A8	＄＄＄＄＄＄		speaker
+Feev09.02A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev09.02B8	いいえ、知りません。{wait}{clear}		
 Feev09.02DC	フェイン		speaker
 Feev09.02EC	聖堂へ見に行こう。{n}きっと君も驚く。{wait}{clear}		
@@ -29,7 +29,7 @@ Feev09.042A	こうして君が現れているのだから、{n}この絵は真�
 Feev09.0482	いや、過去の事実ではなく……予言なのかもな……。{wait}{clear}		
 Feev09.04D4	フェイン		speaker
 Feev09.04E4	そうだ、{n}君はこの天使を知っているのか？{wait}{clear}		
-Feev09.0510	＄＄＄＄＄＄		speaker
+Feev09.0510	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev09.0520	いいえ……知りません。{wait}{clear}		
 Feev09.053A	フェイン		speaker
 Feev09.054A	そうか……君にもなぞというわけか……{wait}{clear}		

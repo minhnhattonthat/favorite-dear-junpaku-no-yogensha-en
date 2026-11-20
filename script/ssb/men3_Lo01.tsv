@@ -1,26 +1,26 @@
 id	jp	en	notes
 men3_Lo01.005C	ルディエール		speaker
 men3_Lo01.006C	よう、＄＄＄＄＄＄。{wait}{clear}		
-men3_Lo01.0084	＄＄＄＄＄＄		speaker
+men3_Lo01.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.0094	どうしたのですか、ルディ？{n}{wait}{clear}		
 men3_Lo01.00B4	ルディエール		speaker
 men3_Lo01.00C4	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
-men3_Lo01.0114	＄＄＄＄＄＄		speaker
+men3_Lo01.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.0124	なにかあったのですか？{wait}{clear}		
 men3_Lo01.013E	ルディエール		speaker
 men3_Lo01.014E	いや、そうじゃないよ。{n}このシルクのハンカチを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
 men3_Lo01.01D0	ＮＵＬＬ	NULL	speaker
 men3_Lo01.01E0	《ありがとうございます。》{n}		
 men3_Lo01.0202	《戒律があるので……。》{n}		
-men3_Lo01.0222	＄＄＄＄＄＄		speaker
+men3_Lo01.0222	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.0232	ありがとうございます。{wait}{clear}		
 men3_Lo01.0258	ルディエール		speaker
 men3_Lo01.0268	これは、レグランスで作ってるものなんだ。{n}気に入ってくれればいいけど。{wait}{clear}		
-men3_Lo01.02B2	＄＄＄＄＄＄		speaker
+men3_Lo01.02B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.02C2	ええ、もちろんです。{n}本当にありがとうございました。{wait}{clear}		
-men3_Lo01.02FE	＄＄＄＄＄＄		speaker
+men3_Lo01.02FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.030E	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Lo01.0372	ルディエール		speaker
 men3_Lo01.0382	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}		
-men3_Lo01.03EA	＄＄＄＄＄＄		speaker
+men3_Lo01.03EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo01.03FA	本当にすみません。{wait}{clear}		

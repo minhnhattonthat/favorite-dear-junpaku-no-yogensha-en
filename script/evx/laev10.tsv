@@ -13,7 +13,7 @@ laev10.02FA	帝国兵		unit name (32-byte field)
 laev10.0336	帝国兵		unit name (32-byte field)
 laev10.0590	レイラ		speaker
 laev10.05A5	クロイツフェルドがいない？{n}でも、今なら皇帝を……！！		text
-laev10.05EA	＄＄＄＄＄＄		speaker
+laev10.05EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0605	レイラっ！		text
 laev10.08DE	アルベリック		speaker
 laev10.08F9	これはレイラ……その姿も美しいな……。		text
@@ -24,7 +24,7 @@ laev10.09E7	くっ……。		text
 laev10.0A48	アルベリック		speaker
 laev10.0A63	美しい君を反逆の罪で裁くの悲しいが、{n}この場で切り捨てねば{n}また逃げ出されてしまいそうだ……。		text
 laev10.0AE0	どうも君には協力者が多いようだからな。		text
-laev10.0B45	＄＄＄＄＄＄		speaker
+laev10.0B45	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev10.0B60	レイラ！　私が姿を……！！		text
 laev10.0BBD	エンディミオン		speaker
 laev10.0BDA	待て、アルベリック。		text

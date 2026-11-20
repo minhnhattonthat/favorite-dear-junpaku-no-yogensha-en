@@ -25,21 +25,21 @@ loev06.057C	ルディエール		speaker
 loev06.058C	わかった。{wait}{clear}		
 loev06.05B8	ルディエール		speaker
 loev06.05C8	ふう……。{wait}{clear}		
-loev06.05D6	＄＄＄＄＄＄		speaker
+loev06.05D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev06.05E6	お疲れのようですね。{wait}{clear}		
 loev06.060C	ルディエール		speaker
 loev06.061C	まあね。{n}どたばたとなれないことをやったからな。{wait}{clear}		
 loev06.0650	ＮＵＬＬ	NULL	speaker
 loev06.0660	《また、依頼を……》{n}		
 loev06.067C	《心配ですか？》{n}		
-loev06.069E	＄＄＄＄＄＄		speaker
+loev06.069E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev06.06AE	また、依頼を受けてくれますか？{wait}{clear}		
 loev06.06E4	ルディエール		speaker
 loev06.06F4	ああ、心配するな。{n}約束どおり、またやるよ。{wait}{clear}		
 loev06.0732	今日ぐらい休ませてくれ。{wait}{clear}		
 loev06.0764	ルディエール		speaker
 loev06.0774	人使いが荒いな……{n}約束は約束だ。守るさ。{wait}{clear}ただ、今日ぐらい休ませてくれ。{wait}{clear}		
-loev06.07D4	＄＄＄＄＄＄		speaker
+loev06.07D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev06.07E4	心配なのですか？{wait}{clear}		
 loev06.0806	ルディエール		speaker
 loev06.0816	なにがだ？{n}兄さんのことか？{wait}{clear}		

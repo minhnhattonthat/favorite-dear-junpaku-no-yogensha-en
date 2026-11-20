@@ -1,20 +1,20 @@
 id	jp	en	notes
-clev08.003A	＄＄＄＄＄＄		speaker
+clev08.003A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev08.004A	……？？{wait}{clear}		
 clev08.005A	クライヴ！？{wait}{clear}		
 clev08.007C	クライヴ		speaker
 clev08.008C	クッ……{wait}{clear}		
 clev08.0098	クライヴ		speaker
 clev08.00A8	……ハア……ハア……。{wait}{clear}		
-clev08.00C2	＄＄＄＄＄＄		speaker
+clev08.00C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev08.00D2	大丈夫ですか！　クライヴ！{wait}{clear}		
 clev08.011A	クライヴ		speaker
-clev08.012A	…………。{wait}{clear}		
-clev08.0156	＄＄＄＄＄＄		speaker
+clev08.012A	…………。{wait}{clear}	.........{wait}{clear}	
+clev08.0156	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev08.0166	……落ち着きましたか。{wait}{clear}		
 clev08.0180	クライヴ		speaker
 clev08.0190	……ああ、すまない。{wait}{clear}		
-clev08.01A8	＄＄＄＄＄＄		speaker
+clev08.01A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev08.01B8	あなたの体は……{wait}{clear}		
 clev08.01CC	クライヴ		speaker
 clev08.01DC	もう、時間がない……{wait}{clear}		

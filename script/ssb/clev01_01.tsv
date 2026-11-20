@@ -1,33 +1,33 @@
 id	jp	en	notes
 clev01_01.0072	クライヴ		speaker
-clev01_01.007E	…………。{wait}{clear}		
-clev01_01.008C	＄＄＄＄＄＄		speaker
+clev01_01.007E	…………。{wait}{clear}	.........{wait}{clear}	
+clev01_01.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.009C	あなたはクライヴ・セイングレントですね？{wait}{clear}		
 clev01_01.00C8	クライヴ		speaker
-clev01_01.00D4	…………。{wait}{clear}		
-clev01_01.00E2	＄＄＄＄＄＄		speaker
+clev01_01.00D4	…………。{wait}{clear}	.........{wait}{clear}	
+clev01_01.00E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.00F2	私は天使、＄＄＄＄＄＄といいます。{wait}{clear}		
 clev01_01.0124	クライヴ		speaker
 clev01_01.0134	……天使？{wait}{clear}		
-clev01_01.0142	＄＄＄＄＄＄		speaker
+clev01_01.0142	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.0152	はい。私はこの世界の混乱を正すために{n}天から使わされました。{wait}{clear}今この世界は混乱の際にあります。{wait}{clear}あなたのような人に、{n}ぜひ、ともに戦ってもらいたいのです。{wait}{clear}		
 clev01_01.01F4	クライヴ		speaker
 clev01_01.0204	本当に……いるのだな。{wait}{clear}		
-clev01_01.021E	＄＄＄＄＄＄		speaker
+clev01_01.021E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.022E	はい？{wait}{clear}		
 clev01_01.0238	クライヴ		speaker
 clev01_01.0248	俺に頼みたいことがあるなら来い……。{n}お前の好きにしたらいい。{wait}{clear}		
-clev01_01.028A	＄＄＄＄＄＄		speaker
+clev01_01.028A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.029A	ありがとうございます、クライヴ。{n}あなたのような……{wait}{clear}		
-clev01_01.02DC	＄＄＄＄＄＄		speaker
+clev01_01.02DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.02EC	あ、クライヴ！　待ってください！！{wait}{clear}…………。{wait}{clear}		
 clev01_01.0330	クライヴ		speaker
-clev01_01.033C	…………。{wait}{clear}		
+clev01_01.033C	…………。{wait}{clear}	.........{wait}{clear}	
 clev01_01.0356	ＮＵＬＬ	NULL	speaker
 clev01_01.0362	text_on;		
 clev01_01.036E	《追いかける》{n}		
 clev01_01.0384	《今はあきらめる》		
-clev01_01.03B2	＄＄＄＄＄＄		speaker
+clev01_01.03B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev01_01.03C2	待ってください、クライヴ。話を……{wait}{clear}		
 clev01_01.03F4	クライヴ		speaker
 clev01_01.0400	お前にかまっているひまはない。{wait}{clear}消えろ。{wait}{clear}		

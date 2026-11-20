@@ -1,26 +1,26 @@
 id	jp	en	notes
 men2_Fe02.0052	フェイン		speaker
 men2_Fe02.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
-men2_Fe02.0082	＄＄＄＄＄＄		speaker
+men2_Fe02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.0092	いいえ……それはかまいません……。{n}なにかお話があるのでしょう？{wait}{clear}		
 men2_Fe02.00D6	フェイン		speaker
 men2_Fe02.00E2	まあ、そうだな……{n}話と言うほどのことではないのだが……{n}少しいいか？{wait}{clear}		
 men2_Fe02.012C	ＮＵＬＬ	NULL	speaker
 men2_Fe02.013C	《なにか悩み事でも？》{n}		
 men2_Fe02.015A	《ええ、私でよければ……。》{n}		
-men2_Fe02.017E	＄＄＄＄＄＄		speaker
+men2_Fe02.017E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.018E	なにか悩み事でもあるのですか？{wait}{clear}		
 men2_Fe02.01B0	フェイン		speaker
 men2_Fe02.01BC	いや、そんな大げさなことじゃない。{n}なんだか、かえって心配をかけたみたいだな。{wait}{clear}		
-men2_Fe02.020E	＄＄＄＄＄＄		speaker
+men2_Fe02.020E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.021E	いえ、なにもなければそれでいいのですから。{wait}{clear}		
 men2_Fe02.0258	フェイン		speaker
 men2_Fe02.0264	そうか……悪かったな……。{wait}{clear}せっかく来てもらったんだ。{n}少し話につきあってもらえるか？{wait}{clear}		
-men2_Fe02.02C0	＄＄＄＄＄＄		speaker
+men2_Fe02.02C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.02D0	ええ、もちろんです。{wait}{clear}		
-men2_Fe02.02EC	＄＄＄＄＄＄		speaker
+men2_Fe02.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.02FC	ええ、私でよければ……。{wait}{clear}		
 men2_Fe02.0318	フェイン		speaker
 men2_Fe02.0324	そうか……。{n}忙しいと思うが、少し話につきあってもらえないか？{wait}{clear}		
-men2_Fe02.0366	＄＄＄＄＄＄		speaker
+men2_Fe02.0366	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.0376	ええ、よろこんで。{wait}{clear}		

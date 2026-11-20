@@ -1,28 +1,28 @@
 id	jp	en	notes
-men1_Ce02.0052	セシア		speaker
+men1_Ce02.0052	セシア	Cecia	speaker
 men1_Ce02.005C	急にお呼びしてすみません。{wait}{clear}		
-men1_Ce02.007A	＄＄＄＄＄＄		speaker
+men1_Ce02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.008A	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
-men1_Ce02.00C8	セシア		speaker
+men1_Ce02.00C8	セシア	Cecia	speaker
 men1_Ce02.00D2	いえ、そうではないんです。{n}ただ、天使様と少し話ができればと思って……。{n}ご迷惑でしたでしょうか？{wait}{clear}		
 men1_Ce02.0138	ＮＵＬＬ	NULL	speaker
 men1_Ce02.0148	《大丈夫ですよ。》{n}		
 men1_Ce02.0162	《時間があまり……。》{n}		
-men1_Ce02.0180	＄＄＄＄＄＄		speaker
+men1_Ce02.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.0190	私なら、大丈夫ですよ。{n}そんなに気をつかわないでください。{wait}{clear}		
-men1_Ce02.01DA	セシア		speaker
+men1_Ce02.01DA	セシア	Cecia	speaker
 men1_Ce02.01E4	そうですか……よかった……。{wait}{clear}いつもお忙しそうな、天使様ですから、{n}わがままを言ってしまっては、{n}申し訳ないかと心配だったのです。{wait}{clear}		
-men1_Ce02.026C	＄＄＄＄＄＄		speaker
+men1_Ce02.026C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.027C	とんでもないです。{n}わがままだなんて、思いませんから。{n}これも私のつとめです。{wait}{clear}		
-men1_Ce02.02DA	セシア		speaker
+men1_Ce02.02DA	セシア	Cecia	speaker
 men1_Ce02.02E4	じゃあ、少しつきあっていただいても、いいですか？{wait}{clear}		
-men1_Ce02.0318	＄＄＄＄＄＄		speaker
+men1_Ce02.0318	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.0328	ええ、よろこんで。{wait}{clear}		
-men1_Ce02.0342	＄＄＄＄＄＄		speaker
+men1_Ce02.0342	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.0352	あの……時間があまりないのです。{n}あまりゆっくりはしていられませんが、{n}それでも、いいですか？{wait}{clear}		
-men1_Ce02.03C0	セシア		speaker
+men1_Ce02.03C0	セシア	Cecia	speaker
 men1_Ce02.03CA	やっぱりお忙しいのですね。{wait}{clear}すみません、天使様。{n}私の方こそ、わがままを言ってしまって。{wait}{clear}そんなに大切なお話をしようと{n}思っていたわけではないですから{n}また別な機会にします。{wait}{clear}		
-men1_Ce02.0480	＄＄＄＄＄＄		speaker
+men1_Ce02.0480	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men1_Ce02.0490	すみません、セシア……。{wait}{clear}		
-men1_Ce02.04B8	セシア		speaker
+men1_Ce02.04B8	セシア	Cecia	speaker
 men1_Ce02.04C2	いいえ、天使様、気になさらないでください。{n}では、また来てくださいね。{wait}{clear}		

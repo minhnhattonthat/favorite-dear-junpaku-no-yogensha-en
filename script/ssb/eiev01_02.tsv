@@ -1,11 +1,11 @@
 id	jp	en	notes
 eiev01_02.0048	アイリーン		speaker
 eiev01_02.0056	なに？　また来たのね。{wait}{clear}何の用？{wait}{clear}		
-eiev01_02.007C	＄＄＄＄＄＄		speaker
+eiev01_02.007C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_02.008C	もう一度、{n}あなたに協力をしてもらえないかと{n}お願いしに来ました。{wait}{clear}		
 eiev01_02.00D2	アイリーン		speaker
 eiev01_02.00E0	はあ、結構まじめね。{wait}{clear}今度断っても、また来るんでしょ。{wait}{clear}わかったわ、もう根負け。{n}協力してあげる。{wait}{clear}		
-eiev01_02.014A	＄＄＄＄＄＄		speaker
+eiev01_02.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev01_02.015A	ありがとう、アイリーン。{wait}{clear}		
 eiev01_02.0176	アイリーン		speaker
 eiev01_02.0184	じゃ、用ができたらまた来て。{wait}{clear}		

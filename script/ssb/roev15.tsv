@@ -8,36 +8,36 @@ roev15.00B6	なにもしない……、なんていう{n}約束を僕はでき�
 roev15.010C	ＮＵＬＬ	NULL	speaker
 roev15.011C	《ええ……》{n}		
 roev15.0130	《今は忙しいので……》{n}		
-roev15.0154	＄＄＄＄＄＄		speaker
-roev15.0164	ええ、いいですよ。{wait}{clear}		
+roev15.0154	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+roev15.0164	ええ、いいですよ。{wait}{clear}	Yes, of course.{wait}{clear}	
 roev15.0188	ロクス		speaker
 roev15.0196	ありがとう。{wait}{clear}		
-roev15.01B0	＄＄＄＄＄＄		speaker
+roev15.01B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.01C0	今は忙しいので……{wait}{clear}		
 roev15.01E4	ロクス		speaker
 roev15.01F2	そうか……{n}じゃあ、また今度にしよう……{wait}{clear}		
 roev15.0248	ロクス		speaker
 roev15.0256	今日は冷えるな……{n}寒くないか？{wait}{clear}		
-roev15.027A	＄＄＄＄＄＄		speaker
+roev15.027A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.028A	ええ、私は平気です。{wait}{clear}		
 roev15.02B0	ロクス		speaker
 roev15.02BE	君は平気でも、見ているこちらが寒い。{n}ほら……。{wait}{clear}		
-roev15.0306	＄＄＄＄＄＄		speaker
+roev15.0306	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.0316	ありがとう……ロクス。{wait}{clear}		
 roev15.034E	ロクス		speaker
 roev15.035C	……君にはたくさん迷惑をかけた……{n}すまなかった……。{wait}{clear}		
-roev15.0396	＄＄＄＄＄＄		speaker
+roev15.0396	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.03A6	いえ、いいんです。もう。{wait}{clear}		
 roev15.03C2	ロクス		speaker
-roev15.03CC	…………。{wait}{clear}		
+roev15.03CC	…………。{wait}{clear}	.........{wait}{clear}	
 roev15.03DA	ＮＵＬＬ	NULL	speaker
 roev15.03EA	《あなたの話を聞かせてください》{n}		
 roev15.0412	《癒しの手について……》{n}		
-roev15.0438	＄＄＄＄＄＄		speaker
+roev15.0438	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.0448	あなたの話を聞かせてください。ロクス。{wait}{clear}		
 roev15.0472	ロクス		speaker
 roev15.0480	僕の話？　面白くはないよ……きっと。{wait}{clear}		
-roev15.04A8	＄＄＄＄＄＄		speaker
+roev15.04A8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.04B8	かまいません……。{n}私が聞きたいと思っているのですから、{n}話していただけませんか？{wait}{clear}		
 roev15.050E	ロクス		speaker
 roev15.051C	僕は……子供のころ、教会に引き取られた。{wait}{clear}		
@@ -53,7 +53,7 @@ roev15.0778	教皇になるのがばからしくなった……。{wait}{clear}
 roev15.07A4	結局利用されているだけに感じたから。{wait}{clear}		
 roev15.07D0	それで適当に遊びほうけていたら、{n}副教皇に聖都から追い出された……。{wait}{clear}		
 roev15.081C	ま、こんなところだ……{n}つまんない話さ……。{wait}{clear}		
-roev15.084C	＄＄＄＄＄＄		speaker
+roev15.084C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.085C	そんなことはありません……。{n}話してくれて、ありがとうございました。{wait}{clear}ところで……{n}ロクスのご両親は今どうしているのですか？{wait}{clear}		
 roev15.08DE	ロクス		speaker
 roev15.08EC	ああ、両親は普通の人たちさ。{wait}{clear}		
@@ -61,7 +61,7 @@ roev15.0910	でも、ずっと別々に暮らしていたから……{wait}{clea
 roev15.093E	大きくなって会ったときには{n}ほとんど他人みたいな感じだった。{wait}{clear}		
 roev15.0982	今でもほとんど会わないし、{n}お互い話すこともない……。{wait}{clear}		
 roev15.09C0	苦手だ……あの人達は。{wait}{clear}…………。{wait}{clear}		
-roev15.09F2	＄＄＄＄＄＄		speaker
+roev15.09F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev15.0A02	あなたの癒しの手の話を{n}聞かせてくれませんか？{wait}{clear}		
 roev15.0A34	ロクス		speaker
 roev15.0A42	この手の話か……。{wait}{clear}		

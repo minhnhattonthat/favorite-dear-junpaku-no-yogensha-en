@@ -1,27 +1,27 @@
 id	jp	en	notes
-clev07.00B0	＄＄＄＄＄＄		speaker
+clev07.00B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.00C0	どうしたのです？　クライヴ。{n}顔色がよくないですが……。{wait}{clear}		
 clev07.00FC	クライヴ		speaker
-clev07.0108	…………。{wait}{clear}		
-clev07.0116	＄＄＄＄＄＄		speaker
+clev07.0108	…………。{wait}{clear}	.........{wait}{clear}	
+clev07.0116	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.0126	大丈夫ですか！　クライヴ！{wait}{clear}		
 clev07.0144	クライヴ		speaker
 clev07.0154	……クソッ！！{wait}{clear}		
-clev07.0166	＄＄＄＄＄＄		speaker
+clev07.0166	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.0176	クライヴ……{n}あなたの体の話を詳しく聞かせてください……。{wait}{clear}		
 clev07.01B4	クライヴ		speaker
 clev07.01C4	お前には関係ない……。{wait}{clear}		
-clev07.01DE	＄＄＄＄＄＄		speaker
+clev07.01DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.01EE	クライヴ……。{wait}{clear}		
-clev07.0218	＄＄＄＄＄＄		speaker
+clev07.0218	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.0228	少しでいいので、聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}		
-clev07.0288	＄＄＄＄＄＄		speaker
+clev07.0288	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.0298	もしかしたら、{n}レイブンルフトに関係があるのですか？{wait}{clear}聞かせてください……。{n}これ以上、あなたの苦しむ姿を見てはいられません。{wait}{clear}		
 clev07.031C	クライヴ		speaker
 clev07.032C	この血……{n}やつの血だ……。{wait}{clear}		
 clev07.0350	……この血が俺を狂わせる……{wait}{clear}		
 clev07.0374	……もういい、向こうへ行け……。{n}俺から離れろ……。{wait}{clear}		
-clev07.03BE	＄＄＄＄＄＄		speaker
+clev07.03BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev07.03CE	そんなあなたをほうってはおけません！{n}クライヴ……きちんと話していただけませんか？{wait}{clear}		
 clev07.0432	クライヴ		speaker
 clev07.043E	…………。{wait}{clear}俺は……レイブンルフトの生けにえとなった{n}女から生まれた……{wait}{clear}		

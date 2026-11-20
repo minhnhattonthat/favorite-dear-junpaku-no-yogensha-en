@@ -1,31 +1,31 @@
 id	jp	en	notes
 men3_Lo04.005C	ルディエール		speaker
 men3_Lo04.006C	よう、＄＄＄＄＄＄。{wait}{clear}		
-men3_Lo04.0084	＄＄＄＄＄＄		speaker
+men3_Lo04.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.0094	どうしたのですか、ルディ？{n}{wait}{clear}		
 men3_Lo04.00B4	ルディエール		speaker
 men3_Lo04.00C4	ああ、やっと来てくれたか。{n}もう来ないんじゃないかと思ってたとこだったんだ。{wait}{clear}		
-men3_Lo04.0114	＄＄＄＄＄＄		speaker
+men3_Lo04.0114	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.0124	なにかあったのですか？{wait}{clear}		
 men3_Lo04.013E	ルディエール		speaker
 men3_Lo04.014E	いや、そうじゃないよ。{n}この珍しいスパイスを渡そうと思ってさ。{wait}{clear}なにかの役に立てばと思うんだけど、{n}受け取ってくれないか？{wait}{clear}		
 men3_Lo04.01CE	ＮＵＬＬ	NULL	speaker
 men3_Lo04.01DE	《ありがとうございます。》{n}		
 men3_Lo04.0200	《戒律があるので……。》{n}		
-men3_Lo04.0220	＄＄＄＄＄＄		speaker
+men3_Lo04.0220	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.0230	ありがとうございます。{n}えっと、これはなにに使うものですか？{wait}{clear}		
 men3_Lo04.0270	ルディエール		speaker
 men3_Lo04.0280	ああ、これか？{n}これは、薬として使ったり、{n}料理の味付けや毒消しに使ったりするんだ。{wait}{clear}		
 men3_Lo04.02E4	レグランスにしかないスパイスだから、{n}これも、交易には重要な品なんだぜ。{wait}{clear}どうだい？{n}＄＄＄＄＄＄も気に入ってくれればいいけど。{wait}{clear}		
-men3_Lo04.036A	＄＄＄＄＄＄		speaker
+men3_Lo04.036A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.037A	ルディは自分の国が本当に好きなのですね。{wait}{clear}		
 men3_Lo04.03A6	ルディエール		speaker
 men3_Lo04.03B6	そりゃ、そうだけど、{n}そんな大げさなことじゃない。{n}ただ、なにかに役立てばと思っただけだよ。{wait}{clear}		
-men3_Lo04.0416	＄＄＄＄＄＄		speaker
+men3_Lo04.0416	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.0426	そうですか……。{n}本当にありがとうございます、ルディ。{wait}{clear}		
-men3_Lo04.0464	＄＄＄＄＄＄		speaker
+men3_Lo04.0464	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.0474	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Lo04.04E4	ルディエール		speaker
 men3_Lo04.04F4	そうか……それならしかたないな……。{n}なにか役に立ちたいと思ったから、{n}ちょっとがっかりしたけどさ。{wait}{clear}		
-men3_Lo04.055C	＄＄＄＄＄＄		speaker
+men3_Lo04.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Lo04.056C	本当にすみません。{wait}{clear}		

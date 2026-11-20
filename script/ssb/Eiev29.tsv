@@ -9,22 +9,22 @@ Eiev29.0158	ミカエル		speaker
 Eiev29.0168	また天界で会おう。{wait}{clear}		
 Eiev29.01C6	アイリーン		speaker
 Eiev29.01D8	もう二度と戻らないの？{wait}{clear}		
-Eiev29.01F2	＄＄＄＄＄＄		speaker
+Eiev29.01F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.0202	ええ、多分……{wait}{clear}		
 Eiev29.0214	アイリーン		speaker
 Eiev29.0226	そっか……{wait}{clear}		
 Eiev29.0238	長い間ありがとう。{n}私……あなたに会えてうれしかったよ。{wait}{clear}		
 Eiev29.0278	もしも、もう一度{n}この地上にくることがあったら…{n}絶対会いに来てね……。{wait}{clear}		
 Eiev29.02C8	また、{n}楽しくおしゃべりしよう……。{wait}{clear}		
-Eiev29.02F0	＄＄＄＄＄＄		speaker
-Eiev29.0300	はい……。{wait}{clear}		
+Eiev29.02F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+Eiev29.0300	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Eiev29.030E	アイリーン		speaker
 Eiev29.0320	さよなら……元気でね。{n}＄＄＄＄＄＄！{wait}{clear}		
-Eiev29.034A	＄＄＄＄＄＄		speaker
+Eiev29.034A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.035A	さよなら、アイリーン！{wait}{clear}		
 Eiev29.039C	アイリーン		speaker
 Eiev29.03AE	帰るのね……{wait}{clear}		
-Eiev29.03BE	＄＄＄＄＄＄		speaker
+Eiev29.03BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.03CE	はい……{wait}{clear}でも必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}		
 Eiev29.040E	アイリーン		speaker
 Eiev29.0420	約束なんだから……{n}絶対……戻ってきてね……{wait}{clear}		
@@ -35,15 +35,15 @@ Eiev29.04FC	アイリーン		speaker
 Eiev29.050E	帰るのね……{wait}{clear}		
 Eiev29.0522	私ね……{n}笑ってお別れなんか{n}できないよ……{wait}{clear}		
 Eiev29.0556	だって……あなたのこと{n}私……{wait}{clear}……。{wait}{clear}		
-Eiev29.0582	＄＄＄＄＄＄		speaker
+Eiev29.0582	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.0592	泣かないでください……{n}アイリーン。{wait}{clear}		
 Eiev29.05BA	アイリーン		speaker
 Eiev29.05CC	ずっと忘れない……{n}これからさき……あなたのこと……{wait}{clear}		
-Eiev29.0604	＄＄＄＄＄＄		speaker
+Eiev29.0604	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.0614	私も忘れません……{wait}{clear}		
 Eiev29.062A	アイリーン		speaker
 Eiev29.063C	さよなら……天使様……{wait}{clear}		
-Eiev29.0656	＄＄＄＄＄＄		speaker
+Eiev29.0656	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.0666	さよなら……アイリーン{wait}{clear}		
 Eiev29.069C	ベルゼバブ		speaker
 Eiev29.06AE	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}		

@@ -1,6 +1,6 @@
 id	jp	en	notes
 ceev20.0002	セレニスとの戦い		dev label (guess: not shown)
-ceev20.00A2	セシア		unit name (32-byte field)
+ceev20.00A2	セシア	Cecia	unit name (32-byte field)
 ceev20.00DE	セレニス		unit name (32-byte field)
 ceev20.011A	魔法		unit name (32-byte field)
 ceev20.0156	エンディミオン		unit name (32-byte field)
@@ -10,7 +10,7 @@ ceev20.020A	魔石（赤）		unit name (32-byte field)
 ceev20.0246	魔石の台		unit name (32-byte field)
 ceev20.04E8	セレニス		speaker
 ceev20.04FF	フフフ、{n}よく来たわね。天使の勇者。		text
-ceev20.0532	セシア		speaker
+ceev20.0532	セシア	Cecia	speaker
 ceev20.0547	帝国の魔女……。{n}あなたが元凶だということはわかっています。		text
 ceev20.0592	セレニス		speaker
 ceev20.05A9	わかったところで、どうしようというの？{n}あなたに私を止めることなどできないわ。		text

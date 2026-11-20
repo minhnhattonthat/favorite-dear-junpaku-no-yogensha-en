@@ -1,22 +1,22 @@
 id	jp	en	notes
 men3_Cl04.005C	クライヴ		speaker
 men3_Cl04.0068	すまない……呼び出して。{wait}{clear}		
-men3_Cl04.0084	＄＄＄＄＄＄		speaker
+men3_Cl04.0084	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.0094	どうしたのですか？{n}なにか気になることでもあったのですか？{wait}{clear}		
 men3_Cl04.00D2	クライヴ		speaker
 men3_Cl04.00DE	いや……これを……{n}銀のロザリオをお前に渡そうと思ったのだ。{wait}{clear}受け取ってもらえないか？{wait}{clear}		
 men3_Cl04.013A	ＮＵＬＬ	NULL	speaker
 men3_Cl04.014A	《ありがとうございます。》{n}		
 men3_Cl04.016C	《戒律があるので……。》{n}		
-men3_Cl04.018C	＄＄＄＄＄＄		speaker
+men3_Cl04.018C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.019C	ありがとうございます。{wait}{clear}えっと、これはお守りですね。{wait}{clear}		
 men3_Cl04.01D6	クライヴ		speaker
 men3_Cl04.01E2	ああ、そうだ……。{wait}{clear}		
-men3_Cl04.01F8	＄＄＄＄＄＄		speaker
+men3_Cl04.01F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.0208	いただいていきますね、クライヴ。{n}本当にありがとうございました。{wait}{clear}		
-men3_Cl04.0250	＄＄＄＄＄＄		speaker
+men3_Cl04.0250	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.0260	すみません。{n}人間の世界にはあまり干渉してはならないという{n}戒律があるので、受け取れません……。{wait}{clear}		
 men3_Cl04.02D0	クライヴ		speaker
 men3_Cl04.02DC	そうか……。{n}なら、しかたがない。{wait}{clear}		
-men3_Cl04.0302	＄＄＄＄＄＄		speaker
+men3_Cl04.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men3_Cl04.0312	本当にすみません。{wait}{clear}		

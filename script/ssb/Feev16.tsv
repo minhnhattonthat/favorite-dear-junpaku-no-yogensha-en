@@ -1,38 +1,38 @@
 id	jp	en	notes
-Feev16.0058	＄＄＄＄＄＄		speaker
+Feev16.0058	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.0068	こんにちは、フェイン。{wait}{clear}		
 Feev16.0082	フェイン		speaker
-Feev16.008E	…………。{wait}{clear}		
-Feev16.009C	＄＄＄＄＄＄		speaker
+Feev16.008E	…………。{wait}{clear}	.........{wait}{clear}	
+Feev16.009C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.00AC	フェイン？{wait}{clear}		
 Feev16.00BA	フェイン		speaker
 Feev16.00CA	……ああ……君か……。{wait}{clear}		
-Feev16.00E4	＄＄＄＄＄＄		speaker
+Feev16.00E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.00F4	ちょっとお話ししたいのですが、{n}いいですか？{wait}{clear}		
 Feev16.0130	フェイン		speaker
 Feev16.0140	すまない……{n}また今度にしてくれないか。{wait}{clear}		
 Feev16.0170	今、ちょっとな……。{wait}{clear}		
-Feev16.0188	＄＄＄＄＄＄		speaker
+Feev16.0188	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.0198	そうですか……。{n}では、またあらためておうかがいいします。{wait}{clear}		
 Feev16.01E0	フェイン		speaker
 Feev16.01F0	……ああ、すまない。{n}少し、待ってくれないか。{wait}{clear}		
-Feev16.0222	＄＄＄＄＄＄		speaker
+Feev16.0222	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.0232	はい。{wait}{clear}		
 Feev16.0254	フェイン		speaker
 Feev16.0260	悪かったな、＄＄＄＄＄＄。{n}なにか話か？{wait}{clear}		
-Feev16.028C	＄＄＄＄＄＄		speaker
+Feev16.028C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.029C	すみません、フェイン。{n}読書の邪魔をしてしまって……。{wait}{clear}		
 Feev16.02D6	フェイン		speaker
 Feev16.02E2	いや、かまわない。{n}本はいつでも読める。{wait}{clear}		
-Feev16.030E	＄＄＄＄＄＄		speaker
+Feev16.030E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.031E	なんの本を読んでいたのですか？{wait}{clear}		
 Feev16.0340	フェイン		speaker
 Feev16.034C	この世界の歴史の本だ。{wait}{clear}まあ、書かれているのは、歴史と言っても、{n}どこまでが真実なのかわからない内容だが……。{wait}{clear}		
-Feev16.03C0	＄＄＄＄＄＄		speaker
+Feev16.03C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.03D0	歴史の本という限りは、{n}事実だけが書かれているわけではないのですか？{wait}{clear}		
 Feev16.0418	フェイン		speaker
 Feev16.0424	いや、そうとは限らないだろう。{wait}{clear}本を書いているのはあくまでも人間だし、{n}伝えられてゆく時間の中で、{n}内容はどんどん変わっていくものだ。{wait}{clear}それよりも、なにか話があるのだろう？{wait}{clear}		
-Feev16.04D8	＄＄＄＄＄＄		speaker
+Feev16.04D8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev16.04E8	あ！　は、はい、そうでした。{n}では、ちょっとだけお時間いいですか？{wait}{clear}		
 Feev16.052E	フェイン		speaker
 Feev16.053A	ああ……。{wait}{clear}		

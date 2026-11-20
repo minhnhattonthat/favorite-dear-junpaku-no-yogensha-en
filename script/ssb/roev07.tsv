@@ -1,29 +1,29 @@
 id	jp	en	notes
 roev07.0030	ロクス		speaker
 roev07.003A	ったく、君は本当に人使いが荒いな。{n}あっちへ、こっちへと忙しいことこの上ない。{wait}{clear}		
-roev07.008C	＄＄＄＄＄＄		speaker
+roev07.008C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.009C	ですが、事件が起こればしかたないですし……。{wait}{clear}		
 roev07.00CC	ロクス		speaker
 roev07.00D6	他の勇者だっているのだろう？{n}別に僕だけに……{wait}{clear}		
-roev07.0108	＄＄＄＄＄＄		speaker
+roev07.0108	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0118	他の勇者たちは{n}ロクスみたいに文句は言わずに……{wait}{clear}		
 roev07.014C	ロクス		speaker
 roev07.0156	なんだ、あれは？{wait}{clear}		
-roev07.0180	＄＄＄＄＄＄		speaker
+roev07.0180	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0190	あれ？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}		
-roev07.01CE	＄＄＄＄＄＄		speaker
+roev07.01CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.01DE	え？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}		
-roev07.023E	＄＄＄＄＄＄		speaker
+roev07.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.024E	よかった。{n}ロクスのおかげであの子が助かって。{wait}{clear}無事に家にも帰せましたし……。{wait}{clear}それに、ロクスの対応が素早くて、{n}とても感心しました。{wait}{clear}		
 roev07.02E8	ロクス		speaker
 roev07.02F2	そうか……？{wait}{clear}お前にだって{n}あの子を助ける力くらいあるだろう？{n}遅いんだよ……気づくのが……。{wait}{clear}		
-roev07.0356	＄＄＄＄＄＄		speaker
+roev07.0356	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0366	はい……すみません……。{wait}{clear}		
-roev07.0382	＄＄＄＄＄＄		speaker
+roev07.0382	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0392	あの……聞いてもいいですか？{wait}{clear}		
 roev07.03B2	ロクス		speaker
 roev07.03BC	なんだ？{wait}{clear}		
-roev07.03C8	＄＄＄＄＄＄		speaker
+roev07.03C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.03D8	あのときのロクスの使った力はいったいなんですか？{n}ロクスには不思議な力があるとは{n}聞いていたのですが……。{wait}{clear}		
 roev07.0446	ロクス		speaker
 roev07.0450	あれが……あの力が教皇の証と言われるものだ。{n}あんなもの、必要ないのに……。{wait}{clear}		
@@ -32,44 +32,44 @@ roev07.04AA	てめえ、なにをひとりでぶつぶつ言ってやがる！{n
 roev07.0528	ロクス		speaker
 roev07.0532	誰だ？{wait}{clear}		
 roev07.0578	ロクス		speaker
-roev07.0582	…………。{wait}{clear}		
-roev07.0590	＄＄＄＄＄＄		speaker
+roev07.0582	…………。{wait}{clear}	.........{wait}{clear}	
+roev07.0590	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.05A0	ロクス……？{wait}{clear}		
 roev07.05B0	ロクス		speaker
 roev07.05BA	ひどい話だな……{n}金がないから、子供をさらって……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}		
 roev07.0638	ＮＵＬＬ	NULL	speaker
 roev07.0648	《そういう人ばかりでは……。》{n}		
 roev07.066E	《あなたはやさしい……。》{n}		
-roev07.0696	＄＄＄＄＄＄		speaker
+roev07.0696	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.06A6	あなたの言いたいことはわかります。{n}ですが、彼らのような人たちばかりではないと{n}私は思っています。{wait}{clear}		
 roev07.070C	ロクス		speaker
 roev07.0716	ふん……{n}君はお気楽でうらやましいよ……。{wait}{clear}やつらみたいなのがごろごろいるから、{n}こんな世界になってるんじゃないか。{wait}{clear}		
-roev07.079A	＄＄＄＄＄＄		speaker
+roev07.079A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.07AA	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}		
 roev07.0830	ロクス		speaker
 roev07.083A	ふん……{n}真面目な顔してへんなこと言うな……。{wait}{clear}		
 roev07.086C	ロクス		speaker
 roev07.0876	おい、＄＄＄＄＄＄！{n}こんなところにいつまでもいる気はないからな。{wait}{clear}野宿なんてごめんだ！{n}とっとと行って、ひと眠りさせてもらう。{wait}{clear}		
-roev07.0902	＄＄＄＄＄＄		speaker
+roev07.0902	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0912	は、はい！{n}あ、待ってください、ロクス……！{wait}{clear}		
 roev07.096E	ロクス		speaker
 roev07.0978	痛っ……。{wait}{clear}		
-roev07.0986	＄＄＄＄＄＄		speaker
+roev07.0986	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0996	ロクス、大丈夫ですか？{wait}{clear}		
 roev07.09B0	ロクス		speaker
 roev07.09BA	ふっ、ばかみたいだな……{n}カッコよく人助けをしたはいいが、{n}やつらからの仕返しをくらうなんて……。{wait}{clear}それにしても……{n}弱い子供をさらって、金を巻き上げようなんて……。{wait}{clear}そこまでして手に入れた金が、{n}自分になにかしてくれるっていうのか？{wait}{clear}		
 roev07.0AAC	ＮＵＬＬ	NULL	speaker
 roev07.0ABC	《そういう人ばかりでは……。》{n}		
 roev07.0AE2	《あなたはやさしい……。》{n}		
-roev07.0B0A	＄＄＄＄＄＄		speaker
+roev07.0B0A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0B1A	あなたの言いたいことはわかります。{n}ですが、彼らのような人たちばかりではないと{n}私は思っています。{wait}{clear}		
 roev07.0B80	ロクス		speaker
 roev07.0B8A	ふん……{n}君はお気楽でうらやましいよ……。{wait}{clear}やつらみたいなのがごろごろいるから、{n}こんな世界になってるんじゃないか。{wait}{clear}		
-roev07.0C0E	＄＄＄＄＄＄		speaker
+roev07.0C0E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0C1E	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}		
 roev07.0CA4	ロクス		speaker
 roev07.0CAE	ふん……{n}真面目な顔してへんなこと言うな……。{wait}{clear}		
 roev07.0CE0	ロクス		speaker
 roev07.0CEA	おい、＄＄＄＄＄＄！{n}こんなところにいつまでもいる気はないからな。{wait}{clear}野宿なんてごめんだ、{n}とっとと行って、ひと眠りさせてもらう。{wait}{clear}		
-roev07.0D76	＄＄＄＄＄＄		speaker
+roev07.0D76	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.0D86	は、はい！{n}あ、待ってください、ロクス……！{wait}{clear}		

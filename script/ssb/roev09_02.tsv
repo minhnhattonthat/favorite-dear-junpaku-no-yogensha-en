@@ -1,6 +1,6 @@
 id	jp	en	notes
 roev09_02.0052	ロクス		speaker
-roev09_02.005C	…………。{wait}{clear}		
+roev09_02.005C	…………。{wait}{clear}	.........{wait}{clear}	
 roev09_02.006A	ゼアム大司教		speaker
 roev09_02.007A	失礼します、副教皇。{wait}{clear}まず、副教皇のお話の前に。{n}一つ、確認しておきたいのです。{wait}{clear}		
 roev09_02.00D0	副教皇		speaker
@@ -28,17 +28,17 @@ roev09_02.08A4	そんな……{n}では、このまま我々は滅ぼされる�
 roev09_02.08E0	副教皇		speaker
 roev09_02.08EA	今は耐える時だ。{n}帝国の力も未だなぞが多い。{wait}{clear}まだ、この地へ侵攻する様子はない。{n}しばし、帝国の情勢を見極めよう。{wait}{clear}		
 roev09_02.0962	ロクス		speaker
-roev09_02.096C	…………。{wait}{clear}		
+roev09_02.096C	…………。{wait}{clear}	.........{wait}{clear}	
 roev09_02.0996	ロクス		speaker
 roev09_02.09A0	……教会を裏切るようなことはない……か。{wait}{clear}よく言うよ……{n}このていたらくな僕を知りながらね……。{wait}{clear}		
 roev09_02.0A06	ＮＵＬＬ	NULL	speaker
 roev09_02.0A16	《副教皇はあなたを信じている》{n}		
 roev09_02.0A3C	《いい加減に……》{n}		
-roev09_02.0A56	＄＄＄＄＄＄		speaker
+roev09_02.0A56	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev09_02.0A66	ロクス……{n}副教皇は信じているのですよ、あなたを。{wait}{clear}		
 roev09_02.0A9C	ロクス		speaker
 roev09_02.0AA6	ふん、違うね……。{n}ああでも言わなきゃ収拾がつかないから言ったのさ。{wait}{clear}この状況で、{n}僕のせいで秘宝が奪われたなんて公表すれば、{n}教会は崩壊するからな。{wait}{clear}この地上に教皇はいないことになるから……。{n}それほど……僕の力は神聖視されてるのさ……。{wait}{clear}心底くだらない……。{n}茶番だ、あんなのは。{wait}{clear}		
-roev09_02.0BDC	＄＄＄＄＄＄		speaker
+roev09_02.0BDC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev09_02.0BEC	ロクスいい加減にしてください。{n}あなたがそんなことでどうするのです？{wait}{clear}多くの人が……苦しみながら{n}戦おうとしているときに……。{wait}{clear}		
 roev09_02.0C70	ロクス		speaker
 roev09_02.0C7A	ご立派なお言葉だね。{n}だけど、僕にそれがなんの関係がある？{wait}{clear}		

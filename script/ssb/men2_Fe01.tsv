@@ -1,26 +1,26 @@
 id	jp	en	notes
 men2_Fe01.0052	フェイン		speaker
 men2_Fe01.005E	呼び出して悪いな、＄＄＄＄＄＄。{wait}{clear}		
-men2_Fe01.0082	＄＄＄＄＄＄		speaker
+men2_Fe01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe01.0092	いえ、べつに大丈夫です……。{n}なにかお話でも？{wait}{clear}		
 men2_Fe01.00C4	フェイン		speaker
 men2_Fe01.00D0	ああ、少し時間をもらえるか？{n}{wait}{clear}		
 men2_Fe01.00F2	ＮＵＬＬ	NULL	speaker
 men2_Fe01.0102	《どうしたのですか？》{n}		
 men2_Fe01.0120	《ええ、かまいませんけど……》{n}		
-men2_Fe01.0146	＄＄＄＄＄＄		speaker
+men2_Fe01.0146	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe01.0156	どうしてたのですか？{n}あらたまって……。{wait}{clear}		
 men2_Fe01.0182	フェイン		speaker
 men2_Fe01.018E	いや、どうという話ではないのだが、{n}少しつきあってもらえれば……。{wait}{clear}		
-men2_Fe01.01D4	＄＄＄＄＄＄		speaker
+men2_Fe01.01D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe01.01E4	ええ、かまいませんよ。{wait}{clear}		
 men2_Fe01.01FE	フェイン		speaker
 men2_Fe01.020A	そうか、すまないな。{wait}{clear}		
-men2_Fe01.0226	＄＄＄＄＄＄		speaker
+men2_Fe01.0226	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe01.0236	ええ、かまいませんけど……。{n}なにか気になることでもあったのですか？{wait}{clear}		
 men2_Fe01.027E	フェイン		speaker
 men2_Fe01.028A	いや、そういうわけじゃないんだ。{n}ただ、少し話がしたいと思ってな……。{n}少しつきあってもらってもいいか？{wait}{clear}		
-men2_Fe01.02F6	＄＄＄＄＄＄		speaker
+men2_Fe01.02F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe01.0306	もちろんです。{wait}{clear}		
 men2_Fe01.0324	フェイン		speaker
 men2_Fe01.0330	そうか……。{wait}{clear}		

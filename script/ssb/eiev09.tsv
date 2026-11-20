@@ -1,7 +1,7 @@
 id	jp	en	notes
 eiev09.0058	アイリーン		speaker
 eiev09.0066	この森って……{wait}{clear}		
-eiev09.0088	＄＄＄＄＄＄		speaker
+eiev09.0088	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev09.0098	ここは聖母の森と呼ばれる場所のようです。{wait}{clear}		
 eiev09.00D0	アイリーン		speaker
 eiev09.00DE	知ってる……。{n}森を守る聖母の伝説があるところね。{n}おじいちゃんが残した本にあったわ……。{wait}{clear}		
@@ -11,11 +11,11 @@ eiev09.0196	おじいちゃんが言っていた通り……{n}魔石はここ�
 eiev09.01F0	ＮＵＬＬ	NULL	speaker
 eiev09.0200	《聖母？》{n}		
 eiev09.0212	《魔石？》{n}		
-eiev09.0228	＄＄＄＄＄＄		speaker
+eiev09.0228	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev09.0238	聖母様とは、いったい……。{wait}{clear}		
 eiev09.0256	アイリーン		speaker
 eiev09.0264	この森にすむ人たちに伝わっている伝説に{n}古代の紅月王の戦争から森を守った勇者のことよ。{n}その勇者を聖母と呼んでいるみたい。{wait}{clear}その伝説には、今でも生きていて{n}森を守り続けているとあるんだけど……{n}本当にいたなんてね……。{wait}{clear}		
-eiev09.0354	＄＄＄＄＄＄		speaker
+eiev09.0354	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev09.0364	魔石とはなんですか？{wait}{clear}		
 eiev09.0388	アイリーン		speaker
 eiev09.0396	デルフィニアの魔石、または天竜の卵とも呼ばれる、{n}恐ろしい力を発する石と伝説では語られてる……。{wait}{clear}今では割られてどこかに隠されたと伝わっているわ。{wait}{clear}		

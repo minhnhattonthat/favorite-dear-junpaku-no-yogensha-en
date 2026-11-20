@@ -1,11 +1,11 @@
 id	jp	en	notes
-eiev10.00B4	＄＄＄＄＄＄		speaker
+eiev10.00B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev10.00C4	大丈夫ですか、アイリーン！{n}帝国の新手が来るかもしれません。{wait}{clear}早くここから離れて、{n}傷の手当てをしなければ……！{wait}{clear}		
 eiev10.013A	アイリーン		speaker
 eiev10.0148	うん……。{n}でも、そんなことより……{wait}{clear}		
-eiev10.0170	＄＄＄＄＄＄		speaker
-eiev10.0180	え？{wait}{clear}		
+eiev10.0170	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
+eiev10.0180	え？{wait}{clear}	What?{wait}{clear}	
 eiev10.0188	アイリーン		speaker
 eiev10.0196	姉さん……どうして……帝国に……。{n}それにあんなひどいことを……。{wait}{clear}		
-eiev10.01DC	＄＄＄＄＄＄		speaker
+eiev10.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev10.01EC	アイリーン……。{wait}{clear}		

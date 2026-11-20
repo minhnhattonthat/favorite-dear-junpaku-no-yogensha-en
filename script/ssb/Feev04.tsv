@@ -5,13 +5,13 @@ Feev04.015E	クソっ！{n}もう少し早く戻って来ることができれ�
 Feev04.0196	ＮＵＬＬ	NULL	speaker
 Feev04.01A6	《早く逃げなければ……》{n}		
 Feev04.01C6	《謝る》{n}		
-Feev04.01DC	＄＄＄＄＄＄		speaker
+Feev04.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev04.01EC	ここには長い時間いることはできません。{n}また、帝国の軍がやってきます。{wait}{clear}		
 Feev04.0236	フェイン		speaker
 Feev04.0242	わかってる……{n}せめて、老師と友を……葬らせてくれ。{wait}{clear}あいつらに汚されるわけにはいかん……。{wait}{clear}		
-Feev04.02C2	＄＄＄＄＄＄		speaker
+Feev04.02C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev04.02D2	すみません……{wait}{clear}		
-Feev04.02E8	＄＄＄＄＄＄		speaker
+Feev04.02E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev04.02F8	ごめんなさい……{wait}{clear}		
 Feev04.030C	私がもっと……早く{wait}{clear}		
 Feev04.032E	フェイン		speaker

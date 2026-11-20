@@ -1,34 +1,34 @@
 id	jp	en	notes
-men2_Ce02.0052	セシア		speaker
+men2_Ce02.0052	セシア	Cecia	speaker
 men2_Ce02.005C	急にお呼びしてすみません。{wait}{clear}		
-men2_Ce02.007A	＄＄＄＄＄＄		speaker
+men2_Ce02.007A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.008A	どうしました、セシア？{n}なにか話でもあるのですか？{wait}{clear}		
-men2_Ce02.00CC	セシア		speaker
+men2_Ce02.00CC	セシア	Cecia	speaker
 men2_Ce02.00D6	ええ……。{n}こんな大変なときに申し訳ないのですが、{n}ちょっとお話したいことがあって……。{wait}{clear}それで、天使様をお呼びしたのですが、{n}お時間ありますか？{wait}{clear}		
 men2_Ce02.016E	ＮＵＬＬ	NULL	speaker
 men2_Ce02.017E	《なにか困ったことでも？》{n}		
 men2_Ce02.01A0	《ええ、もちろん大丈夫！》{n}		
-men2_Ce02.01C2	＄＄＄＄＄＄		speaker
+men2_Ce02.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.01D2	なにか困ったことでもあったのですか？{wait}{clear}		
-men2_Ce02.0206	セシア		speaker
+men2_Ce02.0206	セシア	Cecia	speaker
 men2_Ce02.0210	いえ、そういうわけじゃないんです。{n}かえって心配をかけてしまったのでしょうか……？{wait}{clear}		
-men2_Ce02.0266	＄＄＄＄＄＄		speaker
+men2_Ce02.0266	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.0276	いいえ、私が勝手にそう思っただけです。{n}なにもなければ、それでいいのですから、{n}セシアは気にしないでください。{wait}{clear}それで、お話とはなんですか？{wait}{clear}		
-men2_Ce02.0308	セシア		speaker
+men2_Ce02.0308	セシア	Cecia	speaker
 men2_Ce02.0312	あの……{n}天使様に見ていただきたいものがあって。{wait}{clear}すぐ近くなんですけど、{n}一緒に来てもらえますか？{wait}{clear}		
-men2_Ce02.037A	＄＄＄＄＄＄		speaker
+men2_Ce02.037A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.038A	ええ、もちろんです。{n}さあ、行きましょうか。{wait}{clear}		
-men2_Ce02.03C6	セシア		speaker
+men2_Ce02.03C6	セシア	Cecia	speaker
 men2_Ce02.03D0	はい！{wait}{clear}		
-men2_Ce02.03DE	＄＄＄＄＄＄		speaker
+men2_Ce02.03DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.03EE	ええ、もちろん大丈夫です！{n}私もセシアと話したいと思ってましたから……。{wait}{clear}		
-men2_Ce02.0446	セシア		speaker
+men2_Ce02.0446	セシア	Cecia	speaker
 men2_Ce02.0450	そうだったんですか？{n}なんだかうれしいです……天使様……。{wait}{clear}		
-men2_Ce02.048E	＄＄＄＄＄＄		speaker
+men2_Ce02.048E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.049E	あの……話というのは？{wait}{clear}		
-men2_Ce02.04C4	セシア		speaker
+men2_Ce02.04C4	セシア	Cecia	speaker
 men2_Ce02.04CE	え？　あ、えっと、{n}天使様にお見せしたいものがあって……。{n}一緒に来てくださいますか？{wait}{clear}		
-men2_Ce02.0528	＄＄＄＄＄＄		speaker
+men2_Ce02.0528	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Ce02.0538	ええ、いいですよ。{n}どこですか？{wait}{clear}		
-men2_Ce02.055C	セシア		speaker
+men2_Ce02.055C	セシア	Cecia	speaker
 men2_Ce02.0566	すぐ近くなんですけど、{n}じゃあ、行きましょう、天使様。{wait}{clear}		
