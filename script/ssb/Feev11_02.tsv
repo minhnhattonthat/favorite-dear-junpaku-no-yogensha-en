@@ -1,17 +1,17 @@
 id	jp	en	notes
 Feev11_02.007E	フェイン	Fein	speaker
-Feev11_02.008A	クッ……{n}魔石を奪われディアナ様も……。{wait}{clear}敵に出し抜かれてばかりだ……。{n}俺たちはこのままで{n}敵から世界を守ることができるのか？{wait}{clear}		
+Feev11_02.008A	クッ……{n}魔石を奪われディアナ様も……。{wait}{clear}敵に出し抜かれてばかりだ……。{n}俺たちはこのままで{n}敵から世界を守ることができるのか？{wait}{clear}	Ngh... The Demon Stone was stolen, and{n}Diana-sama too...{wait}{clear}The enemy keeps outwitting us... Can we{n}really protect the world from them like{n}this?{wait}{clear}	
 Feev11_02.0110	ＮＵＬＬ	NULL	speaker
-Feev11_02.0120	《…………。》{n}		
-Feev11_02.0136	《必ず……》{n}		
+Feev11_02.0120	《…………。》{n}	......{n}	
+Feev11_02.0136	《必ず……》{n}	Without fail...{n}	
 Feev11_02.014A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev11_02.015A	…………。{wait}{clear}	.........{wait}{clear}	
 Feev11_02.0182	フェイン	Fein	speaker
-Feev11_02.018E	自信がないのか。{wait}{clear}本当にこのままやつらに{n}やられっぱなしでいいのか？{wait}{clear}…………。{wait}{clear}		
-Feev11_02.01F2	すまん、君を責めることはできないな……。{n}俺の力不足でもあるのだから……。{wait}{clear}今、こんなことで{n}俺たちは立ち止まるわけにはいかない……。{n}{wait}{clear}		
+Feev11_02.018E	自信がないのか。{wait}{clear}本当にこのままやつらに{n}やられっぱなしでいいのか？{wait}{clear}…………。{wait}{clear}	You're not confident?{wait}{clear}Are you really fine with letting them beat{n}us like this?{wait}{clear}......{wait}{clear}	
+Feev11_02.01F2	すまん、君を責めることはできないな……。{n}俺の力不足でもあるのだから……。{wait}{clear}今、こんなことで{n}俺たちは立ち止まるわけにはいかない……。{n}{wait}{clear}	Sorry, I can't blame you... It's my own lack{n}of strength, too...{wait}{clear}We can't afford to stop over something like{n}this now...{n}{wait}{clear}	
 Feev11_02.02A8	フェイン	Fein	speaker
-Feev11_02.02B4	……すまん、言い過ぎたようだ……。{wait}{clear}できる限りのことを{n}＄＄＄＄＄＄だってしているのだからな。{wait}{clear}君を責めることなど俺にはできん……{n}悪かった……。{wait}{clear}		
+Feev11_02.02B4	……すまん、言い過ぎたようだ……。{wait}{clear}できる限りのことを{n}＄＄＄＄＄＄だってしているのだからな。{wait}{clear}君を責めることなど俺にはできん……{n}悪かった……。{wait}{clear}	...Sorry, I seem to have said too much...{wait}{clear}You're doing everything you can too,{n}＄＄＄＄＄＄.{wait}{clear}I have no right to blame you... I'm sorry...{wait}{clear}	
 Feev11_02.0370	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev11_02.0380	必ず、できます……。{wait}{clear}今は、後手に回ってしまっていますが、{n}混乱を押しとどめることが必ずできるはずです。{wait}{clear}		
+Feev11_02.0380	必ず、できます……。{wait}{clear}今は、後手に回ってしまっていますが、{n}混乱を押しとどめることが必ずできるはずです。{wait}{clear}	We can do it, without fail...{wait}{clear}We're a step behind right now, but we should{n}surely be able to hold back the turmoil.{wait}{clear}	
 Feev11_02.03FA	フェイン	Fein	speaker
-Feev11_02.0406	……そうだな。{n}今、立ち止まったところでなんのためにもならん。{wait}{clear}前に進むしかない……{n}俺たちにできることはそれだけだ。{wait}{clear}		
+Feev11_02.0406	……そうだな。{n}今、立ち止まったところでなんのためにもならん。{wait}{clear}前に進むしかない……{n}俺たちにできることはそれだけだ。{wait}{clear}	...You're right. Stopping here won't do any{n}good.{wait}{clear}All we can do is move forward... That's the{n}only thing we can do.{wait}{clear}	

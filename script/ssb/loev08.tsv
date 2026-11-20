@@ -25,7 +25,7 @@ loev08.0366	すまない、ありがとう。{n}このお礼はいつか必ず�
 loev08.039C	サヴィア		speaker
 loev08.03A8	さあ、行って！{wait}{clear}		
 loev08.03BA	ルディエール	Rudiere	speaker
-loev08.03CA	ああ……。{wait}{clear}		
+loev08.03CA	ああ……。{wait}{clear}	Yeah...{wait}{clear}	
 loev08.03DC	ルディエール	Rudiere	speaker
 loev08.03F0	君は……{wait}{clear}		
 loev08.03FC	サヴィア		speaker

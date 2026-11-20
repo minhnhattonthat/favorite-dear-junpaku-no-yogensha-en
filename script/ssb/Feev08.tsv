@@ -1,15 +1,15 @@
 id	jp	en	notes
 Feev08.0058	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev08.0068	ここはとても大きな湖ですね。{wait}{clear}		
+Feev08.0068	ここはとても大きな湖ですね。{wait}{clear}	What a huge lake this is.{wait}{clear}	
 Feev08.0088	フェイン	Fein	speaker
-Feev08.0098	ここはむかし天竜が死んだとされている湖だ。{wait}{clear}		
-Feev08.00CA	伝説では、勇者が魔竜を滅ぼし、{n}崩れ落ちたその死体から{n}この湖が生まれたと言われている。{wait}{clear}		
-Feev08.012A	それが真実かどうかはわからないが……{wait}{clear}		
-Feev08.0156	今、起きている世界の危機に{n}関係があるのは確かだ……。{wait}{clear}		
+Feev08.0098	ここはむかし天竜が死んだとされている湖だ。{wait}{clear}	This is the lake where the Heavenly Dragon{n}is said to have died long ago.{wait}{clear}	
+Feev08.00CA	伝説では、勇者が魔竜を滅ぼし、{n}崩れ落ちたその死体から{n}この湖が生まれたと言われている。{wait}{clear}	Legend says a hero destroyed the demon{n}dragon, and this lake was born from its{n}crumbling corpse.{wait}{clear}	
+Feev08.012A	それが真実かどうかはわからないが……{wait}{clear}	Whether that's true, I don't know...{wait}{clear}	
+Feev08.0156	今、起きている世界の危機に{n}関係があるのは確かだ……。{wait}{clear}	But it surely has something to do with the{n}crisis the world faces now...{wait}{clear}	
 Feev08.0190	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev08.01A0	天竜と湖ですか……。{wait}{clear}		
+Feev08.01A0	天竜と湖ですか……。{wait}{clear}	The Heavenly Dragon and the lake...{wait}{clear}	
 Feev08.01B8	フェイン	Fein	speaker
-Feev08.01C8	＄＄＄＄＄＄、なにか伝説について{n}わかったことがあったら自分にも教えて欲しい。{wait}{clear}		
-Feev08.021E	俺は……今、なにが起きているのか、{n}なにが真実なのか、知りたいんだ。{wait}{clear}		
-Feev08.027E	セレニスのことも……きっとすべてが関係がある。{wait}{clear}		
-Feev08.02BC	俺は最後まであきらめない……。{wait}{clear}		
+Feev08.01C8	＄＄＄＄＄＄、なにか伝説について{n}わかったことがあったら自分にも教えて欲しい。{wait}{clear}	＄＄＄＄＄＄, if you learn anything about{n}the legend, I'd like you to tell me too.{wait}{clear}	
+Feev08.021E	俺は……今、なにが起きているのか、{n}なにが真実なのか、知りたいんだ。{wait}{clear}	I... want to know what's happening now, and{n}what the truth is.{wait}{clear}	
+Feev08.027E	セレニスのことも……きっとすべてが関係がある。{wait}{clear}	About Serenis too... I'm sure it's all{n}connected.{wait}{clear}	
+Feev08.02BC	俺は最後まであきらめない……。{wait}{clear}	I won't give up, right to the end...{wait}{clear}	

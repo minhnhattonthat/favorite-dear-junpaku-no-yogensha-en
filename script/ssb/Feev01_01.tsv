@@ -1,72 +1,72 @@
 id	jp	en	notes
 Feev01_01.0054	フェイン	Fein	speaker
-Feev01_01.0064	お前ら……なんの用だ？{wait}{clear}		
-Feev01_01.007E	黒衣の魔導士		speaker
-Feev01_01.008E	……。{wait}{clear}		
+Feev01_01.0064	お前ら……なんの用だ？{wait}{clear}	You people... what do you want?{wait}{clear}	
+Feev01_01.007E	黒衣の魔導士	Black Mage	speaker
+Feev01_01.008E	……。{wait}{clear}	...{wait}{clear}	
 Feev01_01.0098	フェイン	Fein	speaker
-Feev01_01.00A8	答えられないわけか……。{wait}{clear}		
+Feev01_01.00A8	答えられないわけか……。{wait}{clear}	So you won't answer...{wait}{clear}	
 Feev01_01.00F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0104	フェイン！{wait}{clear}		
+Feev01_01.0104	フェイン！{wait}{clear}	Fein!{wait}{clear}	
 Feev01_01.0112	フェイン	Fein	speaker
-Feev01_01.0122	……君は？{wait}{clear}		
+Feev01_01.0122	……君は？{wait}{clear}	...Who are you?{wait}{clear}	
 Feev01_01.0130	フェイン	Fein	speaker
-Feev01_01.0140	翼……？{wait}{clear}		
-Feev01_01.0150	……死ぬのか……俺は……。{wait}{clear}		
+Feev01_01.0140	翼……？{wait}{clear}	Wings...?{wait}{clear}	
+Feev01_01.0150	……死ぬのか……俺は……。{wait}{clear}	...So I'm going to die...{wait}{clear}	
 Feev01_01.016E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.017E	いいえ、あなたを死なせはしません。{n}さあ、手を……。{wait}{clear}		
+Feev01_01.017E	いいえ、あなたを死なせはしません。{n}さあ、手を……。{wait}{clear}	No, I won't let you die. Now, your hand...{wait}{clear}	
 Feev01_01.01B6	フェイン	Fein	speaker
 Feev01_01.01C2	…………。{wait}{clear}	.........{wait}{clear}	
 Feev01_01.01F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0200	目を覚まされましたか？{wait}{clear}		
+Feev01_01.0200	目を覚まされましたか？{wait}{clear}	Are you awake?{wait}{clear}	
 Feev01_01.021A	フェイン	Fein	speaker
-Feev01_01.022A	……ここは……？{wait}{clear}		
+Feev01_01.022A	……ここは……？{wait}{clear}	...Where am I...?{wait}{clear}	
 Feev01_01.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.024E	村の廃屋です。{n}雨つゆをしのげる場所は{n}ここしかなかったものですから……。{wait}{clear}		
+Feev01_01.024E	村の廃屋です。{n}雨つゆをしのげる場所は{n}ここしかなかったものですから……。{wait}{clear}	An abandoned house in the village. It was{n}the only place I could find to keep out of{n}the rain...{wait}{clear}	
 Feev01_01.02A8	フェイン	Fein	speaker
-Feev01_01.02B8	傷の手当をしてくれたようだな……。{n}		
-Feev01_01.02E0	天使……{n}		
-Feev01_01.02EE	天使にも名はあるのか？{wait}{clear}		
+Feev01_01.02B8	傷の手当をしてくれたようだな……。{n}	Looks like you treated my wounds...{n}	
+Feev01_01.02E0	天使……{n}	An angel...{n}	
+Feev01_01.02EE	天使にも名はあるのか？{wait}{clear}	Do angels have names too?{wait}{clear}	
 Feev01_01.0308	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0318	ええ、私は＄＄＄＄＄＄と言います。{wait}{clear}		
+Feev01_01.0318	ええ、私は＄＄＄＄＄＄と言います。{wait}{clear}	Yes. My name is ＄＄＄＄＄＄.{wait}{clear}	
 Feev01_01.033E	フェイン	Fein	speaker
-Feev01_01.034E	ありがとう、＄＄＄＄＄＄……。{wait}{clear}		
+Feev01_01.034E	ありがとう、＄＄＄＄＄＄……。{wait}{clear}	Thank you, ＄＄＄＄＄＄...{wait}{clear}	
 Feev01_01.0370	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0380	私はあなたに頼みたいことがあってきました。{wait}{clear}今この地上には様々な混乱が起きています。{wait}{clear}目に見えるもの、目に見えないものも含めて{n}いまだ多くがなにかのきざしでしかないのですが。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}		
+Feev01_01.0380	私はあなたに頼みたいことがあってきました。{wait}{clear}今この地上には様々な混乱が起きています。{wait}{clear}目に見えるもの、目に見えないものも含めて{n}いまだ多くがなにかのきざしでしかないのですが。{wait}{clear}その混乱を私とともに、{n}あなたに正してもらいたいのです。{wait}{clear}	I came because there is something I want to{n}ask of you.{wait}{clear}Right now, all sorts of turmoil is rising{n}across this world.{wait}{clear}Seen and unseen alike, most of it is still{n}only a portent of something.{wait}{clear}I want you to set that turmoil right,{n}together with me.{wait}{clear}	
 Feev01_01.0472	フェイン	Fein	speaker
-Feev01_01.0482	天使の君と、世界の混乱を正す……{n}		
-Feev01_01.04A8	俺がか……？{wait}{clear}		
+Feev01_01.0482	天使の君と、世界の混乱を正す……{n}	Set the world's turmoil right, with you, an{n}angel...{n}	
+Feev01_01.04A8	俺がか……？{wait}{clear}	Me...?{wait}{clear}	
 Feev01_01.04B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.04C8	ええ、あなたに頼みたいのです。{wait}{clear}		
+Feev01_01.04C8	ええ、あなたに頼みたいのです。{wait}{clear}	Yes, I'm asking you.{wait}{clear}	
 Feev01_01.04F2	フェイン	Fein	speaker
-Feev01_01.0502	……天使が救ってくれた命だ。{n}この奇跡が本当ならば、{n}君の言葉も嘘ではないだろう……。{wait}{clear}		
+Feev01_01.0502	……天使が救ってくれた命だ。{n}この奇跡が本当ならば、{n}君の言葉も嘘ではないだろう……。{wait}{clear}	...An angel saved my life. If this miracle{n}is real, then your words must be true as{n}well...{wait}{clear}	
 Feev01_01.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.056C	お願いします、フェイン。{wait}{clear}		
+Feev01_01.056C	お願いします、フェイン。{wait}{clear}	Please, Fein.{wait}{clear}	
 Feev01_01.0588	フェイン	Fein	speaker
-Feev01_01.0598	わかった……。{n}それが俺にできることならば手伝おう。{wait}{clear}		
-Feev01_01.05D4	それでどうすればいい？{wait}{clear}		
+Feev01_01.0598	わかった……。{n}それが俺にできることならば手伝おう。{wait}{clear}	All right... If it's something I can do,{n}I'll help.{wait}{clear}	
+Feev01_01.05D4	それでどうすればいい？{wait}{clear}	So what should I do?{wait}{clear}	
 Feev01_01.05EE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.05FE	今は体を完全に治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}		
+Feev01_01.05FE	今は体を完全に治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}	For now, heal your body completely.{wait}{clear}I expect I will ask you, in the form of{n}requests, to resolve incidents and look into{n}the turmoil.{wait}{clear}I'll come see you again in a while.{wait}{clear}	
 Feev01_01.069E	フェイン	Fein	speaker
-Feev01_01.06AE	ああ、わかった。{wait}{clear}		
+Feev01_01.06AE	ああ、わかった。{wait}{clear}	Yeah, understood.{wait}{clear}	
 Feev01_01.06D2	フェイン	Fein	speaker
-Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}		
+Feev01_01.06DE	すまんが、事情がまだよく飲み込めない……。{wait}{clear}すこし考える時間をくれないか？{wait}{clear}	Sorry, but I still can't quite take all this{n}in...{wait}{clear}Could you give me some time to think?{wait}{clear}	
 Feev01_01.072E	ＮＵＬＬ	NULL	speaker
 Feev01_01.073E	《どうしても頼みたい》{n}	I really need you{n}	
 Feev01_01.075C	《わかりました》{n}	I understand{n}	
 Feev01_01.077A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.078A	どうしても、{n}あなたに協力して欲しいのです。{wait}{clear}		
+Feev01_01.078A	どうしても、{n}あなたに協力して欲しいのです。{wait}{clear}	I truly need your cooperation.{wait}{clear}	
 Feev01_01.07C6	フェイン	Fein	speaker
-Feev01_01.07D2	今、答えなければ駄目なのか？{wait}{clear}		
+Feev01_01.07D2	今、答えなければ駄目なのか？{wait}{clear}	Do I have to answer right now?{wait}{clear}	
 Feev01_01.07F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0802	お願いします。{wait}{clear}		
+Feev01_01.0802	お願いします。{wait}{clear}	Please.{wait}{clear}	
 Feev01_01.0814	フェイン	Fein	speaker
-Feev01_01.0820	……わかった、助けられた身だ。{n}君を手伝おう。{wait}{clear}		
-Feev01_01.085E	で、なにをすればいいんだ？{wait}{clear}		
+Feev01_01.0820	……わかった、助けられた身だ。{n}君を手伝おう。{wait}{clear}	...All right. You saved me. I'll help you.{wait}{clear}	
+Feev01_01.085E	で、なにをすればいいんだ？{wait}{clear}	So, what do I do?{wait}{clear}	
 Feev01_01.087C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.088C	今は体を治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}		
+Feev01_01.088C	今は体を治してください。{wait}{clear}あなたには依頼という形で事件の解決や、{n}混乱の探索をたのむこととなると思います。{wait}{clear}ではまたしばらくしたら、会いにきます。{wait}{clear}	For now, heal your body.{wait}{clear}I expect I will ask you, in the form of{n}requests, to resolve incidents and look into{n}the turmoil.{wait}{clear}I'll come see you again in a while.{wait}{clear}	
 Feev01_01.0926	フェイン	Fein	speaker
-Feev01_01.0932	……ああ、わかった。{wait}{clear}		
+Feev01_01.0932	……ああ、わかった。{wait}{clear}	...Yeah, understood.{wait}{clear}	
 Feev01_01.0960	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev01_01.0970	わかりました。{wait}{clear}あなたが納得していただけるまで待ちます。{wait}{clear}		
+Feev01_01.0970	わかりました。{wait}{clear}あなたが納得していただけるまで待ちます。{wait}{clear}	I understand.{wait}{clear}I'll wait until you're convinced.{wait}{clear}	
 Feev01_01.09AE	フェイン	Fein	speaker
-Feev01_01.09BA	すまんな。{n}君に助けられたのに……。{wait}{clear}しばらくしたら、{n}自分なりに君の言葉が理解できるかもしれない。{wait}{clear}そのとき、力になろう。{wait}{clear}また来てくれ。{wait}{clear}		
+Feev01_01.09BA	すまんな。{n}君に助けられたのに……。{wait}{clear}しばらくしたら、{n}自分なりに君の言葉が理解できるかもしれない。{wait}{clear}そのとき、力になろう。{wait}{clear}また来てくれ。{wait}{clear}	Sorry. Even though you saved me...{wait}{clear}Given some time, I might come to understand{n}what you said in my own way.{wait}{clear}When that happens, I'll lend you my{n}strength.{wait}{clear}Come back again.{wait}{clear}	

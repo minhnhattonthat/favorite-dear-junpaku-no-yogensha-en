@@ -78,7 +78,7 @@ loev01_01.0A80	…………。{wait}{clear}わかった。協力するよ。{wai
 loev01_01.0AEE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev01_01.0AFE	ありがとう。{n}あなたに頼むべき事ができたときにまた来ます。{wait}{clear}		
 loev01_01.0B3C	ルディエール	Rudiere	speaker
-loev01_01.0B4C	ああ。{wait}{clear}		
+loev01_01.0B4C	ああ。{wait}{clear}	Yeah.{wait}{clear}	
 loev01_01.0B60	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 loev01_01.0B70	本当にありがとうございます。{wait}{clear}		
 loev01_01.0BA0	ルディエール	Rudiere	speaker

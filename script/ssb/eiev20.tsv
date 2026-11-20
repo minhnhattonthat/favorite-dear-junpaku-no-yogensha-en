@@ -1,32 +1,32 @@
 id	jp	en	notes
 eiev20.005C	アイリーン	Irene	speaker
-eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
+eiev20.006A	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to die... together with{n}her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
 eiev20.0172	ＮＵＬＬ	NULL	speaker
-eiev20.0182	《わかりました……。》{n}		
-eiev20.01A0	《なぜ……？》{n}		
+eiev20.0182	《わかりました……。》{n}	I understand...{n}	
+eiev20.01A0	《なぜ……？》{n}	Why...?{n}	
 eiev20.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev20.01D0	わかりました。{wait}{clear}	All right.{wait}{clear}	
 eiev20.01E2	アイリーン	Irene	speaker
-eiev20.01F0	ありがと……お願いね。{wait}{clear}		
-eiev20.0216	……私がやらなくちゃいけない。{wait}{clear}逃げちゃいけないから。{wait}{clear}		
+eiev20.01F0	ありがと……お願いね。{wait}{clear}	Thanks... I'm counting on you.{wait}{clear}	
+eiev20.0216	……私がやらなくちゃいけない。{wait}{clear}逃げちゃいけないから。{wait}{clear}	...I'm the one who has to do it.{wait}{clear}Because I can't run away.{wait}{clear}	
 eiev20.0262	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev20.0272	なぜ……フェインがそこまで……？{wait}{clear}		
+eiev20.0272	なぜ……フェインがそこまで……？{wait}{clear}	Why... would Fein go that far...?{wait}{clear}	
 eiev20.02AE	アイリーン	Irene	speaker
-eiev20.02BC	今の姉さんにフェインが会ったら絶望する……。{wait}{clear}		
+eiev20.02BC	今の姉さんにフェインが会ったら絶望する……。{wait}{clear}	If Fein meets my sister as she is now, he'll{n}despair...{wait}{clear}	
 eiev20.02FC	アイリーン	Irene	speaker
-eiev20.030A	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}		
+eiev20.030A	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}	Fein has already met my sister, and he's in{n}despair...{wait}{clear}	
 eiev20.033C	アイリーン	Irene	speaker
-eiev20.034A	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}		
-eiev20.03A0	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}		
+eiev20.034A	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}	Words won't stop him...{wait}{clear}I have to free my sister from the curse{n}myself...{wait}{clear}	
+eiev20.03A0	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}	So please. Make sure my sister and I meet.{wait}{clear}	
 eiev20.03F6	アイリーン	Irene	speaker
-eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}		
+eiev20.0404	聞いて、＄＄＄＄＄＄。{wait}{clear}もし、姉さんがどこにいるかわかっても……{n}フェインに伝えないで……。{wait}{clear}フェインは……{n}姉さんと一緒に……死のうとしてる。{wait}{clear}そこまでフェインは考えてる……。{wait}{clear}……だから、{n}もし姉さんがいるところがわかったら、{n}先に私に知らせて……{wait}{clear}	Listen, ＄＄＄＄＄＄.{wait}{clear}Even if you find out where my sister is...{n}don't tell Fein...{wait}{clear}Fein is... planning to die... together with{n}her.{wait}{clear}That's how far Fein has thought it{n}through...{wait}{clear}...So if you find out where she is, tell me{n}first...{wait}{clear}	
 eiev20.050C	ＮＵＬＬ	NULL	speaker
-eiev20.051C	《詳しく教えて欲しい。》{n}		
-eiev20.053C	《なぜ……？》{n}		
+eiev20.051C	《詳しく教えて欲しい。》{n}	Tell me everything.{n}	
+eiev20.053C	《なぜ……？》{n}	Why...?{n}	
 eiev20.055C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev20.056C	アイリーン、聞かせてください。{n}お姉さんのことを……。{wait}{clear}		
+eiev20.056C	アイリーン、聞かせてください。{n}お姉さんのことを……。{wait}{clear}	Irene, please tell me. About your sister...{wait}{clear}	
 eiev20.05B2	アイリーン	Irene	speaker
-eiev20.05C0	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}あの日……{wait}{clear}		
+eiev20.05C0	……姉さんは魔法で……ああなってしまったの……。{wait}{clear}あの日……{wait}{clear}	...My sister became... like that because of{n}magic...{wait}{clear}That day...{wait}{clear}	
 eiev20.0610	アイリーン	Irene	speaker
 eiev20.0622	フェインと結婚式をあげたその日の夜……{wait}{clear}	the night of the day she married Fein...{wait}{clear}	
 eiev20.0650	姉さんはずっと煩っていた病が急に悪化して……{wait}{clear}	the illness Sis had suffered from for so{n}long suddenly got worse...{wait}{clear}	
@@ -45,10 +45,10 @@ eiev20.09E8	私は塔に残って……ずっと魔法の勉強を続けた…�
 eiev20.0A1E	なにがおこったのか……知るために……{wait}{clear}	to find out... what had happened...{wait}{clear}	
 eiev20.0A4A	フェインは絶対に姉さんを探し出すって{n}ずっと手紙で私に言ってた。{wait}{clear}	Fein always told me in his letters that he'd{n}find Sis no matter what.{wait}{clear}	
 eiev20.0A9C	アイリーン	Irene	speaker
-eiev20.0AAA	フェインは罪を一身で背負ってる……{wait}{clear}一人で全部……{n}だから……{wait}{clear}		
-eiev20.0AF8	なぜ……フェインがそこまで……？{wait}{clear}		
+eiev20.0AAA	フェインは罪を一身で背負ってる……{wait}{clear}一人で全部……{n}だから……{wait}{clear}	Fein carries the whole sin on his own{n}shoulders...{wait}{clear}All of it, by himself... That's why...{wait}{clear}	
+eiev20.0AF8	なぜ……フェインがそこまで……？{wait}{clear}	Why... would Fein go that far...?{wait}{clear}	
 eiev20.0B2A	アイリーン	Irene	speaker
-eiev20.0B38	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}		
+eiev20.0B38	もう、フェインは姉さんに出会って絶望してる……{wait}{clear}	Fein has already met my sister, and he's in{n}despair...{wait}{clear}	
 eiev20.0B6A	アイリーン	Irene	speaker
-eiev20.0B78	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}		
-eiev20.0BCE	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}		
+eiev20.0B78	言葉じゃ止められない……{wait}{clear}私が姉さんを呪いから解放してあげなきゃ……{wait}{clear}	Words won't stop him...{wait}{clear}I have to free my sister from the curse{n}myself...{wait}{clear}	
+eiev20.0BCE	だから、お願い。{n}必ず、私と姉さんを会わせて。{wait}{clear}	So please. Make sure my sister and I meet.{wait}{clear}	

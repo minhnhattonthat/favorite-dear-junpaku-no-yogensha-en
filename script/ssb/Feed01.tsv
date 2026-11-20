@@ -1,12 +1,12 @@
 id	jp	en	notes
 Feed01.0058	フェイン	Fein	speaker
-Feed01.0068	風が冷たいな……{wait}{clear}		
-Feed01.0080	……＄＄＄＄＄＄、{n}君が残ってくれるとは思わなかった……{wait}{clear}		
+Feed01.0068	風が冷たいな……{wait}{clear}	The wind is cold...{wait}{clear}	
+Feed01.0080	……＄＄＄＄＄＄、{n}君が残ってくれるとは思わなかった……{wait}{clear}	...＄＄＄＄＄＄, I never thought you'd stay{n}behind...{wait}{clear}	
 Feed01.00BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feed01.00CC	……いいのです。{n}私の意志で残ったのですから。{wait}{clear}		
+Feed01.00CC	……いいのです。{n}私の意志で残ったのですから。{wait}{clear}	...It's all right. I stayed of my own will.{wait}{clear}	
 Feed01.00FE	フェイン	Fein	speaker
-Feed01.010E	俺は……君を……{wait}{clear}		
+Feed01.010E	俺は……君を……{wait}{clear}	I... you...{wait}{clear}	
 Feed01.0122	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feed01.0132	……私はただ……{n}あなたのそばにいたかっただけです。{wait}{clear}ただそれだけです……。{wait}{clear}		
+Feed01.0132	……私はただ……{n}あなたのそばにいたかっただけです。{wait}{clear}ただそれだけです……。{wait}{clear}	...I only... wanted to be by your side.{wait}{clear}That's all...{wait}{clear}	
 Feed01.0184	フェイン	Fein	speaker
 Feed01.01BA	すまない……{wait}{clear}	Sorry...{wait}{clear}	

@@ -1,51 +1,51 @@
 id	jp	en	notes
 feev02_01.0056	フェイン	Fein	speaker
-feev02_01.0062	いるのか？　＄＄＄＄＄＄。{wait}{clear}		
+feev02_01.0062	いるのか？　＄＄＄＄＄＄。{wait}{clear}	Are you there, ＄＄＄＄＄＄?{wait}{clear}	
 feev02_01.0080	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.0090	はい。{n}ここにいますけど、なんですか？{wait}{clear}		
+feev02_01.0090	はい。{n}ここにいますけど、なんですか？{wait}{clear}	Yes, I'm here. What is it?{wait}{clear}	
 feev02_01.00BA	フェイン	Fein	speaker
-feev02_01.00C6	この近くにギルドのロッジがある。{n}少し寄りたいのだが、かまわないか？{wait}{clear}		
+feev02_01.00C6	この近くにギルドのロッジがある。{n}少し寄りたいのだが、かまわないか？{wait}{clear}	There's a Guild lodge near here. I'd like to{n}stop by for a bit. Do you mind?{wait}{clear}	
 feev02_01.010E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.011E	ええ、いいですけど……{n}あの、フェイン、私もついていっていいですか？{wait}{clear}		
+feev02_01.011E	ええ、いいですけど……{n}あの、フェイン、私もついていっていいですか？{wait}{clear}	No, that's fine... Um, Fein, may I come{n}along too?{wait}{clear}	
 feev02_01.0172	フェイン	Fein	speaker
-feev02_01.017E	あ、ああ……。{n}君は俺以外には見えないのだったな？{wait}{clear}		
+feev02_01.017E	あ、ああ……。{n}君は俺以外には見えないのだったな？{wait}{clear}	Oh, sure... Nobody but me can see you,{n}right?{wait}{clear}	
 feev02_01.01B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.01C4	ええ、そうです。{wait}{clear}私が相手に姿を見せようと思わなければ、{n}ふつうの人には見えませんし、{n}私の気配を感じることもできません。{wait}{clear}		
+feev02_01.01C4	ええ、そうです。{wait}{clear}私が相手に姿を見せようと思わなければ、{n}ふつうの人には見えませんし、{n}私の気配を感じることもできません。{wait}{clear}	Yes, that's right.{wait}{clear}Unless I choose to show myself, ordinary{n}people can't see me, or even sense my{n}presence.{wait}{clear}	
 feev02_01.0244	フェイン	Fein	speaker
-feev02_01.0250	それならば、かまわないか……。{wait}{clear}まあ、ついてくるなと言っても、{n}君のことだ、こっそり一緒に来そうだしな。{wait}{clear}		
+feev02_01.0250	それならば、かまわないか……。{wait}{clear}まあ、ついてくるなと言っても、{n}君のことだ、こっそり一緒に来そうだしな。{wait}{clear}	In that case, I don't see why not...{wait}{clear}Besides, knowing you, even if I told you not{n}to follow, you'd probably sneak along{n}anyway.{wait}{clear}	
 feev02_01.02BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.02CE	ええ……そう、ですね……。{wait}{clear}		
+feev02_01.02CE	ええ……そう、ですね……。{wait}{clear}	Well... yes, I suppose I would...{wait}{clear}	
 feev02_01.02F8	フェイン	Fein	speaker
-feev02_01.0304	やっぱり、正直だな、君は……。{n}じゃあ、行こうか。{wait}{clear}		
+feev02_01.0304	やっぱり、正直だな、君は……。{n}じゃあ、行こうか。{wait}{clear}	Honest as ever, aren't you... All right,{n}let's go.{wait}{clear}	
 feev02_01.0368	フェイン	Fein	speaker
-feev02_01.0374	俺が死んだという噂か……。{n}さすがに、ギルドの情報は早いな。{wait}{clear}		
+feev02_01.0374	俺が死んだという噂か……。{n}さすがに、ギルドの情報は早いな。{wait}{clear}	A rumor that I'm dead, huh... The Guild's{n}information travels fast, as expected.{wait}{clear}	
 feev02_01.03B4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.03C4	あの、フェイン、今の方は？{wait}{clear}		
+feev02_01.03C4	あの、フェイン、今の方は？{wait}{clear}	Um, Fein, who was that just now?{wait}{clear}	
 feev02_01.03E2	フェイン	Fein	speaker
-feev02_01.03EE	ああ、彼はこの地方のギルド・マスターだ。{n}六王国のロッジは、どこも高名な魔導士が{n}マスターをつとめている。{wait}{clear}自分の師匠と親しかった人も多いのでな。{n}近くに来たときにはできるだけ寄るようにしている。{wait}{clear}		
+feev02_01.03EE	ああ、彼はこの地方のギルド・マスターだ。{n}六王国のロッジは、どこも高名な魔導士が{n}マスターをつとめている。{wait}{clear}自分の師匠と親しかった人も多いのでな。{n}近くに来たときにはできるだけ寄るようにしている。{wait}{clear}	Oh, he's the Guild Master of this region.{n}Every lodge in the Six Kingdoms has a{n}renowned mage serving as its Master.{wait}{clear}Many of them were close to my own master. So{n}I try to stop by whenever I'm nearby.{wait}{clear}	
 feev02_01.04B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.04C8	そうなのですか……。{wait}{clear}		
+feev02_01.04C8	そうなのですか……。{wait}{clear}	I see...{wait}{clear}	
 feev02_01.04E0	フェイン	Fein	speaker
-feev02_01.04EC	どうも、君に助けられたあの一件が{n}噂になっているようだな。{wait}{clear}六王国にいるうちは{n}ギルドに寄ることが多くなりそうだが、{n}許してもらえるか？{wait}{clear}		
+feev02_01.04EC	どうも、君に助けられたあの一件が{n}噂になっているようだな。{wait}{clear}六王国にいるうちは{n}ギルドに寄ることが多くなりそうだが、{n}許してもらえるか？{wait}{clear}	It seems that business where you saved me{n}has become the talk of the town.{wait}{clear}While we're in the Six Kingdoms, I'll{n}probably be stopping at the Guild a lot. Can{n}you forgive me for that?{wait}{clear}	
 feev02_01.057A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.058A	ええ、もちろんです。{wait}{clear}		
+feev02_01.058A	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	
 feev02_01.05A2	フェイン	Fein	speaker
-feev02_01.05AE	悪いな……。{n}じゃあ、先を急ごう……。{wait}{clear}		
+feev02_01.05AE	悪いな……。{n}じゃあ、先を急ごう……。{wait}{clear}	Sorry about this... Well then, let's press{n}on...{wait}{clear}	
 feev02_01.060A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.061A	あの、フェイン、聞いてもいいですか？{wait}{clear}		
+feev02_01.061A	あの、フェイン、聞いてもいいですか？{wait}{clear}	Um, Fein, may I ask you something?{wait}{clear}	
 feev02_01.0642	フェイン	Fein	speaker
-feev02_01.064E	ああ、なんだ？{wait}{clear}		
+feev02_01.064E	ああ、なんだ？{wait}{clear}	Sure, what is it?{wait}{clear}	
 feev02_01.0660	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.0670	ギルドとはなんですか？{wait}{clear}		
+feev02_01.0670	ギルドとはなんですか？{wait}{clear}	What is the Guild?{wait}{clear}	
 feev02_01.068A	フェイン	Fein	speaker
-feev02_01.0696	そんなことか……。{wait}{clear}ギルドというのは魔導士たちの協会のことで、{n}おなじ能力を持つ者同士が助け合うためにある。{wait}{clear}自分の師も、俺も、ギルドの一員だ。{n}魔導士たちは国家や地域に関わりなく、{n}ギルドによって強く結びついている。{wait}{clear}		
+feev02_01.0696	そんなことか……。{wait}{clear}ギルドというのは魔導士たちの協会のことで、{n}おなじ能力を持つ者同士が助け合うためにある。{wait}{clear}自分の師も、俺も、ギルドの一員だ。{n}魔導士たちは国家や地域に関わりなく、{n}ギルドによって強く結びついている。{wait}{clear}	That's all...?{wait}{clear}The Guild is an association of mages. It{n}exists so that those with the same abilities{n}can help one another.{wait}{clear}My master and I are both members. Regardless{n}of nation or region, mages are bound tightly{n}together by the Guild.{wait}{clear}	
 feev02_01.0778	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.0788	どうして、ギルドができたのですか？{wait}{clear}		
+feev02_01.0788	どうして、ギルドができたのですか？{wait}{clear}	Why was the Guild formed?{wait}{clear}	
 feev02_01.07AE	フェイン	Fein	speaker
-feev02_01.07BA	それは……{n}ふつうの人間たちは魔導士を忌み嫌っているからだ。{wait}{clear}魔導士は歴史の中で、なんども迫害を受けた。{n}その力を誤解されて……。{wait}{clear}そのために昔の魔導士たちがギルドを作ったのだ。{n}どこにいても、自分たちの身を守れるようにと……。{wait}{clear}		
+feev02_01.07BA	それは……{n}ふつうの人間たちは魔導士を忌み嫌っているからだ。{wait}{clear}魔導士は歴史の中で、なんども迫害を受けた。{n}その力を誤解されて……。{wait}{clear}そのために昔の魔導士たちがギルドを作ったのだ。{n}どこにいても、自分たちの身を守れるようにと……。{wait}{clear}	That's... because ordinary people loathe{n}mages.{wait}{clear}Throughout history, mages have been{n}persecuted again and again. Their power was{n}misunderstood...{wait}{clear}That's why the mages of old created the{n}Guild. So they could protect themselves{n}wherever they were...{wait}{clear}	
 feev02_01.08A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_01.08B6	そうだったのですね……。{wait}{clear}		
+feev02_01.08B6	そうだったのですね……。{wait}{clear}	So that's how it was...{wait}{clear}	
 feev02_01.08D2	フェイン	Fein	speaker
-feev02_01.08DE	ところで、君は本当に{n}この世界のことを知らないようだな……。{wait}{clear}また、他にも聞きたいことがあったら聞いてくれ。{n}俺が答えられることなら答えよう。{wait}{clear}		
+feev02_01.08DE	ところで、君は本当に{n}この世界のことを知らないようだな……。{wait}{clear}また、他にも聞きたいことがあったら聞いてくれ。{n}俺が答えられることなら答えよう。{wait}{clear}	By the way, you really don't seem to know{n}anything about this world...{wait}{clear}If there's anything else you want to know,{n}just ask. I'll answer whatever I can.{wait}{clear}	
 feev02_01.0972	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_01.0982	はい、ありがとうございます。{wait}{clear}	Yes, thank you very much.{wait}{clear}	

@@ -1,51 +1,51 @@
 id	jp	en	notes
 Feev06.0056	フェイン	Fein	speaker
-Feev06.0066	＄＄＄＄＄＄、ちょっといいか？{wait}{clear}		
-Feev06.008C	寄りたいところがあるんだが、かまわないか？{wait}{clear}		
+Feev06.0066	＄＄＄＄＄＄、ちょっといいか？{wait}{clear}	＄＄＄＄＄＄, got a minute?{wait}{clear}	
+Feev06.008C	寄りたいところがあるんだが、かまわないか？{wait}{clear}	There's somewhere I'd like to stop by. Do{n}you mind?{wait}{clear}	
 Feev06.00BA	ＮＵＬＬ	NULL	speaker
 Feev06.00CA	《ええ……》{n}	Yes...{n}	
 Feev06.00DE	《いいえ……》{n}	No...{n}	
 Feev06.00FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev06.010A	いいえ、{n}なにか事件があるかもしれません……。{n}また、今度にしてもらえないでしょうか？{wait}{clear}		
+Feev06.010A	いいえ、{n}なにか事件があるかもしれません……。{n}また、今度にしてもらえないでしょうか？{wait}{clear}	I'm sorry, there may be an incident to deal{n}with... Could we do it another time?{wait}{clear}	
 Feev06.0166	フェイン	Fein	speaker
-Feev06.0176	そうか……ならいい。{n}また次の機会にしよう。{wait}{clear}		
+Feev06.0176	そうか……ならいい。{n}また次の機会にしよう。{wait}{clear}	I see... That's fine. We'll go next time.{wait}{clear}	
 Feev06.01BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev06.01CC	ええ、もちろん、いいですよ。{wait}{clear}		
+Feev06.01CC	ええ、もちろん、いいですよ。{wait}{clear}	Yes, of course, that's fine.{wait}{clear}	
 Feev06.01EE	フェイン	Fein	speaker
-Feev06.01FE	いいのか？　すまんな。{wait}{clear}		
-Feev06.021E	時間はとらせない。{wait}{clear}		
+Feev06.01FE	いいのか？　すまんな。{wait}{clear}	Really? Thanks.{wait}{clear}	
+Feev06.021E	時間はとらせない。{wait}{clear}	It won't take long.{wait}{clear}	
 Feev06.0248	フェイン	Fein	speaker
-Feev06.0258	ここが俺と師が住んだ塔だ。{wait}{clear}		
-Feev06.027A	ずいぶんと久しぶりに戻る……。{wait}{clear}		
+Feev06.0258	ここが俺と師が住んだ塔だ。{wait}{clear}	This is the tower where my master and I{n}lived.{wait}{clear}	
+Feev06.027A	ずいぶんと久しぶりに戻る……。{wait}{clear}	It's been a long time since I came back...{wait}{clear}	
 Feev06.02D6	フェイン	Fein	speaker
-Feev06.02E6	アイリーンはいないようだな……。{wait}{clear}		
+Feev06.02E6	アイリーンはいないようだな……。{wait}{clear}	Looks like Irene isn't here...{wait}{clear}	
 Feev06.030E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev06.031E	どんな方なのですか？{wait}{clear}		
+Feev06.031E	どんな方なのですか？{wait}{clear}	What sort of person is she?{wait}{clear}	
 Feev06.0344	フェイン	Fein	speaker
-Feev06.0354	彼女はジグの孫娘で、{n}自分にとっては妹のような娘だ。{wait}{clear}		
-Feev06.0390	ここにずっと住んでいる……。{wait}{clear}		
-Feev06.03B4	今はいないようだ。{n}きっとどこか用事があって出かけているのだろう。{wait}{clear}		
-Feev06.03FE	会いたかったのだが……。{wait}{clear}		
-Feev06.041E	しかたない……。{wait}{clear}		
+Feev06.0354	彼女はジグの孫娘で、{n}自分にとっては妹のような娘だ。{wait}{clear}	She's Zig's granddaughter, and like a little{n}sister to me.{wait}{clear}	
+Feev06.0390	ここにずっと住んでいる……。{wait}{clear}	She's lived here all along...{wait}{clear}	
+Feev06.03B4	今はいないようだ。{n}きっとどこか用事があって出かけているのだろう。{wait}{clear}	She doesn't seem to be in. She must have{n}gone out on some errand.{wait}{clear}	
+Feev06.03FE	会いたかったのだが……。{wait}{clear}	I wanted to see her...{wait}{clear}	
+Feev06.041E	しかたない……。{wait}{clear}	Can't be helped...{wait}{clear}	
 Feev06.0450	フェイン	Fein	speaker
-Feev06.0460	なつかしいな……変わっていない。{wait}{clear}		
+Feev06.0460	なつかしいな……変わっていない。{wait}{clear}	This brings back memories... Nothing's{n}changed.{wait}{clear}	
 Feev06.0484	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev06.0494	アイリーンに会いにここへ来ました。{wait}{clear}		
+Feev06.0494	アイリーンに会いにここへ来ました。{wait}{clear}	We came here to see Irene.{wait}{clear}	
 Feev06.04BA	フェイン	Fein	speaker
-Feev06.04CA	そうか……。{wait}{clear}		
+Feev06.04CA	そうか……。{wait}{clear}	I see...{wait}{clear}	
 Feev06.04EC	フェイン	Fein	speaker
-Feev06.04FC	なつかしいな……変わってない。{wait}{clear}		
-Feev06.0522	しかし、アイリーンは{n}相変わらず片づけが苦手なようだな。{wait}{clear}		
-Feev06.0562	こんなに散らかしたまま、出かけて……。{wait}{clear}		
-Feev06.059E	ふふ、そういえば、{n}よくセレニスが怒っていたな……。{wait}{clear}		
+Feev06.04FC	なつかしいな……変わってない。{wait}{clear}	This brings back memories... It hasn't{n}changed.{wait}{clear}	
+Feev06.0522	しかし、アイリーンは{n}相変わらず片づけが苦手なようだな。{wait}{clear}	But Irene still seems to be bad at tidying{n}up.{wait}{clear}	
+Feev06.0562	こんなに散らかしたまま、出かけて……。{wait}{clear}	Going out and leaving it this messy...{wait}{clear}	
+Feev06.059E	ふふ、そういえば、{n}よくセレニスが怒っていたな……。{wait}{clear}	Heh, come to think of it, Serenis used to{n}scold her for that all the time...{wait}{clear}	
 Feev06.05E4	フェイン	Fein	speaker
-Feev06.05F4	ここにはたくさんの思い出がある。{wait}{clear}		
-Feev06.061C	ジグの元でいろんなことを学んだ。{wait}{clear}		
-Feev06.0644	それに……{n}セレニスやアイリーンと過ごした日々……。{wait}{clear}		
-Feev06.0680	もうずいぶんと遠い昔のような気がする。{wait}{clear}		
-Feev06.06AE	戻ってくるまでは{n}そんなふうには感じなかった……。{wait}{clear}		
-Feev06.06E8	ここでは、時の流れを感じる……{wait}{clear}		
-Feev06.070E	この場所は変わってはいないのだろう……。{wait}{clear}		
-Feev06.073E	ただ……{n}自分が変わってしまったんだ……。{wait}{clear}		
+Feev06.05F4	ここにはたくさんの思い出がある。{wait}{clear}	There are a lot of memories here.{wait}{clear}	
+Feev06.061C	ジグの元でいろんなことを学んだ。{wait}{clear}	I learned all sorts of things under Zig.{wait}{clear}	
+Feev06.0644	それに……{n}セレニスやアイリーンと過ごした日々……。{wait}{clear}	And... the days I spent with Serenis and{n}Irene...{wait}{clear}	
+Feev06.0680	もうずいぶんと遠い昔のような気がする。{wait}{clear}	It feels like it was so very long ago.{wait}{clear}	
+Feev06.06AE	戻ってくるまでは{n}そんなふうには感じなかった……。{wait}{clear}	I didn't feel that way until I came back...{wait}{clear}	
+Feev06.06E8	ここでは、時の流れを感じる……{wait}{clear}	Here, I can feel the passage of time...{wait}{clear}	
+Feev06.070E	この場所は変わってはいないのだろう……。{wait}{clear}	This place probably hasn't changed...{wait}{clear}	
+Feev06.073E	ただ……{n}自分が変わってしまったんだ……。{wait}{clear}	It's just... that I've changed...{wait}{clear}	
 Feev06.076C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev06.077C	フェイン……？{wait}{clear}		
+Feev06.077C	フェイン……？{wait}{clear}	Fein...?{wait}{clear}	

@@ -1,21 +1,21 @@
 id	jp	en	notes
 Feev04.00CA	☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆		
 Feev04.0152	フェイン	Fein	speaker
-Feev04.015E	クソっ！{n}もう少し早く戻って来ることができれば……。{wait}{clear}		
+Feev04.015E	クソっ！{n}もう少し早く戻って来ることができれば……。{wait}{clear}	Damn it! If only I'd come back a little{n}sooner...{wait}{clear}	
 Feev04.0196	ＮＵＬＬ	NULL	speaker
-Feev04.01A6	《早く逃げなければ……》{n}		
-Feev04.01C6	《謝る》{n}		
+Feev04.01A6	《早く逃げなければ……》{n}	We have to get away, quickly...{n}	
+Feev04.01C6	《謝る》{n}	Apologize{n}	
 Feev04.01DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev04.01EC	ここには長い時間いることはできません。{n}また、帝国の軍がやってきます。{wait}{clear}		
+Feev04.01EC	ここには長い時間いることはできません。{n}また、帝国の軍がやってきます。{wait}{clear}	We can't stay here long. The imperial army{n}will come again.{wait}{clear}	
 Feev04.0236	フェイン	Fein	speaker
-Feev04.0242	わかってる……{n}せめて、老師と友を……葬らせてくれ。{wait}{clear}あいつらに汚されるわけにはいかん……。{wait}{clear}		
+Feev04.0242	わかってる……{n}せめて、老師と友を……葬らせてくれ。{wait}{clear}あいつらに汚されるわけにはいかん……。{wait}{clear}	I know... At least let me bury the Elder and{n}my friends.{wait}{clear}I won't let them be defiled by those{n}bastards...{wait}{clear}	
 Feev04.02C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Feev04.02D2	すみません……{wait}{clear}	I'm sorry...{wait}{clear}	
 Feev04.02E8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Feev04.02F8	ごめんなさい……{wait}{clear}		
-Feev04.030C	私がもっと……早く{wait}{clear}		
+Feev04.02F8	ごめんなさい……{wait}{clear}	I'm sorry...{wait}{clear}	
+Feev04.030C	私がもっと……早く{wait}{clear}	If only I had... come sooner...{wait}{clear}	
 Feev04.032E	フェイン	Fein	speaker
-Feev04.033A	君が謝る必要はない……。{n}もし君がいなければ、{n}知らないうちにすべてが終わっていた……。{wait}{clear}		
+Feev04.033A	君が謝る必要はない……。{n}もし君がいなければ、{n}知らないうちにすべてが終わっていた……。{wait}{clear}	You don't need to apologize... If you hadn't{n}been here, it would all have ended without{n}my even knowing...{wait}{clear}	
 Feev04.0396	フェイン	Fein	speaker
-Feev04.03A2	このあたりの兵士は倒したが、{n}また帝国軍は戻ってくるだろう。{n}その前に、老師と友を葬ってやりたい。{wait}{clear}		
-Feev04.0414	やつらに、汚されたくはない……。{wait}{clear}		
+Feev04.03A2	このあたりの兵士は倒したが、{n}また帝国軍は戻ってくるだろう。{n}その前に、老師と友を葬ってやりたい。{wait}{clear}	I took down the soldiers around here, but{n}the imperial army will be back. Before then,{n}I want to bury the Elder and my friends.{wait}{clear}	
+Feev04.0414	やつらに、汚されたくはない……。{wait}{clear}	I don't want them defiled by those{n}bastards...{wait}{clear}	

@@ -72,7 +72,7 @@ roev01_01.097C	はい、ロクス……{n}私はあなたにこの世界に起�
 roev01_01.0A18	ロクス	Rocus	speaker
 roev01_01.0A26	それはずいぶん、唐突なお話ですね……。{wait}{clear}		
 roev01_01.0A50	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev01_01.0A60	お願いします。{wait}{clear}		
+roev01_01.0A60	お願いします。{wait}{clear}	Please.{wait}{clear}	
 roev01_01.0A82	ロクス	Rocus	speaker
 roev01_01.0A90	……ふーむ、わかりました。{wait}{clear}		
 roev01_01.0AB2	あなたのその顔を見ているうちに{n}やらねばならないと思いました。{wait}{clear}		

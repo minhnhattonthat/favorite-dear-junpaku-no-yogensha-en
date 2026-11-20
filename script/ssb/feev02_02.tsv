@@ -1,29 +1,29 @@
 id	jp	en	notes
 feev02_02.0056	フェイン	Fein	speaker
-feev02_02.0062	＄＄＄＄＄＄、この町にもギルドのロッジがある。{n}寄ってもいいか？{wait}{clear}		
+feev02_02.0062	＄＄＄＄＄＄、この町にもギルドのロッジがある。{n}寄ってもいいか？{wait}{clear}	＄＄＄＄＄＄, there's a Guild lodge in this{n}town too. Mind if I stop by?{wait}{clear}	
 feev02_02.00A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.00B6	ええ、どうぞ。{wait}{clear}		
+feev02_02.00B6	ええ、どうぞ。{wait}{clear}	Yes, go ahead.{wait}{clear}	
 feev02_02.00C8	フェイン	Fein	speaker
-feev02_02.00D4	もちろん、一緒に来たいのだろう？{wait}{clear}		
+feev02_02.00D4	もちろん、一緒に来たいのだろう？{wait}{clear}	Of course, you want to come along, don't{n}you?{wait}{clear}	
 feev02_02.00F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.0108	そうですね……できれば……。{wait}{clear}		
+feev02_02.0108	そうですね……できれば……。{wait}{clear}	Well... if possible...{wait}{clear}	
 feev02_02.0128	フェイン	Fein	speaker
-feev02_02.0134	べつに、気にするな。{n}行こうか。{wait}{clear}		
+feev02_02.0134	べつに、気にするな。{n}行こうか。{wait}{clear}	Don't worry about it. Let's go.{wait}{clear}	
 feev02_02.0158	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev02_02.0168	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev02_02.0190	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.01A0	フェイン！{wait}{clear}		
+feev02_02.01A0	フェイン！{wait}{clear}	Fein!{wait}{clear}	
 feev02_02.01C0	フェイン	Fein	speaker
-feev02_02.01CC	ああ……＄＄＄＄＄＄か。{n}いたのだったな……。{wait}{clear}		
+feev02_02.01CC	ああ……＄＄＄＄＄＄か。{n}いたのだったな……。{wait}{clear}	Oh... ＄＄＄＄＄＄. I forgot you were{n}here...{wait}{clear}	
 feev02_02.01FE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.020E	すみません、フェイン、聞いてもいいですか？{wait}{clear}		
+feev02_02.020E	すみません、フェイン、聞いてもいいですか？{wait}{clear}	Excuse me, Fein, may I ask you something?{wait}{clear}	
 feev02_02.0248	フェイン	Fein	speaker
-feev02_02.0254	君の聞きたいは、いつもだな。{n}なんだ？{wait}{clear}		
+feev02_02.0254	君の聞きたいは、いつもだな。{n}なんだ？{wait}{clear}	You and your questions, as always. What is{n}it?{wait}{clear}	
 feev02_02.027E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.028E	マスター・レーアンとのお話しの中で出た、{n}ジグとは誰ですか？{wait}{clear}		
+feev02_02.028E	マスター・レーアンとのお話しの中で出た、{n}ジグとは誰ですか？{wait}{clear}	Who is this Zig that came up when you were{n}talking with Master Lehan?{wait}{clear}	
 feev02_02.02CE	フェイン	Fein	speaker
-feev02_02.02DA	ああ……ジグか……。{wait}{clear}ジグというのは俺の師匠の名だ。{n}彼は多くの人に尊敬されていた。{wait}{clear}グランド・マスターにさえ推されたことがある。{n}ただ、本人は魔導の研究を優先するために{n}断ったがな。{wait}{clear}そして……{n}数年前に亡くなってしまった……。{wait}{clear}		
+feev02_02.02DA	ああ……ジグか……。{wait}{clear}ジグというのは俺の師匠の名だ。{n}彼は多くの人に尊敬されていた。{wait}{clear}グランド・マスターにさえ推されたことがある。{n}ただ、本人は魔導の研究を優先するために{n}断ったがな。{wait}{clear}そして……{n}数年前に亡くなってしまった……。{wait}{clear}	Ah... Zig...{wait}{clear}Zig was the name of my master. He was{n}respected by many people.{wait}{clear}He was even recommended for Grand Master{n}once. But he turned it down to put his{n}magical research first.{wait}{clear}And... he died a few years ago...{wait}{clear}	
 feev02_02.03CA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev02_02.03DA	……すみません、つらいことを聞いてしまって……。{wait}{clear}		
+feev02_02.03DA	……すみません、つらいことを聞いてしまって……。{wait}{clear}	...I'm sorry, I asked about something{n}painful...{wait}{clear}	
 feev02_02.040E	フェイン	Fein	speaker
-feev02_02.041A	いや、いい……もう昔の話だ……。{n}＄＄＄＄＄＄、ジグの話はいつか詳しく話そう。{wait}{clear}		
+feev02_02.041A	いや、いい……もう昔の話だ……。{n}＄＄＄＄＄＄、ジグの話はいつか詳しく話そう。{wait}{clear}	No, it's fine... It's all in the past now...{n}＄＄＄＄＄＄, I'll tell you about Zig in{n}detail someday.{wait}{clear}	

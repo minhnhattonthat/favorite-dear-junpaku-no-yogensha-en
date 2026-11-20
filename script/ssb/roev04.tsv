@@ -19,7 +19,7 @@ roev04.01F4	なに……勝負はまだこれからよ……。{wait}{clear}
 roev04.021E	ふー……。{wait}{clear}		
 roev04.0230	……なあ、お前は勝負の時、何を信じる？{wait}{clear}		
 roev04.025A	ロクス	Rocus	speaker
-roev04.0268	さあな……強いて言えば自分の腕か。{n}いや運か……。{wait}{clear}		
+roev04.0268	さあな……強いて言えば自分の腕か。{n}いや運か……。{wait}{clear}	Who knows... If I had to say, my own skill.{n}No, maybe luck...{wait}{clear}	
 roev04.029E	クラレンス	Clarence	speaker
 roev04.02B0	そうだ……いいセンいってるぜ。{wait}{clear}		
 roev04.02D6	勝負だけじゃねえ。{n}物事は全部運さ。{wait}{clear}		
@@ -65,7 +65,7 @@ roev04.07AA	おお、そうか。{n}ありがとよ。{wait}{clear}
 roev04.07CE	さすが教皇さま、よく知ってらっしゃる。{n}{wait}{clear}		
 roev04.07FE	じゃ、今日はお開きだな。{wait}{clear}		
 roev04.081A	ロクス	Rocus	speaker
-roev04.0828	ああ……。{wait}{clear}		
+roev04.0828	ああ……。{wait}{clear}	Yeah...{wait}{clear}	
 roev04.0836	クラレンス	Clarence	speaker
 roev04.0848	また、縁があったら会おうぜ。{n}お前とは気が合う。{wait}{clear}		
 roev04.087C	ロクス	Rocus	speaker

@@ -43,44 +43,44 @@ eiev18.0462	あっとととと、ヘタァ！！{wait}{clear}えいっ！{wait}{
 eiev18.048A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev18.049A	あっ…………！{wait}{clear}	Ah.........!{wait}{clear}	
 eiev18.04AC	アイリーン	Irene	speaker
-eiev18.04BA	はははは、真っ白ね。{n}よく似合ってるよ、＄＄＄＄＄＄。{wait}{clear}		
+eiev18.04BA	はははは、真っ白ね。{n}よく似合ってるよ、＄＄＄＄＄＄。{wait}{clear}	Ha ha ha! You're all white. It suits you,{n}＄＄＄＄＄＄.{wait}{clear}	
 eiev18.050C	アイリーン	Irene	speaker
-eiev18.051A	はあ、はあ、はあ。{n}ふー。{wait}{clear}疲れたー。{n}ちょっと、はしゃぎ過ぎたね。{wait}{clear}		
-eiev18.0572	さ、戻ろう、＄＄＄＄＄＄。{wait}{clear}		
+eiev18.051A	はあ、はあ、はあ。{n}ふー。{wait}{clear}疲れたー。{n}ちょっと、はしゃぎ過ぎたね。{wait}{clear}	Huff, huff, huff... Phew.{wait}{clear}I'm worn out. I guess we got a little{n}carried away.{wait}{clear}	
+eiev18.0572	さ、戻ろう、＄＄＄＄＄＄。{wait}{clear}	Come on, let's head back, ＄＄＄＄＄＄.{wait}{clear}	
 eiev18.05BC	アイリーン	Irene	speaker
-eiev18.05CA	あー、楽しかった。{n}ずいぶんバカなことしてるね、私たち。{wait}{clear}		
-eiev18.0612	ま、いっか……{n}たまにはね。{wait}{clear}ふー……。{wait}{clear}		
-eiev18.064C	久しぶりに、こんなに笑ったな……。{wait}{clear}		
+eiev18.05CA	あー、楽しかった。{n}ずいぶんバカなことしてるね、私たち。{wait}{clear}	Ahh, that was fun. We're being pretty silly,{n}aren't we?{wait}{clear}	
+eiev18.0612	ま、いっか……{n}たまにはね。{wait}{clear}ふー……。{wait}{clear}	Oh well... once in a while is fine.{wait}{clear}Phew...{wait}{clear}	
+eiev18.064C	久しぶりに、こんなに笑ったな……。{wait}{clear}	It's been a long time since I laughed this{n}much...{wait}{clear}	
 eiev18.0672	ＮＵＬＬ	NULL	speaker
-eiev18.0682	《元気が戻って……》{n}		
-eiev18.069E	《いつでも、また……》{n}		
+eiev18.0682	《元気が戻って……》{n}	You're cheerful again...{n}	
+eiev18.069E	《いつでも、また……》{n}	Anytime, again...{n}	
 eiev18.06C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.06D6	元気が戻ってよかった……。{n}アイリーンには笑顔が似合いますよ。{wait}{clear}		
+eiev18.06D6	元気が戻ってよかった……。{n}アイリーンには笑顔が似合いますよ。{wait}{clear}	I'm glad you're cheerful again... A smile{n}suits you, Irene.{wait}{clear}	
 eiev18.0726	アイリーン	Irene	speaker
-eiev18.0734	えっ！？{n}なに……急に。{wait}{clear}		
+eiev18.0734	えっ！？{n}なに……急に。{wait}{clear}	Huh?! What... all of a sudden?{wait}{clear}	
 eiev18.0750	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0760	心配だったので……。{wait}{clear}		
+eiev18.0760	心配だったので……。{wait}{clear}	I was worried about you...{wait}{clear}	
 eiev18.0786	アイリーン	Irene	speaker
-eiev18.0794	うん……すこし楽になった。{n}そんな、いつまでも情けない顔してられないよ……。{wait}{clear}		
+eiev18.0794	うん……すこし楽になった。{n}そんな、いつまでも情けない顔してられないよ……。{wait}{clear}	Yeah... I feel a little better. I can't keep{n}wearing such a pathetic face forever...{wait}{clear}	
 eiev18.0810	アイリーン	Irene	speaker
-eiev18.081E	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}		
+eiev18.081E	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}	My sister and Fein would laugh and say it's{n}not like me...{wait}{clear}	
 eiev18.086A	アイリーン	Irene	speaker
-eiev18.0878	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}		
+eiev18.0878	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}	If my sister were here, she'd laugh and say{n}it's not like me...{wait}{clear}	
 eiev18.08C2	アイリーン	Irene	speaker
-eiev18.08D0	私にはまだ、やらなきゃいけないこと、{n}たくさんあるんだから……。{wait}{clear}悲しむのは後でもできるでしょ……。{n}最後まで、がんばらなきゃ。{wait}{clear}さ、＄＄＄＄＄＄、また、何かあったら来て。{n}待ってるから。{wait}{clear}じゃね……。{wait}{clear}		
-eiev18.09B0	ありがと、今日は楽しかったよ。{wait}{clear}		
+eiev18.08D0	私にはまだ、やらなきゃいけないこと、{n}たくさんあるんだから……。{wait}{clear}悲しむのは後でもできるでしょ……。{n}最後まで、がんばらなきゃ。{wait}{clear}さ、＄＄＄＄＄＄、また、何かあったら来て。{n}待ってるから。{wait}{clear}じゃね……。{wait}{clear}	I still have so many things I have to do...{wait}{clear}I can grieve later, right...? I have to keep{n}going until the end.{wait}{clear}So, ＄＄＄＄＄＄, if anything comes up, come{n}see me again. I'll be waiting.{wait}{clear}See you...{wait}{clear}	
+eiev18.09B0	ありがと、今日は楽しかったよ。{wait}{clear}	Thanks. I had fun today.{wait}{clear}	
 eiev18.09E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.09F2	いつでもまた、声をかけてください。{n}つき合いますよ。{wait}{clear}		
+eiev18.09F2	いつでもまた、声をかけてください。{n}つき合いますよ。{wait}{clear}	Call on me again anytime. I'll keep you{n}company.{wait}{clear}	
 eiev18.0A38	アイリーン	Irene	speaker
-eiev18.0A46	そんなこと言っていいの？{n}いつも、忙しそうにしてるのに。{wait}{clear}		
+eiev18.0A46	そんなこと言っていいの？{n}いつも、忙しそうにしてるのに。{wait}{clear}	Are you sure you should say that? You always{n}look so busy.{wait}{clear}	
 eiev18.0A82	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev18.0A92	アイリーンが元気になるのだったらかまいませんよ。{wait}{clear}		
+eiev18.0A92	アイリーンが元気になるのだったらかまいませんよ。{wait}{clear}	If it cheers you up, Irene, I don't mind at{n}all.{wait}{clear}	
 eiev18.0AD4	アイリーン	Irene	speaker
-eiev18.0AE2	そう……ありがと。{n}もう、いつまでも情けない顔してられないもんね。{wait}{clear}		
+eiev18.0AE2	そう……ありがと。{n}もう、いつまでも情けない顔してられないもんね。{wait}{clear}	I see... thanks. I can't keep wearing such a{n}pathetic face forever, can I?{wait}{clear}	
 eiev18.0B54	アイリーン	Irene	speaker
-eiev18.0B62	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}		
+eiev18.0B62	お姉ちゃんがいたら、{n}きっとらしくないって、笑われる……。{wait}{clear}	If my sister were here, she'd laugh and say{n}it's not like me...{wait}{clear}	
 eiev18.0BB0	アイリーン	Irene	speaker
-eiev18.0BBE	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}		
+eiev18.0BBE	お姉ちゃんやフェインにらしくないって{n}笑われちゃう……。{wait}{clear}	My sister and Fein would laugh and say it's{n}not like me...{wait}{clear}	
 eiev18.0C06	アイリーン	Irene	speaker
-eiev18.0C14	私たちにやらなきゃいけないこと、{n}たくさんあるんでしょう？{n}悲しむのは後にする。{wait}{clear}さ、またなにかあったら来て。{wait}{clear}		
-eiev18.0C94	今日は楽しかったよ。{n}ありがと、＄＄＄＄＄＄……。{wait}{clear}		
+eiev18.0C14	私たちにやらなきゃいけないこと、{n}たくさんあるんでしょう？{n}悲しむのは後にする。{wait}{clear}さ、またなにかあったら来て。{wait}{clear}	We've got lots of things we have to do,{n}right? I'll grieve later.{wait}{clear}Come see me again if anything comes up.{wait}{clear}	
+eiev18.0C94	今日は楽しかったよ。{n}ありがと、＄＄＄＄＄＄……。{wait}{clear}	I had fun today. Thanks, ＄＄＄＄＄＄...{wait}{clear}	

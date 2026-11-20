@@ -1,6 +1,6 @@
 id	jp	en	notes
 Eiev29.0092	ラファエル	Raphael	speaker
-Eiev29.00A4	勇者アイリーン、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}		
+Eiev29.00A4	勇者アイリーン、天使＄＄＄＄＄＄、{n}よくやりました。{wait}{clear}	Hero Irene, Angel ＄＄＄＄＄＄, you have{n}done well.{wait}{clear}	
 Eiev29.00DC	ミカエル	Michael	speaker
 Eiev29.00EC	この勝利はお前たちの勝利だ。{wait}{clear}	This victory is yours.{wait}{clear}	
 Eiev29.010C	ラファエル	Raphael	speaker
@@ -8,43 +8,43 @@ Eiev29.011E	私たちは天界で待っています。{n}勇者に別れをつ�
 Eiev29.0158	ミカエル	Michael	speaker
 Eiev29.0168	また天界で会おう。{wait}{clear}	We will meet again in the Heavens.{wait}{clear}	
 Eiev29.01C6	アイリーン	Irene	speaker
-Eiev29.01D8	もう二度と戻らないの？{wait}{clear}		
+Eiev29.01D8	もう二度と戻らないの？{wait}{clear}	You're never coming back?{wait}{clear}	
 Eiev29.01F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.0202	ええ、多分……{wait}{clear}		
+Eiev29.0202	ええ、多分……{wait}{clear}	Yes, probably not...{wait}{clear}	
 Eiev29.0214	アイリーン	Irene	speaker
-Eiev29.0226	そっか……{wait}{clear}		
-Eiev29.0238	長い間ありがとう。{n}私……あなたに会えてうれしかったよ。{wait}{clear}		
-Eiev29.0278	もしも、もう一度{n}この地上にくることがあったら…{n}絶対会いに来てね……。{wait}{clear}		
-Eiev29.02C8	また、{n}楽しくおしゃべりしよう……。{wait}{clear}		
+Eiev29.0226	そっか……{wait}{clear}	I see...{wait}{clear}	
+Eiev29.0238	長い間ありがとう。{n}私……あなたに会えてうれしかったよ。{wait}{clear}	Thank you for everything all this time. I...{n}I was glad I got to meet you.{wait}{clear}	
+Eiev29.0278	もしも、もう一度{n}この地上にくることがあったら…{n}絶対会いに来てね……。{wait}{clear}	If you ever come down to this world again...{n}you have to come see me...{wait}{clear}	
+Eiev29.02C8	また、{n}楽しくおしゃべりしよう……。{wait}{clear}	And we'll have fun chatting again...{wait}{clear}	
 Eiev29.02F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Eiev29.0300	はい……。{wait}{clear}	Yes...{wait}{clear}	
 Eiev29.030E	アイリーン	Irene	speaker
-Eiev29.0320	さよなら……元気でね。{n}＄＄＄＄＄＄！{wait}{clear}		
+Eiev29.0320	さよなら……元気でね。{n}＄＄＄＄＄＄！{wait}{clear}	Goodbye... take care, ＄＄＄＄＄＄!{wait}{clear}	
 Eiev29.034A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.035A	さよなら、アイリーン！{wait}{clear}		
+Eiev29.035A	さよなら、アイリーン！{wait}{clear}	Goodbye, Irene!{wait}{clear}	
 Eiev29.039C	アイリーン	Irene	speaker
-Eiev29.03AE	帰るのね……{wait}{clear}		
+Eiev29.03AE	帰るのね……{wait}{clear}	So you're going back...{wait}{clear}	
 Eiev29.03BE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.03CE	はい……{wait}{clear}でも必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}		
+Eiev29.03CE	はい……{wait}{clear}でも必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}	Yes...{wait}{clear}But I will come back here without fail...{n}back to you.{wait}{clear}	
 Eiev29.040E	アイリーン	Irene	speaker
-Eiev29.0420	約束なんだから……{n}絶対……戻ってきてね……{wait}{clear}		
-Eiev29.0454	もし……、{n}もし地上に残れなくなっても……、{wait}{clear}		
-Eiev29.0488	必ず会いにきて……教えて……{wait}{clear}		
-Eiev29.04AC	こんなお別れ、絶対いやだからね……{wait}{clear}		
+Eiev29.0420	約束なんだから……{n}絶対……戻ってきてね……{wait}{clear}	It's a promise... You have to... come{n}back...{wait}{clear}	
+Eiev29.0454	もし……、{n}もし地上に残れなくなっても……、{wait}{clear}	If... if you can't stay in this world...{wait}{clear}	
+Eiev29.0488	必ず会いにきて……教えて……{wait}{clear}	Come see me anyway... and tell me...{wait}{clear}	
+Eiev29.04AC	こんなお別れ、絶対いやだからね……{wait}{clear}	I absolutely refuse to say goodbye like{n}this...{wait}{clear}	
 Eiev29.04FC	アイリーン	Irene	speaker
-Eiev29.050E	帰るのね……{wait}{clear}		
-Eiev29.0522	私ね……{n}笑ってお別れなんか{n}できないよ……{wait}{clear}		
-Eiev29.0556	だって……あなたのこと{n}私……{wait}{clear}……。{wait}{clear}		
+Eiev29.050E	帰るのね……{wait}{clear}	So you're going back...{wait}{clear}	
+Eiev29.0522	私ね……{n}笑ってお別れなんか{n}できないよ……{wait}{clear}	You know... I can't say goodbye with a{n}smile...{wait}{clear}	
+Eiev29.0556	だって……あなたのこと{n}私……{wait}{clear}……。{wait}{clear}	Because... I... you...{wait}{clear}...{wait}{clear}	
 Eiev29.0582	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.0592	泣かないでください……{n}アイリーン。{wait}{clear}		
+Eiev29.0592	泣かないでください……{n}アイリーン。{wait}{clear}	Please don't cry... Irene.{wait}{clear}	
 Eiev29.05BA	アイリーン	Irene	speaker
-Eiev29.05CC	ずっと忘れない……{n}これからさき……あなたのこと……{wait}{clear}		
+Eiev29.05CC	ずっと忘れない……{n}これからさき……あなたのこと……{wait}{clear}	I'll never forget... from now on... I'll{n}never forget you...{wait}{clear}	
 Eiev29.0604	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.0614	私も忘れません……{wait}{clear}		
+Eiev29.0614	私も忘れません……{wait}{clear}	I won't forget you either...{wait}{clear}	
 Eiev29.062A	アイリーン	Irene	speaker
-Eiev29.063C	さよなら……天使様……{wait}{clear}		
+Eiev29.063C	さよなら……天使様……{wait}{clear}	Goodbye... Angel...{wait}{clear}	
 Eiev29.0656	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Eiev29.0666	さよなら……アイリーン{wait}{clear}		
+Eiev29.0666	さよなら……アイリーン{wait}{clear}	Goodbye... Irene.{wait}{clear}	
 Eiev29.069C	ベルゼバブ	Beelzebub	speaker
 Eiev29.06AE	ハハハハハハ、{n}見たか！！　大天使ども！！{wait}{clear}	Hahahahaha, did you see that?! You{n}archangels!!{wait}{clear}	
 Eiev29.06E0	これが、お前らの正義の末路だ！{n}ハハハハハ！！！{wait}{clear}	This is where your justice ends! Hahahaha!!!{wait}{clear}	

@@ -22,7 +22,7 @@ laev09_02.0340	もうここで眠るわ……{wait}{clear}
 laev09_02.0358	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev09_02.0368	そうしてください……{wait}{clear}		
 laev09_02.0380	レイラ	Leyla	speaker
-laev09_02.038E	お休み……＄＄＄＄＄＄。{wait}{clear}		
+laev09_02.038E	お休み……＄＄＄＄＄＄。{wait}{clear}	Good night... ＄＄＄＄＄＄.{wait}{clear}	
 laev09_02.03AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev09_02.03BA	お休みなさい、レイラ。{wait}{clear}		
 laev09_02.03D8	レイラ	Leyla	speaker

@@ -64,6 +64,11 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | リベザル | Ribezal | | | |
 | ウェスタ | Vesta | | Irene's owl (female) | Westa |
 | マスター | Master | | name tag for the Grand Master (eiev13_02) | |
+| ライノール | Raynor | | the Grand Master, Zig's senior apprentice; Fein calls him 老師 "Elder" | |
+| レーアン | Lehan | | a regional guild master (Master Lehan) | |
+| ゼルン | Zern | | Marquis Zern (ゼルン侯/候) | |
+| ラビエル | Raviel | | default angel name in the preview version (game 1 spelling) | |
+| リンクス | Lynx | | fairy, boyish (僕) | |
 | ローザ | Rosa | | fairy (formal, composed) | |
 | フロリンダ | Florinda | | fairy; calls herself フロリン "Florin" | |
 | フロリン | Florin | | | |
@@ -87,6 +92,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | アルクマール | Alkmaar | | town/city with the Guild's Grand Lodge | |
 | グローサイン | Grosain | | the Grosain Empire (帝国) | |
 | 六王国 | Six Kingdoms | | | |
+| バーゼル | Basel | | country; Alkmaar is in Basel | |
+| レフカス | Lefkas | | where the Demon Stone was kept before Alkmaar | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -98,6 +105,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | 天竜 | Heavenly Dragon | | | |
 | 紅月王 | Crimson Moon King | | | |
 | 大天使 | archangel | | the archangel / Lord Raphael | |
+| ウォーロック | Warlock | | sword-trained guild mage (Fein) | |
+| 黒衣の魔導士 | Black Mage | | name tag, Feev01_01 | |
 
 ## Decisions from earlier batches
 - Chapter labels `xxNN.0012` (第N節「...」, ...エンディング): title only, no number ("Cursed Soul", "Confession").
@@ -105,3 +114,6 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   or the reverse) are translated by content.
 - Gendered angel variants exist (あれ？/あら？ copies, 女同士, 悪い男 vs 好きな女の子): translate each copy for its gender.
 - A source row with five ＄ (eiev11.079A, eiev12.1530) is written with the full six.
+- ギルド is "the Guild" (capitalised, the mages' association); ロッジ "lodge" ("Guild lodge", "the Grand Lodge").
+  ディアナ様 is "Diana-sama" (D1), never "Lady Diana". 老師 (Fein to Raynor) is "Elder". 聖都 "the Holy City".
+- Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

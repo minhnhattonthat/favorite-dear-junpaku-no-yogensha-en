@@ -17,7 +17,7 @@ men2_Fe02.021E	いえ、なにもなければそれでいいのですから。{w
 men2_Fe02.0258	フェイン	Fein	speaker
 men2_Fe02.0264	そうか……悪かったな……。{wait}{clear}せっかく来てもらったんだ。{n}少し話につきあってもらえるか？{wait}{clear}		
 men2_Fe02.02C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Fe02.02D0	ええ、もちろんです。{wait}{clear}		
+men2_Fe02.02D0	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	
 men2_Fe02.02EC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Fe02.02FC	ええ、私でよければ……。{wait}{clear}		
 men2_Fe02.0318	フェイン	Fein	speaker

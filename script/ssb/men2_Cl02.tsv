@@ -15,7 +15,7 @@ men2_Cl02.01D8	そうか……。{n}忙しいと思うが、つきあっても�
 men2_Cl02.0216	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl02.0226	ええ、よろこんで。{n}クライヴとこうして会えるのは、{n}私もうれしいですから。{wait}{clear}		
 men2_Cl02.0274	クライヴ	Clive	speaker
-men2_Cl02.0280	そうか……。{wait}{clear}		
+men2_Cl02.0280	そうか……。{wait}{clear}	I see...{wait}{clear}	
 men2_Cl02.0294	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 men2_Cl02.02A4	なにか悩み事でもあるのですか？{wait}{clear}		
 men2_Cl02.02C6	クライヴ	Clive	speaker
@@ -25,4 +25,4 @@ men2_Cl02.0326	そうですか……。{n}すみません、よけいなこと�
 men2_Cl02.0366	クライヴ	Clive	speaker
 men2_Cl02.0372	いや……べつに、それは気にしていない。{wait}{clear}つきあってもらえるか？{wait}{clear}		
 men2_Cl02.03B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-men2_Cl02.03C6	ええ、もちろんです。{wait}{clear}		
+men2_Cl02.03C6	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	

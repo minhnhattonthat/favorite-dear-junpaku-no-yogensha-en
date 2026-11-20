@@ -1,14 +1,14 @@
 id	jp	en	notes
 exam_06.0046	クラレンス	Clarence	speaker
-exam_06.0054	……なあ、お前は勝負の時、{n}何を信じる？{wait}{clear}		
+exam_06.0054	……なあ、お前は勝負の時、{n}何を信じる？{wait}{clear}	...Hey, what do you put your faith in when{n}it's time to gamble?{wait}{clear}	
 exam_06.0080	ロクス	Rocus	speaker
-exam_06.008A	さあな……強いて言えば自分の腕か。{n}いや運か……。{wait}{clear}		
+exam_06.008A	さあな……強いて言えば自分の腕か。{n}いや運か……。{wait}{clear}	Who knows... If I had to say, my own skill.{n}No, maybe luck...{wait}{clear}	
 exam_06.00C8	ＮＵＬＬ	NULL	speaker
 exam_06.00F2	アイリーン	Irene	speaker
-exam_06.0100	ウェスタ！{wait}{clear}届けて……彼に……。{wait}{clear}		
+exam_06.0100	ウェスタ！{wait}{clear}届けて……彼に……。{wait}{clear}	Vesta!{wait}{clear}Take it... to him...{wait}{clear}	
 exam_06.012E	ＮＵＬＬ	NULL	speaker
 exam_06.0158	ルディエール	Rudiere	speaker
-exam_06.0168	きっと伝説を利用して{n}自分の欲望を果たそうと{n}しているに違いない。{wait}{clear}		
+exam_06.0168	きっと伝説を利用して{n}自分の欲望を果たそうと{n}しているに違いない。{wait}{clear}	They must be using the legend to fulfill{n}their own desires.{wait}{clear}	
 exam_06.01B6	ＮＵＬＬ	NULL	speaker
 exam_06.01E0	セシア	Cecia	speaker
 exam_06.01EA	大丈夫、もう平気よ、{wait}{clear}	It's all right, you're safe now.{wait}{clear}	
@@ -19,11 +19,11 @@ exam_06.024E	レイラ	Leyla	speaker
 exam_06.0258	…………。{wait}{clear}	.........{wait}{clear}	
 exam_06.026A	ＮＵＬＬ	NULL	speaker
 exam_06.0294	ルディエール	Rudiere	speaker
-exam_06.02A4	そんなばかな……。{wait}{clear}		
+exam_06.02A4	そんなばかな……。{wait}{clear}	That's absurd...{wait}{clear}	
 exam_06.02C2	ＮＵＬＬ	NULL	speaker
 exam_06.02E0	クライヴ	Clive	speaker
 exam_06.02EC	クッ……{wait}{clear}	Ngh...{wait}{clear}	
 exam_06.0300	ＮＵＬＬ	NULL	speaker
 exam_06.032A	フェイン	Fein	speaker
-exam_06.0336	クソ！！！{n}なんてことだ！！{wait}{clear}やつらめ……{wait}{clear}		
+exam_06.0336	クソ！！！{n}なんてことだ！！{wait}{clear}やつらめ……{wait}{clear}	Damn it!!! How could this happen?!{wait}{clear}Those bastards...{wait}{clear}	
 exam_06.036E	ＮＵＬＬ	NULL	speaker

@@ -1,75 +1,75 @@
 id	jp	en	notes
 feev07_02.004A	フェイン	Fein	speaker
-feev07_02.0056	＄＄＄＄＄＄、少しつき合ってくれないか？{wait}{clear}		
+feev07_02.0056	＄＄＄＄＄＄、少しつき合ってくれないか？{wait}{clear}	＄＄＄＄＄＄, would you keep me company for{n}a while?{wait}{clear}	
 feev07_02.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev07_02.0096	《ええ……。》{n}	Sure...{n}	
-feev07_02.00AC	《すみません……。》{n}		
+feev07_02.00AC	《すみません……。》{n}	I'm sorry...{n}	
 feev07_02.00D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.00E2	ええ、かまいませんよ。{n}なにかお話しでも？{wait}{clear}		
+feev07_02.00E2	ええ、かまいませんよ。{n}なにかお話しでも？{wait}{clear}	Yes, I don't mind. Is there something you{n}want to talk about?{wait}{clear}	
 feev07_02.0110	フェイン	Fein	speaker
-feev07_02.011C	ああ、まあ、そんなところだ……。{n}じゃあ、行こうか。{wait}{clear}		
+feev07_02.011C	ああ、まあ、そんなところだ……。{n}じゃあ、行こうか。{wait}{clear}	Yeah, something like that... Well, let's go.{wait}{clear}	
 feev07_02.0154	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev07_02.0164	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev07_02.0176	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.0186	すみません……。{n}ちょっと他にやることがあるのです。{wait}{clear}		
+feev07_02.0186	すみません……。{n}ちょっと他にやることがあるのです。{wait}{clear}	I'm sorry... There's something else I need{n}to do.{wait}{clear}	
 feev07_02.01BE	フェイン	Fein	speaker
-feev07_02.01CA	そうか……。{n}それならば、しかたがないな。{wait}{clear}じゃあ、気をつけて行くのだぞ。{wait}{clear}		
+feev07_02.01CA	そうか……。{n}それならば、しかたがないな。{wait}{clear}じゃあ、気をつけて行くのだぞ。{wait}{clear}	I see... Then it can't be helped.{wait}{clear}Well, take care.{wait}{clear}	
 feev07_02.024A	フェイン	Fein	speaker
-feev07_02.025A	天使の仕事はうまくいっているのか？{wait}{clear}		
+feev07_02.025A	天使の仕事はうまくいっているのか？{wait}{clear}	Is your work as an angel going well?{wait}{clear}	
 feev07_02.0280	ＮＵＬＬ	NULL	speaker
 feev07_02.0290	《はい……》{n}	Yes...{n}	
-feev07_02.02A4	《いえ……》{n}		
+feev07_02.02A4	《いえ……》{n}	Well...{n}	
 feev07_02.02BC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.02CC	はい、多くの勇者に支えられて、{n}たくさんの混乱をおさめることができています。{wait}{clear}		
+feev07_02.02CC	はい、多くの勇者に支えられて、{n}たくさんの混乱をおさめることができています。{wait}{clear}	Yes. With the support of many heroes, I've{n}been able to quell a great deal of turmoil.{wait}{clear}	
 feev07_02.031C	フェイン	Fein	speaker
-feev07_02.032C	そうか、よかった。{wait}{clear}		
+feev07_02.032C	そうか、よかった。{wait}{clear}	I see. Good.{wait}{clear}	
 feev07_02.0342	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.0352	しかし、これからより多くの、{n}そして、より大きな混乱が世界を襲うでしょう。{wait}{clear}それを考えると……。{wait}{clear}		
+feev07_02.0352	しかし、これからより多くの、{n}そして、より大きな混乱が世界を襲うでしょう。{wait}{clear}それを考えると……。{wait}{clear}	But from now on, more turmoil, and greater{n}turmoil, will strike the world.{wait}{clear}When I think about that...{wait}{clear}	
 feev07_02.03B8	フェイン	Fein	speaker
-feev07_02.03C8	不安か……。{wait}{clear}		
+feev07_02.03C8	不安か……。{wait}{clear}	You're uneasy...{wait}{clear}	
 feev07_02.03D8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.03E8	いえ……{n}私がそんな言葉をともに戦ってくれている人の前で{n}口にするわけにはいけません……。{wait}{clear}		
+feev07_02.03E8	いえ……{n}私がそんな言葉をともに戦ってくれている人の前で{n}口にするわけにはいけません……。{wait}{clear}	No... I can't say such a thing in front of{n}the people who fight alongside me...{wait}{clear}	
 feev07_02.0446	フェイン	Fein	speaker
 feev07_02.0456	そうだな……。{wait}{clear}	Yeah...{wait}{clear}	
-feev07_02.046C	しかし、不安と思っているのは自分も一緒だ……。{wait}{clear}		
-feev07_02.04A2	きっとほかの君の勇者たちもそうだろう。{wait}{clear}		
+feev07_02.046C	しかし、不安と思っているのは自分も一緒だ……。{wait}{clear}	But I'm uneasy too...{wait}{clear}	
+feev07_02.04A2	きっとほかの君の勇者たちもそうだろう。{wait}{clear}	And I'm sure your other heroes are as well.{wait}{clear}	
 feev07_02.04D0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.04E0	いえ……{n}今は混乱をかろうじておさめてはいますが……。{wait}{clear}これから起こるだろう、より大きな混乱には……{n}正直、今のままでは……。{wait}{clear}		
+feev07_02.04E0	いえ……{n}今は混乱をかろうじておさめてはいますが……。{wait}{clear}これから起こるだろう、より大きな混乱には……{n}正直、今のままでは……。{wait}{clear}	No... For now, I'm barely managing to quell{n}the turmoil...{wait}{clear}But the greater turmoil that's likely to{n}come... honestly, as things stand...{wait}{clear}	
 feev07_02.0564	フェイン	Fein	speaker
-feev07_02.0574	不安か……{wait}{clear}		
+feev07_02.0574	不安か……{wait}{clear}	You're uneasy...{wait}{clear}	
 feev07_02.0582	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.0592	天使である自分がこんなことを口にするのは、{n}勇者たちにとても失礼なことだと思いますが……。{wait}{clear}		
+feev07_02.0592	天使である自分がこんなことを口にするのは、{n}勇者たちにとても失礼なことだと思いますが……。{wait}{clear}	I think it's very rude to the heroes for me,{n}an angel, to say something like this...{wait}{clear}	
 feev07_02.05F0	フェイン	Fein	speaker
-feev07_02.0600	いや……{n}正直な気持ちを聞ける方が自分はうれしい。{wait}{clear}		
-feev07_02.063A	先のことなど誰にもわからない……。{wait}{clear}		
-feev07_02.0664	今はできることをするだけだ。{wait}{clear}		
-feev07_02.0688	いずれ、それが未来につながると信じよう……。{wait}{clear}		
+feev07_02.0600	いや……{n}正直な気持ちを聞ける方が自分はうれしい。{wait}{clear}	No... I'm glad to hear how you honestly{n}feel.{wait}{clear}	
+feev07_02.063A	先のことなど誰にもわからない……。{wait}{clear}	No one knows what lies ahead...{wait}{clear}	
+feev07_02.0664	今はできることをするだけだ。{wait}{clear}	For now, all we can do is what we can.{wait}{clear}	
+feev07_02.0688	いずれ、それが未来につながると信じよう……。{wait}{clear}	Let's believe that, in time, it will lead to{n}the future...{wait}{clear}	
 feev07_02.06B8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.06C8	はい……。{wait}{clear}あの……聞いてかまいませんか、フェイン。{n}なぜあなたは私に協力してくれるのですか？{wait}{clear}		
+feev07_02.06C8	はい……。{wait}{clear}あの……聞いてかまいませんか、フェイン。{n}なぜあなたは私に協力してくれるのですか？{wait}{clear}	Yes...{wait}{clear}Um... may I ask you something, Fein? Why do{n}you help me?{wait}{clear}	
 feev07_02.072C	フェイン	Fein	speaker
-feev07_02.073C	命を助けられたから……{n}		
-feev07_02.0758	だけではないな……。{wait}{clear}		
-feev07_02.0774	君のことを信じられたからだ……きっと。{wait}{clear}		
-feev07_02.07A2	君と話していて……{n}その語る言葉、想いにうそはないと思った。{wait}{clear}		
+feev07_02.073C	命を助けられたから……{n}	Because you saved my life...{n}	
+feev07_02.0758	だけではないな……。{wait}{clear}	That's not the only reason...{wait}{clear}	
+feev07_02.0774	君のことを信じられたからだ……きっと。{wait}{clear}	Because I could trust you... I'm sure of it.{wait}{clear}	
+feev07_02.07A2	君と話していて……{n}その語る言葉、想いにうそはないと思った。{wait}{clear}	Talking with you... I felt there was no lie{n}in your words or your feelings.{wait}{clear}	
 feev07_02.07E2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.07F2	ありがとう……フェイン。{wait}{clear}		
+feev07_02.07F2	ありがとう……フェイン。{wait}{clear}	Thank you... Fein.{wait}{clear}	
 feev07_02.080E	フェイン	Fein	speaker
-feev07_02.081E	……いや、いいんだ。{n}自分はもっと君に助けられている。{wait}{clear}		
-feev07_02.085C	ずっと俺は一人でこの大陸を旅していた……。{wait}{clear}		
-feev07_02.088E	どうしても……{n}やらなければならないことのために……。{wait}{clear}		
-feev07_02.08CC	それを君は手助けしてくれている。{wait}{clear}		
-feev07_02.08F4	礼を言わなければならないのはこちらの方だ。{wait}{clear}		
+feev07_02.081E	……いや、いいんだ。{n}自分はもっと君に助けられている。{wait}{clear}	...No, it's fine. You've helped me far more.{wait}{clear}	
+feev07_02.085C	ずっと俺は一人でこの大陸を旅していた……。{wait}{clear}	I'd been traveling this continent alone for{n}a long time...{wait}{clear}	
+feev07_02.088E	どうしても……{n}やらなければならないことのために……。{wait}{clear}	For the sake of something... I absolutely{n}have to do...{wait}{clear}	
+feev07_02.08CC	それを君は手助けしてくれている。{wait}{clear}	And you're helping me with it.{wait}{clear}	
+feev07_02.08F4	礼を言わなければならないのはこちらの方だ。{wait}{clear}	I'm the one who should be thanking you.{wait}{clear}	
 feev07_02.0922	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.0932	あなたがやらなくてはならないこととはなんですか？{wait}{clear}		
+feev07_02.0932	あなたがやらなくてはならないこととはなんですか？{wait}{clear}	What is it that you have to do?{wait}{clear}	
 feev07_02.0966	フェイン	Fein	speaker
-feev07_02.0976	……君には話せない。{wait}{clear}		
+feev07_02.0976	……君には話せない。{wait}{clear}	...I can't tell you.{wait}{clear}	
 feev07_02.0992	……すまない。{wait}{clear}	...Sorry.{wait}{clear}	
-feev07_02.09A8	ただ、それは……{n}自分からなにが失われようとも{n}やらなくてはならないことだ……。{wait}{clear}		
+feev07_02.09A8	ただ、それは……{n}自分からなにが失われようとも{n}やらなくてはならないことだ……。{wait}{clear}	But it's... something I have to do, no{n}matter what I lose...{wait}{clear}	
 feev07_02.0A00	…………。{wait}{clear}	.........{wait}{clear}	
-feev07_02.0A12	……すこし話しすぎたな……。{wait}{clear}		
-feev07_02.0A36	酔いが回ったようだ……。{wait}{clear}		
-feev07_02.0A56	出よう。{wait}{clear}		
+feev07_02.0A12	……すこし話しすぎたな……。{wait}{clear}	...I've said a little too much...{wait}{clear}	
+feev07_02.0A36	酔いが回ったようだ……。{wait}{clear}	The drink must be getting to me...{wait}{clear}	
+feev07_02.0A56	出よう。{wait}{clear}	Let's go.{wait}{clear}	
 feev07_02.0A84	フェイン	Fein	speaker
-feev07_02.0A90	それじゃあ、お休み……＄＄＄＄＄＄。{wait}{clear}		
+feev07_02.0A90	それじゃあ、お休み……＄＄＄＄＄＄。{wait}{clear}	Well then, good night... ＄＄＄＄＄＄.{wait}{clear}	
 feev07_02.0AB8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_02.0AC8	おやすみなさい……フェイン……。{wait}{clear}		
+feev07_02.0AC8	おやすみなさい……フェイン……。{wait}{clear}	Good night... Fein...{wait}{clear}	

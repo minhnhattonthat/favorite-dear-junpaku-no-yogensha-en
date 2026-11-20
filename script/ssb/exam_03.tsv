@@ -1,5 +1,5 @@
 id	jp	en	notes
 exam_03.0058	フロリンダ	Florinda	speaker
-exam_03.0066	天使様ぁ、勇者候補の人は{n}スカウトできました？{wait}{clear}それじゃあ{n}次に天使様がスカウトした{n}勇者様を訪問してみましょう。{wait}{clear}訪問すると、勇者様の右上に{n}訪問メニューが出てきますぅ。{wait}{clear}今回は勇者様にお願いして{n}天使様の選択された目的地まで{n}移動してもらいましょう。{wait}{clear}		
+exam_03.0066	天使様ぁ、勇者候補の人は{n}スカウトできました？{wait}{clear}それじゃあ{n}次に天使様がスカウトした{n}勇者様を訪問してみましょう。{wait}{clear}訪問すると、勇者様の右上に{n}訪問メニューが出てきますぅ。{wait}{clear}今回は勇者様にお願いして{n}天使様の選択された目的地まで{n}移動してもらいましょう。{wait}{clear}	Angeeel, did you scout a hero candidate?{wait}{clear}Then next, let's go visit the hero you{n}scouted.{wait}{clear}When you visit, the visit menu pops up at{n}the hero's upper right!{wait}{clear}This time, let's ask the hero to travel to{n}the destination you picked, Angel.{wait}{clear}	
 exam_03.0184	リンクス	Lynx	speaker
-exam_03.0190	勇者候補の人はスカウトできた、天使様？{wait}{clear}じゃあ、{n}さっそくスカウトした{n}勇者様に会いにいこうよ。{wait}{clear}訪問すると、勇者様の右上に{n}訪問メニューが出てくるんだ。{wait}{clear}今回は勇者様にお願いして{n}天使様の選んだ目的地まで{n}移動してもらおうよ。{wait}{clear}		
+exam_03.0190	勇者候補の人はスカウトできた、天使様？{wait}{clear}じゃあ、{n}さっそくスカウトした{n}勇者様に会いにいこうよ。{wait}{clear}訪問すると、勇者様の右上に{n}訪問メニューが出てくるんだ。{wait}{clear}今回は勇者様にお願いして{n}天使様の選んだ目的地まで{n}移動してもらおうよ。{wait}{clear}	Did you scout a hero candidate, Angel?{wait}{clear}Then let's go see the hero you scouted right{n}away.{wait}{clear}When you visit, the visit menu shows up at{n}the hero's upper right.{wait}{clear}This time, let's ask the hero to travel to{n}the destination you picked, Angel.{wait}{clear}	

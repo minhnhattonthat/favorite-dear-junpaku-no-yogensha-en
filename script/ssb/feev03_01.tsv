@@ -1,75 +1,75 @@
 id	jp	en	notes
 feev03_01.0042	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0052	ここが、バーゼルのアルクマールですね。{wait}{clear}		
+feev03_01.0052	ここが、バーゼルのアルクマールですね。{wait}{clear}	So this is Alkmaar, in Basel.{wait}{clear}	
 feev03_01.008E	フェイン	Fein	speaker
-feev03_01.009A	ああ、ここにグランドロッジがある。{n}寄っていきたいのだが、かまわないか？{wait}{clear}		
+feev03_01.009A	ああ、ここにグランドロッジがある。{n}寄っていきたいのだが、かまわないか？{wait}{clear}	Yeah, the Grand Lodge is here. I'd like to{n}stop by. Do you mind?{wait}{clear}	
 feev03_01.00E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.00F6	ええ、もちろんです。{wait}{clear}		
+feev03_01.00F6	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	
 feev03_01.010E	フェイン	Fein	speaker
-feev03_01.011A	じゃあ、行こうか。{n}グランドマスターに会いに……。{wait}{clear}		
+feev03_01.011A	じゃあ、行こうか。{n}グランドマスターに会いに……。{wait}{clear}	Then let's go. To see the Grand Master...{wait}{clear}	
 feev03_01.0178	マスター	Master	speaker
-feev03_01.0184	帰ってきたか……。{n}待っていたぞ、フェイン。{wait}{clear}		
+feev03_01.0184	帰ってきたか……。{n}待っていたぞ、フェイン。{wait}{clear}	So you've come back... I've been waiting for{n}you, Fein.{wait}{clear}	
 feev03_01.01B4	フェイン	Fein	speaker
-feev03_01.01C0	グランドマスター・ライノール{n}お元気そうで何よりです。{wait}{clear}		
-feev03_01.01FA	ライノール		speaker
-feev03_01.0208	いろいろな話を聞いてな、心配をしていた。{wait}{clear}		
+feev03_01.01C0	グランドマスター・ライノール{n}お元気そうで何よりです。{wait}{clear}	Grand Master Raynor, I'm glad to see you{n}looking well.{wait}{clear}	
+feev03_01.01FA	ライノール	Raynor	speaker
+feev03_01.0208	いろいろな話を聞いてな、心配をしていた。{wait}{clear}	I heard all sorts of stories, and I was{n}worried.{wait}{clear}	
 feev03_01.0234	フェイン	Fein	speaker
-feev03_01.0240	ご心配をおかけして、申し訳ありません。{wait}{clear}		
-feev03_01.026A	ライノール		speaker
-feev03_01.0278	いや、あやまらなくてもいい。{n}お前が無事で、こうして会えたのだからな。{wait}{clear}ただな、フェイン……{n}ジグとセレニスのことに{n}お前がこだわる理由はわかる。{wait}{clear}だが、その過去にとらわれれば、{n}お前自身の未来を閉ざすことになる。{n}わかっているな？{wait}{clear}		
+feev03_01.0240	ご心配をおかけして、申し訳ありません。{wait}{clear}	I'm sorry to have worried you.{wait}{clear}	
+feev03_01.026A	ライノール	Raynor	speaker
+feev03_01.0278	いや、あやまらなくてもいい。{n}お前が無事で、こうして会えたのだからな。{wait}{clear}ただな、フェイン……{n}ジグとセレニスのことに{n}お前がこだわる理由はわかる。{wait}{clear}だが、その過去にとらわれれば、{n}お前自身の未来を閉ざすことになる。{n}わかっているな？{wait}{clear}	No, there's no need to apologize. You're{n}safe, and we can meet like this.{wait}{clear}But, Fein... I understand why you're so{n}fixated on Zig and Serenis.{wait}{clear}But if you stay a prisoner of that past,{n}you'll close off your own future. You{n}understand that, don't you?{wait}{clear}	
 feev03_01.0368	フェイン	Fein	speaker
-feev03_01.0374	いえ……{n}自分にとって、あのことはまだ過去ではないのです。{wait}{clear}		
-feev03_01.03B2	ライノール		speaker
-feev03_01.03C0	強情な男だ……。{n}そのあたりはジグとそっくりだな……。{wait}{clear}お前にとって気になるのはセレニスのことだろうが{n}ギルドにとっては、{n}帝国と素性の知れぬ魔導士たちの動きが気になる。{wait}{clear}冷たいと思われるかもしれないが、{n}これも、皆のためだ……。{wait}{clear}		
+feev03_01.0374	いえ……{n}自分にとって、あのことはまだ過去ではないのです。{wait}{clear}	No... for me, that is not in the past yet.{wait}{clear}	
+feev03_01.03B2	ライノール	Raynor	speaker
+feev03_01.03C0	強情な男だ……。{n}そのあたりはジグとそっくりだな……。{wait}{clear}お前にとって気になるのはセレニスのことだろうが{n}ギルドにとっては、{n}帝国と素性の知れぬ魔導士たちの動きが気になる。{wait}{clear}冷たいと思われるかもしれないが、{n}これも、皆のためだ……。{wait}{clear}	Stubborn man... You're just like Zig in that{n}respect...{wait}{clear}What weighs on you is Serenis, I suppose,{n}but what weighs on the Guild is the Empire,{n}and the movements of mages of unknown{wait}{clear}origin.{wait}{clear}You may think me cold, but this too is for{n}everyone's sake...{wait}{clear}	
 feev03_01.04AE	フェイン	Fein	speaker
-feev03_01.04BA	はい……それは、わかっています。{n}自分がしていることこそ、身勝手なことです。{wait}{clear}		
-feev03_01.050A	ライノール		speaker
-feev03_01.0518	そこまで自分を責めずともいい……。{wait}{clear}なにかあったなら私に知らせてくれ、フェイン。{n}それが今、ギルドの一員としての{n}お前のつとめだ……。{wait}{clear}		
+feev03_01.04BA	はい……それは、わかっています。{n}自分がしていることこそ、身勝手なことです。{wait}{clear}	Yes... I understand that. What I'm doing is{n}the selfish thing.{wait}{clear}	
+feev03_01.050A	ライノール	Raynor	speaker
+feev03_01.0518	そこまで自分を責めずともいい……。{wait}{clear}なにかあったなら私に知らせてくれ、フェイン。{n}それが今、ギルドの一員としての{n}お前のつとめだ……。{wait}{clear}	You needn't blame yourself so much...{wait}{clear}If anything happens, let me know, Fein. That{n}is your duty now as a member of the Guild...{wait}{clear}	
 feev03_01.05A4	フェイン	Fein	speaker
 feev03_01.05B0	わかりました……。{wait}{clear}	I understand...{wait}{clear}	
-feev03_01.05C6	ライノール		speaker
-feev03_01.05D4	それから……{n}お前とともにある存在を私は感じる……。{n}今までに一度も感じたことのないものだ……。{wait}{clear}お前はそれに気づいているのか？{wait}{clear}		
+feev03_01.05C6	ライノール	Raynor	speaker
+feev03_01.05D4	それから……{n}お前とともにある存在を私は感じる……。{n}今までに一度も感じたことのないものだ……。{wait}{clear}お前はそれに気づいているのか？{wait}{clear}	And also... I sense a presence with you...{n}Something I have never felt before...{wait}{clear}Are you aware of it?{wait}{clear}	
 feev03_01.065A	フェイン	Fein	speaker
-feev03_01.0666	はい……わかっています。{n}ただ、それは特別な存在です……。{wait}{clear}老師にもお話しできる日が{n}いつか来るかもしれません。{wait}{clear}		
-feev03_01.06DC	ライノール		speaker
-feev03_01.06EA	ふむ……そうか。{n}それは、楽しみにしていよう。{wait}{clear}		
+feev03_01.0666	はい……わかっています。{n}ただ、それは特別な存在です……。{wait}{clear}老師にもお話しできる日が{n}いつか来るかもしれません。{wait}{clear}	Yes... I know. But it is a special{n}presence...{wait}{clear}The day may come when I can tell you about{n}it too, Elder.{wait}{clear}	
+feev03_01.06DC	ライノール	Raynor	speaker
+feev03_01.06EA	ふむ……そうか。{n}それは、楽しみにしていよう。{wait}{clear}	Hmm... I see. Then I shall look forward to{n}it.{wait}{clear}	
 feev03_01.0742	フェイン	Fein	speaker
-feev03_01.074E	＄＄＄＄＄＄、いるのだろう？{wait}{clear}		
+feev03_01.074E	＄＄＄＄＄＄、いるのだろう？{wait}{clear}	＄＄＄＄＄＄, you're there, aren't you?{wait}{clear}	
 feev03_01.076E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_01.077E	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev03_01.0788	フェイン	Fein	speaker
-feev03_01.0794	グランドマスターには見抜かれたな。{wait}{clear}		
+feev03_01.0794	グランドマスターには見抜かれたな。{wait}{clear}	The Grand Master saw right through it.{wait}{clear}	
 feev03_01.07BA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.07CA	ええ、そうですね。{wait}{clear}私たちの存在は決して普通の人には{n}感じられないはずなのですが、{n}とても強い力をもっておられるようですね。{wait}{clear}		
+feev03_01.07CA	ええ、そうですね。{wait}{clear}私たちの存在は決して普通の人には{n}感じられないはずなのですが、{n}とても強い力をもっておられるようですね。{wait}{clear}	Yes, he did.{wait}{clear}Ordinary people should never be able to{n}sense beings like us, but he seems to have a{n}very strong power.{wait}{clear}	
 feev03_01.084C	フェイン	Fein	speaker
-feev03_01.0858	老師は目はあのとおりだが、{n}なにが起きているのか、そしてなにが真実かを{n}見抜く力は誰よりも持っている。{wait}{clear}だからこそ、ギルドの頂点に立てる人物なのだがな。{wait}{clear}		
+feev03_01.0858	老師は目はあのとおりだが、{n}なにが起きているのか、そしてなにが真実かを{n}見抜く力は誰よりも持っている。{wait}{clear}だからこそ、ギルドの頂点に立てる人物なのだがな。{wait}{clear}	The Elder's eyes are as you saw, but he has{n}a greater power than anyone to see what's{n}happening, and what's true.{wait}{clear}That's exactly why he can stand at the top{n}of the Guild.{wait}{clear}	
 feev03_01.091E	フェイン	Fein	speaker
-feev03_01.092A	それに、老師は俺の師である{n}ジグの兄弟子にあたる人で{n}昔からよく世話になっている……。{wait}{clear}		
+feev03_01.092A	それに、老師は俺の師である{n}ジグの兄弟子にあたる人で{n}昔からよく世話になっている……。{wait}{clear}	Besides, the Elder was my master Zig's{n}senior apprentice, and he's looked after me{n}for a long time...{wait}{clear}	
 feev03_01.0988	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0998	あの、フェイン……{n}ジグとはどんな方なのですか？{wait}{clear}		
+feev03_01.0998	あの、フェイン……{n}ジグとはどんな方なのですか？{wait}{clear}	Um, Fein... what sort of person was Zig?{wait}{clear}	
 feev03_01.09CC	フェイン	Fein	speaker
-feev03_01.09D8	ああ……{n}多くの人に尊敬されていた大魔導士だった。{wait}{clear}グランドマスターにも推されたことがあったが、{n}本人は魔導の研究を優先するために断ったのだ。{wait}{clear}だが、数年前に亡くなってしまった……。{wait}{clear}		
+feev03_01.09D8	ああ……{n}多くの人に尊敬されていた大魔導士だった。{wait}{clear}グランドマスターにも推されたことがあったが、{n}本人は魔導の研究を優先するために断ったのだ。{wait}{clear}だが、数年前に亡くなってしまった……。{wait}{clear}	Ah... he was a great mage, respected by many{n}people.{wait}{clear}He was even recommended for Grand Master{n}once, but he turned it down to put his{n}magical research first.{wait}{clear}But he died a few years ago...{wait}{clear}	
 feev03_01.0A96	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0AA6	すみません、つらいことを聞いてしまって……。{wait}{clear}		
+feev03_01.0AA6	すみません、つらいことを聞いてしまって……。{wait}{clear}	I'm sorry, I asked about something{n}painful...{wait}{clear}	
 feev03_01.0AD6	フェイン	Fein	speaker
-feev03_01.0AE2	いや、気にするな。{n}ジグの話はまたいつか詳しく話そう。{wait}{clear}		
+feev03_01.0AE2	いや、気にするな。{n}ジグの話はまたいつか詳しく話そう。{wait}{clear}	No, don't worry about it. I'll tell you{n}about Zig in detail someday.{wait}{clear}	
 feev03_01.0B1C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0B2C	あの、聞きたいことがあるのですが、{n}いいですか？{wait}{clear}		
+feev03_01.0B2C	あの、聞きたいことがあるのですが、{n}いいですか？{wait}{clear}	Um, there's something I'd like to ask. Is{n}that all right?{wait}{clear}	
 feev03_01.0B60	フェイン	Fein	speaker
-feev03_01.0B6C	ああ、なんだ？{wait}{clear}		
+feev03_01.0B6C	ああ、なんだ？{wait}{clear}	Sure, what is it?{wait}{clear}	
 feev03_01.0B7E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0B8E	グランドマスターがおっしゃった、{n}セレニスとは……{wait}{clear}		
+feev03_01.0B8E	グランドマスターがおっしゃった、{n}セレニスとは……{wait}{clear}	The Serenis the Grand Master mentioned...{wait}{clear}	
 feev03_01.0BD0	フェイン	Fein	speaker
-feev03_01.0BDC	悪いが、その話には今はこたえたくない。{wait}{clear}いつか……話せるときがきたら話す……。{wait}{clear}		
+feev03_01.0BDC	悪いが、その話には今はこたえたくない。{wait}{clear}いつか……話せるときがきたら話す……。{wait}{clear}	Sorry, but I don't want to answer that right{n}now.{wait}{clear}Someday... when I can talk about it, I{n}will...{wait}{clear}	
 feev03_01.0C30	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0C40	わかりました……。{n}フェインが話したくないことを{n}無理には聞きませんから……。{wait}{clear}		
+feev03_01.0C40	わかりました……。{n}フェインが話したくないことを{n}無理には聞きませんから……。{wait}{clear}	I understand... I won't force you to talk{n}about things you don't want to, Fein...{wait}{clear}	
 feev03_01.0C9E	フェイン	Fein	speaker
-feev03_01.0CAA	それにしても、{n}ギルドは帝国の動きに敏感になっているようだ。{wait}{clear}俺も君とともに世界の様子を見てきているが、{n}君の言う通り、なにかがこの世界を{n}混乱に陥れようとしているのかもしれない……。{wait}{clear}それがなんなのか早くつきとめなくてはな。{wait}{clear}		
+feev03_01.0CAA	それにしても、{n}ギルドは帝国の動きに敏感になっているようだ。{wait}{clear}俺も君とともに世界の様子を見てきているが、{n}君の言う通り、なにかがこの世界を{n}混乱に陥れようとしているのかもしれない……。{wait}{clear}それがなんなのか早くつきとめなくてはな。{wait}{clear}	Still, the Guild seems to be on edge about{n}the Empire's movements.{wait}{clear}I've been watching the state of the world{n}with you too, and as you said, something may{n}be trying to throw this world into chaos...{wait}{clear}We need to find out what it is, and soon.{wait}{clear}	
 feev03_01.0D94	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0DA4	はい、そうですね……。{wait}{clear}		
+feev03_01.0DA4	はい、そうですね……。{wait}{clear}	Yes, you're right...{wait}{clear}	
 feev03_01.0DBE	フェイン	Fein	speaker
-feev03_01.0DCA	あ、あと、老師にはあんなふうに言ってしまったが、{n}君のことは、あまりおおっぴらに{n}話さない方がいいのだろう？{wait}{clear}		
+feev03_01.0DCA	あ、あと、老師にはあんなふうに言ってしまったが、{n}君のことは、あまりおおっぴらに{n}話さない方がいいのだろう？{wait}{clear}	Oh, and I said that much to the Elder, but{n}it's probably better not to talk about you{n}too openly, right?{wait}{clear}	
 feev03_01.0E3A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_01.0E4A	いえ、フェインが話したいと思えば、{n}話してもかまいません。{wait}{clear}ただ、私自身がたくさんの普通の人々の前で{n}姿を見せることはできませんけれど。{wait}{clear}		
+feev03_01.0E4A	いえ、フェインが話したいと思えば、{n}話してもかまいません。{wait}{clear}ただ、私自身がたくさんの普通の人々の前で{n}姿を見せることはできませんけれど。{wait}{clear}	No, if you want to tell someone, Fein, you{n}may.{wait}{clear}Though I can't show myself in front of many{n}ordinary people.{wait}{clear}	
 feev03_01.0ED8	フェイン	Fein	speaker
-feev03_01.0EE4	そうか……。{n}じゃあ、いつか話せる機会があれば、{n}老師には君のことを話したい……。{wait}{clear}いつかな……。{wait}{clear}		
+feev03_01.0EE4	そうか……。{n}じゃあ、いつか話せる機会があれば、{n}老師には君のことを話したい……。{wait}{clear}いつかな……。{wait}{clear}	I see... Then if I ever get the chance, I'd{n}like to tell the Elder about you...{wait}{clear}Someday...{wait}{clear}	

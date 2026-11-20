@@ -1,47 +1,47 @@
 id	jp	en	notes
 eiev23_03.004C	アイリーン	Irene	speaker
-eiev23_03.005A	あ、＄＄＄＄＄＄……来てくれたんだ……。{wait}{clear}		
+eiev23_03.005A	あ、＄＄＄＄＄＄……来てくれたんだ……。{wait}{clear}	Oh, ＄＄＄＄＄＄... you came...{wait}{clear}	
 eiev23_03.0086	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.0096	少しは気持ちが落ち着きましたか？{wait}{clear}		
+eiev23_03.0096	少しは気持ちが落ち着きましたか？{wait}{clear}	Do you feel a little calmer now?{wait}{clear}	
 eiev23_03.00BA	アイリーン	Irene	speaker
 eiev23_03.00C8	うん……。{wait}{clear}	Well...{wait}{clear}	
 eiev23_03.00D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.00E6	どうしたのですか？　アイリーン？{wait}{clear}		
+eiev23_03.00E6	どうしたのですか？　アイリーン？{wait}{clear}	What's wrong, Irene?{wait}{clear}	
 eiev23_03.010A	アイリーン	Irene	speaker
-eiev23_03.0118	いろいろ考えたの。{n}あれから、ずっと……。{wait}{clear}でも……やっぱり、すべてを受け止められない。{wait}{clear}だから……私、勇者をやめたい……。{n}それをあなたに伝えようと思って……。{wait}{clear}		
+eiev23_03.0118	いろいろ考えたの。{n}あれから、ずっと……。{wait}{clear}でも……やっぱり、すべてを受け止められない。{wait}{clear}だから……私、勇者をやめたい……。{n}それをあなたに伝えようと思って……。{wait}{clear}	I've been thinking about a lot of things.{n}The whole time since then...{wait}{clear}But... I still can't accept all of it.{wait}{clear}So... I want to quit being a hero... I{n}wanted to tell you that...{wait}{clear}	
 eiev23_03.01C2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.01D2	アイリーン……。{wait}{clear}	Irene...{wait}{clear}	
 eiev23_03.01E6	アイリーン	Irene	speaker
-eiev23_03.01F4	だって、私、{n}大切な人を助けることができなかったんだよ。{wait}{clear}それなのに勇者だなんて……{n}やっぱり、おかしいよ……。{wait}{clear}		
+eiev23_03.01F4	だって、私、{n}大切な人を助けることができなかったんだよ。{wait}{clear}それなのに勇者だなんて……{n}やっぱり、おかしいよ……。{wait}{clear}	I mean, I couldn't save the people who{n}mattered to me.{wait}{clear}And yet I'm supposed to be a hero... It's{n}just wrong...{wait}{clear}	
 eiev23_03.026A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.027A	アイリーン、またここに閉じこもるのですか？{n}それで、なにかが変わると思っているのですか？{wait}{clear}		
+eiev23_03.027A	アイリーン、またここに閉じこもるのですか？{n}それで、なにかが変わると思っているのですか？{wait}{clear}	Irene, are you going to shut yourself away{n}in here again? Do you think that will change{n}anything?{wait}{clear}	
 eiev23_03.02D6	アイリーン	Irene	speaker
 eiev23_03.02E4	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.02F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.0302	大切な人を失った悲しみは、私にもよくわかります。{wait}{clear}私だって、アイリーンと同じ気持ちです。{n}この地上界を守護するためにやってきているのに、{n}フェインを救えなかったのですから……。{wait}{clear}		
+eiev23_03.0302	大切な人を失った悲しみは、私にもよくわかります。{wait}{clear}私だって、アイリーンと同じ気持ちです。{n}この地上界を守護するためにやってきているのに、{n}フェインを救えなかったのですから……。{wait}{clear}	I understand the grief of losing someone{n}dear very well.{wait}{clear}I feel the same as you, Irene. I came here{n}to protect this world, and still I couldn't{n}save Fein...{wait}{clear}	
 eiev23_03.03B8	アイリーン	Irene	speaker
 eiev23_03.03C6	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.03D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.03E4	私も、あなたたちに戦ってもらうのは、{n}とてもつらい……。{wait}{clear}ですが、あなたたち勇者は{n}世界のすべての希望であり、未来なのです。{wait}{clear}すべてがなくなってしまう前に、{n}すべてが悪の手に落ちる前に{n}もう少しだけ、一緒に戦ってくれませんか？{wait}{clear}フェインのためにも……。{wait}{clear}		
+eiev23_03.03E4	私も、あなたたちに戦ってもらうのは、{n}とてもつらい……。{wait}{clear}ですが、あなたたち勇者は{n}世界のすべての希望であり、未来なのです。{wait}{clear}すべてがなくなってしまう前に、{n}すべてが悪の手に落ちる前に{n}もう少しだけ、一緒に戦ってくれませんか？{wait}{clear}フェインのためにも……。{wait}{clear}	It pains me deeply to make you all fight,{n}too...{wait}{clear}But you heroes are all the hope this world{n}has, and its future.{wait}{clear}Before everything is lost, before it all{n}falls into evil hands, won't you fight with{n}me a little longer?{wait}{clear}For Fein's sake, too...{wait}{clear}	
 eiev23_03.04EA	アイリーン	Irene	speaker
 eiev23_03.04F8	＄＄＄＄＄＄……。{wait}{clear}	＄＄＄＄＄＄...{wait}{clear}	
 eiev23_03.050E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.051E	…………。{wait}{clear}	.........{wait}{clear}	
 eiev23_03.052C	アイリーン	Irene	speaker
-eiev23_03.053A	そうだよね……{n}おじいちゃんも、おねえちゃんも、フェインも……{n}みんな、もういない……。{wait}{clear}でも、私と同じように大切な人を失った人って、{n}この世界にはたくさんいるよね……。{wait}{clear}ただ、なにもできないんだよね……{n}勇者って呼ばれる私たち以外は……。{wait}{clear}		
+eiev23_03.053A	そうだよね……{n}おじいちゃんも、おねえちゃんも、フェインも……{n}みんな、もういない……。{wait}{clear}でも、私と同じように大切な人を失った人って、{n}この世界にはたくさんいるよね……。{wait}{clear}ただ、なにもできないんだよね……{n}勇者って呼ばれる私たち以外は……。{wait}{clear}	You're right... Grandpa, my sister, Fein...{n}they're all gone now...{wait}{clear}But there are lots of people in this world{n}who lost someone dear, just like me...{wait}{clear}And they can't do anything about it...{n}except for us, the ones called heroes...{wait}{clear}	
 eiev23_03.0632	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.0642	ええ、そうです……。{wait}{clear}		
+eiev23_03.0642	ええ、そうです……。{wait}{clear}	Yes, that's right...{wait}{clear}	
 eiev23_03.065A	アイリーン	Irene	speaker
-eiev23_03.0668	私は、＄＄＄＄＄＄と一緒に戦えるんだもんね。{n}まだ、天竜と悪魔を倒すことができるんだよね。{wait}{clear}		
+eiev23_03.0668	私は、＄＄＄＄＄＄と一緒に戦えるんだもんね。{n}まだ、天竜と悪魔を倒すことができるんだよね。{wait}{clear}	I can fight together with you, ＄＄＄＄＄＄.{n}We can still defeat the Heavenly Dragon and{n}the devils.{wait}{clear}	
 eiev23_03.06C6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev23_03.06D6	ええ。{wait}{clear}	Of course.{wait}{clear}	
 eiev23_03.06EC	アイリーン	Irene	speaker
-eiev23_03.06FA	わかった……。{n}戦うよ、私、最後まで。{wait}{clear}もう、誰も失いたくないから……。{n}一緒にいてくれる、＄＄＄＄＄＄？{wait}{clear}		
+eiev23_03.06FA	わかった……。{n}戦うよ、私、最後まで。{wait}{clear}もう、誰も失いたくないから……。{n}一緒にいてくれる、＄＄＄＄＄＄？{wait}{clear}	All right... I'll fight. Right to the end.{wait}{clear}Because I don't want to lose anyone else...{n}Will you stay with me, ＄＄＄＄＄＄?{wait}{clear}	
 eiev23_03.076A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.077A	ええ、もちろんです。{wait}{clear}		
+eiev23_03.077A	ええ、もちろんです。{wait}{clear}	Yes, of course.{wait}{clear}	
 eiev23_03.0792	アイリーン	Irene	speaker
-eiev23_03.07A0	ごめんね……今まで話もしないで心配かけて。{n}もう、大丈夫。{n}また、がんばるから。{wait}{clear}		
+eiev23_03.07A0	ごめんね……今まで話もしないで心配かけて。{n}もう、大丈夫。{n}また、がんばるから。{wait}{clear}	I'm sorry... for not talking to you and{n}making you worry. I'm okay now. I'll do my{n}best again.{wait}{clear}	
 eiev23_03.07F4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev23_03.0804	一緒にがんばりましょうね、アイリーン。{wait}{clear}		
+eiev23_03.0804	一緒にがんばりましょうね、アイリーン。{wait}{clear}	Let's do our best together, Irene.{wait}{clear}	
 eiev23_03.083A	アイリーン	Irene	speaker
-eiev23_03.0848	うん。{wait}{clear}		
+eiev23_03.0848	うん。{wait}{clear}	Yeah.{wait}{clear}	

@@ -29,7 +29,7 @@ loev25.03BE	さようなら、ルディ。{wait}{clear}
 loev25.03FE	ルディエール	Rudiere	speaker
 loev25.0412	帰るのか？{wait}{clear}		
 loev25.0420	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-loev25.0430	はい……{wait}{clear}でも必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}		
+loev25.0430	はい……{wait}{clear}でも必ずここに……{n}あなたのもとに戻ってきます。{wait}{clear}	Yes...{wait}{clear}But I will come back here without fail...{n}back to you.{wait}{clear}	
 loev25.0470	ルディエール	Rudiere	speaker
 loev25.0484	戻ってきたら……{wait}{clear}		
 loev25.049C	すぐに式をあげよう……{wait}{clear}		

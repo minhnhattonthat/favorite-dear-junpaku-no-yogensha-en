@@ -1,43 +1,43 @@
 id	jp	en	notes
 feev03_03.004C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_03.005C	フェイン、またグランドマスターのところへ{n}行くのですか？{wait}{clear}		
+feev03_03.005C	フェイン、またグランドマスターのところへ{n}行くのですか？{wait}{clear}	Fein, are you going to see the Grand Master{n}again?{wait}{clear}	
 feev03_03.0098	フェイン	Fein	speaker
-feev03_03.00A4	ああ。{n}ここまで来て、顔を出さないというのも{n}おかしいだろう？{wait}{clear}行ってくる。{wait}{clear}		
-feev03_03.0122	ライノール		speaker
-feev03_03.0130	フェインか……。{n}なにか、大きな動きでもあったのか？{wait}{clear}		
+feev03_03.00A4	ああ。{n}ここまで来て、顔を出さないというのも{n}おかしいだろう？{wait}{clear}行ってくる。{wait}{clear}	Yeah. It'd be strange to come all this way{n}and not show my face, right?{wait}{clear}I'll be back.{wait}{clear}	
+feev03_03.0122	ライノール	Raynor	speaker
+feev03_03.0130	フェインか……。{n}なにか、大きな動きでもあったのか？{wait}{clear}	Fein... Has something big happened?{wait}{clear}	
 feev03_03.0168	フェイン	Fein	speaker
-feev03_03.0174	いえ、そんなに大きなことは起こっていません。{n}ただ、老師が心配しているとおり、{n}混乱はそこかしこで起こっているようです。{wait}{clear}そのすべてが大きな厄災の予兆とは思いませんが、{n}帝国の動きが活発なようで気になります……。{wait}{clear}		
-feev03_03.024E	ライノール		speaker
-feev03_03.025C	そうか……。{n}ここにも最近はいろいろな情報が届く。{wait}{clear}その中にはとても巨大な厄災の予言もある。{n}予言者たちが感じている巨大な影の存在……。{wait}{clear}だが、具体的になにかはわからん……。{n}残念ながらな。{wait}{clear}		
-feev03_03.032A	ライノール		speaker
-feev03_03.0338	だが、念のため、{n}レフカスから魔石をここへ運んできた。{wait}{clear}		
+feev03_03.0174	いえ、そんなに大きなことは起こっていません。{n}ただ、老師が心配しているとおり、{n}混乱はそこかしこで起こっているようです。{wait}{clear}そのすべてが大きな厄災の予兆とは思いませんが、{n}帝国の動きが活発なようで気になります……。{wait}{clear}	No, nothing that big has happened. But just{n}as you feared, Elder, turmoil seems to be{n}breaking out here and there.{wait}{clear}I don't think all of it is a portent of some{n}great calamity, but the Empire seems to be{n}growing active, and that worries me...{wait}{clear}	
+feev03_03.024E	ライノール	Raynor	speaker
+feev03_03.025C	そうか……。{n}ここにも最近はいろいろな情報が届く。{wait}{clear}その中にはとても巨大な厄災の予言もある。{n}予言者たちが感じている巨大な影の存在……。{wait}{clear}だが、具体的になにかはわからん……。{n}残念ながらな。{wait}{clear}	I see... All sorts of reports have been{n}reaching us here lately, too.{wait}{clear}Among them are prophecies of a truly{n}enormous calamity. The presence of a vast{n}shadow that the prophets sense...{wait}{clear}But what exactly it is, we don't know...{n}Regrettably.{wait}{clear}	
+feev03_03.032A	ライノール	Raynor	speaker
+feev03_03.0338	だが、念のため、{n}レフカスから魔石をここへ運んできた。{wait}{clear}	Still, as a precaution, I had the Demon{n}Stone brought here from Lefkas.{wait}{clear}	
 feev03_03.0372	フェイン	Fein	speaker
-feev03_03.037E	え？{n}それは、先代のグランドマスターが{n}ゼルン候からゆずり受けたというあの石ですか？{wait}{clear}		
-feev03_03.03D6	ライノール		speaker
-feev03_03.03E4	ああ、そうだ。{n}あの石が本当に伝説の魔石であるかどうかは{n}わかっていないが……。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}		
+feev03_03.037E	え？{n}それは、先代のグランドマスターが{n}ゼルン候からゆずり受けたというあの石ですか？{wait}{clear}	What? You mean the stone the previous Grand{n}Master received from Marquis Zern?{wait}{clear}	
+feev03_03.03D6	ライノール	Raynor	speaker
+feev03_03.03E4	ああ、そうだ。{n}あの石が本当に伝説の魔石であるかどうかは{n}わかっていないが……。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}	Yes, that's the one. Whether that stone is{n}truly the legendary Demon Stone, we don't{n}know...{wait}{clear}As you, Zig's apprentice, know very well.{wait}{clear}But... we cannot ignore the words of the{n}prophets.{wait}{clear}	
 feev03_03.04B4	フェイン	Fein	speaker
-feev03_03.04C0	はい……そうですね……。{wait}{clear}		
+feev03_03.04C0	はい……そうですね……。{wait}{clear}	Yes... you're right...{wait}{clear}	
 feev03_03.04E0	フェイン	Fein	speaker
-feev03_03.04EC	レフカスから魔石をこちらに運んだそうですね……。{wait}{clear}		
-feev03_03.0520	ライノール		speaker
-feev03_03.052E	ああ……念のためだ。{wait}{clear}石がここから奪われることはないだろうからな。{wait}{clear}あの石が本当に伝説の魔石であるかどうかは{n}わかっていない。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}		
+feev03_03.04EC	レフカスから魔石をこちらに運んだそうですね……。{wait}{clear}	I heard you had the Demon Stone brought here{n}from Lefkas...{wait}{clear}	
+feev03_03.0520	ライノール	Raynor	speaker
+feev03_03.052E	ああ……念のためだ。{wait}{clear}石がここから奪われることはないだろうからな。{wait}{clear}あの石が本当に伝説の魔石であるかどうかは{n}わかっていない。{wait}{clear}それはジグの弟子であるお前なら{n}よく知っているとおりだ。{wait}{clear}だがな……{n}予言者たちの言葉を無視するわけにはいかないのだ。{wait}{clear}	Yes... as a precaution.{wait}{clear}No one is likely to steal the stone from{n}here.{wait}{clear}Whether that stone is truly the legendary{n}Demon Stone, we don't know.{wait}{clear}As you, Zig's apprentice, know very well.{wait}{clear}But... we cannot ignore the words of the{n}prophets.{wait}{clear}	
 feev03_03.0630	フェイン	Fein	speaker
 feev03_03.063C	わかりました。{wait}{clear}	All right.{wait}{clear}	
-feev03_03.064E	ライノール		speaker
-feev03_03.065C	私は、この世界の起きていることを{n}むやみに心配はしていない。{wait}{clear}ただ、ロッジの……{n}我々魔導士の安全を慎重に考えているのだ。{wait}{clear}		
+feev03_03.064E	ライノール	Raynor	speaker
+feev03_03.065C	私は、この世界の起きていることを{n}むやみに心配はしていない。{wait}{clear}ただ、ロッジの……{n}我々魔導士の安全を慎重に考えているのだ。{wait}{clear}	I am not needlessly worried about what{n}happens in this world.{wait}{clear}I am simply giving careful thought to the{n}safety of the lodges... of us mages.{wait}{clear}	
 feev03_03.06DC	フェイン	Fein	speaker
 feev03_03.06E8	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev03_03.0726	フェイン	Fein	speaker
-feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}		
+feev03_03.0732	＄＄＄＄＄＄、聞きたいことがある。{wait}{clear}	＄＄＄＄＄＄, there's something I want to{n}ask.{wait}{clear}	
 feev03_03.0758	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_03.0768	はい、なんですか？{wait}{clear}		
+feev03_03.0768	はい、なんですか？{wait}{clear}	Yes, what is it?{wait}{clear}	
 feev03_03.077E	フェイン	Fein	speaker
-feev03_03.078A	帝国の動き、{n}いや……世界の混乱の理由についてだ。{n}なにか君の知っていることはないか？{wait}{clear}		
+feev03_03.078A	帝国の動き、{n}いや……世界の混乱の理由についてだ。{n}なにか君の知っていることはないか？{wait}{clear}	About the Empire's movements... no, the{n}reason for the world's turmoil. Is there{n}anything you know?{wait}{clear}	
 feev03_03.07E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_03.07F4	いいえ、特には……。{wait}{clear}		
+feev03_03.07F4	いいえ、特には……。{wait}{clear}	No, nothing in particular...{wait}{clear}	
 feev03_03.080C	フェイン	Fein	speaker
-feev03_03.0818	そうか……。{n}なにかわかったら俺に教えてくれないか。{wait}{clear}俺はギルドを守らなくてはならない。{wait}{clear}君のいう世界の混乱、いや俺も見てきた混乱によって{n}ギルドが犯されるのは防ぎたい。{n}なんとしても。{wait}{clear}		
+feev03_03.0818	そうか……。{n}なにかわかったら俺に教えてくれないか。{wait}{clear}俺はギルドを守らなくてはならない。{wait}{clear}君のいう世界の混乱、いや俺も見てきた混乱によって{n}ギルドが犯されるのは防ぎたい。{n}なんとしても。{wait}{clear}	I see... If you learn anything, will you{n}tell me?{wait}{clear}I have to protect the Guild.{wait}{clear}I want to keep the Guild from being violated{n}by the turmoil you speak of... the turmoil{n}I've seen, too. Whatever it takes.{wait}{clear}	
 feev03_03.08DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_03.08EA	はい、わかりました。{n}できるだけ、フェインに協力します。{wait}{clear}		
+feev03_03.08EA	はい、わかりました。{n}できるだけ、フェインに協力します。{wait}{clear}	Yes, I understand. I'll help you as much as{n}I can, Fein.{wait}{clear}	
 feev03_03.0926	フェイン	Fein	speaker
-feev03_03.0932	すまないな……。{wait}{clear}		
+feev03_03.0932	すまないな……。{wait}{clear}	Thank you...{wait}{clear}	

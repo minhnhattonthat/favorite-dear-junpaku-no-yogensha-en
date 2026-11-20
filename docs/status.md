@@ -15,6 +15,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   2026-11-21 (2nd worker): b009-b013 merged, build + check.py green, `warp.py --event eiev12.ssb --event
   eiev13_02.ssb` both OK with English (`work/qa/warp/ev_eiev1*`). Glossary gained Vesta (Irene's owl), Alkmaar,
   Grosain, Six Kingdoms, Master (tag), and batch rulings (chapter labels, gendered variants, five-＄ rows).
+  2026-11-21 (3rd worker): **b014-b018** done (Irene eiev18-Eiev29 ending, preview-version exam_01-07 with Florinda/Lynx,
+  Fein Feed01, Feev01-Feev14; b018 ends at Feev14.0244). Build + check.py green; `warp.py --event feev02_01.ssb --event
+  feev07_01.ssb --cue <abs>/build/fd2_en.cue` both OK with English (`work/qa/warp/ev_feev0*`). Glossary gained Raynor
+  (Grand Master, "Elder"), Lehan, Zern, Raviel, Lynx, Basel, Lefkas, Warlock, Black Mage; "Guild" now capitalised
+  everywhere, ディアナ様 = "Diana-sama" (b005 fixed).
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -29,7 +34,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b014 (`batches.py todo`; eiev18 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b019 (`batches.py todo`; Feev14 continues there). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

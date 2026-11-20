@@ -1,0 +1,78 @@
+id	en
+feev02_02.028E	Who is this Zig that came up when you were talking with Master Lehan?{wait}{clear}
+feev02_02.02DA	Ah... Zig...{wait}{clear}Zig was the name of my master. He was respected by many people.{wait}{clear}He was even recommended for Grand Master once. But he turned it down to put his magical research first.{wait}{clear}And... he died a few years ago...{wait}{clear}
+feev02_02.03DA	...I'm sorry, I asked about something painful...{wait}{clear}
+feev02_02.041A	No, it's fine... It's all in the past now... ＄＄＄＄＄＄, I'll tell you about Zig in detail someday.{wait}{clear}
+Feev02_03.0090	Yes, Fein, what is it?{wait}{clear}
+Feev02_03.00BC	There's a Guild lodge near here too. I want to stop by. Will you come with me?{wait}{clear}
+Feev02_03.0112	Yes, please let me come along.{wait}{clear}
+Feev02_03.013E	All right, then let's go.{wait}{clear}
+Feev02_03.01A0	Fein, are you all right?{wait}{clear}
+Feev02_03.01D8	Oh, yeah, ＄＄＄＄＄＄.{wait}{clear}
+Feev02_03.0204	What's the matter? Are you bothered by the Master's prophecy just now?{wait}{clear}
+Feev02_03.0268	Ah... no, don't worry about it.{wait}{clear}More importantly, what is it? Something else you want to ask?{wait}{clear}
+Feev02_03.02D6	Yes. Um, what sort of person is the Grand Master?{wait}{clear}
+Feev02_03.0324	Ah, the Grand Master. The Grand Master is the one who stands at the top of the Guild.{wait}{clear}Right now, a mage named Raynor holds that position.{wait}{clear}Raynor was my master Zig's senior apprentice, and he's done a lot for me too.{wait}{clear}
+Feev02_03.0438	He resides at the lodge called the Grand Lodge, in Alkmaar in Basel.{wait}{clear}I plan to stop by when we're nearby. Once you meet him, ＄＄＄＄＄＄, you'll see what kind of man stands at the top of all mages.{wait}{clear}
+Feev02_03.052C	Then when we go to Basel, let's be sure to visit Alkmaar.{wait}{clear}
+Feev02_03.0580	Yeah.{wait}{clear}
+feev03_01.0052	So this is Alkmaar, in Basel.{wait}{clear}
+feev03_01.009A	Yeah, the Grand Lodge is here. I'd like to stop by. Do you mind?{wait}{clear}
+feev03_01.011A	Then let's go. To see the Grand Master...{wait}{clear}
+feev03_01.0184	So you've come back... I've been waiting for you, Fein.{wait}{clear}
+feev03_01.01C0	Grand Master Raynor, I'm glad to see you looking well.{wait}{clear}
+feev03_01.01FA	Raynor
+feev03_01.0208	I heard all sorts of stories, and I was worried.{wait}{clear}
+feev03_01.0240	I'm sorry to have worried you.{wait}{clear}
+feev03_01.0278	No, there's no need to apologize. You're safe, and we can meet like this.{wait}{clear}But, Fein... I understand why you're so fixated on Zig and Serenis.{wait}{clear}But if you stay a prisoner of that past, you'll close off your own future. You understand that, don't you?{wait}{clear}
+feev03_01.0374	No... for me, that is not in the past yet.{wait}{clear}
+feev03_01.03C0	Stubborn man... You're just like Zig in that respect...{wait}{clear}What weighs on you is Serenis, I suppose, but what weighs on the Guild is the Empire, and the movements of mages of unknown origin.{wait}{clear}You may think me cold, but this too is for everyone's sake...{wait}{clear}
+feev03_01.04BA	Yes... I understand that. What I'm doing is the selfish thing.{wait}{clear}
+feev03_01.0518	You needn't blame yourself so much...{wait}{clear}If anything happens, let me know, Fein. That is your duty now as a member of the Guild...{wait}{clear}
+feev03_01.05D4	And also... I sense a presence with you... Something I have never felt before...{wait}{clear}Are you aware of it?{wait}{clear}
+feev03_01.0666	Yes... I know. But it is a special presence...{wait}{clear}The day may come when I can tell you about it too, Elder.{wait}{clear}
+feev03_01.06EA	Hmm... I see. Then I shall look forward to it.{wait}{clear}
+feev03_01.074E	＄＄＄＄＄＄, you're there, aren't you?{wait}{clear}
+feev03_01.0794	The Grand Master saw right through it.{wait}{clear}
+feev03_01.07CA	Yes, he did.{wait}{clear}Ordinary people should never be able to sense beings like us, but he seems to have a very strong power.{wait}{clear}
+feev03_01.0858	The Elder's eyes are as you saw, but he has a greater power than anyone to see what's happening, and what's true.{wait}{clear}That's exactly why he can stand at the top of the Guild.{wait}{clear}
+feev03_01.092A	Besides, the Elder was my master Zig's senior apprentice, and he's looked after me for a long time...{wait}{clear}
+feev03_01.0998	Um, Fein... what sort of person was Zig?{wait}{clear}
+feev03_01.09D8	Ah... he was a great mage, respected by many people.{wait}{clear}He was even recommended for Grand Master once, but he turned it down to put his magical research first.{wait}{clear}But he died a few years ago...{wait}{clear}
+feev03_01.0AA6	I'm sorry, I asked about something painful...{wait}{clear}
+feev03_01.0AE2	No, don't worry about it. I'll tell you about Zig in detail someday.{wait}{clear}
+feev03_01.0B2C	Um, there's something I'd like to ask. Is that all right?{wait}{clear}
+feev03_01.0B8E	The Serenis the Grand Master mentioned...{wait}{clear}
+feev03_01.0BDC	Sorry, but I don't want to answer that right now.{wait}{clear}Someday... when I can talk about it, I will...{wait}{clear}
+feev03_01.0C40	I understand... I won't force you to talk about things you don't want to, Fein...{wait}{clear}
+feev03_01.0CAA	Still, the Guild seems to be on edge about the Empire's movements.{wait}{clear}I've been watching the state of the world with you too, and as you said, something may be trying to throw this world into chaos...{wait}{clear}We need to find out what it is, and soon.{wait}{clear}
+feev03_01.0DA4	Yes, you're right...{wait}{clear}
+feev03_01.0DCA	Oh, and I said that much to the Elder, but it's probably better not to talk about you too openly, right?{wait}{clear}
+feev03_01.0E4A	No, if you want to tell someone, Fein, you may.{wait}{clear}Though I can't show myself in front of many ordinary people.{wait}{clear}
+feev03_01.0EE4	I see... Then if I ever get the chance, I'd like to tell the Elder about you...{wait}{clear}Someday...{wait}{clear}
+feev03_02.005A	Are you there, ＄＄＄＄＄＄?{wait}{clear}
+feev03_02.009E	Since we came all the way to Alkmaar, you don't mind if I show my face at the Grand Lodge, right?{wait}{clear}
+feev03_02.0100	Yes, that's fine. But, Fein, there's something I'd like to ask you. May I?{wait}{clear}
+feev03_02.016E	Ha ha ha... You really are full of questions.{wait}{clear}
+feev03_02.01AC	I'm sorry... I just want to learn all kinds of things about this world.{wait}{clear}Um, Alkmaar is a big city too, and the Six Kingdoms Alliance seems very developed. And there seem to be lots of Guild lodges...{wait}{clear}So I thought there might be some connection.{wait}{clear}
+feev03_02.02C0	You really do see what's worth seeing. Just as you think, this country and the Guild are deeply connected.{wait}{clear}The Six Kingdoms Alliance uses the Guild's power in its politics, and in return, the Guild's safety is guaranteed.{wait}{clear}
+feev03_02.039C	So they help each other.{wait}{clear}
+feev03_02.03CE	Yeah, in a sense. That's why most mages live in this region, too.{wait}{clear}"Mage" may sound imposing, but each one of us is no different from an ordinary person.{wait}{clear}So we can only live by being connected to lots of other people...{wait}{clear}Now that the Guild exists, mages can live in peace, but...{wait}{clear}Not long ago, there were lands where you'd be killed just for having a mage's power...{wait}{clear}That's also why mages trained in swordsmanship like me, called Warlocks, came to be.{wait}{clear}It began when the Guild trained young mages as a militia to protect themselves.{wait}{clear}
+feev03_02.0622	Ah, sorry. I've strayed from what you wanted to ask. But was that of some help, at least?{wait}{clear}
+feev03_02.068E	Yes, thank you. Also, Fein, what kind of work do you do as a Warlock?{wait}{clear}
+feev03_02.06FE	Ordinary Warlocks guard the Guild lodges in the big towns, but I'm not a Warlock attached to a lodge.{wait}{clear}I travel to many countries gathering information. To protect the interests of the Guild as a whole...{wait}{clear}So looking for the cause of the world's turmoil with you, ＄＄＄＄＄＄, is useful for my own work too.{wait}{clear}I'm grateful to you.{wait}{clear}Well then, let's go to the Grand Lodge.{wait}{clear}
+feev03_02.08A8	＄＄＄＄＄＄, are you there?{wait}{clear}
+feev03_02.08EA	I met an old friend for the first time in ages, and we got to talking. Sorry about that.{wait}{clear}
+feev03_02.093C	No, please don't worry about that. You have your own life, Fein.{wait}{clear}
+feev03_02.09A2	I see...{wait}{clear}
+feev03_02.09C2	Please get some rest today, Fein.{wait}{clear}
+feev03_02.09FA	Yeah. Good night, ＄＄＄＄＄＄.{wait}{clear}
+feev03_03.005C	Fein, are you going to see the Grand Master again?{wait}{clear}
+feev03_03.00A4	Yeah. It'd be strange to come all this way and not show my face, right?{wait}{clear}I'll be back.{wait}{clear}
+feev03_03.0130	Fein... Has something big happened?{wait}{clear}
+feev03_03.0174	No, nothing that big has happened. But just as you feared, Elder, turmoil seems to be breaking out here and there.{wait}{clear}I don't think all of it is a portent of some great calamity, but the Empire seems to be growing active, and that worries me...{wait}{clear}
+feev03_03.025C	I see... All sorts of reports have been reaching us here lately, too.{wait}{clear}Among them are prophecies of a truly enormous calamity. The presence of a vast shadow that the prophets sense...{wait}{clear}But what exactly it is, we don't know... Regrettably.{wait}{clear}
+feev03_03.0338	Still, as a precaution, I had the Demon Stone brought here from Lefkas.{wait}{clear}
+feev03_03.037E	What? You mean the stone the previous Grand Master received from Marquis Zern?{wait}{clear}
+feev03_03.03E4	Yes, that's the one. Whether that stone is truly the legendary Demon Stone, we don't know...{wait}{clear}As you, Zig's apprentice, know very well.{wait}{clear}But... we cannot ignore the words of the prophets.{wait}{clear}
+feev03_03.04C0	Yes... you're right...{wait}{clear}

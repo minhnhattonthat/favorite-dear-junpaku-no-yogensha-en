@@ -1,41 +1,41 @@
 id	jp	en	notes
 feev03_02.004E	フェイン	Fein	speaker
-feev03_02.005A	いるのか？　＄＄＄＄＄＄？{wait}{clear}		
+feev03_02.005A	いるのか？　＄＄＄＄＄＄？{wait}{clear}	Are you there, ＄＄＄＄＄＄?{wait}{clear}	
 feev03_02.0078	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_02.0088	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev03_02.0092	フェイン	Fein	speaker
-feev03_02.009E	せっかく、アルクマールまで来たんだ。{n}グランドロッジに顔を出してもいいだろう？{wait}{clear}		
+feev03_02.009E	せっかく、アルクマールまで来たんだ。{n}グランドロッジに顔を出してもいいだろう？{wait}{clear}	Since we came all the way to Alkmaar, you{n}don't mind if I show my face at the Grand{n}Lodge, right?{wait}{clear}	
 feev03_02.00F0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.0100	ええ、いいですよ。{n}でも、フェイン、少し聞きたいことがあるのですが、{n}いいですか？{wait}{clear}		
+feev03_02.0100	ええ、いいですよ。{n}でも、フェイン、少し聞きたいことがあるのですが、{n}いいですか？{wait}{clear}	Yes, that's fine. But, Fein, there's{n}something I'd like to ask you. May I?{wait}{clear}	
 feev03_02.0162	フェイン	Fein	speaker
-feev03_02.016E	ははは……。{n}君は本当に聞きたがり屋だな。{wait}{clear}		
+feev03_02.016E	ははは……。{n}君は本当に聞きたがり屋だな。{wait}{clear}	Ha ha ha... You really are full of{n}questions.{wait}{clear}	
 feev03_02.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.01AC	すみません……。{n}この世界について、いろいろ知りたいものですから。{wait}{clear}あの、このアルクマールも大きい都ですし、{n}六王国連合はとても発展していますよね。{n}それに、ギルドもたくさんあるみたいですし……。{wait}{clear}それで、なにか関係があるのではないかと思って。{wait}{clear}		
+feev03_02.01AC	すみません……。{n}この世界について、いろいろ知りたいものですから。{wait}{clear}あの、このアルクマールも大きい都ですし、{n}六王国連合はとても発展していますよね。{n}それに、ギルドもたくさんあるみたいですし……。{wait}{clear}それで、なにか関係があるのではないかと思って。{wait}{clear}	I'm sorry... I just want to learn all kinds{n}of things about this world.{wait}{clear}Um, Alkmaar is a big city too, and the Six{n}Kingdoms Alliance seems very developed. And{n}there seem to be lots of Guild lodges...{wait}{clear}So I thought there might be some connection.{wait}{clear}	
 feev03_02.02B4	フェイン	Fein	speaker
-feev03_02.02C0	さすがに見るべきところはしっかり見ているのだな。{n}君の考えているように、この国とギルドには{n}深いかかわりがある。{wait}{clear}この六王国連合はギルドの力を政治に利用し、{n}そのため、ギルドは安全を保証されている。{wait}{clear}		
+feev03_02.02C0	さすがに見るべきところはしっかり見ているのだな。{n}君の考えているように、この国とギルドには{n}深いかかわりがある。{wait}{clear}この六王国連合はギルドの力を政治に利用し、{n}そのため、ギルドは安全を保証されている。{wait}{clear}	You really do see what's worth seeing. Just{n}as you think, this country and the Guild are{n}deeply connected.{wait}{clear}The Six Kingdoms Alliance uses the Guild's{n}power in its politics, and in return, the{n}Guild's safety is guaranteed.{wait}{clear}	
 feev03_02.038C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.039C	お互いが助け合っているわけですね。{wait}{clear}		
+feev03_02.039C	お互いが助け合っているわけですね。{wait}{clear}	So they help each other.{wait}{clear}	
 feev03_02.03C2	フェイン	Fein	speaker
-feev03_02.03CE	ああ、ある意味では、そうだな。{n}だからほとんどの魔導士もこの地域に住んでいる。{wait}{clear}魔導士と聞こえはいかめしいが{n}一人一人は普通の人間となにもかわらない。{wait}{clear}だから、多くの人との関わりの中でしか{n}生きていくことはできない……。{wait}{clear}今はギルドがあって、{n}魔導士も平和に暮らしていられるのだが……{wait}{clear}少し前までは、魔導士の力を持っているだけで{n}殺される土地もあった……。{wait}{clear}ウォーロックと呼ばれる{n}俺のような剣技を身につけた魔導士が生まれたのも{n}そのためだ。{wait}{clear}ギルドが自分たちの身を守るために{n}若い魔導士を自警団としてきたえたのが始まりだ。{wait}{clear}		
+feev03_02.03CE	ああ、ある意味では、そうだな。{n}だからほとんどの魔導士もこの地域に住んでいる。{wait}{clear}魔導士と聞こえはいかめしいが{n}一人一人は普通の人間となにもかわらない。{wait}{clear}だから、多くの人との関わりの中でしか{n}生きていくことはできない……。{wait}{clear}今はギルドがあって、{n}魔導士も平和に暮らしていられるのだが……{wait}{clear}少し前までは、魔導士の力を持っているだけで{n}殺される土地もあった……。{wait}{clear}ウォーロックと呼ばれる{n}俺のような剣技を身につけた魔導士が生まれたのも{n}そのためだ。{wait}{clear}ギルドが自分たちの身を守るために{n}若い魔導士を自警団としてきたえたのが始まりだ。{wait}{clear}	Yeah, in a sense. That's why most mages live{n}in this region, too.{wait}{clear}"Mage" may sound imposing, but each one of{n}us is no different from an ordinary person.{wait}{clear}So we can only live by being connected to{n}lots of other people...{wait}{clear}Now that the Guild exists, mages can live in{n}peace, but...{wait}{clear}Not long ago, there were lands where you'd{n}be killed just for having a mage's power...{wait}{clear}That's also why mages trained in{n}swordsmanship like me, called Warlocks, came{n}to be.{wait}{clear}It began when the Guild trained young mages{n}as a militia to protect themselves.{wait}{clear}	
 feev03_02.05EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.05FA	そうだったのですね……。{wait}{clear}		
+feev03_02.05FA	そうだったのですね……。{wait}{clear}	So that's how it was...{wait}{clear}	
 feev03_02.0616	フェイン	Fein	speaker
-feev03_02.0622	ああ、すまん。{n}君の聞きたいこととは話がそれたな。{n}だが、これでも少しは参考になったか？{wait}{clear}		
+feev03_02.0622	ああ、すまん。{n}君の聞きたいこととは話がそれたな。{n}だが、これでも少しは参考になったか？{wait}{clear}	Ah, sorry. I've strayed from what you wanted{n}to ask. But was that of some help, at least?{wait}{clear}	
 feev03_02.067E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.068E	はい、ありがとうございます。{n}あと、フェインはウォーロックとして{n}どんなことをしているのですか？{wait}{clear}		
+feev03_02.068E	はい、ありがとうございます。{n}あと、フェインはウォーロックとして{n}どんなことをしているのですか？{wait}{clear}	Yes, thank you. Also, Fein, what kind of{n}work do you do as a Warlock?{wait}{clear}	
 feev03_02.06F2	フェイン	Fein	speaker
-feev03_02.06FE	普通のウォーロックは大きな町にある{n}ギルドの護衛をしているものなのだが、{n}俺はギルド付きのウォーロックではないんだ。{wait}{clear}俺は多くの国をめぐって情報を集めている。{n}ギルド全体の権益を守るために……。{wait}{clear}だから、＄＄＄＄＄＄とともに{n}世界の混乱の原因を探ることは{n}自分の仕事にとっても有用なことなのだ。{wait}{clear}君には感謝している。{wait}{clear}じゃあ、グランドロッジへ行こう。{wait}{clear}		
+feev03_02.06FE	普通のウォーロックは大きな町にある{n}ギルドの護衛をしているものなのだが、{n}俺はギルド付きのウォーロックではないんだ。{wait}{clear}俺は多くの国をめぐって情報を集めている。{n}ギルド全体の権益を守るために……。{wait}{clear}だから、＄＄＄＄＄＄とともに{n}世界の混乱の原因を探ることは{n}自分の仕事にとっても有用なことなのだ。{wait}{clear}君には感謝している。{wait}{clear}じゃあ、グランドロッジへ行こう。{wait}{clear}	Ordinary Warlocks guard the Guild lodges in{n}the big towns, but I'm not a Warlock{n}attached to a lodge.{wait}{clear}I travel to many countries gathering{n}information. To protect the interests of the{n}Guild as a whole...{wait}{clear}So looking for the cause of the world's{n}turmoil with you, ＄＄＄＄＄＄, is useful{n}for my own work too.{wait}{clear}I'm grateful to you.{wait}{clear}Well then, let's go to the Grand Lodge.{wait}{clear}	
 feev03_02.089C	フェイン	Fein	speaker
-feev03_02.08A8	＄＄＄＄＄＄、いるのか？{wait}{clear}		
+feev03_02.08A8	＄＄＄＄＄＄、いるのか？{wait}{clear}	＄＄＄＄＄＄, are you there?{wait}{clear}	
 feev03_02.08C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev03_02.08D4	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev03_02.08DE	フェイン	Fein	speaker
-feev03_02.08EA	久しぶりに旧友と会ったので、話し込んでしまった。{n}悪かったな。{wait}{clear}		
+feev03_02.08EA	久しぶりに旧友と会ったので、話し込んでしまった。{n}悪かったな。{wait}{clear}	I met an old friend for the first time in{n}ages, and we got to talking. Sorry about{n}that.{wait}{clear}	
 feev03_02.092C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.093C	いいえ、そんなこと気にしないでください。{n}フェインにはフェインの生活があるのですから。{wait}{clear}		
+feev03_02.093C	いいえ、そんなこと気にしないでください。{n}フェインにはフェインの生活があるのですから。{wait}{clear}	No, please don't worry about that. You have{n}your own life, Fein.{wait}{clear}	
 feev03_02.0996	フェイン	Fein	speaker
-feev03_02.09A2	そうか……。{wait}{clear}		
+feev03_02.09A2	そうか……。{wait}{clear}	I see...{wait}{clear}	
 feev03_02.09B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev03_02.09C2	今日はもう、休んでくださいね、フェイン。{wait}{clear}		
+feev03_02.09C2	今日はもう、休んでくださいね、フェイン。{wait}{clear}	Please get some rest today, Fein.{wait}{clear}	
 feev03_02.09EE	フェイン	Fein	speaker
-feev03_02.09FA	ああ、おやすみ、＄＄＄＄＄＄。{wait}{clear}		
+feev03_02.09FA	ああ、おやすみ、＄＄＄＄＄＄。{wait}{clear}	Yeah. Good night, ＄＄＄＄＄＄.{wait}{clear}	

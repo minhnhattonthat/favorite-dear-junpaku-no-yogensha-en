@@ -1,124 +1,124 @@
 id	jp	en	notes
 feev07_01.0048	フェイン	Fein	speaker
-feev07_01.0058	どうだ？　＄＄＄＄＄＄、たまにはつきあわないか？{wait}{clear}		
+feev07_01.0058	どうだ？　＄＄＄＄＄＄、たまにはつきあわないか？{wait}{clear}	How about it, ＄＄＄＄＄＄? Keep me company{n}for once?{wait}{clear}	
 feev07_01.008C	ＮＵＬＬ	NULL	speaker
-feev07_01.009C	《ええ、いいですよ。》{n}		
-feev07_01.00BA	《すみません……。》{n}		
+feev07_01.009C	《ええ、いいですよ。》{n}	Yes, I'd like that.{n}	
+feev07_01.00BA	《すみません……。》{n}	I'm sorry...{n}	
 feev07_01.00E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.00F0	ええ、いいですよ。{n}せっかくフェインが誘ってくださったのですから。{wait}{clear}		
+feev07_01.00F0	ええ、いいですよ。{n}せっかくフェインが誘ってくださったのですから。{wait}{clear}	Yes, I'd like that. You went to the trouble{n}of inviting me, after all, Fein.{wait}{clear}	
 feev07_01.0136	フェイン	Fein	speaker
-feev07_01.0146	そこの店でいいか？{wait}{clear}		
+feev07_01.0146	そこの店でいいか？{wait}{clear}	Is that place over there all right?{wait}{clear}	
 feev07_01.015C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev07_01.016C	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev07_01.0184	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0194	すみません……{n}もう、行かなければならないのです。{wait}{clear}		
+feev07_01.0194	すみません……{n}もう、行かなければならないのです。{wait}{clear}	I'm sorry... I have to go now.{wait}{clear}	
 feev07_01.01CA	フェイン	Fein	speaker
-feev07_01.01DA	そうか……残念だな。{wait}{clear}		
-feev07_01.01F6	まあ、忙しい身なのだからしかたないな。{wait}{clear}		
-feev07_01.0224	またにしよう。{wait}{clear}		
+feev07_01.01DA	そうか……残念だな。{wait}{clear}	I see... That's too bad.{wait}{clear}	
+feev07_01.01F6	まあ、忙しい身なのだからしかたないな。{wait}{clear}	Well, you're a busy one, so it can't be{n}helped.{wait}{clear}	
+feev07_01.0224	またにしよう。{wait}{clear}	Another time, then.{wait}{clear}	
 feev07_01.0268	フェイン	Fein	speaker
-feev07_01.0278	こうして時間をとって君と話したかった。{wait}{clear}		
-feev07_01.02A6	いつも立ち話ばかりだからな。{wait}{clear}		
+feev07_01.0278	こうして時間をとって君と話したかった。{wait}{clear}	I wanted to take some time like this and{n}talk with you.{wait}{clear}	
+feev07_01.02A6	いつも立ち話ばかりだからな。{wait}{clear}	We only ever talk standing around.{wait}{clear}	
 feev07_01.02C6	フェイン	Fein	speaker
-feev07_01.02D6	どうした？　浮かない顔をして？{wait}{clear}		
-feev07_01.02FC	なにか悩みでもあるのか？{wait}{clear}		
+feev07_01.02D6	どうした？　浮かない顔をして？{wait}{clear}	What's wrong? You look down.{wait}{clear}	
+feev07_01.02FC	なにか悩みでもあるのか？{wait}{clear}	Is something troubling you?{wait}{clear}	
 feev07_01.0318	ＮＵＬＬ	NULL	speaker
-feev07_01.0328	《いいえ、別に……》{n}		
-feev07_01.0344	《ええ、ちょっと……》{n}		
+feev07_01.0328	《いいえ、別に……》{n}	No, not really...{n}	
+feev07_01.0344	《ええ、ちょっと……》{n}	Yes, a little...{n}	
 feev07_01.0362	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0372	いいえ、別に……。{n}大丈夫ですよ、とくになにもありませんから。{wait}{clear}		
+feev07_01.0372	いいえ、別に……。{n}大丈夫ですよ、とくになにもありませんから。{wait}{clear}	No, not really... I'm fine. There's nothing{n}in particular.{wait}{clear}	
 feev07_01.03B4	フェイン	Fein	speaker
-feev07_01.03C4	そうか……気のせいか。{wait}{clear}		
-feev07_01.03E2	ならいいんだ。{wait}{clear}		
+feev07_01.03C4	そうか……気のせいか。{wait}{clear}	I see... My imagination, then.{wait}{clear}	
+feev07_01.03E2	ならいいんだ。{wait}{clear}	Then that's fine.{wait}{clear}	
 feev07_01.03F4	フェイン	Fein	speaker
-feev07_01.0400	ところで、君はこの世界のことを{n}あまり知らなかったようだが……{n}君から見てこの世界はどう見える？{wait}{clear}救うに値する、すばらしい世界か？{wait}{clear}		
+feev07_01.0400	ところで、君はこの世界のことを{n}あまり知らなかったようだが……{n}君から見てこの世界はどう見える？{wait}{clear}救うに値する、すばらしい世界か？{wait}{clear}	By the way, you didn't seem to know much{n}about this world... How does it look from{n}where you stand?{wait}{clear}Is it a wonderful world, worth saving?{wait}{clear}	
 feev07_01.0488	ＮＵＬＬ	NULL	speaker
 feev07_01.0498	《はい……》{n}	Yes...{n}	
-feev07_01.04AC	《いえ……》{n}		
+feev07_01.04AC	《いえ……》{n}	Well...{n}	
 feev07_01.04CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.04DC	はい、もちろんです。{wait}{clear}私はこの世界にふれて{n}自分の使命を必ず成しとげないといけないと、{n}より強く思いました。{wait}{clear}		
+feev07_01.04DC	はい、もちろんです。{wait}{clear}私はこの世界にふれて{n}自分の使命を必ず成しとげないといけないと、{n}より強く思いました。{wait}{clear}	Yes, of course.{wait}{clear}Having touched this world, I feel even more{n}strongly that I must fulfill my mission{n}without fail.{wait}{clear}	
 feev07_01.054E	フェイン	Fein	speaker
-feev07_01.055A	天使らしい言葉だな。{n}ただ、本当にそう思うのか？{wait}{clear}この世界は君のような純粋な天使から見れば{n}汚れた世界のように思わないか？{wait}{clear}		
+feev07_01.055A	天使らしい言葉だな。{n}ただ、本当にそう思うのか？{wait}{clear}この世界は君のような純粋な天使から見れば{n}汚れた世界のように思わないか？{wait}{clear}	Spoken like an angel. But do you really{n}think so?{wait}{clear}To a pure angel like you, doesn't this world{n}seem filthy?{wait}{clear}	
 feev07_01.05DA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.05EA	いいえ……{n}私はこの世界が汚れているとは思いません。{wait}{clear}私は……{n}そんなふうに世界を見たことなどありません……。{wait}{clear}ここでは、人は人らしく生きていると思います。{n}それが誤った道なのか、正しい道なのかは{n}人間自身が結果を出すことです。{wait}{clear}ただ、私はここに住む人以外のものに、{n}この世界が利用され、{n}破壊されるのを防ぎたいのです。{wait}{clear}		
+feev07_01.05EA	いいえ……{n}私はこの世界が汚れているとは思いません。{wait}{clear}私は……{n}そんなふうに世界を見たことなどありません……。{wait}{clear}ここでは、人は人らしく生きていると思います。{n}それが誤った道なのか、正しい道なのかは{n}人間自身が結果を出すことです。{wait}{clear}ただ、私はここに住む人以外のものに、{n}この世界が利用され、{n}破壊されるのを防ぎたいのです。{wait}{clear}	No... I don't think this world is filthy.{wait}{clear}I... have never looked at the world that{n}way...{wait}{clear}I think people here live as people do.{n}Whether their path is wrong or right is for{n}humans themselves to decide.{wait}{clear}I only want to keep this world from being{n}used and destroyed by anything other than{n}the people who live here.{wait}{clear}	
 feev07_01.0734	フェイン	Fein	speaker
-feev07_01.0740	そうだな……。{n}俺もこの世界が楽園だとは思わない。{wait}{clear}差別や貧困……{n}いや、それを生み出す人のみにくさ、愚かさ……。{wait}{clear}嫌なことはたくさんある。{n}だが、ここは自分にとってかけがえのない世界だ。{wait}{clear}強く守りたいと思っている……。{wait}{clear}		
+feev07_01.0740	そうだな……。{n}俺もこの世界が楽園だとは思わない。{wait}{clear}差別や貧困……{n}いや、それを生み出す人のみにくさ、愚かさ……。{wait}{clear}嫌なことはたくさんある。{n}だが、ここは自分にとってかけがえのない世界だ。{wait}{clear}強く守りたいと思っている……。{wait}{clear}	I see... I don't think this world is a{n}paradise either.{wait}{clear}Discrimination and poverty... no, the{n}ugliness and foolishness of the people who{n}create them...{wait}{clear}There are plenty of awful things. But this{n}is a world I can't replace.{wait}{clear}I truly want to protect it...{wait}{clear}	
 feev07_01.0826	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0836	フェイン……。{wait}{clear}		
+feev07_01.0836	フェイン……。{wait}{clear}	Fein...{wait}{clear}	
 feev07_01.0848	フェイン	Fein	speaker
-feev07_01.0854	…………。{wait}{clear}君がそう思っていると聞いて安心した。{wait}{clear}		
+feev07_01.0854	…………。{wait}{clear}君がそう思っていると聞いて安心した。{wait}{clear}	......{wait}{clear}I'm relieved to hear you feel that way.{wait}{clear}	
 feev07_01.088A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.089A	安心？{wait}{clear}		
+feev07_01.089A	安心？{wait}{clear}	Relieved?{wait}{clear}	
 feev07_01.08A4	フェイン	Fein	speaker
-feev07_01.08B0	ああ。{wait}{clear}君がこの世界のみにくさに{n}あきれ返っているのではないかと思ってな。{wait}{clear}		
+feev07_01.08B0	ああ。{wait}{clear}君がこの世界のみにくさに{n}あきれ返っているのではないかと思ってな。{wait}{clear}	Yeah.{wait}{clear}I thought you might be fed up with how ugly{n}this world is.{wait}{clear}	
 feev07_01.0900	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0910	そんなことは……ありません……。{wait}{clear}私は……最後までともに戦うつもりです。{n}逃げるつもりはありません。{wait}{clear}		
+feev07_01.0910	そんなことは……ありません……。{wait}{clear}私は……最後までともに戦うつもりです。{n}逃げるつもりはありません。{wait}{clear}	That's... not true...{wait}{clear}I... intend to fight alongside you to the{n}end. I have no intention of running away.{wait}{clear}	
 feev07_01.097A	フェイン	Fein	speaker
-feev07_01.0986	すまない。{n}失礼なこと言ってしまったな。{n}謝ろう。{wait}{clear}君のことが正直、わからなかったんだ。{n}天使として、ただ天界の命を{n}我々に伝えているだけなのかと……。{wait}{clear}こうして話せてよかった。{n}君の考えがわかった。{wait}{clear}ともに戦おう……これからも。{wait}{clear}		
+feev07_01.0986	すまない。{n}失礼なこと言ってしまったな。{n}謝ろう。{wait}{clear}君のことが正直、わからなかったんだ。{n}天使として、ただ天界の命を{n}我々に伝えているだけなのかと……。{wait}{clear}こうして話せてよかった。{n}君の考えがわかった。{wait}{clear}ともに戦おう……これからも。{wait}{clear}	Sorry. That was rude of me. I apologize.{wait}{clear}Honestly, I didn't understand you. I thought{n}maybe, as an angel, you were just passing{n}the Heavens' orders on to us...{wait}{clear}I'm glad we could talk like this. Now I know{n}how you think.{wait}{clear}Let's fight together... from here on, too.{wait}{clear}	
 feev07_01.0A80	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0A90	いえ……{n}自分がこの世界を救うに値するかどうかを{n}考えたりはしません……。{wait}{clear}それは私が判断することではありませんから。{wait}{clear}		
+feev07_01.0A90	いえ……{n}自分がこの世界を救うに値するかどうかを{n}考えたりはしません……。{wait}{clear}それは私が判断することではありませんから。{wait}{clear}	No... I don't ask myself whether this world{n}is worth saving...{wait}{clear}That isn't mine to judge.{wait}{clear}	
 feev07_01.0B0C	フェイン	Fein	speaker
-feev07_01.0B18	そうか……。{n}君がこの世界をどう思ってるか知らないが、{n}俺にとってこの世界はかけがえのない世界だ。{wait}{clear}守らなくてはいけないと思っている。{wait}{clear}＄＄＄＄＄＄、{n}これからも協力しあってともに戦おう。{wait}{clear}		
+feev07_01.0B18	そうか……。{n}君がこの世界をどう思ってるか知らないが、{n}俺にとってこの世界はかけがえのない世界だ。{wait}{clear}守らなくてはいけないと思っている。{wait}{clear}＄＄＄＄＄＄、{n}これからも協力しあってともに戦おう。{wait}{clear}	I see... I don't know what you think of this{n}world, but to me, it's a world I can't{n}replace.{wait}{clear}I believe I have to protect it.{wait}{clear}＄＄＄＄＄＄, let's keep working together{n}and fight side by side.{wait}{clear}	
 feev07_01.0BDC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev07_01.0BEC	はい。{wait}{clear}	Yes.{wait}{clear}	
 feev07_01.0C00	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0C10	ええ、ちょっと……。{wait}{clear}		
+feev07_01.0C10	ええ、ちょっと……。{wait}{clear}	Yes, a little...{wait}{clear}	
 feev07_01.0C28	フェイン	Fein	speaker
-feev07_01.0C38	そうか。{wait}{clear}		
-feev07_01.0C48	自分でよければ聞く……。{wait}{clear}		
+feev07_01.0C38	そうか。{wait}{clear}	I see.{wait}{clear}	
+feev07_01.0C48	自分でよければ聞く……。{wait}{clear}	I'll listen, if I'm any use...{wait}{clear}	
 feev07_01.0C64	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 feev07_01.0C74	はい……。{wait}{clear}	Yes...{wait}{clear}	
 feev07_01.0C82	ＮＵＬＬ	NULL	speaker
-feev07_01.0C92	《勇者たちについて、ちょっと……》{n}		
-feev07_01.0CBC	《世界の混乱の原因が……》{n}		
+feev07_01.0C92	《勇者たちについて、ちょっと……》{n}	About the heroes...{n}	
+feev07_01.0CBC	《世界の混乱の原因が……》{n}	The cause of the world's turmoil...{n}	
 feev07_01.0CDE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0CEE	勇者たちについて、気になることがあるのです。{n}というよりも……{n}私が彼らを理解できているのかが心配で……。{wait}{clear}		
+feev07_01.0CEE	勇者たちについて、気になることがあるのです。{n}というよりも……{n}私が彼らを理解できているのかが心配で……。{wait}{clear}	There's something about the heroes that's on{n}my mind. Or rather... I'm worried whether I{n}really understand them...{wait}{clear}	
 feev07_01.0D5C	フェイン	Fein	speaker
-feev07_01.0D68	そうか……。{n}君も人を理解できるかどうかで、悩むのだな。{wait}{clear}だが、それは君の仕事をうまく運ぶために{n}考えていることなのか？　それとも……。{wait}{clear}		
+feev07_01.0D68	そうか……。{n}君も人を理解できるかどうかで、悩むのだな。{wait}{clear}だが、それは君の仕事をうまく運ぶために{n}考えていることなのか？　それとも……。{wait}{clear}	I see... So even you worry about whether you{n}can understand people.{wait}{clear}But is that something you think about so{n}your work goes smoothly? Or...{wait}{clear}	
 feev07_01.0DF6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0E06	確かに、天使である私が彼らを理解するのは、{n}任務のためと思われても、{n}しかたがないかもしれません……。{wait}{clear}ですが、それだけではありません。{wait}{clear}		
+feev07_01.0E06	確かに、天使である私が彼らを理解するのは、{n}任務のためと思われても、{n}しかたがないかもしれません……。{wait}{clear}ですが、それだけではありません。{wait}{clear}	It's true that people may think I, an angel,{n}only try to understand them for the sake of{n}my mission...{wait}{clear}But that isn't all.{wait}{clear}	
 feev07_01.0E94	フェイン	Fein	speaker
-feev07_01.0EA0	それだけではない？{wait}{clear}		
+feev07_01.0EA0	それだけではない？{wait}{clear}	That isn't all?{wait}{clear}	
 feev07_01.0EB6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0EC6	はい。{n}私は、彼らが悩むときや、苦しいときには、{n}なにかできることをしたいのです。{wait}{clear}ですが、お互いを信じられないのでは、{n}なんの助けにもならないと思っています……。{wait}{clear}だから……。{wait}{clear}		
+feev07_01.0EC6	はい。{n}私は、彼らが悩むときや、苦しいときには、{n}なにかできることをしたいのです。{wait}{clear}ですが、お互いを信じられないのでは、{n}なんの助けにもならないと思っています……。{wait}{clear}だから……。{wait}{clear}	No. When they're troubled, or when they're{n}suffering, I want to do whatever I can.{wait}{clear}But if we can't trust each other, I don't{n}think I can be any help at all...{wait}{clear}So...{wait}{clear}	
 feev07_01.0F80	フェイン	Fein	speaker
-feev07_01.0F8C	そうか……。{n}それは悩んで当然のことかもしれないな。{wait}{clear}		
+feev07_01.0F8C	そうか……。{n}それは悩んで当然のことかもしれないな。{wait}{clear}	I see... Maybe it's only natural to worry{n}about that.{wait}{clear}	
 feev07_01.0FC4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.0FD4	やはり、そういうものでしょうか。{wait}{clear}		
+feev07_01.0FD4	やはり、そういうものでしょうか。{wait}{clear}	So that's how it is, after all?{wait}{clear}	
 feev07_01.0FF8	フェイン	Fein	speaker
-feev07_01.1004	ああ。{n}お互いを理解し合うということは、{n}一朝一夕にできることじゃない。{wait}{clear}人間同士だって、かんたんなことじゃない。{n}まして、君は天使だ……。{wait}{clear}いくら一緒にいても、{n}俺たちにはなにを考えているのか、{n}わからないと思われてもしかたがないと思う。{wait}{clear}		
+feev07_01.1004	ああ。{n}お互いを理解し合うということは、{n}一朝一夕にできることじゃない。{wait}{clear}人間同士だって、かんたんなことじゃない。{n}まして、君は天使だ……。{wait}{clear}いくら一緒にいても、{n}俺たちにはなにを考えているのか、{n}わからないと思われてもしかたがないと思う。{wait}{clear}	Yeah. Understanding each other isn't{n}something that happens overnight.{wait}{clear}It isn't easy even between humans. And{n}you're an angel...{wait}{clear}However long you're with us, I think it{n}can't be helped if we feel we don't know{n}what you're thinking.{wait}{clear}	
 feev07_01.10FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.110C	やはり……そうですよね……。{wait}{clear}		
+feev07_01.110C	やはり……そうですよね……。{wait}{clear}	I suppose... that's true...{wait}{clear}	
 feev07_01.112C	フェイン	Fein	speaker
-feev07_01.1138	だが、君が俺たちを{n}理解しようとしてくれている気持ちは{n}きっと伝わると、俺は思う……。{wait}{clear}こうして話していると、{n}君は信頼できる相手だと思うからな……。{wait}{clear}		
+feev07_01.1138	だが、君が俺たちを{n}理解しようとしてくれている気持ちは{n}きっと伝わると、俺は思う……。{wait}{clear}こうして話していると、{n}君は信頼できる相手だと思うからな……。{wait}{clear}	But I think your wish to understand us will{n}surely get through...{wait}{clear}Talking like this, I feel you're someone I{n}can trust...{wait}{clear}	
 feev07_01.11D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.11E4	ありがとうございます、フェイン。{wait}{clear}		
+feev07_01.11E4	ありがとうございます、フェイン。{wait}{clear}	Thank you, Fein.{wait}{clear}	
 feev07_01.1208	フェイン	Fein	speaker
-feev07_01.1214	あせらないことだ。{n}人にはいろいろな面がある。{n}見えている部分がすべてとは限らないからな。{wait}{clear}		
+feev07_01.1214	あせらないことだ。{n}人にはいろいろな面がある。{n}見えている部分がすべてとは限らないからな。{wait}{clear}	Don't rush it. People have many sides. What{n}you can see isn't always all there is.{wait}{clear}	
 feev07_01.1272	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.1282	はい、そうですね……。{n}私も少しくらい失敗しても、{n}くじけないようにします。{wait}{clear}		
+feev07_01.1282	はい、そうですね……。{n}私も少しくらい失敗しても、{n}くじけないようにします。{wait}{clear}	Yes, you're right... I'll try not to lose{n}heart, even if I make a few mistakes.{wait}{clear}	
 feev07_01.12D2	フェイン	Fein	speaker
-feev07_01.12DE	ハハハ……その意気だ。{wait}{clear}		
+feev07_01.12DE	ハハハ……その意気だ。{wait}{clear}	Ha ha ha... That's the spirit.{wait}{clear}	
 feev07_01.12FC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.130C	世界の混乱の原因が気になるのです。{n}今、見えていることの奥底に、{n}恐ろしいことがひそんでいる気がしています。{wait}{clear}ただ、それがわからないのです……。{wait}{clear}		
+feev07_01.130C	世界の混乱の原因が気になるのです。{n}今、見えていることの奥底に、{n}恐ろしいことがひそんでいる気がしています。{wait}{clear}ただ、それがわからないのです……。{wait}{clear}	I'm concerned about the cause of the world's{n}turmoil. I feel something terrible is{n}lurking deep beneath what we can see now.{wait}{clear}But I can't tell what it is...{wait}{clear}	
 feev07_01.13A2	フェイン	Fein	speaker
-feev07_01.13AE	俺は君とこうして世界を見ていると、{n}自分たち人間の愚かさばかりが目につく……。{n}強い者が弱い者をしいたげている……。{wait}{clear}しかし、君は、この目に見える混乱だけではなく、{n}なにかべつな原因を考えているのだな。{wait}{clear}		
+feev07_01.13AE	俺は君とこうして世界を見ていると、{n}自分たち人間の愚かさばかりが目につく……。{n}強い者が弱い者をしいたげている……。{wait}{clear}しかし、君は、この目に見える混乱だけではなく、{n}なにかべつな原因を考えているのだな。{wait}{clear}	When I look at the world with you like this,{n}all I notice is how foolish we humans are...{n}The strong oppress the weak...{wait}{clear}But you're thinking of some other cause,{n}beyond the turmoil we can see.{wait}{clear}	
 feev07_01.147E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.148E	そうです。{n}人がいろいろな欲望に負けることはあると思います。{n}ですが、それは自分が選ぶ結果でしかないのです。{wait}{clear}ただ、その欲望が、人以外のなにかによって{n}もたらされたものだったら……{n}それはとても恐ろしいことになります。{wait}{clear}		
+feev07_01.148E	そうです。{n}人がいろいろな欲望に負けることはあると思います。{n}ですが、それは自分が選ぶ結果でしかないのです。{wait}{clear}ただ、その欲望が、人以外のなにかによって{n}もたらされたものだったら……{n}それはとても恐ろしいことになります。{wait}{clear}	Yes. I think people do give in to all sorts{n}of desires. But that is only a result they{n}choose.{wait}{clear}But if those desires were brought about by{n}something other than people... that would be{n}truly terrible.{wait}{clear}	
 feev07_01.156E	フェイン	Fein	speaker
-feev07_01.157A	そうか……。{wait}{clear}自分ももう少し別の視点で、今起こっていることを{n}考えた方がいいのかもしれないな……。{wait}{clear}ありがとう、＄＄＄＄＄＄。君と話していなければ、俺は目先の混乱にばかり{n}とらわれていたかもしれない。{wait}{clear}		
+feev07_01.157A	そうか……。{wait}{clear}自分ももう少し別の視点で、今起こっていることを{n}考えた方がいいのかもしれないな……。{wait}{clear}ありがとう、＄＄＄＄＄＄。君と話していなければ、俺は目先の混乱にばかり{n}とらわれていたかもしれない。{wait}{clear}	I see...{wait}{clear}Maybe I should look at what's happening now{n}from a different angle, too...{wait}{clear}Thank you, ＄＄＄＄＄＄. If I hadn't talked{n}with you, I might have been caught up in{n}nothing but the turmoil in front of me.{wait}{clear}	
 feev07_01.164A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.165A	フェイン……。{wait}{clear}		
+feev07_01.165A	フェイン……。{wait}{clear}	Fein...{wait}{clear}	
 feev07_01.166C	フェイン	Fein	speaker
-feev07_01.1678	それに、君は俺が思っていた以上に、{n}この世界のことを考えてくれているようだ。{wait}{clear}正直なところ、君にとってこんな世界など{n}取るに足らないのではないかと思っていたのだ。{wait}{clear}だが、今の話を聞いて、{n}君の気持ちがよくわかった。{n}{wait}{clear}勝手に失礼なことを考えていて、すまなかった。{wait}{clear}		
+feev07_01.1678	それに、君は俺が思っていた以上に、{n}この世界のことを考えてくれているようだ。{wait}{clear}正直なところ、君にとってこんな世界など{n}取るに足らないのではないかと思っていたのだ。{wait}{clear}だが、今の話を聞いて、{n}君の気持ちがよくわかった。{n}{wait}{clear}勝手に失礼なことを考えていて、すまなかった。{wait}{clear}	Besides, you seem to care about this world{n}more than I thought.{wait}{clear}To be honest, I thought a world like this{n}might mean nothing to you.{wait}{clear}But hearing you just now, I understand how{n}you feel.{wait}{clear}I'm sorry for jumping to such rude{n}conclusions.{wait}{clear}	
 feev07_01.1788	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.1798	いいえ、フェイン、気にしないでください。{n}私もこうして話ができて、とてもうれしいですから。{wait}{clear}		
+feev07_01.1798	いいえ、フェイン、気にしないでください。{n}私もこうして話ができて、とてもうれしいですから。{wait}{clear}	No, Fein, please don't worry about it. I'm{n}very happy we could talk like this, too.{wait}{clear}	
 feev07_01.17F6	フェイン	Fein	speaker
-feev07_01.1802	そうか……。{wait}{clear}		
+feev07_01.1802	そうか……。{wait}{clear}	I see...{wait}{clear}	
 feev07_01.1812	フェイン	Fein	speaker
-feev07_01.181E	おっと、ずいぶんと話こんでしまったな。{n}そろそろ出よう。{wait}{clear}		
+feev07_01.181E	おっと、ずいぶんと話こんでしまったな。{n}そろそろ出よう。{wait}{clear}	Whoa, we've been talking a long time. Let's{n}head out.{wait}{clear}	
 feev07_01.188A	フェイン	Fein	speaker
-feev07_01.189A	今夜は君と話せて楽しかった……。{wait}{clear}		
-feev07_01.18C2	お休み……＄＄＄＄＄＄。{wait}{clear}		
+feev07_01.189A	今夜は君と話せて楽しかった……。{wait}{clear}	I enjoyed talking with you tonight...{wait}{clear}	
+feev07_01.18C2	お休み……＄＄＄＄＄＄。{wait}{clear}	Good night... ＄＄＄＄＄＄.{wait}{clear}	
 feev07_01.18DE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-feev07_01.18EE	お休みなさい。{wait}{clear}		
+feev07_01.18EE	お休みなさい。{wait}{clear}	Good night.{wait}{clear}	

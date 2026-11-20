@@ -5,20 +5,20 @@ eiev24.0098	ＮＵＬＬ	NULL	speaker
 eiev24.00A8	《魔石を取る》{n}	Take the Demon Stone{n}	
 eiev24.00CC	アイリーン	Irene	speaker
 eiev24.00DA	＄＄＄＄＄＄！{wait}{clear}	＄＄＄＄＄＄!{wait}{clear}	
-eiev24.00F0	ねえ、＄＄＄＄＄＄。目を開けて！{n}お願い……！{wait}{clear}		
+eiev24.00F0	ねえ、＄＄＄＄＄＄。目を開けて！{n}お願い……！{wait}{clear}	Hey, ＄＄＄＄＄＄. Open your eyes!{n}Please...!{wait}{clear}	
 eiev24.015C	アイリーン	Irene	speaker
-eiev24.016E	あ……{n}＄＄＄＄＄＄。{wait}{clear}		
-eiev24.018C	大丈夫……？{wait}{clear}		
+eiev24.016E	あ……{n}＄＄＄＄＄＄。{wait}{clear}	Ah... ＄＄＄＄＄＄.{wait}{clear}	
+eiev24.018C	大丈夫……？{wait}{clear}	Are you okay...?{wait}{clear}	
 eiev24.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev24.01AC	ええ……{wait}{clear}	Yes...{wait}{clear}	
 eiev24.01B8	アイリーン	Irene	speaker
-eiev24.01CA	よかった……。{wait}{clear}		
-eiev24.01E0	びっくりさせないで……{n}本当に……{wait}{clear}		
+eiev24.01CA	よかった……。{wait}{clear}	Thank goodness...{wait}{clear}	
+eiev24.01E0	びっくりさせないで……{n}本当に……{wait}{clear}	Don't scare me like that... seriously...{wait}{clear}	
 eiev24.0222	アイリーン	Irene	speaker
-eiev24.0230	あいつは逃げてったわ……{n}なんであなたのことまで知ってたのかしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}		
+eiev24.0230	あいつは逃げてったわ……{n}なんであなたのことまで知ってたのかしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}	That guy ran off... I wonder how he even{n}knew about you...{wait}{clear}The Demon Stone, huh... Something big must{n}be hidden in the shadows...{wait}{clear}	
 eiev24.02B2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev24.02C2	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
+eiev24.02C2	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	Irene...{wait}{clear}(What on earth was that just now...? I{n}should ask Lord Raphael...){wait}{clear}	
 eiev24.0346	アイリーン	Irene	speaker
-eiev24.0354	大丈夫？{n}あいつは逃げてったわ……{n}なんであなたのことまで知ってたかのしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}		
+eiev24.0354	大丈夫？{n}あいつは逃げてったわ……{n}なんであなたのことまで知ってたかのしらね……{wait}{clear}魔石か……{n}きっと影におおきなことが隠されてる……。{wait}{clear}	Are you okay? That guy ran off... I wonder{n}how he even knew about you...{wait}{clear}The Demon Stone, huh... Something big must{n}be hidden in the shadows...{wait}{clear}	
 eiev24.03E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-eiev24.03F0	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}		
+eiev24.03F0	アイリーン……。{wait}{clear}（今のはいったい……。{n}　ラファエル様に聞いてみましょう……。）{wait}{clear}	Irene...{wait}{clear}(What on earth was that just now...? I{n}should ask Lord Raphael...){wait}{clear}	

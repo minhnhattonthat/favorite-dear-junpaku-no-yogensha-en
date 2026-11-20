@@ -43,11 +43,11 @@ roev02.063C	ふう……{n}困った人のようですね……彼は……。{w
 roev02.06B0	ロクス	Rocus	speaker
 roev02.06BA	天使様……いるんですか？{wait}{clear}		
 roev02.06D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev02.06E6	はい、なんですか？{wait}{clear}		
+roev02.06E6	はい、なんですか？{wait}{clear}	Yes, what is it?{wait}{clear}	
 roev02.06FC	ロクス	Rocus	speaker
 roev02.0706	なぜ、帰ってしまったのです？{wait}{clear}ひょっとして{n}天使様には刺激が強すぎたのですか？{wait}{clear}		
 roev02.075A	ＮＵＬＬ	NULL	speaker
-roev02.076A	《…………。》{n}		
+roev02.076A	《…………。》{n}	......{n}	
 roev02.0780	《羽目をはずしすぎるのも……》{n}		
 roev02.07AA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev02.07BA	…………。{wait}{clear}	.........{wait}{clear}	
