@@ -167,8 +167,12 @@ u16 offset, copies the entry to bank + 0x4000 through 0x800BF120 (placeholder su
 (0x8002E6C0, 0x8002DBEC, 0x8002CAA0); the function returns at once and the box draws over later frames, so a
 Lua jump-back loop over the index does not show more entries (tried: 0x800BF100 -> 0x800BF070 every 3 frames,
 one report shown). Battle lines: EXE code called from 0x80040A44 walks the BTL_EVT record table (reads at 0x80040AA8 /
-0x80040ADC / 0x80040B10). Forcing every entry of a bank (as the first game's `textforce`) needs a hook where
-each caller starts a message, per caller.
+0x80040ADC / 0x80040B10). The MSG box start is EXE **0x8002E6C0(text, len)**: stores text at
+[0x800857D8] + 0x4AC, len at +0x4B0, resets the 3 x 24-cell box (y from 0xA9, pitch 15). Callers: rfd2 0x800B2368
+.. 0x800D440C (18 sites), Battle.bin 0x8009E340/E484/E5E8/E790; none in op/ed/pro. ssb events do **not** use it
+(0 calls in men1_Ro01, `work/qa/p8/msgstart`), so an event run cannot carry forced MSG entries. A force hook there
+(swap a0/a1 for the next unshown entry, written into scratch RAM) needs scenes that start many MSG boxes (visit
+conversations, heaven chats, fairy reports) or a way to re-enter a caller after its box closes.
 
 ## Extraction (phase 4; `tools/extract.py`, tests in `tests/test_text.py`)
 
