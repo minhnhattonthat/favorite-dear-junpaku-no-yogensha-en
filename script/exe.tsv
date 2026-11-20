@@ -215,155 +215,155 @@ SLPS.80020A3C	チュールラメラー	Tyr Lamellar	ptrx1
 SLPS.80020A50	シグルドメイル	Sigurd Mail	ptrx1
 SLPS.80020A60	グロルメイル	Groll Mail	ptrx1
 SLPS.80020A70	ヴェンディゲイド	Vendigeid	ptrx1
-SLPS.80020A84	パーテルノステル		ptrx1
-SLPS.80020A98	グロアローブ		ptrx1
-SLPS.80020AA8	スカディアロー		ptrx1
-SLPS.80020AB8	ケイロンボウ		ptrx1
-SLPS.80020AC8	ロギズアロー		ptrx1
-SLPS.80020AD8	ティルレイピア		ptrx1
-SLPS.80020AE8	ウルディピア		ptrx1
-SLPS.80020AF8	チュールフレール		ptrx1
-SLPS.80020B0C	セフィロート		ptrx1
-SLPS.80020B1C	レーラズロッド		ptrx1
-SLPS.80020B2C	ワンドフギン		ptrx1
-SLPS.80020B3C	カドゥケウス		ptrx1
-SLPS.80020B4C	ボロディメイス		ptrx1
-SLPS.80020B5C	ホーリースタッフ		ptrx1
-SLPS.80020B70	リーグクリス		ptrx1
-SLPS.80020B80	スコルブレイカー		ptrx1
-SLPS.80020B94	クリスフォルセス		ptrx1
-SLPS.80020BA8	スクルドパラー		ptrx1
-SLPS.80020BB8	バルドゥーダー		ptrx1
-SLPS.80020BC8	ファブスレイヤー		ptrx1
-SLPS.80020BDC	ルグナサズ		ptrx1
-SLPS.80020BE8	カラズボルグ		ptrx1
-SLPS.80020BF8	エリヴァーガル		ptrx1
+SLPS.80020A84	パーテルノステル	Paternoster	ptrx1
+SLPS.80020A98	グロアローブ	Groa Robe	ptrx1
+SLPS.80020AA8	スカディアロー	Skadi Arrow	ptrx1
+SLPS.80020AB8	ケイロンボウ	Chiron Bow	ptrx1
+SLPS.80020AC8	ロギズアロー	Logiz Arrow	ptrx1
+SLPS.80020AD8	ティルレイピア	Tir Rapier	ptrx1
+SLPS.80020AE8	ウルディピア	Urdipia	ptrx1
+SLPS.80020AF8	チュールフレール	Tyr Fleuret	ptrx1
+SLPS.80020B0C	セフィロート	Sephiroth	ptrx1
+SLPS.80020B1C	レーラズロッド	Laerad Rod	ptrx1
+SLPS.80020B2C	ワンドフギン	Wand Huginn	ptrx1
+SLPS.80020B3C	カドゥケウス	Caduceus	ptrx1
+SLPS.80020B4C	ボロディメイス	Borodi Mace	ptrx1
+SLPS.80020B5C	ホーリースタッフ	Holy Staff	ptrx1
+SLPS.80020B70	リーグクリス	Rigkris	ptrx1
+SLPS.80020B80	スコルブレイカー	Skollbreaker	ptrx1
+SLPS.80020B94	クリスフォルセス	Krisforses	ptrx1
+SLPS.80020BA8	スクルドパラー	Skuldparer	ptrx1
+SLPS.80020BB8	バルドゥーダー	Baldudar	ptrx1
+SLPS.80020BC8	ファブスレイヤー	Fafslayer	ptrx1
+SLPS.80020BDC	ルグナサズ	Lughnasadh	ptrx1
+SLPS.80020BE8	カラズボルグ	Caladbolg	ptrx1
+SLPS.80020BF8	エリヴァーガル	Elivagar	ptrx1
 SLPS.80020C08	銀のレイピア		ptrx2
-SLPS.80020C18	聖者のローブ		ptrx1
-SLPS.80020C28	魔よけのクリス		ptrx1
+SLPS.80020C18	聖者のローブ	saint's robe	ptrx1
+SLPS.80020C28	魔よけのクリス	warding kris	ptrx1
 SLPS.80020C38	銀のてい鉄		ptrx1
 SLPS.80020C44	銀のナイフ		ptrx1
-SLPS.80020C50	魔導士のローブ		ptrx1
-SLPS.80020C60	ギルドの護符		ptrx1
-SLPS.80020C70	ホーリークロイツ		ptrx1
-SLPS.80020C84	シルバークロス		ptrx1
-SLPS.80020C94	シルバーロザリオ		ptrx1
-SLPS.80020CA8	シルバーメダイユ		ptrx1
-SLPS.80020CBC	クロス		ptrx1
-SLPS.80020CC4	ロザリオ		ptrx1
+SLPS.80020C50	魔導士のローブ	mage's robe	ptrx1
+SLPS.80020C60	ギルドの護符	Guild amulet	ptrx1
+SLPS.80020C70	ホーリークロイツ	Holy Kreuz	ptrx1
+SLPS.80020C84	シルバークロス	Silver Cross	ptrx1
+SLPS.80020C94	シルバーロザリオ	Silver Rosary	ptrx1
+SLPS.80020CA8	シルバーメダイユ	Silver Medallion	ptrx1
+SLPS.80020CBC	クロス	Cross	ptrx1
+SLPS.80020CC4	ロザリオ	Rosary	ptrx1
 SLPS.80020CD0	メダイユ		ptrx1
-SLPS.80020CDC	エリアルブーツ		ptrx1
-SLPS.80020CEC	フェザーブーツ		ptrx1
-SLPS.80020CFC	フェイブーツ		ptrx1
-SLPS.80020D0C	ラピットブーツ		ptrx1
+SLPS.80020CDC	エリアルブーツ	Aerial Boots	ptrx1
+SLPS.80020CEC	フェザーブーツ	Feather Boots	ptrx1
+SLPS.80020CFC	フェイブーツ	Fay Boots	ptrx1
+SLPS.80020D0C	ラピットブーツ	Rapid Boots	ptrx1
 SLPS.80020D1C	レザーブーツ		ptrx1
-SLPS.80020D2C	プロテクトリング		ptrx1
-SLPS.80020D40	ダイヤリング		ptrx1
-SLPS.80020D50	アメシストリング		ptrx1
-SLPS.80020D64	オニキスリング		ptrx1
-SLPS.80020D74	パールリング		ptrx1
-SLPS.80020D84	コーラルリング		ptrx1
-SLPS.80020D94	ジャスパーリング		ptrx1
+SLPS.80020D2C	プロテクトリング	Protect Ring	ptrx1
+SLPS.80020D40	ダイヤリング	Diamond Ring	ptrx1
+SLPS.80020D50	アメシストリング	Amethyst Ring	ptrx1
+SLPS.80020D64	オニキスリング	Onyx Ring	ptrx1
+SLPS.80020D74	パールリング	Pearl Ring	ptrx1
+SLPS.80020D84	コーラルリング	Coral Ring	ptrx1
+SLPS.80020D94	ジャスパーリング	Jasper Ring	ptrx1
 SLPS.80020DA8	プラチナブレス		ptrx1
-SLPS.80020DB8	ゴールドブレス		ptrx1
-SLPS.80020DC8	エメラルドブレス		ptrx1
-SLPS.80020DDC	ガーネットブレス		ptrx1
-SLPS.80020DF0	クリスタルブレス		ptrx1
+SLPS.80020DB8	ゴールドブレス	Gold Bracelet	ptrx1
+SLPS.80020DC8	エメラルドブレス	Emerald Bracelet	ptrx1
+SLPS.80020DDC	ガーネットブレス	Garnet Bracelet	ptrx1
+SLPS.80020DF0	クリスタルブレス	Crystal Bracelet	ptrx1
 SLPS.80020E04	ターコイズブレス		ptrx1
 SLPS.80020E18	クォーツブレス		ptrx1
-SLPS.80020E28	ソウルペンダント		ptrx1
-SLPS.80020E3C	ダイヤペンダント		ptrx1
-SLPS.80020E50	ローズペンダント		ptrx1
-SLPS.80020E64	ルビィペンダント		ptrx1
-SLPS.80020E78	スターペンダント		ptrx1
-SLPS.80020E8C	ラピスペンダント		ptrx1
-SLPS.80020EA0	ベリルペンダント		ptrx1
-SLPS.80020EB4	ケルナアーマー		ptrx1
-SLPS.80020EC4	ミスリルアーマー		ptrx1
-SLPS.80020ED8	アークゥィバス		ptrx1
-SLPS.80020EE8	キュイラッサー		ptrx1
-SLPS.80020EF8	フレイタニエル		ptrx1
-SLPS.80020F08	フリューテッド		ptrx1
-SLPS.80020F18	フルアーマー		ptrx1
-SLPS.80020F28	ミザグリア		ptrx1
-SLPS.80020F34	プレイトアーマー		ptrx1
-SLPS.80020F48	プレイトメイル		ptrx1
-SLPS.80020F58	ミスリルメイル		ptrx1
-SLPS.80020F68	ドラゴンスケール		ptrx1
-SLPS.80020F7C	ジャザランド		ptrx1
-SLPS.80020F8C	スケールアーマー		ptrx1
-SLPS.80020FA0	ブリガンダイン		ptrx1
-SLPS.80020FB0	ホウバーグ		ptrx1
-SLPS.80020FBC	チェインメイル		ptrx1
-SLPS.80020FCC	レザーアーマー		ptrx1
-SLPS.80020FDC	ロリカ		ptrx1
-SLPS.80020FE4	クロスアーマー		ptrx1
-SLPS.80020FF4	ティスタルローブ		ptrx1
-SLPS.80021008	ヴァールローブ		ptrx1
-SLPS.80021018	ホーリーアルベ		ptrx1
-SLPS.80021028	スティカリオン		ptrx1
-SLPS.80021038	セイントローブ		ptrx1
-SLPS.80021048	ダルマチカ		ptrx1
-SLPS.80021054	アルベ		ptrx1
-SLPS.8002105C	ホワイトローブ		ptrx1
-SLPS.8002106C	ローブ		ptrx1
-SLPS.80021074	シェンゲフィオン		ptrx1
-SLPS.80021088	ウルズボウ		ptrx1
-SLPS.80021094	ジェンダワ		ptrx1
-SLPS.800210A0	スキタイボウ		ptrx1
-SLPS.800210B0	ロングボウ		ptrx1
-SLPS.800210BC	アイスブランチ		ptrx1
-SLPS.800210CC	ルーンソード		ptrx1
-SLPS.800210DC	ユリシュマルド		ptrx1
-SLPS.800210EC	フランベルク		ptrx1
-SLPS.800210FC	レイピア		ptrx1
-SLPS.80021108	ルーンワンド		ptrx1
-SLPS.80021118	スルードワンド		ptrx1
-SLPS.80021128	エムブラロッド		ptrx1
-SLPS.80021138	アスクワンド		ptrx1
-SLPS.80021148	ロッド		ptrx1
-SLPS.80021150	フレイルマグニ		ptrx1
-SLPS.80021160	エイルスタッフ		ptrx1
-SLPS.80021170	フレイル		ptrx1
-SLPS.8002117C	メイス		ptrx1
-SLPS.80021184	スタッフ		ptrx1
-SLPS.80021190	クレセント		ptrx1
-SLPS.8002119C	シヨテル		ptrx1
-SLPS.800211A8	ハルパー		ptrx1
-SLPS.800211B4	クファルジャル		ptrx1
-SLPS.800211C4	ククリ		ptrx1
-SLPS.800211CC	スラヴォーダ		ptrx1
-SLPS.800211DC	フィランギ		ptrx1
-SLPS.800211E8	バスタードソード		ptrx1
-SLPS.800211FC	クサナギ		ptrx1
-SLPS.80021208	ブレイド		ptrx1
-SLPS.80021214	アスカロン		ptrx1
-SLPS.80021220	エグゼキューター		ptrx1
-SLPS.80021234	ツヴァイハンダー		ptrx1
-SLPS.80021248	フランベルジュ		ptrx1
-SLPS.80021258	クレイモア		ptrx1
+SLPS.80020E28	ソウルペンダント	Soul Pendant	ptrx1
+SLPS.80020E3C	ダイヤペンダント	Diamond Pendant	ptrx1
+SLPS.80020E50	ローズペンダント	Rose Pendant	ptrx1
+SLPS.80020E64	ルビィペンダント	Ruby Pendant	ptrx1
+SLPS.80020E78	スターペンダント	Star Pendant	ptrx1
+SLPS.80020E8C	ラピスペンダント	Lapis Pendant	ptrx1
+SLPS.80020EA0	ベリルペンダント	Beryl Pendant	ptrx1
+SLPS.80020EB4	ケルナアーマー	Kerna Armor	ptrx1
+SLPS.80020EC4	ミスリルアーマー	Mithril Armor	ptrx1
+SLPS.80020ED8	アークゥィバス	Arquebus	ptrx1
+SLPS.80020EE8	キュイラッサー	Cuirassier	ptrx1
+SLPS.80020EF8	フレイタニエル	Freitaniel	ptrx1
+SLPS.80020F08	フリューテッド	Fluted	ptrx1
+SLPS.80020F18	フルアーマー	Full Armor	ptrx1
+SLPS.80020F28	ミザグリア	Missaglia	ptrx1
+SLPS.80020F34	プレイトアーマー	Plate Armor	ptrx1
+SLPS.80020F48	プレイトメイル	Plate Mail	ptrx1
+SLPS.80020F58	ミスリルメイル	Mithril Mail	ptrx1
+SLPS.80020F68	ドラゴンスケール	Dragon Scale	ptrx1
+SLPS.80020F7C	ジャザランド	Jazerant	ptrx1
+SLPS.80020F8C	スケールアーマー	Scale Armor	ptrx1
+SLPS.80020FA0	ブリガンダイン	Brigandine	ptrx1
+SLPS.80020FB0	ホウバーグ	Hauberk	ptrx1
+SLPS.80020FBC	チェインメイル	Chain Mail	ptrx1
+SLPS.80020FCC	レザーアーマー	Leather Armor	ptrx1
+SLPS.80020FDC	ロリカ	Lorica	ptrx1
+SLPS.80020FE4	クロスアーマー	Cloth Armor	ptrx1
+SLPS.80020FF4	ティスタルローブ	Tistal Robe	ptrx1
+SLPS.80021008	ヴァールローブ	Var Robe	ptrx1
+SLPS.80021018	ホーリーアルベ	Holy Alb	ptrx1
+SLPS.80021028	スティカリオン	Sticharion	ptrx1
+SLPS.80021038	セイントローブ	Saint Robe	ptrx1
+SLPS.80021048	ダルマチカ	Dalmatic	ptrx1
+SLPS.80021054	アルベ	Alb	ptrx1
+SLPS.8002105C	ホワイトローブ	White Robe	ptrx1
+SLPS.8002106C	ローブ	Robe	ptrx1
+SLPS.80021074	シェンゲフィオン	Schengefion	ptrx1
+SLPS.80021088	ウルズボウ	Urd Bow	ptrx1
+SLPS.80021094	ジェンダワ	Jendawa	ptrx1
+SLPS.800210A0	スキタイボウ	Scythian Bow	ptrx1
+SLPS.800210B0	ロングボウ	Longbow	ptrx1
+SLPS.800210BC	アイスブランチ	Ice Branch	ptrx1
+SLPS.800210CC	ルーンソード	Rune Sword	ptrx1
+SLPS.800210DC	ユリシュマルド	Urishmald	ptrx1
+SLPS.800210EC	フランベルク	Flamberge	ptrx1
+SLPS.800210FC	レイピア	Rapier	ptrx1
+SLPS.80021108	ルーンワンド	Rune Wand	ptrx1
+SLPS.80021118	スルードワンド	Thrud Wand	ptrx1
+SLPS.80021128	エムブラロッド	Embla Rod	ptrx1
+SLPS.80021138	アスクワンド	Ask Wand	ptrx1
+SLPS.80021148	ロッド	Rod	ptrx1
+SLPS.80021150	フレイルマグニ	Flail Magni	ptrx1
+SLPS.80021160	エイルスタッフ	Eir Staff	ptrx1
+SLPS.80021170	フレイル	Flail	ptrx1
+SLPS.8002117C	メイス	Mace	ptrx1
+SLPS.80021184	スタッフ	Staff	ptrx1
+SLPS.80021190	クレセント	Crescent	ptrx1
+SLPS.8002119C	シヨテル	Shotel	ptrx1
+SLPS.800211A8	ハルパー	Harpe	ptrx1
+SLPS.800211B4	クファルジャル	Kufarjal	ptrx1
+SLPS.800211C4	ククリ	Kukri	ptrx1
+SLPS.800211CC	スラヴォーダ	Slavoda	ptrx1
+SLPS.800211DC	フィランギ	Firangi	ptrx1
+SLPS.800211E8	バスタードソード	Bastard Sword	ptrx1
+SLPS.800211FC	クサナギ	Kusanagi	ptrx1
+SLPS.80021208	ブレイド	Blade	ptrx1
+SLPS.80021214	アスカロン	Ascalon	ptrx1
+SLPS.80021220	エグゼキューター	Executioner	ptrx1
+SLPS.80021234	ツヴァイハンダー	Zweihander	ptrx1
+SLPS.80021248	フランベルジュ	Flambard	ptrx1
+SLPS.80021258	クレイモア	Claymore	ptrx1
 SLPS.80021264	花束		ptrx1
-SLPS.8002126C	オリーブの実		ptrx1
+SLPS.8002126C	オリーブの実	olives	ptrx1
 SLPS.8002127C	騎士道の教本		ptrx1
 SLPS.8002128C	決闘用の手袋		ptrx1
 SLPS.8002129C	金のメダイユ		ptrx1
-SLPS.800212AC	森のしずく		ptrx1
+SLPS.800212AC	森のしずく	Forest Dew	ptrx1
 SLPS.800212B8	サンザシの実		ptrx1
-SLPS.800212C8	ハシバミの実		ptrx1
-SLPS.800212D8	クラダーリング		ptrx1
-SLPS.800212E8	タラブローチ		ptrx1
+SLPS.800212C8	ハシバミの実	hazelnuts	ptrx1
+SLPS.800212D8	クラダーリング	Claddagh ring	ptrx1
+SLPS.800212E8	タラブローチ	Tara brooch	ptrx1
 SLPS.800212F8	魔導書		ptrx1
-SLPS.80021300	クマのぬいぐるみ		ptrx1
+SLPS.80021300	クマのぬいぐるみ	teddy bear	ptrx1
 SLPS.80021314	羽ペン		ptrx1
 SLPS.8002131C	ヤドリギの枝		ptrx1
-SLPS.8002132C	タローカード		ptrx1
-SLPS.8002133C	年代物のワイン		ptrx1
+SLPS.8002132C	タローカード	tarot cards	ptrx1
+SLPS.8002133C	年代物のワイン	vintage wine	ptrx1
 SLPS.8002134C	聖水		ptrx1
-SLPS.80021354	珍しいスパイス		ptrx1
-SLPS.80021364	象牙のナイフ		ptrx1
+SLPS.80021354	珍しいスパイス	rare spices	ptrx1
+SLPS.80021364	象牙のナイフ	ivory knife	ptrx1
 SLPS.80021374	ゾウの置物		ptrx1
 SLPS.80021380	シルクのハンカチ		ptrx1
-SLPS.80021394	ゾンビパウダー		ptrx1
+SLPS.80021394	ゾンビパウダー	zombie powder	ptrx1
 SLPS.800213A4	命の水		ptrx1
 SLPS.800213AC	ミカエルの羽		ptrx1
 SLPS.800213BC	ラファエルの羽		ptrx1
@@ -380,15 +380,15 @@ SLPS.8002144C	伝説の本		ptrx1
 SLPS.80021458	歴史の本		ptrx1
 SLPS.80021464	聖霊の本		ptrx1
 SLPS.80021470	妖精の本		ptrx1
-SLPS.8002147C	ナーシサス		ptrx1
-SLPS.80021488	アニス		ptrx1
-SLPS.80021490	サルフィア		ptrx1
-SLPS.8002149C	オリバナム		ptrx1
-SLPS.800214A8	ホーリーミルラ		ptrx1
-SLPS.800214B8	ミルラ		ptrx1
-SLPS.800214C0	オールポーション		ptrx1
-SLPS.800214D4	ハイポーション		ptrx1
-SLPS.800214E4	ポーション		ptrx1
+SLPS.8002147C	ナーシサス	Narcissus	ptrx1
+SLPS.80021488	アニス	Anise	ptrx1
+SLPS.80021490	サルフィア	Salvia	ptrx1
+SLPS.8002149C	オリバナム	Olibanum	ptrx1
+SLPS.800214A8	ホーリーミルラ	Holy Myrrh	ptrx1
+SLPS.800214B8	ミルラ	Myrrh	ptrx1
+SLPS.800214C0	オールポーション	All Potion	ptrx1
+SLPS.800214D4	ハイポーション	Hi-Potion	ptrx1
+SLPS.800214E4	ポーション	Potion	ptrx1
 SLPS.800214F0	辺境		ptrx1
 SLPS.800214F8	レグランス王国		ptrx1
 SLPS.80021508	未開の地		ptrx1
@@ -397,66 +397,66 @@ SLPS.80021520	エクレシア教国		ptrx1
 SLPS.80021530	ブレメース島	Bremes Isle	ptrx1
 SLPS.80021540	ゼルン公国	Zern	ptrx1
 SLPS.8002154C	クレージュ公国		ptrx1
-SLPS.8002155C	グローサイン帝国		ptrx1
-SLPS.80021570	ガル		ptrx1
-SLPS.80021578	ターナ		ptrx1
-SLPS.80021580	ルーガ		ptrx1
-SLPS.80021588	アガティール		ptrx1
-SLPS.80021598	メクネス		ptrx1
-SLPS.800215A4	フェス		ptrx1
-SLPS.800215AC	ナーシク		ptrx1
-SLPS.800215B8	ボーバール		ptrx1
-SLPS.800215C4	ウル		ptrx1
-SLPS.800215CC	ルセナ		ptrx1
-SLPS.800215D4	エローラ		ptrx1
-SLPS.800215E0	カディス		ptrx1
-SLPS.800215EC	ラクナウ		ptrx1
-SLPS.800215F8	ナクファ		ptrx1
-SLPS.80021604	エルメド		ptrx1
-SLPS.80021610	ナクル		ptrx1
-SLPS.80021618	タルラック		ptrx1
-SLPS.80021624	クラン		ptrx1
-SLPS.8002162C	カラグブル		ptrx1
-SLPS.80021638	カルナール		ptrx1
-SLPS.80021644	ケナー		ptrx1
-SLPS.8002164C	ザルハ		ptrx1
-SLPS.80021654	ラシード		ptrx1
-SLPS.80021660	ハラール		ptrx1
-SLPS.8002166C	フレゼレシア		ptrx1
-SLPS.8002167C	バーゼル		ptrx1
-SLPS.80021688	ロルカ		ptrx1
-SLPS.80021690	パレーゼ		ptrx1
-SLPS.8002169C	ラナス		ptrx1
-SLPS.800216A4	レフカス		ptrx1
-SLPS.800216B0	アレス		ptrx1
-SLPS.800216B8	ラングーサ		ptrx1
-SLPS.800216C4	リナレス		ptrx1
-SLPS.800216D0	セレスタ		ptrx1
-SLPS.800216DC	セルバ		ptrx1
-SLPS.800216E4	ブラシア		ptrx1
-SLPS.800216F0	レンボルク		ptrx1
-SLPS.800216FC	ブレメース		ptrx1
-SLPS.80021708	ラビルク		ptrx1
-SLPS.80021714	リアザ		ptrx1
-SLPS.8002171C	デルフゼイル		ptrx1
-SLPS.8002172C	リガ		ptrx1
-SLPS.80021734	ミアース		ptrx1
-SLPS.80021740	フネアドラ		ptrx1
-SLPS.8002174C	デーバ		ptrx1
-SLPS.80021754	スラティナ		ptrx1
-SLPS.80021760	アルバリア		ptrx1
-SLPS.8002176C	ブレンナール		ptrx1
-SLPS.8002177C	タイシュート		ptrx1
-SLPS.8002178C	エルランゲス		ptrx1
-SLPS.8002179C	クラクフ		ptrx1
-SLPS.800217A8	アラリスカ		ptrx1
-SLPS.800217B4	アルマビラ		ptrx1
-SLPS.800217C0	アナディール		ptrx1
-SLPS.800217D0	ラグニッツ		ptrx1
-SLPS.800217DC	？？？？？		ptrx1
+SLPS.8002155C	グローサイン帝国	Grosain Empire	ptrx1
+SLPS.80021570	ガル	Gal	ptrx1
+SLPS.80021578	ターナ	Thana	ptrx1
+SLPS.80021580	ルーガ	Ruga	ptrx1
+SLPS.80021588	アガティール	Agadir	ptrx1
+SLPS.80021598	メクネス	Meknes	ptrx1
+SLPS.800215A4	フェス	Fes	ptrx1
+SLPS.800215AC	ナーシク	Nashik	ptrx1
+SLPS.800215B8	ボーバール	Bobar	ptrx1
+SLPS.800215C4	ウル	Ur	ptrx1
+SLPS.800215CC	ルセナ	Lucena	ptrx1
+SLPS.800215D4	エローラ	Ellora	ptrx1
+SLPS.800215E0	カディス	Cadiz	ptrx1
+SLPS.800215EC	ラクナウ	Lucknow	ptrx1
+SLPS.800215F8	ナクファ	Nakfa	ptrx1
+SLPS.80021604	エルメド	Elmed	ptrx1
+SLPS.80021610	ナクル	Nakuru	ptrx1
+SLPS.80021618	タルラック	Tarlac	ptrx1
+SLPS.80021624	クラン	Kran	ptrx1
+SLPS.8002162C	カラグブル	Kharagpur	ptrx1
+SLPS.80021638	カルナール	Karnal	ptrx1
+SLPS.80021644	ケナー	Kenner	ptrx1
+SLPS.8002164C	ザルハ	Zarha	ptrx1
+SLPS.80021654	ラシード	Rashid	ptrx1
+SLPS.80021660	ハラール	Harar	ptrx1
+SLPS.8002166C	フレゼレシア	Frezelecia	ptrx1
+SLPS.8002167C	バーゼル	Basel	ptrx1
+SLPS.80021688	ロルカ	Lorca	ptrx1
+SLPS.80021690	パレーゼ	Valese	ptrx1
+SLPS.8002169C	ラナス	Lanas	ptrx1
+SLPS.800216A4	レフカス	Lefkas	ptrx1
+SLPS.800216B0	アレス	Ares	ptrx1
+SLPS.800216B8	ラングーサ	Langusa	ptrx1
+SLPS.800216C4	リナレス	Linares	ptrx1
+SLPS.800216D0	セレスタ	Celesta	ptrx1
+SLPS.800216DC	セルバ	Selva	ptrx1
+SLPS.800216E4	ブラシア	Brasia	ptrx1
+SLPS.800216F0	レンボルク	Lemborg	ptrx1
+SLPS.800216FC	ブレメース	Bremes	ptrx1
+SLPS.80021708	ラビルク	Labirk	ptrx1
+SLPS.80021714	リアザ	Riaza	ptrx1
+SLPS.8002171C	デルフゼイル	Delfzijl	ptrx1
+SLPS.8002172C	リガ	Riga	ptrx1
+SLPS.80021734	ミアース	Miath	ptrx1
+SLPS.80021740	フネアドラ	Hunedoara	ptrx1
+SLPS.8002174C	デーバ	Deva	ptrx1
+SLPS.80021754	スラティナ	Slatina	ptrx1
+SLPS.80021760	アルバリア	Albaria	ptrx1
+SLPS.8002176C	ブレンナール	Brennar	ptrx1
+SLPS.8002177C	タイシュート	Taishut	ptrx1
+SLPS.8002178C	エルランゲス	Erlanges	ptrx1
+SLPS.8002179C	クラクフ	Krakow	ptrx1
+SLPS.800217A8	アラリスカ	Alariska	ptrx1
+SLPS.800217B4	アルマビラ	Almavila	ptrx1
+SLPS.800217C0	アナディール	Anadyr	ptrx1
+SLPS.800217D0	ラグニッツ	Ragnitz	ptrx1
+SLPS.800217DC	？？？？？	?????	ptrx1
 SLPS.800217E8	沼　		ptrx1
 SLPS.800217F0	水際		ptrx1
-SLPS.800217F8	街　		ptrx1
+SLPS.800217F8	街　	Town	ptrx1
 SLPS.80021800	森　		ptrx1
 SLPS.80021808	荒野		ptrx1
 SLPS.80021810	平野		ptrx1
@@ -480,14 +480,14 @@ SLPS.800218BC	ラビエル	Raviel	luix1
 SLPS.80021B9C	FontEntryBuf() ～ Font Manager Buffer Locate Error...{0A}		luix1
 SLPS.80021BD4	FontEntryBuf() ～ UnKnown Code...{0A}		luix2
 SLPS.80021BF8	FontEntryBuf() ～ Font Data Transer VRAM Error...{0A}		luix1
-SLPS.80021C80	・・・・・		luix1
+SLPS.80021C80	・・・・・	.....	luix1
 SLPS.80021C8C	＄＄＄＄＄＄	＄＄＄＄＄＄	luix1
 SLPS.8008CCA8	いいえ	No	ptrx1
 SLPS.8008CCB0	はい	Yes	ptrx1
-SLPS.8008CCB8	スロット２		ptrx1
-SLPS.8008CCC4	スロット１		ptrx1
-SLPS.8008CCD0	ロード		ptrx1
-SLPS.8008CCD8	セーブ		ptrx1
+SLPS.8008CCB8	スロット２	Slot 2	ptrx1
+SLPS.8008CCC4	スロット１	Slot 1	ptrx1
+SLPS.8008CCD0	ロード	Load	ptrx1
+SLPS.8008CCD8	セーブ	Save	ptrx1
 SLPS.8008CD74	純白の預言者　システム　　　　　		luix1
 SLPS.8008CD98	純白の預言者　ゲームデータ０１　		luix1
 SLPS.8008CDBC	純白の預言者　ゲームデータ０２　		luix1
@@ -501,38 +501,38 @@ SLPS.8008CEB8	純白の預言者　ゲームデータ０９　		luix1
 SLPS.8008CEDC	純白の預言者　ゲームデータ１０　		luix1
 SLPS.8008CF00	純白の預言者　ゲームデータ１１　		luix1
 SLPS.8008CF24	純白の預言者　ゲームデータ１２　		luix1
-SLPS.8008D22C	フォーマットされていません		luix1
-SLPS.8008D248	フォーマットしますか？		luix1
+SLPS.8008D22C	フォーマットされていません	Not formatted.	luix1
+SLPS.8008D248	フォーマットしますか？	Format it?	luix1
 SLPS.8008D260	処理中にメモリーカードが抜かれました		luix9
 SLPS.8008D288	処理中はメモリーカードを抜かないでください		luix9
-SLPS.8008D2B4	フォーマット中		luix1
-SLPS.8008D2C4	メモリーカードを抜き差ししないで下さい。		luix3
-SLPS.8008D2F0	フォーマットしました		luix1
-SLPS.8008D308	フォーマット出来ませんでした		luix1
-SLPS.8008D35C	読み込み中・・・		luix1
+SLPS.8008D2B4	フォーマット中	Formatting	luix1
+SLPS.8008D2C4	メモリーカードを抜き差ししないで下さい。	Do not insert or remove the Memory Card.	luix3
+SLPS.8008D2F0	フォーマットしました	Formatted.	luix1
+SLPS.8008D308	フォーマット出来ませんでした	Could not format.	luix1
+SLPS.8008D35C	読み込み中・・・	Loading...	luix1
 SLPS.8008D370	読み込み終了		luix1
 SLPS.8008D380	データが壊れています		luix1
 SLPS.8008D398	読み込み失敗		luix1
-SLPS.8008D3A8	ファイルがありません		luix2
-SLPS.8008D3C0	チェック中・・・		luix1
-SLPS.8008D3D4	ファイルがすでに存在します		luix1
-SLPS.8008D3F0	上書きしますか？		luix1
-SLPS.8008D404	書き込み中・・・		luix1
+SLPS.8008D3A8	ファイルがありません	No file found.	luix2
+SLPS.8008D3C0	チェック中・・・	Checking...	luix1
+SLPS.8008D3D4	ファイルがすでに存在します	The file already exists.	luix1
+SLPS.8008D3F0	上書きしますか？	Overwrite it?	luix1
+SLPS.8008D404	書き込み中・・・	Saving...	luix1
 SLPS.8008D418	書き込み終了		luix1
 SLPS.8008D428	書き込み失敗		luix1
-SLPS.8008D438	空きブロックが足りません		luix1
-SLPS.8008D4AC	クリアデータをロードする		luix1
-SLPS.8008D4C8	システムデータをロードする		luix1
-SLPS.8008D4E4	システムデータをセーブする		luix1
-SLPS.8008D500	ゲームデータをセーブする		luix1
-SLPS.8008D51C	ゲームデータをロードする		luix1
-SLPS.8008D538	クリアデータをセーブする		luix1
-SLPS.8008D554	フェイバリットディアのデータが入った		luix1
-SLPS.8008D57C	メモリーカードスロットを選択してください		luix1
-SLPS.8008D5C8	セーブしますか？　ロードしますか？		luix1
-SLPS.8008D5EC	メモリーカードチェック中		luix1
-SLPS.8008D608	メモリーカードがありません		luix1
-SLPS.8008D634	ファイルを確認しました		luix1
-SLPS.8008D6A0	セーブする場所を選んでください		luix1
-SLPS.8008D6C0	ロードする場所を選んでください		luix1
-SLPS.8008D6FC	ファイルチェック中		luix1
+SLPS.8008D438	空きブロックが足りません	Not enough free blocks.	luix1
+SLPS.8008D4AC	クリアデータをロードする	Load clear data	luix1
+SLPS.8008D4C8	システムデータをロードする	Load system data	luix1
+SLPS.8008D4E4	システムデータをセーブする	Save system data	luix1
+SLPS.8008D500	ゲームデータをセーブする	Save game data	luix1
+SLPS.8008D51C	ゲームデータをロードする	Load game data	luix1
+SLPS.8008D538	クリアデータをセーブする	Save clear data	luix1
+SLPS.8008D554	フェイバリットディアのデータが入った	Select the Memory Card slot	luix1
+SLPS.8008D57C	メモリーカードスロットを選択してください	holding your "Favorite Dear" data.	luix1
+SLPS.8008D5C8	セーブしますか？　ロードしますか？	Save or load?	luix1
+SLPS.8008D5EC	メモリーカードチェック中	Checking the Memory Card	luix1
+SLPS.8008D608	メモリーカードがありません	No Memory Card inserted.	luix1
+SLPS.8008D634	ファイルを確認しました	File confirmed.	luix1
+SLPS.8008D6A0	セーブする場所を選んでください	Choose where to save.	luix1
+SLPS.8008D6C0	ロードする場所を選んでください	Choose where to load from.	luix1
+SLPS.8008D6FC	ファイルチェック中	Checking files	luix1

@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate (phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
+- **Phase:** 6. Translate: all 92 batches translated (2026-11-21); the reviewer pass is what's left (phase 5 done
+  2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 5 result:** width gate complete in `docs/re/text.md` §Width gate: dialogue / MSG / exam / battle boxes 44
   letters per line (3 lines; battle 2; last line 43 for the page gem), name tags 12 letters, .end narration 42,
   menu buttons ~12-14, help bar ~40. Glyph torture line renders all 84 glyphs (`work/qa/p5/torture/zoom.png`).
@@ -101,8 +102,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   loev02-Loev15A_01 incl. Savia/Savio's backstory; b084 ends at Loev15A_01.0C8A). Build + check.py green; `warp.py
   --event laev07_01.ssb --event loev09.ssb` both OK. New names: ソーザ Souza (noble), レオニ Leoni (boy); tags 衛兵
   "Guard", 街の娘 "Town Girl"; Rudi's alias ルディ・トライア "Rudi Trier".
-- **Next (phase 6):** continue at b085 (`batches.py todo`; loev/roev EVX b085-b087, .end b088-b089, Dummy00/ed/op/pro/rfd2/SLPS b089-b092). Budgets above; BTL_EVT banks have a 64 KB cap
-  (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
+  2026-11-21 (13th worker): **b085-b092** done, `batches.py todo` is empty (Rudiere EVX loev15-27 incl. Savio's end,
+  Rocus EVX roev06-25 incl. Ion's death, Viper's end and his healing visits to every hero; all 21 .end epilogues;
+  Dummy00; ed clear-data prompts; op gallery captions; pro quiz; rfd2 field/heaven menus; EXE town table, item and
+  equipment names, memory-card messages). Build + check.py + smoke green; `warp.py --event loev16.ssb --event
+  roev20_09.ssb` and `warp.py heaven map_fairy` all OK with English. Tool changes: `batches.py merge` now holds back
+  EVERY EXE/overlay row whose English is longer than the JP (451 rows, listed by merge; the English stays in
+  `trans/en/` for phase 7) and clears a stale `en`; `check` fails `fixed N-byte record` rows over N-1 bytes (Dummy00
+  broke the build), allows ￥ (quiz line break) when the JP count matches, and accepts a capitalised / title-case
+  glossary term ("Chaos Level"). Left Japanese on purpose (`-`): debug printfs, memory-card titles, the kana grid
+  pro.800A1864, the ＜...＞ placeholder keys and ００/００００/full-width digits in rfd2 (string-match keys and number
+  glyphs), blank/space rows. Phase 7 notes: rfd2 builds sentences from fragments (`[fairy]を[hero]に同行させますか？`,
+  `これは N 個持っているわね。`): English fragments were written to read in JP order (", accompany " + "?",
+  "Of these, you have " + "."), check them in game; rfd2.8009D958 (Titania on a fairy, 彼女) written neutral;
+  SLPS パレーゼ treated as Valese (バレーゼ). Glossary gained the EXE town table, heaven palaces, Holy Nation.
+- **Next (phase 6):** the reviewer pass (done-when: no Critical/Important issues). No codex until 2026-11-26: do it as
+  fresh read-only passes over `trans/en/` vs `trans/batches/` per route (names vs glossary, the angel's gender,
+  voices, honorifics), fix in `trans/parts/`, re-join, `check`, `merge`, build. Then write `docs/synopsis.md` and
+  move to phase 7 (relocate the 451 held EXE/overlay rows, rebalance orphan pages, name-tag table).
+  Budgets: BTL_EVT banks 64 KB cap, EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**
   - Step 0, phases 1-3 (see git history; `docs/re/README.md`, `docs/re/debug.md`, `docs/re/disc.md`): 66 warp scenes
