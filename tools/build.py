@@ -230,6 +230,8 @@ def main():
         for gfx in (plates, banners, album):
             for archive, entries in gfx.changes().items():
                 lkf_changes.setdefault(archive, {}).update(entries)
+        import fmv
+        files.update(fmv.changes())   # FMV captions (G14/G15), cached in build/fmv/
         stem = a.stem or ("fd2_ruler" if a.ruler else "fd2_marker" if a.marker else "fd2_en")
         write_logs(stem, heap, lkf_changes, files)
         files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes(), heap)

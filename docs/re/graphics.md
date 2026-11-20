@@ -37,7 +37,7 @@ tour adds any screen the sweep can't see (text composed at runtime from glyph st
 | G11 | Spell-effect glyphs | GRPDATA_1494 (KANJI.tim) | six large decorative pseudo-kanji (not real characters) | probably keep (they are effect art); confirm on the tour |
 | G12 | Developer scraps in sprite sheets | GRPDATA_0095 (防 死 ひざ), 0096 (small notes), 0183/0196 (tiny labels) | tiny notes | almost certainly never drawn; confirm none appears on the tour |
 | G13 | "開発中" test screens | GRPDATA_1423, 1424 (test01/02) | 開発中 | test images, guess unused (no reference found yet) |
-| G14 | Opening movie captions | DEMO.STR | burned-in lyric/caption lines (うるわしき実り豊かな土地...) | FMV re-encode or subtitle overlay: phase 8 decision |
+| G14 | Opening movie captions | DEMO.STR | burned-in lyric/caption lines (うるわしき実り豊かな土地...) | **done** (2026-11-21): 7 captions re-encoded in place (`tools/fmv.py`, `gfx/fmv.tsv`, codec `tools/mdec.py`); seen in the emulator boot (`work/qa/p8/demo_emu.png`). The title logo in the movie stays (same as the title screen) |
 | G15 | Ending movie captions + logo + staff roll | ENDING.STR (52728 sectors) | 悲しみはよろこびに場所を譲り / 勇者は希望の礎となる──, 純白の預言者 logo, full Japanese cast and staff credits | D3 says credits in English: FMV re-encode (MDEC) or overlay; phase 8 |
 
 Already English in the original (no work): menu labels and stats (GRPDATA_0001, 0002, 0049 right part, 0054
