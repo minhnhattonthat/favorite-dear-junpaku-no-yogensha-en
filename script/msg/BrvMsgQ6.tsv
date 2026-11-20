@@ -1,184 +1,184 @@
 id	jp	en	notes
 BrvMsgQ6.0190	天使様、まだなにかお話がありますか？		
-BrvMsgQ6.01B6	体調は？		
-BrvMsgQ6.01C0	疲れていませんか？		
+BrvMsgQ6.01B6	体調は？	Your health?	
+BrvMsgQ6.01C0	疲れていませんか？	Aren't you tired?	
 BrvMsgQ6.01D6	はい、大丈夫です。{wait}{clear}こうしていろいろな土地を歩くことができて、{n}とてもうれしいですし。{n}だから、少しぐらい疲れても平気です。{wait}{clear}でも、こんなにのんびりした気持ちでいては、{n}本当はいけないのですよね……。		
-BrvMsgQ6.02A4	一緒に歩く		
-BrvMsgQ6.02B0	一緒に歩いてもいいですか？		
+BrvMsgQ6.02A4	一緒に歩く	Walk together	
+BrvMsgQ6.02B0	一緒に歩いてもいいですか？	May I walk with you?	
 BrvMsgQ6.02CE	はい！{wait}{clear}でも、天使様と並んで歩くなんて、{n}ちょっと不思議な感じですね。		
-BrvMsgQ6.0318	風を感じる		
-BrvMsgQ6.0324	風に吹かれながら歩くのは、気持ちいいですね。		
+BrvMsgQ6.0318	風を感じる	Feel the wind	
+BrvMsgQ6.0324	風に吹かれながら歩くのは、気持ちいいですね。	It feels nice to walk with the wind blowing,{n}doesn't it?	
 BrvMsgQ6.0354	ええ、本当にそう思います。{wait}{clear}でも、ときどき吹く強い風には、{n}なんだか胸騒ぎを感じます……。{wait}{clear}私の気のせいだといいのですけど……。		
-BrvMsgQ6.03DA	険しい道		
-BrvMsgQ6.03E4	行き先によっては、険しい道が多くなって{n}大変なこともあると思いますが、大丈夫ですか？		
+BrvMsgQ6.03DA	険しい道	Rough roads	
+BrvMsgQ6.03E4	行き先によっては、険しい道が多くなって{n}大変なこともあると思いますが、大丈夫ですか？	Depending on where you go, there may be a{n}lot of rough roads, which could be hard.{n}Will you be all right?	
 BrvMsgQ6.043C	はい、心配しないでください、天使様。{n}でこぼこした場所とか、森の中とかの方が、{n}私には歩きやすい場所ですし。{wait}{clear}森の生活で、道ではないところを歩く方が{n}私には簡単なことですから。		
-BrvMsgQ6.04F0	初めての場所		
-BrvMsgQ6.04FE	初めての場所へ行って、{n}道に迷ったりすることはありませんか？		
+BrvMsgQ6.04F0	初めての場所	New places	
+BrvMsgQ6.04FE	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
 BrvMsgQ6.053E	はい……あります……。{wait}{clear}森の中を歩いているときのように、{n}目じるしになるものを{n}ちゃんと見ているつもりなんですけど……。{wait}{clear}はじめて見るものに夢中になってしまったり{n}人の多いところへ行くと{n}自分がどこにいるのかわからなくって……。{wait}{clear}森ではそんなことはなかったんですけど。		
-BrvMsgQ6.0652	青い空		
-BrvMsgQ6.065A	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。		
+BrvMsgQ6.0652	青い空	Blue sky	
+BrvMsgQ6.065A	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
 BrvMsgQ6.072E	天使様もそう思われるのですね。{n}空はとても美しいと私も思います。{wait}{clear}怒りのような嵐やきびしい日照りのような顔を{n}見せるときもありますけれど……。{wait}{clear}豊かな光と雨を与えてくれる、{n}美しくて大切な空だと私は思っています。		
-BrvMsgQ6.0808	素敵な景色		
-BrvMsgQ6.0814	アルカヤには、{n}すばらしい景色がたくさんありますね。		
+BrvMsgQ6.0808	素敵な景色	Lovely views	
+BrvMsgQ6.0814	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
 BrvMsgQ6.084C	はい、私もそう思います。{wait}{clear}いまは、見るものすべてに{n}そう感じています……。{wait}{clear}自然がつくったものはもちろんですが、{n}人の手によってつくられたものも……。		
-BrvMsgQ6.08E8	妖精は役に立つ？		
-BrvMsgQ6.08FA	妖精たちは助けになっていますか？		
+BrvMsgQ6.08E8	妖精は役に立つ？	Fairies useful?	
+BrvMsgQ6.08FA	妖精たちは助けになっていますか？	Are the fairies a help to you?	
 BrvMsgQ6.091E	はい、もちろんです。{wait}{clear}小さい体で、{n}とても一生懸命につくしてくれます。{wait}{clear}私もなにかお返しができればと思うのですが……。{n}なにかいい考えはありませんか？　天使様？		
-BrvMsgQ6.09C4	旅先で思うこと		
-BrvMsgQ6.09D4	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？		
+BrvMsgQ6.09C4	旅先で思うこと	On the road	
+BrvMsgQ6.09D4	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
 BrvMsgQ6.0A16	そうですね……。{wait}{clear}私は森から出てみたいと思っていましたけど、{n}まさか、天使様と一緒に旅することになるとは{n}思っても見ませんでしたし……。{wait}{clear}最初は、見るものすべてがめずらしく、{n}とても魅力的に思えました。{wait}{clear}いまもそうですが……でも……{n}あらためて、森がどれだけ大切なのかが{n}わかったような気がします。		
-BrvMsgQ6.0B48	旅で出会う人		
-BrvMsgQ6.0B56	旅先で人と出会うのは楽しいですね。		
+BrvMsgQ6.0B48	旅で出会う人	People met	
+BrvMsgQ6.0B56	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
 BrvMsgQ6.0B7C	そうですね。{wait}{clear}いろいろな人に会って、お話をして……{n}いろいろなことを感じます。{wait}{clear}町の人たちは、中には冷たい感じのする人も{n}いますけど……でも、森のみんなと気持ちは{n}変わらないんだなって、いまは思います。		
-BrvMsgQ6.0C4C	いい夢が……		
-BrvMsgQ6.0C5A	いい夢が見られるといいですね。		
+BrvMsgQ6.0C4C	いい夢が……	Sweet dreams	
+BrvMsgQ6.0C5A	いい夢が見られるといいですね。	I hope you have sweet dreams.	
 BrvMsgQ6.0C7C	ありがとうございます、天使様。{n}夢を見ながら、ぐっすり眠れればと思います。		
-BrvMsgQ6.0CC8	お疲れさま		
-BrvMsgQ6.0CD4	お疲れさまでした。		
+BrvMsgQ6.0CC8	お疲れさま	Good work	
+BrvMsgQ6.0CD4	お疲れさまでした。	Thank you for your hard work.	
 BrvMsgQ6.0CEA	はい、天使様、お疲れさまでした。{n}天使様も疲れてはいませんか？{wait}{clear}いつも私の心配ばかりしてくださって……。{n}天使様もきちんと休んでくださいね。		
-BrvMsgQ6.0D7A	眠るのは好き？		
-BrvMsgQ6.0D8A	眠ることは好きですか？		
+BrvMsgQ6.0D7A	眠るのは好き？	Like sleeping?	
+BrvMsgQ6.0D8A	眠ることは好きですか？	Do you like sleeping?	
 BrvMsgQ6.0DA4	天使様はたまに、へんなことを聞くのですね。{wait}{clear}眠ることは嫌いではないですよ。{n}森の木の上や、少し開けた場所の草の上で{n}のんびりお昼寝すると、とても気持ちがいいです。{wait}{clear}天使様にも{n}一度経験してもらえたら、いいのですけどね。		
-BrvMsgQ6.0E84	出来事		
-BrvMsgQ6.0E8C	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。		
+BrvMsgQ6.0E84	出来事	Events	
+BrvMsgQ6.0E8C	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。	I'm sure a lot has happened, but please get{n}some good rest.	
 BrvMsgQ6.0ED0	本当に、毎日いろいろなことがありますね。{n}うれしいことも、そうでないことも……。{wait}{clear}寝る前は、今日あった出来事を{n}いろいろ考えてしまうことが多くて……。{wait}{clear}でも、心配しないでくださいね、天使様。{n}ちゃんと寝ますから。		
-BrvMsgQ6.0FAA	何かすることは？		
-BrvMsgQ6.0FBC	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？		
+BrvMsgQ6.0FAA	何かすることは？	Bedtime habit?	
+BrvMsgQ6.0FBC	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？	Is there anything you do before bed, or any{n}habit you have?	
 BrvMsgQ6.1008	私たちのすべてを支えてくれている、{n}森と自然への感謝の祈りをささげます。{wait}{clear}これは、どこへ行っても忘れません。		
-BrvMsgQ6.1078	いつもと違う場所		
-BrvMsgQ6.108A	いつもと違う場所でも{n}しっかり眠ることができますか？		
+BrvMsgQ6.1078	いつもと違う場所	Strange places	
+BrvMsgQ6.108A	いつもと違う場所でも{n}しっかり眠ることができますか？	Can you sleep well even in an unfamiliar{n}place?	
 BrvMsgQ6.10C2	はい、ずいぶん慣れました。{n}でも、ときどき森の素朴なベッドの感じを{n}なつかしく思い出したりもします。		
-BrvMsgQ6.1128	眠れないときは		
-BrvMsgQ6.1138	眠れないときはどうしていますか。		
+BrvMsgQ6.1128	眠れないときは	Can't sleep?	
+BrvMsgQ6.1138	眠れないときはどうしていますか。	What do you do when you can't sleep?	
 BrvMsgQ6.115C	よほど眠れないときには、外へ出ます。{n}晴れていれば星を見たり、{n}近くに森や林があれば、そこへ行ったりします。{wait}{clear}星のまたたきを見て、その光を浴びたり、{n}森で木々のささやきを耳にすれば{n}気持ちがゆったりしてくるので。		
-BrvMsgQ6.1234	故郷のこと		
-BrvMsgQ6.1240	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？		
+BrvMsgQ6.1234	故郷のこと	Your home	
+BrvMsgQ6.1240	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？	Traveling the world like this, don't you{n}ever think about your home?	
 BrvMsgQ6.1290	そうですね……忘れたことはありません。{wait}{clear}こんな状況だからこそ、{n}森のことを考えてしまいますし。{wait}{clear}外へ出て、はじめてわかったことが{n}本当に、たくさんあります。{wait}{clear}私を導いてくださって{n}ありがとうございます、天使様……。		
-BrvMsgQ6.136E	一緒にいたい		
-BrvMsgQ6.137C	しばらく一緒にいても、かまいませんか？		
+BrvMsgQ6.136E	一緒にいたい	Stay with you	
+BrvMsgQ6.137C	しばらく一緒にいても、かまいませんか？	Would you mind if I stayed with you a while?	
 BrvMsgQ6.13A6	ええ、よろこんで。{n}なんのお話をしましょうね、天使様。		
-BrvMsgQ6.13DE	起きたときには		
-BrvMsgQ6.13EE	目が覚めたときに必ずすることがありますか？		
+BrvMsgQ6.13DE	起きたときには	On waking	
+BrvMsgQ6.13EE	目が覚めたときに必ずすることがありますか？	Is there anything you always do when you{n}wake up?	
 BrvMsgQ6.141C	へんなことが気にするのですね、天使様は。{wait}{clear}そうですね……{n}旅をはじめてからはひとりなので、{n}特別なにもしていませんけど……。{wait}{clear}森にいたときには、水をくみにいったり、{n}朝食の準備をしたり……いろいろやっていました。{n}いまは、とってものんびりしていますけど。		
-BrvMsgQ6.1520	まだ続ける？		
-BrvMsgQ6.152E	まだ続けるのですか？		
+BrvMsgQ6.1520	まだ続ける？	Keep going?	
+BrvMsgQ6.152E	まだ続けるのですか？	Are you going to keep going?	
 BrvMsgQ6.1546	はい。もちろんです。{n}まだ、はじめたばかりですから。{wait}{clear}それに、いまの私では、{n}まだまだ力不足ですから……。		
-BrvMsgQ6.15B4	いつもありがとう		
-BrvMsgQ6.15C6	いつもありがとうございます。		
+BrvMsgQ6.15B4	いつもありがとう	Thank you	
+BrvMsgQ6.15C6	いつもありがとうございます。	Thank you for everything.	
 BrvMsgQ6.15E6	お礼なんて……{n}気にしないでください、天使様。{wait}{clear}天使様にお仕えしていることを{n}誇りに思っていますし、{n}当然のことをしているだけです。{wait}{clear}私、がんばりますから、{n}どうか、見守っていてくださいね。		
-BrvMsgQ6.16AA	修行はつらい？		
-BrvMsgQ6.16BA	修行はつらいこともあると思うのですが……。		
+BrvMsgQ6.16AA	修行はつらい？	Hard training?	
+BrvMsgQ6.16BA	修行はつらいこともあると思うのですが……。	I imagine training can be hard at times...	
 BrvMsgQ6.16E8	そうですね……。{n}つらくないと言ったら、ウソになると思います。{n}でもやらなければいけないことです。{wait}{clear}ここでなまけていたら、{n}もっと大変なことになりますし、{n}天使様にも迷惑がかかってしまいますから。{wait}{clear}でも、無理はしませんから、{n}心配しないでくださいね。		
-BrvMsgQ6.17E8	休まなくて平気？		
-BrvMsgQ6.17FA	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？		
+BrvMsgQ6.17E8	休まなくて平気？	No rest?	
+BrvMsgQ6.17FA	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？	You've been training nonstop. Are you sure{n}you don't need a rest?	
 BrvMsgQ6.1842	気を使ってくださってありがとうございます。{n}でも、大丈夫ですから、心配しないでくださいね。{wait}{clear}疲れたら、ちゃんと休みます。{n}あまり無理に修行をしても、意味がないですからね。		
-BrvMsgQ6.18F0	熱心ですね		
-BrvMsgQ6.18FC	とても熱心に修行されているようですね。		
+BrvMsgQ6.18F0	熱心ですね	So dedicated	
+BrvMsgQ6.18FC	とても熱心に修行されているようですね。	You seem to be training very hard.	
 BrvMsgQ6.1926	そうですね……。{n}でも、天使様。誤解はしないでください。{wait}{clear}私は戦いのためだけに{n}練習しているのではないのです。{wait}{clear}狩りとか、高いところの木の実を取ったりとか……。{n}弓は人を傷つけるための道具ではないですから……。		
-BrvMsgQ6.19FE	体力に自信は？		
-BrvMsgQ6.1A0E	体力に自信はありますか？		
+BrvMsgQ6.19FE	体力に自信は？	Your stamina?	
+BrvMsgQ6.1A0E	体力に自信はありますか？	Are you confident in your stamina?	
 BrvMsgQ6.1A2A	天使様は、へんなことを気にされるのですね。{wait}{clear}体力になら、自信はあります。{n}森での狩りのときなどは、やはり体力がないと{n}どうしようもありませんから。		
-BrvMsgQ6.1AC0	ケガをしないで		
-BrvMsgQ6.1AD0	ケガには気をつけてくださいね。		
+BrvMsgQ6.1AC0	ケガをしないで	Don't get hurt	
+BrvMsgQ6.1AD0	ケガには気をつけてくださいね。	Please be careful not to get hurt.	
 BrvMsgQ6.1AF2	天使様は、心配性なのですね。{n}でも、大丈夫ですから、安心していてくださいね。		
-BrvMsgQ6.1B40	気をつけること		
-BrvMsgQ6.1B50	修行の時に{n}なにか気をつけていることはあるのですか？		
+BrvMsgQ6.1B40	気をつけること	What to watch	
+BrvMsgQ6.1B50	修行の時に{n}なにか気をつけていることはあるのですか？	Is there anything you pay attention to when{n}you train?	
 BrvMsgQ6.1B88	はい、集中することを考えています。{wait}{clear}気持ちを落ち着かせて行わないと、{n}なにをやっても上手にいかないように思います。		
-BrvMsgQ6.1BFE	調子は？		
-BrvMsgQ6.1C08	修行の調子はいかがですか？		
+BrvMsgQ6.1BFE	調子は？	How's it going?	
+BrvMsgQ6.1C08	修行の調子はいかがですか？	How is your training going?	
 BrvMsgQ6.1C26	調子ですか？{n}いいと思います。{wait}{clear}こうして、天使様もいてくださいますから。{n}がんばりますね。		
-BrvMsgQ6.1C84	修行の成果		
-BrvMsgQ6.1C90	修行が身について成果が出ると、{n}うれしいものですよね。		
+BrvMsgQ6.1C84	修行の成果	Results	
+BrvMsgQ6.1C90	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
 BrvMsgQ6.1CCA	そうですね。{n}結果が出ると、とても励みになります。{wait}{clear}でも、人を傷つけるようなことばかりで、{n}結果を求めるのは、違うと思っています。		
-BrvMsgQ6.1D50	邪魔でしょうか？		
-BrvMsgQ6.1D62	突然来てしまって……邪魔でしたでしょうか？		
+BrvMsgQ6.1D50	邪魔でしょうか？	Am I a bother?	
+BrvMsgQ6.1D62	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
 BrvMsgQ6.1D90	いえ、気にしないで下さい。{n}天使様でしたら、{n}いつ来ていただいてもかまいませんよ。{wait}{clear}せっかくですから、お話しませんか？		
-BrvMsgQ6.1E0A	好きなことは？		
-BrvMsgQ6.1E1A	なにか好きなことはありますか？		
+BrvMsgQ6.1E0A	好きなことは？	Favorite thing?	
+BrvMsgQ6.1E1A	なにか好きなことはありますか？	Is there anything you like to do?	
 BrvMsgQ6.1E3C	好きなことはいろいろありますけど……。{n}森では川や湖で泳ぐのが好きでした。{wait}{clear}水の中に入ると体が軽くなって、{n}すごく気持ちがよくって……。		
-BrvMsgQ6.1EC8	気分転換		
-BrvMsgQ6.1ED2	なにか普段と違うことをすると{n}気分転換ができますよね。		
+BrvMsgQ6.1EC8	気分転換	Change of pace	
+BrvMsgQ6.1ED2	なにか普段と違うことをすると{n}気分転換ができますよね。	Doing something different from usual makes{n}for a nice change of pace, doesn't it?	
 BrvMsgQ6.1F0C	はい、そうですね。{wait}{clear}草原で寝ころんだり、川面をみつめたり、{n}夜は星をながめたり……。{wait}{clear}そんなふうにゆっくりとした時間を過ごすと、{n}とても気分転換になりますよね。		
-BrvMsgQ6.1FB2	小さい頃は何を？		
-BrvMsgQ6.1FC4	小さい頃はなにをして遊びましたか？		
+BrvMsgQ6.1FB2	小さい頃は何を？	As a child?	
+BrvMsgQ6.1FC4	小さい頃はなにをして遊びましたか？	What did you play when you were little?	
 BrvMsgQ6.1FEA	そうですね……{n}森の中ではなにをしても遊びのような感じでした。{n}木に登るのも、川への魚とりも、狩りも……。{wait}{clear}ふふっ……よく考えると、{n}いまもあまりやっていることは変わりませんね。{wait}{clear}でも、その変わらないということが、{n}大切なのかもしれませんね……。		
-BrvMsgQ6.20E6	しばらく一緒に		
-BrvMsgQ6.20F6	もうしばらく、一緒にいてもいいですか？		
+BrvMsgQ6.20E6	しばらく一緒に	A while longer	
+BrvMsgQ6.20F6	もうしばらく、一緒にいてもいいですか？	May I stay with you a while longer?	
 BrvMsgQ6.2120	はい。{n}私も今、そう思っていたところです。		
-BrvMsgQ6.214C	また任務をお願い		
-BrvMsgQ6.215E	戦いはつらいと思いますが、{n}これからも人々の為に力をかしてください。		
+BrvMsgQ6.214C	また任務をお願い	Another task	
+BrvMsgQ6.215E	戦いはつらいと思いますが、{n}これからも人々の為に力をかしてください。	I know the fighting is hard, but please keep{n}lending your strength for the people's sake.	
 BrvMsgQ6.21A6	はい、わかっています。{wait}{clear}私にどれだけのことができるのかわかりませんが、{n}天使様のお役に立ちたいといつも考えています。{wait}{clear}天使様がそばにいてくださる限り、{n}私、がんばれると思います。		
-BrvMsgQ6.225E	ゆっくり休んで		
-BrvMsgQ6.226E	せめて、こういう時間くらいは、{n}ゆっくり休んでくださいね。		
+BrvMsgQ6.225E	ゆっくり休んで	Rest well	
+BrvMsgQ6.226E	せめて、こういう時間くらいは、{n}ゆっくり休んでくださいね。	At least at times like this, please get some{n}good rest.	
 BrvMsgQ6.22AC	ありがとうございます、天使様。{n}でも、そうやって気を使ってばかりいると、{n}天使様が疲れてしまいますよ。{wait}{clear}私も休ませてもらいますので、{n}天使様もたまにはゆっくり休んでくださいね。		
-BrvMsgQ6.2360	考えていること		
-BrvMsgQ6.2370	歩きながら、考えごとをしたりしますか？		
+BrvMsgQ6.2360	考えていること	Your thoughts	
+BrvMsgQ6.2370	歩きながら、考えごとをしたりしますか？	Do you think things over while you walk?	
 BrvMsgQ6.239A	そうですね……。{n}いろいろ考えています……。{wait}{clear}でも、いろいろ考えすぎてしまっているような{n}そんな気もしますし……。{wait}{clear}ほどほどにしないといけないですよね。		
-BrvMsgQ6.2438	人の集まる場所へ		
-BrvMsgQ6.244A	人の集まる場所へ行ったりしますか？		
+BrvMsgQ6.2438	人の集まる場所へ	Crowded places	
+BrvMsgQ6.244A	人の集まる場所へ行ったりしますか？	Do you go to places where people gather?	
 BrvMsgQ6.2470	あまり行くことはありません……。{n}大きな町にも慣れましたけど、{n}あまり人の多いところは苦手みたいです。{wait}{clear}人の多いところよりも、自然の中にいる方が、{n}ずっと落ち着きますから……。{wait}{clear}あ、でも天使様のお使いとかがあれば、{n}行きますから、おっしゃってくださいね。		
-BrvMsgQ6.2574	食事はとっている		
-BrvMsgQ6.2586	食事はしっかりとっていますか？		
+BrvMsgQ6.2574	食事はとっている	Eating well?	
+BrvMsgQ6.2586	食事はしっかりとっていますか？	Are you eating properly?	
 BrvMsgQ6.25A8	はい、ちゃんと食べています。{n}ずいぶん、町の食べ物にも慣れました。{wait}{clear}同じ野菜でも料理のしかたが違うと、{n}味もかわるので、最初はびっくりしましたけど。{wait}{clear}おいしかったものは、森に帰ったら、{n}みんなにつくってあげようと思っています。		
-BrvMsgQ6.2690	気をつけて		
-BrvMsgQ6.269C	気をつけてください……。		
-BrvMsgQ6.26B8	ええ……わかってる。{n}心配しないで。		
-BrvMsgQ6.26DE	すみません		
-BrvMsgQ6.26EA	すみませんが、がんばって……。		
+BrvMsgQ6.2690	気をつけて	Be careful	
+BrvMsgQ6.269C	気をつけてください……。	Please be careful...	
+BrvMsgQ6.26B8	ええ……わかってる。{n}心配しないで。	Yes... I know. Don't worry.	
+BrvMsgQ6.26DE	すみません	I'm sorry	
+BrvMsgQ6.26EA	すみませんが、がんばって……。	I'm sorry, but please hang in there...	
 BrvMsgQ6.270C	大丈夫ですよ、天使様。{n}安心していてください。		
-BrvMsgQ6.273C	無理はしないで		
-BrvMsgQ6.274C	無理はしないでくださいね。		
+BrvMsgQ6.273C	無理はしないで	Don't overdo it	
+BrvMsgQ6.274C	無理はしないでくださいね。	Please don't push yourself too hard.	
 BrvMsgQ6.276A	ありがとうございます、心配してくださって。{n}でも、大丈夫です……きっと……。		
-BrvMsgQ6.27B8	油断は禁物		
-BrvMsgQ6.27C4	油断はしないでくださいね。		
+BrvMsgQ6.27B8	油断は禁物	Stay alert	
+BrvMsgQ6.27C4	油断はしないでくださいね。	Please don't let your guard down.	
 BrvMsgQ6.27E2	はい、大丈夫です……。{n}どんな敵であっても、油断はしません。		
-BrvMsgQ6.2820	敵が気になる		
-BrvMsgQ6.282E	敵の様子が気になりませんか？		
+BrvMsgQ6.2820	敵が気になる	The enemy	
+BrvMsgQ6.282E	敵の様子が気になりませんか？	Aren't you concerned about the enemy?	
 BrvMsgQ6.284E	いえ、気にはなりません……。{n}ここまで来たのです……{n}一生懸命に戦うしかありません。		
-BrvMsgQ6.28A4	がんばって		
-BrvMsgQ6.28B0	がんばってください……。		
+BrvMsgQ6.28A4	がんばって	Good luck	
+BrvMsgQ6.28B0	がんばってください……。	Please do your best...	
 BrvMsgQ6.28CC	はい……。{n}ありがとうございます、天使様。		
-BrvMsgQ6.28F8	緊張……		
-BrvMsgQ6.2902	すみません、{n}私の方が緊張しているかもしれません……。		
+BrvMsgQ6.28F8	緊張……	Nervous...	
+BrvMsgQ6.2902	すみません、{n}私の方が緊張しているかもしれません……。	I'm sorry, I might be the one who's more{n}nervous...	
 BrvMsgQ6.293C	天使様、そんなに心配しないでください。{n}私なら、大丈夫ですから。		
-BrvMsgQ6.297E	きっと大丈夫です		
+BrvMsgQ6.297E	きっと大丈夫です	You'll be fine	
 BrvMsgQ6.2990	セシアなら、きっと大丈夫です。		
 BrvMsgQ6.29B2	ありがとうございます……天使様……。{n}私、がんばります。		
-BrvMsgQ6.29EC	どうか無事で……		
-BrvMsgQ6.29FE	どうか、無事に戻ってきてください。		
+BrvMsgQ6.29EC	どうか無事で……	Stay safe...	
+BrvMsgQ6.29FE	どうか、無事に戻ってきてください。	Please come back safe and sound.	
 BrvMsgQ6.2A24	そんな心配しないでください。{n}きっと大丈夫ですよ、天使様。		
-BrvMsgQ6.2A60	どきどき		
-BrvMsgQ6.2A6A	どきどきしてきました……。		
+BrvMsgQ6.2A60	どきどき	Heart pounding	
+BrvMsgQ6.2A6A	どきどきしてきました……。	My heart's starting to pound...	
 BrvMsgQ6.2A88	大丈夫ですよ、天使様、落ち着いてください。		
-BrvMsgQ6.2AB4	すみません！		
-BrvMsgQ6.2AC2	すみません！{n}私がちゃんと考えてなくて……。		
+BrvMsgQ6.2AB4	すみません！	I'm sorry!	
+BrvMsgQ6.2AC2	すみません！{n}私がちゃんと考えてなくて……。	I'm sorry! I didn't think it through...	
 BrvMsgQ6.2AF2	いいえ、これは私の力不足のせいです。{n}ごめんなさい、天使様のお役に立てなくて……。		
-BrvMsgQ6.2B46	大丈夫ですか？		
-BrvMsgQ6.2B56	大丈夫ですか？{n}しっかりしてください。		
+BrvMsgQ6.2B46	大丈夫ですか？	Are you okay?	
+BrvMsgQ6.2B56	大丈夫ですか？{n}しっかりしてください。	Are you all right? Hang in there.	
 BrvMsgQ6.2B80	すみません、天使様……。{wait}{clear}でも、天使様に来ていただけて、{n}とても安心しました。{n}ありがとうございます。		
-BrvMsgQ6.2BEA	ありがとう		
-BrvMsgQ6.2BF6	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。		
+BrvMsgQ6.2BEA	ありがとう	Thank you	
+BrvMsgQ6.2BF6	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
 BrvMsgQ6.2C46	あの……そんなに、気になさらないでください。{n}私、天使様のお役に立ちたいのに、{n}逆にこんなことになってしまって……。		
-BrvMsgQ6.2CBC	助けられなくて		
-BrvMsgQ6.2CCC	助けてあげられなくて、すみませんでした。		
+BrvMsgQ6.2CBC	助けられなくて	Couldn't help	
+BrvMsgQ6.2CCC	助けてあげられなくて、すみませんでした。	I'm sorry I couldn't help you.	
 BrvMsgQ6.2CF8	いいえ、天使様のせいではありません。{n}ですから、気になさらないでください。{wait}{clear}それに、天使様がいつもいつも{n}戦いのときにいてくださったりしていたら、{n}甘えてしまいそうですから……。		
-BrvMsgQ6.2DAE	他に必要なことは		
-BrvMsgQ6.2DC0	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？		
+BrvMsgQ6.2DAE	他に必要なことは	Anything else?	
+BrvMsgQ6.2DC0	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？	Besides items, I'd like to do whatever I can{n}for you. Is there anything?	
 BrvMsgQ6.2E0E	すみません、大丈夫です……。{wait}{clear}でも、できたら、また来てくださいますか？{n}天使様がいてくれれば、{n}それだけで気持ちが落ち着きます……。		
-BrvMsgQ6.2E96	無理をさせて……		
-BrvMsgQ6.2EA8	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。		
+BrvMsgQ6.2E96	無理をさせて……	Pushed too hard	
+BrvMsgQ6.2EA8	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。	I pushed you so hard that it came to this,{n}didn't I?{wait}{clear}I'm sorry.	
 BrvMsgQ6.2EFC	いいえ、それは違います。{n}天使様のせいではありません。{wait}{clear}私が自分でしたことですから、{n}天使様が悪いわけではないのです。{n}だから、あやまらないでください。		
-BrvMsgQ6.2F98	お願いばかり		
-BrvMsgQ6.2FA6	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。		
+BrvMsgQ6.2F98	お願いばかり	Asking too much	
+BrvMsgQ6.2FA6	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
 BrvMsgQ6.300A	いいです、天使様。{n}私は天使様に頼りにされることが、{n}とてもうれしかったのですから……。{wait}{clear}それなのに、こたえることができなくて、{n}すみませんでした。{wait}{clear}私……かならず、強くなります。		
-BrvMsgQ6.30C4	敵が強くて		
-BrvMsgQ6.30D0	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。		
+BrvMsgQ6.30C4	敵が強くて	Strong enemy	
+BrvMsgQ6.30D0	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。	To think the enemy was strong enough to hurt{n}you like this...{wait}{clear}I must have asked it of you the wrong way...	
 BrvMsgQ6.313A	いいえ、違います。{n}私の力が足りなかったのです。{wait}{clear}……いい経験になったと思っています。{n}ありがとうございます……天使様……。		
-BrvMsgQ6.31BA	油断は禁物		
-BrvMsgQ6.31C6	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。		
+BrvMsgQ6.31BA	油断は禁物	Stay alert	
+BrvMsgQ6.31C6	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。	For you to be so badly wounded... Did you{n}let your guard down?	
 BrvMsgQ6.3206	いいえ。{n}油断をしたつもりはありません。{wait}{clear}でも……。{n}力がおよばなかったことははっきりしています。{n}もっと、がんばらないと……。		
-BrvMsgQ6.328A	元気になって		
-BrvMsgQ6.3298	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。		
+BrvMsgQ6.328A	元気になって	Get well	
+BrvMsgQ6.3298	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。	You may be worried about the world, but for{n}now, think only about getting better.	
 BrvMsgQ6.32F0	はい……ありがとうございます、天使様……。{wait}{clear}元気になって、また天使様にお仕えしたいです。		
 BrvMsgQ6.334C	森		
 BrvMsgQ6.3350	このレイフォリアの森は本当に美しいですね。		

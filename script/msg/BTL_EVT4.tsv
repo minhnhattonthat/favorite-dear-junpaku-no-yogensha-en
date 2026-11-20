@@ -819,9 +819,9 @@ BTL_EVT4.63DCS	アイリーン	Irene	speaker
 BTL_EVT4.63E7	意味のない儀式なんて、やめなさい！		
 BTL_EVT4.640DS	アイリーン	Irene	speaker
 BTL_EVT4.6418	魔導士として最悪だわ……あんなの……。		
-BTL_EVT4.6442S	ウォーロック		speaker
+BTL_EVT4.6442S	ウォーロック	Warlock	speaker
 BTL_EVT4.644F	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT4.647DS	ウォーロック		speaker
+BTL_EVT4.647DS	ウォーロック	Warlock	speaker
 BTL_EVT4.648A	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT4.64DCS	ウジャト		speaker
 BTL_EVT4.64E5	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

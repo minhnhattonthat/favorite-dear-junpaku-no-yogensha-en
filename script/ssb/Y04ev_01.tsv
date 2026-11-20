@@ -1,42 +1,42 @@
 id	jp	en	notes
 Y04ev_01.0016	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.0026	今日は、空気が冴えてますね……。{n}そして、いい月……。{wait}{clear}		
+Y04ev_01.0026	今日は、空気が冴えてますね……。{n}そして、いい月……。{wait}{clear}	The air is so crisp tonight... And what a{n}lovely moon...{wait}{clear}	
 Y04ev_01.0060	リリィ	Lily	speaker
-Y04ev_01.006E	ふふふ……。{wait}{clear}		
+Y04ev_01.006E	ふふふ……。{wait}{clear}	Fufufu...{wait}{clear}	
 Y04ev_01.007E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y04ev_01.008E	ん？{wait}{clear}	Hm?{wait}{clear}	
 Y04ev_01.0096	リリィ	Lily	speaker
-Y04ev_01.00A4	う～ん、気持ちいい……。{wait}{clear}		
+Y04ev_01.00A4	う～ん、気持ちいい……。{wait}{clear}	Mmm, this feels nice...{wait}{clear}	
 Y04ev_01.00C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.00D0	リリィのようですね……。{n}ちょっと、行ってみましょう……。{wait}{clear}		
+Y04ev_01.00D0	リリィのようですね……。{n}ちょっと、行ってみましょう……。{wait}{clear}	That sounds like Lily... Let's go take a{n}look...{wait}{clear}	
 Y04ev_01.0134	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.0144	リリィ……ですか？{wait}{clear}		
+Y04ev_01.0144	リリィ……ですか？{wait}{clear}	Lily... is that you?{wait}{clear}	
 Y04ev_01.015A	リリィ	Lily	speaker
-Y04ev_01.0168	あ、天使様？{n}どうされたんですか？　こんな夜ふけに。{wait}{clear}		
+Y04ev_01.0168	あ、天使様？{n}どうされたんですか？　こんな夜ふけに。{wait}{clear}	Oh, Angel? What's the matter? At this hour{n}of the night?{wait}{clear}	
 Y04ev_01.01A0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.01B0	いえ、あなたの声が聞こえたものですから……。{n}あなたこそ、こんなところでどうしたのですか？{wait}{clear}		
+Y04ev_01.01B0	いえ、あなたの声が聞こえたものですから……。{n}あなたこそ、こんなところでどうしたのですか？{wait}{clear}	Nothing, I just heard your voice... But what{n}are you doing out here?{wait}{clear}	
 Y04ev_01.020E	リリィ	Lily	speaker
-Y04ev_01.021C	ふふ……。{n}とってもきれいな月だったものですから、{n}ちょっと遊びたくなったんです。{wait}{clear}		
-Y04ev_01.0276	それに、この雪……。{n}真っ白でサラサラして……。{wait}{clear}		
-Y04ev_01.02AE	なんだか、とっても幻想的でしょう？{n}それで、なんとなくはしゃぎたくなったんです。{wait}{clear}		
+Y04ev_01.021C	ふふ……。{n}とってもきれいな月だったものですから、{n}ちょっと遊びたくなったんです。{wait}{clear}	Fufu... The moon was so beautiful, I felt{n}like playing a little.{wait}{clear}	
+Y04ev_01.0276	それに、この雪……。{n}真っ白でサラサラして……。{wait}{clear}	And this snow... So pure white and{n}powdery...{wait}{clear}	
+Y04ev_01.02AE	なんだか、とっても幻想的でしょう？{n}それで、なんとなくはしゃぎたくなったんです。{wait}{clear}	Isn't it just magical? So I somehow felt{n}like romping around.{wait}{clear}	
 Y04ev_01.0302	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.0312	でも、本当にすてきですね……今夜は。{wait}{clear}		
+Y04ev_01.0312	でも、本当にすてきですね……今夜は。{wait}{clear}	It really is lovely... tonight.{wait}{clear}	
 Y04ev_01.033A	リリィ	Lily	speaker
-Y04ev_01.0348	はい。{n}こんな美しい景色は、壊したくないです……。{wait}{clear}		
+Y04ev_01.0348	はい。{n}こんな美しい景色は、壊したくないです……。{wait}{clear}	Yes. I'd never want to spoil a view this{n}beautiful...{wait}{clear}	
 Y04ev_01.037E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.038E	リリィ……。{wait}{clear}		
+Y04ev_01.038E	リリィ……。{wait}{clear}	Lily...{wait}{clear}	
 Y04ev_01.03C6	リリィ	Lily	speaker
-Y04ev_01.03D4	はぁ、楽しかった……。{n}それにしても、天使様、寒くないんですか？{wait}{clear}		
+Y04ev_01.03D4	はぁ、楽しかった……。{n}それにしても、天使様、寒くないんですか？{wait}{clear}	Haah, that was fun... But, Angel, aren't you{n}cold?{wait}{clear}	
 Y04ev_01.0418	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.0428	リリィこそ、そんなかっこうで寒くないんですか？{wait}{clear}		
+Y04ev_01.0428	リリィこそ、そんなかっこうで寒くないんですか？{wait}{clear}	What about you, Lily? Aren't you cold{n}dressed like that?{wait}{clear}	
 Y04ev_01.045A	リリィ	Lily	speaker
-Y04ev_01.0468	ええ、平気です。{n}私たちも天使様も、{n}気候には左右されないってことですね。{wait}{clear}		
+Y04ev_01.0468	ええ、平気です。{n}私たちも天使様も、{n}気候には左右されないってことですね。{wait}{clear}	No, I'm fine. I suppose neither we nor you{n}are at the mercy of the weather.{wait}{clear}	
 Y04ev_01.04B6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.04C6	そうですね。{n}私たちは、寒いとか暑いとかで、{n}仕事ができないとは言えませんからね。{wait}{clear}		
+Y04ev_01.04C6	そうですね。{n}私たちは、寒いとか暑いとかで、{n}仕事ができないとは言えませんからね。{wait}{clear}	That's true. We can hardly say we can't work{n}because it's too cold or too hot.{wait}{clear}	
 Y04ev_01.051C	リリィ	Lily	speaker
-Y04ev_01.052A	ふふふ……そうですね。{wait}{clear}		
+Y04ev_01.052A	ふふふ……そうですね。{wait}{clear}	Fufufu... That's right.{wait}{clear}	
 Y04ev_01.054E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y04ev_01.055E	それにしても、リリィはお休みといえば、{n}のんびりしているものとばかり{n}思っていたんですけどね。{wait}{clear}		
+Y04ev_01.055E	それにしても、リリィはお休みといえば、{n}のんびりしているものとばかり{n}思っていたんですけどね。{wait}{clear}	Still, I always assumed that on your days{n}off, Lily, you'd just be lazing around.{wait}{clear}	
 Y04ev_01.05C0	リリィ	Lily	speaker
-Y04ev_01.05CE	天使様、失礼ですね。{n}私だって、{n}いつもいつも寝ているわけじゃないんですよ。{wait}{clear}		
-Y04ev_01.0622	いろんな、のんびりがあるんです！{wait}{clear}		
+Y04ev_01.05CE	天使様、失礼ですね。{n}私だって、{n}いつもいつも寝ているわけじゃないんですよ。{wait}{clear}	How rude, Angel. I'm not sleeping all the{n}time, you know.{wait}{clear}	
+Y04ev_01.0622	いろんな、のんびりがあるんです！{wait}{clear}	There are all kinds of ways to take it easy!{wait}{clear}	

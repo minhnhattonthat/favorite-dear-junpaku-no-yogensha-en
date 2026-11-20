@@ -1,0 +1,141 @@
+id	en
+Y01ev_01.0528	No, it was my pleasure.{wait}{clear}
+Y01ev_01.0552	Angel, I trust you understand that...{wait}{clear}
+Y01ev_01.0596	Yes, this stays a secret from everyone, right?{wait}{clear}
+Y01ev_01.05CE	Yes. I'm counting on you.{wait}{clear}
+Y02ev_01.0044	Um, Florinda said she'd made a new costume and wanted me to see it... She should be somewhere around here...{wait}{clear}
+Y02ev_01.00D0	Oh! Angel, you came!{wait}{clear}
+Y02ev_01.010A	Florinda, are you here? Where are you?{wait}{clear}
+Y02ev_01.0146	Over heeere! Here, here!{wait}{clear}
+Y02ev_01.0192	Where, Florinda? All I can see are squirrels...{wait}{clear}
+Y02ev_01.01E4	Hehehe, Angel, I'm right here, here!{wait}{clear}
+Y02ev_01.0218	Ah, Florinda. So that's where you were.{wait}{clear}
+Y02ev_01.025C	Angel, this costume's suuuper well made, isn't it?{n}{wait}{clear}
+Y02ev_01.02B2	You couldn't even tell where Florin was!{wait}{clear}
+Y02ev_01.02F4	Yes, it really is. It's well made, and it suits you very well.{wait}{clear}
+Y02ev_01.0346	Ahah! The Angel praised me!{wait}{clear}
+Y02ev_01.037E	Well, shall we head back soon, Florinda?{wait}{clear}
+Y02ev_01.03BE	Okaaay!{wait}{clear}
+Y02ev_01.03FC	Florin was super happy you praised her, Angel!{wait}{clear}
+Y02ev_01.044A	But you've already changed out of it?{wait}{clear}
+Y02ev_01.0488	Yep. That one's a costume for playing with everyone, not for work.{wait}{clear}
+Y02ev_01.04E4	Is that so?{wait}{clear}
+Y02ev_01.050A	Yep. You change costumes to suit what you're doing!{wait}{clear}
+Y02ev_01.055A	But you've already gone and changed out of it?{wait}{clear}
+Y02ev_01.0598	Yep. That one's the costume for playing with everyone.{wait}{clear}
+Y02ev_01.05DC	You change to suit what you're doing, right?{wait}{clear}
+Y02ev_01.0614	Yep, that's Florin's policy!{wait}{clear}
+Y03ev_01.0044	Another day passing by... But there's still so much to do. I need to stay focused.{wait}{clear}
+Y03ev_01.00B6	Haah...{wait}{clear}
+Y03ev_01.00EA	Phew...{wait}{clear}
+Y03ev_01.0108	That sounds like Shelly. I wonder what's wrong...?{wait}{clear}
+Y03ev_01.0176	Um... Shelly?{wait}{clear}
+Y03ev_01.019C	Oh, Angel...{wait}{clear}
+Y03ev_01.01C0	You seem down. Did something happen?{wait}{clear}
+Y03ev_01.01FE	N-no... It's nothing.{wait}{clear}
+Y03ev_01.0232	This isn't like you at all, Shelly. If you don't mind talking to me, won't you tell me?{wait}{clear}
+Y03ev_01.0296	Sorry, Angel. It's just... I got a little sad...{wait}{clear}
+Y03ev_01.02E6	Sad?{wait}{clear}
+Y03ev_01.031C	I was so happy to have a day off that I flew all over the place, but everywhere I went there was fighting and stuff...{wait}{clear}
+Y03ev_01.038C	And seeing that, it felt like me playing around was something I shouldn't be doing...{wait}{clear}
+Y03ev_01.03EC	What are you saying, Shelly? You haven't done anything wrong at all.{wait}{clear}
+Y03ev_01.045A	But, Angel...{wait}{clear}
+Y03ev_01.0480	You work hard, so you need a day off now and then.{wait}{clear}
+Y03ev_01.04DE	You think so...? But thank you. Talking to you has made me feel a little better.{wait}{clear}
+Y03ev_01.054E	Really? Then I'm glad. Well, shall we head back? It'll be getting dark soon.{wait}{clear}
+Y03ev_01.0606	Are you feeling a little better?{wait}{clear}
+Y03ev_01.0634	Yes, Angel. Thank you for today.{wait}{clear}
+Y03ev_01.067E	Thinking about all kinds of things is good, but I'd like you to stay the cheerful Shelly you always are.{wait}{clear}
+Y03ev_01.06EE	Hehe, you're right! Starting tomorrow, I'll do my best and be cheerful again!{wait}{clear}
+Y03ev_01.0746	Thinking about all kinds of things is good, but please stay the Shelly who messes up cheerfully and then reflects on it from the bottom of her heart.{wait}{clear}
+Y03ev_01.07CA	Aww, Angel, that's kinda mean! But you're right! Starting tomorrow, I'll do my best and be cheerful!{wait}{clear}
+Y04ev_01.0026	The air is so crisp tonight... And what a lovely moon...{wait}{clear}
+Y04ev_01.006E	Fufufu...{wait}{clear}
+Y04ev_01.00A4	Mmm, this feels nice...{wait}{clear}
+Y04ev_01.00D0	That sounds like Lily... Let's go take a look...{wait}{clear}
+Y04ev_01.0144	Lily... is that you?{wait}{clear}
+Y04ev_01.0168	Oh, Angel? What's the matter? At this hour of the night?{wait}{clear}
+Y04ev_01.01B0	Nothing, I just heard your voice... But what are you doing out here?{wait}{clear}
+Y04ev_01.021C	Fufu... The moon was so beautiful, I felt like playing a little.{wait}{clear}
+Y04ev_01.0276	And this snow... So pure white and powdery...{wait}{clear}
+Y04ev_01.02AE	Isn't it just magical? So I somehow felt like romping around.{wait}{clear}
+Y04ev_01.0312	It really is lovely... tonight.{wait}{clear}
+Y04ev_01.0348	Yes. I'd never want to spoil a view this beautiful...{wait}{clear}
+Y04ev_01.038E	Lily...{wait}{clear}
+Y04ev_01.03D4	Haah, that was fun... But, Angel, aren't you cold?{wait}{clear}
+Y04ev_01.0428	What about you, Lily? Aren't you cold dressed like that?{wait}{clear}
+Y04ev_01.0468	No, I'm fine. I suppose neither we nor you are at the mercy of the weather.{wait}{clear}
+Y04ev_01.04C6	That's true. We can hardly say we can't work because it's too cold or too hot.{wait}{clear}
+Y04ev_01.052A	Fufufu... That's right.{wait}{clear}
+Y04ev_01.055E	Still, I always assumed that on your days off, Lily, you'd just be lazing around.{wait}{clear}
+Y04ev_01.05CE	How rude, Angel. I'm not sleeping all the time, you know.{wait}{clear}
+Y04ev_01.0622	There are all kinds of ways to take it easy!{wait}{clear}
+Y05ev_01.002A	I gave Lynx a day off... but I worry whether he's actually resting. He tends to overdo things...{wait}{clear}
+Y05ev_01.00A8	Ah! Angel! Look out!{wait}{clear}
+Y05ev_01.00F0	Ow, ow...{wait}{clear}
+Y05ev_01.0110	I'm sorry! Angel, are you all right?{wait}{clear}
+Y05ev_01.0170	Angel, hang in there...!{wait}{clear}
+Y05ev_01.019A	Ah, Lynx... What on earth were you doing?{wait}{clear}
+Y05ev_01.01E2	I'm sorry, Angel. I wanted to be even a little useful to the heroes, so I was practicing fighting.{wait}{clear}
+Y05ev_01.0250	Lynx... I understand how you feel, but here in the world below, fairies can't use their power to fight.{wait}{clear}
+Y05ev_01.02D0	I know...{wait}{clear}
+Y05ev_01.02EA	But, but... I... I... I just really want to try fighting as cool as the heroes do!{wait}{clear}
+Y05ev_01.0358	I see... You're very brave and very kind, Lynx.{wait}{clear}
+Y05ev_01.03B4	Huh? Angel?!{wait}{clear}
+Y05ev_01.03D8	Now, shall we head back? We can't lie around like this forever.{wait}{clear}
+Y05ev_01.043E	Y-yes!{wait}{clear}
+Y05ev_01.047A	I'm really sorry, Angel. Does it hurt?{wait}{clear}
+Y05ev_01.04BC	No, I'm fine.{wait}{clear}But although I understand how you feel, you mustn't do anything dangerous from now on. All right?{wait}{clear}
+Y05ev_01.0546	Okay! From now on, I'll only practice where nobody ever comes!{wait}{clear}
+Y05ev_01.0592	Um... That's not quite what I meant...{wait}{clear}
+Y06ev_01.002A	Now, I've given Aquila a day off too... I hope she's taking it easy.{wait}{clear}
+Y06ev_01.0094	Eek! Ahahaha!{wait}{clear}
+Y06ev_01.00BC	Aquila?{wait}{clear}
+Y06ev_01.00DA	Ahaha, that tickles!{wait}{clear}
+Y06ev_01.012A	Ahaha!{wait}{clear}
+Y06ev_01.013C	Oh, Angel...!{wait}{clear}
+Y06ev_01.0160	You look like you're having fun, Aquila.{wait}{clear}
+Y06ev_01.018E	Um... Playing with everyone like this really does clear my head...{wait}{clear}
+Y06ev_01.01E8	I see. I'm glad to hear it.{wait}{clear}
+Y06ev_01.0222	Yes. Every so often you need to play to your heart's content like this, don't you?{wait}{clear}
+Y06ev_01.026E	That's right. A change of pace is important.{wait}{clear}
+Y06ev_01.02AA	Yes, I think so too.{wait}{clear}
+Y06ev_01.02C6	Um, but since you've come for me, Angel, I'll head back now.{wait}{clear}
+Y06ev_01.0312	Then shall we go back together?{wait}{clear}
+Y06ev_01.0342	Yes, Angel.{wait}{clear}
+Y06ev_01.0386	Have you shaken off your fatigue, Aquila?{wait}{clear}
+Y06ev_01.03BA	Yes, thank you, Angel. Um... When I get tired, I can't do my job...{wait}{clear}
+Y06ev_01.041E	But I shouldn't keep asking for days off all the time, should I...?{wait}{clear}
+Y06ev_01.046E	Well... Taking too many days off would be...{wait}{clear}
+Y06ev_01.04B2	Oh, oh, of course. I'm sorry, Angel. I'll be fine. I'll do my best again.{wait}{clear}
+Y06ev_01.0518	Thank you, Aquila. But don't push yourself too hard, all right?{wait}{clear}
+Y07ev_01.002A	Cetus's day off should be about over by now...{wait}{clear}
+Y07ev_01.0076	Delicious!{wait}{clear}
+Y07ev_01.0092	Is that you over there, Cetus...?{wait}{clear}
+Y07ev_01.00CA	Oh, Angel! Yep, it's me.{wait}{clear}
+Y07ev_01.012C	Mornin', Angel. Great weather again today, huh?{wait}{clear}
+Y07ev_01.0178	Yes... I suppose...{wait}{clear}
+Y07ev_01.019E	Oh, want some tea too, Angel? It's good stuff.{wait}{clear}
+Y07ev_01.01E2	N-no, I'm fine, thank you. But, Cetus...{wait}{clear}
+Y07ev_01.0226	Yeah? Something wrong?{wait}{clear}
+Y07ev_01.0256	No, it's just... You don't look or talk like the usual Cetus...{wait}{clear}
+Y07ev_01.02A4	Hahaha! You mean this getup? This is the everyday me.{wait}{clear}
+Y07ev_01.02E6	And the way I talk, I just figured it'd be bad on the job, so I keep it polite then.{wait}{clear}
+Y07ev_01.0372	Angel, my day off's not over yet, right?{wait}{clear}
+Y07ev_01.03D0	Then let me have one more cup of tea. After that, I'll get back to work.{wait}{clear}
+Y07ev_01.042A	Y-yes... All right. Go ahead.{wait}{clear}
+Y07ev_01.046C	See ya later, then, Angel.{n}{wait}{clear}
+Y07ev_01.04BC	My apologies for earlier, Angel. I will return to work at once.{wait}{clear}
+Y07ev_01.0510	No, there's no need to rush. But, Cetus, what a difference...{wait}{clear}
+Y07ev_01.0576	Is it? It's perfectly natural to me, but perhaps it surprised you, Angel.{wait}{clear}
+Y07ev_01.05D8	Keeping work and private life separate makes things easier for me. It gives my life some structure.{wait}{clear}
+Y07ev_01.0650	Well, I suppose everyone is different.{wait}{clear}
+Y07ev_01.068E	Hahaha. Yes, please think of it that way. Now, I will return to work at once.{wait}{clear}
+Y07ev_01.06EC	Ah, yes, of course. I'm counting on you again, Cetus.{wait}{clear}
+Y08ev_01.002A	Lepus said there was something he wanted to show me, somewhere around here, I think...{wait}{clear}
+Y08ev_01.0092	Ah! Angel!{wait}{clear}
+Y08ev_01.00B6	Ah, Lepus, good, there you are. What is it you wanted to show me?{wait}{clear}
+Y08ev_01.011A	Shh! Angel, please be quiet! Wait just a little longer.{wait}{clear}
+Y08ev_01.01AC	Wow, this is amazing.{wait}{clear}
+Y08ev_01.01DE	This is what I wanted to show you, Angel. What do you think?{wait}{clear}
+Y08ev_01.0228	Yes, it's truly beautiful. Wonderful. Thank you, Lepus.{wait}{clear}

@@ -42,6 +42,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   ends at Y01ev_01.0496). Build + check.py green; `warp.py --event roev05_02.ssb --event roev12.ssb --cue
   <abs>/build/fd2_en.cue` both OK with English. Glossary gained Langerack, Elias, Zeam/Azuria/Ryan (tags), Valese,
   Ilyus, Azaria, and Rocus-route rulings (Pope, archbishop, cardinal, sacred jewel, healing hands).
+  2026-11-21 (8th worker): **b038-b044** done (fairy day-off events Y01ev-Y08ev, B_ItemRes item replies, hero chat
+  files BMsgQ000 Fein, 001 Clive, 002 Rudiere, 003 Rocus, 004 Irene, 005 Leyla up to the Empire topic; b044 ends at
+  BMsgQ005.2DBA). Build + check.py green; `warp.py --event Y02ev_01.ssb --event Y07ev_01.ssb --event Y08ev_01.ssb
+  --cue <abs>/build/fd2_en.cue` all OK with English. `batches.py merge` now skips copying a dialogue translation into
+  an EXE/overlay row when it is longer than the JP (it broke the build: op 夜 -> "Night") and lists those rows; the
+  rfd2 overlay holds the chat prompts (まだ話があるのか？ ...) that need relocation in phase 7. Glossary gained Bremes
+  (Isle), Fanlan, and the BMsgQ notes.
   `batches.py todo` lists the rest. Glossary gained (2026-11-21): Holy Mother, Demon Stone, Heavenly Dragon, Crimson
   Moon King, archangel, Lake Dreihaup (b001 spelling kept), Mount Delphinia, Clive Saingrent (Ravenruft is the vampire
   king, his father), Irwin, Viper, Zig, Titan. Grown ssb boot test: `warp.py --event clev11.ssb --event ceev14.ssb
@@ -56,7 +63,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one-word orphan page (alkaya.0238 "tundra."): rebalance in the fit pass; script buffer size still unknown (two
   grown event scripts boot fine, the rest are untested). No `docs/synopsis.md` / style reference yet: write them once the story
   scripts are read (voices so far in the brief). Review pass not done (codex out of credits until 2026-11-26).
-- **Next (phase 6):** continue at b038 (`batches.py todo`; Rosa's Y01ev_01 fairy event continues there). Budgets above; BTL_EVT banks have a 64 KB cap
+- **Next (phase 6):** continue at b045 (`batches.py todo`; Leyla's chat BMsgQ005 continues there, then the other
+  BMsgQ/BrvMsgQ files). Budgets above; BTL_EVT banks have a 64 KB cap
   (keep battle lines near the JP length), EvName 22 bytes, EXE/overlay strings same-length until phase 7 relocation.
   Name entry: kana grid (G6) has A-Z a-z on the keyboard font; decide the Latin page in phase 8.
 - **Done (2026-11-20):**

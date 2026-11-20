@@ -1,38 +1,38 @@
 id	jp	en	notes
 Y05ev_01.001A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.002A	リンクスにお休みをあげましたけど……{n}ちゃんと休んでいるのか心配ですね。{n}彼は張り切りすぎなところが……。{wait}{clear}		
+Y05ev_01.002A	リンクスにお休みをあげましたけど……{n}ちゃんと休んでいるのか心配ですね。{n}彼は張り切りすぎなところが……。{wait}{clear}	I gave Lynx a day off... but I worry whether{n}he's actually resting. He tends to overdo{n}things...{wait}{clear}	
 Y05ev_01.0098	リンクス	Lynx	speaker
-Y05ev_01.00A8	あっ！　天使様！　危ないっ！{wait}{clear}		
+Y05ev_01.00A8	あっ！　天使様！　危ないっ！{wait}{clear}	Ah! Angel! Look out!{wait}{clear}	
 Y05ev_01.00C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y05ev_01.00D8	え？{wait}{clear}	What?{wait}{clear}	
 Y05ev_01.00E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.00F0	痛たた……。{wait}{clear}		
+Y05ev_01.00F0	痛たた……。{wait}{clear}	Ow, ow...{wait}{clear}	
 Y05ev_01.0100	リンクス	Lynx	speaker
-Y05ev_01.0110	ごめんなさい！{n}天使様、大丈夫ですか？{wait}{clear}		
+Y05ev_01.0110	ごめんなさい！{n}天使様、大丈夫ですか？{wait}{clear}	I'm sorry! Angel, are you all right?{wait}{clear}	
 Y05ev_01.0160	リンクス	Lynx	speaker
-Y05ev_01.0170	天使様、しっかり……！{wait}{clear}		
+Y05ev_01.0170	天使様、しっかり……！{wait}{clear}	Angel, hang in there...!{wait}{clear}	
 Y05ev_01.018A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.019A	ああ、リンクス……。{n}いったい何をしていたんですか？{wait}{clear}		
+Y05ev_01.019A	ああ、リンクス……。{n}いったい何をしていたんですか？{wait}{clear}	Ah, Lynx... What on earth were you doing?{wait}{clear}	
 Y05ev_01.01D2	リンクス	Lynx	speaker
-Y05ev_01.01E2	ごめんなさい、天使様。{n}ボク、少しでも勇者様の役に立ちたくて、{n}戦いの練習をしてたんです。{wait}{clear}		
+Y05ev_01.01E2	ごめんなさい、天使様。{n}ボク、少しでも勇者様の役に立ちたくて、{n}戦いの練習をしてたんです。{wait}{clear}	I'm sorry, Angel. I wanted to be even a{n}little useful to the heroes, so I was{n}practicing fighting.{wait}{clear}	
 Y05ev_01.0240	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.0250	リンクス……{n}あなたの気持ちはわかりますが、この地上界では、{n}妖精は戦う力を発揮することはできないんですよ。{wait}{clear}		
+Y05ev_01.0250	リンクス……{n}あなたの気持ちはわかりますが、この地上界では、{n}妖精は戦う力を発揮することはできないんですよ。{wait}{clear}	Lynx... I understand how you feel, but here{n}in the world below, fairies can't use their{n}power to fight.{wait}{clear}	
 Y05ev_01.02C0	リンクス	Lynx	speaker
-Y05ev_01.02D0	わかってます……。{wait}{clear}		
-Y05ev_01.02EA	でも、でも……ボク……。{n}ボク……どうしても勇者様みたいにカッコよく{n}戦ってみたいんです！{wait}{clear}		
+Y05ev_01.02D0	わかってます……。{wait}{clear}	I know...{wait}{clear}	
+Y05ev_01.02EA	でも、でも……ボク……。{n}ボク……どうしても勇者様みたいにカッコよく{n}戦ってみたいんです！{wait}{clear}	But, but... I... I... I just really want to{n}try fighting as cool as the heroes do!{wait}{clear}	
 Y05ev_01.0348	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.0358	そうですか……。{n}リンクスは、とっても勇気があって、{n}やさしいのですね。{wait}{clear}		
+Y05ev_01.0358	そうですか……。{n}リンクスは、とっても勇気があって、{n}やさしいのですね。{wait}{clear}	I see... You're very brave and very kind,{n}Lynx.{wait}{clear}	
 Y05ev_01.03A4	リンクス	Lynx	speaker
-Y05ev_01.03B4	え？　天使様！？{wait}{clear}		
+Y05ev_01.03B4	え？　天使様！？{wait}{clear}	Huh? Angel?!{wait}{clear}	
 Y05ev_01.03C8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.03D8	さ、帰りましょうか。{n}いつまでもこうして寝ころんでいるわけにも{n}いきませんからね。{wait}{clear}		
+Y05ev_01.03D8	さ、帰りましょうか。{n}いつまでもこうして寝ころんでいるわけにも{n}いきませんからね。{wait}{clear}	Now, shall we head back? We can't lie around{n}like this forever.{wait}{clear}	
 Y05ev_01.042E	リンクス	Lynx	speaker
-Y05ev_01.043E	は、はい！{wait}{clear}		
+Y05ev_01.043E	は、はい！{wait}{clear}	Y-yes!{wait}{clear}	
 Y05ev_01.046A	リンクス	Lynx	speaker
-Y05ev_01.047A	本当にごめんなさい、天使様。{n}痛くないですか？{wait}{clear}		
+Y05ev_01.047A	本当にごめんなさい、天使様。{n}痛くないですか？{wait}{clear}	I'm really sorry, Angel. Does it hurt?{wait}{clear}	
 Y05ev_01.04AC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.04BC	ええ、大丈夫ですよ。{wait}{clear}ただ、あなたの気持ちはわかりますが、{n}今後、危ないことをしちゃいけませんよ、{n}わかりましたか？{wait}{clear}		
+Y05ev_01.04BC	ええ、大丈夫ですよ。{wait}{clear}ただ、あなたの気持ちはわかりますが、{n}今後、危ないことをしちゃいけませんよ、{n}わかりましたか？{wait}{clear}	No, I'm fine.{wait}{clear}But although I understand how you feel, you{n}mustn't do anything dangerous from now on.{n}All right?{wait}{clear}	
 Y05ev_01.0536	リンクス	Lynx	speaker
-Y05ev_01.0546	はい！{n}今度からは、絶対に誰も来ないとこで{n}練習します！{wait}{clear}		
+Y05ev_01.0546	はい！{n}今度からは、絶対に誰も来ないとこで{n}練習します！{wait}{clear}	Okay! From now on, I'll only practice where{n}nobody ever comes!{wait}{clear}	
 Y05ev_01.0582	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y05ev_01.0592	あの……{n}そういうことではないのですが……。{wait}{clear}		
+Y05ev_01.0592	あの……{n}そういうことではないのですが……。{wait}{clear}	Um... That's not quite what I meant...{wait}{clear}	

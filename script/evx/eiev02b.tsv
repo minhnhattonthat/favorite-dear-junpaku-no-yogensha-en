@@ -4,7 +4,7 @@ eiev02b.00DE	村人		unit name (32-byte field)
 eiev02b.0498	アイリーン	Irene	speaker
 eiev02b.04B1	ふー、{n}こんなの相手にしなきゃなんないなんて{n}ホント、やんなっちゃう。		text
 eiev02b.0546	村人		speaker
-eiev02b.0559	ありがとうございます。		text
+eiev02b.0559	ありがとうございます。	Thank you very much.	text
 eiev02b.057E	あなたのおかげで助かりました。{n}あの盗賊にはほとほと困っていたのです。		text
 eiev02b.05D3	アイリーン	Irene	speaker
 eiev02b.05EC	え……！		text

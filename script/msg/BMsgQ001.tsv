@@ -1,200 +1,200 @@
 id	jp	en	notes
-BMsgQ001.0190	まだ、あるのか……。		
-BMsgQ001.01A6	体調は？		
-BMsgQ001.01B0	疲れていませんか？		
-BMsgQ001.01C6	心配するな……。{n}このくらいで疲れていては、話にならないからな。		
-BMsgQ001.0208	一緒に歩く		
-BMsgQ001.0214	一緒に歩いてもいいですか？		
-BMsgQ001.0232	ああ……べつにかまわないが……。		
-BMsgQ001.0254	風を感じる		
-BMsgQ001.0260	風に吹かれながら歩くのは、気持ちいいですね。		
-BMsgQ001.0290	ああ……。{wait}{clear}そうかもしれないな……。		
-BMsgQ001.02B8	険しい道		
-BMsgQ001.02C2	行き先によっては、険しい道が多くなって{n}大変なこともあると思いますが、大丈夫ですか？		
-BMsgQ001.031A	そのくらいなんでもない。{wait}{clear}平坦な道を選んでいたのでは、{n}目的地にたどりつけないからな……。		
-BMsgQ001.0378	初めての場所		
-BMsgQ001.0386	初めての場所へ行って、{n}道に迷ったりすることはありませんか？		
-BMsgQ001.03C6	俺はそんなに頼りなく見えるのか？		
-BMsgQ001.03E8	青い空		
-BMsgQ001.03F0	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。		
-BMsgQ001.04C4	天使らしいな……。{n}というよりも、天使でなければ、{n}わからないことだろうな……。		
-BMsgQ001.0516	素敵な景色		
-BMsgQ001.0522	アルカヤには、{n}すばらしい景色がたくさんありますね。		
-BMsgQ001.055A	……らしくないと思われるかもしれないが、{n}そう思うこともある……。		
-BMsgQ001.059E	妖精は役に立つ？		
-BMsgQ001.05B0	妖精たちは助けになっていますか？		
-BMsgQ001.05D4	よくやってくれると思っている……。		
-BMsgQ001.05F8	旅先で思うこと		
-BMsgQ001.0608	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？		
-BMsgQ001.064A	そうだな……。{n}そういうときもあるかもしれないな……。		
-BMsgQ001.0682	旅で出会う人		
-BMsgQ001.0690	旅先で人と出会うのは楽しいですね。		
-BMsgQ001.06B6	それは……苦手だ。		
-BMsgQ001.06CA	いい夢が……		
-BMsgQ001.06D8	いい夢が見られるといいですね。		
-BMsgQ001.06FA	そうだな……。		
-BMsgQ001.070A	お疲れさま		
-BMsgQ001.0716	お疲れさまでした。		
-BMsgQ001.072C	ああ……。{n}おまえこそ、疲れてはいないのか？		
-BMsgQ001.075A	眠るのは好き？		
-BMsgQ001.076A	眠ることは好きですか？		
-BMsgQ001.0784	へんなことを聞くやつだ……。{wait}{clear}そんなこと、考えたこともないがな。		
-BMsgQ001.07C8	出来事		
-BMsgQ001.07D0	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。		
-BMsgQ001.0814	ああ、そうさせてもらう。		
-BMsgQ001.082E	何かすることは？		
-BMsgQ001.0840	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？		
-BMsgQ001.088C	特別なことはないが……剣の手入れだけはする……。{n}いざというときのためにな。		
-BMsgQ001.08DA	いつもと違う場所		
-BMsgQ001.08EC	いつもと違う場所でも{n}しっかり眠ることができますか？		
-BMsgQ001.0924	ああ……。{n}それになれなければ、旅などできないからな。{wait}{clear}そうでなければ、戦えん……。		
-BMsgQ001.097C	眠れないときは		
-BMsgQ001.098C	眠れないときはどうしていますか。		
-BMsgQ001.09B0	なにも……。{n}ぼんやりしているだけだ。		
-BMsgQ001.09D8	故郷のこと		
-BMsgQ001.09E4	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？		
-BMsgQ001.0A34	ああ……。{n}故郷というか……昔のことを思い出すことはある。		
-BMsgQ001.0A70	一緒にいたい		
-BMsgQ001.0A7E	しばらく一緒にいても、かまいませんか？		
-BMsgQ001.0AA8	……ああ……好きにしろ。		
-BMsgQ001.0AC2	起きたときには		
-BMsgQ001.0AD2	目が覚めたときに必ずすることがありますか？		
-BMsgQ001.0B00	いや、特別なにもないが……。		
-BMsgQ001.0B1E	まだ続ける？		
-BMsgQ001.0B2C	まだ続けるのですか？		
-BMsgQ001.0B44	ああ、まだはじめたばかりだ。{n}続けなければ意味がない……。		
-BMsgQ001.0B80	いつもありがとう		
-BMsgQ001.0B92	いつもありがとうございます。		
-BMsgQ001.0BB2	へんなことを言うのだな……。{n}べつにおまえだけのために戦っているわけじゃない。		
-BMsgQ001.0C02	修行はつらい？		
-BMsgQ001.0C12	修行はつらいこともあると思うのですが……。		
-BMsgQ001.0C40	そんなことを言っていたら、修行にならないだろう。{n}敵にやられてからでは、遅いんだ……。		
-BMsgQ001.0C98	休まなくて平気？		
-BMsgQ001.0CAA	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？		
-BMsgQ001.0CF2	いや……まだ続ける。{n}もう少しな……。		
-BMsgQ001.0D1A	熱心ですね		
-BMsgQ001.0D26	とても熱心に修行されているようですね。		
-BMsgQ001.0D50	熱心……？　そう見えるのか……。		
-BMsgQ001.0D72	体力に自信は？		
-BMsgQ001.0D82	体力に自信はありますか？		
-BMsgQ001.0D9E	ハンターなどをやっているんだ。{n}自信がなくてはできない。		
-BMsgQ001.0DD8	ケガをしないで		
-BMsgQ001.0DE8	ケガには気をつけてくださいね。		
-BMsgQ001.0E0A	そうだな……。{n}やったことがむだになるからな。		
-BMsgQ001.0E3A	気をつけること		
-BMsgQ001.0E4A	修行の時に{n}なにか気をつけていることはあるのですか？		
-BMsgQ001.0E82	集中することだけを考えている……。		
-BMsgQ001.0EA6	調子は？		
-BMsgQ001.0EB0	修行の調子はいかがですか？		
-BMsgQ001.0ECE	いや……特別変わったことはないが……。		
-BMsgQ001.0EF6	修行の成果		
-BMsgQ001.0F02	修行が身について成果が出ると、{n}うれしいものですよね。		
-BMsgQ001.0F3C	そうだな……。{n}そうでなければ修行の意味もない。		
-BMsgQ001.0F6E	邪魔でしょうか？		
-BMsgQ001.0F80	突然来てしまって……邪魔でしたでしょうか？		
-BMsgQ001.0FAE	おまえはいつも、{n}そう思っていながら、来るのだな。		
-BMsgQ001.0FE2	好きなことは？		
-BMsgQ001.0FF2	なにか好きなことはありますか？		
-BMsgQ001.1014	そんなことは考えたこともない……。		
-BMsgQ001.1038	気分転換		
-BMsgQ001.1042	なにか普段と違うことをすると{n}気分転換ができますよね。		
-BMsgQ001.107C	そういうものなのか？{n}あまり考えたことなどないが……。		
-BMsgQ001.10B4	小さい頃は何を？		
-BMsgQ001.10C6	小さい頃はなにをして遊びましたか？		
-BMsgQ001.10EC	唐突な質問だな……。{n}悪いが、あまり覚えていない。{wait}{clear}いつもひとりでいたような気がする……。		
-BMsgQ001.114A	しばらく一緒に		
-BMsgQ001.115A	もうしばらく、一緒にいてもいいですか？		
-BMsgQ001.1184	ああ、べつにかまわない。		
-BMsgQ001.119E	また任務をお願い		
-BMsgQ001.11B0	戦いはつらいと思いますが、{n}これからも人々の為に力をかしてください。		
-BMsgQ001.11F8	……わかっている。		
-BMsgQ001.120C	ゆっくり休んで		
-BMsgQ001.121C	せめて、こういう時間くらいは、{n}ゆっくり休んでくださいね。		
-BMsgQ001.125A	ああ……{n}そうさせてもらう……。		
-BMsgQ001.127C	考えていること		
-BMsgQ001.128C	歩きながら、考えごとをしたりしますか？		
-BMsgQ001.12B6	たまにな……。		
-BMsgQ001.12C6	人の集まる場所へ		
-BMsgQ001.12D8	人の集まる場所へ行ったりしますか？		
-BMsgQ001.12FE	そういう場所は苦手だ……。		
-BMsgQ001.131A	食事はとっている		
-BMsgQ001.132C	食事はしっかりとっていますか？		
-BMsgQ001.134E	ああ……。{n}そんなことは心配しなくてもいい。		
-BMsgQ001.137C	気をつけて		
-BMsgQ001.1388	気をつけてください……。		
-BMsgQ001.13A4	心配するな。		
-BMsgQ001.13B2	すみません		
-BMsgQ001.13BE	すみませんが、がんばって……。		
-BMsgQ001.13E0	ああ、わかっている。		
-BMsgQ001.13F6	無理はしないで		
-BMsgQ001.1406	無理はしないでくださいね。		
-BMsgQ001.1424	ああ……わかった……。		
-BMsgQ001.143C	油断は禁物		
-BMsgQ001.1448	油断はしないでくださいね。		
-BMsgQ001.1466	当然だ……。		
-BMsgQ001.1474	敵が気になる		
-BMsgQ001.1482	敵の様子が気になりませんか？		
-BMsgQ001.14A2	いまさら気にしてもしかたがないと思わないのか。		
-BMsgQ001.14D2	がんばって		
-BMsgQ001.14DE	がんばってください……。		
-BMsgQ001.14FA	ああ……。		
-BMsgQ001.1506	緊張……		
-BMsgQ001.1510	すみません、{n}私の方が緊張しているかもしれません……。		
-BMsgQ001.154A	そんなに心配するな。		
-BMsgQ001.1560	きっと大丈夫です		
-BMsgQ001.1572	クライヴなら、きっと大丈夫です。		
-BMsgQ001.1596	ああ……だが、油断するつもりはない。		
-BMsgQ001.15BC	どうか無事で……		
-BMsgQ001.15CE	どうか、無事に戻ってきてください。		
-BMsgQ001.15F4	……ああ……わかっている……。		
-BMsgQ001.1614	どきどき		
-BMsgQ001.161E	どきどきしてきました……。		
-BMsgQ001.163C	おまえが落ち着かなくて、どうする。		
-BMsgQ001.1660	すみません！		
-BMsgQ001.166E	すみません！{n}私がちゃんと考えてなくて……。		
-BMsgQ001.169E	……これは……自分の力不足だ……。		
-BMsgQ001.16C2	大丈夫ですか？		
-BMsgQ001.16D2	大丈夫ですか？{n}しっかりしてください。		
-BMsgQ001.16FC	そんなにさわぐことじゃない……。		
-BMsgQ001.171E	ありがとう		
-BMsgQ001.172A	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。		
-BMsgQ001.177A	いや……		
-BMsgQ001.1784	助けられなくて		
-BMsgQ001.1794	助けてあげられなくて、すみませんでした。		
-BMsgQ001.17C0	しかたのないことだ……。		
-BMsgQ001.17DA	他に必要なことは		
-BMsgQ001.17EC	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？		
-BMsgQ001.183A	そんなに心配しないでくれ……。		
-BMsgQ001.185A	無理をさせて……		
-BMsgQ001.186C	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。		
-BMsgQ001.18C0	……おまえにあやまられても……。		
-BMsgQ001.18E2	お願いばかり		
-BMsgQ001.18F0	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。		
-BMsgQ001.1954	いや……そんなことは……。		
-BMsgQ001.1970	敵が強くて		
-BMsgQ001.197C	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。		
-BMsgQ001.19E6	……それ以上言うな……。		
-BMsgQ001.1A00	油断は禁物		
-BMsgQ001.1A0C	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。		
-BMsgQ001.1A4C	そうかもしれん……。		
-BMsgQ001.1A62	元気になって		
-BMsgQ001.1A70	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。		
-BMsgQ001.1AC8	……すまない。		
-BMsgQ001.1AD8	ハンター		
-BMsgQ001.1AE2	ヴァンパイアハンターとはなんですか？		
-BMsgQ001.1B0A	ヴァンパイアやアンデッドモンスターを{n}専門に狩る者のことだ。		
-BMsgQ001.1B48	ハンター		
-BMsgQ001.1B52	どうしてヴァンパイアハンターに？		
-BMsgQ001.1B76	それしか生きる術をしらなかっただけだ……。		
-BMsgQ001.1BA2	ハンター		
-BMsgQ001.1BAC	つらくはないですか？		
-BMsgQ001.1BC4	……そんな言葉は聞きたくない……。		
-BMsgQ001.1BE8	夜		
-BMsgQ001.1BEC	夜に行動することが多くて、{n}困ることはありませんか？		
-BMsgQ001.1C24	……そんなことは考えたこともない。{wait}{clear}それに、やつらを少しでも多く葬るために{n}俺は闇の世界で生きる……。		
-BMsgQ001.1C8E	夜		
-BMsgQ001.1C92	夜の闇をこわいと感じることがあるのです……。		
-BMsgQ001.1CC2	…………。{n}天使でも、そんなことを感じるのか？{n}いや、天使だからこそか……？{wait}{clear}お前とは、住む世界が違うということだろうな……。		
-BMsgQ001.1D44	夜		
-BMsgQ001.1D48	いつかきっと静かな夜がクライヴのもとにも{n}おとずれるようになります……。		
-BMsgQ001.1D94	……いつか……{n}本当にいつか、{n}そういう日が本当にくればいいのだが……。{wait}{clear}もう、この話はやめないか？		
+BMsgQ001.0190	まだ、あるのか……。	More...?	
+BMsgQ001.01A6	体調は？	Your health?	
+BMsgQ001.01B0	疲れていませんか？	Aren't you tired?	
+BMsgQ001.01C6	心配するな……。{n}このくらいで疲れていては、話にならないからな。	Don't worry... If this tired me out, I'd be{n}useless.	
+BMsgQ001.0208	一緒に歩く	Walk together	
+BMsgQ001.0214	一緒に歩いてもいいですか？	May I walk with you?	
+BMsgQ001.0232	ああ……べつにかまわないが……。	Yeah... I don't particularly mind...	
+BMsgQ001.0254	風を感じる	Feel the wind	
+BMsgQ001.0260	風に吹かれながら歩くのは、気持ちいいですね。	It feels nice to walk with the wind blowing,{n}doesn't it?	
+BMsgQ001.0290	ああ……。{wait}{clear}そうかもしれないな……。	Yeah...{wait}{clear}Maybe so...	
+BMsgQ001.02B8	険しい道	Rough roads	
+BMsgQ001.02C2	行き先によっては、険しい道が多くなって{n}大変なこともあると思いますが、大丈夫ですか？	Depending on where you go, there may be a{n}lot of rough roads, which could be hard.{n}Will you be all right?	
+BMsgQ001.031A	そのくらいなんでもない。{wait}{clear}平坦な道を選んでいたのでは、{n}目的地にたどりつけないからな……。	That's nothing.{wait}{clear}If I picked level roads, I'd never reach{n}where I'm going...	
+BMsgQ001.0378	初めての場所	New places	
+BMsgQ001.0386	初めての場所へ行って、{n}道に迷ったりすることはありませんか？	Don't you ever get lost when you go{n}somewhere new?	
+BMsgQ001.03C6	俺はそんなに頼りなく見えるのか？	Do I look that unreliable?	
+BMsgQ001.03E8	青い空	Blue sky	
+BMsgQ001.03F0	地面に立って見上げる空はとても美しいものですね。{n}私たちが上から見ているものとは、{n}まったく違うように感じます。{wait}{clear}私たちはいつも上から見ているだけですから、{n}こういうことにはなかなか気づくことができなくて。	The sky is so beautiful when you look up at{n}it from the ground. It feels completely{n}different from what we see from above.{wait}{clear}We only ever look down from above, so it's{n}hard for us to notice things like this.	
+BMsgQ001.04C4	天使らしいな……。{n}というよりも、天使でなければ、{n}わからないことだろうな……。	How like an angel... Or rather, it's{n}something only an angel would understand...	
+BMsgQ001.0516	素敵な景色	Lovely views	
+BMsgQ001.0522	アルカヤには、{n}すばらしい景色がたくさんありますね。	Arcaya has so many wonderful views, doesn't{n}it?	
+BMsgQ001.055A	……らしくないと思われるかもしれないが、{n}そう思うこともある……。	...You might think it's not like me, but I{n}do think that sometimes...	
+BMsgQ001.059E	妖精は役に立つ？	Fairies useful?	
+BMsgQ001.05B0	妖精たちは助けになっていますか？	Are the fairies a help to you?	
+BMsgQ001.05D4	よくやってくれると思っている……。	I think they do good work...	
+BMsgQ001.05F8	旅先で思うこと	On the road	
+BMsgQ001.0608	旅をしていると、いろんなことを考えたり、{n}思ったりしませんか？	Don't you find yourself thinking and feeling{n}all kinds of things when you travel?	
+BMsgQ001.064A	そうだな……。{n}そういうときもあるかもしれないな……。	I suppose... There may be times like that...	
+BMsgQ001.0682	旅で出会う人	People met	
+BMsgQ001.0690	旅先で人と出会うのは楽しいですね。	It's fun meeting people on the road, isn't{n}it?	
+BMsgQ001.06B6	それは……苦手だ。	That's... not my thing.	
+BMsgQ001.06CA	いい夢が……	Sweet dreams	
+BMsgQ001.06D8	いい夢が見られるといいですね。	I hope you have sweet dreams.	
+BMsgQ001.06FA	そうだな……。	I suppose...	
+BMsgQ001.070A	お疲れさま	Good work	
+BMsgQ001.0716	お疲れさまでした。	Thank you for your hard work.	
+BMsgQ001.072C	ああ……。{n}おまえこそ、疲れてはいないのか？	Yeah... Aren't you the one who's tired?	
+BMsgQ001.075A	眠るのは好き？	Like sleeping?	
+BMsgQ001.076A	眠ることは好きですか？	Do you like sleeping?	
+BMsgQ001.0784	へんなことを聞くやつだ……。{wait}{clear}そんなこと、考えたこともないがな。	You ask strange things...{wait}{clear}I've never even thought about it.	
+BMsgQ001.07C8	出来事	Events	
+BMsgQ001.07D0	いろいろなことがあったと思いますが、{n}ゆっくり休んでくださいね。	I'm sure a lot has happened, but please get{n}some good rest.	
+BMsgQ001.0814	ああ、そうさせてもらう。	Yeah, I'll do that.	
+BMsgQ001.082E	何かすることは？	Bedtime habit?	
+BMsgQ001.0840	寝る前に、なにかすることがあったり、{n}習慣になっていることはありますか？	Is there anything you do before bed, or any{n}habit you have?	
+BMsgQ001.088C	特別なことはないが……剣の手入れだけはする……。{n}いざというときのためにな。	Nothing special... I just care for my{n}sword... In case it's needed.	
+BMsgQ001.08DA	いつもと違う場所	Strange places	
+BMsgQ001.08EC	いつもと違う場所でも{n}しっかり眠ることができますか？	Can you sleep well even in an unfamiliar{n}place?	
+BMsgQ001.0924	ああ……。{n}それになれなければ、旅などできないからな。{wait}{clear}そうでなければ、戦えん……。	Yeah... If I couldn't get used to that, I{n}couldn't travel.{wait}{clear}Or fight, for that matter...	
+BMsgQ001.097C	眠れないときは	Can't sleep?	
+BMsgQ001.098C	眠れないときはどうしていますか。	What do you do when you can't sleep?	
+BMsgQ001.09B0	なにも……。{n}ぼんやりしているだけだ。	Nothing... I just let my mind wander.	
+BMsgQ001.09D8	故郷のこと	Your home	
+BMsgQ001.09E4	こうして、世界を旅していると、{n}故郷のことを考えたりすることはありませんか？	Traveling the world like this, don't you{n}ever think about your home?	
+BMsgQ001.0A34	ああ……。{n}故郷というか……昔のことを思い出すことはある。	Yeah... Not home exactly... but I do{n}remember the past sometimes.	
+BMsgQ001.0A70	一緒にいたい	Stay with you	
+BMsgQ001.0A7E	しばらく一緒にいても、かまいませんか？	Would you mind if I stayed with you a while?	
+BMsgQ001.0AA8	……ああ……好きにしろ。	...Fine... Do as you like.	
+BMsgQ001.0AC2	起きたときには	On waking	
+BMsgQ001.0AD2	目が覚めたときに必ずすることがありますか？	Is there anything you always do when you{n}wake up?	
+BMsgQ001.0B00	いや、特別なにもないが……。	No, nothing in particular...	
+BMsgQ001.0B1E	まだ続ける？	Keep going?	
+BMsgQ001.0B2C	まだ続けるのですか？	Are you going to keep going?	
+BMsgQ001.0B44	ああ、まだはじめたばかりだ。{n}続けなければ意味がない……。	Yeah, I've only just started. It's pointless{n}if I don't keep at it...	
+BMsgQ001.0B80	いつもありがとう	Thank you	
+BMsgQ001.0B92	いつもありがとうございます。	Thank you for everything.	
+BMsgQ001.0BB2	へんなことを言うのだな……。{n}べつにおまえだけのために戦っているわけじゃない。	You say strange things... It's not as if I'm{n}fighting just for you.	
+BMsgQ001.0C02	修行はつらい？	Hard training?	
+BMsgQ001.0C12	修行はつらいこともあると思うのですが……。	I imagine training can be hard at times...	
+BMsgQ001.0C40	そんなことを言っていたら、修行にならないだろう。{n}敵にやられてからでは、遅いんだ……。	Talk like that and it isn't training. By the{n}time an enemy beats you, it's too late...	
+BMsgQ001.0C98	休まなくて平気？	No rest?	
+BMsgQ001.0CAA	ずっと修行を続けていると思うのですが、{n}休まなくても平気なのですか？	You've been training nonstop. Are you sure{n}you don't need a rest?	
+BMsgQ001.0CF2	いや……まだ続ける。{n}もう少しな……。	No... I'll keep going. A little longer...	
+BMsgQ001.0D1A	熱心ですね	So dedicated	
+BMsgQ001.0D26	とても熱心に修行されているようですね。	You seem to be training very hard.	
+BMsgQ001.0D50	熱心……？　そう見えるのか……。	Hard...? Is that how it looks...?	
+BMsgQ001.0D72	体力に自信は？	Your stamina?	
+BMsgQ001.0D82	体力に自信はありますか？	Are you confident in your stamina?	
+BMsgQ001.0D9E	ハンターなどをやっているんだ。{n}自信がなくてはできない。	I'm a hunter. I couldn't do it without{n}confidence.	
+BMsgQ001.0DD8	ケガをしないで	Don't get hurt	
+BMsgQ001.0DE8	ケガには気をつけてくださいね。	Please be careful not to get hurt.	
+BMsgQ001.0E0A	そうだな……。{n}やったことがむだになるからな。	I suppose... Otherwise all the effort goes{n}to waste.	
+BMsgQ001.0E3A	気をつけること	What to watch	
+BMsgQ001.0E4A	修行の時に{n}なにか気をつけていることはあるのですか？	Is there anything you pay attention to when{n}you train?	
+BMsgQ001.0E82	集中することだけを考えている……。	I think only about focusing...	
+BMsgQ001.0EA6	調子は？	How's it going?	
+BMsgQ001.0EB0	修行の調子はいかがですか？	How is your training going?	
+BMsgQ001.0ECE	いや……特別変わったことはないが……。	No... Nothing out of the ordinary...	
+BMsgQ001.0EF6	修行の成果	Results	
+BMsgQ001.0F02	修行が身について成果が出ると、{n}うれしいものですよね。	It feels good when your training pays off{n}and you see results, doesn't it?	
+BMsgQ001.0F3C	そうだな……。{n}そうでなければ修行の意味もない。	I suppose... Otherwise there's no point in{n}training.	
+BMsgQ001.0F6E	邪魔でしょうか？	Am I a bother?	
+BMsgQ001.0F80	突然来てしまって……邪魔でしたでしょうか？	I came without warning... Am I bothering{n}you?	
+BMsgQ001.0FAE	おまえはいつも、{n}そう思っていながら、来るのだな。	You always think that, and you come anyway.	
+BMsgQ001.0FE2	好きなことは？	Favorite thing?	
+BMsgQ001.0FF2	なにか好きなことはありますか？	Is there anything you like to do?	
+BMsgQ001.1014	そんなことは考えたこともない……。	I've never even thought about it...	
+BMsgQ001.1038	気分転換	Change of pace	
+BMsgQ001.1042	なにか普段と違うことをすると{n}気分転換ができますよね。	Doing something different from usual makes{n}for a nice change of pace, doesn't it?	
+BMsgQ001.107C	そういうものなのか？{n}あまり考えたことなどないが……。	Is that how it is? I've never really thought{n}about it...	
+BMsgQ001.10B4	小さい頃は何を？	As a child?	
+BMsgQ001.10C6	小さい頃はなにをして遊びましたか？	What did you play when you were little?	
+BMsgQ001.10EC	唐突な質問だな……。{n}悪いが、あまり覚えていない。{wait}{clear}いつもひとりでいたような気がする……。	An abrupt question... Sorry, but I don't{n}remember much.{wait}{clear}I think I was always alone...	
+BMsgQ001.114A	しばらく一緒に	A while longer	
+BMsgQ001.115A	もうしばらく、一緒にいてもいいですか？	May I stay with you a while longer?	
+BMsgQ001.1184	ああ、べつにかまわない。	Yeah, I don't mind.	
+BMsgQ001.119E	また任務をお願い	Another task	
+BMsgQ001.11B0	戦いはつらいと思いますが、{n}これからも人々の為に力をかしてください。	I know the fighting is hard, but please keep{n}lending your strength for the people's sake.	
+BMsgQ001.11F8	……わかっている。	...I know.	
+BMsgQ001.120C	ゆっくり休んで	Rest well	
+BMsgQ001.121C	せめて、こういう時間くらいは、{n}ゆっくり休んでくださいね。	At least at times like this, please get some{n}good rest.	
+BMsgQ001.125A	ああ……{n}そうさせてもらう……。	Yeah... I'll do that...	
+BMsgQ001.127C	考えていること	Your thoughts	
+BMsgQ001.128C	歩きながら、考えごとをしたりしますか？	Do you think things over while you walk?	
+BMsgQ001.12B6	たまにな……。	Now and then...	
+BMsgQ001.12C6	人の集まる場所へ	Crowded places	
+BMsgQ001.12D8	人の集まる場所へ行ったりしますか？	Do you go to places where people gather?	
+BMsgQ001.12FE	そういう場所は苦手だ……。	I'm not good with places like that...	
+BMsgQ001.131A	食事はとっている	Eating well?	
+BMsgQ001.132C	食事はしっかりとっていますか？	Are you eating properly?	
+BMsgQ001.134E	ああ……。{n}そんなことは心配しなくてもいい。	Yeah... You don't need to worry about that.	
+BMsgQ001.137C	気をつけて	Be careful	
+BMsgQ001.1388	気をつけてください……。	Please be careful...	
+BMsgQ001.13A4	心配するな。	Don't worry.	
+BMsgQ001.13B2	すみません	I'm sorry	
+BMsgQ001.13BE	すみませんが、がんばって……。	I'm sorry, but please hang in there...	
+BMsgQ001.13E0	ああ、わかっている。	Yeah, I know.	
+BMsgQ001.13F6	無理はしないで	Don't overdo it	
+BMsgQ001.1406	無理はしないでくださいね。	Please don't push yourself too hard.	
+BMsgQ001.1424	ああ……わかった……。	Yeah... Got it...	
+BMsgQ001.143C	油断は禁物	Stay alert	
+BMsgQ001.1448	油断はしないでくださいね。	Please don't let your guard down.	
+BMsgQ001.1466	当然だ……。	Naturally...	
+BMsgQ001.1474	敵が気になる	The enemy	
+BMsgQ001.1482	敵の様子が気になりませんか？	Aren't you concerned about the enemy?	
+BMsgQ001.14A2	いまさら気にしてもしかたがないと思わないのか。	Don't you think there's no point worrying{n}about it now?	
+BMsgQ001.14D2	がんばって	Good luck	
+BMsgQ001.14DE	がんばってください……。	Please do your best...	
+BMsgQ001.14FA	ああ……。	Yeah...	
+BMsgQ001.1506	緊張……	Nervous...	
+BMsgQ001.1510	すみません、{n}私の方が緊張しているかもしれません……。	I'm sorry, I might be the one who's more{n}nervous...	
+BMsgQ001.154A	そんなに心配するな。	Don't worry so much.	
+BMsgQ001.1560	きっと大丈夫です	You'll be fine	
+BMsgQ001.1572	クライヴなら、きっと大丈夫です。	I'm sure you'll be fine, Clive.	
+BMsgQ001.1596	ああ……だが、油断するつもりはない。	Yeah... But I don't intend to let my guard{n}down.	
+BMsgQ001.15BC	どうか無事で……	Stay safe...	
+BMsgQ001.15CE	どうか、無事に戻ってきてください。	Please come back safe and sound.	
+BMsgQ001.15F4	……ああ……わかっている……。	...Yeah... I know...	
+BMsgQ001.1614	どきどき	Heart pounding	
+BMsgQ001.161E	どきどきしてきました……。	My heart's starting to pound...	
+BMsgQ001.163C	おまえが落ち着かなくて、どうする。	What good is it if you can't calm down?	
+BMsgQ001.1660	すみません！	I'm sorry!	
+BMsgQ001.166E	すみません！{n}私がちゃんと考えてなくて……。	I'm sorry! I didn't think it through...	
+BMsgQ001.169E	……これは……自分の力不足だ……。	...This is... because I wasn't strong{n}enough...	
+BMsgQ001.16C2	大丈夫ですか？	Are you okay?	
+BMsgQ001.16D2	大丈夫ですか？{n}しっかりしてください。	Are you all right? Hang in there.	
+BMsgQ001.16FC	そんなにさわぐことじゃない……。	It's nothing to make a fuss about...	
+BMsgQ001.171E	ありがとう	Thank you	
+BMsgQ001.172A	こんなひどい傷を負うまで{n}がんばってくれたのですね。{n}ありがとうございます。	You fought on until you were this badly{n}hurt. Thank you.	
+BMsgQ001.177A	いや……	No...	
+BMsgQ001.1784	助けられなくて	Couldn't help	
+BMsgQ001.1794	助けてあげられなくて、すみませんでした。	I'm sorry I couldn't help you.	
+BMsgQ001.17C0	しかたのないことだ……。	It can't be helped...	
+BMsgQ001.17DA	他に必要なことは	Anything else?	
+BMsgQ001.17EC	アイテムなどの他に、{n}私が出来ることをしたいのですが、{n}なにかありますか？	Besides items, I'd like to do whatever I can{n}for you. Is there anything?	
+BMsgQ001.183A	そんなに心配しないでくれ……。	Don't worry so much...	
+BMsgQ001.185A	無理をさせて……	Pushed too hard	
+BMsgQ001.186C	こんなことになるまで{n}私は、無理をさせてしまったのですね。{wait}{clear}すみませんでした。	I pushed you so hard that it came to this,{n}didn't I?{wait}{clear}I'm sorry.	
+BMsgQ001.18C0	……おまえにあやまられても……。	...An apology from you won't...	
+BMsgQ001.18E2	お願いばかり	Asking too much	
+BMsgQ001.18F0	あなたを頼ってしまっていたので、{n}無理をさせていたのかもしれません。{wait}{clear}本当にすみませんでした。	I relied on you so much that I may have{n}pushed you too hard.{wait}{clear}I'm truly sorry.	
+BMsgQ001.1954	いや……そんなことは……。	No... That's not...	
+BMsgQ001.1970	敵が強くて	Strong enemy	
+BMsgQ001.197C	あなたにこんな傷を負わせるくらい{n}敵が強かったなんて……。{wait}{clear}私のお願いの仕方が悪かったのですね……。	To think the enemy was strong enough to hurt{n}you like this...{wait}{clear}I must have asked it of you the wrong way...	
+BMsgQ001.19E6	……それ以上言うな……。	...Say no more...	
+BMsgQ001.1A00	油断は禁物	Stay alert	
+BMsgQ001.1A0C	こんなに大けがを負ってしまうなんて。{n}油断があったのですか。	For you to be so badly wounded... Did you{n}let your guard down?	
+BMsgQ001.1A4C	そうかもしれん……。	Maybe so...	
+BMsgQ001.1A62	元気になって	Get well	
+BMsgQ001.1A70	世界のことが気になるかもしれませんが、{n}いまは元気になることだけを考えてくださいね。	You may be worried about the world, but for{n}now, think only about getting better.	
+BMsgQ001.1AC8	……すまない。	...Sorry.	
+BMsgQ001.1AD8	ハンター	Hunter	
+BMsgQ001.1AE2	ヴァンパイアハンターとはなんですか？	What is a vampire hunter?	
+BMsgQ001.1B0A	ヴァンパイアやアンデッドモンスターを{n}専門に狩る者のことだ。	Someone who specializes in hunting vampires{n}and undead monsters.	
+BMsgQ001.1B48	ハンター	Hunter	
+BMsgQ001.1B52	どうしてヴァンパイアハンターに？	Why become a vampire hunter?	
+BMsgQ001.1B76	それしか生きる術をしらなかっただけだ……。	It was the only way of life I knew...	
+BMsgQ001.1BA2	ハンター	Hunter	
+BMsgQ001.1BAC	つらくはないですか？	Isn't it hard on you?	
+BMsgQ001.1BC4	……そんな言葉は聞きたくない……。	...I don't want to hear words like that...	
+BMsgQ001.1BE8	夜	Night	
+BMsgQ001.1BEC	夜に行動することが多くて、{n}困ることはありませんか？	You're often active at night. Doesn't that{n}cause you trouble?	
+BMsgQ001.1C24	……そんなことは考えたこともない。{wait}{clear}それに、やつらを少しでも多く葬るために{n}俺は闇の世界で生きる……。	...I've never even thought about it.{wait}{clear}Besides, I live in the world of darkness so{n}I can bury as many of them as possible...	
+BMsgQ001.1C8E	夜	Night	
+BMsgQ001.1C92	夜の闇をこわいと感じることがあるのです……。	Sometimes I find the darkness of night{n}frightening...	
+BMsgQ001.1CC2	…………。{n}天使でも、そんなことを感じるのか？{n}いや、天使だからこそか……？{wait}{clear}お前とは、住む世界が違うということだろうな……。	.........Even an angel feels that? No, maybe{n}it's because you're an angel...?{wait}{clear}I suppose it means you and I live in{n}different worlds...	
+BMsgQ001.1D44	夜	Night	
+BMsgQ001.1D48	いつかきっと静かな夜がクライヴのもとにも{n}おとずれるようになります……。	Someday, I'm sure peaceful nights will come{n}to you too, Clive...	
+BMsgQ001.1D94	……いつか……{n}本当にいつか、{n}そういう日が本当にくればいいのだが……。{wait}{clear}もう、この話はやめないか？	...Someday... If that day really, truly{n}comes someday...{wait}{clear}Can we drop this subject?	

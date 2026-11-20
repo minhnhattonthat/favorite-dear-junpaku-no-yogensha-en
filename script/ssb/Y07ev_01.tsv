@@ -1,51 +1,51 @@
 id	jp	en	notes
 Y07ev_01.001A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.002A	シータスのお休みは{n}そろそろ終わりだと思うのですが……。{wait}{clear}		
+Y07ev_01.002A	シータスのお休みは{n}そろそろ終わりだと思うのですが……。{wait}{clear}	Cetus's day off should be about over by{n}now...{wait}{clear}	
 Y07ev_01.0066	シータス	Cetus	speaker
-Y07ev_01.0076	うまい！{wait}{clear}		
+Y07ev_01.0076	うまい！{wait}{clear}	Delicious!{wait}{clear}	
 Y07ev_01.0082	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.0092	そこにいるのは、シータスですか……？{wait}{clear}		
+Y07ev_01.0092	そこにいるのは、シータスですか……？{wait}{clear}	Is that you over there, Cetus...?{wait}{clear}	
 Y07ev_01.00BA	シータス	Cetus	speaker
-Y07ev_01.00CA	ああ、天使様！{n}そうです、オレですよ。{wait}{clear}		
+Y07ev_01.00CA	ああ、天使様！{n}そうです、オレですよ。{wait}{clear}	Oh, Angel! Yep, it's me.{wait}{clear}	
 Y07ev_01.011C	シータス	Cetus	speaker
-Y07ev_01.012C	おはよう、天使様。{n}今日も、いい天気でよかったですよね。{wait}{clear}		
+Y07ev_01.012C	おはよう、天使様。{n}今日も、いい天気でよかったですよね。{wait}{clear}	Mornin', Angel. Great weather again today,{n}huh?{wait}{clear}	
 Y07ev_01.0168	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.0178	ええ……まあ……。{wait}{clear}		
+Y07ev_01.0178	ええ……まあ……。{wait}{clear}	Yes... I suppose...{wait}{clear}	
 Y07ev_01.018E	シータス	Cetus	speaker
-Y07ev_01.019E	ああ、天使様も、茶、飲みますか？{n}うまいですよ。{wait}{clear}		
+Y07ev_01.019E	ああ、天使様も、茶、飲みますか？{n}うまいですよ。{wait}{clear}	Oh, want some tea too, Angel? It's good{n}stuff.{wait}{clear}	
 Y07ev_01.01D2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.01E2	い、いえ、私は、結構です。{n}でも、シータス……。{wait}{clear}		
+Y07ev_01.01E2	い、いえ、私は、結構です。{n}でも、シータス……。{wait}{clear}	N-no, I'm fine, thank you. But, Cetus...{wait}{clear}	
 Y07ev_01.0216	シータス	Cetus	speaker
-Y07ev_01.0226	はい？{n}どうかしたんですか？{wait}{clear}		
+Y07ev_01.0226	はい？{n}どうかしたんですか？{wait}{clear}	Yeah? Something wrong?{wait}{clear}	
 Y07ev_01.0246	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.0256	いえ、その……{n}いつものシータスの姿や口調と違うので……。{wait}{clear}		
+Y07ev_01.0256	いえ、その……{n}いつものシータスの姿や口調と違うので……。{wait}{clear}	No, it's just... You don't look or talk like{n}the usual Cetus...{wait}{clear}	
 Y07ev_01.0294	シータス	Cetus	speaker
-Y07ev_01.02A4	はははっ！　この格好ですか？{n}これが普段のオレなんですよ。{wait}{clear}		
-Y07ev_01.02E6	口調も仕事の時はいちおうまずいかなって思って、{n}ていねいにしゃべってるだけだし。{wait}{clear}		
+Y07ev_01.02A4	はははっ！　この格好ですか？{n}これが普段のオレなんですよ。{wait}{clear}	Hahaha! You mean this getup? This is the{n}everyday me.{wait}{clear}	
+Y07ev_01.02E6	口調も仕事の時はいちおうまずいかなって思って、{n}ていねいにしゃべってるだけだし。{wait}{clear}	And the way I talk, I just figured it'd be{n}bad on the job, so I keep it polite then.{wait}{clear}	
 Y07ev_01.033A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y07ev_01.034A	そうなのですか……。{wait}{clear}	I see...{wait}{clear}	
 Y07ev_01.0362	シータス	Cetus	speaker
-Y07ev_01.0372	天使様、まだ、休みは続いてますよね？{wait}{clear}		
+Y07ev_01.0372	天使様、まだ、休みは続いてますよね？{wait}{clear}	Angel, my day off's not over yet, right?{wait}{clear}	
 Y07ev_01.039A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y07ev_01.03AA	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
 Y07ev_01.03C0	シータス	Cetus	speaker
-Y07ev_01.03D0	じゃあ、茶をもう一杯飲ませてください。{n}そうしたら、仕事に戻りますよ。{wait}{clear}		
+Y07ev_01.03D0	じゃあ、茶をもう一杯飲ませてください。{n}そうしたら、仕事に戻りますよ。{wait}{clear}	Then let me have one more cup of tea. After{n}that, I'll get back to work.{wait}{clear}	
 Y07ev_01.041A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.042A	は、はい……わかりました。{n}そうしてください。{wait}{clear}		
+Y07ev_01.042A	は、はい……わかりました。{n}そうしてください。{wait}{clear}	Y-yes... All right. Go ahead.{wait}{clear}	
 Y07ev_01.045C	シータス	Cetus	speaker
-Y07ev_01.046C	じゃあ、天使様、またあとで。{n}{wait}{clear}		
+Y07ev_01.046C	じゃあ、天使様、またあとで。{n}{wait}{clear}	See ya later, then, Angel.{n}{wait}{clear}	
 Y07ev_01.04AC	シータス	Cetus	speaker
-Y07ev_01.04BC	先程は申し訳ありませんでした、天使様。{n}さっそく仕事に戻ります。{wait}{clear}		
+Y07ev_01.04BC	先程は申し訳ありませんでした、天使様。{n}さっそく仕事に戻ります。{wait}{clear}	My apologies for earlier, Angel. I will{n}return to work at once.{wait}{clear}	
 Y07ev_01.0500	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.0510	いえ、そんなに慌てなくてもいいですよ。{n}でも、シータス、すごいギャップですね……。{wait}{clear}		
+Y07ev_01.0510	いえ、そんなに慌てなくてもいいですよ。{n}でも、シータス、すごいギャップですね……。{wait}{clear}	No, there's no need to rush. But, Cetus,{n}what a difference...{wait}{clear}	
 Y07ev_01.0566	シータス	Cetus	speaker
-Y07ev_01.0576	そうですか？{n}自分にとっては当たり前のことですけど、{n}天使様は驚かれたのかもしれませんね。{wait}{clear}		
-Y07ev_01.05D8	仕事とプライベートの切り替えをした方が、{n}自分としては楽なんです。{n}生活にメリハリがつきますからね。{wait}{clear}		
+Y07ev_01.0576	そうですか？{n}自分にとっては当たり前のことですけど、{n}天使様は驚かれたのかもしれませんね。{wait}{clear}	Is it? It's perfectly natural to me, but{n}perhaps it surprised you, Angel.{wait}{clear}	
+Y07ev_01.05D8	仕事とプライベートの切り替えをした方が、{n}自分としては楽なんです。{n}生活にメリハリがつきますからね。{wait}{clear}	Keeping work and private life separate makes{n}things easier for me. It gives my life some{n}structure.{wait}{clear}	
 Y07ev_01.0640	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.0650	まあ、ひとそれぞれということでしょうかね。{wait}{clear}		
+Y07ev_01.0650	まあ、ひとそれぞれということでしょうかね。{wait}{clear}	Well, I suppose everyone is different.{wait}{clear}	
 Y07ev_01.067E	シータス	Cetus	speaker
-Y07ev_01.068E	ははは。{n}そうですね、そう思ってください。{n}では、さっそく仕事に戻ります。{wait}{clear}		
+Y07ev_01.068E	ははは。{n}そうですね、そう思ってください。{n}では、さっそく仕事に戻ります。{wait}{clear}	Hahaha. Yes, please think of it that way.{n}Now, I will return to work at once.{wait}{clear}	
 Y07ev_01.06DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y07ev_01.06EC	あ、ええ、そうですね。{n}また、よろしくお願いしますね、シータス。{wait}{clear}		
+Y07ev_01.06EC	あ、ええ、そうですね。{n}また、よろしくお願いしますね、シータス。{wait}{clear}	Ah, yes, of course. I'm counting on you{n}again, Cetus.{wait}{clear}	
 Y07ev_01.0730	シータス	Cetus	speaker
-Y07ev_01.0740	はい、天使様。{wait}{clear}		
+Y07ev_01.0740	はい、天使様。{wait}{clear}	Yes, Angel.{wait}{clear}	

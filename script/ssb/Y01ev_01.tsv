@@ -36,10 +36,10 @@ Y01ev_01.0496	でも、恥ずかしいので、{n}このことは、みんなに
 Y01ev_01.04E6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y01ev_01.04F6	はい、わかりました。{wait}{clear}	Yes, I understand.{wait}{clear}	
 Y01ev_01.0518	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.0528	いえ、どういたしまして。{wait}{clear}		
+Y01ev_01.0528	いえ、どういたしまして。{wait}{clear}	No, it was my pleasure.{wait}{clear}	
 Y01ev_01.0544	ローザ	Rosa	speaker
-Y01ev_01.0552	天使様、わかっていらっしゃると思いますけど……。{wait}{clear}		
+Y01ev_01.0552	天使様、わかっていらっしゃると思いますけど……。{wait}{clear}	Angel, I trust you understand that...{wait}{clear}	
 Y01ev_01.0586	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y01ev_01.0596	ええ、このことはみんなに内緒ですよね？{wait}{clear}		
+Y01ev_01.0596	ええ、このことはみんなに内緒ですよね？{wait}{clear}	Yes, this stays a secret from everyone,{n}right?{wait}{clear}	
 Y01ev_01.05C0	ローザ	Rosa	speaker
-Y01ev_01.05CE	はい、よろしくお願いします。{wait}{clear}		
+Y01ev_01.05CE	はい、よろしくお願いします。{wait}{clear}	Yes. I'm counting on you.{wait}{clear}	

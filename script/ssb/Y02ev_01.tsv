@@ -1,45 +1,45 @@
 id	jp	en	notes
 Y02ev_01.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.0044	えっと、フロリンダに新しい着ぐるみを作ったから{n}見て欲しいと言われたのですが……。{n}たしか、このあたりにいるはず……。{wait}{clear}		
+Y02ev_01.0044	えっと、フロリンダに新しい着ぐるみを作ったから{n}見て欲しいと言われたのですが……。{n}たしか、このあたりにいるはず……。{wait}{clear}	Um, Florinda said she'd made a new costume{n}and wanted me to see it... She should be{n}somewhere around here...{wait}{clear}	
 Y02ev_01.00BE	フロリンダ	Florinda	speaker
-Y02ev_01.00D0	あっ！　天使様ぁ、来てくれたんですね！{wait}{clear}		
+Y02ev_01.00D0	あっ！　天使様ぁ、来てくれたんですね！{wait}{clear}	Oh! Angel, you came!{wait}{clear}	
 Y02ev_01.00FA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.010A	フロリンダ、いるんですか？　どこです？{wait}{clear}		
+Y02ev_01.010A	フロリンダ、いるんですか？　どこです？{wait}{clear}	Florinda, are you here? Where are you?{wait}{clear}	
 Y02ev_01.0134	フロリンダ	Florinda	speaker
-Y02ev_01.0146	ここですぅ！　ここ、ここ！{wait}{clear}		
+Y02ev_01.0146	ここですぅ！　ここ、ここ！{wait}{clear}	Over heeere! Here, here!{wait}{clear}	
 Y02ev_01.0182	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.0192	どこです？　フロリンダ。{n}見えるのはリスばかりですけど……。{wait}{clear}		
+Y02ev_01.0192	どこです？　フロリンダ。{n}見えるのはリスばかりですけど……。{wait}{clear}	Where, Florinda? All I can see are{n}squirrels...{wait}{clear}	
 Y02ev_01.01D2	フロリンダ	Florinda	speaker
-Y02ev_01.01E4	へへへ、天使様、ここです、ここ！{wait}{clear}		
+Y02ev_01.01E4	へへへ、天使様、ここです、ここ！{wait}{clear}	Hehehe, Angel, I'm right here, here!{wait}{clear}	
 Y02ev_01.0208	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.0218	あ、フロリンダ。{n}そんなところにいたんですね。{wait}{clear}		
+Y02ev_01.0218	あ、フロリンダ。{n}そんなところにいたんですね。{wait}{clear}	Ah, Florinda. So that's where you were.{wait}{clear}	
 Y02ev_01.024A	フロリンダ	Florinda	speaker
-Y02ev_01.025C	天使様、今回のこの着ぐるみ、{n}とぉーっても良くできてるでしょ？{n}{wait}{clear}		
+Y02ev_01.025C	天使様、今回のこの着ぐるみ、{n}とぉーっても良くできてるでしょ？{n}{wait}{clear}	Angel, this costume's suuuper well made,{n}isn't it?{n}{wait}{clear}	
 Y02ev_01.02A0	フロリンダ	Florinda	speaker
-Y02ev_01.02B2	フロリンのいるとこ、天使様にわからなかったし！{wait}{clear}		
+Y02ev_01.02B2	フロリンのいるとこ、天使様にわからなかったし！{wait}{clear}	You couldn't even tell where Florin was!{wait}{clear}	
 Y02ev_01.02E4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.02F4	ええ、そうですね。{n}よくできてますし、とても似合ってますよ。{wait}{clear}		
+Y02ev_01.02F4	ええ、そうですね。{n}よくできてますし、とても似合ってますよ。{wait}{clear}	Yes, it really is. It's well made, and it{n}suits you very well.{wait}{clear}	
 Y02ev_01.0334	フロリンダ	Florinda	speaker
-Y02ev_01.0346	あはっ！　天使様にほめられちゃった！{wait}{clear}		
+Y02ev_01.0346	あはっ！　天使様にほめられちゃった！{wait}{clear}	Ahah! The Angel praised me!{wait}{clear}	
 Y02ev_01.036E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.037E	さあ、そろそろ戻りましょうか、フロリンダ。{wait}{clear}		
+Y02ev_01.037E	さあ、そろそろ戻りましょうか、フロリンダ。{wait}{clear}	Well, shall we head back soon, Florinda?{wait}{clear}	
 Y02ev_01.03AC	フロリンダ	Florinda	speaker
-Y02ev_01.03BE	はーい。{wait}{clear}		
+Y02ev_01.03BE	はーい。{wait}{clear}	Okaaay!{wait}{clear}	
 Y02ev_01.03EA	フロリンダ	Florinda	speaker
-Y02ev_01.03FC	天使様にほめられて、{n}とってもうれしかったですぅ。{wait}{clear}		
+Y02ev_01.03FC	天使様にほめられて、{n}とってもうれしかったですぅ。{wait}{clear}	Florin was super happy you praised her,{n}Angel!{wait}{clear}	
 Y02ev_01.043A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.044A	でも、もう着替えてきてしまったんですか？{wait}{clear}		
+Y02ev_01.044A	でも、もう着替えてきてしまったんですか？{wait}{clear}	But you've already changed out of it?{wait}{clear}	
 Y02ev_01.0476	フロリンダ	Florinda	speaker
-Y02ev_01.0488	はい。{n}あれは、みんなと遊ぶときの着ぐるみで、{n}お仕事用じゃないんです。{wait}{clear}		
+Y02ev_01.0488	はい。{n}あれは、みんなと遊ぶときの着ぐるみで、{n}お仕事用じゃないんです。{wait}{clear}	Yep. That one's a costume for playing with{n}everyone, not for work.{wait}{clear}	
 Y02ev_01.04D4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.04E4	そうなんですか？{wait}{clear}		
+Y02ev_01.04E4	そうなんですか？{wait}{clear}	Is that so?{wait}{clear}	
 Y02ev_01.04F8	フロリンダ	Florinda	speaker
-Y02ev_01.050A	はい。{n}着ぐるみは、用途に合わせて着替えるんです！{wait}{clear}		
+Y02ev_01.050A	はい。{n}着ぐるみは、用途に合わせて着替えるんです！{wait}{clear}	Yep. You change costumes to suit what you're{n}doing!{wait}{clear}	
 Y02ev_01.054A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.055A	でも、もう着替えてきてしまったんですね？{wait}{clear}		
+Y02ev_01.055A	でも、もう着替えてきてしまったんですね？{wait}{clear}	But you've already gone and changed out of{n}it?{wait}{clear}	
 Y02ev_01.0586	フロリンダ	Florinda	speaker
-Y02ev_01.0598	はい。{n}あれは、みんなと遊ぶときの着ぐるみです。{wait}{clear}		
+Y02ev_01.0598	はい。{n}あれは、みんなと遊ぶときの着ぐるみです。{wait}{clear}	Yep. That one's the costume for playing with{n}everyone.{wait}{clear}	
 Y02ev_01.05CC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y02ev_01.05DC	用途に合わせて着替えるんですよね？{wait}{clear}		
+Y02ev_01.05DC	用途に合わせて着替えるんですよね？{wait}{clear}	You change to suit what you're doing, right?{wait}{clear}	
 Y02ev_01.0602	フロリンダ	Florinda	speaker
-Y02ev_01.0614	はい、それがフロリンのポリシーです！{wait}{clear}		
+Y02ev_01.0614	はい、それがフロリンのポリシーです！{wait}{clear}	Yep, that's Florin's policy!{wait}{clear}	

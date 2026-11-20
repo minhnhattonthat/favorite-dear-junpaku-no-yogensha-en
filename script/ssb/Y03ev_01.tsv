@@ -1,53 +1,53 @@
 id	jp	en	notes
 Y03ev_01.0034	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0044	また一日過ぎてゆくのですね……。{n}でも、やることはたくさんありますから、{n}気を引きしめないと。{wait}{clear}		
+Y03ev_01.0044	また一日過ぎてゆくのですね……。{n}でも、やることはたくさんありますから、{n}気を引きしめないと。{wait}{clear}	Another day passing by... But there's still{n}so much to do. I need to stay focused.{wait}{clear}	
 Y03ev_01.00A6	シェリー	Shelly	speaker
-Y03ev_01.00B6	はぁ……。{wait}{clear}		
+Y03ev_01.00B6	はぁ……。{wait}{clear}	Haah...{wait}{clear}	
 Y03ev_01.00C4	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y03ev_01.00D4	？{wait}{clear}	?{wait}{clear}	
 Y03ev_01.00DA	シェリー	Shelly	speaker
-Y03ev_01.00EA	ふぅ……。{wait}{clear}		
+Y03ev_01.00EA	ふぅ……。{wait}{clear}	Phew...{wait}{clear}	
 Y03ev_01.00F8	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0108	シェリーみたいですね。{n}どうしたんでしょう……？{wait}{clear}		
+Y03ev_01.0108	シェリーみたいですね。{n}どうしたんでしょう……？{wait}{clear}	That sounds like Shelly. I wonder what's{n}wrong...?{wait}{clear}	
 Y03ev_01.0166	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0176	あの……シェリー？{wait}{clear}		
+Y03ev_01.0176	あの……シェリー？{wait}{clear}	Um... Shelly?{wait}{clear}	
 Y03ev_01.018C	シェリー	Shelly	speaker
-Y03ev_01.019C	あ、天使様……。{wait}{clear}		
+Y03ev_01.019C	あ、天使様……。{wait}{clear}	Oh, Angel...{wait}{clear}	
 Y03ev_01.01B0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.01C0	元気がないですね。{n}なにかあったのですか？{wait}{clear}		
+Y03ev_01.01C0	元気がないですね。{n}なにかあったのですか？{wait}{clear}	You seem down. Did something happen?{wait}{clear}	
 Y03ev_01.01EE	シェリー	Shelly	speaker
-Y03ev_01.01FE	い、いえ……なんでもないんです。{wait}{clear}		
+Y03ev_01.01FE	い、いえ……なんでもないんです。{wait}{clear}	N-no... It's nothing.{wait}{clear}	
 Y03ev_01.0222	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0232	いつものシェリーらしくないじゃないですか。{n}私でよかったら、話してくれませんか？{wait}{clear}		
+Y03ev_01.0232	いつものシェリーらしくないじゃないですか。{n}私でよかったら、話してくれませんか？{wait}{clear}	This isn't like you at all, Shelly. If you{n}don't mind talking to me, won't you tell me?{wait}{clear}	
 Y03ev_01.0286	シェリー	Shelly	speaker
-Y03ev_01.0296	すいません、天使様。{n}あの、ちょっと悲しくなったんです……。{wait}{clear}		
+Y03ev_01.0296	すいません、天使様。{n}あの、ちょっと悲しくなったんです……。{wait}{clear}	Sorry, Angel. It's just... I got a little{n}sad...{wait}{clear}	
 Y03ev_01.02D6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.02E6	悲しい、ですか？{wait}{clear}		
+Y03ev_01.02E6	悲しい、ですか？{wait}{clear}	Sad?{wait}{clear}	
 Y03ev_01.02FA	シェリー	Shelly	speaker
 Y03ev_01.030A	はい……。{wait}{clear}	Yes...{wait}{clear}	
-Y03ev_01.031C	今日、お休みがうれしくって{n}いろんな場所を飛び回っていたんですけど、{n}行く先々で争いがあったりして……。{wait}{clear}		
-Y03ev_01.038C	それを見たら、遊んでる自分が、{n}なにかいけないことをしてるように思えて……。{wait}{clear}		
+Y03ev_01.031C	今日、お休みがうれしくって{n}いろんな場所を飛び回っていたんですけど、{n}行く先々で争いがあったりして……。{wait}{clear}	I was so happy to have a day off that I flew{n}all over the place, but everywhere I went{n}there was fighting and stuff...{wait}{clear}	
+Y03ev_01.038C	それを見たら、遊んでる自分が、{n}なにかいけないことをしてるように思えて……。{wait}{clear}	And seeing that, it felt like me playing{n}around was something I shouldn't be doing...{wait}{clear}	
 Y03ev_01.03DC	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.03EC	なにを言うんですか、シェリー。{n}あなたは、悪いことなんて少しも{n}していないじゃないですか。{wait}{clear}		
+Y03ev_01.03EC	なにを言うんですか、シェリー。{n}あなたは、悪いことなんて少しも{n}していないじゃないですか。{wait}{clear}	What are you saying, Shelly? You haven't{n}done anything wrong at all.{wait}{clear}	
 Y03ev_01.044A	シェリー	Shelly	speaker
-Y03ev_01.045A	でも、天使様……。{wait}{clear}		
+Y03ev_01.045A	でも、天使様……。{wait}{clear}	But, Angel...{wait}{clear}	
 Y03ev_01.0470	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0480	あなたは、しっかりお仕事しているんですから、{n}たまにはお休みも必要ですよ。{wait}{clear}		
+Y03ev_01.0480	あなたは、しっかりお仕事しているんですから、{n}たまにはお休みも必要ですよ。{wait}{clear}	You work hard, so you need a day off now and{n}then.{wait}{clear}	
 Y03ev_01.04CE	シェリー	Shelly	speaker
-Y03ev_01.04DE	そうでしょうか……。{n}でも、ありがとうございます。{n}天使様にお話しして、少しほっとしました。{wait}{clear}		
+Y03ev_01.04DE	そうでしょうか……。{n}でも、ありがとうございます。{n}天使様にお話しして、少しほっとしました。{wait}{clear}	You think so...? But thank you. Talking to{n}you has made me feel a little better.{wait}{clear}	
 Y03ev_01.053E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.054E	そうですか？　それなら、よかったです。{n}では、そろそろ帰りましょうか。{n}暗くなってしまいますからね。{wait}{clear}		
+Y03ev_01.054E	そうですか？　それなら、よかったです。{n}では、そろそろ帰りましょうか。{n}暗くなってしまいますからね。{wait}{clear}	Really? Then I'm glad. Well, shall we head{n}back? It'll be getting dark soon.{wait}{clear}	
 Y03ev_01.05B6	シェリー	Shelly	speaker
 Y03ev_01.05C6	はい。{wait}{clear}	Yes.{wait}{clear}	
 Y03ev_01.05F6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0606	少しは元気になりましたか？{wait}{clear}		
+Y03ev_01.0606	少しは元気になりましたか？{wait}{clear}	Are you feeling a little better?{wait}{clear}	
 Y03ev_01.0624	シェリー	Shelly	speaker
-Y03ev_01.0634	はい、天使様。{n}今日はありがとうございました。{wait}{clear}		
+Y03ev_01.0634	はい、天使様。{n}今日はありがとうございました。{wait}{clear}	Yes, Angel. Thank you for today.{wait}{clear}	
 Y03ev_01.066E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.067E	いろいろなことを考えることはいいことですが、{n}私はいつもの元気なシェリーでいて欲しいですね。{wait}{clear}		
+Y03ev_01.067E	いろいろなことを考えることはいいことですが、{n}私はいつもの元気なシェリーでいて欲しいですね。{wait}{clear}	Thinking about all kinds of things is good,{n}but I'd like you to stay the cheerful Shelly{n}you always are.{wait}{clear}	
 Y03ev_01.06DE	シェリー	Shelly	speaker
-Y03ev_01.06EE	へへ、そうですよね！{n}明日からは、また元気でがんばります！{wait}{clear}		
+Y03ev_01.06EE	へへ、そうですよね！{n}明日からは、また元気でがんばります！{wait}{clear}	Hehe, you're right! Starting tomorrow, I'll{n}do my best and be cheerful again!{wait}{clear}	
 Y03ev_01.0736	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y03ev_01.0746	いろいろなことを考えることはいいことですが、{n}元気に失敗して、海より深く反省してくれる{n}シェリーでいてください。{wait}{clear}		
+Y03ev_01.0746	いろいろなことを考えることはいいことですが、{n}元気に失敗して、海より深く反省してくれる{n}シェリーでいてください。{wait}{clear}	Thinking about all kinds of things is good,{n}but please stay the Shelly who messes up{n}cheerfully and then reflects on it from the{wait}{clear}bottom of her heart.{wait}{clear}	
 Y03ev_01.07BA	シェリー	Shelly	speaker
-Y03ev_01.07CA	あーっ、天使様、それはちょとひどいなぁ！{n}でも、そうですよね！{n}明日からは、元気にがんばります！{wait}{clear}		
+Y03ev_01.07CA	あーっ、天使様、それはちょとひどいなぁ！{n}でも、そうですよね！{n}明日からは、元気にがんばります！{wait}{clear}	Aww, Angel, that's kinda mean! But you're{n}right! Starting tomorrow, I'll do my best{n}and be cheerful!{wait}{clear}	

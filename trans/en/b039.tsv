@@ -1,0 +1,149 @@
+id	en
+Y08ev_01.0286	Oh, no, there's no need to thank me. I just thought that even you need a breather now and then, Angel.{wait}{clear}
+Y08ev_01.031E	There's no need to make such a face. Look, there's a firefly glowing on your shoulder, Angel.{wait}{clear}
+Y08ev_01.0390	Oh...{wait}{clear}
+Y08ev_01.03AC	Hehehe... Let us relax tonight, Angel.{wait}{clear}
+Y08ev_01.03F0	Yes, you're right... Let's do that.{wait}{clear}
+Y08ev_01.0444	Angel, do you feel refreshed?{wait}{clear}
+Y08ev_01.047A	Yes, thank you. But what about you? Instead of worrying about me, you should think about yourself...{wait}{clear}
+Y08ev_01.04F6	No, I am fine. I was refreshed right alongside you, Angel.{wait}{clear}
+Y08ev_01.054A	Really? Well, if you say so.{wait}{clear}
+Y08ev_01.0582	Hehehe. Now, I shall do my best once again!{wait}{clear}
+B_ItemRes.0064	Thanks, ＄＄＄＄＄＄. I'll put it to use.
+B_ItemRes.0092	Thanks. I'll put it to use.
+B_ItemRes.00AE	Thanks.
+B_ItemRes.00BA	Thank you, ＄＄＄＄＄＄.
+B_ItemRes.00D6	Thanks. You sure?
+B_ItemRes.00F8	Thank you... ＄＄＄＄＄＄.
+B_ItemRes.0118	Thank you...
+B_ItemRes.0128	Ah... thanks.
+B_ItemRes.0146	Thanks, as always.
+B_ItemRes.0158	I'll put it to use...
+B_ItemRes.017A	Thank you...
+B_ItemRes.018C	For me? Thanks.
+B_ItemRes.01A4	Thanks, I'll take it.
+B_ItemRes.01BE	Sure, I'll take it.
+B_ItemRes.01D4	Thank you, I'll treasure it.
+B_ItemRes.01F0	Yeah, thanks.
+B_ItemRes.0202	Didn't you have anything a little better?
+B_ItemRes.0228	Thank you, I'll take good care of it.
+B_ItemRes.0244	Not bad at all. I'll take it.
+B_ItemRes.0266	Well, I'll take it.
+B_ItemRes.027E	...Well, it's free. I'll take it.
+B_ItemRes.02AE	Pretty nice. I'll take it.
+B_ItemRes.0318	Thank you. I shall treasure it.
+B_ItemRes.0336	Huh, for me? Thanks, I'll put it to good use.
+B_ItemRes.0364	I'll put it to use. Thanks.
+B_ItemRes.0382	What's this?
+B_ItemRes.038E	Huh, for me? Thanks.
+B_ItemRes.03AA	Thanks.
+B_ItemRes.03B6	What is THIS?!
+B_ItemRes.03C8	Thank you, I'll treasure it...
+B_ItemRes.03E6	Thank you, ＄＄＄＄＄＄.
+B_ItemRes.0402	Thank you.
+B_ItemRes.0410	That's sweet of you.
+B_ItemRes.0452	How lovely, thank you.
+B_ItemRes.046C	Angel, thank you very much.
+B_ItemRes.048C	Thank you very much, Angel.
+B_ItemRes.04AC	I'm sorry to trouble you, Angel.
+B_ItemRes.04E2	Thank you very much.
+B_ItemRes.04FA	I'm sorry...
+BMsgQ000.0190	Something else to talk about?
+BMsgQ000.01A4	Your health?
+BMsgQ000.01AE	Aren't you tired?
+BMsgQ000.01C4	Are you worried about me? But if this little walking tired me out, I couldn't keep traveling...{wait}{clear}Maybe someone who's never traveled can't understand that.
+BMsgQ000.025A	Walk together
+BMsgQ000.0266	May I walk with you?
+BMsgQ000.0284	Sure, I don't mind.{wait}{clear}Well? It's nice to walk on your own two feet once in a while, isn't it?
+BMsgQ000.02D0	Feel the wind
+BMsgQ000.02DC	It feels nice to walk with the wind blowing, doesn't it?
+BMsgQ000.030C	It does...{wait}{clear}Moments like this might be what lets me breathe easy on the road...
+BMsgQ000.0360	Rough roads
+BMsgQ000.036A	Depending on where you go, there may be a lot of rough roads, which could be hard. Will you be all right?
+BMsgQ000.03C2	I've been traveling all this time. That's nothing.{wait}{clear}If I only picked level roads, I'd never reach the places you ask me to go.{wait}{clear}Besides, rough roads are good training.
+BMsgQ000.048E	New places
+BMsgQ000.049C	Don't you ever get lost when you go somewhere new?
+BMsgQ000.04DC	Hahaha! Do I look that unreliable? A Warlock who said that would never get any work done.
+BMsgQ000.0548	Blue sky
+BMsgQ000.0550	The sky is so beautiful when you look up at it from the ground. It feels completely different from what we see from above.{wait}{clear}We only ever look down from above, so it's hard for us to notice things like this.
+BMsgQ000.0624	I see... So that's how you see this world.{wait}{clear}I thought angels were beings high above, beyond our understanding, but that's not so, is it?
+BMsgQ000.06D2	Lovely views
+BMsgQ000.06DE	Arcaya has so many wonderful views, doesn't it?
+BMsgQ000.0716	Yeah, I think so too... But my favorite might be dusk on Bremes Isle...
+BMsgQ000.076E	Fairies useful?
+BMsgQ000.0780	Are the fairies a help to you?
+BMsgQ000.07A4	Yes, they do good work. When they work that hard, it makes me feel I have to pull my own weight.
+BMsgQ000.080E	On the road
+BMsgQ000.081E	Don't you find yourself thinking and feeling all kinds of things when you travel?
+BMsgQ000.0860	Yes, I suppose so... I think about a lot of things...{wait}{clear}When you're walking, you have plenty of time. Though sometimes it feels like no matter how much I think, I just go around in circles...
+BMsgQ000.0908	People met
+BMsgQ000.0916	It's fun meeting people on the road, isn't it?
+BMsgQ000.093C	It is. When you meet people and talk, you hear all sorts of news. And that leads to something...
+BMsgQ000.09A0	Sweet dreams
+BMsgQ000.09AE	I hope you have sweet dreams.
+BMsgQ000.09D0	Yeah... I hope so too...
+BMsgQ000.09EE	Good work
+BMsgQ000.09FA	Thank you for your hard work.
+BMsgQ000.0A10	Aren't you the one who's tired? I'm going to get some rest now. You should head back and rest soon too.
+BMsgQ000.0A74	Like sleeping?
+BMsgQ000.0A84	Do you like sleeping?
+BMsgQ000.0A9E	You ask strange things, for an angel... Well, fine...{wait}{clear}I don't like or dislike sleep. I just make sure to sleep properly to keep my body in shape.
+BMsgQ000.0B44	Events
+BMsgQ000.0B4C	I'm sure a lot has happened, but please get some good rest.
+BMsgQ000.0B90	Yeah... A lot has happened, all right... There was plenty before you appeared to me, but it's nothing compared to now.
+BMsgQ000.0BFE	Bedtime habit?
+BMsgQ000.0C10	Is there anything you do before bed, or any habit you have?
+BMsgQ000.0C5C	Let's see... I never skip caring for my sword. I need to be fully prepared for when it counts.
+BMsgQ000.0CCC	Strange places
+BMsgQ000.0CDE	Can you sleep well even in an unfamiliar place?
+BMsgQ000.0D16	If that bothered me, I couldn't keep traveling. Besides, it's been a long time since I had a bed of my own...
+BMsgQ000.0D88	Can't sleep?
+BMsgQ000.0D98	What do you do when you can't sleep?
+BMsgQ000.0DBC	Let's see... I read a book, or go outside and relax...{wait}{clear}I could just keep traveling, but it'd be trouble to be off my game when it counts, so I try to take it easy and not push myself.
+BMsgQ000.0E70	Your home
+BMsgQ000.0E7C	Traveling the world like this, don't you ever think about your home?
+BMsgQ000.0ECC	Yeah... But I don't remember much about my hometown...{wait}{clear}I traveled all through my childhood, and after that I lived on Bremes Isle.
+BMsgQ000.0F66	Stay with you
+BMsgQ000.0F74	Would you mind if I stayed with you a while?
+BMsgQ000.0F9E	I don't mind, but shouldn't you get some rest soon?
+BMsgQ000.0FE0	On waking
+BMsgQ000.0FF0	Is there anything you always do when you wake up?
+BMsgQ000.101E	Let's see, I always make a point of checking my belongings.{wait}{clear}Naturally when I sleep outdoors, but even at an inn I can't let my guard down completely.
+BMsgQ000.10A2	Keep going?
+BMsgQ000.10B0	Are you going to keep going?
+BMsgQ000.10C8	Yeah, I've only just started.{wait}{clear}Even if I can use magic, a Warlock who lets his body go soft is no Warlock at all.
+BMsgQ000.1140	Thank you
+BMsgQ000.1152	Thank you for everything.
+BMsgQ000.1172	What's this? I don't think I've done anything to be thanked for...{wait}{clear}It's not as if I'm fighting just for you...
+BMsgQ000.11E0	Hard training?
+BMsgQ000.11F0	I imagine training can be hard at times...
+BMsgQ000.121E	Some training is hard and grueling, sure, but if all you do is complain, you won't learn a thing, will you?{wait}{clear}Well, I know you're saying it because you're worried about me.
+BMsgQ000.12D8	No rest?
+BMsgQ000.12EA	You've been training nonstop. Are you sure you don't need a rest?
+BMsgQ000.1332	Yeah, I'm just getting into the swing of it. It'd be a waste to stop now.{wait}{clear}I'll rest when I'm tired, so don't worry about it.
+BMsgQ000.139A	So dedicated
+BMsgQ000.13A6	You seem to be training very hard.
+BMsgQ000.13D0	Dedicated, huh... I suppose... When I train, I don't have to think about anything else.{wait}{clear}It's the only time I can focus on just one thing.
+BMsgQ000.144C	Your stamina?
+BMsgQ000.145C	Are you confident in your stamina?
+BMsgQ000.1478	Hahaha...! You angels sure worry about everything.{wait}{clear}I wouldn't be doing this if I weren't confident in my stamina.
+BMsgQ000.14E8	Don't get hurt
+BMsgQ000.14F8	Please be careful not to get hurt.
+BMsgQ000.151A	Yeah, I know... Getting hurt in training would be pointless, right?
+BMsgQ000.155A	What to watch
+BMsgQ000.156A	Is there anything you pay attention to when you train?
+BMsgQ000.15A2	First and foremost, focus. Without focus, I think nothing you do will work.{wait}{clear}And the mental strength to sharpen that focus. For magic, that's a very important strength too.
+BMsgQ000.165C	How's it going?
+BMsgQ000.1666	How is your training going?
+BMsgQ000.1684	Same as always. I'm going at my own pace.
+BMsgQ000.16C4	Results
+BMsgQ000.16D0	It feels good when your training pays off and you see results, doesn't it?
+BMsgQ000.170A	Yeah, it does...{wait}{clear}Still, I never expected to hear that from an angel.{wait}{clear}Have you ever done anything like training yourself?
+BMsgQ000.1794	Am I a bother?
+BMsgQ000.17A6	I came without warning... Am I bothering you?
+BMsgQ000.17D4	No, I'm taking a break, so you're no bother.{wait}{clear}Could you not worry so much?
+BMsgQ000.182A	Favorite thing?
+BMsgQ000.183A	Is there anything you like to do?
+BMsgQ000.185C	An abrupt question, just like you.{wait}{clear}I've never really thought about it, but I like reading. I want to keep pursuing knowledge all my life.
+BMsgQ000.18E0	Change of pace
+BMsgQ000.18EA	Doing something different from usual makes for a nice change of pace, doesn't it?

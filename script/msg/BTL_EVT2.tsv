@@ -817,9 +817,9 @@ BTL_EVT2.6383S	ルディ		speaker
 BTL_EVT2.638A	なにやってんだ！？{n}ばかなことはやめろ！		
 BTL_EVT2.63B6S	ルディ		speaker
 BTL_EVT2.63BD	最低な連中だな……。		
-BTL_EVT2.63D5S	ウォーロック		speaker
+BTL_EVT2.63D5S	ウォーロック	Warlock	speaker
 BTL_EVT2.63E2	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT2.6410S	ウォーロック		speaker
+BTL_EVT2.6410S	ウォーロック	Warlock	speaker
 BTL_EVT2.641D	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT2.646FS	ウジャト		speaker
 BTL_EVT2.6478	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

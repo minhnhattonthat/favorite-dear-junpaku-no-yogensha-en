@@ -809,9 +809,9 @@ BTL_EVT3.61E3S	ロクス	Rocus	speaker
 BTL_EVT3.61EA	くだらん儀式など、やめろ！		
 BTL_EVT3.6208S	ロクス	Rocus	speaker
 BTL_EVT3.620F	最悪だ……。		
-BTL_EVT3.621FS	ウォーロック		speaker
+BTL_EVT3.621FS	ウォーロック	Warlock	speaker
 BTL_EVT3.622C	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT3.625AS	ウォーロック		speaker
+BTL_EVT3.625AS	ウォーロック	Warlock	speaker
 BTL_EVT3.6267	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT3.62B9S	ウジャト		speaker
 BTL_EVT3.62C2	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

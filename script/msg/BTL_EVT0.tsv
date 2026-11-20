@@ -787,9 +787,9 @@ BTL_EVT0.5B8AS	王の女		speaker
 BTL_EVT0.5B91	わたくしの働きをご覧いただけました。{wait}{clear}王、レイブンルフト様。		
 BTL_EVT0.5BD3S	王の女		speaker
 BTL_EVT0.5BDA	逃げましたわよ……。{n}ホホホホ……		
-BTL_EVT0.5C24S	ウォーロック		speaker
+BTL_EVT0.5C24S	ウォーロック	Warlock	speaker
 BTL_EVT0.5C31	…………。	.....	
-BTL_EVT0.5C3FS	ウォーロック		speaker
+BTL_EVT0.5C3FS	ウォーロック	Warlock	speaker
 BTL_EVT0.5C4C	…………。	.....	
 BTL_EVT0.5CA2S	ノスフェラトゥ		speaker
 BTL_EVT0.5CB1	人間ごときに、我らの邪魔などさせるか！		
@@ -835,9 +835,9 @@ BTL_EVT0.604CS	フェイン	Fein	speaker
 BTL_EVT0.6055	くだらん儀式はやめろ！		
 BTL_EVT0.606FS	フェイン	Fein	speaker
 BTL_EVT0.6078	ウォーロックとして、腹立たしいな……{n}こんな事件は……。		
-BTL_EVT0.60B4S	ウォーロック		speaker
+BTL_EVT0.60B4S	ウォーロック	Warlock	speaker
 BTL_EVT0.60C1	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT0.60EFS	ウォーロック		speaker
+BTL_EVT0.60EFS	ウォーロック	Warlock	speaker
 BTL_EVT0.60FC	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT0.614ES	ウジャト		speaker
 BTL_EVT0.6157	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

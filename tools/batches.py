@@ -222,21 +222,31 @@ def merge():
         for p, r, _ in members:
             rep[(p, r["id"])] = members[0][1]["id"]
     n = 0
+    long_code = []
     for p in files():
         rows = extract.read_tsv(p)
         changed = False
+        code = p.parent.name == "ovl" or p.name == "exe.tsv"
         for r in rows:
             k = rep.get((p, r["id"]))
             if k not in trans:
                 continue
             spec = wrap_spec(p, r)
             en = wrap(trans[k], spec) if spec else trans[k]
+            # EXE/overlay strings are replaced in place until phase 7 relocates them: a copy from a
+            # dialogue row that is longer than the JP bytes would break the build, so leave it for phase 7.
+            if code and k != r["id"] and \
+                    len(extract.jtext.encode(font_en.to_pairs(en))) > len(extract.jtext.encode(r["jp"])):
+                long_code.append(f"{r['id']} {r['jp']} -> {en}")
+                continue
             if r["en"] != en:
                 r["en"] = en
                 changed = True
                 n += 1
         if changed:
             extract.write_tsv(p, rows)
+    if long_code:
+        print(f"{len(long_code)} EXE/overlay copies left for phase 7 (longer than the JP):", *long_code, sep="\n  ")
     print(f"merged {len(trans)} translations, {n} rows changed; failed batches: {bad or 'none'}")
     return 1 if bad else 0
 

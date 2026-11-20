@@ -14,7 +14,7 @@ rfd2.8009B9EC	国　境		ptrx1
 rfd2.8009B9F4	混乱度		ptrx1
 rfd2.8009B9FC	辺境		ptrx1
 rfd2.8009BA04	　　　　王国		ptrx1
-rfd2.8009BA14	レグランス		ptrx1
+rfd2.8009BA14	レグランス	Legrance	ptrx1
 rfd2.8009BA20	未開地		ptrx1
 rfd2.8009BA28	六王国連合		ptrx1
 rfd2.8009BA34	　　　　教国		ptrx1
@@ -65,7 +65,7 @@ rfd2.8009BDB8	ＩＴＥＭ		ptrx1
 rfd2.8009BDC4	任　務		ptrx1
 rfd2.8009BDCC	会　話		ptrx1
 rfd2.8009BE24	まだ話があるのか？		luix1
-rfd2.8009BE38	まだ、あるのか……。		luix1
+rfd2.8009BE38	まだ、あるのか……。	More...?	luix1
 rfd2.8009BE50	まだなにか話したいことでもあるのか？		luix1
 rfd2.8009BE78	まだなにかあるのか？		luix1
 rfd2.8009BE90	まだなにかあるの？		luix1

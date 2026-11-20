@@ -805,9 +805,9 @@ BTL_EVT6.60FBS	セシア	Cecia	speaker
 BTL_EVT6.6102	なにをしてるんですか{n}やめなさい！		
 BTL_EVT6.6128S	セシア	Cecia	speaker
 BTL_EVT6.612F	なんだか……気味が悪い……。		
-BTL_EVT6.614FS	ウォーロック		speaker
+BTL_EVT6.614FS	ウォーロック	Warlock	speaker
 BTL_EVT6.615C	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT6.618AS	ウォーロック		speaker
+BTL_EVT6.618AS	ウォーロック	Warlock	speaker
 BTL_EVT6.6197	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT6.61E9S	ウジャト		speaker
 BTL_EVT6.61F2	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

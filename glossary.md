@@ -111,6 +111,8 @@ from the Avoid column. Series conventions come from the first game (`../favorite
 | レフカス | Lefkas | | where the Demon Stone was kept before Alkmaar | |
 | バレーゼ | Valese | | country; its church in Ilyus shelters the clergy after the Holy City falls | |
 | イリュウス | Ilyus | | town in Valese | |
+| ブレメース | Bremes | | ブレメース島 "Bremes Isle", where Fein lived after his childhood travels (BMsgQ000) | |
+| ファンラン | Fanlan | | Rudiere's home in Legrance (BMsgQ002) | |
 | アザリア | Azaria | | 聖アザリア宮 the Palace of St. Azaria (Raphael's seat) | |
 
 ## Items / skills / terms
@@ -155,4 +157,7 @@ from the Avoid column. Series conventions come from the first game (`../favorite
   大司教 "archbishop", 枢機卿 "cardinal", 宝玉 "the sacred jewel" (= the Church's Demon Stone), 秘宝 "the treasure",
   癒しの手 "healing hands" (the mark of the Pope); 蛇君/毒蛇君 "Mr. Snake"/"Mr. Viper". Name tags: ロクスの知人
   "Rocus's Pal", 男の声 "Man's Voice". Debug labels ０１＿００ (visit_01) -> "01-00" (no _ in the font).
+- Hero chat files BMsgQnnn (b039-): topic / question / reply triples; topic labels are short menu entries (keep
+  them to ~14 letters), the angel's question is polite, the reply in the hero's voice. BMsgQ000 Fein, 001 Clive
+  (cold, おまえ "you"), 002 Rudiere (casual, おれ). B_ItemRes: heroes' replies when given an item (no speaker).
 - Scene labels like フェイン・０９節 / フェイン・スカウト二回目 (name kind, 12 letters): "Fein Part 9", "Fein Scout 2".

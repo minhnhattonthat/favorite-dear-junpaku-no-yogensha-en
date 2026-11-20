@@ -809,9 +809,9 @@ BTL_EVT5.5E57S	レイラ	Leyla	speaker
 BTL_EVT5.5E5E	なにをしようというの？　やめなさい！		
 BTL_EVT5.5E86S	レイラ	Leyla	speaker
 BTL_EVT5.5E8D	嫌な感じね……なんだか……。		
-BTL_EVT5.5EADS	ウォーロック		speaker
+BTL_EVT5.5EADS	ウォーロック	Warlock	speaker
 BTL_EVT5.5EBA	我らの儀式の意味……わかるはずはない……。		
-BTL_EVT5.5EE8S	ウォーロック		speaker
+BTL_EVT5.5EE8S	ウォーロック	Warlock	speaker
 BTL_EVT5.5EF5	我らの儀式の意味……わかるはずはない……。		
 BTL_EVT5.5F47S	ウジャト		speaker
 BTL_EVT5.5F50	来たわね、天使の勇者。{n}あなたがどのくらい強いのか、見せてもらうわ！		

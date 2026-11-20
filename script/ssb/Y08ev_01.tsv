@@ -1,39 +1,39 @@
 id	jp	en	notes
 Y08ev_01.001A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.002A	レーパスが、{n}見せたいものがあると言っていたのは、{n}このあたりだと思うんですが……。{wait}{clear}		
+Y08ev_01.002A	レーパスが、{n}見せたいものがあると言っていたのは、{n}このあたりだと思うんですが……。{wait}{clear}	Lepus said there was something he wanted to{n}show me, somewhere around here, I think...{wait}{clear}	
 Y08ev_01.0086	レーパス	Lepus	speaker
-Y08ev_01.0092	あっ！　天使様！{wait}{clear}		
+Y08ev_01.0092	あっ！　天使様！{wait}{clear}	Ah! Angel!{wait}{clear}	
 Y08ev_01.00A6	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.00B6	ああ、レーパス、{n}よかった、いたんですね。{n}見せたいものとはいったいなんですか？{wait}{clear}		
+Y08ev_01.00B6	ああ、レーパス、{n}よかった、いたんですね。{n}見せたいものとはいったいなんですか？{wait}{clear}	Ah, Lepus, good, there you are. What is it{n}you wanted to show me?{wait}{clear}	
 Y08ev_01.010E	レーパス	Lepus	speaker
-Y08ev_01.011A	しっ！　天使様、静かに！{n}もう少し待っててください。{wait}{clear}		
+Y08ev_01.011A	しっ！　天使様、静かに！{n}もう少し待っててください。{wait}{clear}	Shh! Angel, please be quiet! Wait just a{n}little longer.{wait}{clear}	
 Y08ev_01.0152	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y08ev_01.0162	は、はい……。{wait}{clear}	Y-yes...{wait}{clear}	
 Y08ev_01.019C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.01AC	うわぁ、これは、すごいですね。{wait}{clear}		
+Y08ev_01.01AC	うわぁ、これは、すごいですね。{wait}{clear}	Wow, this is amazing.{wait}{clear}	
 Y08ev_01.01D2	レーパス	Lepus	speaker
-Y08ev_01.01DE	これが、天使様に見せたかったものです。{n}いかがですか？{wait}{clear}		
+Y08ev_01.01DE	これが、天使様に見せたかったものです。{n}いかがですか？{wait}{clear}	This is what I wanted to show you, Angel.{n}What do you think?{wait}{clear}	
 Y08ev_01.0218	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.0228	ええ、とっても美しくて、素晴らしいです。{n}ありがとうございます、レーパス。{wait}{clear}		
+Y08ev_01.0228	ええ、とっても美しくて、素晴らしいです。{n}ありがとうございます、レーパス。{wait}{clear}	Yes, it's truly beautiful. Wonderful. Thank{n}you, Lepus.{wait}{clear}	
 Y08ev_01.027A	レーパス	Lepus	speaker
-Y08ev_01.0286	そんな、お礼なんて、とんでもないです。{n}天使様にも{n}時には息つぎが必要かなと思ったものですから。{wait}{clear}		
+Y08ev_01.0286	そんな、お礼なんて、とんでもないです。{n}天使様にも{n}時には息つぎが必要かなと思ったものですから。{wait}{clear}	Oh, no, there's no need to thank me. I just{n}thought that even you need a breather now{n}and then, Angel.{wait}{clear}	
 Y08ev_01.02EA	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Y08ev_01.02FA	そうですか……。{wait}{clear}	I see...{wait}{clear}	
 Y08ev_01.0312	レーパス	Lepus	speaker
-Y08ev_01.031E	なにも、そんなお顔をされなくても{n}いいじゃないですか。{n}ほら、天使様の肩でも蛍が光ってますよ。{wait}{clear}		
+Y08ev_01.031E	なにも、そんなお顔をされなくても{n}いいじゃないですか。{n}ほら、天使様の肩でも蛍が光ってますよ。{wait}{clear}	There's no need to make such a face. Look,{n}there's a firefly glowing on your shoulder,{n}Angel.{wait}{clear}	
 Y08ev_01.0380	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.0390	あ……。{wait}{clear}		
+Y08ev_01.0390	あ……。{wait}{clear}	Oh...{wait}{clear}	
 Y08ev_01.03A0	レーパス	Lepus	speaker
-Y08ev_01.03AC	ふふふ……。{n}今夜はゆっくりしましょう。天使様。{wait}{clear}		
+Y08ev_01.03AC	ふふふ……。{n}今夜はゆっくりしましょう。天使様。{wait}{clear}	Hehehe... Let us relax tonight, Angel.{wait}{clear}	
 Y08ev_01.03E0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.03F0	ええ、そうですね……そうしましょう。{wait}{clear}		
+Y08ev_01.03F0	ええ、そうですね……そうしましょう。{wait}{clear}	Yes, you're right... Let's do that.{wait}{clear}	
 Y08ev_01.0438	レーパス	Lepus	speaker
-Y08ev_01.0444	天使様、リフレッシュされましたか？{wait}{clear}		
+Y08ev_01.0444	天使様、リフレッシュされましたか？{wait}{clear}	Angel, do you feel refreshed?{wait}{clear}	
 Y08ev_01.046A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.047A	ええ、ありがとうございます。{n}でも、あなたはいいのですか？{n}私の心配よりも、自分のことを考えないと……。{wait}{clear}		
+Y08ev_01.047A	ええ、ありがとうございます。{n}でも、あなたはいいのですか？{n}私の心配よりも、自分のことを考えないと……。{wait}{clear}	Yes, thank you. But what about you? Instead{n}of worrying about me, you should think about{n}yourself...{wait}{clear}	
 Y08ev_01.04EA	レーパス	Lepus	speaker
-Y08ev_01.04F6	いえ、私は大丈夫です。{n}天使様と一緒にリフレッシュしましたから。{wait}{clear}		
+Y08ev_01.04F6	いえ、私は大丈夫です。{n}天使様と一緒にリフレッシュしましたから。{wait}{clear}	No, I am fine. I was refreshed right{n}alongside you, Angel.{wait}{clear}	
 Y08ev_01.053A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-Y08ev_01.054A	そうですか？　なら、いいんですけど。{wait}{clear}		
+Y08ev_01.054A	そうですか？　なら、いいんですけど。{wait}{clear}	Really? Well, if you say so.{wait}{clear}	
 Y08ev_01.0576	レーパス	Lepus	speaker
-Y08ev_01.0582	ふふふ。{n}さ、私もまたがんばりますね！{wait}{clear}		
+Y08ev_01.0582	ふふふ。{n}さ、私もまたがんばりますね！{wait}{clear}	Hehehe. Now, I shall do my best once again!{wait}{clear}	
