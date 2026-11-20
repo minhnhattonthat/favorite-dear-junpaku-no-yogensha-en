@@ -5,8 +5,10 @@
 Reads every log.txt under the given folders, written by warp runs with tools/debug/textcover.lua on the ORIGINAL
 disc. Each "TREAD addr" is mapped to the file most recently loaded over that address ("FILE ... name dst=..."),
 then to the row whose bytes contain that offset (row id = file stem + offset; ovl ids = vaddr, file loaded at
-0x8009B4B0). Prints coverage per script folder, writes the rows never reached (and not waived) to --missing,
-and exits 1 while any is left. Waive file: id<TAB>reason (a row id, or a prefix ending in '*', e.g. "visit_01.*").
+0x8009B4B0). Reads must match the original byte (logged by textcover.lua) on 4 distinct offsets of a row
+(`reached`). Rows are keyed folder/id ("ssb/visit_01.0012": ids repeat across ssb/ and evx/). Prints coverage per
+script folder, writes the keys never reached (and not waived) to --missing, and exits 1 while any is left.
+Waive file: key<TAB>reason (a key, or a prefix ending in '*', e.g. "msg/FryMsg0.*").
 """
 import argparse
 import bisect
@@ -30,11 +32,17 @@ def jp_len(jp):
     return max(n, 1)
 
 
+EXT = {"ssb": "ssb", "evx": "evx", "msg": "msg", "end": "end", "ovl": "bin", "misc": "dat"}
+
+
 def load_rows():
-    """{file stem lower: (starts, [(start, end, id)])}, folder of each id."""
+    """{file name lower (stem.ext): (starts, [(start, end, key)])}, folder of each key. A key is folder/id
+    ("evx/ceev03.0012"): the same id can exist in ssb/ and evx/ (ceev03.ssb, ceev03.EVX)."""
     files, folder = {}, {}
     for tsv in sorted((ROOT / "script").rglob("*.tsv")):
         kind = tsv.parent.name if tsv.parent.name != "script" else tsv.stem
+        if kind == "exe":
+            continue  # EXE strings: not watched (yet); waive or watch per string
         with open(tsv, encoding="utf-8", newline="") as f:
             for row in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE):
                 rid = row["id"]
@@ -42,10 +50,9 @@ def load_rows():
                 start = int(re.match(r"[0-9A-Fa-f]+", off).group(0), 16)  # ids may carry a suffix (01E0S)
                 if kind == "ovl":
                     start -= OVL_BASE
-                if kind == "exe":
-                    continue  # EXE strings: not watched (yet); waive or watch per string
-                files.setdefault(stem.lower(), []).append((start, start + jp_len(row["jp"]), rid))
-                folder[rid] = kind
+                key = f"{kind}/{rid}"
+                files.setdefault(f"{stem}.{EXT[kind]}".lower(), []).append((start, start + jp_len(row["jp"]), key))
+                folder[key] = kind
     out = {}
     for stem, rows in files.items():
         rows.sort()
@@ -53,30 +60,63 @@ def load_rows():
     return out, folder
 
 
+_ORIG = {}
+NEED = 4
+
+
+def orig_bytes(stem):
+    """The original file's bytes (work/lkf/SSB_DATA/NNNN_name.ext, work/orig_ovl/name.bin), None if not found."""
+    if not _ORIG:
+        for p in (ROOT / "work/lkf/SSB_DATA").glob("*"):
+            _ORIG.setdefault(p.name.split("_", 1)[-1].lower(), p)
+        for p in (ROOT / "work/orig_ovl").glob("*.bin"):
+            _ORIG.setdefault(p.name.lower(), p)
+    if isinstance(_ORIG.get(stem), pathlib.Path):
+        _ORIG[stem] = _ORIG[stem].read_bytes()
+    return _ORIG.get(stem)
+
+
 def reached(logs, files):
+    """Row keys read in any log. A read counts only if the logged byte equals the original file's byte there (logs
+    with values), and a row needs NEED distinct such offsets (fewer if it is that short): a buffer reused for other
+    data, whose bytes match the text's here and there by chance, does not count."""
     hit = set()
-    tread = re.compile(r"TREAD ([0-9A-F]+)")
-    fline = re.compile(r"FILE f\d+ (\S+) dst=([0-9A-F]+)")
+    tread = re.compile(r"TREAD ([0-9A-F]+)(?: ([0-9A-F]{2}))?")
+    fline = re.compile(r"FILE f\d+ (\S+) dst=([0-9A-F]+)(?: size=([0-9A-F]+))?")
     for log in logs:
-        bufs = []  # (dst, stem) newest last
+        count = {}
+        bufs = []  # (dst, size or None, stem) newest last
         for line in open(log, encoding="utf-8", errors="replace"):
             m = fline.search(line)
             if m:
-                stem = m.group(1).rsplit(".", 1)[0].lower()
-                bufs.append((int(m.group(2), 16) & 0xFFFFFFFF, stem))
+                stem = m.group(1).lower()
+                size = int(m.group(3), 16) if m.group(3) else None
+                bufs.append((int(m.group(2), 16) & 0xFFFFFFFF, size, stem))
                 continue
             m = tread.search(line)
             if not m:
                 continue
             addr = int(m.group(1), 16) & 0xFFFFFFFF   # early logs sign-extended (LuaJIT): FFFFFFFF800D77B8
-            for dst, stem in reversed(bufs):
-                if stem not in files or addr < dst:
+            for dst, size, stem in reversed(bufs):
+                if addr < dst:
+                    continue
+                if stem not in files:
+                    if size is not None and addr < dst + size:
+                        break  # a newer non-text file (an image) sits over this address
                     continue
                 starts, rows = files[stem]
                 off = addr - dst
+                if m.group(2) is not None:
+                    data = orig_bytes(stem)
+                    if data is not None and off < len(data) and data[off] != int(m.group(2), 16):
+                        break  # the buffer holds something else now
                 i = bisect.bisect_right(starts, off) - 1
                 if i >= 0 and rows[i][0] <= off < rows[i][1]:
-                    hit.add(rows[i][2])
+                    rid = rows[i][2]
+                    offs = count.setdefault(rid, set())
+                    offs.add(off)
+                    if len(offs) >= min(NEED, rows[i][1] - rows[i][0]) or m.group(2) is None:
+                        hit.add(rid)
                     break
                 if off < rows[-1][1]:
                     break  # inside this file but between rows (script ops): not text
