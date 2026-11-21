@@ -4,7 +4,7 @@ Raph_end.0058	おう、＄＄＄＄＄＄。{n}もう、戻ってこないのか
 Raph_end.0098	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.00A8	え！？{n}そんな、あの……ミカエル様……。{wait}{clear}	Huh?! Oh no, um... Michael-sama...{wait}{clear}	
 Raph_end.00D4	ミカエル	Michael	speaker
-Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}	Hahaha! Just a joke. No need to look so{n}worried, is there?{wait}{clear}But, ＄＄＄＄＄＄... You did hard work in{n}Arcaya.{wait}{clear}Against Beelzebub and Satan's{n}dragon, no less... You truly{n}did well. Let me thank you too.{wait}{clear}	
+Raph_end.00E0	ははは！　冗談だ。{n}なにもそんな不安そうな顔をしなくてもいいだろう？{wait}{clear}しかし、＄＄＄＄＄＄……{n}アルカヤではご苦労だったな。{wait}{clear}あのベルゼバブとサタンの竜相手に{n}本当によくやってくれた……。{n}俺からも礼を言わせてくれ。{wait}{clear}	Hahaha! Just a joke. No need to look so{n}worried, is there?{wait}{clear}But, ＄＄＄＄＄＄... You went through a{n}great deal in Arcaya.{wait}{clear}Against Beelzebub and Satan's{n}dragon, no less... You truly{n}did well. Let me thank you too.{wait}{clear}	
 Raph_end.01C0	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.01D0	お礼を言われるなんて……とんでもありません。{n}私は、私のできることをしただけですし、{n}アルカヤを救ったのはなによりも勇者たちの力です。{wait}{clear}	Thanking me... Oh, not at all. I only did{n}what I could, and above all, it was the{n}heroes' strength that saved Arcaya.{wait}{clear}	
 Raph_end.025A	ミカエル	Michael	speaker
@@ -102,7 +102,7 @@ Raph_end.16BA	お別れですね、我が愛しい弟よ。{wait}{clear}	So this
 Raph_end.16E0	ラファエル	Raphael	speaker
 Raph_end.16F2	お別れですね、我が愛しい妹よ。{wait}{clear}	So this is farewell, my beloved sister.{wait}{clear}	
 Raph_end.1718	ラファエル	Raphael	speaker
-Raph_end.172A	慈しみは永久に……。{wait}{clear}	May grace be with you forever...{wait}{clear}	
+Raph_end.172A	慈しみは永久に……。{wait}{clear}	May tenderness be with you forever...{wait}{clear}	
 Raph_end.1818	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 Raph_end.1828	いえ……なんでもありません……。{wait}{clear}	No... it's nothing...{wait}{clear}	
 Raph_end.184C	ラファエル	Raphael	speaker
@@ -158,4 +158,4 @@ Raph_end.2276	はい……。{wait}{clear}	Yes...{wait}{clear}
 Raph_end.2284	ラファエル	Raphael	speaker
 Raph_end.2292	これからも、あなたの純白の翼とともに、{n}人と世界を見守ってゆきましょう……。{wait}{clear}	From now on as well, let us watch over{n}people and their worlds, together with your{n}pure white wings...{wait}{clear}	
 Raph_end.22E2	ラファエル	Raphael	speaker
-Raph_end.22F4	慈しみは永久に……。{wait}{clear}	May grace be with you forever...{wait}{clear}	
+Raph_end.22F4	慈しみは永久に……。{wait}{clear}	May tenderness be with you forever...{wait}{clear}	

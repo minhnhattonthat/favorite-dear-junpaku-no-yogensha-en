@@ -30,3 +30,8 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [ ] gfx/banners.tsv G3 tags "Paralyze"/"Confuse" (the JP words; the status screen says Paralysis/Confusion) in the narrow tag font: 36 px sprites. Waive or widen the sprites.
 - [ ] gfx/roll.tsv G15 staff-roll readings not confirmed by a source (Hepburn guesses, no macrons as in game 1; names shared with game 1's staff roll copied from it: Tsunoda, Atarashi, Karibe, Kozama, Miyagawa, Arata Yasuda...): 服部かりか Karika Hattori, 田中大文 Hirofumi Tanaka, 堀之紀 Yukitoshi Hori, 森麻衣子 Maiko Mori, 難波司 Tsukasa Nanba, 傘木康史 Yasushi Kasagi, 遠山博一 Hirokazu Toyama, 中村静男 Shizuo Nakamura, 森知晴 Tomoharu Mori, 山中瑠奈 Runa Yamanaka, 樋野清史 Kiyoshi Hino, 伊藤英剛 Hidetaka Ito, 永吉幸樹 Koki Nagayoshi, いーのあゆみ Ayumi Ino, 林克洋 Katsuhiro Hayashi, 草嶋一 Hajime Kusajima, 柱将夫 Masao Hashira, 鶴山尚文 Naofumi Tsuruyama, 露木輝 Hikaru Tsuyuki, 中村光毅 Mitsuki Nakamura, 宮崎暁 Akira Miyazaki, 上久保悠里 Yuri Kamikubo. Check against a staff database or waive.
 - [ ] ENDING.STR opening caption: where the feather crosses the sharp letters (frames ~80-104) it is erased with them (inpainted streak), and the caption's last blur-out frames 112-118 lose the English smear (the blurred Japanese is erased, nothing drawn). Same class as the DEMO feather minor.
+
+## Phase 9 story pass (2026-11-21; reports in work/qa/story/reports/)
+- [x] tenkai.062E - ええ answering "Michael-sama?" was the family's "Of course." (fixed: "Yes.", trans/overrides.tsv)
+- [x] Raph_end.00E0 - ご苦労だったな "You did hard work in Arcaya" (fixed: "You went through a great deal in Arcaya.")
+- [x] ceed1.01C6 - ここでのみ生きることはできない read as "no one could live in it alone" (fixed: "they could not go on living within it alone")

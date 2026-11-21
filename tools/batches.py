@@ -22,6 +22,7 @@ import font_en  # noqa: E402
 SCRIPT = ROOT / "script"
 BATCHES = ROOT / "trans" / "batches"
 OUT = ROOT / "trans" / "en"
+OVERRIDES = ROOT / "trans" / "overrides.tsv"
 GLOSSARY = ROOT / "glossary.md"
 BUDGET = 3500          # JP characters per batch (one Read)
 ORDER = ["ssb", "msg", "evx", "end", "misc", "ovl", "exe.tsv"]
@@ -319,6 +320,19 @@ def wrap(en, spec):
     return PAGE.join(out)
 
 
+def overrides():
+    """trans/overrides.tsv: file<TAB>id<TAB>en<TAB>why. One family member whose context needs other English than the
+    family's (merge copies the first member's English to every row with the same JP): {(file, id): en}. The file is
+    relative to script/ (`ssb/tenkai.tsv`); `en` is flowing text like a batch output, wrapped by merge."""
+    out = {}
+    if OVERRIDES.is_file():
+        for r in read_tsv(OVERRIDES):
+            assert len(r) == 4 and r[3].strip(), f"overrides.tsv: need file, id, en, why: {r}"
+            assert (SCRIPT / r[0]).is_file(), f"overrides.tsv: no script/{r[0]}"
+            out[(r[0], r[1])] = r[2]
+    return out
+
+
 def merge():
     bad = []
     trans = {}
@@ -343,6 +357,7 @@ def merge():
         for p, r, _ in members:
             assert (p, r["id"]) not in rep, f"{p.name}: id {r['id']} twice in one file"
             rep[(p, r["id"])] = key
+    over = overrides()
     n = 0
     long_code = []
     code_src = {s.tsv: s for s in extract.sources() if hasattr(s, "code_name")}
@@ -356,7 +371,11 @@ def merge():
             if k not in trans:
                 continue
             spec = wrap_spec(p, r)
-            en = wrap(trans[k], spec) if spec else trans[k]
+            text = over.pop((p.relative_to(SCRIPT).as_posix(), r["id"]), trans[k])
+            if codes(text) != codes(trans[k]):
+                bad.append(f"override {r['id']}: codes {codes(text)} differ from the batch's {codes(trans[k])}")
+                continue
+            en = wrap(text, spec) if spec else text
             # EXE/overlay strings longer than their slot are relocated by the build (codetext.fit); one that
             # cannot move (a fixed table slot, no reference to re-point) keeps the JP here and its English stays
             # in trans/en: shorten it or give the table more room.
@@ -381,6 +400,9 @@ def merge():
                 n += 1
         if changed:
             extract.write_tsv(p, rows)
+    if over:
+        print(f"{len(over)} overrides match no translated row:", *over, sep="\n  ")
+        bad.append("overrides")
     if long_code:
         print(f"{len(long_code)} EXE/overlay rows held back (too long for their slot and cannot move):", *long_code,
               sep="\n  ")

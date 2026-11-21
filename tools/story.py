@@ -63,8 +63,9 @@ def assign():
     return chap
 
 
-def flow(s):
-    return s.replace("{wait}{clear}", " / ").replace("{n}", " " if s.isascii() else "").strip(" /")
+def flow(s, sep):
+    """sep: what a soft break becomes ("" in Japanese, " " in English)."""
+    return s.replace("{wait}{clear}", " / ").replace("{n}", sep).strip(" /")
 
 
 def rows(p):
@@ -77,7 +78,7 @@ def rows(p):
             continue
         if notes.startswith(UNSHOWN) or not jp:
             continue
-        yield rid, speaker, notes or "-", flow(jp), flow(en)
+        yield rid, speaker, notes or "-", flow(jp, ""), flow(en, " ")
 
 
 def main(argv):
