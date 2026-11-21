@@ -2,10 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (29th worker: forcing tools built and piloted (msgforce MSG/EVX/overlay through
-  the MSG box, ssbforce VM jumps, unshown.py waivers); bulk runs stopped by Claude Code for low system memory,
-  resume commands in the 29th worker entry. NEXT, in order: (d) resume the forced runs + .end swap scenes,
-  `unshown.py`, `textcover.py` exit 0 (29th worker entry); (e) final re-tour on the
+- **Phase:** 8. QA in the emulator (30th worker: MSG forcing COMPLETE (15130/15130 with waivers); ssbforce and the
+  scene runs stopped again by Claude Code for low system memory, resume commands in the 30th worker entry. NEXT, in
+  order: (d) resume ssbforce + cover scenes (incl. .end swap scenes), then `msgforce.py --ovl`, `--evx`, ssbforce
+  second pass, `unshown.py`, `textcover.py` exit 0 (30th worker entry); (e) final re-tour on the
   final build + verdicts for changed sheets. 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
@@ -404,6 +404,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
   the 20 end_* scenes with textcover.lua, `msgforce.py --ovl`, `msgforce.py --evx` (with the ssbforce dirs as
   --have), an ssbforce second pass (new --out-dir, `--base 30000`) for events that go into a battle (ceev06), then
   `unshown.py` and `textcover.py` over every dir.
+- **Phase 8 progress (2026-11-21, 30th worker):** `msgforce.py --all` finished every bank (BMsgQ116 .. HVN_Msg00):
+  msg 15129/15130 reached, the last row (BTL_EVT1.0713S) is an empty speaker slot. `unshown.py` gained an "empty"
+  rule (rows with no Japanese: 7 EVX + that one; 1596 waivers). `tools/debug/cover_run.py --scenes LIST` runs
+  warp scenes with textcover.lua, resumable (skips folders whose log has "final frame" and " size=");
+  `work/qa/cover_scenes_todo2.txt` = the old todo + the 20 end_*ed* swap scenes. ssbforce did 22 events (to
+  clev18), the scene runner 13 scenes (to ev_cecia), then **Claude Code killed both for low system memory again**
+  (the first game's project had 5-6 PCSX up; ours were 2). Coverage now (`textcover.py work/qa/cover
+  work/qa/cover_scenes work/qa/ssbforce work/qa/msgforce work/qa/p8`): ssb 2698/9821, evx 544/5855, msg done,
+  end 7/198 (the swap scenes cover these), ovl 79/716, misc waived; 11702 not reached and not waived. **Resume**
+  (only when the other project is not running its emulators; max 2 of ours):
+  `python -X utf8 tools/ssbforce.py --have work/qa/cover --have work/qa/cover_scenes --have work/qa/ssbforce -j 1`
+  (245 events left, ~9 h) and `python -X utf8 tools/debug/cover_run.py --scenes work/qa/cover_scenes_todo2.txt -j 1
+  --chunk 2` (50 scenes left). Then `msgforce.py --ovl --have <all dirs> --out-dir work/qa/ovlforce`,
+  `msgforce.py --evx --all --have <all dirs> --out-dir work/qa/evxforce`, ssbforce second pass (`--out-dir
+  work/qa/ssbforce2 --base 30000`, first pass as --have), `unshown.py`, `textcover.py` over every dir. codex is still
+  out of credits (2026-11-26), so the per-batch review stays owed for phase 9.
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
