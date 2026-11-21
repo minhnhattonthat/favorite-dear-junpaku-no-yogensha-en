@@ -29,3 +29,5 @@ tools/*/
 *.ppst
 evidence/private/
 asm/font_data.inc
+# memory-card fixtures for tools/debug (game-written saves; local only, D11)
+tools/debug/cards/

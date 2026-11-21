@@ -65,6 +65,9 @@ cold boot, no save, no savestate. Scene list: `tools/debug/scenes.tsv` (columns 
 
 ## Saves (`tools/debug/save.py`, fixtures in `tools/debug/cards/`)
 
+The cards are game-written saves, so they are gitignored and not in the repo (D11): a fresh clone recreates each
+one as described below (`fd1_clear.mcd` is the first game's clear data, from your own play of it).
+
 - `fd2_save.mcd`: written by the game (scene `heaven_saved`: New Game, Heaven -> データ -> セーブ, slot 1).
   `fd2_edited.mcd`: the same after `save.py set .. playtime=45296 month=7 day=15`; scene `load_edited` shows
   "time 012:34:56, Date 00,07,15" in the load list and loads into Heaven.

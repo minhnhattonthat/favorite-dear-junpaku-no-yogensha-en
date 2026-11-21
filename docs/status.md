@@ -6,7 +6,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   gate green (build, check, smoke, jpcheck, 3 qa gates, textcover 0 unwaived, polish/README, debug off), xdelta
   re-apply matches the build (sha1 90b4fbfbf787e07f8aad73ce36d4892ebdb8e155, CRC32 8BF0C558). Output:
   release/Favorite_Dear_Junpaku_no_Yogensha_EN_v1.0.zip (62,832,138 bytes: xdelta sha1 db189b3d... + README.txt).
-  NOT published: `gh release create` and repo visibility are the owner's call. Earlier (33rd/34th worker): story
+  PUBLISHED 2026-11-21 (36th worker, owner asked): memory-card fixtures stripped from history (D11, now
+  gitignored, local only), repo made public with the game title in its description, GitHub release v1.0 with the
+  zip. Player bug reports now come in as issues. Earlier (33rd/34th worker): story
   pass 13/13, polish.md 0 open (waivers listed as known issues in README.md/README.txt), visual tour and stress
   manifests waived for 90b4fbfb (text-only changes since cda8d409). Later-version work:
   pair-glyph name spacing ("Ray ,", "Cecia -sama", "Ravi el"), name entry opening on the Latin page, and an in-game
