@@ -86,6 +86,7 @@ def debug_off():
     from it, and build.py has no debug mode."""
     for f in ("build.py", "insert.py"):
         src = (ROOT / "tools" / f).read_text(encoding="utf-8")
+        src = "\n".join(l for l in src.splitlines() if not l.lstrip().startswith("#"))  # comments cite debug tools
         if re.search(r"tools[/\\]debug|warp\.lua|--debug|import debug", src):
             fail(f"tools/{f} refers to the debug tool")
     if any("debug" in p.name.lower() for p in (ROOT / "asm").glob("*")):

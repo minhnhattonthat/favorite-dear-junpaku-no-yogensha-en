@@ -1,1 +1,1 @@
-05_rocus	fixed	34th worker read all 1365 rows (JP+EN) incl. BTL_EVT3; 1 important + 1 minor fixed; report work/qa/story/reports/05_rocus.md
+05_rocus	fixed	34th worker read all 1365 rows (JP+EN) incl. BTL_EVT3; 1 important + 1 minor fixed; report work/qa/story/reports/05_rocus.md; re-checked 2026-11-21 after the pass: every changed row in the regenerated chapter is a story-pass fix listed in docs/polish.md (shared family fixes from later chapters included)
