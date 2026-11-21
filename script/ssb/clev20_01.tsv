@@ -26,7 +26,7 @@ clev20_01.05F2	ミカエルに会えればと思って、{n}ここへ来てみ�
 clev20_01.064E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev20_01.065E	ミカエル様ですか？{wait}{clear}	Michael-sama?{wait}{clear}	
 clev20_01.0674	ラファエル	Raphael	speaker
-clev20_01.0682	ええ。{wait}{clear}	Of course.{wait}{clear}	
+clev20_01.0682	ええ。{wait}{clear}	Yes.{wait}{clear}	
 clev20_01.0698	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 clev20_01.06A8	ミカエル様とは、一度、お会いしたことがあります。{wait}{clear}	I've met Michael-sama once.{wait}{clear}	
 clev20_01.06DC	ラファエル	Raphael	speaker

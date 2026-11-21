@@ -1,2 +1,6 @@
 file	id	en	why
 ssb/tenkai.tsv	tenkai.062E	Yes.{wait}{clear}	story pass ch01: ええ answers "Michael-sama?"; the family's "Of course." reads odd here
+ssb/Feev19.tsv	Feev19.09DE	Yes.{wait}{clear}	story pass ch02: same "Michael-sama?" / ええ exchange as tenkai.062E
+ssb/clev20_01.tsv	clev20_01.0682	Yes.{wait}{clear}	story pass ch03: same "Michael-sama?" / ええ exchange as tenkai.062E
+ssb/loev04_02.tsv	loev04_02.0BAA	Yes.{wait}{clear}	story pass ch03: ええ answers "first time you've seen my brother, right?"; "Of course." reads smug
+evx/clev21.tsv	clev21.09AD	Ahh...	story pass ch03: the spellbound Emperor's ああ…… as Serenis begins the rite is a moan, not the family's "Yeah..."

@@ -35,3 +35,7 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [x] tenkai.062E - ええ answering "Michael-sama?" was the family's "Of course." (fixed: "Yes.", trans/overrides.tsv)
 - [x] Raph_end.00E0 - ご苦労だったな "You did hard work in Arcaya" (fixed: "You went through a great deal in Arcaya.")
 - [x] ceed1.01C6 - ここでのみ生きることはできない read as "no one could live in it alone" (fixed: "they could not go on living within it alone")
+- [x] ceev16.0D79 (+feev17.0731, roev14.0CD6) - Ion's こいつをやっつけろ！ was "Get her!" in male heroes' fights too (fixed: "Get 'em!")
+- [x] clev21.0549 - 帝国の魔女、天竜など、よみがえらせはせん misread as reviving the witch (fixed: "Witch of the Empire... I won't let you revive the Heavenly Dragon...")
+- [x] Feev19.09DE, clev20_01.0682, loev04_02.0BAA - ええ as "Of course." where a plain "Yes." is meant (fixed, overrides)
+- [x] clev21.09AD - the spellbound Emperor's ああ…… was "Yeah..." (fixed: "Ahh...", override)

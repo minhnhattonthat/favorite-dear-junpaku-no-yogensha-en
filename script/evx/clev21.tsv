@@ -11,7 +11,7 @@ clev21.0246	魔石の台	Demon Stone Stand	unit name (32-byte field)
 clev21.04E8	セレニス	Serenis	speaker
 clev21.04FF	フフフ、{n}よく来たわね。天使の勇者。	Heh heh heh, welcome, hero of the angel.	text
 clev21.0532	クライヴ	Clive	speaker
-clev21.0549	帝国の魔女、{n}天竜など、よみがえらせはせん……。	The Empire's witch, the Heavenly Dragon... I{n}won't let them revive...	text
+clev21.0549	帝国の魔女、{n}天竜など、よみがえらせはせん……。	Witch of the Empire... I won't let you{n}revive the Heavenly Dragon...	text
 clev21.0588	セレニス	Serenis	speaker
 clev21.059F	ふふふ、無理よ。{n}あなた達に私を止めることなどできない。	Hehehe, it's no use. The likes of you can't{n}stop me.	text
 clev21.065A	セレニス	Serenis	speaker
@@ -25,4 +25,4 @@ clev21.085B	セレニス	Serenis	speaker
 clev21.0872	なにも怖れる必要はないのです、皇帝。{n}永遠の命と一つになるのですから……。	There's nothing to fear, Emperor. You will{n}become one with eternal life...	text
 clev21.08DB	さあ……始めましょう……。	Now... let us begin...	text
 clev21.0990	エンディミオン	Endymion	speaker
-clev21.09AD	ああ……。	Yeah...	text
+clev21.09AD	ああ……。	Ahh...	text
