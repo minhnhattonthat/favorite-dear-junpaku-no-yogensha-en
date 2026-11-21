@@ -1,7 +1,7 @@
-# <Game title> English translation
+# Favorite Dear: Junpaku no Yogensha English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
-that build the patch.
+Unofficial English fan translation of **Favorite Dear: Junpaku no Yogensha** ("The Pure White Prophet"; PlayStation,
+NEC Interchannel, 2000, SLPS-02754): the source text and tools that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.
@@ -13,13 +13,16 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue and story events, battle text, fairy reports, hero chats, missions, endings | Translated |
+| Menus, items, status screens, system messages | Translated |
+| Graphics with text (menus, battle plates, album, status tags) | Translated; the title logo keeps its 純白の預言者 lettering under the English "FAVORITE DEAR" |
+| Opening movie captions, staff roll | Translated (re-encoded video) |
+| Name entry | Works with Latin letters (the game's own letter page, one arrow press from the kana pages it opens on) |
+| Voice acting, songs | Left in Japanese (audio) |
+| Memory-card save titles in the console's card manager | Left in Japanese (the BIOS draws full-width characters only) |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Known issues: names with an odd number of letters are followed by a space ("Ray , welcome"), and some fixed-size
+labels use shorter English forms; see [Issues](../../issues).
 
 ## What's here
 
@@ -35,16 +38,19 @@ Known issues: <none known / see [Issues](../../issues)>.
 | `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it). |
 | `.codex/agents/`, `.opencode/agents/` | Subagent types (translator, reviewer, visual QA, playtester, graphics) for Codex and opencode; Claude Code gets them from the plugin. |
 
-## Build your own patched ROM
+## Build your own patched disc image
 
-Needs Python 3.12+ and your own dump of the Japanese game.
+Needs Python 3.12+, your own dump of the Japanese disc, and the disc tools listed in `AGENTS.md` (mkpsxiso, armips,
+xdelta).
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/favorite-dear-junpaku-no-yogensha-en
+cd favorite-dear-junpaku-no-yogensha-en
+# copy your dump (Redump "Favorite Dear - Junpaku no Yogensha (Japan)") to:
+#   rom/Favorite Dear - Junpaku no Yogensha (Japan).bin  (567401184 bytes, CRC32 B433678A,
+#     MD5 8be97d515553773081ece79ece7c8c42, SHA-1 b948c46436cb2290c5a87903336e0d404705c73d)
+#   rom/Favorite Dear - Junpaku no Yogensha (Japan).cue  (the build refuses any other dump, see rom.sha1)
+python -X utf8 tools/build.py                          # -> build/fd2_en.bin + .cue
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
@@ -56,8 +62,8 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
-Do not share patched ROMs.
+Tools and English translation: MIT. The original Japanese text in `script/` is NEC Interchannel's and is included only
+so the translation can be checked against it. Favorite Dear: Junpaku no Yogensha is (c) NEC Interchannel; this project
+is not affiliated with them. Do not share patched disc images.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.
