@@ -32,7 +32,7 @@ eiev22.0588	どんなことを？{wait}{clear}	What did you write?{wait}{clear}
 eiev22.05AC	アイリーン	Irene	speaker
 eiev22.05BA	うん？{n}思ってること、全部……{wait}{clear}姉さんと私のこと……あの事件のこと……{wait}{clear}あと……{n}ずっと、好きだったって……。{wait}{clear}でもね……{n}もう、彼にわかってもらえなくてもいいんだ……{wait}{clear}私はできることを、しなきゃならないと思って{n}やったんだから……。{wait}{clear}そうだよね……＄＄＄＄＄＄。{wait}{clear}	Hm? Everything I feel...{wait}{clear}About my sister and me... about what{n}happened back then...{wait}{clear}And... that I always loved him...{wait}{clear}But you know... it's fine now, even if he{n}doesn't understand...{wait}{clear}I did it because I thought I had to do what{n}I could...{wait}{clear}That's right... isn't it, ＄＄＄＄＄＄?{wait}{clear}	
 eiev22.06D0	ＮＵＬＬ	NULL	speaker
-eiev22.06E0	《ええ……。》{n}	Sure...{n}	
+eiev22.06E0	《ええ……。》{n}	Yes...{n}	
 eiev22.06F6	《きっとわかってもらえる。》{n}	He's sure to understand.{n}	
 eiev22.0724	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 eiev22.0734	ええ、そう思います。{n}今は時が解決してくれるのを待ちましょう。{wait}{clear}	Yes, I think so. For now, let's wait for{n}time to settle things.{wait}{clear}	

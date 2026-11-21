@@ -44,3 +44,7 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [x] BTL_EVT2.4A61 - "Was it you?! You carried off the women!" (fixed: "So it was you?! You're the ones who took the women!")
 - [x] roev07.024E/07AA/0C1E, roev07b.0571 - the kidnapped child was "her" then "that boy... him" (fixed: neutral throughout)
 - [x] roev20_01.0519 - Fein's だとしたらなんだ？ was "And what if we are?" (fixed: "And what if I am?", override)
+- [x] eiev23_01.039A - はい…… confirming Serenis's death read "No..." (fixed: "Yes...", override)
+- [x] eiev30/laev25.0697, loev26.06FE - Ion's "Kill him!!" at female heroes (fixed: "Kill her!!"; clev30 keeps him)
+- [x] loev25b.09AE/0D6A - original JP's 彼 for Rudiere copied from the male routes (fixed: "her", matches eiev29b)
+- [x] eiev06.03FE, eiev15_02.037C/0A20, eiev22.06E0 - choice lines from the wrong family (fixed, overrides)

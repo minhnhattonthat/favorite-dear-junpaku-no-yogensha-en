@@ -15,3 +15,13 @@ evx/loev21b.tsv	loev21b.09CE	Ahh...	story pass: same rite as clev21.09AD
 evx/roev21.tsv	roev21.09D8	Ahh...	story pass: same rite as clev21.09AD (Rocus's route)
 evx/roev20_01.tsv	roev20_01.0519	And what if I am?	story pass ch05: Fein alone answers "You must be one of the angel's heroes"; the family's "we" fits only the assassins (Loev08)
 ssb/loev13.tsv	loev13.044E	Yeah...{wait}{clear}	story pass ch04: Rudiere agreeing with the angel; the family's "Perhaps..." (the Emperor's line) reads doubtful
+ssb/eiev06.tsv	eiev06.03FE	I'm sure they're all right.{n}	choice answers Irene's worry for the missing family (reply eiev06.0504 'I'm sure they're all right'); family 'you'll be fine' fits only Cecia's ceev10_03/ceev11
+ssb/eiev15_02.tsv	eiev15_02.037C	Yes...{n}	story pass ch06: gentle agreement with Irene's question about what she could do; family 'Sure...' (invitations) reads offhand
+ssb/eiev15_02.tsv	eiev15_02.0A20	Yes...{n}	story pass ch06: gentle agreement with Irene's question about what she could do; family 'Sure...' (invitations) reads offhand
+ssb/eiev22.tsv	eiev22.06E0	Yes...{n}	story pass ch06: gentle agreement with Irene's question about what she could do; family 'Sure...' (invitations) reads offhand
+ssb/eiev23_01.tsv	eiev23_01.039A	Yes...{wait}{clear}	story pass ch06: confirms 'she's dead?'; family 'No...' answers Clive's negative question (Clev25)
+evx/eiev30.tsv	eiev30.0697	Sonne, Mond, Stern! Kill her!!	story pass ch06: Ion's order against a female hero (Irene/Leyla/Rudiere); family 'Kill him!!' fits only Clive (clev30)
+evx/laev25.tsv	laev25.0697	Sonne, Mond, Stern! Kill her!!	story pass ch06: Ion's order against a female hero (Irene/Leyla/Rudiere); family 'Kill him!!' fits only Clive (clev30)
+evx/loev26.tsv	loev26.06FE	Sonne, Mond, Stern! Kill her!!	story pass ch06: Ion's order against a female hero (Irene/Leyla/Rudiere); family 'Kill him!!' fits only Clive (clev30)
+evx/loev25b.tsv	loev25b.09AE	Please... save her soul, save her life...	story pass: Rudiere's route; the original JP keeps 彼 (copy of the male routes) though the hero is Rudiere; matches the female routes (eiev29b.09AC)
+evx/loev25b.tsv	loev25b.0D6A	She believed in me, an angel, and fought for{n}me. I will not let you use her soul or mine.	story pass: Rudiere's route; original JP 彼 is a copy slip from the male routes; matches eiev29b.0D72
