@@ -2,10 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (31st worker: end 198/198, evx/msg/ovl complete with waivers, scenes done; ssb
-  left: ssbforce first pass (93 events) + second pass (46 events, `work/qa/ssbforce2`), commands in the 31st worker
-  entry. NEXT: finish ssb, `unshown.py`, `textcover.py` exit 0; (e) final re-tour on the final build + verdicts for
-  changed sheets (laed3 narration and ed.bin changed in 28908d3). 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 9. Release (phase 8 done 2026-11-21, 32nd worker: final re-tour on cda8d409, gate 200/200 + stress 6/6,
+  `textcover.py` exits 0, G-rows resolved, smoke OK; see the 32nd worker entry). NEXT (phase 9): the full per-batch
+  story review (owed since phase 6; codex has credits again from 2026-11-26, else do it read-only yourself), story
+  manifest verdicts, polish.md lines ticked or waived, `jp_left.py`, release script. Phase 8 history: 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -434,7 +434,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (first pass, new events) and the second pass for events that ended "not done" (list
   `work/qa/logs/ssb_retry.txt`): `tools/ssbforce.py --have <all dirs> --only <comma list> --out-dir
   work/qa/ssbforce2 --base 30000 -j 1`. Add `work/qa/ssbforce2` to the textcover dirs.
-- **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
+- **Phase 8 done (2026-11-21, 32nd worker):** the ssbforce passes left running by the 31st worker finished.
+  **Final re-tour** of all 68 tour scenes + end_laed3/end_ceed3 (swap scenes with `endcount.lua`) on build
+  **cda8d409** (`work/qa/tour`; the previous tour is `work/qa/tour_e2206`): 22 sheets new or changed, all read
+  (`work/qa/verdicts/w32_001.tsv`: laed3 and ceed3 now run to their sign-off; the rest are heaven/map frame-timing
+  shifts), `qa_gate.py check` 200/200; stress scenes re-run on cda8d409, pixel-identical, 6/6
+  (`work/qa/stress_2401` = old). **Text coverage:** 347 ssb rows were stuck behind story battles the mash can't win
+  and behind event hand-overs. `ssbforce.py --skip-battles` steps over op 0x1c with an id >= 2000 (the op queues
+  a battle, `docs/re/events.md`) and treats `01 14 N` (hand over to another event) as an end;
+  `tools/debug/sfends_clev01_01.lua` (SF_ENDS) forces clev01_01 past the dev-leftover `ＮＵＬＬtext_on;` speaker at
+  0x362, which stops the VM for good. Its two choice answers (036E, 0384) are waived by a new checked `unshown.py`
+  rule. `textcover.py work/qa/cover work/qa/cover_scenes work/qa/ssbforce work/qa/msgforce work/qa/p8
+  work/qa/ovlforce work/qa/cover_end work/qa/evxforce work/qa/ssbforce2 work/qa/ssbforce3 work/qa/ssbforce4
+  work/qa/ssbforce5` exits 0 (ssb 9819/9821 + 2 waived, 1598 waivers). **Graphics rows:** the FILE logs of all 613
+  runs show G7 (BAT_NM00/01), G9 (battle.tim), G13 (test01/02) and rogo_00 are never loaded; G1 kept (D5), G2 English
+  column drawn, G5/G12 not seen, G6 kana pages kept, G11 effect art kept (`docs/re/graphics.md`). check.py 81
+  passed + lint 0, smoke OK (sha1 cda8d409...).
+- **Older phase 8 next list (done, kept for reference):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
   choice / centred menu boxes (menX_* Yes/No, heaven buttons); (3) stress saves (longest names, full lists, max
@@ -487,12 +503,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Prologue quiz text uses `￥` as its line break; EvName fields hold 22 bytes; EVX unit names 32 bytes.
   - Memory-card save titles in the EXE (`純白の預言者　ゲームデータ０１`) show in the BIOS card manager (full-width only).
   - Warp batches: run **-j 1** on this machine (-j 2 ran low on memory, -j 4 was killed by the OS).
-  - キャラ劇 (GRPDATA 558 battle.tim) is not in OMAKE and no script or traced scene loads it: probably unused.
+  - RESOLVED (32nd worker): battle.tim and Dummy00.DAT never load in 613 runs; G9 dropped.
+    キャラ劇 (GRPDATA 558 battle.tim) is not in OMAKE and no script or traced scene loads it: probably unused.
     Phase 8: `--all --lua tools/debug/fileslog.lua --debugger`, grep for battle.tim (and Dummy00.DAT); if never
     loaded, drop G9.
   - Don't edit warp.lua while a batch runs: runs that start mid-edit fail.
 - **Open bugs:** none.
-- **Waiting on the user:** (not blocking, 28th worker) textcover scale: 15130 MSG rows are entries picked from
+- **Waiting on the user:** nothing open (32nd worker: textcover now passes by forcing, so the waiver alternative
+  below is moot; FMV captions/credits were done in G14/G15). Old notes: (not blocking, 28th worker) textcover scale: 15130 MSG rows are entries picked from
   indexed banks by game state, and 5855 EVX rows sit in battles reached only through events; a mash run shows a
   few entries per bank. Showing every entry needs a force hook (days of emulator time on this shared host, as the
   first game's `textforce`). Default carried on with: finish the ssb/scene runs, build the force hook for MSG; the

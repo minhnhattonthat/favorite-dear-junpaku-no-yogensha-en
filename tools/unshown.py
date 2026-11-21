@@ -86,6 +86,15 @@ def main():
     empty = [k for k in empty if k not in hit]
     print(f"empty: {len(empty)} rows with no Japanese, not reached")
     out += [f"{k}\tempty string (no Japanese, en empty): nothing to draw" for k in empty]
+    # clev01_01.ssb: the choice after the dev-leftover speaker `ＮＵＬＬtext_on;` (0x362). The VM stops for good inside
+    # that name op (traced 2026-11-21, tools/debug/sfends_clev01_01.lua), so its answers are never drawn; choice text
+    # can't be forced (a jump into it prints it as plain text)
+    nul = ["ssb/clev01_01.036E", "ssb/clev01_01.0384"]
+    read = [k for k in nul if k in hit]
+    bad += read
+    print(f"clev01_01 NULL choice: {len(nul)} rows, {len(read)} read")
+    out += [f"{k}\tchoice answer after clev01_01.ssb 0x362 `ＮＵＬＬtext_on;` (dev-leftover speaker op): the script VM "
+            f"stops for good inside that op (traced), so the choice is never drawn" for k in nul]
     # GRPDATA Dummy00.DAT: waived only while no run loads it (every event and warp scene runs with the FILE log)
     if "dummy00.dat" in loaded:
         print("Dummy00.DAT was loaded by a run: rule wrong")

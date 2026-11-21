@@ -73,6 +73,11 @@ L.on_exec(0x800C29A4, function()
   end
   -- 00 74 (op 0x74, no args) ends the event before the closing 00 FF (322 of the 346 files end 00 74 00 FF)
   local at_end = mem[B + pc] == 0 and (mem[B + pc + 1] == 0xFF or mem[B + pc + 1] == 0x74)
+  -- with SF_SKIPBATTLE, `01 14 N` (hand over to another event; it loads over the buffer) counts as an end too
+  if SF_SKIPBATTLE and mem[B + pc] == 1 and mem[B + pc + 1] == 0x14 then at_end = true end
+  -- SF_ENDS = { [offset] = true }: extra offsets treated as ends (clev01_01 0x362: the dev-leftover speaker
+  -- `ＮＵＬＬtext_on;` stops the VM for good, so force before it)
+  if SF_ENDS and SF_ENDS[pc] then at_end = true end
   if at_end or loop then
     local t = next_want()
     if not t then

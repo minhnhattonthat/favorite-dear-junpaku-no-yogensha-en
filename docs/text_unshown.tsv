@@ -1560,6 +1560,8 @@ evx/laev14.061F	empty string (no Japanese, en empty): nothing to draw
 evx/laev20b.063C	empty string (no Japanese, en empty): nothing to draw
 evx/roev18.05CE	empty string (no Japanese, en empty): nothing to draw
 msg/BTL_EVT1.0713S	empty string (no Japanese, en empty): nothing to draw
+ssb/clev01_01.036E	choice answer after clev01_01.ssb 0x362 `ＮＵＬＬtext_on;` (dev-leftover speaker op): the script VM stops for good inside that op (traced), so the choice is never drawn
+ssb/clev01_01.0384	choice answer after clev01_01.ssb 0x362 `ＮＵＬＬtext_on;` (dev-leftover speaker op): the script VM stops for good inside that op (traced), so the choice is never drawn
 misc/Dummy00.0000	GRPDATA Dummy00.DAT: no run loads it (LKF loader log over every event and warp scene); name and content (one-line greetings with no script reference) say dev leftover
 misc/Dummy00.0032	GRPDATA Dummy00.DAT: no run loads it (LKF loader log over every event and warp scene); name and content (one-line greetings with no script reference) say dev leftover
 misc/Dummy00.0064	GRPDATA Dummy00.DAT: no run loads it (LKF loader log over every event and warp scene); name and content (one-line greetings with no script reference) say dev leftover
