@@ -39,7 +39,7 @@ laev13.067A	そうね……。{wait}{clear}	Yeah...{wait}{clear}
 laev13.06A6	レイラ	Leyla	speaker
 laev13.06B0	なんだか、話し込んでしまったわね。{n}ずいぶんゆっくりしてしまったわ……。{wait}{clear}そろそろ宿へ戻りましょうか？　＄＄＄＄＄＄？{wait}{clear}	We got so caught up in talking. We've{n}lingered quite a while...{wait}{clear}Shall we head back to the inn, ＄＄＄＄＄＄?{wait}{clear}	
 laev13.072C	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-laev13.073C	ええ、そうですね。{wait}{clear}	Yes, it is.{wait}{clear}	
+laev13.073C	ええ、そうですね。{wait}{clear}	Yes, let's.{wait}{clear}	
 laev13.076E	レイラ	Leyla	speaker
 laev13.0778	ふう、少し飲み過ぎたみたい……。{n}ベランダで涼んでくるわ。{wait}{clear}	Phew, I think I drank a little too much...{n}I'm going to cool off on the balcony.{wait}{clear}	
 laev13.07C2	レイラ	Leyla	speaker

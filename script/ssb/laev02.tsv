@@ -21,7 +21,7 @@ laev02.03C4	そろそろ、今日泊まる宿屋を探しましょうか。{wait
 laev02.03F2	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 laev02.0402	はい。{wait}{clear}	Yes.{wait}{clear}	
 laev02.041A	宿屋の主	Innkeeper	speaker
-laev02.0426	では、騎士様、この部屋をお使いください。{n}いえいえ、お代はお安くしておきます。{wait}{clear}それに、気に入っていただければ{n}いつまででもお使いになって結構ですから。{n}では、ごゆっくり。{wait}{clear}	Then, Sir Knight, please use this room. No,{n}no, I'll give you a good price.{wait}{clear}And if you like it, you're welcome to stay{n}as long as you wish. Please, make yourself{n}at home.{wait}{clear}	
+laev02.0426	では、騎士様、この部屋をお使いください。{n}いえいえ、お代はお安くしておきます。{wait}{clear}それに、気に入っていただければ{n}いつまででもお使いになって結構ですから。{n}では、ごゆっくり。{wait}{clear}	Then, my lady knight, please use this room.{n}No, no, I'll give you a good price.{wait}{clear}And if you like it, you're welcome to stay{n}as long as you wish. Please, make yourself{n}at home.{wait}{clear}	
 laev02.04EE	レイラ	Leyla	speaker
 laev02.04F8	＄＄＄＄＄＄……いる？{wait}{clear}	＄＄＄＄＄＄... are you there?{wait}{clear}	
 laev02.0512	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker

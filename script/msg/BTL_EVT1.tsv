@@ -202,9 +202,9 @@ BTL_EVT1.157E	ふん！　お前になど関係ない。{n}我々の邪魔をす
 BTL_EVT1.15C2S	クライヴ	Clive	speaker
 BTL_EVT1.15CB	…………。	.....	
 BTL_EVT1.15D9S	帝国兵	Soldier	speaker
-BTL_EVT1.15E0	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT1.15E0	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT1.160AS	帝国兵	Soldier	speaker
-BTL_EVT1.1611	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT1.1611	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT1.165FS	クライヴ	Clive	speaker
 BTL_EVT1.1668	くそっ……お前ら……。	Damn it... You people...	
 BTL_EVT1.1682S	帝国兵	Soldier	speaker
@@ -342,7 +342,7 @@ BTL_EVT1.2370	ひひひひひ……	Hihihihihi...
 BTL_EVT1.23A6S	クライヴ	Clive	speaker
 BTL_EVT1.23AF	村を襲ってるのは、お前らか……。	So you're the ones attacking the village...	
 BTL_EVT1.23D3S	バーグラー	Burglar	speaker
-BTL_EVT1.23DE	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT1.23DE	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT1.2452S	クライヴ	Clive	speaker
 BTL_EVT1.245B	……くだらん連中だ……。	...Worthless lot...	
 BTL_EVT1.2477S	バーグラー	Burglar	speaker
@@ -352,7 +352,7 @@ BTL_EVT1.24C5	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT1.2521S	クライヴ	Clive	speaker
 BTL_EVT1.252A	村を襲ってるのは、お前らか……。	So you're the ones attacking the village...	
 BTL_EVT1.254ES	バーグラー	Burglar	speaker
-BTL_EVT1.2559	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT1.2559	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT1.25CDS	クライヴ	Clive	speaker
 BTL_EVT1.25D6	……くだらん連中だ……。	...Worthless lot...	
 BTL_EVT1.25F2S	バーグラー	Burglar	speaker

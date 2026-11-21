@@ -1,7 +1,7 @@
 id	en
 BTL_EVT0.17DC	Hmph! None of your business. If you get in our way, we'll simply kill you!
 BTL_EVT0.1829	What is happening in the Empire...?
-BTL_EVT0.1856	Our army won't fall to one man!
+BTL_EVT0.1856	Our army won't fall to you alone!
 BTL_EVT0.18DE	Is the Empire trying to take back its old territory...?
 BTL_EVT0.1917	You could never grasp our Emperor's aims. Obey us quietly, or die!
 BTL_EVT0.196C	What on earth should I do...?
@@ -60,7 +60,7 @@ BTL_EVT0.280CS	Banshee
 BTL_EVT0.2815	Hihihihihi...
 BTL_EVT0.286F	Are you the ones attacking the village?
 BTL_EVT0.289BS	Burglar
-BTL_EVT0.28A6	What the hell? You came to beat us or something?{wait}{clear}Hah! No way you can beat us! Get him!!
+BTL_EVT0.28A6	What the hell? You came to beat us or something?{wait}{clear}Hah! No way you can beat us! Get 'em!!
 BTL_EVT0.2923	There must be plenty more of these guys...
 BTL_EVT0.295A	Hahaha! What can you do on your own?!
 BTL_EVT0.2B95	Demons... but why...

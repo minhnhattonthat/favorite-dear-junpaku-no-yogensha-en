@@ -200,9 +200,9 @@ BTL_EVT4.1823	ふん！　お前になど関係ない。{n}我々の邪魔をす
 BTL_EVT4.1867S	アイリーン	Irene	speaker
 BTL_EVT4.1872	嫌な予感がする……。	I have a bad feeling about this...	
 BTL_EVT4.188AS	帝国兵	Soldier	speaker
-BTL_EVT4.1891	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT4.1891	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT4.18BBS	帝国兵	Soldier	speaker
-BTL_EVT4.18C2	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT4.18C2	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT4.1910S	アイリーン	Irene	speaker
 BTL_EVT4.191B	帝国なんて……弱い者いじめしているだけよ！	The Empire's just picking on the weak!	
 BTL_EVT4.1949S	帝国兵	Soldier	speaker
@@ -340,7 +340,7 @@ BTL_EVT4.29AD	ひひひひひ……	Hihihihihi...
 BTL_EVT4.29E3S	アイリーン	Irene	speaker
 BTL_EVT4.29EE	村を襲ってるのは、あんたたちなの？	Are you the ones attacking the village?	
 BTL_EVT4.2A14S	バーグラー	Burglar	speaker
-BTL_EVT4.2A1F	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT4.2A1F	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT4.2A93S	アイリーン	Irene	speaker
 BTL_EVT4.2A9E	あ～あ、サイテーなおじさんたちだったわね。	Ugh, what a bunch of lousy old men.	
 BTL_EVT4.2ACCS	バーグラー	Burglar	speaker
@@ -350,7 +350,7 @@ BTL_EVT4.2B1A	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT4.2B76S	アイリーン	Irene	speaker
 BTL_EVT4.2B81	村を襲ってるのは、あんたたちなの？	Are you the ones attacking the village?	
 BTL_EVT4.2BA7S	バーグラー	Burglar	speaker
-BTL_EVT4.2BB2	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT4.2BB2	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT4.2C26S	アイリーン	Irene	speaker
 BTL_EVT4.2C31	あ～あ、サイテーなおじさんたちだったわね。	Ugh, what a bunch of lousy old men.	
 BTL_EVT4.2C5FS	バーグラー	Burglar	speaker

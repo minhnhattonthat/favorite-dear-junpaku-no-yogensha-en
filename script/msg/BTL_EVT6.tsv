@@ -200,9 +200,9 @@ BTL_EVT6.1735	ふん！　お前になど関係ない。{n}我々の邪魔をす
 BTL_EVT6.1779S	セシア	Cecia	speaker
 BTL_EVT6.1780	なにか悪いことが起ころうとしているの……？	Is something bad about to happen...?	
 BTL_EVT6.17AES	帝国兵	Soldier	speaker
-BTL_EVT6.17B5	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT6.17B5	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT6.17DFS	帝国兵	Soldier	speaker
-BTL_EVT6.17E6	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT6.17E6	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT6.1834S	セシア	Cecia	speaker
 BTL_EVT6.183B	こんなひどいことをして……許せない……。	Doing something so cruel...{n}I can't forgive it...	
 BTL_EVT6.1867S	帝国兵	Soldier	speaker
@@ -340,7 +340,7 @@ BTL_EVT6.28AB	ひひひひひ……	Hihihihihi...
 BTL_EVT6.28E1S	セシア	Cecia	speaker
 BTL_EVT6.28E8	村を襲っているのは、あなたたちですか？	Are you the ones attacking the village?	
 BTL_EVT6.2912S	バーグラー	Burglar	speaker
-BTL_EVT6.291D	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT6.291D	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT6.2991S	セシア	Cecia	speaker
 BTL_EVT6.2998	ふう……{n}これで村の人たちは安心してくれるでしょう……。	Phew... Now the villagers can feel safe...	
 BTL_EVT6.29D4S	バーグラー	Burglar	speaker
@@ -350,7 +350,7 @@ BTL_EVT6.2A22	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT6.2A7ES	セシア	Cecia	speaker
 BTL_EVT6.2A85	村を襲っているのは、あなたたちですか？	Are you the ones attacking the village?	
 BTL_EVT6.2AAFS	バーグラー	Burglar	speaker
-BTL_EVT6.2ABA	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT6.2ABA	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT6.2B2ES	セシア	Cecia	speaker
 BTL_EVT6.2B35	ふう……{n}これで村の人たちは安心してくれるでしょう……。	Phew... Now the villagers can feel safe...	
 BTL_EVT6.2B71S	バーグラー	Burglar	speaker

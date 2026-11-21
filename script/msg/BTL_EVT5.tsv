@@ -190,9 +190,9 @@ BTL_EVT5.163E	ふん！　お前になど関係ない。{n}我々の邪魔をす
 BTL_EVT5.1682S	レイラ	Leyla	speaker
 BTL_EVT5.1689	帝国でなにが起こっているの……？	What is happening in the Empire...?	
 BTL_EVT5.16ADS	帝国兵	Soldier	speaker
-BTL_EVT5.16B4	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT5.16B4	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT5.16DES	帝国兵	Soldier	speaker
-BTL_EVT5.16E5	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT5.16E5	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT5.1733S	レイラ	Leyla	speaker
 BTL_EVT5.173A	こんな辺境に侵攻してくるなんて……。{n}いったいなにを考えているの！？	Invading a backwater like this... What on{n}earth are they thinking?!	
 BTL_EVT5.1782S	帝国兵	Soldier	speaker
@@ -330,7 +330,7 @@ BTL_EVT5.270E	ひひひひひ……	Hihihihihi...
 BTL_EVT5.2744S	レイラ	Leyla	speaker
 BTL_EVT5.274B	村を襲っているのは、あなたたちなの！？	Are you the ones attacking the village?!	
 BTL_EVT5.2775S	バーグラー	Burglar	speaker
-BTL_EVT5.2780	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT5.2780	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT5.27F4S	レイラ	Leyla	speaker
 BTL_EVT5.27FB	ふん！　口ほどにもない……。	Hmph! All talk...	
 BTL_EVT5.281BS	バーグラー	Burglar	speaker
@@ -340,7 +340,7 @@ BTL_EVT5.2869	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT5.28C5S	レイラ	Leyla	speaker
 BTL_EVT5.28CC	村を襲っているのは、あなたたちなの！？	Are you the ones attacking the village?!	
 BTL_EVT5.28F6S	バーグラー	Burglar	speaker
-BTL_EVT5.2901	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT5.2901	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT5.2975S	レイラ	Leyla	speaker
 BTL_EVT5.297C	ふん！　口ほどにもない……。	Hmph! All talk...	
 BTL_EVT5.299CS	バーグラー	Burglar	speaker

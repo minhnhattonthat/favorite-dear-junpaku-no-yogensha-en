@@ -210,9 +210,9 @@ BTL_EVT0.17DC	ふん！　お前になど関係ない。{n}我々の邪魔をす
 BTL_EVT0.1820S	フェイン	Fein	speaker
 BTL_EVT0.1829	帝国でなにが起こっているんだ……？	What is happening in the Empire...?	
 BTL_EVT0.184FS	帝国兵	Soldier	speaker
-BTL_EVT0.1856	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT0.1856	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT0.1880S	帝国兵	Soldier	speaker
-BTL_EVT0.1887	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to one man!	
+BTL_EVT0.1887	お前ひとりにやられる我が軍ではないわ！	Our army won't fall to you alone!	
 BTL_EVT0.18D5S	フェイン	Fein	speaker
 BTL_EVT0.18DE	帝国は昔の領土を取り戻そうとしているのか……？	Is the Empire trying to take back its old{n}territory...?	
 BTL_EVT0.1910S	帝国兵	Soldier	speaker
@@ -350,7 +350,7 @@ BTL_EVT0.2830	ひひひひひ……	Hihihihihi...
 BTL_EVT0.2866S	フェイン	Fein	speaker
 BTL_EVT0.286F	お前たちか？{n}村を襲っているというのは。	Are you the ones attacking the village?	
 BTL_EVT0.289BS	バーグラー	Burglar	speaker
-BTL_EVT0.28A6	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT0.28A6	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT0.291AS	フェイン	Fein	speaker
 BTL_EVT0.2923	こんな連中はまだまだいるんだろうな……。	There must be plenty more of these guys...	
 BTL_EVT0.294FS	バーグラー	Burglar	speaker
@@ -360,7 +360,7 @@ BTL_EVT0.299D	はははっ！{n}てめえひとりで、なにができるって
 BTL_EVT0.29F9S	フェイン	Fein	speaker
 BTL_EVT0.2A02	お前たちか？{n}村を襲っているというのは。	Are you the ones attacking the village?	
 BTL_EVT0.2A2ES	バーグラー	Burglar	speaker
-BTL_EVT0.2A39	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get him!!	
+BTL_EVT0.2A39	なんだ、てめえ！{n}オレたちを倒しに来たとでも言うのか？{wait}{clear}はっ！　オレたちに勝てるわけねえだろ！{n}やっちまえ！！	What the hell? You came to beat us or{n}something?{wait}{clear}Hah! No way you can beat us! Get 'em!!	
 BTL_EVT0.2AADS	フェイン	Fein	speaker
 BTL_EVT0.2AB6	こんな連中はまだまだいるんだろうな……。	There must be plenty more of these guys...	
 BTL_EVT0.2AE2S	バーグラー	Burglar	speaker
