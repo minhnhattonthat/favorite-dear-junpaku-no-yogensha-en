@@ -46,6 +46,8 @@ def main():
     ap.add_argument("--per-row", type=int, default=250, help="frames budgeted per wanted row")
     ap.add_argument("--base", type=int, default=14000, help="frames before the first forced row (arrival ~10050; "
                     "events with a battle need ~30000)")
+    ap.add_argument("--skip-battles", action="store_true", help="step over `01 1c N`, N >= 2000 (op 0x1c queues an "
+                    "event id; 2xxx/3xxx start battles, which a mash run can lose or never end) so the rows after play")
     ap.add_argument("--dry", action="store_true")
     a = ap.parse_args()
     out = ROOT / a.out_dir
@@ -72,7 +74,8 @@ def main():
         gen = out / "_lua" / f"{stem}.lua"
         gen.parent.mkdir(parents=True, exist_ok=True)
         gen.write_text(f'SF_NAME = "{stem}.ssb"\nSF_ROWS = {{' + ",".join(f"{{{s},{e},{w}}}" for s, e, w in rows)
-                       + "}\nSF_SIG = {" + ",".join(f"{{{o},{b}}}" for o, b in sig) + "}\n", encoding="ascii")
+                       + "}\nSF_SIG = {" + ",".join(f"{{{o},{b}}}" for o, b in sig) + "}\n"
+                       + ("SF_SKIPBATTLE = true\n" if a.skip_battles else ""), encoding="ascii")
         jobs.append((stem, gen, a.base + a.per_row * want, want))
     print(f"{len(jobs)} events, {sum(j[3] for j in jobs)} rows wanted", flush=True)
     if a.dry:

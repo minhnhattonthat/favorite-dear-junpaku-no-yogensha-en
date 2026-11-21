@@ -57,6 +57,13 @@ L.on_exec(0x800C29A4, function()
   -- registers come back sign-extended (FFFFFFFF80080DD8): compare physical addresses
   if (ctx & 0x1FFFFF) ~= (CTX & 0x1FFFFF) or u32(ctx + 0x194) ~= BUF or not ours() then return end
   local pc = u32(ctx + 0x19C)
+  -- SF_SKIPBATTLE (ssbforce.py --skip-battles): step over `01 1C N` with N >= 2000 (op 0x1c queues an event id:
+  -- 2xxx/3xxx start battles, docs/re/events.md), which the mash can lose or never end, so the rows after it play
+  if SF_SKIPBATTLE and mem[B + pc] == 1 and mem[B + pc + 1] == 0x1C and u16(BUF + pc + 2) >= 2000 then
+    w32(ctx + 0x19C, pc + 4)
+    L.log(string.format("SFORCE skipbattle %X id %d f%d", pc, u16(BUF + pc + 2), L.frame))
+    return
+  end
   local i = row_of(pc)
   local loop = i and played[i] and pc == rows[i][1] and i ~= last
   if i and not loop then

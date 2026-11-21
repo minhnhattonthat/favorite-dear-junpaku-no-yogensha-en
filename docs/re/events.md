@@ -15,6 +15,7 @@
 | 0x02 | 0 | line break in text (verified: splits sentences) |
 | 0x05, 0x06 | 0 | wait for key, then close/next page (always paired, 6746 each) |
 | 0x19 | 1 | speaker name + chars (verified: セシア, ＄＄＄＄＄＄) |
+| 0x1c | 1 | **queue an event id** (the 0x80029B7C queue, `debug.md`): 0-999 (35 uses), 2xxx (256), 3xxx (134 = battles, id % 1000 in the exe table). Verified 2026-11-21 (roev25 0x30, id 2604): the VM stops stepping after it and the game loads the battle's models; the event resumes after the battle. `ssbforce.py --skip-battles` steps over ids >= 2000 |
 | 0x78 | 1 | face/expression for the following line (text starts right after) |
 | 0x0a | 1 | wait N frames? |
 | 0x15/0x1f(8)/0x24 | | script header ops (each file starts `00 15 08 1f ...`) |
