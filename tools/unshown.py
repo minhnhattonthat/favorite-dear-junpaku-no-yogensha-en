@@ -77,6 +77,15 @@ def main():
     out += [f"{k}\top.bin OMAKE CG caption table 0x800A654C-0x800A6EAC: no pointer or lui reference to the table "
             f"anywhere, and no read of it in the OMAKE album / CG view runs (read watch, work/qa/p8/captab): never "
             f"shown" for k in caps]
+    # rows with no Japanese at all (an empty speaker slot, an empty EVX message): nothing to draw or to translate
+    empty = []
+    for tsv in sorted((ROOT / "script").glob("*/*.tsv")):
+        with open(tsv, encoding="utf-8", newline="") as f:
+            empty += [f"{tsv.parent.name}/{r['id']}" for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
+                      if r["jp"] == ""]
+    empty = [k for k in empty if k not in hit]
+    print(f"empty: {len(empty)} rows with no Japanese, not reached")
+    out += [f"{k}\tempty string (no Japanese, en empty): nothing to draw" for k in empty]
     # GRPDATA Dummy00.DAT: waived only while no run loads it (every event and warp scene runs with the FILE log)
     if "dummy00.dat" in loaded:
         print("Dummy00.DAT was loaded by a run: rule wrong")

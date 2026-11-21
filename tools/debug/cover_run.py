@@ -36,7 +36,11 @@ def main():
     ap.add_argument("--chunk", type=int, default=4)
     ap.add_argument("--only", default="")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--scenes", default="", help="warp scenes instead of events: a list file (one or more per "
+                    "line) or comma list; resumable the same way (default --out-dir work/qa/cover_scenes)")
     a = ap.parse_args()
+    if a.scenes:
+        return run_scenes(a)
     out = ROOT / a.out_dir
     only = {s.lower() for s in a.only.split(",") if s}
     todo = {}
@@ -61,6 +65,24 @@ def main():
             if not a.dry:
                 subprocess.run(cmd, cwd=ROOT)
     left = [s for v in todo.values() for s in v if not done(out / f"ev_{s}")]
+    print(f"left: {len(left)}", " ".join(left[:40]), flush=True)
+
+
+def run_scenes(a):
+    """Warp scenes (scenes.tsv names) with textcover.lua, one warp.py call per chunk, skipping done folders."""
+    out = ROOT / (a.out_dir if a.out_dir != "work/qa/cover" else "work/qa/cover_scenes")
+    p = ROOT / a.scenes
+    names = p.read_text(encoding="utf-8").split() if p.is_file() else [s for s in a.scenes.split(",") if s]
+    todo = [s for s in dict.fromkeys(names) if not done(out / s)]
+    print(f"{len(todo)} scenes to run", flush=True)
+    for i in range(0, len(todo), a.chunk):
+        part = todo[i:i + a.chunk]
+        cmd = [sys.executable, "-X", "utf8", str(WARP), *part, "--lua", str(LUA), "--debugger", "-j", str(a.j),
+               "--out-dir", str(out)]
+        print(" ".join(part), flush=True)
+        if not a.dry:
+            subprocess.run(cmd, cwd=ROOT)
+    left = [s for s in todo if not done(out / s)]
     print(f"left: {len(left)}", " ".join(left[:40]), flush=True)
 
 
