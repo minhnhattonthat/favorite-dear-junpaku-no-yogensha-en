@@ -137,7 +137,10 @@ memory-card manager shows (it draws Japanese full-width characters only).
 Known issues
 ------------
 - A short name with an odd number of letters is followed by a space ("Ray , welcome"); names are
-  drawn as letter pairs. Even-length names read cleanly.
+  drawn as letter pairs. Hero and town names in fairy reports can show the same space
+  ("Cecia -sama"). On the name-entry field and the angel status panel some letter pairs show
+  a small gap ("Ravi el").
+- Staff-roll name readings are best guesses where no source was found.
 - Some fixed-size labels (battle name plates, the album, the heaven help bar) use shorter English
   forms than the dialogue.
 - Bug reports: https://github.com/minhnhattonthat/favorite-dear-junpaku-no-yogensha-en/issues

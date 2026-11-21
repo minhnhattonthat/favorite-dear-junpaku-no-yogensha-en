@@ -21,8 +21,9 @@ helps most.
 | Voice acting, songs | Left in Japanese (audio) |
 | Memory-card save titles in the console's card manager | Left in Japanese (the BIOS draws full-width characters only) |
 
-Known issues: names with an odd number of letters are followed by a space ("Ray , welcome"), and some fixed-size
-labels use shorter English forms; see [Issues](../../issues).
+Known issues: names with an odd number of letters are followed by a space ("Ray , welcome"; also hero and
+town names in fairy reports), some letter pairs show a small gap on the name-entry field and the angel status panel,
+and some fixed-size labels use shorter English forms; see [Issues](../../issues).
 
 ## What's here
 

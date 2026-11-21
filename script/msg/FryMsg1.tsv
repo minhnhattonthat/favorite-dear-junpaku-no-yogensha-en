@@ -27,7 +27,7 @@ FryMsg1.092E	＜勇者名＞様が{n}＜イベント名＞解決に失敗しち�
 FryMsg1.096C	天使様、事件が消えちゃいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなっちゃったみたいです。	Angel, the incident disappeared.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems{n}to be gone.	
 FryMsg1.09D4	天使様、事件が消えちゃいました。{wait}{clear}＜地方名＞で起こった＜イベント名＞は{n}なくなっちゃったみたいです。{wait}{clear}そこに向かっていた＜勇者名＞様は{n}間に合わなかったですぅ。	Angel, the incident disappeared.{wait}{clear}＜イベント名＞ in ＜地方名＞ seems{n}to be gone.{wait}{clear}＜勇者名＞-sama, who was headed there, didn't{n}make it in time!	
 FryMsg1.0A7A	＜勇者名＞様が{n}目的地＜目的地名＞に{n}到着しました。	＜勇者名＞-sama has arrived at ＜目的地名＞.	
-FryMsg1.0AB0	天使様、報告です。{wait}{clear}＜地方名＞を探索してみたんですけど、{n}なぁんにも見つけられなかったですぅ。	Angel, a report!{wait}{clear}I searched ＜地方名＞, but Florin couldn't{n}find a thiiing!	
+FryMsg1.0AB0	天使様、報告です。{wait}{clear}＜地方名＞を探索してみたんですけど、{n}なぁんにも見つけられなかったですぅ。	Angel, a report!{wait}{clear}Florin searched ＜地方名＞, but couldn't{n}find a thiiing!	
 FryMsg1.0B12	天使様、報告です。{wait}{clear}天使様のレベルが上がりそうですぅ。{n}天界へ戻られたときは、{n}ラファエル様のところへ行ってくださいね。	Angel, a report!{wait}{clear}Your level's about to go up!{n}When you go back to the Heavens,{n}go see Raphael-sama, okay?	
 FryMsg1.0B8E	天使様、大変ですぅ！{n}堕天使に魅入られた敵との戦いで、{n}＜勇者名＞様が命を落とされました……。{wait}{clear}すごく悲しいことなんですけど、{n}＜勇者名＞様の魂を取り戻すことは、{n}二度とできないですぅ……。	Angel, it's terrible! ＜勇者名＞-sama lost their{n}life fighting an enemy bewitched by a fallen{n}angel...{wait}{clear}It's super sad, but ＜勇者名＞-sama's soul can{n}never be brought back...	
 FryMsg1.0C50	天使様、勇者候補を見つけましたぁ！	Angel, Florin found a hero candidate!	
