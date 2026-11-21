@@ -2,11 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator (30th worker: MSG forcing COMPLETE (15130/15130 with waivers); ssbforce and the
-  scene runs stopped again by Claude Code for low system memory, resume commands in the 30th worker entry. NEXT, in
-  order: (d) resume ssbforce + cover scenes (incl. .end swap scenes), then `msgforce.py --ovl`, `--evx`, ssbforce
-  second pass, `unshown.py`, `textcover.py` exit 0 (30th worker entry); (e) final re-tour on the
-  final build + verdicts for changed sheets. 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
+- **Phase:** 8. QA in the emulator (31st worker: end 198/198, evx/msg/ovl complete with waivers, scenes done; ssb
+  left: ssbforce first pass (93 events) + second pass (46 events, `work/qa/ssbforce2`), commands in the 31st worker
+  entry. NEXT: finish ssb, `unshown.py`, `textcover.py` exit 0; (e) final re-tour on the final build + verdicts for
+  changed sheets (laed3 narration and ed.bin changed in 28908d3). 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
   pass so far was a SAMPLE (~90 rows + scans, not independent), so the full per-batch review below is owed before
   phase 9; phase 5 done 2026-11-21: marker build toured, width gate measured, torture line ok).
 - **Phase 7 review fixes (2026-11-21, 17th worker; `../.harness/reviews/...-phase7.md`):** Critical 1: ids repeat
@@ -420,6 +419,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `msgforce.py --evx --all --have <all dirs> --out-dir work/qa/evxforce`, ssbforce second pass (`--out-dir
   work/qa/ssbforce2 --base 30000`, first pass as --have), `unshown.py`, `textcover.py` over every dir. codex is still
   out of credits (2026-11-26), so the per-batch review stays owed for phase 9.
+- **Phase 8 progress (2026-11-21, 31st worker):** scene runner finished (`cover_scenes_todo2.txt`, 0 left);
+  `msgforce.py --ovl` (`work/qa/ovlforce`): ovl 360 reached + 356 waived = 716; `msgforce.py --evx --all`
+  (`work/qa/evxforce`, 8 groups): every EVX row reached or waived. **Endings:** the end_* swap scenes never read
+  the last 1-3 paragraphs because ed.bin draws a fixed line count per .end from a table (0x8009E42C; `docs/re/text.md`
+  §.end files) and the swap kept feed3's 35. Found on the way: English laed3 ran 2 lines past its count (would have
+  been cut in game; 2 paragraphs tightened) and the ORIGINAL cuts ceed3's sign-off (count 34, text to 38): D10,
+  `asm/ed.asm` sets 38. `tools/lint.py` now fails any English .end past its count; `tests/test_ed.py`.
+  `tools/debug/endcount.lua` gives swap scenes the swapped-in file's count: `work/qa/cover_end` = end 198/198.
+  Build cda8d409 (28908d3), check.py 81 passed + lint 0. Coverage now (`textcover.py work/qa/cover
+  work/qa/cover_scenes work/qa/ssbforce work/qa/msgforce work/qa/p8 work/qa/ovlforce work/qa/cover_end
+  work/qa/evxforce`): only ssb left (6082/9821; 3739 not reached). **Resume** (resumable; max 2 emulators):
+  `python -X utf8 tools/ssbforce.py --have work/qa/cover --have work/qa/cover_scenes --have work/qa/ssbforce -j 1`
+  (first pass, new events) and the second pass for events that ended "not done" (list
+  `work/qa/logs/ssb_retry.txt`): `tools/ssbforce.py --have <all dirs> --only <comma list> --out-dir
+  work/qa/ssbforce2 --base 30000 -j 1`. Add `work/qa/ssbforce2` to the textcover dirs.
 - **Next (phase 8):** remaining done-when items: (1) G15 FMV (G14 done, see above): English captions for DEMO.STR (3 caption cards in
   the opening) and the ENDING.STR staff roll + "悲しみはよろこびに場所を譲り 勇者は希望の槍となる──" caption (D3: credits
   in English; default plan re-encode the MDEC frames with English text, see Waiting on the user); (2) `inkbox.py` on
