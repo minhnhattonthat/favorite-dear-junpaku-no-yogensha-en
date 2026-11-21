@@ -71,19 +71,29 @@ def patch_exe(exe, heap=None):
     return out
 
 
-def patch_pro(pro):
-    """pro.bin (name entry) bytes -> with asm/pro.asm applied (default name Raviel, commit through name_commit)."""
+def patch_ovl(data, asm, var):
+    """overlay bytes -> with asm/<asm> applied (armips, -strequ <var>_IN / <var>_OUT); same size required."""
     import tempfile
     with tempfile.TemporaryDirectory() as td:
         src, dst = Path(td) / "in.bin", Path(td) / "out.bin"
-        src.write_bytes(pro)
-        r = subprocess.run([str(ARMIPS), "pro.asm", "-strequ", "PRO_IN", str(src), "-strequ", "PRO_OUT", str(dst)],
+        src.write_bytes(data)
+        r = subprocess.run([str(ARMIPS), asm, "-strequ", f"{var}_IN", str(src), "-strequ", f"{var}_OUT", str(dst)],
                            cwd=ASM, capture_output=True, text=True)
         if r.returncode:
-            sys.exit(f"armips failed on pro.asm ({r.returncode}):\n{r.stdout}\n{r.stderr}")
+            sys.exit(f"armips failed on {asm} ({r.returncode}):\n{r.stdout}\n{r.stderr}")
         out = dst.read_bytes()
-    assert len(out) == len(pro), "armips changed pro.bin's size"
+    assert len(out) == len(data), f"armips changed the size ({asm})"
     return out
+
+
+def patch_pro(pro):
+    """pro.bin (name entry) bytes -> with asm/pro.asm applied (default name Raviel, commit through name_commit)."""
+    return patch_ovl(pro, "pro.asm", "PRO")
+
+
+def patch_ed(ed):
+    """ed.bin (endings) bytes -> with asm/ed.asm applied (ceed3.end's line count covers its last paragraph)."""
+    return patch_ovl(ed, "ed.asm", "ED")
 
 
 def lkf_entry(archive, name):
@@ -237,6 +247,7 @@ def main():
         files[EXE_NAME] = patch_exe(files.get(EXE_NAME) or (TREE / EXE_NAME).read_bytes(), heap)
         bn = lkf_changes.setdefault("FD2BN", {})
         bn["pro.bin"] = patch_pro(bn.get("pro.bin") or lkf_entry("FD2BN", "pro.bin"))
+        bn["ed.bin"] = patch_ed(bn.get("ed.bin") or lkf_entry("FD2BN", "ed.bin"))
         out = build(stem, lkf_changes=lkf_changes, files=files)
         moved = sum(len(v) for v in heap.moved.values())
         print(f"{nrows} translated rows; {moved} EXE/overlay strings relocated, heap {len(heap.buf):#x} of "

@@ -119,7 +119,50 @@ def lint():
                 continue
             errs += [f"{where}: {e}" for e in row_errors(p, r, B.wrap_spec(p, r), bud)]
     errs += [f"keep_jp.txt: {i} is not an untranslated row" for i in keep if i not in used]
+    errs += end_line_errors()
     return errs, n
+
+
+ED_TABLE = 0x8009E42C - 0x8009B4B0     # ed.bin: per hero 8 words, (LKF index, line count) at words 2-7
+ED_FIX = {"ceed3.end": 38}             # asm/ed.asm
+
+
+def end_counts():
+    """{.end name: lines the ending draws} from the original ed.bin table, with asm/ed.asm's change."""
+    import struct
+    import lkf
+    tree = ROOT / "work" / "disc" / "tree"
+    ed = next(b for e, b in lkf.files((tree / "FD2BN.LKF").read_bytes()) if e["name"] == "ed.bin")
+    names = {e["index"]: e["name"] for e in lkf.parse((tree / "SSB_DATA.LKF").read_bytes())["entries"]}
+    out = {}
+    for h in range(7):
+        w = struct.unpack_from("<8I", ed, ED_TABLE + 32 * h)
+        for g in (2, 4, 6):
+            out[names[w[g]]] = w[g + 1]
+    out.update(ED_FIX)
+    return out
+
+
+def end_line_errors():
+    """The ending narration draws a fixed number of lines per .end (ed.bin table; docs/re/text.md §.end files):
+    lines past it are never read, so the English's last text line must be within the count."""
+    import lkf
+    tree = ROOT / "work" / "disc" / "tree"
+    if not (tree / "FD2BN.LKF").is_file():
+        return ["end/: work/disc/tree missing (run the build once to unpack the disc)"]
+    counts = end_counts()
+    files = {e["name"]: b for e, b in lkf.files((tree / "SSB_DATA.LKF").read_bytes())}
+    errs = []
+    for p in sorted((B.SCRIPT / "end").glob("*.tsv")):
+        name = p.stem + ".end"
+        last, shift = 0, 0
+        for r in extract.read_tsv(p):
+            start = files[name][:int(r["id"].split(".")[1], 16)].count(b"\r\n")
+            jl, el = r["jp"].count("{n}") + 1, (r["en"] or r["jp"]).count("{n}") + 1
+            last, shift = start + shift + el, shift + el - jl
+        if last > counts[name]:
+            errs.append(f"end/{name}: text runs to line {last}, the ending draws {counts[name]}")
+    return errs
 
 
 def main(argv):

@@ -109,6 +109,17 @@ boundaries (`tools/jtext.py`).
 
 Plain SJIS with CRLF line breaks, no header. 21 files (feed1-3, ceed, roed...).
 
+**How an ending draws one (verified 2026-11-21, `tools/debug/endlog.lua`, `endcount.lua`):** ed.bin (overlay 9)
+0x8009CC50 picks the file from a table at 0x8009E42C, 8 words per hero (fe cl lo ro ei la ce; state +0x100 = hero,
++0x102 = 2/4/6 for grade 1/2/3): word g = the .end's SSB_DATA LKF index (723-743), word g+1 = **the number of CRLF
+lines the narration draws** (stored at state +0x104; lines are read 2 bytes at a time, up to 22 units). Lines past
+the count are never read. Counts: 46 for grades 1/2 (loed1 47), grade 3: fe 35, cl/lo/ro 38, ei 39, la 34, ce 34.
+Every original file ends its text exactly at its count except ceed3 (text to line 38, count 34: the sign-off was
+cut in the original; D10 raises it to 38 with `asm/ed.asm`). Consequences: `tools/lint.py` fails an English .end
+whose text runs past its count (laed3 was 2 lines over); the `end_<x>ed<n>` swap scenes keep the CHOSEN file's
+count (feed3: 35), which cut every longer swapped-in file at ~35 lines, so coverage runs add
+`--lua tools/debug/endcount.lua` (sets the count to the swapped-in file's at 0x8009CD18).
+
 ## EXE and overlay strings: pointer forms
 
 `tools/retools.py` (dis / xref / va; copied from `../favorite-dear-en`). EXE: PS-X EXE, t_addr 0x80020000, file
