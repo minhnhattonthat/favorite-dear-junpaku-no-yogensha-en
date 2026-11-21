@@ -2,15 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release (33rd/34th worker, 2026-11-21: story pass DONE, all 13 chapters read JP+EN in-session
-  (codex out of credits), story gate 13/13; polish.md 0 open (fixed or waived for v1.0, waivers listed as known
-  issues in README.md and the release README.txt); jpcheck ok (tools/jpcheck.py is this project's jp_left);
-  visual tour and stress manifests waived for build 90b4fbfb (text-only changes since cda8d409, every row
-  batch-checked). `tools/release.py --version 1.0` passed EVERY gate (build, tests, smoke, jpcheck, 3 qa gates,
-  textcover, polish/README, debug off) and was killed by the host for low memory during the xdelta encode
-  (`-B 567495264`). NEXT: on a host with free memory (close other emulators), run
-  `python -X utf8 tools/release.py --version 1.0` (add `--force` if a partial release/ file is left) and confirm
-  release/Favorite_Dear_Junpaku_no_Yogensha_EN_v1.0.zip; publishing is the owner's call. Later-version work:
+- **Phase:** 9. Release DONE (35th worker, 2026-11-21): `tools/release.py --version 1.0` ran end to end, every
+  gate green (build, check, smoke, jpcheck, 3 qa gates, textcover 0 unwaived, polish/README, debug off), xdelta
+  re-apply matches the build (sha1 90b4fbfbf787e07f8aad73ce36d4892ebdb8e155, CRC32 8BF0C558). Output:
+  release/Favorite_Dear_Junpaku_no_Yogensha_EN_v1.0.zip (62,832,138 bytes: xdelta sha1 db189b3d... + README.txt).
+  NOT published: `gh release create` and repo visibility are the owner's call. Earlier (33rd/34th worker): story
+  pass 13/13, polish.md 0 open (waivers listed as known issues in README.md/README.txt), visual tour and stress
+  manifests waived for 90b4fbfb (text-only changes since cda8d409). Later-version work:
   pair-glyph name spacing ("Ray ,", "Cecia -sama", "Ravi el"), name entry opening on the Latin page, and an in-game
   check of rfd2.8009D958 (Titania on a fairy, written neutral). Story reports: work/qa/story/reports/. Phase 8: done
   2026-11-21, 32nd worker: final re-tour on cda8d409, gate 200/200 + stress 6/6, textcover exits 0. Phase 8 history: 26th worker: G14+G15 built into e2206009; choice indent fixed. 25th worker: G15 ending caption + staff roll written; 24th worker: G14 opening captions done; 23rd worker: all 191 sheets have verdicts, EvName overflow fixed, FMV/inkbox/stress/textcover left; 22nd: re-tour of the 17 graphics scenes, ~100 verdicts, help-bar fix; phase 7 done 2026-11-21, 16th worker; phase 6 done pending review: the reviewer
