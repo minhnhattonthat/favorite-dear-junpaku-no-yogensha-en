@@ -42,3 +42,5 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [x] ceev20/ceev20b/eiev14/Feev19/laev20/laev20b/loev21/loev21b/roev21 - the same Emperor ああ…… in the other routes (fixed: "Ahh...", overrides)
 - [x] loev13.044E - そうだな…… was "Perhaps..." where Rudiere agrees (fixed: "Yeah...", override)
 - [x] BTL_EVT2.4A61 - "Was it you?! You carried off the women!" (fixed: "So it was you?! You're the ones who took the women!")
+- [x] roev07.024E/07AA/0C1E, roev07b.0571 - the kidnapped child was "her" then "that boy... him" (fixed: neutral throughout)
+- [x] roev20_01.0519 - Fein's だとしたらなんだ？ was "And what if we are?" (fixed: "And what if I am?", override)

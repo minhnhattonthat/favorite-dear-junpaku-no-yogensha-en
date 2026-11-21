@@ -14,7 +14,7 @@ roev07.0190	あれ？{n}ロクス、どこに行くのですか？{n}待って�
 roev07.01CE	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
 roev07.01DE	え？{n}ロクス、どこに行くのですか？{n}待ってください！{wait}{clear}	Eh? Rocus, where are you going? Please wait!{wait}{clear}	
 roev07.023E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev07.024E	よかった。{n}ロクスのおかげであの子が助かって。{wait}{clear}無事に家にも帰せましたし……。{wait}{clear}それに、ロクスの対応が素早くて、{n}とても感心しました。{wait}{clear}	I'm so glad. That child was saved thanks to{n}you, Rocus.{wait}{clear}And we got her home safely...{wait}{clear}Besides, you acted so quickly. I was very{n}impressed.{wait}{clear}	
+roev07.024E	よかった。{n}ロクスのおかげであの子が助かって。{wait}{clear}無事に家にも帰せましたし……。{wait}{clear}それに、ロクスの対応が素早くて、{n}とても感心しました。{wait}{clear}	I'm so glad. That child was saved thanks to{n}you, Rocus.{wait}{clear}And we got the child home safely...{wait}{clear}Besides, you acted so quickly. I was very{n}impressed.{wait}{clear}	
 roev07.02E8	ロクス	Rocus	speaker
 roev07.02F2	そうか……？{wait}{clear}お前にだって{n}あの子を助ける力くらいあるだろう？{n}遅いんだよ……気づくのが……。{wait}{clear}	Was I...?{wait}{clear}You have the power to save that child too,{n}don't you? You were slow... to notice...{wait}{clear}	
 roev07.0356	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
@@ -45,7 +45,7 @@ roev07.06A6	あなたの言いたいことはわかります。{n}ですが、�
 roev07.070C	ロクス	Rocus	speaker
 roev07.0716	ふん……{n}君はお気楽でうらやましいよ……。{wait}{clear}やつらみたいなのがごろごろいるから、{n}こんな世界になってるんじゃないか。{wait}{clear}	Hmph... I envy how carefree you are...{wait}{clear}The world is the way it is because people{n}like them are everywhere, isn't it?{wait}{clear}	
 roev07.079A	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev07.07AA	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}	You're truly very kind at heart, aren't you?{wait}{clear}That child and her parents are grateful to{n}you. I'm sure your feelings reached them,{n}Rocus.{wait}{clear}	
+roev07.07AA	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}	You're truly very kind at heart, aren't you?{wait}{clear}The child and the parents are grateful to{n}you. I'm sure your feelings reached them,{n}Rocus.{wait}{clear}	
 roev07.0830	ロクス	Rocus	speaker
 roev07.083A	ふん……{n}真面目な顔してへんなこと言うな……。{wait}{clear}	Hmph... Don't say strange things with such a{n}serious face...{wait}{clear}	
 roev07.086C	ロクス	Rocus	speaker
@@ -66,7 +66,7 @@ roev07.0B1A	あなたの言いたいことはわかります。{n}ですが、�
 roev07.0B80	ロクス	Rocus	speaker
 roev07.0B8A	ふん……{n}君はお気楽でうらやましいよ……。{wait}{clear}やつらみたいなのがごろごろいるから、{n}こんな世界になってるんじゃないか。{wait}{clear}	Hmph... I envy how carefree you are...{wait}{clear}The world is the way it is because people{n}like them are everywhere, isn't it?{wait}{clear}	
 roev07.0C0E	＄＄＄＄＄＄	＄＄＄＄＄＄	speaker
-roev07.0C1E	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}	You're truly very kind at heart, aren't you?{wait}{clear}That child and her parents are grateful to{n}you. I'm sure your feelings reached them,{n}Rocus.{wait}{clear}	
+roev07.0C1E	あなたは本当はとてもやさしいのですね。{wait}{clear}あの子もご両親も、感謝していますよ。{n}ロクスのその気持ちは{n}きっと伝わっているはずです。{wait}{clear}	You're truly very kind at heart, aren't you?{wait}{clear}The child and the parents are grateful to{n}you. I'm sure your feelings reached them,{n}Rocus.{wait}{clear}	
 roev07.0CA4	ロクス	Rocus	speaker
 roev07.0CAE	ふん……{n}真面目な顔してへんなこと言うな……。{wait}{clear}	Hmph... Don't say strange things with such a{n}serious face...{wait}{clear}	
 roev07.0CE0	ロクス	Rocus	speaker
