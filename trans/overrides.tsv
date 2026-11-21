@@ -23,3 +23,5 @@ ssb/eiev23_01.tsv	eiev23_01.039A	Yes...{wait}{clear}	story pass ch06: confirms '
 evx/eiev30.tsv	eiev30.0697	Sonne, Mond, Stern! Kill her!!	story pass ch06: Ion's order against a female hero (Irene); family 'Kill him!!' fits only the male heroes (clev30, loev26)
 evx/laev25.tsv	laev25.0697	Sonne, Mond, Stern! Kill her!!	story pass ch07: Ion's order against a female hero (Leyla); family 'Kill him!!' fits only the male heroes (clev30, loev26)
 ssb/laev13.tsv	laev13.073C	Yes, let's.{wait}{clear}	story pass ch07: answers Leyla's 'Shall we head back to the inn?'; family 'Yes, it is.' answers a remark
+ssb/men2_Ei01.tsv	men2_Ei01.02FC	Yes, let's.{wait}{clear}	story pass ch09: answers Irene's 'let's talk for a bit'; family 'Yes, it is.' answers a question
+ssb/Y07ev_01.tsv	Y07ev_01.03AA	Yes, that's right.{wait}{clear}	story pass ch10: answers Cetus's 'my day off's not over yet, right?'; family 'Yes, it is.' reads as 'it is over'
