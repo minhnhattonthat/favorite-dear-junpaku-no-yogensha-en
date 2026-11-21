@@ -39,3 +39,6 @@ tag frame or draw long tags with narrower letters. Restore each full form if tha
 - [x] clev21.0549 - 帝国の魔女、天竜など、よみがえらせはせん misread as reviving the witch (fixed: "Witch of the Empire... I won't let you revive the Heavenly Dragon...")
 - [x] Feev19.09DE, clev20_01.0682, loev04_02.0BAA - ええ as "Of course." where a plain "Yes." is meant (fixed, overrides)
 - [x] clev21.09AD - the spellbound Emperor's ああ…… was "Yeah..." (fixed: "Ahh...", override)
+- [x] ceev20/ceev20b/eiev14/Feev19/laev20/laev20b/loev21/loev21b/roev21 - the same Emperor ああ…… in the other routes (fixed: "Ahh...", overrides)
+- [x] loev13.044E - そうだな…… was "Perhaps..." where Rudiere agrees (fixed: "Yeah...", override)
+- [x] BTL_EVT2.4A61 - "Was it you?! You carried off the women!" (fixed: "So it was you?! You're the ones who took the women!")

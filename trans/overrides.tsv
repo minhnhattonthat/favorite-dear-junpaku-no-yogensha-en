@@ -4,3 +4,13 @@ ssb/Feev19.tsv	Feev19.09DE	Yes.{wait}{clear}	story pass ch02: same "Michael-sama
 ssb/clev20_01.tsv	clev20_01.0682	Yes.{wait}{clear}	story pass ch03: same "Michael-sama?" / ええ exchange as tenkai.062E
 ssb/loev04_02.tsv	loev04_02.0BAA	Yes.{wait}{clear}	story pass ch03: ええ answers "first time you've seen my brother, right?"; "Of course." reads smug
 evx/clev21.tsv	clev21.09AD	Ahh...	story pass ch03: the spellbound Emperor's ああ…… as Serenis begins the rite is a moan, not the family's "Yeah..."
+evx/ceev20.tsv	ceev20.09CD	Ahh...	story pass: same rite as clev21.09AD (Cecia's route)
+evx/ceev20b.tsv	ceev20b.0A5B	Ahh...	story pass: same rite as clev21.09AD
+evx/eiev14.tsv	eiev14.0A38	Ahh...	story pass: same rite as clev21.09AD (Irene's route)
+evx/Feev19.tsv	Feev19.0A9B	Ahh...	story pass: same rite as clev21.09AD (Fein's route)
+evx/laev20.tsv	laev20.0A00	Ahh...	story pass: same rite as clev21.09AD (Leyla's route)
+evx/laev20b.tsv	laev20b.0AAA	Ahh...	story pass: same rite as clev21.09AD
+evx/loev21.tsv	loev21.0966	Ahh...	story pass: same rite as clev21.09AD (Rudiere's route)
+evx/loev21b.tsv	loev21b.09CE	Ahh...	story pass: same rite as clev21.09AD
+evx/roev21.tsv	roev21.09D8	Ahh...	story pass: same rite as clev21.09AD (Rocus's route)
+ssb/loev13.tsv	loev13.044E	Yeah...{wait}{clear}	story pass ch04: Rudiere agreeing with the angel; the family's "Perhaps..." (the Emperor's line) reads doubtful
